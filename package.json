@@ -1,0 +1,30 @@
+{
+  "name": "kidproofhotels",
+  "version": "0.1.0",
+  "private": true,
+  "description": "KidProof Hotels — editorial guide to family-friendly hotels, monetised with Stay22 (FR/EN, more to come)",
+  "scripts": {
+    "dev": "next dev -p 3027",
+    "build": "next build",
+    "start": "next start -p 3027",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@mdx-js/loader": "^3.1.0",
+    "@mdx-js/react": "^3.1.0",
+    "@next/mdx": "^16.2.4",
+    "next": "^16.2.4",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.13",
+    "@types/mdx": "^2.0.13",
+    "@types/node": "22.10.5",
+    "@types/react": "19.0.2",
+    "@types/react-dom": "19.0.2",
+    "tailwindcss": "^4.1.13",
+    "typescript": "5.7.2"
+  }
+}

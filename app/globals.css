@@ -1,0 +1,161 @@
+@import "tailwindcss";
+
+/* Public SEO content site. Warm, sunny, "family magazine" palette on a fixed
+   light scheme. Bold editorial typography + a controlled kid-core touch. */
+:root {
+  color-scheme: light;
+}
+
+@theme {
+  /* --- Colour: solar, joyful, warm. Far from OTA corporate blue. --- */
+  --color-ink: #3a2a33; /* deep warm plum-brown, body text */
+  --color-ink-soft: #5b4a51;
+  --color-paper: #fff8ef; /* luminous cream */
+  --color-paper-2: #ffeeda; /* warmer cream, section bands */
+  --color-cloud: #ffffff;
+
+  --color-sun: #ff9d1c; /* brand amber, the signature */
+  --color-sun-deep: #e9820a;
+  --color-coral: #ff6b4a; /* playful warm accent */
+  --color-sky: #2bb3c0; /* fresh teal, cools the palette */
+  --color-sky-deep: #1f8f9b;
+  --color-grass: #57b968; /* pros / positive */
+  --color-berry: #ef5da8; /* kid-core pop, sparingly */
+
+  --color-muted: #8a7a72;
+  --color-line: #f0e0cd;
+  --color-line-2: #ecd9c0;
+
+  /* --- Type: expressive serif display + friendly geometric body --- */
+  --font-display: var(--ff-display), Georgia, "Times New Roman", serif;
+  --font-body: var(--ff-body), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: ui-monospace, "SF Mono", Menlo, monospace;
+
+  --radius-xl2: 1.75rem;
+}
+
+/* Fraunces is a variable optical-size serif: let it flex expressively. */
+.font-display {
+  font-variation-settings: "opsz" 140, "SOFT" 40, "WONK" 1;
+  letter-spacing: -0.018em;
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes float-soft {
+  0%,
+  100% {
+    transform: translateY(0) rotate(var(--r, 0deg));
+  }
+  50% {
+    transform: translateY(-6px) rotate(var(--r, 0deg));
+  }
+}
+
+.animate-fade-up {
+  animation: fade-up 0.6s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+.animate-float {
+  animation: float-soft 5s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-fade-up,
+  .animate-float {
+    animation: none;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Sunny top glow behind the hero, painted once at the page root. */
+.page-canvas {
+  background:
+    radial-gradient(60rem 30rem at 82% -8%, rgba(255, 157, 28, 0.16), transparent 60%),
+    radial-gradient(50rem 26rem at 6% 4%, rgba(43, 179, 192, 0.12), transparent 55%);
+}
+
+/* --- Editorial longform (MDX guide bodies) --- */
+.longform {
+  font-size: 1.075rem;
+  line-height: 1.75;
+  color: var(--color-ink-soft);
+}
+.longform > * + * {
+  margin-top: 1.15rem;
+}
+.longform h2 {
+  font-family: var(--font-display);
+  font-size: clamp(1.5rem, 3.2vw, 2rem);
+  line-height: 1.12;
+  letter-spacing: -0.02em;
+  color: var(--color-ink);
+  margin-top: 2.6rem;
+  margin-bottom: 0.4rem;
+}
+.longform h3 {
+  font-family: var(--font-display);
+  font-size: 1.3rem;
+  color: var(--color-ink);
+  margin-top: 1.8rem;
+}
+.longform a {
+  color: var(--color-sky-deep);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1.5px;
+}
+.longform strong {
+  color: var(--color-ink);
+  font-weight: 700;
+}
+.longform ul,
+.longform ol {
+  padding-left: 1.15rem;
+}
+.longform li {
+  margin-top: 0.45rem;
+}
+.longform ul li::marker {
+  color: var(--color-sun-deep);
+}
+.longform blockquote {
+  border-left: 4px solid var(--color-sun);
+  background: var(--color-paper-2);
+  border-radius: 0 1rem 1rem 0;
+  padding: 0.9rem 1.2rem;
+  font-family: var(--font-display);
+  font-size: 1.2rem;
+  color: var(--color-ink);
+}
+
+/* Dotted "cut-out" frame used around the Stay22 MAP and feature cards. */
+.frame-dotted {
+  border: 2px dashed var(--color-line-2);
+}
+
+.kicker {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--color-sun-deep);
+}
