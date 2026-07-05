@@ -15,6 +15,7 @@ import type { PageEntry } from "@/lib/types";
 import { DEST_BY_KEY } from "@/data/destinations";
 import { GUIDE_BY_KEY } from "@/data/guides";
 import { HOTEL_BY_KEY } from "@/data/hotels";
+import { AMENITY_BY_ID } from "@/data/amenities";
 import { guideBody } from "@/data/guide-content";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
@@ -24,7 +25,13 @@ import { DestinationPage } from "@/components/templates/DestinationPage";
 import { HotelPage } from "@/components/templates/HotelPage";
 import { GuidesIndex } from "@/components/templates/GuidesIndex";
 import { GuidePage } from "@/components/templates/GuidePage";
+import { AmenitiesIndex } from "@/components/templates/AmenitiesIndex";
+import { AmenityPage } from "@/components/templates/AmenityPage";
 import { MethodPage } from "@/components/templates/MethodPage";
+
+function amenityFromKey(key: string) {
+  return AMENITY_BY_ID.get(key.replace(/^amenity-/, "") as never);
+}
 
 export const dynamicParams = false;
 
@@ -68,6 +75,12 @@ function metaFor(
       const g = GUIDE_BY_KEY.get(entry.key)!;
       return { title: g.title[locale], description: g.dek[locale] };
     }
+    case "amenities-index":
+      return { title: dict.browse.amenitiesIndexTitle, description: dict.browse.amenitiesIndexDek };
+    case "amenity": {
+      const a = amenityFromKey(entry.key)!;
+      return { title: a.h1[locale], description: a.short[locale] };
+    }
   }
 }
 
@@ -107,6 +120,10 @@ export default async function Page({
         {entry.kind === "home" && <HomePage locale={loc} dict={dict} />}
         {entry.kind === "destinations-index" && <DestinationsIndex locale={loc} dict={dict} />}
         {entry.kind === "guides-index" && <GuidesIndex locale={loc} dict={dict} />}
+        {entry.kind === "amenities-index" && <AmenitiesIndex locale={loc} dict={dict} />}
+        {entry.kind === "amenity" && (
+          <AmenityPage amenity={amenityFromKey(entry.key)!} locale={loc} dict={dict} />
+        )}
         {entry.kind === "method" && <MethodPage locale={loc} dict={dict} />}
         {entry.kind === "destination" && (
           <DestinationPage dest={DEST_BY_KEY.get(entry.key)!} entry={entry} locale={loc} dict={dict} />

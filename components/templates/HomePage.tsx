@@ -6,11 +6,16 @@ import { DESTINATIONS } from "@/data/destinations";
 import { GUIDES } from "@/data/guides";
 import { getByKey, pageHref } from "@/lib/registry";
 import { CRITERIA } from "@/lib/score";
+import { AMENITIES } from "@/data/amenities";
 import { SectionHeading } from "@/components/SectionHeading";
 import { DestinationCard } from "@/components/DestinationCard";
 import { GuideCard } from "@/components/GuideCard";
+import { AmenityCard } from "@/components/AmenityCard";
 import { Photo } from "@/components/Photo";
 import { Star, Burst } from "@/components/Doodles";
+import { Finder } from "@/components/Finder";
+import { TrustBar } from "@/components/blocks/TrustBar";
+import { HowItWorks } from "@/components/blocks/HowItWorks";
 
 function href(key: string, locale: Locale): string {
   const e = getByKey(key);
@@ -19,6 +24,15 @@ function href(key: string, locale: Locale): string {
 
 export function HomePage({ locale, dict }: { locale: Locale; dict: Dict }) {
   const h = dict.home;
+
+  const destOptions = DESTINATIONS.map((d) => ({
+    value: pageHref(getByKey(d.key)!, locale),
+    label: d.name[locale],
+  }));
+  const amenityOptions = AMENITIES.map((a) => ({
+    value: pageHref(getByKey(`amenity-${a.id}`)!, locale),
+    label: `${a.emoji}  ${a.label[locale]}`,
+  }));
 
   return (
     <>
@@ -79,6 +93,23 @@ export function HomePage({ locale, dict }: { locale: Locale; dict: Dict }) {
             </div>
           </div>
         </div>
+
+        {/* Combined finder */}
+        <div className="mx-auto max-w-6xl px-5 pb-4 pt-6">
+          <Finder
+            dict={dict}
+            locale={locale}
+            destinations={destOptions}
+            amenities={amenityOptions}
+            amenityHref={href("amenities-index", locale)}
+            destHref={href("destinations-index", locale)}
+          />
+        </div>
+      </section>
+
+      {/* Trust bar */}
+      <section className="mx-auto max-w-6xl px-5 py-8">
+        <TrustBar dict={dict} />
       </section>
 
       {/* Featured destinations, bento */}
@@ -96,6 +127,25 @@ export function HomePage({ locale, dict }: { locale: Locale; dict: Dict }) {
         <div className="grid auto-rows-fr gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {DESTINATIONS.map((d, i) => (
             <DestinationCard key={d.key} dest={d} locale={locale} dict={dict} large={i === 0} />
+          ))}
+        </div>
+      </section>
+
+      {/* Browse by what matters (amenities) */}
+      <section className="mx-auto max-w-6xl px-5 py-8">
+        <SectionHeading
+          kicker={dict.browse.amenitiesTitle}
+          title={dict.browse.amenitiesTitle}
+          sub={dict.browse.amenitiesDek}
+          action={
+            <Link href={href("amenities-index", locale)} className="text-sm font-semibold text-sky-deep hover:text-ink">
+              {dict.common.exploreAll} →
+            </Link>
+          }
+        />
+        <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+          {AMENITIES.map((a) => (
+            <AmenityCard key={a.id} amenity={a} locale={locale} dict={dict} />
           ))}
         </div>
       </section>
@@ -133,6 +183,9 @@ export function HomePage({ locale, dict }: { locale: Locale; dict: Dict }) {
           </div>
         </div>
       </section>
+
+      {/* How it works */}
+      <HowItWorks dict={dict} />
 
       {/* Latest guides */}
       <section className="mx-auto max-w-6xl px-5 py-16">

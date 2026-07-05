@@ -1,3 +1,4 @@
+import { AMENITIES } from "@/data/amenities";
 import { DESTINATIONS } from "@/data/destinations";
 import { GUIDES } from "@/data/guides";
 import { HOTELS } from "@/data/hotels";
@@ -17,6 +18,12 @@ const FIXED: PageEntry[] = [
     key: "guides-index",
     kind: "guides-index",
     slug: { en: "guides", fr: "guides" },
+    related: [],
+  },
+  {
+    key: "amenities-index",
+    kind: "amenities-index",
+    slug: { en: "family-hotels", fr: "hotels-famille" },
     related: [],
   },
   {
@@ -52,6 +59,14 @@ export const REGISTRY: PageEntry[] = [
       kind: "guide",
       slug: g.slug,
       related: g.related,
+    }),
+  ),
+  ...AMENITIES.map(
+    (a): PageEntry => ({
+      key: `amenity-${a.id}`,
+      kind: "amenity",
+      slug: a.slug,
+      related: [],
     }),
   ),
 ];

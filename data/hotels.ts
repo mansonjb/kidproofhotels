@@ -1,5 +1,6 @@
 import type { Hotel } from "@/lib/types";
 import { HOTEL_CONTENT } from "@/data/hotel-content";
+import { HOTEL_AMENITIES, type AmenityId } from "@/data/amenities";
 
 // SEED hotels for the MVP. Names and details are illustrative placeholders so we
 // can build and test the template. Replace with verified properties (and real
@@ -426,10 +427,21 @@ export const HOTELS: Hotel[] = [
 for (const h of HOTELS) {
   const extra = HOTEL_CONTENT[h.key];
   if (extra) Object.assign(h, extra);
+  h.amenities = HOTEL_AMENITIES[h.key] ?? [];
 }
 
 export const HOTEL_BY_KEY = new Map(HOTELS.map((h) => [h.key, h]));
 
 export function hotelsInDestination(destinationKey: string): Hotel[] {
   return HOTELS.filter((h) => h.destinationKey === destinationKey);
+}
+
+/** All hotels offering a given amenity, best KidProof Score first. */
+export function hotelsWithAmenity(id: AmenityId): Hotel[] {
+  return HOTELS.filter((h) => h.amenities?.includes(id));
+}
+
+/** How many hotels offer each amenity (for browse-card counts). */
+export function amenityCount(id: AmenityId): number {
+  return HOTELS.reduce((n, h) => n + (h.amenities?.includes(id) ? 1 : 0), 0);
 }

@@ -16,6 +16,7 @@ import { Stay22Map } from "@/components/Stay22Map";
 import { HotelCard } from "@/components/HotelCard";
 import { AffiliateLink } from "@/components/AffiliateLink";
 import { PhotoGallery } from "@/components/Photo";
+import { AmenityChips } from "@/components/AmenityChips";
 import { JsonLd } from "@/components/JsonLd";
 import { Callout } from "@/components/Callout";
 import { Verdict } from "@/components/blocks/Verdict";
@@ -67,6 +68,11 @@ export function HotelPage({
           <PriceTag tier={hotel.priceTier} from={hotel.priceFrom} dict={dict} />
         </div>
         <p className="mt-5 max-w-3xl text-lg leading-relaxed text-ink-soft">{hotel.intro[locale]}</p>
+        {hotel.amenities && (
+          <div className="mt-5">
+            <AmenityChips ids={hotel.amenities} locale={locale} />
+          </div>
+        )}
       </header>
 
       {hotel.photos && hotel.photos.length > 0 && (

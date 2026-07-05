@@ -1,5 +1,6 @@
 import type { Locale } from "@/lib/i18n";
 import type { ImgKey } from "@/lib/images";
+import type { AmenityId } from "@/data/amenities";
 
 /** A short string translated into every supported locale. */
 export type L10n = Record<Locale, string>;
@@ -86,6 +87,7 @@ export type Hotel = {
   cons: L10nList;
   clubFree?: boolean; // kids club free vs paid (a real deal-breaker)
   related: string[];
+  amenities?: AmenityId[];
   // Rich content
   photos?: ImgKey[];
   verdict?: L10n; // one-line editorial take
@@ -121,6 +123,8 @@ export type PageKind =
   | "hotel"
   | "guides-index"
   | "guide"
+  | "amenities-index"
+  | "amenity"
   | "method";
 
 export type PageEntry = {

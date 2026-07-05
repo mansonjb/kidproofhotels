@@ -61,6 +61,11 @@ export function Footer({ locale, dict }: { locale: Locale; dict: Dict }) {
                 </Link>
               </li>
               <li>
+                <Link href={href("amenities-index", locale)} className="text-ink-soft hover:text-ink">
+                  {dict.nav.amenities}
+                </Link>
+              </li>
+              <li>
                 <Link href={href("destinations-index", locale)} className="text-ink-soft hover:text-ink">
                   {dict.nav.destinations}
                 </Link>

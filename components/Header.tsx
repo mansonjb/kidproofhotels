@@ -7,6 +7,7 @@ import { LanguageSwitcher } from "@/components/LanguageSwitcher";
 
 function navLinks(locale: Locale, dict: Dict) {
   return [
+    { key: "amenities-index", label: dict.nav.amenities },
     { key: "destinations-index", label: dict.nav.destinations },
     { key: "guides-index", label: dict.nav.guides },
     { key: "method", label: dict.nav.method },

@@ -5,6 +5,7 @@ export type Dict = {
   brandTagline: string;
   nav: {
     destinations: string;
+    amenities: string;
     guides: string;
     method: string;
     menu: string;
@@ -85,6 +86,27 @@ export type Dict = {
     tableClub: string;
     tablePrice: string;
     planStay: string; // "Plan your stay"
+  };
+  browse: {
+    amenitiesTitle: string; // "Browse by what matters"
+    amenitiesDek: string;
+    amenitiesIndexTitle: string;
+    amenitiesIndexDek: string;
+    hotelsCount: string; // "{count} hotels"
+    explore: string;
+    finderKicker: string;
+    finderTitle: string;
+    finderWhere: string;
+    finderWhat: string;
+    finderAnyDest: string;
+    finderAnyAmenity: string;
+    finderGo: string;
+    alsoGoodFor: string; // amenity chips heading
+    ourPicksWith: string; // "Our picks with {name}"
+    howKicker: string;
+    howTitle: string;
+    steps: { t: string; d: string }[];
+    trust: { icon: string; t: string; d: string }[];
   };
   home: {
     heroKicker: string;
