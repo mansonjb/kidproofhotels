@@ -1,5 +1,6 @@
 import type { Dict } from "@/data/i18n/ui";
 import type { Locale } from "@/lib/i18n";
+import { fill } from "@/lib/i18n";
 import type { Destination, PageEntry } from "@/lib/types";
 import { getByKey, pageHref } from "@/lib/registry";
 import { HOTEL_BY_KEY } from "@/data/hotels";
@@ -7,6 +8,12 @@ import { Breadcrumb } from "@/components/Breadcrumb";
 import { Stay22Map } from "@/components/Stay22Map";
 import { HotelCard } from "@/components/HotelCard";
 import { RelatedPages } from "@/components/RelatedPages";
+import { Photo } from "@/components/Photo";
+import { Callout } from "@/components/Callout";
+import { StatStrip } from "@/components/blocks/StatStrip";
+import { Activities } from "@/components/blocks/Activities";
+import { ComparisonTable } from "@/components/blocks/ComparisonTable";
+import { Faq } from "@/components/blocks/Faq";
 
 function CheckList({ items, accent }: { items: string[]; accent: string }) {
   return (
@@ -64,6 +71,18 @@ export function DestinationPage({
         <p className="mt-5 text-lg leading-relaxed text-ink-soft">{dest.intro[locale]}</p>
       </header>
 
+      {dest.photos && dest.photos[0] && (
+        <div className="mt-8 aspect-[16/8] overflow-hidden rounded-[var(--radius-xl2)] sm:aspect-[16/6]">
+          <Photo img={dest.photos[0]} alt={dest.name[locale]} w={1200} h={520} className="h-full w-full object-cover" eager />
+        </div>
+      )}
+
+      {dest.stats && (
+        <div className="mt-8">
+          <StatStrip stats={dest.stats} locale={locale} />
+        </div>
+      )}
+
       <Stay22Map
         geo={dest.geo}
         label={`${dest.name[locale]}, ${dest.country[locale]}`}
@@ -71,12 +90,18 @@ export function DestinationPage({
         dict={dict}
       />
 
-      <section className="mt-12">
+      <section className="mt-4">
         <h2 className="mb-5 font-display text-3xl text-ink">{dict.destination.whyKids}</h2>
         <CheckList items={dest.whyKids[locale]} accent={dest.accent} />
       </section>
 
-      <section className="mt-12">
+      {dest.goodToKnow && (
+        <Callout variant="headsup" title={dict.blocks.goodToKnow}>
+          {dest.goodToKnow[locale]}
+        </Callout>
+      )}
+
+      <section className="mt-10">
         <h2 className="mb-5 font-display text-3xl text-ink">{dict.destination.bestAreas}</h2>
         <ol className="space-y-3">
           {dest.bestAreas[locale].map((t, i) => (
@@ -97,6 +122,38 @@ export function DestinationPage({
           ))}
         </div>
       </section>
+
+      <div className="mt-12">
+        <ComparisonTable
+          hotels={hotels}
+          title={fill(dict.blocks.compare, { name: dest.name[locale] })}
+          dict={dict}
+          locale={locale}
+        />
+      </div>
+
+      {dest.parentTip && (
+        <Callout variant="hack" title={dict.blocks.parentTip}>
+          {dest.parentTip[locale]}
+        </Callout>
+      )}
+
+      {dest.activities && (
+        <div className="mt-12">
+          <Activities
+            activities={dest.activities}
+            title={fill(dict.blocks.activitiesIn, { name: dest.name[locale] })}
+            dict={dict}
+            locale={locale}
+          />
+        </div>
+      )}
+
+      {dest.faqs && (
+        <div className="mt-12">
+          <Faq faqs={dest.faqs} dict={dict} locale={locale} />
+        </div>
+      )}
 
       <RelatedPages entry={entry} locale={locale} dict={dict} title={dict.common.exploreAll} />
 

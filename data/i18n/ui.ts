@@ -64,6 +64,28 @@ export type Dict = {
     indexDek: string;
     all: string;
   };
+  blocks: {
+    atAGlance: string;
+    activitiesNear: string; // "Family activities nearby"
+    activitiesIn: string; // "Family things to do in {name}"
+    sampleDay: string; // "A day here with kids"
+    ageSuitability: string; // "Is it right for your kids?"
+    ageGreat: string; // "Great fit"
+    ageOkay: string; // "Works with a plan"
+    faq: string; // "Parents also ask"
+    compare: string; // "Compare our picks in {name}"
+    verdict: string; // "Our verdict"
+    parentTip: string; // "Parent hack"
+    goodToKnow: string; // "Heads up"
+    forAges: string; // "For"
+    duration: string; // "Time"
+    tableHotel: string;
+    tableScore: string;
+    tableRooms: string;
+    tableClub: string;
+    tablePrice: string;
+    planStay: string; // "Plan your stay"
+  };
   home: {
     heroKicker: string;
     heroTitleA: string; // rendered around an accent word

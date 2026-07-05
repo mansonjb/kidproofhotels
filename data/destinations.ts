@@ -1,4 +1,5 @@
 import type { Destination } from "@/lib/types";
+import { DEST_CONTENT } from "@/data/destination-content";
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -148,5 +149,11 @@ export const DESTINATIONS: Destination[] = [
     related: ["algarve", "guide-allinclusive-europe", "guide-waterslide-hotels"],
   },
 ];
+
+// Merge rich content (photos, stats, activities, FAQs, tips) onto destinations.
+for (const d of DESTINATIONS) {
+  const extra = DEST_CONTENT[d.key];
+  if (extra) Object.assign(d, extra);
+}
 
 export const DEST_BY_KEY = new Map(DESTINATIONS.map((d) => [d.key, d]));

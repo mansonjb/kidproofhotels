@@ -1,4 +1,5 @@
 import type { Locale } from "@/lib/i18n";
+import type { ImgKey } from "@/lib/images";
 
 /** A short string translated into every supported locale. */
 export type L10n = Record<Locale, string>;
@@ -6,6 +7,21 @@ export type L10n = Record<Locale, string>;
 export type L10nList = Record<Locale, string[]>;
 
 export type Geo = { lat: number; lng: number; zoom?: number };
+
+/** A quick fact for the "at a glance" panel. */
+export type Fact = { icon: string; label: L10n; value: L10n };
+/** A family activity near a hotel or in a destination. */
+export type Activity = {
+  emoji: string;
+  name: L10n;
+  detail: L10n;
+  ages: AgeBand[];
+  time: L10n; // e.g. "Half day", "2h"
+};
+/** A step in a sample day timeline. */
+export type DayStep = { time: string; title: L10n; note: L10n };
+export type Faq = { q: L10n; a: L10n };
+export type Stat = { value: string; label: L10n };
 
 /** Age bands a family travels with. Powers the (rare, valued) age filter. */
 export type AgeBand = "baby" | "toddler" | "kid" | "teen";
@@ -42,6 +58,13 @@ export type Destination = {
   accent: string; // hex without leading #, for accent theming
   hotelKeys: string[]; // ordered picks shown on the destination page
   related: string[]; // related page keys (guides, destinations)
+  // Rich content
+  photos?: ImgKey[];
+  stats?: Stat[];
+  activities?: Activity[];
+  faqs?: Faq[];
+  parentTip?: L10n;
+  goodToKnow?: L10n;
 };
 
 export type Hotel = {
@@ -63,6 +86,15 @@ export type Hotel = {
   cons: L10nList;
   clubFree?: boolean; // kids club free vs paid (a real deal-breaker)
   related: string[];
+  // Rich content
+  photos?: ImgKey[];
+  verdict?: L10n; // one-line editorial take
+  parentTip?: L10n; // the insider move
+  atAGlance?: Fact[];
+  activities?: Activity[];
+  sampleDay?: DayStep[];
+  ageNotes?: Partial<Record<AgeBand, L10n>>;
+  faqs?: Faq[];
 };
 
 export type Guide = {
@@ -76,6 +108,7 @@ export type Guide = {
   updated: string; // ISO date
   readMinutes: number;
   related: string[];
+  hero?: ImgKey;
   /** Optional booking-intent MAP anchored on this guide. */
   geo?: Geo;
   geoLabel?: L10n;

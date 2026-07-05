@@ -7,6 +7,7 @@ import { DEST_BY_KEY } from "@/data/destinations";
 import { grade, kidProofScore } from "@/lib/score";
 import { getByKey, pageHref } from "@/lib/registry";
 import { Postcard } from "@/components/Postcard";
+import { Photo } from "@/components/Photo";
 import { PriceTag } from "@/components/AgeChips";
 
 const CHIP: Record<string, string> = {
@@ -37,7 +38,19 @@ export function HotelCard({
       className="group flex flex-col overflow-hidden rounded-[var(--radius-xl2)] border border-line bg-cloud transition-all hover:-translate-y-1 hover:border-line-2 hover:shadow-[0_18px_40px_-24px_rgba(58,42,51,0.4)]"
     >
       <div className="relative">
-        <Postcard emoji={dest?.emoji ?? "🏨"} accent={dest?.accent ?? "ff9d1c"} />
+        <div className="aspect-[4/3] overflow-hidden">
+          {hotel.photos?.[0] ? (
+            <Photo
+              img={hotel.photos[0]}
+              alt={hotel.name}
+              w={560}
+              h={420}
+              className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
+            />
+          ) : (
+            <Postcard emoji={dest?.emoji ?? "🏨"} accent={dest?.accent ?? "ff9d1c"} />
+          )}
+        </div>
         <div className="absolute right-3 top-3 flex items-center gap-2 rounded-full bg-cloud/95 px-2.5 py-1 shadow-sm backdrop-blur">
           <span className="font-display text-lg leading-none text-ink">{score}</span>
           <span className={`rounded-full px-2 py-0.5 text-[9px] font-bold uppercase tracking-wide ${CHIP[g.band]}`}>

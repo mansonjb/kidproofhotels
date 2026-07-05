@@ -5,6 +5,7 @@ import type { Guide } from "@/lib/types";
 export const GUIDES: Guide[] = [
   {
     key: "guide-connecting-rooms",
+    hero: "roomCozy",
     slug: {
       en: "connecting-rooms-family-hotels",
       fr: "chambres-communicantes-hotels-famille",
@@ -26,6 +27,7 @@ export const GUIDES: Guide[] = [
   },
   {
     key: "guide-baby-checklist",
+    hero: "babyHand",
     slug: {
       en: "travelling-with-a-baby-hotel-checklist",
       fr: "voyager-avec-un-bebe-checklist-hotel",
@@ -47,6 +49,7 @@ export const GUIDES: Guide[] = [
   },
   {
     key: "guide-kids-club-free",
+    hero: "kidsFootball",
     slug: {
       en: "free-vs-paid-kids-clubs",
       fr: "clubs-enfants-gratuits-ou-payants",
@@ -68,6 +71,7 @@ export const GUIDES: Guide[] = [
   },
   {
     key: "guide-allinclusive-europe",
+    hero: "resortLoungers",
     slug: {
       en: "best-all-inclusive-family-resorts-europe",
       fr: "meilleurs-resorts-all-inclusive-famille-europe",
@@ -89,6 +93,7 @@ export const GUIDES: Guide[] = [
   },
   {
     key: "guide-waterslide-hotels",
+    hero: "poolCabanas",
     slug: {
       en: "hotels-with-water-slides",
       fr: "hotels-avec-toboggans-aquatiques",

@@ -1,4 +1,5 @@
 import type { Hotel } from "@/lib/types";
+import { HOTEL_CONTENT } from "@/data/hotel-content";
 
 // SEED hotels for the MVP. Names and details are illustrative placeholders so we
 // can build and test the template. Replace with verified properties (and real
@@ -419,6 +420,13 @@ export const HOTELS: Hotel[] = [
     related: ["costa-aqua-resort", "lisbon-parque-suites"],
   },
 ];
+
+// Merge the rich editorial content (photos, at-a-glance, activities, sample day,
+// age notes, FAQs, verdict, tip) onto each hotel record.
+for (const h of HOTELS) {
+  const extra = HOTEL_CONTENT[h.key];
+  if (extra) Object.assign(h, extra);
+}
 
 export const HOTEL_BY_KEY = new Map(HOTELS.map((h) => [h.key, h]));
 

@@ -8,6 +8,7 @@ import { Breadcrumb } from "@/components/Breadcrumb";
 import { AgeChips } from "@/components/AgeChips";
 import { Stay22Map } from "@/components/Stay22Map";
 import { RelatedPages } from "@/components/RelatedPages";
+import { Photo } from "@/components/Photo";
 
 export function GuidePage({
   guide,
@@ -57,6 +58,12 @@ export function GuidePage({
           </span>
         </div>
       </header>
+
+      {guide.hero && (
+        <div className="mt-8 aspect-[16/8] overflow-hidden rounded-[var(--radius-xl2)]">
+          <Photo img={guide.hero} alt={guide.title[locale]} w={1000} h={480} className="h-full w-full object-cover" eager />
+        </div>
+      )}
 
       <div className="longform mt-10">{Body ? <Body /> : null}</div>
 

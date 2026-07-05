@@ -9,6 +9,8 @@ import { CRITERIA } from "@/lib/score";
 import { SectionHeading } from "@/components/SectionHeading";
 import { DestinationCard } from "@/components/DestinationCard";
 import { GuideCard } from "@/components/GuideCard";
+import { Photo } from "@/components/Photo";
+import { Star, Burst } from "@/components/Doodles";
 
 function href(key: string, locale: Locale): string {
   const e = getByKey(key);
@@ -22,12 +24,11 @@ export function HomePage({ locale, dict }: { locale: Locale; dict: Dict }) {
     <>
       {/* Hero */}
       <section className="relative overflow-hidden">
-        <div className="mx-auto max-w-6xl px-5 pb-10 pt-14 sm:pt-20">
+        <div className="mx-auto grid max-w-6xl gap-10 px-5 pb-10 pt-14 sm:pt-20 lg:grid-cols-[1.05fr_0.95fr] lg:items-center">
           <div className="relative">
-            <span className="animate-float absolute -top-4 right-6 hidden text-4xl sm:block" style={{ ["--r" as string]: "8deg" }}>🏖️</span>
-            <span className="animate-float absolute right-24 top-24 hidden text-3xl lg:block" style={{ ["--r" as string]: "-10deg" }}>🍦</span>
+            <Star className="absolute -left-6 top-2 hidden h-7 w-7 text-sun lg:block" />
             <p className="kicker mb-4">{h.heroKicker}</p>
-            <h1 className="max-w-4xl font-display text-5xl leading-[1.02] text-ink sm:text-6xl lg:text-7xl">
+            <h1 className="font-display text-5xl leading-[1.02] text-ink sm:text-6xl lg:text-7xl">
               {h.heroTitleA}{" "}
               <span className="relative whitespace-nowrap text-sun-deep">
                 {h.heroTitleAccent}
@@ -37,9 +38,7 @@ export function HomePage({ locale, dict }: { locale: Locale; dict: Dict }) {
               </span>{" "}
               {h.heroTitleB}
             </h1>
-            <p className="mt-6 max-w-xl text-lg leading-relaxed text-ink-soft">
-              {h.heroSub}
-            </p>
+            <p className="mt-6 max-w-xl text-lg leading-relaxed text-ink-soft">{h.heroSub}</p>
             <div className="mt-8 flex flex-wrap items-center gap-3">
               <Link
                 href={href("destinations-index", locale)}
@@ -53,6 +52,30 @@ export function HomePage({ locale, dict }: { locale: Locale; dict: Dict }) {
               >
                 {h.ctaSecondary}
               </Link>
+            </div>
+          </div>
+
+          {/* Photo collage with a floating score sticker */}
+          <div className="relative">
+            <div className="grid grid-cols-2 gap-3">
+              <div className="mt-8 overflow-hidden rounded-[var(--radius-xl2)] rounded-tr-none shadow-[0_20px_50px_-30px_rgba(58,42,51,0.6)]">
+                <Photo img="poolPalms" alt="Family resort pool" w={420} h={520} className="h-full w-full object-cover" eager />
+              </div>
+              <div className="space-y-3">
+                <div className="overflow-hidden rounded-[var(--radius-xl2)] rounded-bl-none">
+                  <Photo img="kidsFootball" alt="Kids playing on holiday" w={420} h={250} className="h-full w-full object-cover" eager />
+                </div>
+                <div className="overflow-hidden rounded-[var(--radius-xl2)]">
+                  <Photo img="algarveCliffs" alt="Family beach" w={420} h={250} className="h-full w-full object-cover" />
+                </div>
+              </div>
+            </div>
+            <div className="animate-float absolute -bottom-4 left-1/2 flex -translate-x-1/2 items-center gap-2 rounded-2xl border border-line bg-cloud px-4 py-2.5 shadow-lg">
+              <span className="grid h-9 w-9 place-items-center rounded-full bg-sun font-display text-lg text-ink">96</span>
+              <span className="text-xs font-bold uppercase tracking-wide text-ink">
+                {dict.score.label}
+                <Burst className="ml-1 inline h-3 w-3 text-sun-deep" />
+              </span>
             </div>
           </div>
         </div>

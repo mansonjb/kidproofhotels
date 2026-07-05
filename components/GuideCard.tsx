@@ -5,6 +5,7 @@ import { fill } from "@/lib/i18n";
 import type { Guide } from "@/lib/types";
 import { getByKey, pageHref } from "@/lib/registry";
 import { AgeChips } from "@/components/AgeChips";
+import { Photo } from "@/components/Photo";
 
 export function GuideCard({
   guide,
@@ -21,14 +22,26 @@ export function GuideCard({
   return (
     <Link
       href={pageHref(entry, locale)}
-      className="group flex flex-col gap-3 rounded-[var(--radius-xl2)] border border-line bg-cloud p-6 transition-all hover:-translate-y-1 hover:shadow-[0_18px_40px_-24px_rgba(58,42,51,0.4)]"
+      className="group flex flex-col overflow-hidden rounded-[var(--radius-xl2)] border border-line bg-cloud transition-all hover:-translate-y-1 hover:shadow-[0_18px_40px_-24px_rgba(58,42,51,0.4)]"
     >
-      <span
-        className="grid h-14 w-14 place-items-center rounded-2xl text-3xl"
-        style={{ background: `#${guide.accent}22` }}
-      >
-        {guide.emoji}
-      </span>
+      {guide.hero && (
+        <div className="relative aspect-[16/9] overflow-hidden">
+          <Photo
+            img={guide.hero}
+            alt={guide.title[locale]}
+            w={560}
+            h={315}
+            className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
+          />
+          <span
+            className="absolute left-3 top-3 grid h-11 w-11 place-items-center rounded-2xl text-2xl shadow-sm"
+            style={{ background: `#${guide.accent}` }}
+          >
+            {guide.emoji}
+          </span>
+        </div>
+      )}
+      <div className="flex flex-1 flex-col gap-3 p-6">
       <h3 className="font-display text-xl leading-tight text-ink">
         {guide.title[locale]}
       </h3>
@@ -40,6 +53,7 @@ export function GuideCard({
         <span className="shrink-0 font-mono text-[11px] text-muted">
           {fill(dict.common.readTime, { min: String(guide.readMinutes) })}
         </span>
+      </div>
       </div>
     </Link>
   );
