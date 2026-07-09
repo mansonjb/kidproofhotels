@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 
 // Newer destinations pull their editorial content from the JSON seed's meta.
@@ -8,6 +8,8 @@ import { hotelsInDestination } from "@/data/hotels";
 const M = (MALLORCA_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const T = (TENERIFE_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const C = (CRETE_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -220,6 +222,37 @@ export const DESTINATIONS: Destination[] = [
     faqs: T.faqs,
     parentTip: T.parentTip,
     goodToKnow: T.goodToKnow,
+  },
+  {
+    key: "crete",
+    name: { en: "Crete", fr: "Crète" },
+    country: { en: "Greece", fr: "Grèce" },
+    inPhrase: { en: "in Crete", fr: "en Crète" },
+    slug: {
+      en: "family-hotels-crete",
+      fr: "hotels-famille-crete",
+    },
+    geo: { lat: 35.24, lng: 24.81, zoom: 8 },
+    heroKicker: C.heroKicker ?? {
+      en: "Big Greek island, made for families",
+      fr: "Grande île grecque, faite pour les familles",
+    },
+    intro: C.intro ?? {
+      en: "Crete pairs shallow calm beaches and warm sea into October with big all-inclusive resorts, water parks and a dose of ancient history. It is one of the Mediterranean's best-value family islands.",
+      fr: "La Crète marie plages calmes et peu profondes et mer chaude jusqu'en octobre avec de grands resorts all-inclusive, des parcs aquatiques et une dose d'histoire antique. C'est l'une des îles familiales méditerranéennes au meilleur rapport qualité-prix.",
+    },
+    whyKids: C.whyKids ?? { en: [], fr: [] },
+    bestAreas: C.bestAreas ?? { en: [], fr: [] },
+    emoji: C.emoji ?? "🫒",
+    accent: "3a86c8",
+    hotelKeys: [], // populated below
+    related: ["mallorca", "tenerife", "guide-allinclusive-europe"],
+    photos: C.photos,
+    stats: C.stats,
+    activities: C.activities,
+    faqs: C.faqs,
+    parentTip: C.parentTip,
+    goodToKnow: C.goodToKnow,
   },
 ];
 

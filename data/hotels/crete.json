@@ -1,0 +1,3018 @@
+{
+  "hotels": [
+    {
+      "key": "crete-domes-zeen-chania",
+      "destinationKey": "crete",
+      "name": "Domes Zeen Chania, a Luxury Collection Resort",
+      "area": {
+        "en": "Kato Daratso, Chania",
+        "fr": "Kato Daratso, La Canée"
+      },
+      "lat": 35.506,
+      "lng": 23.986,
+      "zoom": 13,
+      "address": "Domes Zeen Chania, a Luxury Collection Resort, Kato Daratso, Chania, Crete, Greece",
+      "priceTier": 4,
+      "priceFrom": 420,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "beach-access",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "villaPoolGreen",
+        "infinityPoolSea",
+        "deckLoungersSea"
+      ],
+      "scores": {
+        "rooms": 94,
+        "baby": 80,
+        "pool": 88,
+        "dining": 90,
+        "safety": 86,
+        "convenience": 74,
+        "location": 85,
+        "extras": 92
+      },
+      "roomsSummary": {
+        "en": "Low-slung bungalows and suites arranged around a leafy central agora, many with a private or semi-private pool a step from the terrace. The Family Bungalows and Open Plan Suites add a separate living area, so you can put little ones down and still have your own space and your own plunge pool for the evening.",
+        "fr": "Des bungalows bas et des suites disposés autour d'une agora centrale et verdoyante, beaucoup avec une piscine privée ou semi-privée à un pas de la terrasse. Les Family Bungalows et les Open Plan Suites ajoutent un salon séparé : vous couchez les petits et gardez votre coin à vous, avec votre bassin privatif pour la soirée."
+      },
+      "intro": {
+        "en": "A design-led beachfront resort just west of Chania town, Domes Zeen wraps a private cove in gardens, agora squares and bungalows built to feel like a Cretan village. It is polished and expensive, but genuinely built for families: the Montessori kids club is free, under-12s eat and play for free, and the whole thing is small enough to feel calm rather than overwhelming.",
+        "fr": "Resort de bord de mer très design juste à l'ouest de la ville de La Canée, Domes Zeen enveloppe une crique privée de jardins, de petites places façon agora et de bungalows pensés comme un village crétois. C'est soigné et cher, mais vraiment conçu pour les familles : le club enfants Montessori est gratuit, les moins de 12 ans mangent et jouent gratuitement, et l'ensemble reste assez petit pour rester paisible plutôt qu'écrasant."
+      },
+      "highlights": {
+        "en": [
+          "Free Montessori kids club for ages 4 to 12, with yurts and teepees for imaginative play",
+          "Creche for babies and toddlers from 6 months (paid), so even the youngest are covered",
+          "Family Bungalows and suites with private or semi-private plunge pools",
+          "A sheltered private beach cove with calm, shallow water at the shore",
+          "Separate adult and family pool areas, so parents get quiet time too",
+          "Under-12s stay, eat and play for free on many rates"
+        ],
+        "fr": [
+          "Club enfants Montessori gratuit de 4 à 12 ans, avec yourtes et tipis pour jouer et imaginer",
+          "Crèche pour bébés et tout-petits dès 6 mois (payante), même les plus jeunes sont pris en charge",
+          "Family Bungalows et suites avec petite piscine privée ou semi-privée",
+          "Une crique privée abritée, avec une eau calme et peu profonde près du bord",
+          "Espaces piscine adultes et familles séparés, pour que les parents aient aussi du calme",
+          "Moins de 12 ans logés, nourris et animés gratuitement sur de nombreux tarifs"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Free kids club and free under-12 policy take real money off the bill",
+          "Small, calm and beautifully designed, not a mega-resort",
+          "Private plunge pools make nap times and evenings easy"
+        ],
+        "fr": [
+          "Club enfants gratuit et gratuité des moins de 12 ans qui allègent vraiment la note",
+          "Petit, calme et superbement dessiné, loin du méga-resort",
+          "Les petites piscines privatives simplifient siestes et soirées"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Premium prices, and spa, creche and some dining are extra",
+          "The cove beach is small, so it is more about the pools than long sandy walks",
+          "Chania old town is a short taxi ride, not walkable with a buggy"
+        ],
+        "fr": [
+          "Tarifs haut de gamme, et spa, crèche et certains restaurants en supplément",
+          "La crique est petite : on profite surtout des piscines, pas de longues plages de sable",
+          "La vieille ville de La Canée se rejoint en taxi, pas à pied avec une poussette"
+        ]
+      },
+      "verdict": {
+        "en": "The smart 5-star choice for families who want design, calm and a free kids club without a sprawling resort. Book a Family Bungalow with a plunge pool and lean on the free under-12 policy to justify the splurge.",
+        "fr": "Le choix 5 étoiles malin pour les familles qui veulent du design, du calme et un club enfants gratuit sans resort tentaculaire. Réservez un Family Bungalow avec petite piscine et appuyez-vous sur la gratuité des moins de 12 ans pour justifier la folie."
+      },
+      "parentTip": {
+        "en": "Ask for a bungalow near the family pool rather than the adult zone: shorter wet-footed walks back for snacks, towels and forgotten armbands.",
+        "fr": "Demandez un bungalow près de la piscine familiale plutôt que de la zone adultes : les allers-retours pieds mouillés pour goûters, serviettes et brassards oubliés seront plus courts."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Private cove, calm shallow shore",
+            "fr": "Crique privée, bord calme et peu profond"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free, ages 4 to 12 (Montessori)",
+            "fr": "Gratuit, 4 à 12 ans (Montessori)"
+          }
+        },
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Creche",
+            "fr": "Crèche"
+          },
+          "value": {
+            "en": "From 6 months, paid",
+            "fr": "Dès 6 mois, payante"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Family and adult pools, plunge pools",
+            "fr": "Piscines familles et adultes, bassins privatifs"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Dining",
+            "fr": "Restauration"
+          },
+          "value": {
+            "en": "Under-12s eat free on many rates",
+            "fr": "Moins de 12 ans mangent gratuitement (souvent)"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport",
+            "fr": "Aéroport"
+          },
+          "value": {
+            "en": "About 20 min from Chania",
+            "fr": "Environ 20 min de La Canée"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛖",
+          "name": {
+            "en": "Montessori kids club",
+            "fr": "Club enfants Montessori"
+          },
+          "detail": {
+            "en": "Free supervised play in yurts and teepees, with crafts, gardening and nature games.",
+            "fr": "Jeu libre encadré et gratuit dans yourtes et tipis, avec bricolage, jardinage et jeux nature."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Half or full day",
+            "fr": "Demi-journée ou journée"
+          }
+        },
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Cove beach morning",
+            "fr": "Matinée plage dans la crique"
+          },
+          "detail": {
+            "en": "Calm, shallow water in a sheltered cove, ideal for a first paddle with little ones.",
+            "fr": "Eau calme et peu profonde dans une crique abritée, idéale pour une première baignade avec les petits."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matinée"
+          }
+        },
+        {
+          "emoji": "🏛️",
+          "name": {
+            "en": "Chania old town trip",
+            "fr": "Sortie à la vieille ville de La Canée"
+          },
+          "detail": {
+            "en": "A short taxi ride to the Venetian harbour, ice cream and easy pram-friendly lanes.",
+            "fr": "Court trajet en taxi jusqu'au port vénitien, glace et ruelles accessibles en poussette."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journée"
+          }
+        },
+        {
+          "emoji": "🥘",
+          "name": {
+            "en": "Family Cretan dinner",
+            "fr": "Dîner crétois en famille"
+          },
+          "detail": {
+            "en": "Local menus at the resort tavernas, with under-12s eating free on many rates.",
+            "fr": "Cartes locales aux tavernes du resort, moins de 12 ans gratuits sur de nombreux tarifs."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soirée"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Breakfast in the agora",
+            "fr": "Petit-déjeuner sur l'agora"
+          },
+          "note": {
+            "en": "Slow start before the heat builds.",
+            "fr": "Réveil tranquille avant que la chaleur monte."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Kids club drop-off",
+            "fr": "Dépose au club enfants"
+          },
+          "note": {
+            "en": "Free club while parents hit the adult pool.",
+            "fr": "Club gratuit pendant que les parents filent à la piscine adultes."
+          }
+        },
+        {
+          "time": "12:30",
+          "title": {
+            "en": "Lunch at the bungalow",
+            "fr": "Déjeuner au bungalow"
+          },
+          "note": {
+            "en": "Quiet time by your own plunge pool.",
+            "fr": "Temps calme près de votre bassin privatif."
+          }
+        },
+        {
+          "time": "15:00",
+          "title": {
+            "en": "Cove and paddle",
+            "fr": "Crique et baignade"
+          },
+          "note": {
+            "en": "Shallow water and shade in the afternoon.",
+            "fr": "Eau peu profonde et ombre l'après-midi."
+          }
+        },
+        {
+          "time": "19:30",
+          "title": {
+            "en": "Family taverna dinner",
+            "fr": "Dîner à la taverne familiale"
+          },
+          "note": {
+            "en": "Under-12s eat free on many rates.",
+            "fr": "Moins de 12 ans gratuits sur de nombreux tarifs."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "The private cove and plunge-pool bungalows suit babies, and the creche takes them from 6 months.",
+          "fr": "La crique privée et les bungalows avec bassin conviennent aux bébés, et la crèche les accueille dès 6 mois."
+        },
+        "toddler": {
+          "en": "Calm shallow water and a Montessori club built for imaginative play make this a toddler favourite.",
+          "fr": "Eau calme et peu profonde et un club Montessori pensé pour le jeu imaginatif : un vrai favori des tout-petits."
+        },
+        "kid": {
+          "en": "The sweet spot: free club, pools, cove and short trips into Chania keep this age busy.",
+          "fr": "L'âge idéal : club gratuit, piscines, crique et petites sorties à La Canée occupent bien cet âge."
+        },
+        "teen": {
+          "en": "Teens get design, good food and a private-pool bungalow, though nightlife is off-site in Chania.",
+          "fr": "Les ados profitent du design, de la bonne cuisine et d'un bungalow avec piscine, même si les sorties du soir sont à La Canée."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the kids club really free?",
+            "fr": "Le club enfants est-il vraiment gratuit ?"
+          },
+          "a": {
+            "en": "Yes. The Montessori kids club for ages 4 to 12 is included. A creche for babies and toddlers from 6 months is available for an extra charge.",
+            "fr": "Oui. Le club Montessori de 4 à 12 ans est inclus. Une crèche pour bébés et tout-petits dès 6 mois est disponible en supplément."
+          }
+        },
+        {
+          "q": {
+            "en": "How is the beach for small children?",
+            "fr": "La plage convient-elle aux jeunes enfants ?"
+          },
+          "a": {
+            "en": "It is a small, sheltered cove with calm, shallow water at the shore, so it is gentle for paddling, but it is compact rather than a long sandy beach.",
+            "fr": "C'est une petite crique abritée, avec une eau calme et peu profonde près du bord, douce pour barboter, mais compacte plutôt qu'une longue plage de sable."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we self-cater?",
+            "fr": "Peut-on cuisiner sur place ?"
+          },
+          "a": {
+            "en": "No, this is a dining-led resort rather than self-catering, but under-12s eat free on many rates, which softens the cost of eating out every day.",
+            "fr": "Non, c'est un resort tourné vers la restauration plutôt que la cuisine autonome, mais les moins de 12 ans mangent gratuitement sur de nombreux tarifs, ce qui allège le coût des repas quotidiens."
+          }
+        }
+      ]
+    },
+    {
+      "key": "crete-grecotel-creta-palace",
+      "destinationKey": "crete",
+      "name": "Grecotel Creta Palace",
+      "area": {
+        "en": "Missiria, Rethymno",
+        "fr": "Missiria, Réthymnon"
+      },
+      "lat": 35.369,
+      "lng": 24.517,
+      "zoom": 13,
+      "address": "Grecotel Creta Palace, Missiria, Rethymno, Crete, Greece",
+      "priceTier": 4,
+      "priceFrom": 340,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "whiteResortPool",
+        "poolPalms",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 88,
+        "baby": 84,
+        "pool": 90,
+        "dining": 87,
+        "safety": 85,
+        "convenience": 80,
+        "location": 88,
+        "extras": 86
+      },
+      "roomsSummary": {
+        "en": "One of the widest family line-ups on the island: garden and sea-view rooms, family rooms and two-bedroom bungalows, plus villas with private pools. Many families pick a bungalow with direct garden access, so children can potter outside while you keep an eye from the terrace.",
+        "fr": "L'une des offres familiales les plus larges de l'île : chambres jardin ou vue mer, chambres familiales et bungalows deux chambres, plus des villas avec piscine privée. Beaucoup de familles choisissent un bungalow avec accès direct au jardin, pour que les enfants jouent dehors pendant que vous gardez un oeil depuis la terrasse."
+      },
+      "intro": {
+        "en": "Grecotel's flagship family resort near Rethymno pairs a long Blue Flag beach with a brand-new aqua park, the Grecoland kids club and enough pools, sport and activities to fill a fortnight. It is big and polished, with strong food and a proper beachfront, and only a ten-minute drive from Rethymno old town when you want a change of scene.",
+        "fr": "Le resort familial phare de Grecotel près de Réthymnon associe une longue plage Pavillon Bleu à un tout nouveau parc aquatique, au club enfants Grecoland et à assez de piscines, de sport et d'activités pour remplir deux semaines. C'est grand et soigné, avec une bonne cuisine et un vrai front de mer, à seulement dix minutes en voiture de la vieille ville de Réthymnon quand on veut changer d'air."
+      },
+      "highlights": {
+        "en": [
+          "Brand-new aqua park with slides, splash zones and a zero-entry pool (from July)",
+          "Grecoland kids club for ages 4 to 12 with an organic garden and a mini kitchen",
+          "Long Blue Flag beach of golden sand and smooth pebbles, with full beach service",
+          "Two-bedroom bungalows and private-pool villas for space-hungry families",
+          "Indoor and outdoor playgrounds for when the sun is too fierce",
+          "Ten minutes by car to Rethymno old town and Venetian harbour"
+        ],
+        "fr": [
+          "Tout nouveau parc aquatique avec toboggans, zones d'éclaboussures et bassin à entrée progressive (à partir de juillet)",
+          "Club enfants Grecoland de 4 à 12 ans, avec potager bio et mini-cuisine",
+          "Longue plage Pavillon Bleu de sable doré et galets lisses, avec service de plage complet",
+          "Bungalows deux chambres et villas avec piscine privée pour les familles qui veulent de l'espace",
+          "Aires de jeux intérieures et extérieures pour quand le soleil tape trop fort",
+          "Dix minutes en voiture de la vieille ville de Réthymnon et de son port vénitien"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Enormous range of family rooms, bungalows and villas",
+          "Free kids club plus a new aqua park in one place",
+          "Real beach plus easy access to Rethymno old town"
+        ],
+        "fr": [
+          "Choix immense de chambres familiales, bungalows et villas",
+          "Club enfants gratuit et nouveau parc aquatique au même endroit",
+          "Vraie plage et accès facile à la vieille ville de Réthymnon"
+        ]
+      },
+      "cons": {
+        "en": [
+          "It is a large resort that gets busy around the pools in peak summer",
+          "The aqua park operates seasonally, mainly from July, so shoulder-season visitors may miss it",
+          "Premium pricing, and villas with private pools push the bill up fast"
+        ],
+        "fr": [
+          "C'est un grand resort qui se remplit autour des piscines en plein été",
+          "Le parc aquatique fonctionne selon la saison, surtout à partir de juillet : en ailes de saison, on peut le manquer",
+          "Tarifs haut de gamme, et les villas avec piscine privée font vite grimper la note"
+        ]
+      },
+      "verdict": {
+        "en": "A do-everything family resort with a real beach, a new aqua park and one of the best rooms line-ups on Crete. Book a bungalow for the space, and travel in July or August if the aqua park is a must.",
+        "fr": "Un resort familial complet avec vraie plage, nouveau parc aquatique et l'une des meilleures offres de chambres de Crète. Réservez un bungalow pour l'espace, et voyagez en juillet ou août si le parc aquatique est essentiel."
+      },
+      "parentTip": {
+        "en": "Rooms and bungalows near the aqua park save endless walks back for the toilet: worth requesting when you book with young children.",
+        "fr": "Une chambre ou un bungalow près du parc aquatique évite les allers-retours sans fin pour les toilettes : à demander à la réservation avec de jeunes enfants."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Long Blue Flag beach, on site",
+            "fr": "Longue plage Pavillon Bleu, sur place"
+          }
+        },
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Aqua park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "Slides and splash zones, seasonal",
+            "fr": "Toboggans et zones d'éclaboussures, saisonnier"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Grecoland, ages 4 to 12, free",
+            "fr": "Grecoland, 4 à 12 ans, gratuit"
+          }
+        },
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Rooms",
+            "fr": "Chambres"
+          },
+          "value": {
+            "en": "Family bungalows and pool villas",
+            "fr": "Bungalows familiaux et villas avec piscine"
+          }
+        },
+        {
+          "icon": "🏛️",
+          "label": {
+            "en": "Town",
+            "fr": "Ville"
+          },
+          "value": {
+            "en": "10 min to Rethymno old town",
+            "fr": "10 min de la vieille ville de Réthymnon"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport",
+            "fr": "Aéroport"
+          },
+          "value": {
+            "en": "About 1 hr from Chania or Heraklion",
+            "fr": "Environ 1 h de La Canée ou Héraklion"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "Aqua park afternoon",
+            "fr": "Après-midi parc aquatique"
+          },
+          "detail": {
+            "en": "Slides, splash zones and a zero-entry pool for confident and cautious swimmers alike.",
+            "fr": "Toboggans, zones d'éclaboussures et bassin à entrée progressive pour nageurs sûrs comme prudents."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        },
+        {
+          "emoji": "🌱",
+          "name": {
+            "en": "Grecoland garden club",
+            "fr": "Club potager Grecoland"
+          },
+          "detail": {
+            "en": "Kids garden the organic bostani and cook in a mini kitchen at the free club.",
+            "fr": "Les enfants jardinent le potager bio et cuisinent dans une mini-cuisine au club gratuit."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journée"
+          }
+        },
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Beach and sandcastles",
+            "fr": "Plage et châteaux de sable"
+          },
+          "detail": {
+            "en": "A long Blue Flag beach with beach service, sun umbrellas and gentle entry.",
+            "fr": "Une longue plage Pavillon Bleu avec service, parasols et entrée douce dans l'eau."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matinée"
+          }
+        },
+        {
+          "emoji": "🏛️",
+          "name": {
+            "en": "Rethymno old town",
+            "fr": "Vieille ville de Réthymnon"
+          },
+          "detail": {
+            "en": "A ten-minute drive to the Venetian harbour, fortress and ice-cream lanes.",
+            "fr": "Dix minutes en voiture jusqu'au port vénitien, à la forteresse et aux ruelles à glaces."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journée"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Big buffet breakfast",
+            "fr": "Grand petit-déjeuner buffet"
+          },
+          "note": {
+            "en": "Fuel up before the beach fills.",
+            "fr": "On fait le plein avant que la plage se remplisse."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Beach morning",
+            "fr": "Matinée plage"
+          },
+          "note": {
+            "en": "Sandcastles while it is still cool.",
+            "fr": "Châteaux de sable tant qu'il fait frais."
+          }
+        },
+        {
+          "time": "12:30",
+          "title": {
+            "en": "Lunch and quiet time",
+            "fr": "Déjeuner et temps calme"
+          },
+          "note": {
+            "en": "Nap in the shaded bungalow.",
+            "fr": "Sieste dans le bungalow ombragé."
+          }
+        },
+        {
+          "time": "15:00",
+          "title": {
+            "en": "Aqua park and kids club",
+            "fr": "Parc aquatique et club enfants"
+          },
+          "note": {
+            "en": "Slides for big kids, Grecoland for littler ones.",
+            "fr": "Toboggans pour les grands, Grecoland pour les petits."
+          }
+        },
+        {
+          "time": "19:30",
+          "title": {
+            "en": "Dinner then mini disco",
+            "fr": "Dîner puis mini-disco"
+          },
+          "note": {
+            "en": "Early evening entertainment for the children.",
+            "fr": "Animation en début de soirée pour les enfants."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Ground-floor bungalows, cots on request and a gentle beach make babies straightforward here.",
+          "fr": "Bungalows en rez-de-chaussée, lits parapluie sur demande et plage douce rendent le séjour simple avec un bébé."
+        },
+        "toddler": {
+          "en": "Zero-entry pool, shallow beach and the Grecoland garden club suit toddlers well.",
+          "fr": "Bassin à entrée progressive, plage peu profonde et club potager Grecoland conviennent bien aux tout-petits."
+        },
+        "kid": {
+          "en": "The best age here: aqua park, kids club, beach and sports all included or on site.",
+          "fr": "Le meilleur âge ici : parc aquatique, club enfants, plage et sports inclus ou sur place."
+        },
+        "teen": {
+          "en": "The aqua park, watersports and old-town trips keep teens happy, though the vibe stays family.",
+          "fr": "Parc aquatique, sports nautiques et sorties en vieille ville plaisent aux ados, même si l'ambiance reste familiale."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the aqua park open all season?",
+            "fr": "Le parc aquatique est-il ouvert toute la saison ?"
+          },
+          "a": {
+            "en": "It runs seasonally, mainly from July into the summer. If it is a priority, travel in high summer and confirm the opening dates when you book.",
+            "fr": "Il fonctionne selon la saison, surtout à partir de juillet. Si c'est une priorité, voyagez en plein été et confirmez les dates d'ouverture à la réservation."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the kids club free?",
+            "fr": "Le club enfants est-il gratuit ?"
+          },
+          "a": {
+            "en": "Yes. The Grecoland kids club for ages 4 to 12 is included, with a full daily programme of crafts, gardening and beach games.",
+            "fr": "Oui. Le club Grecoland de 4 à 12 ans est inclus, avec un programme quotidien complet de bricolage, jardinage et jeux de plage."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we visit Rethymno easily?",
+            "fr": "Peut-on visiter Réthymnon facilement ?"
+          },
+          "a": {
+            "en": "Yes. Rethymno old town, with its Venetian harbour and fortress, is about a ten-minute drive, easy for a half-day out with children.",
+            "fr": "Oui. La vieille ville de Réthymnon, son port vénitien et sa forteresse sont à environ dix minutes en voiture, parfait pour une demi-journée avec les enfants."
+          }
+        }
+      ]
+    },
+    {
+      "key": "crete-anemos-luxury-grand-resort",
+      "destinationKey": "crete",
+      "name": "Anemos Luxury Grand Resort",
+      "area": {
+        "en": "Georgioupolis",
+        "fr": "Georgioupolis"
+      },
+      "lat": 35.362,
+      "lng": 24.265,
+      "zoom": 13,
+      "address": "Anemos Luxury Grand Resort, Georgioupolis, Crete, Greece",
+      "priceTier": 3,
+      "priceFrom": 210,
+      "ages": [
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolDusk",
+        "poolCabanas",
+        "resortLoungers"
+      ],
+      "scores": {
+        "rooms": 82,
+        "baby": 74,
+        "pool": 86,
+        "dining": 80,
+        "safety": 82,
+        "convenience": 78,
+        "location": 83,
+        "extras": 80
+      },
+      "roomsSummary": {
+        "en": "Suite-style rooms and family suites, many with a separate living space and some with a private or swim-up pool. Family suites give you room for a cot plus older children, and the higher categories add the kind of space that makes a rainy afternoon survivable.",
+        "fr": "Chambres façon suites et suites familiales, beaucoup avec un salon séparé et certaines avec piscine privée ou à accès direct. Les suites familiales offrent la place pour un lit bébé et des enfants plus grands, et les catégories supérieures ajoutent l'espace qui rend un après-midi de pluie supportable."
+      },
+      "intro": {
+        "en": "A five-star suites-and-spa resort on the edge of Georgioupolis, one of Crete's calmest, shallowest family beaches. The draw is water: four pools including a kids pool with waterslides, a free kids club and a long stretch of soft sand and gentle sea right nearby. It is smart and relaxed rather than a party spot, which suits families with younger children.",
+        "fr": "Un resort cinq étoiles suites-et-spa en bordure de Georgioupolis, l'une des plages familiales les plus calmes et les moins profondes de Crète. L'atout, c'est l'eau : quatre piscines dont un bassin enfants avec toboggans, un club enfants gratuit et une longue étendue de sable doux et de mer paisible juste à côté. C'est chic et détendu plutôt que festif, ce qui convient aux familles avec de jeunes enfants."
+      },
+      "highlights": {
+        "en": [
+          "Four outdoor pools including a kids pool with waterslides",
+          "Free kids club for ages 4 to 12, with a mini club for under-4s alongside a parent",
+          "Right by Georgioupolis beach, known for calm, shallow, shelving water",
+          "Family suites with separate living areas and pool options",
+          "Full daily and evening kids programme, including a mini disco",
+          "Adults-only pool and spa for parents on downtime"
+        ],
+        "fr": [
+          "Quatre piscines extérieures dont un bassin enfants avec toboggans",
+          "Club enfants gratuit de 4 à 12 ans, avec mini-club pour les moins de 4 ans accompagnés d'un parent",
+          "Juste à côté de la plage de Georgioupolis, réputée calme, peu profonde et à pente douce",
+          "Suites familiales avec salon séparé et options avec piscine",
+          "Programme enfants complet, en journée et en soirée, avec mini-disco",
+          "Piscine réservée aux adultes et spa pour souffler entre parents"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Georgioupolis beach is one of the gentlest, shallowest on Crete",
+          "Free kids club and a kids pool with slides on site",
+          "Spacious family suites and a calmer, non-party atmosphere"
+        ],
+        "fr": [
+          "La plage de Georgioupolis est l'une des plus douces et peu profondes de Crète",
+          "Club enfants gratuit et bassin enfants avec toboggans sur place",
+          "Suites familiales spacieuses et ambiance calme, sans esprit fête"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The resort sits slightly back from the beach, so it is a short walk down",
+          "Georgioupolis can be breezy, and the open beach picks up wind on gusty days",
+          "Less baby-specific kit than some rivals, so bring your own essentials"
+        ],
+        "fr": [
+          "Le resort est un peu en retrait de la plage : une courte marche pour y descendre",
+          "Georgioupolis peut être venteux, et la plage ouverte prend le vent les jours de rafales",
+          "Moins d'équipement spécifique bébé que chez certains concurrents : prévoyez vos essentiels"
+        ]
+      },
+      "verdict": {
+        "en": "A smart-value five-star for families who want a calm, shallow beach and a free kids club without a mega-resort crush. Best for toddlers and young children, with the gentle Georgioupolis sea as the headline.",
+        "fr": "Un cinq étoiles au bon rapport qualité-prix pour les familles qui veulent une plage calme et peu profonde et un club enfants gratuit sans la cohue d'un méga-resort. Idéal pour les tout-petits et jeunes enfants, avec la mer douce de Georgioupolis en vedette."
+      },
+      "parentTip": {
+        "en": "Head to the beach in the morning: Georgioupolis is at its calmest and most sheltered before the afternoon breeze picks up.",
+        "fr": "Allez à la plage le matin : Georgioupolis est au plus calme et au plus abrité avant que la brise de l'après-midi se lève."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Georgioupolis, calm and shallow",
+            "fr": "Georgioupolis, calme et peu profonde"
+          }
+        },
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Kids pool",
+            "fr": "Bassin enfants"
+          },
+          "value": {
+            "en": "With waterslides",
+            "fr": "Avec toboggans"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Ages 4 to 12, free (mini club under 4)",
+            "fr": "4 à 12 ans, gratuit (mini-club moins de 4)"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Four, including an adults-only pool",
+            "fr": "Quatre, dont une réservée aux adultes"
+          }
+        },
+        {
+          "icon": "💆",
+          "label": {
+            "en": "Parents",
+            "fr": "Parents"
+          },
+          "value": {
+            "en": "Spa and adult pool",
+            "fr": "Spa et piscine adultes"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport",
+            "fr": "Aéroport"
+          },
+          "value": {
+            "en": "About 45 min from Chania",
+            "fr": "Environ 45 min de La Canée"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🌊",
+          "name": {
+            "en": "Shallow-beach morning",
+            "fr": "Matinée plage peu profonde"
+          },
+          "detail": {
+            "en": "Georgioupolis shelves gently, so toddlers can wade a long way out safely.",
+            "fr": "Georgioupolis a une pente douce, les tout-petits peuvent avancer loin en sécurité."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matinée"
+          }
+        },
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "Kids pool and slides",
+            "fr": "Bassin enfants et toboggans"
+          },
+          "detail": {
+            "en": "A dedicated children's pool with waterslides for the confident paddlers.",
+            "fr": "Un bassin enfants dédié avec toboggans pour les nageurs déjà à l'aise."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        },
+        {
+          "emoji": "🎨",
+          "name": {
+            "en": "Kids club crafts",
+            "fr": "Bricolage au club enfants"
+          },
+          "detail": {
+            "en": "Free supervised crafts and games, with a mini disco in the early evening.",
+            "fr": "Bricolage et jeux encadrés et gratuits, avec mini-disco en début de soirée."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journée"
+          }
+        },
+        {
+          "emoji": "🚣",
+          "name": {
+            "en": "Georgioupolis lake and river",
+            "fr": "Lac et rivière de Georgioupolis"
+          },
+          "detail": {
+            "en": "Nearby Lake Kournas and the river mouth make a gentle boat or pedalo outing.",
+            "fr": "Le lac de Kournas tout proche et l'embouchure de la rivière offrent une balade douce en barque ou pédalo."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journée"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Breakfast then beach",
+            "fr": "Petit-déjeuner puis plage"
+          },
+          "note": {
+            "en": "Calmest water is early.",
+            "fr": "L'eau est au plus calme tôt le matin."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Paddle and sandcastles",
+            "fr": "Baignade et châteaux de sable"
+          },
+          "note": {
+            "en": "Shallow, shelving sea for little ones.",
+            "fr": "Mer peu profonde à pente douce pour les petits."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and shade",
+            "fr": "Déjeuner et ombre"
+          },
+          "note": {
+            "en": "Quiet time in the suite.",
+            "fr": "Temps calme dans la suite."
+          }
+        },
+        {
+          "time": "15:30",
+          "title": {
+            "en": "Kids pool and club",
+            "fr": "Bassin enfants et club"
+          },
+          "note": {
+            "en": "Slides for the kids, spa for the parents.",
+            "fr": "Toboggans pour les enfants, spa pour les parents."
+          }
+        },
+        {
+          "time": "18:00",
+          "title": {
+            "en": "Mini disco",
+            "fr": "Mini-disco"
+          },
+          "note": {
+            "en": "Wear them out before dinner.",
+            "fr": "On les fatigue avant le dîner."
+          }
+        }
+      ],
+      "ageNotes": {
+        "toddler": {
+          "en": "The shallow, shelving beach and a kids pool make this a strong toddler pick.",
+          "fr": "La plage peu profonde à pente douce et le bassin enfants en font un très bon choix pour les tout-petits."
+        },
+        "kid": {
+          "en": "Waterslides, the free club and the nearby lake keep this age busy all day.",
+          "fr": "Toboggans, club gratuit et lac tout proche occupent cet âge toute la journée."
+        },
+        "teen": {
+          "en": "Teens have watersports and lake trips, though Georgioupolis is quiet rather than lively.",
+          "fr": "Les ados profitent des sports nautiques et des sorties au lac, mais Georgioupolis reste calme plutôt qu'animé."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the beach good for young children?",
+            "fr": "La plage est-elle bien pour les jeunes enfants ?"
+          },
+          "a": {
+            "en": "Yes. Georgioupolis beach is known for calm, shallow, gently shelving water, which is reassuring for toddlers, though the open beach can catch the wind in the afternoon.",
+            "fr": "Oui. La plage de Georgioupolis est réputée pour son eau calme, peu profonde et à pente douce, rassurante pour les tout-petits, même si la plage ouverte peut prendre le vent l'après-midi."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the kids club included?",
+            "fr": "Le club enfants est-il inclus ?"
+          },
+          "a": {
+            "en": "Yes. The kids club for ages 4 to 12 is free, and under-4s can join a mini club alongside a parent, with a daily and evening programme.",
+            "fr": "Oui. Le club enfants de 4 à 12 ans est gratuit, et les moins de 4 ans peuvent rejoindre un mini-club accompagnés d'un parent, avec un programme en journée et en soirée."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it suitable for babies?",
+            "fr": "Est-ce adapté aux bébés ?"
+          },
+          "a": {
+            "en": "It works, with cots on request and family suites, but there is less baby-specific kit than at some rivals, so pack your own essentials.",
+            "fr": "C'est possible, avec lits parapluie sur demande et suites familiales, mais il y a moins d'équipement spécifique bébé qu'ailleurs : prévoyez vos essentiels."
+          }
+        }
+      ]
+    },
+    {
+      "key": "crete-creta-maris-resort",
+      "destinationKey": "crete",
+      "name": "Creta Maris Resort",
+      "area": {
+        "en": "Hersonissos",
+        "fr": "Hersonissos"
+      },
+      "lat": 35.32,
+      "lng": 25.383,
+      "zoom": 13,
+      "address": "Creta Maris Resort, Hersonissos, Crete, Greece",
+      "priceTier": 3,
+      "priceFrom": 230,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolOrange",
+        "poolDuskPalms",
+        "swimmer"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 82,
+        "pool": 92,
+        "dining": 84,
+        "safety": 83,
+        "convenience": 82,
+        "location": 80,
+        "extras": 88
+      },
+      "roomsSummary": {
+        "en": "A huge estate of village-style bungalows and rooms spread through gardens down to the beach, with family rooms and connecting options. Bungalows near a pool suit families with small children; the trade-off is a large site where you will walk a fair bit between your room, the buffets and the water park.",
+        "fr": "Un immense domaine de bungalows et chambres façon village répartis dans les jardins jusqu'à la plage, avec chambres familiales et options communicantes. Les bungalows près d'une piscine conviennent aux familles avec de jeunes enfants ; la contrepartie est un vaste site où l'on marche pas mal entre la chambre, les buffets et le parc aquatique."
+      },
+      "intro": {
+        "en": "One of Crete's original big all-inclusive resorts, Creta Maris in Hersonissos is a village of gardens, seventeen pools, a water park and its own beach on the north coast. It is large and busy in peak season, but the sheer amount included, from a free kids club to a teen club and open-air cinema, makes it a genuine one-price family holiday, and Heraklion and Knossos are an easy day trip.",
+        "fr": "L'un des grands resorts tout compris historiques de Crète, Creta Maris à Hersonissos est un village de jardins, dix-sept piscines, un parc aquatique et sa propre plage sur la côte nord. C'est grand et animé en haute saison, mais tout ce qui est inclus, du club enfants gratuit au club ados et au cinéma en plein air, en fait de vraies vacances familiales à prix unique, et Héraklion et Knossos sont à portée d'excursion."
+      },
+      "highlights": {
+        "en": [
+          "Seventeen pools plus a water park with slides and splash zones",
+          "Several children's pools, one with waterslides, across the gardens",
+          "Free kids club for ages 4 to 11 and a teens club for 12 to 15 in summer",
+          "All-inclusive with seven restaurants and multiple snack points",
+          "Open-air cinema, playground and sports courts on site",
+          "Own beach, and Heraklion and Knossos within an easy day trip"
+        ],
+        "fr": [
+          "Dix-sept piscines et un parc aquatique avec toboggans et zones d'éclaboussures",
+          "Plusieurs bassins enfants, dont un avec toboggans, dans les jardins",
+          "Club enfants gratuit de 4 à 11 ans et club ados de 12 à 15 ans l'été",
+          "Formule tout compris avec sept restaurants et plusieurs points de snacking",
+          "Cinéma en plein air, aire de jeux et terrains de sport sur place",
+          "Plage privée, et Héraklion et Knossos à portée d'excursion"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Outstanding water: seventeen pools, kids pools and a water park",
+          "All-inclusive with a free kids club and a teen club",
+          "Great base for Knossos and Heraklion day trips"
+        ],
+        "fr": [
+          "Une offre aquatique remarquable : dix-sept piscines, bassins enfants et parc aquatique",
+          "Formule tout compris avec club enfants et club ados gratuits",
+          "Excellente base pour Knossos et Héraklion en excursion"
+        ]
+      },
+      "cons": {
+        "en": [
+          "It is a very large resort that gets busy and can feel impersonal in peak summer",
+          "A lot of walking between rooms, buffets and the water park",
+          "Hersonissos town nearby is lively and touristy, not a quiet village"
+        ],
+        "fr": [
+          "C'est un très grand resort qui se remplit et peut sembler impersonnel en plein été",
+          "Beaucoup de marche entre les chambres, les buffets et le parc aquatique",
+          "La ville de Hersonissos toute proche est animée et touristique, pas un village tranquille"
+        ]
+      },
+      "verdict": {
+        "en": "The classic big all-inclusive for families who want maximum water, maximum inclusions and a base for Knossos. Accept the scale and the crowds, and request a bungalow near a pool with young children.",
+        "fr": "Le grand tout compris classique pour les familles qui veulent un maximum d'eau, un maximum d'inclus et une base pour Knossos. Acceptez la taille et l'affluence, et demandez un bungalow près d'une piscine avec de jeunes enfants."
+      },
+      "parentTip": {
+        "en": "Pick up a resort map on day one and pin down the nearest kids pool and toilets to your bungalow: it saves a lot of hot cross-garden marches.",
+        "fr": "Récupérez un plan du resort dès le premier jour et repérez le bassin enfants et les toilettes les plus proches de votre bungalow : cela évite bien des traversées de jardin en pleine chaleur."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Seventeen, plus a water park",
+            "fr": "Dix-sept, plus un parc aquatique"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "All-inclusive, seven restaurants",
+            "fr": "Tout compris, sept restaurants"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Ages 4 to 11, free; teens 12 to 15",
+            "fr": "4 à 11 ans, gratuit ; ados 12 à 15"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Own beach on site",
+            "fr": "Plage privée sur place"
+          }
+        },
+        {
+          "icon": "🏛️",
+          "label": {
+            "en": "Knossos",
+            "fr": "Knossos"
+          },
+          "value": {
+            "en": "Easy day trip, about 25 km",
+            "fr": "Excursion facile, environ 25 km"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport",
+            "fr": "Aéroport"
+          },
+          "value": {
+            "en": "About 25 min from Heraklion",
+            "fr": "Environ 25 min d'Héraklion"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "Water park day",
+            "fr": "Journée parc aquatique"
+          },
+          "detail": {
+            "en": "Slides and splash zones plus a children's pool with its own slides.",
+            "fr": "Toboggans et zones d'éclaboussures, plus un bassin enfants avec ses propres toboggans."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Full day",
+            "fr": "Journée"
+          }
+        },
+        {
+          "emoji": "🎨",
+          "name": {
+            "en": "Free kids club",
+            "fr": "Club enfants gratuit"
+          },
+          "detail": {
+            "en": "Supervised crafts, games and sports for 4 to 11s, included in the rate.",
+            "fr": "Bricolage, jeux et sports encadrés pour les 4 à 11 ans, inclus dans le tarif."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Half or full day",
+            "fr": "Demi-journée ou journée"
+          }
+        },
+        {
+          "emoji": "🏛️",
+          "name": {
+            "en": "Knossos day trip",
+            "fr": "Excursion à Knossos"
+          },
+          "detail": {
+            "en": "The Minoan palace and Heraklion museum, about 25 km along the coast.",
+            "fr": "Le palais minoen et le musée d'Héraklion, à environ 25 km le long de la côte."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Full day",
+            "fr": "Journée"
+          }
+        },
+        {
+          "emoji": "🎬",
+          "name": {
+            "en": "Open-air cinema",
+            "fr": "Cinéma en plein air"
+          },
+          "detail": {
+            "en": "Family film nights under the stars, a gentle end to a busy day.",
+            "fr": "Soirées film en famille sous les étoiles, une fin douce après une journée bien remplie."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soirée"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Buffet breakfast",
+            "fr": "Petit-déjeuner buffet"
+          },
+          "note": {
+            "en": "Beat the queues before the pools open.",
+            "fr": "On évite la file avant l'ouverture des piscines."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Pools and kids club",
+            "fr": "Piscines et club enfants"
+          },
+          "note": {
+            "en": "Stake out a shady spot early.",
+            "fr": "On réserve un coin ombragé tôt."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and siesta",
+            "fr": "Déjeuner et sieste"
+          },
+          "note": {
+            "en": "Cool down in the shaded bungalow.",
+            "fr": "On se rafraîchit dans le bungalow ombragé."
+          }
+        },
+        {
+          "time": "15:30",
+          "title": {
+            "en": "Water park",
+            "fr": "Parc aquatique"
+          },
+          "note": {
+            "en": "Slides for the big kids.",
+            "fr": "Toboggans pour les grands."
+          }
+        },
+        {
+          "time": "20:30",
+          "title": {
+            "en": "Open-air cinema",
+            "fr": "Cinéma en plein air"
+          },
+          "note": {
+            "en": "A calm end to the day.",
+            "fr": "Une fin de journée tranquille."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "All-inclusive and cots on request help with babies, but the large site means a lot of pushing the pram.",
+          "fr": "La formule tout compris et les lits parapluie sur demande aident avec un bébé, mais le vaste site oblige à pousser beaucoup la poussette."
+        },
+        "toddler": {
+          "en": "Several shallow kids pools and the free club suit toddlers, if you base near a pool.",
+          "fr": "Plusieurs bassins enfants peu profonds et le club gratuit conviennent aux tout-petits, si vous logez près d'une piscine."
+        },
+        "kid": {
+          "en": "The peak age here: water park, kids club, pools and the beach all included.",
+          "fr": "L'âge idéal ici : parc aquatique, club enfants, piscines et plage, tout est inclus."
+        },
+        "teen": {
+          "en": "A summer teens club, water park and Knossos trips keep 12 to 15s engaged.",
+          "fr": "Un club ados l'été, le parc aquatique et les sorties à Knossos occupent les 12 à 15 ans."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is it too big for young children?",
+            "fr": "Est-ce trop grand pour de jeunes enfants ?"
+          },
+          "a": {
+            "en": "It is a large resort, so there is a lot of walking. It works well with young children if you request a bungalow near a pool and the kids club when you book.",
+            "fr": "C'est un grand resort, donc on marche beaucoup. Cela fonctionne bien avec de jeunes enfants si vous demandez un bungalow près d'une piscine et du club enfants à la réservation."
+          }
+        },
+        {
+          "q": {
+            "en": "What is included in the all-inclusive?",
+            "fr": "Que comprend la formule tout compris ?"
+          },
+          "a": {
+            "en": "Meals across seven restaurants, snacks, drinks and the kids club are included. Some activities such as tennis lessons carry an extra charge.",
+            "fr": "Les repas dans sept restaurants, les snacks, les boissons et le club enfants sont inclus. Certaines activités comme les cours de tennis sont en supplément."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we visit Knossos from here?",
+            "fr": "Peut-on visiter Knossos depuis ici ?"
+          },
+          "a": {
+            "en": "Yes. The Minoan palace of Knossos and Heraklion are about 25 km away, an easy half or full-day trip by car or organised excursion.",
+            "fr": "Oui. Le palais minoen de Knossos et Héraklion sont à environ 25 km, une excursion facile d'une demi-journée ou d'une journée en voiture ou en tour organisé."
+          }
+        }
+      ]
+    },
+    {
+      "key": "crete-candia-park-village",
+      "destinationKey": "crete",
+      "name": "Candia Park Village",
+      "area": {
+        "en": "Agios Nikolaos (Mirabello Bay)",
+        "fr": "Agios Nikolaos (baie de Mirabello)"
+      },
+      "lat": 35.201,
+      "lng": 25.728,
+      "zoom": 13,
+      "address": "Candia Park Village, Agios Nikolaos, Crete, Greece",
+      "priceTier": 3,
+      "priceFrom": 190,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "beach-access",
+        "family-suites",
+        "self-catering",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "villaPink",
+        "resortCanal",
+        "deckLoungersSea"
+      ],
+      "scores": {
+        "rooms": 78,
+        "baby": 88,
+        "pool": 76,
+        "dining": 74,
+        "safety": 86,
+        "convenience": 80,
+        "location": 82,
+        "extras": 72
+      },
+      "roomsSummary": {
+        "en": "Two-storey, self-catering apartments styled like a colourful Cretan village, each with a kitchenette, dining area and a garden terrace or veranda. The whole resort is designed to be walkable with a pram, and the kitchenette makes early teas and fussy-eater breakfasts genuinely easy.",
+        "fr": "Des appartements en duplex avec cuisine, façon village crétois coloré, chacun avec kitchenette, coin repas et terrasse ou véranda de jardin. Tout le resort est pensé pour circuler en poussette, et la kitchenette simplifie vraiment les goûters tôt et les petits-déjeuners des enfants difficiles."
+      },
+      "intro": {
+        "en": "A charming self-catering village on Mirabello Bay, between Agios Nikolaos and Elounda, built as a cluster of colourful two-storey apartments around gardens and pools. It is small, calm and unusually easy with babies and toddlers: everything is pram-friendly, there is a free kids club, and two little private beaches sit right below the resort.",
+        "fr": "Un charmant village avec cuisine sur la baie de Mirabello, entre Agios Nikolaos et Elounda, conçu comme un ensemble d'appartements en duplex colorés autour de jardins et de piscines. C'est petit, calme et étonnamment simple avec bébés et tout-petits : tout est accessible en poussette, il y a un club enfants gratuit, et deux petites plages privées se trouvent juste en contrebas du resort."
+      },
+      "highlights": {
+        "en": [
+          "Self-catering apartments with kitchenettes, ideal for babies and toddlers",
+          "Free Mini Blues kids club for ages 4 to 12, with babysitting available",
+          "Two small private beaches and three pools right on Mirabello Bay",
+          "Designed to be fully pram-friendly across the whole resort",
+          "Five minutes to Agios Nikolaos and Elounda for tavernas and shops",
+          "Calm, small-village feel rather than a huge resort"
+        ],
+        "fr": [
+          "Appartements avec cuisine et kitchenette, idéaux pour bébés et tout-petits",
+          "Club enfants Mini Blues gratuit de 4 à 12 ans, avec baby-sitting disponible",
+          "Deux petites plages privées et trois piscines sur la baie de Mirabello",
+          "Conçu pour être entièrement accessible en poussette dans tout le resort",
+          "Cinq minutes d'Agios Nikolaos et d'Elounda pour tavernes et boutiques",
+          "Ambiance de petit village calme plutôt que de grand resort"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Kitchenettes plus pram-friendly paths make babies and toddlers easy",
+          "Free kids club and babysitting in a small, calm resort",
+          "Two private beaches on a sheltered bay"
+        ],
+        "fr": [
+          "Kitchenettes et allées accessibles en poussette qui facilitent bébés et tout-petits",
+          "Club enfants gratuit et baby-sitting dans un resort petit et calme",
+          "Deux plages privées sur une baie abritée"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The private beaches are small, and partly pebbly rather than long soft sand",
+          "Dining choice on site is limited compared with big all-inclusive resorts",
+          "You will want a car for beaches, tavernas and days out"
+        ],
+        "fr": [
+          "Les plages privées sont petites, et en partie de galets plutôt que de longue plage de sable",
+          "Le choix de restauration sur place est limité face aux grands resorts tout compris",
+          "Une voiture est utile pour les plages, les tavernes et les sorties"
+        ]
+      },
+      "verdict": {
+        "en": "The pick for families with babies and toddlers who want a kitchen, calm and a free kids club in a small, characterful village. Self-cater the tricky meals and use Agios Nikolaos and Elounda for evenings out.",
+        "fr": "Le choix pour les familles avec bébés et tout-petits qui veulent une cuisine, du calme et un club enfants gratuit dans un petit village de caractère. Cuisinez les repas compliqués et gardez Agios Nikolaos et Elounda pour les soirées."
+      },
+      "parentTip": {
+        "en": "Bring or hire a car and stock the kitchenette on arrival: it turns early breakfasts and toddler teas into a non-event and keeps the holiday budget down.",
+        "fr": "Prévoyez une voiture et remplissez la kitchenette dès l'arrivée : petits-déjeuners tôt et goûters des tout-petits deviennent une formalité, et le budget vacances reste sous contrôle."
+      },
+      "atAGlance": [
+        {
+          "icon": "🍳",
+          "label": {
+            "en": "Self-catering",
+            "fr": "Cuisine"
+          },
+          "value": {
+            "en": "Kitchenette in every apartment",
+            "fr": "Kitchenette dans chaque appartement"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Two small private beaches",
+            "fr": "Deux petites plages privées"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Mini Blues, ages 4 to 12, free",
+            "fr": "Mini Blues, 4 à 12 ans, gratuit"
+          }
+        },
+        {
+          "icon": "🚼",
+          "label": {
+            "en": "Buggies",
+            "fr": "Poussettes"
+          },
+          "value": {
+            "en": "Fully pram-friendly resort",
+            "fr": "Resort entièrement accessible en poussette"
+          }
+        },
+        {
+          "icon": "🚗",
+          "label": {
+            "en": "Getting around",
+            "fr": "Déplacements"
+          },
+          "value": {
+            "en": "Car recommended",
+            "fr": "Voiture recommandée"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport",
+            "fr": "Aéroport"
+          },
+          "value": {
+            "en": "About 1 hr 15 from Heraklion",
+            "fr": "Environ 1 h 15 d'Héraklion"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Private beach morning",
+            "fr": "Matinée plage privée"
+          },
+          "detail": {
+            "en": "Two small, sheltered beaches on Mirabello Bay for an easy paddle.",
+            "fr": "Deux petites plages abritées sur la baie de Mirabello pour une baignade tranquille."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matinée"
+          }
+        },
+        {
+          "emoji": "🎨",
+          "name": {
+            "en": "Mini Blues kids club",
+            "fr": "Club enfants Mini Blues"
+          },
+          "detail": {
+            "en": "Free supervised games and crafts for 4 to 12s, with babysitting on request.",
+            "fr": "Jeux et bricolage encadrés et gratuits pour les 4 à 12 ans, baby-sitting sur demande."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journée"
+          }
+        },
+        {
+          "emoji": "🚤",
+          "name": {
+            "en": "Agios Nikolaos harbour",
+            "fr": "Port d'Agios Nikolaos"
+          },
+          "detail": {
+            "en": "Five minutes to the pretty harbour town, with its lake, boats and ice cream.",
+            "fr": "Cinq minutes de la jolie ville-port, avec son lac, ses bateaux et ses glaces."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journée"
+          }
+        },
+        {
+          "emoji": "🐟",
+          "name": {
+            "en": "Spinalonga boat trip",
+            "fr": "Excursion en bateau à Spinalonga"
+          },
+          "detail": {
+            "en": "A short boat trip from Elounda to the old island fortress, an easy family outing.",
+            "fr": "Une courte traversée depuis Elounda vers l'ancienne forteresse insulaire, sortie facile en famille."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journée"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Breakfast in the apartment",
+            "fr": "Petit-déjeuner à l'appartement"
+          },
+          "note": {
+            "en": "Kitchenette makes it stress-free.",
+            "fr": "La kitchenette rend ça sans stress."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Private beach",
+            "fr": "Plage privée"
+          },
+          "note": {
+            "en": "Sheltered water on Mirabello Bay.",
+            "fr": "Eau abritée sur la baie de Mirabello."
+          }
+        },
+        {
+          "time": "12:30",
+          "title": {
+            "en": "Lunch and nap",
+            "fr": "Déjeuner et sieste"
+          },
+          "note": {
+            "en": "Quiet time on the garden terrace.",
+            "fr": "Temps calme sur la terrasse de jardin."
+          }
+        },
+        {
+          "time": "15:30",
+          "title": {
+            "en": "Pool and kids club",
+            "fr": "Piscine et club enfants"
+          },
+          "note": {
+            "en": "Free club while parents relax.",
+            "fr": "Club gratuit pendant que les parents se détendent."
+          }
+        },
+        {
+          "time": "19:00",
+          "title": {
+            "en": "Dinner in Agios Nikolaos",
+            "fr": "Dîner à Agios Nikolaos"
+          },
+          "note": {
+            "en": "Five minutes to harbour tavernas.",
+            "fr": "Cinq minutes des tavernes du port."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "The standout choice for babies: kitchenettes, pram-friendly paths and cots on request.",
+          "fr": "Le choix phare pour les bébés : kitchenettes, allées accessibles en poussette et lits parapluie sur demande."
+        },
+        "toddler": {
+          "en": "Small sheltered beaches, shallow pools and a free club make this easy with toddlers.",
+          "fr": "Petites plages abritées, piscines peu profondes et club gratuit simplifient le séjour avec des tout-petits."
+        },
+        "kid": {
+          "en": "Kids get the club, pools, beaches and boat trips to Spinalonga nearby.",
+          "fr": "Les enfants profitent du club, des piscines, des plages et des sorties en bateau à Spinalonga tout proche."
+        },
+        "teen": {
+          "en": "Quieter for teens, though watersports and Agios Nikolaos nightspots are close by.",
+          "fr": "Plus calme pour les ados, même si sports nautiques et sorties d'Agios Nikolaos sont tout proches."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Are the apartments really self-catering?",
+            "fr": "Les appartements sont-ils vraiment équipés pour cuisiner ?"
+          },
+          "a": {
+            "en": "Yes. Each two-storey apartment has a kitchenette with a dining area, so you can do breakfasts and children's teas in the room. There are restaurants on site too.",
+            "fr": "Oui. Chaque appartement en duplex a une kitchenette avec coin repas, pour gérer petits-déjeuners et goûters dans le logement. Il y a aussi des restaurants sur place."
+          }
+        },
+        {
+          "q": {
+            "en": "What are the beaches like?",
+            "fr": "À quoi ressemblent les plages ?"
+          },
+          "a": {
+            "en": "Two small private beaches sit on sheltered Mirabello Bay, calm for paddling but compact and partly pebbly rather than long soft sand.",
+            "fr": "Deux petites plages privées bordent la baie abritée de Mirabello, calmes pour barboter mais compactes et en partie de galets plutôt que de longue plage de sable."
+          }
+        },
+        {
+          "q": {
+            "en": "Do we need a car?",
+            "fr": "Faut-il une voiture ?"
+          },
+          "a": {
+            "en": "It helps a lot. Agios Nikolaos and Elounda are five minutes away, and a car makes beaches, tavernas and the Spinalonga boat trip much easier.",
+            "fr": "Cela aide beaucoup. Agios Nikolaos et Elounda sont à cinq minutes, et une voiture facilite nettement les plages, les tavernes et l'excursion en bateau à Spinalonga."
+          }
+        }
+      ]
+    },
+    {
+      "key": "crete-elounda-residence-waterpark",
+      "destinationKey": "crete",
+      "name": "Elounda Residence Resort & Waterpark",
+      "area": {
+        "en": "Elounda",
+        "fr": "Elounda"
+      },
+      "lat": 35.256,
+      "lng": 25.718,
+      "zoom": 13,
+      "address": "Elounda Residence Resort & Waterpark, Elounda, Crete, Greece",
+      "priceTier": 3,
+      "priceFrom": 160,
+      "ages": [
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "family-suites",
+        "self-catering",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolTropicalMtn",
+        "poolPalms",
+        "villaModern"
+      ],
+      "scores": {
+        "rooms": 76,
+        "baby": 68,
+        "pool": 88,
+        "dining": 74,
+        "safety": 78,
+        "convenience": 66,
+        "location": 70,
+        "extras": 82
+      },
+      "roomsSummary": {
+        "en": "A big spread of rooms and apartments, most with a private balcony or terrace, plus premium rooms and private-pool villas. Apartments with kitchenettes make self-catering possible, useful given the hilltop setting where nipping out to a shop or taverna means a walk or a drive.",
+        "fr": "Une large gamme de chambres et d'appartements, la plupart avec balcon ou terrasse privé, plus des chambres premium et des villas avec piscine privée. Les appartements avec kitchenette permettent de cuisiner, utile vu la situation en hauteur où sortir pour une boutique ou une taverne implique une marche ou la voiture."
+      },
+      "intro": {
+        "en": "One of the largest family resorts in eastern Crete, Elounda Residence sits on an olive-clad hillside above Elounda with a free waterpark as its headline: a big saltwater pool, four slides, a children's pool and a water playground. It is a strong-value pick for water-mad families, as long as you accept the hilly setting and that the beach is a walk or shuttle away.",
+        "fr": "L'un des plus grands resorts familiaux de l'est de la Crète, Elounda Residence occupe une colline plantée d'oliviers au-dessus d'Elounda, avec un parc aquatique gratuit en vedette : un grand bassin d'eau de mer, quatre toboggans, un bassin enfants et une aire de jeux aquatique. Un choix au très bon rapport qualité-prix pour les familles fans d'eau, à condition d'accepter le relief et le fait que la plage se rejoigne à pied ou en navette."
+      },
+      "highlights": {
+        "en": [
+          "Free waterpark with a large saltwater pool, four slides and a water playground",
+          "Dedicated children's pool and a fun park on site",
+          "Free kids club six days a week from May to the end of September",
+          "Apartments with kitchenettes for families who want to self-cater",
+          "Private-pool villas for families wanting more space and privacy",
+          "Evening entertainment including live music, quizzes and a mini disco"
+        ],
+        "fr": [
+          "Parc aquatique gratuit avec grand bassin d'eau de mer, quatre toboggans et aire de jeux aquatique",
+          "Bassin enfants dédié et parc d'attractions sur place",
+          "Club enfants gratuit six jours sur sept de mai à fin septembre",
+          "Appartements avec kitchenette pour les familles qui veulent cuisiner",
+          "Villas avec piscine privée pour plus d'espace et d'intimité",
+          "Animations en soirée avec musique live, quiz et mini-disco"
+        ]
+      },
+      "pros": {
+        "en": [
+          "A genuinely free waterpark with four slides is the big draw",
+          "Free kids club plus apartments with kitchenettes",
+          "Strong value for a water-focused family week"
+        ],
+        "fr": [
+          "Un parc aquatique vraiment gratuit avec quatre toboggans, le gros atout",
+          "Club enfants gratuit et appartements avec kitchenette",
+          "Très bon rapport qualité-prix pour une semaine axée sur l'eau"
+        ]
+      },
+      "cons": {
+        "en": [
+          "It is on a steep hillside, so expect slopes and steps around the resort",
+          "The beach is a downhill walk or a shuttle, not on the doorstep",
+          "Central Elounda is about a 15-minute walk, so a car is handy"
+        ],
+        "fr": [
+          "C'est sur une colline abrupte : prévoyez des pentes et des marches dans le resort",
+          "La plage se rejoint à pied en descente ou en navette, pas au pied de l'hôtel",
+          "Le centre d'Elounda est à environ 15 minutes à pied, une voiture est pratique"
+        ]
+      },
+      "verdict": {
+        "en": "The value water-park choice for families whose priority is slides and pools, not a beachfront. Book an apartment with a kitchenette, and be honest with yourself about the hills if you are travelling with a buggy.",
+        "fr": "Le choix parc aquatique au bon prix pour les familles dont la priorité est toboggans et piscines, pas le front de mer. Réservez un appartement avec kitchenette, et soyez lucide sur le relief si vous voyagez avec une poussette."
+      },
+      "parentTip": {
+        "en": "Ask for a room in the lower part of the resort near the waterpark: it spares you the steepest climbs with tired children at the end of the day.",
+        "fr": "Demandez une chambre dans la partie basse du resort, près du parc aquatique : cela vous épargne les montées les plus raides avec des enfants fatigués en fin de journée."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Waterpark",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "Free, four slides plus kids pool",
+            "fr": "Gratuit, quatre toboggans et bassin enfants"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free, six days a week in season",
+            "fr": "Gratuit, six jours sur sept en saison"
+          }
+        },
+        {
+          "icon": "🍳",
+          "label": {
+            "en": "Self-catering",
+            "fr": "Cuisine"
+          },
+          "value": {
+            "en": "Apartments with kitchenettes",
+            "fr": "Appartements avec kitchenette"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Downhill walk or shuttle",
+            "fr": "À pied en descente ou en navette"
+          }
+        },
+        {
+          "icon": "⛰️",
+          "label": {
+            "en": "Setting",
+            "fr": "Cadre"
+          },
+          "value": {
+            "en": "Hillside, slopes and steps",
+            "fr": "Colline, pentes et marches"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport",
+            "fr": "Aéroport"
+          },
+          "value": {
+            "en": "About 1 hr 15 from Heraklion",
+            "fr": "Environ 1 h 15 d'Héraklion"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "Waterpark day",
+            "fr": "Journée parc aquatique"
+          },
+          "detail": {
+            "en": "Four slides, a big saltwater pool and a water playground, all free to guests.",
+            "fr": "Quatre toboggans, un grand bassin d'eau de mer et une aire de jeux aquatique, gratuits pour les clients."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Full day",
+            "fr": "Journée"
+          }
+        },
+        {
+          "emoji": "🎨",
+          "name": {
+            "en": "Free kids club",
+            "fr": "Club enfants gratuit"
+          },
+          "detail": {
+            "en": "Supervised games and activities six days a week through the season.",
+            "fr": "Jeux et activités encadrés six jours sur sept pendant la saison."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journée"
+          }
+        },
+        {
+          "emoji": "🚤",
+          "name": {
+            "en": "Elounda and Spinalonga",
+            "fr": "Elounda et Spinalonga"
+          },
+          "detail": {
+            "en": "Down to Elounda for a boat to the Spinalonga fortress island.",
+            "fr": "Descente à Elounda pour un bateau vers l'île forteresse de Spinalonga."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journée"
+          }
+        },
+        {
+          "emoji": "🎤",
+          "name": {
+            "en": "Evening entertainment",
+            "fr": "Animation en soirée"
+          },
+          "detail": {
+            "en": "Live music, quizzes and a mini disco to round off the day.",
+            "fr": "Musique live, quiz et mini-disco pour clore la journée."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soirée"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast in the apartment",
+            "fr": "Petit-déjeuner à l'appartement"
+          },
+          "note": {
+            "en": "Kitchenette saves the morning rush.",
+            "fr": "La kitchenette évite la course du matin."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Waterpark",
+            "fr": "Parc aquatique"
+          },
+          "note": {
+            "en": "Slides before the midday sun peaks.",
+            "fr": "Toboggans avant le plein soleil de midi."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and shade",
+            "fr": "Déjeuner et ombre"
+          },
+          "note": {
+            "en": "Rest out of the heat.",
+            "fr": "On se repose à l'abri de la chaleur."
+          }
+        },
+        {
+          "time": "15:30",
+          "title": {
+            "en": "Kids club or pool",
+            "fr": "Club enfants ou piscine"
+          },
+          "note": {
+            "en": "Free club while parents unwind.",
+            "fr": "Club gratuit pendant que les parents décompressent."
+          }
+        },
+        {
+          "time": "20:30",
+          "title": {
+            "en": "Mini disco",
+            "fr": "Mini-disco"
+          },
+          "note": {
+            "en": "A lively end to the day.",
+            "fr": "Une fin de journée animée."
+          }
+        }
+      ],
+      "ageNotes": {
+        "toddler": {
+          "en": "The children's pool and free club suit toddlers, but the hilly site is hard work with a buggy.",
+          "fr": "Le bassin enfants et le club gratuit conviennent aux tout-petits, mais le site en pente est pénible avec une poussette."
+        },
+        "kid": {
+          "en": "The ideal age here: four slides, the waterpark and the free club fill the days.",
+          "fr": "L'âge idéal ici : quatre toboggans, le parc aquatique et le club gratuit remplissent les journées."
+        },
+        "teen": {
+          "en": "The waterpark, evening shows and Spinalonga trips keep teens entertained.",
+          "fr": "Le parc aquatique, les spectacles du soir et les sorties à Spinalonga occupent les ados."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the waterpark really free?",
+            "fr": "Le parc aquatique est-il vraiment gratuit ?"
+          },
+          "a": {
+            "en": "Yes. Guests get free access to the waterpark, which has a large saltwater pool, four slides, a children's pool and a water playground.",
+            "fr": "Oui. Les clients accèdent gratuitement au parc aquatique, qui compte un grand bassin d'eau de mer, quatre toboggans, un bassin enfants et une aire de jeux aquatique."
+          }
+        },
+        {
+          "q": {
+            "en": "How far is the beach?",
+            "fr": "À quelle distance est la plage ?"
+          },
+          "a": {
+            "en": "The resort is up on a hillside, so the beach is a downhill walk or a shuttle ride away rather than on the doorstep. Many families spend most days at the waterpark.",
+            "fr": "Le resort est en hauteur, la plage se rejoint donc à pied en descente ou en navette plutôt qu'au pied de l'hôtel. Beaucoup de familles passent l'essentiel des journées au parc aquatique."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it manageable with a buggy?",
+            "fr": "Est-ce gérable avec une poussette ?"
+          },
+          "a": {
+            "en": "It is doable but hard work, as the resort is built on a steep hill with slopes and steps. Ask for a room in the lower part near the waterpark to reduce the climbs.",
+            "fr": "C'est faisable mais fatigant, car le resort est bâti sur une colline abrupte avec pentes et marches. Demandez une chambre en partie basse, près du parc aquatique, pour limiter les montées."
+          }
+        }
+      ]
+    },
+    {
+      "key": "crete-gdm-megaron-heraklion",
+      "destinationKey": "crete",
+      "name": "GDM Megaron Hotel",
+      "area": {
+        "en": "Heraklion",
+        "fr": "Héraklion"
+      },
+      "lat": 35.34,
+      "lng": 25.133,
+      "zoom": 13,
+      "address": "GDM Megaron Hotel, Heraklion, Crete, Greece",
+      "priceTier": 2,
+      "priceFrom": 120,
+      "ages": [
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "family-suites",
+        "city-base"
+      ],
+      "photos": [
+        "hotelTowerGreen",
+        "coastTown",
+        "livingRoom"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 62,
+        "pool": 68,
+        "dining": 78,
+        "safety": 80,
+        "convenience": 88,
+        "location": 86,
+        "extras": 66
+      },
+      "roomsSummary": {
+        "en": "Smart, generously sized city rooms and suites in a restored building above the old harbour, some large enough for a family of four. This is a city base rather than a resort, so think comfortable rooms and a rooftop pool rather than kids clubs and splash parks.",
+        "fr": "Chambres et suites urbaines élégantes et spacieuses dans un bâtiment restauré au-dessus du vieux port, certaines assez grandes pour une famille de quatre. C'est une base urbaine plutôt qu'un resort : pensez chambres confortables et piscine sur le toit plutôt que club enfants et parc aquatique."
+      },
+      "intro": {
+        "en": "A polished city hotel in the heart of Heraklion, overlooking the Venetian harbour and Koules fortress, with a rooftop pool and restaurant looking out to sea. It is not a kids-club resort, but it is a comfortable, central base for families who want to do Knossos, the archaeological museum and the old town before heading to a beach, or as a smart first or last night around a flight.",
+        "fr": "Un hôtel urbain soigné au coeur d'Héraklion, dominant le port vénitien et la forteresse Koules, avec piscine et restaurant sur le toit face à la mer. Ce n'est pas un resort à club enfants, mais une base centrale et confortable pour les familles qui veulent faire Knossos, le musée archéologique et la vieille ville avant de filer à la plage, ou comme première ou dernière nuit maligne autour d'un vol."
+      },
+      "highlights": {
+        "en": [
+          "Central Heraklion location, walkable to the old harbour and museum",
+          "Rooftop pool and restaurant with views over the Venetian fortress",
+          "Family-sized rooms and suites in a restored historic building",
+          "About 20 minutes from Knossos, the island's headline sight",
+          "An easy, comfortable first or last night close to the airport",
+          "Cafes, tavernas and shops right on the doorstep"
+        ],
+        "fr": [
+          "Emplacement central à Héraklion, à pied du vieux port et du musée",
+          "Piscine et restaurant sur le toit avec vue sur la forteresse vénitienne",
+          "Chambres et suites familiales dans un bâtiment historique restauré",
+          "À environ 20 minutes de Knossos, le site phare de l'île",
+          "Une première ou dernière nuit facile et confortable, près de l'aéroport",
+          "Cafés, tavernes et boutiques juste devant la porte"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Genuinely central for Knossos, the museum and the old town",
+          "Rooftop pool and sea views in the middle of the city",
+          "Comfortable family rooms and an easy airport transfer"
+        ],
+        "fr": [
+          "Vraiment central pour Knossos, le musée et la vieille ville",
+          "Piscine sur le toit et vue mer en plein centre-ville",
+          "Chambres familiales confortables et transfert aéroport facile"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No kids club, waterpark or beach: this is a city hotel, not a resort",
+          "The rooftop pool is small compared with a resort pool",
+          "A working city, so streets are busier and less pram-relaxed than a resort"
+        ],
+        "fr": [
+          "Pas de club enfants, de parc aquatique ni de plage : c'est un hôtel urbain, pas un resort",
+          "La piscine sur le toit est petite face à une piscine de resort",
+          "Une ville active : rues plus animées et moins reposantes en poussette qu'un resort"
+        ]
+      },
+      "verdict": {
+        "en": "The smart city base for families who want to do Crete's history properly, or need a comfortable, central start or finish to a beach holiday. Pair a night or two here with a resort week elsewhere on the island.",
+        "fr": "La base urbaine maligne pour les familles qui veulent vraiment faire l'histoire de la Crète, ou qui ont besoin d'un début ou d'une fin de séjour central et confortable avant la plage. Combinez une ou deux nuits ici avec une semaine en resort ailleurs sur l'île."
+      },
+      "parentTip": {
+        "en": "Do Knossos first thing in the morning before the heat and the coach tours arrive, then cool off in the rooftop pool over lunch.",
+        "fr": "Faites Knossos dès l'ouverture, avant la chaleur et les cars de touristes, puis rafraîchissez-vous dans la piscine du toit à l'heure du déjeuner."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏙️",
+          "label": {
+            "en": "Type",
+            "fr": "Type"
+          },
+          "value": {
+            "en": "Central city hotel, not a resort",
+            "fr": "Hôtel urbain central, pas un resort"
+          }
+        },
+        {
+          "icon": "🏛️",
+          "label": {
+            "en": "Knossos",
+            "fr": "Knossos"
+          },
+          "value": {
+            "en": "About 20 minutes away",
+            "fr": "À environ 20 minutes"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "Rooftop pool with sea views",
+            "fr": "Piscine sur le toit avec vue mer"
+          }
+        },
+        {
+          "icon": "🚶",
+          "label": {
+            "en": "Old town",
+            "fr": "Vieille ville"
+          },
+          "value": {
+            "en": "Harbour and museum on foot",
+            "fr": "Port et musée à pied"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Eating",
+            "fr": "Restauration"
+          },
+          "value": {
+            "en": "Tavernas and cafes on the doorstep",
+            "fr": "Tavernes et cafés juste à côté"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport",
+            "fr": "Aéroport"
+          },
+          "value": {
+            "en": "About 10 min from Heraklion",
+            "fr": "Environ 10 min d'Héraklion"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏛️",
+          "name": {
+            "en": "Palace of Knossos",
+            "fr": "Palais de Knossos"
+          },
+          "detail": {
+            "en": "The great Minoan palace, about 20 minutes away, best done early in the day.",
+            "fr": "Le grand palais minoen, à environ 20 minutes, à faire tôt dans la journée."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journée"
+          }
+        },
+        {
+          "emoji": "🏺",
+          "name": {
+            "en": "Archaeological museum",
+            "fr": "Musée archéologique"
+          },
+          "detail": {
+            "en": "Minoan treasures and the Phaistos Disc, a good rainy or too-hot morning.",
+            "fr": "Trésors minoens et disque de Phaistos, parfait par temps de pluie ou trop chaud."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "1 to 2 hours",
+            "fr": "1 à 2 heures"
+          }
+        },
+        {
+          "emoji": "🏰",
+          "name": {
+            "en": "Venetian harbour walk",
+            "fr": "Balade au port vénitien"
+          },
+          "detail": {
+            "en": "Stroll out to the Koules fortress, then ice cream along the waterfront.",
+            "fr": "Marche jusqu'à la forteresse Koules, puis glace le long du front de mer."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "1 to 2 hours",
+            "fr": "1 à 2 heures"
+          }
+        },
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Rooftop pool break",
+            "fr": "Pause piscine sur le toit"
+          },
+          "detail": {
+            "en": "Cool off between sights in the rooftop pool with views over the sea.",
+            "fr": "On se rafraîchit entre deux visites dans la piscine du toit, avec vue sur la mer."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Early Knossos",
+            "fr": "Knossos tôt"
+          },
+          "note": {
+            "en": "Before the heat and the crowds.",
+            "fr": "Avant la chaleur et la foule."
+          }
+        },
+        {
+          "time": "11:30",
+          "title": {
+            "en": "Archaeological museum",
+            "fr": "Musée archéologique"
+          },
+          "note": {
+            "en": "Air-conditioned Minoan treasures.",
+            "fr": "Trésors minoens, à l'abri de la climatisation."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch in the old town",
+            "fr": "Déjeuner dans la vieille ville"
+          },
+          "note": {
+            "en": "Tavernas a short walk away.",
+            "fr": "Tavernes à quelques pas."
+          }
+        },
+        {
+          "time": "15:00",
+          "title": {
+            "en": "Rooftop pool",
+            "fr": "Piscine sur le toit"
+          },
+          "note": {
+            "en": "Cool off out of the afternoon sun.",
+            "fr": "On se rafraîchit à l'abri du soleil de l'après-midi."
+          }
+        },
+        {
+          "time": "18:30",
+          "title": {
+            "en": "Harbour stroll",
+            "fr": "Balade au port"
+          },
+          "note": {
+            "en": "Fortress views and ice cream.",
+            "fr": "Vue sur la forteresse et glace."
+          }
+        }
+      ],
+      "ageNotes": {
+        "kid": {
+          "en": "Great for curious kids doing Knossos and the museum, with a rooftop pool to cool off.",
+          "fr": "Idéal pour les enfants curieux qui font Knossos et le musée, avec la piscine du toit pour se rafraîchir."
+        },
+        "teen": {
+          "en": "Teens get the history, city cafes and a central base, with beaches a short drive away.",
+          "fr": "Les ados profitent de l'histoire, des cafés de la ville et d'une base centrale, avec les plages à quelques minutes en voiture."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is there a kids club or beach?",
+            "fr": "Y a-t-il un club enfants ou une plage ?"
+          },
+          "a": {
+            "en": "No. This is a central city hotel, not a resort, so there is no kids club and no beach on site. It is best as a base for sightseeing or a night either side of a beach stay.",
+            "fr": "Non. C'est un hôtel urbain central, pas un resort : il n'y a ni club enfants ni plage sur place. Il vaut mieux l'utiliser comme base pour les visites ou pour une nuit avant ou après un séjour à la plage."
+          }
+        },
+        {
+          "q": {
+            "en": "How close is Knossos?",
+            "fr": "Knossos est-il proche ?"
+          },
+          "a": {
+            "en": "Very. The Palace of Knossos is about 20 minutes away, and the archaeological museum is a short walk from the hotel, so you can do the island's headline history easily.",
+            "fr": "Très. Le palais de Knossos est à environ 20 minutes, et le musée archéologique à quelques pas de l'hôtel : vous faites l'histoire phare de l'île sans difficulté."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it good with very young children?",
+            "fr": "Est-ce adapté aux très jeunes enfants ?"
+          },
+          "a": {
+            "en": "It suits families with kids and teens more than babies. It is a working city with busy streets, and the rooftop pool is small, so it is better as a sightseeing base than a stay-put resort.",
+            "fr": "Il convient plus aux familles avec enfants et ados qu'aux bébés. C'est une ville active aux rues animées, et la piscine du toit est petite : mieux vaut le voir comme une base de visites que comme un resort où l'on reste."
+          }
+        }
+      ]
+    },
+    {
+      "key": "crete-bali-beach-village",
+      "destinationKey": "crete",
+      "name": "Bali Beach & Village",
+      "area": {
+        "en": "Bali, Rethymno",
+        "fr": "Bali, Réthymnon"
+      },
+      "lat": 35.411,
+      "lng": 24.781,
+      "zoom": 13,
+      "address": "Bali Beach & Village, Bali, Rethymno, Crete, Greece",
+      "priceTier": 2,
+      "priceFrom": 95,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid"
+      ],
+      "amenities": [
+        "pool",
+        "beach-access",
+        "family-suites",
+        "self-catering",
+        "toddler-friendly"
+      ],
+      "photos": [
+        "deckLoungersSea",
+        "roomCozy",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 70,
+        "baby": 78,
+        "pool": 72,
+        "dining": 68,
+        "safety": 80,
+        "convenience": 70,
+        "location": 78,
+        "extras": 62
+      },
+      "roomsSummary": {
+        "en": "A relaxed mix of hotel rooms and village-style studios and apartments, many with a kitchenette and balcony, spread across the hillside above Bali's coves. The self-catering options and simple, no-fuss rooms make it a genuine value pick for families who mainly want the beach.",
+        "fr": "Un mélange détendu de chambres d'hôtel et de studios et appartements façon village, beaucoup avec kitchenette et balcon, répartis sur la colline au-dessus des criques de Bali. Les options avec cuisine et les chambres simples et sans chichis en font un vrai choix économique pour les familles qui veulent surtout la plage."
+      },
+      "intro": {
+        "en": "A friendly, good-value base in the little fishing village of Bali on Crete's north coast, where a string of small, sheltered coves gives calm, shallow water that suits young children. Rooms range from simple doubles to self-catering studios, and while it is not a slick all-inclusive, the coves, the pools and the low prices make it an easy family week.",
+        "fr": "Une base sympathique et économique dans le petit village de pêcheurs de Bali, sur la côte nord de la Crète, où un chapelet de petites criques abritées offre une eau calme et peu profonde qui convient aux jeunes enfants. Les logements vont de la chambre double simple au studio avec cuisine, et même si ce n'est pas un tout compris léché, les criques, les piscines et les petits prix en font une semaine en famille facile."
+      },
+      "highlights": {
+        "en": [
+          "Steps from Bali's small, sheltered coves with calm, shallow water",
+          "Self-catering studios and apartments with kitchenettes and balconies",
+          "Outdoor pools including children's pools",
+          "Simple, low-key village setting with tavernas around the bays",
+          "Good value, well suited to babies, toddlers and younger children",
+          "Table tennis, billiards and low-key evening entertainment"
+        ],
+        "fr": [
+          "À deux pas des petites criques abritées de Bali, à l'eau calme et peu profonde",
+          "Studios et appartements avec cuisine, kitchenette et balcon",
+          "Piscines extérieures dont des bassins enfants",
+          "Cadre de village simple et tranquille, avec tavernes autour des baies",
+          "Bon rapport qualité-prix, bien adapté aux bébés, tout-petits et jeunes enfants",
+          "Tennis de table, billard et animations douces en soirée"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Sheltered coves with calm, shallow water for little ones",
+          "Kitchenettes and low prices keep the week affordable",
+          "Easygoing village feel rather than a big resort machine"
+        ],
+        "fr": [
+          "Criques abritées à l'eau calme et peu profonde pour les petits",
+          "Kitchenettes et petits prix qui gardent la semaine abordable",
+          "Ambiance de village décontractée plutôt que grosse machine à resort"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No kids club, and less on-site entertainment than a big resort",
+          "Bali is hilly, so expect slopes between rooms, coves and tavernas",
+          "The coves are small and get busy in peak summer"
+        ],
+        "fr": [
+          "Pas de club enfants, et moins d'animations sur place qu'un grand resort",
+          "Bali est vallonné : prévoyez des pentes entre chambres, criques et tavernes",
+          "Les criques sont petites et se remplissent en plein été"
+        ]
+      },
+      "verdict": {
+        "en": "A relaxed, affordable pick for families with young children who want calm coves and a kitchen over a big resort machine. Choose a studio for the kitchenette and lean into the slow village pace.",
+        "fr": "Un choix détendu et abordable pour les familles avec de jeunes enfants qui préfèrent des criques calmes et une cuisine à une grosse machine à resort. Prenez un studio pour la kitchenette et laissez-vous porter par le rythme lent du village."
+      },
+      "parentTip": {
+        "en": "Pick the cove nearest your room and make it your base: with small children, less walking up and down Bali's slopes is worth more than chasing the perfect beach.",
+        "fr": "Choisissez la crique la plus proche de votre chambre et faites-en votre camp de base : avec de jeunes enfants, moins de montées et descentes dans les pentes de Bali vaut mieux que courir après la plage parfaite."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Sheltered coves, calm and shallow",
+            "fr": "Criques abritées, calmes et peu profondes"
+          }
+        },
+        {
+          "icon": "🍳",
+          "label": {
+            "en": "Self-catering",
+            "fr": "Cuisine"
+          },
+          "value": {
+            "en": "Studios with kitchenettes",
+            "fr": "Studios avec kitchenette"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Outdoor pools with kids pools",
+            "fr": "Piscines extérieures avec bassins enfants"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Value",
+            "fr": "Budget"
+          },
+          "value": {
+            "en": "Good value, simple rooms",
+            "fr": "Bon rapport qualité-prix, chambres simples"
+          }
+        },
+        {
+          "icon": "⛰️",
+          "label": {
+            "en": "Setting",
+            "fr": "Cadre"
+          },
+          "value": {
+            "en": "Hilly village, some slopes",
+            "fr": "Village vallonné, quelques pentes"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport",
+            "fr": "Aéroport"
+          },
+          "value": {
+            "en": "About 45 min from Heraklion",
+            "fr": "Environ 45 min d'Héraklion"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Cove-hopping",
+            "fr": "De crique en crique"
+          },
+          "detail": {
+            "en": "Bali has several small, sheltered coves, calm and shallow for young paddlers.",
+            "fr": "Bali compte plusieurs petites criques abritées, calmes et peu profondes pour les jeunes baigneurs."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matinée"
+          }
+        },
+        {
+          "emoji": "🤿",
+          "name": {
+            "en": "Snorkelling in the bay",
+            "fr": "Snorkeling dans la baie"
+          },
+          "detail": {
+            "en": "Clear, calm water around the rocks makes a first snorkel easy for older kids.",
+            "fr": "L'eau claire et calme autour des rochers rend un premier snorkeling facile pour les plus grands."
+          },
+          "ages": [
+            "kid"
+          ],
+          "time": {
+            "en": "1 to 2 hours",
+            "fr": "1 à 2 heures"
+          }
+        },
+        {
+          "emoji": "🍽️",
+          "name": {
+            "en": "Harbour taverna dinner",
+            "fr": "Dîner à la taverne du port"
+          },
+          "detail": {
+            "en": "Family-friendly tavernas around the little fishing harbour.",
+            "fr": "Tavernes accueillantes pour les familles autour du petit port de pêche."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soirée"
+          }
+        },
+        {
+          "emoji": "🏓",
+          "name": {
+            "en": "Table tennis and games",
+            "fr": "Ping-pong et jeux"
+          },
+          "detail": {
+            "en": "Simple on-site fun like table tennis and billiards for downtime.",
+            "fr": "Loisirs simples sur place, ping-pong et billard, pour les temps morts."
+          },
+          "ages": [
+            "kid"
+          ],
+          "time": {
+            "en": "1 hour",
+            "fr": "1 heure"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast on the balcony",
+            "fr": "Petit-déjeuner au balcon"
+          },
+          "note": {
+            "en": "Kitchenette makes mornings simple.",
+            "fr": "La kitchenette simplifie les matins."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Cove morning",
+            "fr": "Matinée à la crique"
+          },
+          "note": {
+            "en": "Calm, shallow water while it is quiet.",
+            "fr": "Eau calme et peu profonde tant que c'est tranquille."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and nap",
+            "fr": "Déjeuner et sieste"
+          },
+          "note": {
+            "en": "Escape the midday heat.",
+            "fr": "On échappe à la chaleur de midi."
+          }
+        },
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Pool time",
+            "fr": "Temps piscine"
+          },
+          "note": {
+            "en": "Kids pool as it cools down.",
+            "fr": "Bassin enfants quand la chaleur retombe."
+          }
+        },
+        {
+          "time": "19:00",
+          "title": {
+            "en": "Dinner by the harbour",
+            "fr": "Dîner au port"
+          },
+          "note": {
+            "en": "Easygoing village tavernas.",
+            "fr": "Tavernes de village décontractées."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Kitchenettes and calm, shallow coves make babies manageable, though the hills mean some pram-pushing.",
+          "fr": "Kitchenettes et criques calmes et peu profondes rendent le séjour gérable avec un bébé, même si les pentes obligent à pousser la poussette."
+        },
+        "toddler": {
+          "en": "The sheltered coves are gentle for toddlers, and self-catering keeps mealtimes easy.",
+          "fr": "Les criques abritées sont douces pour les tout-petits, et la cuisine autonome simplifie les repas."
+        },
+        "kid": {
+          "en": "Kids get coves, snorkelling and pools, though there is no kids club to drop them at.",
+          "fr": "Les enfants profitent des criques, du snorkeling et des piscines, mais il n'y a pas de club enfants où les déposer."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is there a kids club?",
+            "fr": "Y a-t-il un club enfants ?"
+          },
+          "a": {
+            "en": "No. Bali Beach & Village is a relaxed, value base without a dedicated kids club, though there is some low-key evening entertainment and games like table tennis.",
+            "fr": "Non. Bali Beach & Village est une base économique et détendue sans club enfants dédié, mais il y a quelques animations douces le soir et des jeux comme le ping-pong."
+          }
+        },
+        {
+          "q": {
+            "en": "Are the coves good for young children?",
+            "fr": "Les criques sont-elles bien pour les jeunes enfants ?"
+          },
+          "a": {
+            "en": "Yes. Bali sits around several small, sheltered coves with calm, shallow water, which suits babies and toddlers, though the coves are compact and busier in peak summer.",
+            "fr": "Oui. Bali s'organise autour de plusieurs petites criques abritées à l'eau calme et peu profonde, ce qui convient aux bébés et tout-petits, même si les criques sont compactes et plus fréquentées en plein été."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we self-cater?",
+            "fr": "Peut-on cuisiner sur place ?"
+          },
+          "a": {
+            "en": "Yes. Many of the studios and apartments have a kitchenette and balcony, so you can do breakfasts and children's teas in the room and keep costs down.",
+            "fr": "Oui. Beaucoup de studios et appartements ont une kitchenette et un balcon, pour gérer petits-déjeuners et goûters dans le logement et maîtriser le budget."
+          }
+        }
+      ]
+    }
+  ],
+  "destinationMeta": {
+    "heroKicker": {
+      "en": "Family beaches, big resorts and ancient palaces",
+      "fr": "Plages familiales, grands resorts et palais antiques"
+    },
+    "intro": {
+      "en": "Crete is the Mediterranean's family beach heavyweight: a long north coast lined with all-inclusive resorts, kids clubs and water parks, backed by calm, shallow bays that suit the smallest paddlers. Add the Minoan palace of Knossos, pink-sand beaches and a sea that stays warm into October, and you have an island that works for babies, big kids and grandparents in one trip.",
+      "fr": "La Crète est le poids lourd des vacances familiales à la plage en Méditerranée : une longue côte nord bordée de resorts tout compris, de clubs enfants et de parcs aquatiques, adossée à des baies calmes et peu profondes qui conviennent aux plus petits baigneurs. Ajoutez le palais minoen de Knossos, des plages de sable rose et une mer qui reste chaude jusqu'en octobre, et vous obtenez une île qui fonctionne pour les bébés, les grands enfants et les grands-parents en un seul voyage."
+    },
+    "whyKids": {
+      "en": [
+        "Calm, shallow bays like Georgioupolis and Mirabello are gentle for first swims",
+        "All-inclusive resorts bundle kids clubs, water parks and dining into one price",
+        "Knossos and the Heraklion museum turn Greek myths into a real family day out",
+        "The sea stays warm well into October, so shoulder-season trips still swim"
+      ],
+      "fr": [
+        "Des baies calmes et peu profondes comme Georgioupolis et Mirabello, douces pour les premières baignades",
+        "Les resorts tout compris réunissent clubs enfants, parcs aquatiques et repas à prix unique",
+        "Knossos et le musée d'Héraklion transforment les mythes grecs en vraie sortie familiale",
+        "La mer reste chaude jusqu'en octobre, on nage encore en ailes de saison"
+      ]
+    },
+    "bestAreas": {
+      "en": [
+        "Chania and Georgioupolis: calm western beaches, a pretty old town and smart family resorts",
+        "Rethymno and Bali: golden sand, sheltered coves and good-value family stays",
+        "Hersonissos, Agios Nikolaos and Elounda: big all-inclusives and water parks, plus Knossos day trips"
+      ],
+      "fr": [
+        "La Canée et Georgioupolis : plages calmes de l'ouest, jolie vieille ville et resorts familiaux chics",
+        "Réthymnon et Bali : sable doré, criques abritées et séjours familiaux au bon prix",
+        "Hersonissos, Agios Nikolaos et Elounda : grands tout compris et parcs aquatiques, avec Knossos en excursion"
+      ]
+    },
+    "stats": [
+      {
+        "value": "300+",
+        "label": {
+          "en": "days of sunshine a year",
+          "fr": "jours de soleil par an"
+        }
+      },
+      {
+        "value": "~25C",
+        "label": {
+          "en": "sea temperature into October",
+          "fr": "température de la mer jusqu'en octobre"
+        }
+      },
+      {
+        "value": "4,000 yrs",
+        "label": {
+          "en": "of history at Knossos",
+          "fr": "d'histoire à Knossos"
+        }
+      }
+    ],
+    "activities": [
+      {
+        "emoji": "🏛️",
+        "name": {
+          "en": "Palace of Knossos",
+          "fr": "Palais de Knossos"
+        },
+        "detail": {
+          "en": "The great Minoan palace near Heraklion, home of the labyrinth and Minotaur legend.",
+          "fr": "Le grand palais minoen près d'Héraklion, berceau de la légende du labyrinthe et du Minotaure."
+        },
+        "ages": [
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Half day",
+          "fr": "Demi-journée"
+        }
+      },
+      {
+        "emoji": "🏖️",
+        "name": {
+          "en": "Elafonisi pink beach",
+          "fr": "Plage rose d'Elafonisi"
+        },
+        "detail": {
+          "en": "Shallow turquoise lagoon and pink-tinged sand in the far southwest, a magical family day.",
+          "fr": "Lagon turquoise peu profond et sable rosé à l'extrême sud-ouest, une journée magique en famille."
+        },
+        "ages": [
+          "baby",
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Full day",
+          "fr": "Journée"
+        }
+      },
+      {
+        "emoji": "🛝",
+        "name": {
+          "en": "Watercity water park",
+          "fr": "Parc aquatique Watercity"
+        },
+        "detail": {
+          "en": "A big hillside water park near Heraklion with slides and pools for every age.",
+          "fr": "Un grand parc aquatique à flanc de colline près d'Héraklion, avec toboggans et bassins pour tous les âges."
+        },
+        "ages": [
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Full day",
+          "fr": "Journée"
+        }
+      },
+      {
+        "emoji": "🏰",
+        "name": {
+          "en": "Chania old town",
+          "fr": "Vieille ville de La Canée"
+        },
+        "detail": {
+          "en": "The Venetian harbour, lighthouse and lanes make an easy, pram-friendly wander.",
+          "fr": "Le port vénitien, le phare et les ruelles offrent une balade facile et accessible en poussette."
+        },
+        "ages": [
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Half day",
+          "fr": "Demi-journée"
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "q": {
+          "en": "When is the best time to visit Crete with kids?",
+          "fr": "Quelle est la meilleure période pour visiter la Crète en famille ?"
+        },
+        "a": {
+          "en": "June and September are ideal: warm sea, plenty of sunshine and fewer crowds than July and August, when it is hottest and busiest. The sea stays warm enough to swim into October.",
+          "fr": "Juin et septembre sont idéaux : mer chaude, beaucoup de soleil et moins de monde qu'en juillet et août, les mois les plus chauds et les plus fréquentés. La mer reste assez chaude pour nager jusqu'en octobre."
+        }
+      },
+      {
+        "q": {
+          "en": "Which coast is best for young children?",
+          "fr": "Quelle côte est la meilleure pour les jeunes enfants ?"
+        },
+        "a": {
+          "en": "The north coast, with its calm, shallow bays such as Georgioupolis and Mirabello, is gentler for babies and toddlers. The south can be more exposed, and some beaches are pebbly or windier.",
+          "fr": "La côte nord, avec ses baies calmes et peu profondes comme Georgioupolis et Mirabello, est plus douce pour les bébés et tout-petits. Le sud peut être plus exposé, et certaines plages sont de galets ou plus ventées."
+        }
+      },
+      {
+        "q": {
+          "en": "Do we need a hire car?",
+          "fr": "Faut-il louer une voiture ?"
+        },
+        "a": {
+          "en": "For a big all-inclusive resort you can manage without one, but a hire car opens up beaches, gorges, Knossos and villages, and is well worth it for a self-catering or touring family holiday.",
+          "fr": "Pour un grand resort tout compris, on peut s'en passer, mais une voiture de location ouvre l'accès aux plages, aux gorges, à Knossos et aux villages, et vaut vraiment le coup pour des vacances en cuisine autonome ou en itinérance."
+        }
+      }
+    ],
+    "parentTip": {
+      "en": "Beat the heat and the crowds by doing sights like Knossos and Elafonisi first thing, then spend the fierce midday hours at the pool or in the shade, Cretan-style.",
+      "fr": "Devancez la chaleur et la foule en faisant les visites comme Knossos et Elafonisi dès l'ouverture, puis passez les heures brûlantes de midi à la piscine ou à l'ombre, à la crétoise."
+    },
+    "goodToKnow": {
+      "en": "Crete is large, so distances between resorts and sights can be longer than they look on a map. Pick one base rather than moving around, factor in a car for beaches and day trips, and pack sun hats and reef shoes for the pebbly stretches.",
+      "fr": "La Crète est grande, et les distances entre resorts et sites peuvent être plus longues qu'elles n'en ont l'air sur une carte. Choisissez une seule base plutôt que de bouger sans cesse, prévoyez une voiture pour les plages et les excursions, et emportez chapeaux et chaussures d'eau pour les zones de galets."
+    },
+    "emoji": "🫒",
+    "photos": [
+      "whiteResortPool",
+      "deckLoungersSea",
+      "poolPalms"
+    ]
+  }
+}
