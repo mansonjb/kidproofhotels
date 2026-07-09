@@ -103,6 +103,10 @@ export type Dict = {
     finderGo: string;
     alsoGoodFor: string; // amenity chips heading
     ourPicksWith: string; // "Our picks with {name}"
+    comboIntro: string; // combo page standfirst, {dest} placeholder
+    browseInDest: string; // "Browse {name} by amenity"
+    sameElsewhere: string; // "The same, in other destinations"
+    moreInDest: string; // "More family hotels {dest}"
     howKicker: string;
     howTitle: string;
     steps: { t: string; d: string }[];

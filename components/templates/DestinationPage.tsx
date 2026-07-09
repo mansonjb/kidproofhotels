@@ -4,6 +4,9 @@ import { fill } from "@/lib/i18n";
 import type { Destination, PageEntry } from "@/lib/types";
 import { getByKey, pageHref } from "@/lib/registry";
 import { HOTEL_BY_KEY } from "@/data/hotels";
+import { combosForDestination } from "@/lib/combos";
+import { AMENITY_BY_ID } from "@/data/amenities";
+import Link from "next/link";
 import { Breadcrumb } from "@/components/Breadcrumb";
 import { Stay22Map } from "@/components/Stay22Map";
 import { HotelCard } from "@/components/HotelCard";
@@ -131,6 +134,37 @@ export function DestinationPage({
           locale={locale}
         />
       </div>
+
+      {/* Browse this destination by amenity (city x amenity matrix) */}
+      {(() => {
+        const combos = combosForDestination(dest.key);
+        if (combos.length === 0) return null;
+        return (
+          <section className="mt-12">
+            <h2 className="mb-4 font-display text-2xl text-ink">
+              {fill(dict.browse.browseInDest, { name: dest.name[locale] })}
+            </h2>
+            <ul className="flex flex-wrap gap-2">
+              {combos.map((c) => {
+                const entry = getByKey(c.key);
+                const a = AMENITY_BY_ID.get(c.amenityId);
+                if (!entry || !a) return null;
+                return (
+                  <li key={c.key}>
+                    <Link
+                      href={pageHref(entry, locale)}
+                      className="inline-flex items-center gap-1.5 rounded-full border border-line bg-cloud px-4 py-2 text-sm font-semibold text-ink transition-colors hover:border-line-2 hover:bg-paper-2"
+                    >
+                      <span aria-hidden>{a.emoji}</span>
+                      {a.label[locale]}
+                    </Link>
+                  </li>
+                );
+              })}
+            </ul>
+          </section>
+        );
+      })()}
 
       {dest.parentTip && (
         <Callout variant="hack" title={dict.blocks.parentTip}>

@@ -151,6 +151,10 @@ export const UI_FR: Dict = {
     finderGo: "Trouver des hôtels",
     alsoGoodFor: "Aussi idéal pour",
     ourPicksWith: "Nos choix avec {name}",
+    comboIntro: "Les meilleurs hôtels famille {dest} pour exactement ça, classés par Score KidProof et comparés côte à côte, avec les compromis honnêtes qu'un parent veut avant de réserver.",
+    browseInDest: "Explorer {name} par ce qui compte",
+    sameElsewhere: "La même chose, dans d'autres destinations",
+    moreInDest: "Plus d'hôtels famille {dest}",
     howKicker: "Comment ça marche",
     howTitle: "D'une supposition fatiguée à une réservation confiante",
     steps: [

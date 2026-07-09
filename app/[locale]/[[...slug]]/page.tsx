@@ -27,6 +27,7 @@ import { GuidesIndex } from "@/components/templates/GuidesIndex";
 import { GuidePage } from "@/components/templates/GuidePage";
 import { AmenitiesIndex } from "@/components/templates/AmenitiesIndex";
 import { AmenityPage } from "@/components/templates/AmenityPage";
+import { ComboPage, comboFromKey } from "@/components/templates/ComboPage";
 import { MethodPage } from "@/components/templates/MethodPage";
 
 function amenityFromKey(key: string) {
@@ -81,6 +82,13 @@ function metaFor(
       const a = amenityFromKey(entry.key)!;
       return { title: a.h1[locale], description: a.short[locale] };
     }
+    case "combo": {
+      const c = comboFromKey(entry.key)!;
+      const a = AMENITY_BY_ID.get(c.amenityId)!;
+      const d = DEST_BY_KEY.get(c.destKey)!;
+      const title = `${a.h1[locale]} ${d.inPhrase[locale]}`;
+      return { title, description: `${a.short[locale]} ${d.inPhrase[locale]}.` };
+    }
   }
 }
 
@@ -123,6 +131,9 @@ export default async function Page({
         {entry.kind === "amenities-index" && <AmenitiesIndex locale={loc} dict={dict} />}
         {entry.kind === "amenity" && (
           <AmenityPage amenity={amenityFromKey(entry.key)!} locale={loc} dict={dict} />
+        )}
+        {entry.kind === "combo" && (
+          <ComboPage combo={comboFromKey(entry.key)!} locale={loc} dict={dict} />
         )}
         {entry.kind === "method" && <MethodPage locale={loc} dict={dict} />}
         {entry.kind === "destination" && (

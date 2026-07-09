@@ -2,6 +2,7 @@ import { AMENITIES } from "@/data/amenities";
 import { DESTINATIONS } from "@/data/destinations";
 import { GUIDES } from "@/data/guides";
 import { HOTELS } from "@/data/hotels";
+import { COMBOS } from "@/lib/combos";
 import { LOCALES, localeHref, type Locale } from "@/lib/i18n";
 import type { PageEntry } from "@/lib/types";
 
@@ -66,6 +67,14 @@ export const REGISTRY: PageEntry[] = [
       key: `amenity-${a.id}`,
       kind: "amenity",
       slug: a.slug,
+      related: [],
+    }),
+  ),
+  ...COMBOS.map(
+    (c): PageEntry => ({
+      key: c.key,
+      kind: "combo",
+      slug: c.slug,
       related: [],
     }),
   ),

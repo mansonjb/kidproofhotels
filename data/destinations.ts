@@ -8,6 +8,7 @@ export const DESTINATIONS: Destination[] = [
     key: "lisbon",
     name: { en: "Lisbon", fr: "Lisbonne" },
     country: { en: "Portugal", fr: "Portugal" },
+    inPhrase: { en: "in Lisbon", fr: "à Lisbonne" },
     slug: {
       en: "family-hotels-lisbon",
       fr: "hotels-famille-lisbonne",
@@ -56,6 +57,7 @@ export const DESTINATIONS: Destination[] = [
     key: "algarve",
     name: { en: "The Algarve", fr: "L'Algarve" },
     country: { en: "Portugal", fr: "Portugal" },
+    inPhrase: { en: "in the Algarve", fr: "en Algarve" },
     slug: {
       en: "family-hotels-algarve",
       fr: "hotels-famille-algarve",
@@ -104,6 +106,7 @@ export const DESTINATIONS: Destination[] = [
     key: "costa-del-sol",
     name: { en: "Costa del Sol", fr: "Costa del Sol" },
     country: { en: "Spain", fr: "Espagne" },
+    inPhrase: { en: "on the Costa del Sol", fr: "sur la Costa del Sol" },
     slug: {
       en: "family-hotels-costa-del-sol",
       fr: "hotels-famille-costa-del-sol",

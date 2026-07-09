@@ -49,6 +49,7 @@ export type Destination = {
   key: string;
   name: L10n; // display name, e.g. "Lisbon"
   country: L10n;
+  inPhrase: L10n; // natural "in {place}" phrase, e.g. "in Lisbon" / "en Algarve"
   slug: L10n; // localised path segment, e.g. "family-hotels-lisbon"
   geo: Geo;
   intro: L10n;
@@ -125,6 +126,7 @@ export type PageKind =
   | "guide"
   | "amenities-index"
   | "amenity"
+  | "combo"
   | "method";
 
 export type PageEntry = {
