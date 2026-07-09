@@ -3,7 +3,7 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 
 const DIR = new URL("../data/hotels/", import.meta.url);
-const FILES = ["lisbon.json", "algarve.json", "costa-del-sol.json", "mallorca.json"];
+const FILES = ["lisbon.json", "algarve.json", "costa-del-sol.json", "mallorca.json", "tenerife.json"];
 
 const AMENITIES = new Set([
   "pool", "free-kids-club", "water-slides", "baby-friendly", "beach-access",

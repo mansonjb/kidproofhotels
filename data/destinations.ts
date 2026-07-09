@@ -1,11 +1,13 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 
-// Mallorca's editorial content is authored alongside its hotels (JSON seed).
+// Newer destinations pull their editorial content from the JSON seed's meta.
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const M = (MALLORCA_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const T = (TENERIFE_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -187,6 +189,37 @@ export const DESTINATIONS: Destination[] = [
     faqs: M.faqs,
     parentTip: M.parentTip,
     goodToKnow: M.goodToKnow,
+  },
+  {
+    key: "tenerife",
+    name: { en: "Tenerife", fr: "Tenerife" },
+    country: { en: "Spain", fr: "Espagne" },
+    inPhrase: { en: "in Tenerife", fr: "à Tenerife" },
+    slug: {
+      en: "family-hotels-tenerife",
+      fr: "hotels-famille-tenerife",
+    },
+    geo: { lat: 28.09, lng: -16.74, zoom: 10 },
+    heroKicker: T.heroKicker ?? {
+      en: "Winter sun, year round",
+      fr: "Soleil d'hiver, toute l'année",
+    },
+    intro: T.intro ?? {
+      en: "Tenerife is Europe's year-round family island: warm in winter, calm beaches in the sheltered south, and resorts built around kids clubs, splash parks and Siam Park next door.",
+      fr: "Tenerife est l'île famille toute l'année d'Europe : douce en hiver, plages calmes dans le sud abrité, et des resorts pensés autour des clubs enfants, des parcs à jets et de Siam Park juste à côté.",
+    },
+    whyKids: T.whyKids ?? { en: [], fr: [] },
+    bestAreas: T.bestAreas ?? { en: [], fr: [] },
+    emoji: T.emoji ?? "☀️",
+    accent: "f2933c",
+    hotelKeys: [], // populated below
+    related: ["mallorca", "costa-del-sol", "guide-allinclusive-europe"],
+    photos: T.photos,
+    stats: T.stats,
+    activities: T.activities,
+    faqs: T.faqs,
+    parentTip: T.parentTip,
+    goodToKnow: T.goodToKnow,
   },
 ];
 

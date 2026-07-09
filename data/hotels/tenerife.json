@@ -1,0 +1,2920 @@
+{
+  "hotels": [
+    {
+      "key": "tenerife-gf-victoria",
+      "destinationKey": "tenerife",
+      "name": "GF Victoria",
+      "area": {
+        "en": "Costa Adeje",
+        "fr": "Costa Adeje"
+      },
+      "lat": 28.098,
+      "lng": -16.74,
+      "zoom": 13,
+      "address": "GF Victoria, Costa Adeje, Tenerife, Spain",
+      "priceTier": 4,
+      "priceFrom": 320,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "baby-friendly",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "whiteResortPool",
+        "poolPalms",
+        "resortLoungers"
+      ],
+      "scores": {
+        "rooms": 92,
+        "baby": 88,
+        "pool": 95,
+        "dining": 84,
+        "safety": 86,
+        "convenience": 82,
+        "location": 80,
+        "extras": 90
+      },
+      "roomsSummary": {
+        "en": "Every room is a suite, most with a separate lounge and a sofa bed, so a family of four never has to share one open space. Junior suites suit couples with a baby, and the larger suites give teens their own corner.",
+        "fr": "Toutes les chambres sont des suites, la plupart avec un salon separe et un canape-lit, donc une famille de quatre ne partage jamais un seul espace ouvert. Les junior suites conviennent aux couples avec un bebe, et les grandes suites offrent aux ados leur propre coin."
+      },
+      "intro": {
+        "en": "GF Victoria is the resort children beg to go back to. Five pools, three of them heated for little ones, plus a proper splash park and even a surf simulator mean the water alone can fill a week. The all-suite layout is what wins parents over: room to breathe once the kids are asleep.",
+        "fr": "Le GF Victoria est le complexe ou les enfants supplient de retourner. Cinq piscines, dont trois chauffees pour les petits, plus un vrai parc aquatique et meme un simulateur de surf: l'eau seule peut remplir une semaine. C'est l'agencement tout en suites qui convainc les parents: de la place pour respirer une fois les enfants couches."
+      },
+      "highlights": {
+        "en": [
+          "Splash park with slides and water jets, monitored by lifeguards",
+          "Baby Club from 4 months, plus Mini Club and Teen Club",
+          "Surf simulator pool, a rare hit with older kids",
+          "Three kids pools heated through the winter",
+          "All-suite rooms with a separate lounge and sofa bed",
+          "Free shuttle bus stop outside to Siam Park"
+        ],
+        "fr": [
+          "Parc aquatique avec toboggans et jets d'eau, surveille par des maitres-nageurs",
+          "Baby Club des 4 mois, plus Mini Club et Teen Club",
+          "Piscine a simulateur de surf, un vrai succes chez les plus grands",
+          "Trois piscines enfants chauffees tout l'hiver",
+          "Chambres tout en suites avec salon separe et canape-lit",
+          "Arret de navette gratuite devant l'hotel vers le Siam Park"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Genuine all-suite space for families of four or five",
+          "Water offer is huge for all ages, from splash park to surf pool",
+          "Kids clubs cover babies right up to teens"
+        ],
+        "fr": [
+          "Vrai espace en suite pour les familles de quatre ou cinq",
+          "Offre aquatique enorme pour tous les ages, du parc au simulateur de surf",
+          "Clubs enfants du bebe jusqu'a l'adolescent"
+        ]
+      },
+      "cons": {
+        "en": [
+          "One of the pricier options in Costa Adeje",
+          "Beach is a walk or short bus ride away, not on the doorstep",
+          "Big and busy in school holidays"
+        ],
+        "fr": [
+          "L'une des options les plus cheres de la Costa Adeje",
+          "La plage se rejoint a pied ou en bus, pas au pied de l'hotel",
+          "Grand et anime pendant les vacances scolaires"
+        ]
+      },
+      "verdict": {
+        "en": "If your children measure a holiday in slides and pool time, and you want real space at the end of the day, GF Victoria is close to unbeatable in the south.",
+        "fr": "Si vos enfants mesurent des vacances en toboggans et en temps de piscine, et que vous voulez un vrai espace le soir venu, le GF Victoria est difficile a battre dans le sud."
+      },
+      "parentTip": {
+        "en": "Ask for a suite on a higher floor away from the entertainment stage if you have a baby who naps early. The clubs book up in August, so reserve club places on arrival.",
+        "fr": "Demandez une suite a un etage eleve, loin de la scene d'animation, si vous avez un bebe qui fait la sieste tot. Les clubs se remplissent en aout, reservez les places des l'arrivee."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "5 pools, 3 heated for kids",
+            "fr": "5 piscines, 3 chauffees pour enfants"
+          }
+        },
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water play",
+            "fr": "Jeux d'eau"
+          },
+          "value": {
+            "en": "Splash park and surf simulator",
+            "fr": "Parc aquatique et simulateur de surf"
+          }
+        },
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Baby club",
+            "fr": "Club bebe"
+          },
+          "value": {
+            "en": "From 4 months",
+            "fr": "Des 4 mois"
+          }
+        },
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Rooms",
+            "fr": "Chambres"
+          },
+          "value": {
+            "en": "All suites with sofa bed",
+            "fr": "Toutes des suites avec canape-lit"
+          }
+        },
+        {
+          "icon": "🚌",
+          "label": {
+            "en": "Siam Park",
+            "fr": "Siam Park"
+          },
+          "value": {
+            "en": "Free shuttle stop outside",
+            "fr": "Arret de navette gratuite devant"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Playa del Duque, short walk",
+            "fr": "Playa del Duque, courte marche"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "Splash park session",
+            "fr": "Session parc aquatique"
+          },
+          "detail": {
+            "en": "Slides, buckets and jets in the shallow zone, lifeguard on watch.",
+            "fr": "Toboggans, seaux et jets dans la zone peu profonde, maitre-nageur present."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🏄",
+          "name": {
+            "en": "Surf simulator",
+            "fr": "Simulateur de surf"
+          },
+          "detail": {
+            "en": "A standing wave pool that keeps older kids busy for hours.",
+            "fr": "Une vague stationnaire qui occupe les plus grands des heures."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Apres-midi"
+          }
+        },
+        {
+          "emoji": "🎨",
+          "name": {
+            "en": "Mini Club crafts",
+            "fr": "Ateliers Mini Club"
+          },
+          "detail": {
+            "en": "Supervised games and crafts for ages 4 to 12 while parents relax.",
+            "fr": "Jeux et bricolages encadres de 4 a 12 ans pendant que les parents se detendent."
+          },
+          "ages": [
+            "kid"
+          ],
+          "time": {
+            "en": "Daily",
+            "fr": "Chaque jour"
+          }
+        },
+        {
+          "emoji": "🕶️",
+          "name": {
+            "en": "VR zone",
+            "fr": "Espace VR"
+          },
+          "detail": {
+            "en": "Virtual reality games that teens gravitate to on a rainy hour.",
+            "fr": "Jeux en realite virtuelle vers lesquels les ados se tournent quand le temps se couvre."
+          },
+          "ages": [
+            "teen"
+          ],
+          "time": {
+            "en": "Flexible",
+            "fr": "Flexible"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Breakfast on the suite terrace",
+            "fr": "Petit-dejeuner sur la terrasse de la suite"
+          },
+          "note": {
+            "en": "Grab pastries and fruit before the buffet fills up.",
+            "fr": "Attrapez viennoiseries et fruits avant que le buffet se remplisse."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Splash park",
+            "fr": "Parc aquatique"
+          },
+          "note": {
+            "en": "Little ones on the slides while the sun is gentle.",
+            "fr": "Les petits sur les toboggans pendant que le soleil est doux."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and quiet time",
+            "fr": "Dejeuner et temps calme"
+          },
+          "note": {
+            "en": "Back to the suite so the baby can nap properly.",
+            "fr": "Retour a la suite pour que le bebe fasse une vraie sieste."
+          }
+        },
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Mini Club and surf pool",
+            "fr": "Mini Club et simulateur de surf"
+          },
+          "note": {
+            "en": "Kids split by age, parents get a coffee in peace.",
+            "fr": "Les enfants repartis par age, les parents prennent un cafe tranquille."
+          }
+        },
+        {
+          "time": "20:30",
+          "title": {
+            "en": "Family show",
+            "fr": "Spectacle en famille"
+          },
+          "note": {
+            "en": "Evening entertainment on the main stage.",
+            "fr": "Animation du soir sur la scene principale."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Baby Club from 4 months and heated kids pools make this genuinely baby-ready. Cots on request.",
+          "fr": "Le Baby Club des 4 mois et les piscines enfants chauffees le rendent vraiment adapte aux bebes. Lits parapluie sur demande."
+        },
+        "toddler": {
+          "en": "Shallow splash zones and short slides are ideal for toddlers, with lifeguards close.",
+          "fr": "Zones peu profondes et petits toboggans ideaux pour les tout-petits, avec des maitres-nageurs a proximite."
+        },
+        "kid": {
+          "en": "Prime age here: slides, Mini Club and the surf pool fill every day.",
+          "fr": "L'age ideal ici: toboggans, Mini Club et simulateur de surf remplissent chaque journee."
+        },
+        "teen": {
+          "en": "Surf simulator, VR zone and a dedicated Teen Club give older ones their own space.",
+          "fr": "Simulateur de surf, espace VR et Teen Club dedie donnent aux plus grands leur propre espace."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the kids club free?",
+            "fr": "Le club enfants est-il gratuit?"
+          },
+          "a": {
+            "en": "Yes, the Baby, Mini and Teen Clubs are included. Babysitting is a paid extra.",
+            "fr": "Oui, les clubs Baby, Mini et Teen sont inclus. Le babysitting est un supplement payant."
+          }
+        },
+        {
+          "q": {
+            "en": "How do we reach Siam Park?",
+            "fr": "Comment rejoindre le Siam Park?"
+          },
+          "a": {
+            "en": "A free shuttle bus stops right outside and runs to Siam Park and other parks.",
+            "fr": "Une navette gratuite s'arrete juste devant et dessert le Siam Park et d'autres parcs."
+          }
+        },
+        {
+          "q": {
+            "en": "Are the pools warm in winter?",
+            "fr": "Les piscines sont-elles chaudes en hiver?"
+          },
+          "a": {
+            "en": "The three kids pools are heated through the winter, which matters for little ones.",
+            "fr": "Les trois piscines enfants sont chauffees tout l'hiver, ce qui compte pour les petits."
+          }
+        }
+      ]
+    },
+    {
+      "key": "tenerife-iberostar-anthelia",
+      "destinationKey": "tenerife",
+      "name": "Iberostar Selection Anthelia",
+      "area": {
+        "en": "Costa Adeje (Playa Fanabe)",
+        "fr": "Costa Adeje (Playa Fanabe)"
+      },
+      "lat": 28.093,
+      "lng": -16.744,
+      "zoom": 13,
+      "address": "Iberostar Selection Anthelia, Costa Adeje, Tenerife, Spain",
+      "priceTier": 3,
+      "priceFrom": 240,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "baby-friendly",
+        "beach-access",
+        "family-suites"
+      ],
+      "clubFree": true,
+      "photos": [
+        "infinityPoolSea",
+        "deckLoungersSea",
+        "poolPalms"
+      ],
+      "scores": {
+        "rooms": 84,
+        "baby": 82,
+        "pool": 86,
+        "dining": 88,
+        "safety": 88,
+        "convenience": 90,
+        "location": 92,
+        "extras": 80
+      },
+      "roomsSummary": {
+        "en": "Comfortable, classic rooms with balconies, and family rooms that sleep four without feeling cramped. Ask for a garden or pool view rather than the road side.",
+        "fr": "Chambres confortables et classiques avec balcon, et chambres familiales pour quatre sans se sentir a l'etroit. Demandez une vue jardin ou piscine plutot que le cote rue."
+      },
+      "intro": {
+        "en": "Anthelia sits right on Playa Fanabe, one of the calmer swimming beaches in the south, which is the whole point for families. Behind the sand there is a big, gardened resort with children's pools, slides and a pirate ship, plus the Star Camp club that runs by age group.",
+        "fr": "L'Anthelia donne directement sur la Playa Fanabe, l'une des plages de baignade les plus calmes du sud, ce qui change tout pour les familles. Derriere le sable, un grand complexe arbore avec piscines enfants, toboggans et bateau pirate, plus le club Star Camp organise par tranches d'age."
+      },
+      "highlights": {
+        "en": [
+          "Directly on Playa Fanabe, a calm sandy beach",
+          "Children's pools with slides and a pirate ship",
+          "Star Camp kids club organised by age",
+          "Well-regarded buffet and a la carte dining",
+          "Golden sand rather than the black volcanic kind",
+          "Spa and adult pools for parents' downtime"
+        ],
+        "fr": [
+          "Directement sur la Playa Fanabe, une plage de sable calme",
+          "Piscines enfants avec toboggans et bateau pirate",
+          "Club enfants Star Camp organise par age",
+          "Restauration buffet et a la carte tres appreciee",
+          "Sable dore plutot que le sable volcanique noir",
+          "Spa et piscines adultes pour la detente des parents"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Genuinely on the beach, and a calm swimming one",
+          "Strong dining, a step above typical resort fare",
+          "Beautiful mature gardens keep it feeling calm"
+        ],
+        "fr": [
+          "Vraiment sur la plage, et une plage de baignade calme",
+          "Restauration solide, au-dessus de l'offre habituelle des complexes",
+          "Beaux jardins matures qui gardent une atmosphere paisible"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Rooms are comfortable but feel classic rather than new",
+          "Premium prices in peak weeks",
+          "Popular, so sunbeds go early by the main pools"
+        ],
+        "fr": [
+          "Chambres confortables mais d'un style classique plutot que recent",
+          "Tarifs premium en haute saison",
+          "Populaire, les transats partent tot autour des piscines principales"
+        ]
+      },
+      "verdict": {
+        "en": "The pick when being on a calm, sandy beach matters most, with reliable food and a proper kids club behind you.",
+        "fr": "Le choix quand etre sur une plage de sable calme compte avant tout, avec une cuisine fiable et un vrai club enfants derriere vous."
+      },
+      "parentTip": {
+        "en": "The beach promenade outside links to shops and gentler-priced restaurants, handy for an evening stroll with a pushchair.",
+        "fr": "La promenade de bord de mer devant relie boutiques et restaurants plus abordables, pratique pour une balade du soir avec une poussette."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "On Playa Fanabe, golden sand",
+            "fr": "Sur la Playa Fanabe, sable dore"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Kids pools",
+            "fr": "Piscines enfants"
+          },
+          "value": {
+            "en": "Slides and pirate ship",
+            "fr": "Toboggans et bateau pirate"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Star Camp by age group",
+            "fr": "Star Camp par tranche d'age"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Dining",
+            "fr": "Restauration"
+          },
+          "value": {
+            "en": "Buffet plus a la carte",
+            "fr": "Buffet plus a la carte"
+          }
+        },
+        {
+          "icon": "💆",
+          "label": {
+            "en": "For parents",
+            "fr": "Pour les parents"
+          },
+          "value": {
+            "en": "Spa and adult pools",
+            "fr": "Spa et piscines adultes"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏴‍☠️",
+          "name": {
+            "en": "Pirate ship pool",
+            "fr": "Piscine bateau pirate"
+          },
+          "detail": {
+            "en": "A themed splash structure that toddlers and young kids adore.",
+            "fr": "Une structure aquatique a theme adoree des tout-petits et jeunes enfants."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Beach morning",
+            "fr": "Matinee plage"
+          },
+          "detail": {
+            "en": "Calm shallows on Playa Fanabe, safe for a first paddle.",
+            "fr": "Eaux calmes et peu profondes sur la Playa Fanabe, sures pour une premiere baignade."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "⭐",
+          "name": {
+            "en": "Star Camp",
+            "fr": "Star Camp"
+          },
+          "detail": {
+            "en": "Age-grouped activities so younger and older kids get the right pace.",
+            "fr": "Activites par age pour que petits et grands aient le bon rythme."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Daily",
+            "fr": "Chaque jour"
+          }
+        },
+        {
+          "emoji": "🐋",
+          "name": {
+            "en": "Whale watching trip",
+            "fr": "Sortie observation des baleines"
+          },
+          "detail": {
+            "en": "Boats leave nearby to see pilot whales and dolphins offshore.",
+            "fr": "Des bateaux partent tout pres pour voir globicephales et dauphins au large."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journee"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Breakfast buffet",
+            "fr": "Petit-dejeuner buffet"
+          },
+          "note": {
+            "en": "Wide spread with plenty for fussy eaters.",
+            "fr": "Large choix, de quoi contenter les palais difficiles."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Beach and pirate ship",
+            "fr": "Plage et bateau pirate"
+          },
+          "note": {
+            "en": "Sand first, then the splash structure.",
+            "fr": "Le sable d'abord, puis la structure aquatique."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and shade",
+            "fr": "Dejeuner et ombre"
+          },
+          "note": {
+            "en": "Retreat to the gardens during the hottest hours.",
+            "fr": "Repli vers les jardins pendant les heures les plus chaudes."
+          }
+        },
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Star Camp",
+            "fr": "Star Camp"
+          },
+          "note": {
+            "en": "Kids to the club, parents to the spa or a lounger.",
+            "fr": "Les enfants au club, les parents au spa ou sur un transat."
+          }
+        },
+        {
+          "time": "19:30",
+          "title": {
+            "en": "Dinner then promenade",
+            "fr": "Diner puis promenade"
+          },
+          "note": {
+            "en": "Stroll the seafront path afterwards.",
+            "fr": "Balade sur la promenade en bord de mer ensuite."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Calm beach and gardened grounds suit babies well. Cots and buggy-friendly paths throughout.",
+          "fr": "Plage calme et jardins conviennent bien aux bebes. Lits parapluie et allees adaptees aux poussettes partout."
+        },
+        "toddler": {
+          "en": "The pirate ship and shallow shore are toddler heaven, with lifeguards on the beach.",
+          "fr": "Le bateau pirate et le rivage peu profond sont un paradis pour les tout-petits, avec des maitres-nageurs sur la plage."
+        },
+        "kid": {
+          "en": "Slides, Star Camp and easy beach access keep this age busy all day.",
+          "fr": "Toboggans, Star Camp et acces facile a la plage occupent cet age toute la journee."
+        },
+        "teen": {
+          "en": "Teens can wander the promenade and join watersports, though nightlife is elsewhere.",
+          "fr": "Les ados peuvent flaner sur la promenade et faire des sports nautiques, meme si la vie nocturne est ailleurs."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the beach sandy or rocky?",
+            "fr": "La plage est-elle de sable ou de galets?"
+          },
+          "a": {
+            "en": "Playa Fanabe is golden imported sand and one of the calmer swimming beaches in the south.",
+            "fr": "La Playa Fanabe est faite de sable dore rapporte et compte parmi les plages de baignade les plus calmes du sud."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it all-inclusive?",
+            "fr": "Est-ce en tout compris?"
+          },
+          "a": {
+            "en": "It runs on half board and full board plans rather than pure all-inclusive; check the rate you book.",
+            "fr": "Il fonctionne en demi-pension et pension complete plutot qu'en tout compris pur; verifiez le tarif reserve."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we walk to restaurants?",
+            "fr": "Peut-on rejoindre des restaurants a pied?"
+          },
+          "a": {
+            "en": "Yes, the seafront promenade has shops and restaurants a few minutes on foot.",
+            "fr": "Oui, la promenade de bord de mer offre boutiques et restaurants a quelques minutes a pied."
+          }
+        }
+      ]
+    },
+    {
+      "key": "tenerife-h10-costa-adeje-palace",
+      "destinationKey": "tenerife",
+      "name": "H10 Costa Adeje Palace",
+      "area": {
+        "en": "Costa Adeje (La Enramada)",
+        "fr": "Costa Adeje (La Enramada)"
+      },
+      "lat": 28.101,
+      "lng": -16.749,
+      "zoom": 13,
+      "address": "H10 Costa Adeje Palace, Costa Adeje, Tenerife, Spain",
+      "priceTier": 3,
+      "priceFrom": 190,
+      "ages": [
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "family-suites"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolOrange",
+        "resortLoungers",
+        "poolDusk"
+      ],
+      "scores": {
+        "rooms": 78,
+        "baby": 72,
+        "pool": 84,
+        "dining": 80,
+        "safety": 84,
+        "convenience": 86,
+        "location": 84,
+        "extras": 76
+      },
+      "roomsSummary": {
+        "en": "Solid family rooms, some with connecting doors, that comfortably fit two adults and two children. Interiors are neat and functional rather than designer.",
+        "fr": "Chambres familiales solides, certaines communicantes, qui accueillent sans probleme deux adultes et deux enfants. Interieurs nets et fonctionnels plutot que design."
+      },
+      "intro": {
+        "en": "One of the few all-inclusive options in Costa Adeje with proper water slides, the H10 Costa Adeje Palace pairs a busy pool complex with a spot right above La Enramada beach. A kids club and children's menus make the all-in board genuinely family-friendly.",
+        "fr": "L'une des rares formules tout compris de la Costa Adeje avec de vrais toboggans, le H10 Costa Adeje Palace associe un complexe de piscines anime a un emplacement juste au-dessus de la plage de La Enramada. Un club enfants et des menus enfants rendent la pension complete vraiment adaptee aux familles."
+      },
+      "highlights": {
+        "en": [
+          "All-inclusive board with real water slides",
+          "Kids club and children's buffet menus",
+          "Perched above La Enramada beach",
+          "Multiple pools including a children's pool",
+          "Good value for a Costa Adeje all-inclusive",
+          "Evening family entertainment"
+        ],
+        "fr": [
+          "Formule tout compris avec de vrais toboggans",
+          "Club enfants et menus buffet pour enfants",
+          "Perche au-dessus de la plage de La Enramada",
+          "Plusieurs piscines dont une piscine enfants",
+          "Bon rapport qualite-prix pour un tout compris a Costa Adeje",
+          "Animations familiales en soiree"
+        ]
+      },
+      "pros": {
+        "en": [
+          "All-inclusive with slides, rare in this resort",
+          "Strong value against the five-star neighbours",
+          "Beach and shops within easy reach"
+        ],
+        "fr": [
+          "Tout compris avec toboggans, rare dans ce complexe",
+          "Bon rapport qualite-prix face aux voisins cinq etoiles",
+          "Plage et boutiques a portee de main"
+        ]
+      },
+      "cons": {
+        "en": [
+          "La Enramada below is black volcanic sand, not golden",
+          "Rooms are comfortable but dated in places",
+          "Busy pool areas in peak season"
+        ],
+        "fr": [
+          "La plage de La Enramada en contrebas est de sable volcanique noir, pas dore",
+          "Chambres confortables mais parfois vieillissantes",
+          "Zones de piscine tres frequentees en haute saison"
+        ]
+      },
+      "verdict": {
+        "en": "The sensible all-inclusive pick for families who want slides and full board without five-star prices.",
+        "fr": "Le choix tout compris raisonnable pour les familles qui veulent des toboggans et la pension complete sans les prix cinq etoiles."
+      },
+      "parentTip": {
+        "en": "The nearest sandy swimming beach is a short walk or drive, since La Enramada below is black sand and can get windy; pack water shoes.",
+        "fr": "La plage de sable la plus proche pour se baigner est a quelques minutes a pied ou en voiture, car La Enramada en bas est de sable noir et peut etre ventee; prevoyez des chaussures d'eau."
+      },
+      "atAGlance": [
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "All-inclusive available",
+            "fr": "Tout compris disponible"
+          }
+        },
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Slides",
+            "fr": "Toboggans"
+          },
+          "value": {
+            "en": "Water slides on site",
+            "fr": "Toboggans sur place"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Included, with kids menus",
+            "fr": "Inclus, avec menus enfants"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "La Enramada, black sand below",
+            "fr": "La Enramada, sable noir en bas"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Value",
+            "fr": "Rapport qualite-prix"
+          },
+          "value": {
+            "en": "Strong for the area",
+            "fr": "Bon pour le secteur"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "Slide sessions",
+            "fr": "Sessions toboggans"
+          },
+          "detail": {
+            "en": "The water slides are the main draw for kids all day.",
+            "fr": "Les toboggans sont l'attraction principale des enfants toute la journee."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "All day",
+            "fr": "Toute la journee"
+          }
+        },
+        {
+          "emoji": "🎪",
+          "name": {
+            "en": "Mini disco",
+            "fr": "Mini disco"
+          },
+          "detail": {
+            "en": "Classic early evening kids entertainment before dinner.",
+            "fr": "Animation enfants classique en debut de soiree avant le diner."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soir"
+          }
+        },
+        {
+          "emoji": "🐠",
+          "name": {
+            "en": "Siam Park day",
+            "fr": "Journee au Siam Park"
+          },
+          "detail": {
+            "en": "Europe's top water park is a short taxi or bus ride away.",
+            "fr": "Le meilleur parc aquatique d'Europe est a un court trajet en taxi ou en bus."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Full day",
+            "fr": "Journee entiere"
+          }
+        },
+        {
+          "emoji": "🚶",
+          "name": {
+            "en": "La Caleta walk",
+            "fr": "Balade a La Caleta"
+          },
+          "detail": {
+            "en": "Stroll to the fishing village of La Caleta for a seafood dinner.",
+            "fr": "Balade jusqu'au village de pecheurs de La Caleta pour un diner de fruits de mer."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soir"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "All-inclusive breakfast",
+            "fr": "Petit-dejeuner tout compris"
+          },
+          "note": {
+            "en": "Fuel up before the pools get busy.",
+            "fr": "Faites le plein avant que les piscines se remplissent."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Water slides",
+            "fr": "Toboggans"
+          },
+          "note": {
+            "en": "Kids on the slides, parents nearby with a book.",
+            "fr": "Les enfants aux toboggans, les parents a cote avec un livre."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and rest",
+            "fr": "Dejeuner et repos"
+          },
+          "note": {
+            "en": "Shady lunch, then a cooler indoor hour.",
+            "fr": "Dejeuner a l'ombre, puis une heure au frais a l'interieur."
+          }
+        },
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Beach or pool",
+            "fr": "Plage ou piscine"
+          },
+          "note": {
+            "en": "Back down for a swim as the heat eases.",
+            "fr": "Retour se baigner quand la chaleur retombe."
+          }
+        },
+        {
+          "time": "19:00",
+          "title": {
+            "en": "Dinner and show",
+            "fr": "Diner et spectacle"
+          },
+          "note": {
+            "en": "Buffet dinner then the evening entertainment.",
+            "fr": "Diner buffet puis animation du soir."
+          }
+        }
+      ],
+      "ageNotes": {
+        "toddler": {
+          "en": "A dedicated children's pool works for toddlers, though the beach below is black sand and can be breezy.",
+          "fr": "Une piscine enfants dediee convient aux tout-petits, meme si la plage en bas est de sable noir et parfois ventee."
+        },
+        "kid": {
+          "en": "This is the sweet spot: slides, kids club and full board all in one place.",
+          "fr": "C'est l'age ideal: toboggans, club enfants et pension complete au meme endroit."
+        },
+        "teen": {
+          "en": "Slides and the walk to La Caleta suit teens, but they may want the buzz of Las Americas nearby.",
+          "fr": "Toboggans et balade a La Caleta conviennent aux ados, mais ils pourraient vouloir l'animation de Las Americas tout pres."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is all-inclusive worth it here?",
+            "fr": "Le tout compris vaut-il le coup ici?"
+          },
+          "a": {
+            "en": "Yes, especially with kids, since drinks, snacks and the slides are all covered.",
+            "fr": "Oui, surtout avec des enfants, car boissons, snacks et toboggans sont tous inclus."
+          }
+        },
+        {
+          "q": {
+            "en": "What is the beach like?",
+            "fr": "Comment est la plage?"
+          },
+          "a": {
+            "en": "La Enramada just below is natural black volcanic sand and can be windy; water shoes help.",
+            "fr": "La Enramada juste en dessous est de sable volcanique noir naturel et peut etre ventee; des chaussures d'eau aident."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a kids club?",
+            "fr": "Y a-t-il un club enfants?"
+          },
+          "a": {
+            "en": "Yes, a supervised kids club is included, along with children's buffet menus.",
+            "fr": "Oui, un club enfants encadre est inclus, avec des menus buffet pour enfants."
+          }
+        }
+      ]
+    },
+    {
+      "key": "tenerife-royal-hideaway-corales-suites",
+      "destinationKey": "tenerife",
+      "name": "Royal Hideaway Corales Suites",
+      "area": {
+        "en": "La Caleta",
+        "fr": "La Caleta"
+      },
+      "lat": 28.104,
+      "lng": -16.766,
+      "zoom": 13,
+      "address": "Royal Hideaway Corales Suites, La Caleta, Costa Adeje, Tenerife, Spain",
+      "priceTier": 4,
+      "priceFrom": 380,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "family-suites",
+        "self-catering",
+        "baby-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "villaModern",
+        "infinityPoolSea",
+        "livingRoom"
+      ],
+      "scores": {
+        "rooms": 95,
+        "baby": 84,
+        "pool": 82,
+        "dining": 92,
+        "safety": 88,
+        "convenience": 84,
+        "location": 88,
+        "extras": 86
+      },
+      "roomsSummary": {
+        "en": "The reason to book: 114 designer apartments from one to three bedrooms, each with a full kitchen and sea views, some with a private hot tub or plunge pool. Genuinely the smart choice for families who want space plus a five-star address.",
+        "fr": "La vraie raison de reserver: 114 appartements design d'une a trois chambres, chacun avec cuisine equipee et vue mer, certains avec bain a remous ou petit bassin prive. Vraiment le choix malin pour les familles qui veulent de l'espace et une adresse cinq etoiles."
+      },
+      "intro": {
+        "en": "Corales Suites is the family wing of a bold, design-led resort in the fishing village of La Caleta. You get proper apartments with kitchens, so you can do a quiet breakfast in and eat out at night, plus the Barcy kids club and access to some of Tenerife's best restaurants next door.",
+        "fr": "Corales Suites est l'aile familiale d'un complexe design et audacieux dans le village de pecheurs de La Caleta. Vous avez de vrais appartements avec cuisine, pour un petit-dejeuner tranquille chez soi et un diner dehors le soir, plus le club enfants Barcy et l'acces a certains des meilleurs restaurants de Tenerife juste a cote."
+      },
+      "highlights": {
+        "en": [
+          "Designer one to three bedroom apartments with full kitchens",
+          "Sea views from every suite",
+          "Barcy Club for ages 4 to 12, plus a Teens Club",
+          "Heated saltwater pools",
+          "Michelin-level dining across the resort",
+          "Steps from La Caleta village and La Enramada beach"
+        ],
+        "fr": [
+          "Appartements design d'une a trois chambres avec cuisine equipee",
+          "Vue mer depuis chaque suite",
+          "Barcy Club de 4 a 12 ans, plus un Teens Club",
+          "Piscines d'eau de mer chauffees",
+          "Restauration de niveau Michelin dans le complexe",
+          "A deux pas du village de La Caleta et de la plage de La Enramada"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Apartment space and a full kitchen at a five-star level",
+          "Standout design and food for parents who care",
+          "Quiet, characterful La Caleta setting"
+        ],
+        "fr": [
+          "Espace d'appartement et cuisine equipee au niveau cinq etoiles",
+          "Design et cuisine remarquables pour les parents exigeants",
+          "Cadre calme et plein de caractere a La Caleta"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The most expensive option on this list",
+          "Two of the pools are adults only",
+          "Nearest beach is black volcanic sand"
+        ],
+        "fr": [
+          "L'option la plus chere de cette liste",
+          "Deux des piscines sont reservees aux adultes",
+          "La plage la plus proche est de sable volcanique noir"
+        ]
+      },
+      "verdict": {
+        "en": "For families who want apartment space, real design and top food without renting a villa, this is the smart five-star play in the south.",
+        "fr": "Pour les familles qui veulent l'espace d'un appartement, un vrai design et une cuisine haut de gamme sans louer de villa, c'est le choix cinq etoiles malin du sud."
+      },
+      "parentTip": {
+        "en": "Book a one-bedroom-plus suite with a kitchen and stock up at the La Caleta supermarket; doing breakfast in the apartment saves real money at this level.",
+        "fr": "Reservez une suite d'une chambre avec cuisine et faites le plein au supermarche de La Caleta; prendre le petit-dejeuner dans l'appartement fait vraiment economiser a ce niveau."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Rooms",
+            "fr": "Chambres"
+          },
+          "value": {
+            "en": "Apartments, 1 to 3 bedrooms",
+            "fr": "Appartements, 1 a 3 chambres"
+          }
+        },
+        {
+          "icon": "🍳",
+          "label": {
+            "en": "Kitchen",
+            "fr": "Cuisine"
+          },
+          "value": {
+            "en": "Full kitchen in every suite",
+            "fr": "Cuisine equipee dans chaque suite"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Barcy Club, ages 4 to 12",
+            "fr": "Barcy Club, 4 a 12 ans"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Dining",
+            "fr": "Restauration"
+          },
+          "value": {
+            "en": "Michelin-level across resort",
+            "fr": "Niveau Michelin dans le complexe"
+          }
+        },
+        {
+          "icon": "🏘️",
+          "label": {
+            "en": "Setting",
+            "fr": "Cadre"
+          },
+          "value": {
+            "en": "La Caleta fishing village",
+            "fr": "Village de pecheurs de La Caleta"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "👨‍🍳",
+          "name": {
+            "en": "Cook-in breakfast",
+            "fr": "Petit-dejeuner maison"
+          },
+          "detail": {
+            "en": "Use the apartment kitchen for a relaxed morning with a baby.",
+            "fr": "Profitez de la cuisine de l'appartement pour une matinee tranquille avec un bebe."
+          },
+          "ages": [
+            "baby",
+            "toddler"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🎨",
+          "name": {
+            "en": "Barcy Club",
+            "fr": "Barcy Club"
+          },
+          "detail": {
+            "en": "Creative Happy Minds sessions for ages 4 to 12.",
+            "fr": "Ateliers creatifs Happy Minds pour les 4 a 12 ans."
+          },
+          "ages": [
+            "kid"
+          ],
+          "time": {
+            "en": "Daily",
+            "fr": "Chaque jour"
+          }
+        },
+        {
+          "emoji": "🐟",
+          "name": {
+            "en": "La Caleta dinner",
+            "fr": "Diner a La Caleta"
+          },
+          "detail": {
+            "en": "Walk to the village for fresh fish by the harbour.",
+            "fr": "Balade au village pour du poisson frais au bord du port."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soir"
+          }
+        },
+        {
+          "emoji": "🌅",
+          "name": {
+            "en": "Sunset from the terrace",
+            "fr": "Coucher de soleil depuis la terrasse"
+          },
+          "detail": {
+            "en": "Sea-view suites face west for an easy family sundowner.",
+            "fr": "Les suites vue mer sont orientees ouest pour un apero en famille facile."
+          },
+          "ages": [
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soir"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast in the apartment",
+            "fr": "Petit-dejeuner dans l'appartement"
+          },
+          "note": {
+            "en": "Slow start with the whole family, no buffet queue.",
+            "fr": "Debut tranquille en famille, sans file d'attente au buffet."
+          }
+        },
+        {
+          "time": "10:30",
+          "title": {
+            "en": "Family pool",
+            "fr": "Piscine familiale"
+          },
+          "note": {
+            "en": "The heated saltwater family pool while adults' pools stay calm.",
+            "fr": "La piscine familiale d'eau de mer chauffee pendant que les bassins adultes restent calmes."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and nap",
+            "fr": "Dejeuner et sieste"
+          },
+          "note": {
+            "en": "Back up to the suite for a proper rest.",
+            "fr": "Retour a la suite pour un vrai repos."
+          }
+        },
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Barcy Club",
+            "fr": "Barcy Club"
+          },
+          "note": {
+            "en": "Kids to the club, parents to a quiet lounger.",
+            "fr": "Les enfants au club, les parents sur un transat tranquille."
+          }
+        },
+        {
+          "time": "19:30",
+          "title": {
+            "en": "Dinner in La Caleta",
+            "fr": "Diner a La Caleta"
+          },
+          "note": {
+            "en": "Short walk to the village restaurants.",
+            "fr": "Courte marche jusqu'aux restaurants du village."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "A kitchen for bottles and purees plus quiet suites make this easy with a baby. Cots on request.",
+          "fr": "Une cuisine pour biberons et purees, plus des suites calmes, facilitent le sejour avec un bebe. Lits parapluie sur demande."
+        },
+        "toddler": {
+          "en": "Space to spread out and a calm family pool suit toddlers, though the beach is black sand.",
+          "fr": "De l'espace pour s'etaler et une piscine familiale calme conviennent aux tout-petits, meme si la plage est de sable noir."
+        },
+        "kid": {
+          "en": "Barcy Club and apartment room to play make this comfortable for this age.",
+          "fr": "Le Barcy Club et l'espace de l'appartement pour jouer rendent le sejour agreable a cet age."
+        },
+        "teen": {
+          "en": "Teens get their own bedroom, a Teens Club and grown-up dining they will actually enjoy.",
+          "fr": "Les ados ont leur propre chambre, un Teens Club et une cuisine soignee qu'ils apprecieront vraiment."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Do the apartments have kitchens?",
+            "fr": "Les appartements ont-ils une cuisine?"
+          },
+          "a": {
+            "en": "Yes, every suite has a full modern kitchen, ideal for family self-catering.",
+            "fr": "Oui, chaque suite dispose d'une cuisine moderne complete, ideale pour cuisiner en famille."
+          }
+        },
+        {
+          "q": {
+            "en": "Are all the pools family-friendly?",
+            "fr": "Toutes les piscines sont-elles accessibles aux familles?"
+          },
+          "a": {
+            "en": "There is a heated family pool; two of the saltwater pools are reserved for adults.",
+            "fr": "Il y a une piscine familiale chauffee; deux des bassins d'eau de mer sont reserves aux adultes."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it good for foodie parents?",
+            "fr": "Est-ce adapte aux parents gourmets?"
+          },
+          "a": {
+            "en": "Very. The wider resort holds several Michelin-starred restaurants alongside casual options.",
+            "fr": "Tres. Le complexe compte plusieurs restaurants etoiles au Michelin a cote d'options plus decontractees."
+          }
+        }
+      ]
+    },
+    {
+      "key": "tenerife-gran-oasis-resort",
+      "destinationKey": "tenerife",
+      "name": "Gran Oasis Resort",
+      "area": {
+        "en": "Playa de las Americas",
+        "fr": "Playa de las Americas"
+      },
+      "lat": 28.057,
+      "lng": -16.722,
+      "zoom": 13,
+      "address": "Gran Oasis Resort, Playa de las Americas, Tenerife, Spain",
+      "priceTier": 2,
+      "priceFrom": 130,
+      "ages": [
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "self-catering",
+        "family-suites"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolCabanas",
+        "poolPalms",
+        "resortCanal"
+      ],
+      "scores": {
+        "rooms": 72,
+        "baby": 66,
+        "pool": 82,
+        "dining": 70,
+        "safety": 78,
+        "convenience": 88,
+        "location": 82,
+        "extras": 78
+      },
+      "roomsSummary": {
+        "en": "Apartment-style rooms with kitchenettes and a separate sleeping area, roomy enough for a family and handy for keeping snacks and breakfast in. Decor is simple and practical.",
+        "fr": "Chambres de type appartement avec kitchenette et coin nuit separe, assez spacieuses pour une famille et pratiques pour garder snacks et petit-dejeuner. Deco simple et fonctionnelle."
+      },
+      "intro": {
+        "en": "Gran Oasis is a well-priced aparthotel built around Oasis Splash Island, its own little water park of slides, jets and games. With kitchenettes in the rooms and the buzz of Las Americas on the doorstep, it suits families who want water fun without the five-star bill.",
+        "fr": "Le Gran Oasis est un aparthotel au bon prix construit autour d'Oasis Splash Island, son propre petit parc aquatique de toboggans, jets et jeux. Avec des kitchenettes dans les chambres et l'animation de Las Americas au pied de l'hotel, il convient aux familles qui veulent des jeux d'eau sans la facture cinq etoiles."
+      },
+      "highlights": {
+        "en": [
+          "Oasis Splash Island water park on site",
+          "Kitchenettes for family self-catering",
+          "Free daytime entertainment and face painting",
+          "Walkable to Las Americas shops and beaches",
+          "Good value aparthotel pricing",
+          "Central base for exploring the south"
+        ],
+        "fr": [
+          "Parc aquatique Oasis Splash Island sur place",
+          "Kitchenettes pour cuisiner en famille",
+          "Animations gratuites en journee et maquillage enfants",
+          "A pied des boutiques et plages de Las Americas",
+          "Tarifs d'aparthotel avantageux",
+          "Base centrale pour explorer le sud"
+        ]
+      },
+      "pros": {
+        "en": [
+          "On-site splash park at an affordable price",
+          "Kitchenettes cut the cost of eating out",
+          "Very central for beaches, shops and trips"
+        ],
+        "fr": [
+          "Parc aquatique sur place a prix abordable",
+          "Kitchenettes qui reduisent le cout des repas dehors",
+          "Tres central pour plages, boutiques et excursions"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Rooms and grounds are dated in parts",
+          "Las Americas is lively and can be noisy at night",
+          "Not the place for a quiet baby holiday"
+        ],
+        "fr": [
+          "Chambres et espaces vieillissants par endroits",
+          "Las Americas est anime et parfois bruyant la nuit",
+          "Pas l'endroit pour des vacances tranquilles avec un bebe"
+        ]
+      },
+      "verdict": {
+        "en": "A dependable value pick when the kids just want a splash park and you want a central, self-catering base.",
+        "fr": "Un choix fiable et economique quand les enfants veulent surtout un parc aquatique et que vous cherchez une base centrale pour cuisiner."
+      },
+      "parentTip": {
+        "en": "Rooms nearer the splash park are handy for tired legs but louder; ask for a quieter block if your kids sleep early.",
+        "fr": "Les chambres proches du parc aquatique sont pratiques pour les jambes fatiguees mais plus bruyantes; demandez un bloc plus calme si vos enfants se couchent tot."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "Oasis Splash Island on site",
+            "fr": "Oasis Splash Island sur place"
+          }
+        },
+        {
+          "icon": "🍳",
+          "label": {
+            "en": "Kitchen",
+            "fr": "Cuisine"
+          },
+          "value": {
+            "en": "Kitchenette in rooms",
+            "fr": "Kitchenette dans les chambres"
+          }
+        },
+        {
+          "icon": "🎨",
+          "label": {
+            "en": "Entertainment",
+            "fr": "Animation"
+          },
+          "value": {
+            "en": "Free daytime activities",
+            "fr": "Activites gratuites en journee"
+          }
+        },
+        {
+          "icon": "🛍️",
+          "label": {
+            "en": "Location",
+            "fr": "Emplacement"
+          },
+          "value": {
+            "en": "Central Las Americas",
+            "fr": "Las Americas central"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Value",
+            "fr": "Rapport qualite-prix"
+          },
+          "value": {
+            "en": "Budget-friendly aparthotel",
+            "fr": "Aparthotel economique"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "Splash Island",
+            "fr": "Splash Island"
+          },
+          "detail": {
+            "en": "The on-site mini water park is the main event for kids.",
+            "fr": "Le mini parc aquatique sur place est l'attraction principale des enfants."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Daily",
+            "fr": "Chaque jour"
+          }
+        },
+        {
+          "emoji": "🎨",
+          "name": {
+            "en": "Treasure hunt",
+            "fr": "Chasse au tresor"
+          },
+          "detail": {
+            "en": "Face painting and treasure hunts run through the day.",
+            "fr": "Maquillage et chasses au tresor tout au long de la journee."
+          },
+          "ages": [
+            "kid"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Apres-midi"
+          }
+        },
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Playa de las Americas",
+            "fr": "Playa de las Americas"
+          },
+          "detail": {
+            "en": "A short walk to the main beach and promenade.",
+            "fr": "Courte marche jusqu'a la plage principale et la promenade."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🐬",
+          "name": {
+            "en": "Whale watching",
+            "fr": "Observation des baleines"
+          },
+          "detail": {
+            "en": "Boat trips leave from nearby Puerto Colon marina.",
+            "fr": "Des sorties en bateau partent de la marina voisine de Puerto Colon."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journee"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast in the room",
+            "fr": "Petit-dejeuner en chambre"
+          },
+          "note": {
+            "en": "Kitchenette breakfast, no rush.",
+            "fr": "Petit-dejeuner a la kitchenette, sans se presser."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Splash Island",
+            "fr": "Splash Island"
+          },
+          "note": {
+            "en": "Straight to the slides while it is cool.",
+            "fr": "Direction les toboggans pendant qu'il fait frais."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and downtime",
+            "fr": "Dejeuner et pause"
+          },
+          "note": {
+            "en": "Cook a simple lunch and rest indoors.",
+            "fr": "Un dejeuner simple maison et repos a l'interieur."
+          }
+        },
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Beach or entertainment",
+            "fr": "Plage ou animation"
+          },
+          "note": {
+            "en": "Beach walk or join the resort activities.",
+            "fr": "Balade sur la plage ou participation aux animations du complexe."
+          }
+        },
+        {
+          "time": "19:00",
+          "title": {
+            "en": "Dinner out",
+            "fr": "Diner dehors"
+          },
+          "note": {
+            "en": "Plenty of family restaurants within walking distance.",
+            "fr": "De nombreux restaurants familiaux a distance de marche."
+          }
+        }
+      ],
+      "ageNotes": {
+        "toddler": {
+          "en": "Shallow splash zones work for toddlers, but the lively resort location suits confident families.",
+          "fr": "Les zones peu profondes conviennent aux tout-petits, mais l'emplacement anime convient aux familles a l'aise."
+        },
+        "kid": {
+          "en": "The best fit: splash park, free activities and beaches all close by.",
+          "fr": "Le meilleur profil: parc aquatique, activites gratuites et plages tout pres."
+        },
+        "teen": {
+          "en": "Teens like being central to Las Americas, with shops and the seafront on foot.",
+          "fr": "Les ados aiment etre au centre de Las Americas, boutiques et bord de mer a pied."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is there really a water park on site?",
+            "fr": "Y a-t-il vraiment un parc aquatique sur place?"
+          },
+          "a": {
+            "en": "Yes, Oasis Splash Island has slides, water jets and games included for guests.",
+            "fr": "Oui, Oasis Splash Island propose toboggans, jets d'eau et jeux inclus pour les clients."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we self-cater?",
+            "fr": "Peut-on cuisiner sur place?"
+          },
+          "a": {
+            "en": "Rooms have kitchenettes, so breakfasts and simple meals in are easy.",
+            "fr": "Les chambres ont des kitchenettes, donc petits-dejeuners et repas simples sont faciles."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it noisy?",
+            "fr": "Est-ce bruyant?"
+          },
+          "a": {
+            "en": "It is in lively Las Americas, so ask for a room away from the pool and street for quieter nights.",
+            "fr": "C'est dans le Las Americas anime, demandez une chambre eloignee de la piscine et de la rue pour des nuits plus calmes."
+          }
+        }
+      ]
+    },
+    {
+      "key": "tenerife-coral-los-alisios",
+      "destinationKey": "tenerife",
+      "name": "Apartamentos Coral Los Alisios",
+      "area": {
+        "en": "Los Cristianos",
+        "fr": "Los Cristianos"
+      },
+      "lat": 28.052,
+      "lng": -16.708,
+      "zoom": 13,
+      "address": "Apartamentos Coral Los Alisios, Los Cristianos, Tenerife, Spain",
+      "priceTier": 2,
+      "priceFrom": 110,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid"
+      ],
+      "amenities": [
+        "pool",
+        "self-catering",
+        "beach-access",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "photos": [
+        "roomCozy",
+        "whiteResortPool",
+        "coastTown"
+      ],
+      "scores": {
+        "rooms": 74,
+        "baby": 80,
+        "pool": 72,
+        "dining": 66,
+        "safety": 82,
+        "convenience": 88,
+        "location": 86,
+        "extras": 64
+      },
+      "roomsSummary": {
+        "en": "Bright apartments with a full kitchen, a separate bedroom and a living area with a sofa bed, so a young family has room and can cook. Simple, clean and practical rather than stylish.",
+        "fr": "Appartements lumineux avec cuisine equipee, chambre separee et coin salon avec canape-lit, pour qu'une jeune famille ait de la place et puisse cuisiner. Simple, propre et fonctionnel plutot que design."
+      },
+      "intro": {
+        "en": "Los Cristianos has the gentlest sheltered town beach in the south, ideal for babies and toddlers, and Coral Los Alisios puts you a short walk from it with a proper apartment and kitchen. It is a calm, walkable, self-catering base rather than an entertainment resort.",
+        "fr": "Los Cristianos possede la plage de ville la plus douce et la plus abritee du sud, ideale pour bebes et tout-petits, et le Coral Los Alisios vous en place a quelques minutes a pied avec un vrai appartement et une cuisine. C'est une base calme, accessible a pied et autonome, plutot qu'un complexe d'animation."
+      },
+      "highlights": {
+        "en": [
+          "Full-kitchen apartments for young families",
+          "Short walk to calm Los Cristianos town beach",
+          "Pool with a separate children's section",
+          "Quiet, walkable seaside town",
+          "Ferries to La Gomera leave from the harbour",
+          "Supermarkets and family restaurants nearby"
+        ],
+        "fr": [
+          "Appartements avec cuisine equipee pour jeunes familles",
+          "Courte marche jusqu'a la plage calme de Los Cristianos",
+          "Piscine avec bassin enfants separe",
+          "Ville balneaire calme et accessible a pied",
+          "Ferries vers La Gomera au depart du port",
+          "Supermarches et restaurants familiaux a proximite"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Calm, shallow town beach is superb for little ones",
+          "Real kitchen and space at a modest price",
+          "Easygoing town you can navigate with a pushchair"
+        ],
+        "fr": [
+          "Plage de ville calme et peu profonde, parfaite pour les petits",
+          "Vraie cuisine et espace a prix modeste",
+          "Ville tranquille facile a parcourir avec une poussette"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No kids club or organised entertainment",
+          "Pool and interiors are dated",
+          "Quiet at night, which some teens find dull"
+        ],
+        "fr": [
+          "Pas de club enfants ni d'animation organisee",
+          "Piscine et interieurs vieillissants",
+          "Calme le soir, ce que certains ados trouvent ennuyeux"
+        ]
+      },
+      "verdict": {
+        "en": "The pick for parents of babies and toddlers who value a calm beach and a kitchen over a big resort.",
+        "fr": "Le choix des parents de bebes et de tout-petits qui preferent une plage calme et une cuisine a un grand complexe."
+      },
+      "parentTip": {
+        "en": "Los Cristianos beach shelves gently and stays calm, so it is one of the safest first-swim spots on the island; go early for shade and space.",
+        "fr": "La plage de Los Cristianos descend en pente douce et reste calme, c'est l'un des endroits les plus surs pour une premiere baignade sur l'ile; allez-y tot pour l'ombre et la place."
+      },
+      "atAGlance": [
+        {
+          "icon": "🍳",
+          "label": {
+            "en": "Kitchen",
+            "fr": "Cuisine"
+          },
+          "value": {
+            "en": "Full kitchen in every apartment",
+            "fr": "Cuisine equipee dans chaque appartement"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Calm town beach, short walk",
+            "fr": "Plage de ville calme, courte marche"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "Children's section included",
+            "fr": "Bassin enfants inclus"
+          }
+        },
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Best for",
+            "fr": "Ideal pour"
+          },
+          "value": {
+            "en": "Babies and toddlers",
+            "fr": "Bebes et tout-petits"
+          }
+        },
+        {
+          "icon": "⛴️",
+          "label": {
+            "en": "Day trips",
+            "fr": "Excursions"
+          },
+          "value": {
+            "en": "Ferry to La Gomera nearby",
+            "fr": "Ferry vers La Gomera tout pres"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Town beach paddle",
+            "fr": "Baignade a la plage de ville"
+          },
+          "detail": {
+            "en": "Shallow, sheltered water perfect for a first swim.",
+            "fr": "Eau peu profonde et abritee, parfaite pour une premiere baignade."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🍦",
+          "name": {
+            "en": "Harbour stroll",
+            "fr": "Balade au port"
+          },
+          "detail": {
+            "en": "Ice cream and boat-watching along the promenade.",
+            "fr": "Glace et bateaux a regarder le long de la promenade."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soir"
+          }
+        },
+        {
+          "emoji": "⛴️",
+          "name": {
+            "en": "La Gomera ferry",
+            "fr": "Ferry vers La Gomera"
+          },
+          "detail": {
+            "en": "A short crossing for a day on the neighbouring island.",
+            "fr": "Une courte traversee pour une journee sur l'ile voisine."
+          },
+          "ages": [
+            "kid"
+          ],
+          "time": {
+            "en": "Full day",
+            "fr": "Journee entiere"
+          }
+        },
+        {
+          "emoji": "🐋",
+          "name": {
+            "en": "Dolphin trip",
+            "fr": "Sortie dauphins"
+          },
+          "detail": {
+            "en": "Family boat trips to spot dolphins and pilot whales.",
+            "fr": "Sorties en bateau familiales pour observer dauphins et globicephales."
+          },
+          "ages": [
+            "kid"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journee"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast in the apartment",
+            "fr": "Petit-dejeuner dans l'appartement"
+          },
+          "note": {
+            "en": "Cook what the little ones actually eat.",
+            "fr": "Preparez ce que les petits mangent vraiment."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Beach morning",
+            "fr": "Matinee plage"
+          },
+          "note": {
+            "en": "Calm shallows before the sun gets strong.",
+            "fr": "Eaux calmes et peu profondes avant que le soleil tape."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and nap",
+            "fr": "Dejeuner et sieste"
+          },
+          "note": {
+            "en": "Home for lunch and a proper nap.",
+            "fr": "Retour pour le dejeuner et une vraie sieste."
+          }
+        },
+        {
+          "time": "16:30",
+          "title": {
+            "en": "Pool time",
+            "fr": "Piscine"
+          },
+          "note": {
+            "en": "Children's pool as the afternoon cools.",
+            "fr": "Bassin enfants quand l'apres-midi se rafraichit."
+          }
+        },
+        {
+          "time": "18:30",
+          "title": {
+            "en": "Promenade and dinner",
+            "fr": "Promenade et diner"
+          },
+          "note": {
+            "en": "Easy stroll to a family restaurant.",
+            "fr": "Balade facile jusqu'a un restaurant familial."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "The kitchen and one of the island's calmest beaches make this a top baby base. Cots on request.",
+          "fr": "La cuisine et l'une des plages les plus calmes de l'ile en font une base ideale pour les bebes. Lits parapluie sur demande."
+        },
+        "toddler": {
+          "en": "Gentle shallows and a children's pool are exactly right for toddlers.",
+          "fr": "Eaux peu profondes et bassin enfants parfaitement adaptes aux tout-petits."
+        },
+        "kid": {
+          "en": "Fine for younger kids who like the beach; there is no club or big water play.",
+          "fr": "Bien pour les jeunes enfants qui aiment la plage; pas de club ni de grands jeux d'eau."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the beach safe for young children?",
+            "fr": "La plage est-elle sure pour les jeunes enfants?"
+          },
+          "a": {
+            "en": "Los Cristianos town beach is sheltered and shallow, among the calmest on the island.",
+            "fr": "La plage de ville de Los Cristianos est abritee et peu profonde, parmi les plus calmes de l'ile."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there entertainment for kids?",
+            "fr": "Y a-t-il des animations pour enfants?"
+          },
+          "a": {
+            "en": "No, this is a quiet self-catering aparthotel; you make your own plans from the town.",
+            "fr": "Non, c'est un aparthotel calme pour cuisiner soi-meme; vous organisez vos sorties depuis la ville."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we manage without a car?",
+            "fr": "Peut-on se passer de voiture?"
+          },
+          "a": {
+            "en": "Yes, the beach, shops and harbour are all walkable, with buses for wider trips.",
+            "fr": "Oui, plage, boutiques et port sont accessibles a pied, avec des bus pour les excursions plus lointaines."
+          }
+        }
+      ]
+    },
+    {
+      "key": "tenerife-la-carabela-aparthotel",
+      "destinationKey": "tenerife",
+      "name": "Aparthotel La Carabela",
+      "area": {
+        "en": "Puerto de la Cruz",
+        "fr": "Puerto de la Cruz"
+      },
+      "lat": 28.412,
+      "lng": -16.554,
+      "zoom": 13,
+      "address": "Aparthotel La Carabela, Puerto de la Cruz, Tenerife, Spain",
+      "priceTier": 2,
+      "priceFrom": 95,
+      "ages": [
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "self-catering",
+        "family-suites",
+        "city-base"
+      ],
+      "photos": [
+        "poolDuskPalms",
+        "livingRoom",
+        "coastTown"
+      ],
+      "scores": {
+        "rooms": 70,
+        "baby": 68,
+        "pool": 74,
+        "dining": 68,
+        "safety": 80,
+        "convenience": 84,
+        "location": 82,
+        "extras": 72
+      },
+      "roomsSummary": {
+        "en": "Practical apartments with a kitchenette and a separate living area, many with sea or town views. Comfortable and functional, a good base for exploring the greener north.",
+        "fr": "Appartements pratiques avec kitchenette et coin salon separe, beaucoup avec vue mer ou ville. Confortables et fonctionnels, une bonne base pour explorer le nord plus verdoyant."
+      },
+      "intro": {
+        "en": "Puerto de la Cruz is the characterful north-coast town, cooler and greener than the south, with the huge Lago Martianez saltwater pool complex and Loro Parque nearby. La Carabela is a friendly self-catering aparthotel with indoor and outdoor pools, a smart base for families who want real Tenerife alongside the beach.",
+        "fr": "Puerto de la Cruz est la ville de caractere de la cote nord, plus fraiche et plus verte que le sud, avec l'immense complexe de piscines d'eau de mer Lago Martianez et le Loro Parque tout pres. La Carabela est un aparthotel convivial pour cuisiner soi-meme, avec piscines interieure et exterieure, une base maligne pour les familles qui veulent le vrai Tenerife en plus de la plage."
+      },
+      "highlights": {
+        "en": [
+          "Indoor and outdoor pools, useful in the cooler north",
+          "Kitchenette apartments for self-catering",
+          "Walking distance to Loro Parque",
+          "Near the Lago Martianez pool complex",
+          "Characterful town with real Canarian life",
+          "Great base for Teide and the north's greenery"
+        ],
+        "fr": [
+          "Piscines interieure et exterieure, utiles dans le nord plus frais",
+          "Appartements avec kitchenette pour cuisiner soi-meme",
+          "A distance de marche du Loro Parque",
+          "Pres du complexe de piscines Lago Martianez",
+          "Ville de caractere a la vraie vie canarienne",
+          "Excellente base pour le Teide et la verdure du nord"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Authentic town, not a purpose-built resort strip",
+          "Indoor pool is a bonus when clouds roll in",
+          "Loro Parque and Lago Martianez both close"
+        ],
+        "fr": [
+          "Ville authentique, pas une zone touristique artificielle",
+          "La piscine interieure depanne quand les nuages arrivent",
+          "Loro Parque et Lago Martianez tous deux tout pres"
+        ]
+      },
+      "cons": {
+        "en": [
+          "North coast is cloudier and cooler than the south",
+          "Local beaches are black volcanic sand",
+          "No kids club or organised entertainment"
+        ],
+        "fr": [
+          "La cote nord est plus nuageuse et plus fraiche que le sud",
+          "Les plages locales sont de sable volcanique noir",
+          "Pas de club enfants ni d'animation organisee"
+        ]
+      },
+      "verdict": {
+        "en": "For families who want the greener, more authentic north with Loro Parque on the doorstep and a kitchen of their own.",
+        "fr": "Pour les familles qui veulent le nord plus vert et plus authentique, avec le Loro Parque au pied de l'hotel et une cuisine a soi."
+      },
+      "parentTip": {
+        "en": "Pack a light jumper for evenings; the north is noticeably cooler and can cloud over even when the south is baking. The Lago Martianez pools are a great wet-weather backup.",
+        "fr": "Prevoyez un petit pull pour les soirees; le nord est nettement plus frais et peut se couvrir meme quand le sud est brulant. Les piscines du Lago Martianez sont un bon plan de repli par temps couvert."
+      },
+      "atAGlance": [
+        {
+          "icon": "🦜",
+          "label": {
+            "en": "Loro Parque",
+            "fr": "Loro Parque"
+          },
+          "value": {
+            "en": "Walking distance",
+            "fr": "A distance de marche"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Indoor and outdoor",
+            "fr": "Interieure et exterieure"
+          }
+        },
+        {
+          "icon": "🍳",
+          "label": {
+            "en": "Kitchen",
+            "fr": "Cuisine"
+          },
+          "value": {
+            "en": "Kitchenette in apartments",
+            "fr": "Kitchenette dans les appartements"
+          }
+        },
+        {
+          "icon": "🌿",
+          "label": {
+            "en": "Setting",
+            "fr": "Cadre"
+          },
+          "value": {
+            "en": "Green, authentic north",
+            "fr": "Nord vert et authentique"
+          }
+        },
+        {
+          "icon": "🌋",
+          "label": {
+            "en": "Teide",
+            "fr": "Teide"
+          },
+          "value": {
+            "en": "Great base for the volcano",
+            "fr": "Bonne base pour le volcan"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🦜",
+          "name": {
+            "en": "Loro Parque",
+            "fr": "Loro Parque"
+          },
+          "detail": {
+            "en": "One of Europe's best animal parks, an easy walk or bus away.",
+            "fr": "L'un des meilleurs parcs animaliers d'Europe, a pied ou en bus facilement."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Full day",
+            "fr": "Journee entiere"
+          }
+        },
+        {
+          "emoji": "🌊",
+          "name": {
+            "en": "Lago Martianez",
+            "fr": "Lago Martianez"
+          },
+          "detail": {
+            "en": "A vast saltwater pool complex right by the sea.",
+            "fr": "Un vaste complexe de piscines d'eau de mer au bord de l'ocean."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journee"
+          }
+        },
+        {
+          "emoji": "🌋",
+          "name": {
+            "en": "Mount Teide trip",
+            "fr": "Excursion au Teide"
+          },
+          "detail": {
+            "en": "Drive up to Spain's highest peak and its cable car.",
+            "fr": "Montez au plus haut sommet d'Espagne et son telepherique."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Full day",
+            "fr": "Journee entiere"
+          }
+        },
+        {
+          "emoji": "🌱",
+          "name": {
+            "en": "Botanical Garden",
+            "fr": "Jardin botanique"
+          },
+          "detail": {
+            "en": "A shady green wander for a cooler afternoon.",
+            "fr": "Une balade verte et ombragee pour un apres-midi plus frais."
+          },
+          "ages": [
+            "kid"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Apres-midi"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast in the apartment",
+            "fr": "Petit-dejeuner dans l'appartement"
+          },
+          "note": {
+            "en": "Kitchenette start before a big day out.",
+            "fr": "Depart a la kitchenette avant une grosse journee."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Loro Parque",
+            "fr": "Loro Parque"
+          },
+          "note": {
+            "en": "Animals and shows while everyone is fresh.",
+            "fr": "Animaux et spectacles pendant que tout le monde est en forme."
+          }
+        },
+        {
+          "time": "14:00",
+          "title": {
+            "en": "Lunch and rest",
+            "fr": "Dejeuner et repos"
+          },
+          "note": {
+            "en": "Back for lunch and a quieter hour.",
+            "fr": "Retour pour le dejeuner et une heure plus calme."
+          }
+        },
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Lago Martianez",
+            "fr": "Lago Martianez"
+          },
+          "note": {
+            "en": "Cool off in the seawater pools.",
+            "fr": "Se rafraichir dans les piscines d'eau de mer."
+          }
+        },
+        {
+          "time": "19:00",
+          "title": {
+            "en": "Old town dinner",
+            "fr": "Diner dans la vieille ville"
+          },
+          "note": {
+            "en": "Eat where locals do in the harbour streets.",
+            "fr": "Mangez la ou vont les locaux, dans les rues du port."
+          }
+        }
+      ],
+      "ageNotes": {
+        "toddler": {
+          "en": "Fine with a kitchen and the indoor pool, though the cooler, cloudier north suits active days over beach lounging.",
+          "fr": "Bien avec une cuisine et la piscine interieure, meme si le nord plus frais et nuageux convient mieux aux journees actives qu'au farniente sur la plage."
+        },
+        "kid": {
+          "en": "Great age for Loro Parque, Lago Martianez and Teide from this base.",
+          "fr": "Bel age pour le Loro Parque, le Lago Martianez et le Teide depuis cette base."
+        },
+        "teen": {
+          "en": "Teens enjoy the real-town feel, the seawater pools and exploring the greener north.",
+          "fr": "Les ados apprecient l'ambiance de vraie ville, les piscines d'eau de mer et l'exploration du nord plus vert."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the north warm enough for a beach holiday?",
+            "fr": "Le nord est-il assez chaud pour des vacances plage?"
+          },
+          "a": {
+            "en": "It is milder and cloudier than the south, so it suits families who want sightseeing and pools as much as sunbathing.",
+            "fr": "Il est plus doux et plus nuageux que le sud, il convient donc aux familles qui aiment les visites et les piscines autant que le bronzage."
+          }
+        },
+        {
+          "q": {
+            "en": "How close is Loro Parque?",
+            "fr": "Le Loro Parque est-il proche?"
+          },
+          "a": {
+            "en": "It is within walking distance, with a free little train linking it to the town centre.",
+            "fr": "Il est a distance de marche, avec un petit train gratuit qui le relie au centre-ville."
+          }
+        },
+        {
+          "q": {
+            "en": "Are the beaches sandy?",
+            "fr": "Les plages sont-elles de sable?"
+          },
+          "a": {
+            "en": "Local beaches are black volcanic sand; many families prefer the Lago Martianez pool complex.",
+            "fr": "Les plages locales sont de sable volcanique noir; beaucoup de familles preferent le complexe de piscines Lago Martianez."
+          }
+        }
+      ]
+    },
+    {
+      "key": "tenerife-ona-sueno-azul",
+      "destinationKey": "tenerife",
+      "name": "Ona Sueno Azul",
+      "area": {
+        "en": "Callao Salvaje",
+        "fr": "Callao Salvaje"
+      },
+      "lat": 28.108,
+      "lng": -16.79,
+      "zoom": 13,
+      "address": "Ona Sueno Azul, Callao Salvaje, Tenerife, Spain",
+      "priceTier": 2,
+      "priceFrom": 120,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid"
+      ],
+      "amenities": [
+        "pool",
+        "self-catering",
+        "beach-access",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "photos": [
+        "villaPoolGreen",
+        "roomCozy",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 76,
+        "baby": 82,
+        "pool": 76,
+        "dining": 64,
+        "safety": 82,
+        "convenience": 74,
+        "location": 80,
+        "extras": 66
+      },
+      "roomsSummary": {
+        "en": "Bungalow and apartment-style units with equipped kitchens, private terraces and a separate bedroom, set in green gardens. Calm, spacious and made for young families who cook.",
+        "fr": "Bungalows et appartements avec cuisine equipee, terrasses privees et chambre separee, dans des jardins verdoyants. Calmes, spacieux et penses pour les jeunes familles qui cuisinent."
+      },
+      "intro": {
+        "en": "Callao Salvaje is a quiet, low-rise resort tucked on the coast between Costa Adeje and Playa Paraiso, and Ona Sueno Azul is its garden aparthotel with heated pools and a small sheltered cove nearby. It is a calm, self-catering choice for families with babies and toddlers who want peace over party.",
+        "fr": "Callao Salvaje est une station calme et peu construite, nichee sur la cote entre Costa Adeje et Playa Paraiso, et l'Ona Sueno Azul en est l'aparthotel-jardin, avec piscines chauffees et une petite crique abritee tout pres. C'est un choix calme et autonome pour les familles avec bebes et tout-petits qui preferent la tranquillite a la fete."
+      },
+      "highlights": {
+        "en": [
+          "Heated pool open year round, plus a children's pool",
+          "Equipped kitchens for family self-catering",
+          "Green, low-rise gardens with a playground",
+          "Near a small sheltered cove beach",
+          "Calm resort away from the crowds",
+          "Short drive to Costa Adeje and its parks"
+        ],
+        "fr": [
+          "Piscine chauffee ouverte toute l'annee, plus un bassin enfants",
+          "Cuisines equipees pour cuisiner en famille",
+          "Jardins verts et peu construits avec aire de jeux",
+          "Pres d'une petite crique abritee",
+          "Station calme, loin de la foule",
+          "Courte route jusqu'a Costa Adeje et ses parcs"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Genuinely calm and green, great for little ones",
+          "Heated pools even in winter",
+          "Kitchens and space at a fair price"
+        ],
+        "fr": [
+          "Vraiment calme et verdoyant, ideal pour les petits",
+          "Piscines chauffees meme en hiver",
+          "Cuisines et espace a prix juste"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Nearest beach is a small cove with dark sand and pebbles",
+          "Quiet resort with little on-site entertainment",
+          "You will want a car to get the most out of it"
+        ],
+        "fr": [
+          "La plage la plus proche est une petite crique de sable sombre et galets",
+          "Station calme avec peu d'animation sur place",
+          "Une voiture est conseillee pour en profiter pleinement"
+        ]
+      },
+      "verdict": {
+        "en": "A peaceful, green self-catering base for families with young children who want calm days and heated pools.",
+        "fr": "Une base verte et paisible pour cuisiner soi-meme, pour les familles avec jeunes enfants qui veulent des journees calmes et des piscines chauffees."
+      },
+      "parentTip": {
+        "en": "The cove is small and pebbly, so a car makes it easy to reach the bigger Costa Adeje beaches and Siam Park in 15 minutes.",
+        "fr": "La crique est petite et caillouteuse, une voiture permet de rejoindre facilement les grandes plages de Costa Adeje et le Siam Park en 15 minutes."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "Heated year round, kids pool too",
+            "fr": "Chauffee toute l'annee, bassin enfants aussi"
+          }
+        },
+        {
+          "icon": "🍳",
+          "label": {
+            "en": "Kitchen",
+            "fr": "Cuisine"
+          },
+          "value": {
+            "en": "Equipped kitchen in every unit",
+            "fr": "Cuisine equipee dans chaque logement"
+          }
+        },
+        {
+          "icon": "🌳",
+          "label": {
+            "en": "Setting",
+            "fr": "Cadre"
+          },
+          "value": {
+            "en": "Green gardens, playground",
+            "fr": "Jardins verts, aire de jeux"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Small sheltered cove nearby",
+            "fr": "Petite crique abritee tout pres"
+          }
+        },
+        {
+          "icon": "🚗",
+          "label": {
+            "en": "Getting around",
+            "fr": "Deplacements"
+          },
+          "value": {
+            "en": "Car recommended",
+            "fr": "Voiture conseillee"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Heated pool play",
+            "fr": "Baignade en piscine chauffee"
+          },
+          "detail": {
+            "en": "Warm water and a children's pool, good even in winter.",
+            "fr": "Eau chaude et bassin enfants, agreables meme en hiver."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Daily",
+            "fr": "Chaque jour"
+          }
+        },
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Cove morning",
+            "fr": "Matinee a la crique"
+          },
+          "detail": {
+            "en": "A small, sheltered bay for a calm dip.",
+            "fr": "Une petite baie abritee pour une baignade tranquille."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🐠",
+          "name": {
+            "en": "Siam Park day",
+            "fr": "Journee au Siam Park"
+          },
+          "detail": {
+            "en": "The famous water park is a 15 minute drive away.",
+            "fr": "Le celebre parc aquatique est a 15 minutes en voiture."
+          },
+          "ages": [
+            "kid"
+          ],
+          "time": {
+            "en": "Full day",
+            "fr": "Journee entiere"
+          }
+        },
+        {
+          "emoji": "🌅",
+          "name": {
+            "en": "Sunset walk",
+            "fr": "Balade au coucher du soleil"
+          },
+          "detail": {
+            "en": "The coastal path west catches a lovely evening light.",
+            "fr": "Le sentier cotier vers l'ouest offre une belle lumiere du soir."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soir"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast on the terrace",
+            "fr": "Petit-dejeuner sur la terrasse"
+          },
+          "note": {
+            "en": "Quiet garden start with the little ones.",
+            "fr": "Debut tranquille au jardin avec les petits."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Pool morning",
+            "fr": "Matinee piscine"
+          },
+          "note": {
+            "en": "Heated water while the resort is calm.",
+            "fr": "Eau chauffee pendant que la station est calme."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and nap",
+            "fr": "Dejeuner et sieste"
+          },
+          "note": {
+            "en": "Cook in and let the baby sleep properly.",
+            "fr": "Cuisiner sur place et laisser le bebe dormir vraiment."
+          }
+        },
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Cove or drive out",
+            "fr": "Crique ou sortie en voiture"
+          },
+          "note": {
+            "en": "The cove nearby or a beach in Costa Adeje.",
+            "fr": "La crique tout pres ou une plage a Costa Adeje."
+          }
+        },
+        {
+          "time": "19:00",
+          "title": {
+            "en": "Dinner in the gardens",
+            "fr": "Diner dans les jardins"
+          },
+          "note": {
+            "en": "Simple meal in or the on-site cafe.",
+            "fr": "Repas simple chez soi ou au cafe de la residence."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Calm gardens, a kitchen and heated pools make this genuinely baby-friendly. Cots on request.",
+          "fr": "Jardins calmes, cuisine et piscines chauffees le rendent vraiment adapte aux bebes. Lits parapluie sur demande."
+        },
+        "toddler": {
+          "en": "The children's pool and a sheltered cove suit toddlers, with a playground on site.",
+          "fr": "Le bassin enfants et une crique abritee conviennent aux tout-petits, avec une aire de jeux sur place."
+        },
+        "kid": {
+          "en": "Fine for younger kids who like the pool; older ones may want more to do without a car.",
+          "fr": "Bien pour les jeunes enfants qui aiment la piscine; les plus grands voudront plus d'activites sans voiture."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the pool heated?",
+            "fr": "La piscine est-elle chauffee?"
+          },
+          "a": {
+            "en": "Yes, there is a year-round heated pool plus a heated children's pool, useful in the cooler months.",
+            "fr": "Oui, il y a une piscine chauffee toute l'annee plus un bassin enfants chauffe, utile a la saison fraiche."
+          }
+        },
+        {
+          "q": {
+            "en": "Do we need a car?",
+            "fr": "Faut-il une voiture?"
+          },
+          "a": {
+            "en": "It is recommended; a car makes the bigger beaches, Siam Park and Costa Adeje easy in about 15 minutes.",
+            "fr": "Elle est conseillee; une voiture rend les grandes plages, le Siam Park et Costa Adeje accessibles en 15 minutes environ."
+          }
+        },
+        {
+          "q": {
+            "en": "What is the beach like?",
+            "fr": "Comment est la plage?"
+          },
+          "a": {
+            "en": "The nearest is a small sheltered cove with darker sand and pebbles, calm but modest in size.",
+            "fr": "La plus proche est une petite crique abritee au sable plus sombre et aux galets, calme mais de taille modeste."
+          }
+        }
+      ]
+    }
+  ],
+  "destinationMeta": {
+    "heroKicker": {
+      "en": "Year-round sun, an hour from a volcano",
+      "fr": "Du soleil toute l'annee, a une heure d'un volcan"
+    },
+    "intro": {
+      "en": "Tenerife is Europe's most reliable winter-sun island for families, warm even in January, with calm sandy beaches in the sheltered south and the snow-capped Mount Teide inland. Add Siam Park, whale watching offshore and Loro Parque in the north and you have a destination that works for babies through to teens. The short flight and gentle time difference make it a genuinely easy family trip.",
+      "fr": "Tenerife est l'ile europeenne la plus fiable pour le soleil d'hiver en famille, douce meme en janvier, avec des plages de sable calmes dans le sud abrite et le Teide enneige a l'interieur. Ajoutez le Siam Park, l'observation des baleines au large et le Loro Parque au nord, et vous avez une destination qui convient du bebe a l'adolescent. Le vol court et le decalage horaire minime en font des vacances familiales vraiment faciles."
+    },
+    "whyKids": {
+      "en": [
+        "Year-round sun: the south stays warm and dry even in the depths of winter, ideal for a February half-term escape.",
+        "Siam Park: regularly rated the best water park in the world, with gentle zones for toddlers and thrills for teens.",
+        "Calm southern beaches: sheltered, gently shelving bays like Los Cristianos and Fanabe are safe for first swims.",
+        "Nature up close: whale and dolphin boat trips offshore, Loro Parque's animals in the north and the volcanic drama of Mount Teide."
+      ],
+      "fr": [
+        "Soleil toute l'annee: le sud reste chaud et sec meme au coeur de l'hiver, ideal pour une escapade aux vacances de fevrier.",
+        "Siam Park: regulierement elu meilleur parc aquatique du monde, avec des zones douces pour les tout-petits et des sensations pour les ados.",
+        "Plages du sud calmes: baies abritees a pente douce comme Los Cristianos et Fanabe, sures pour les premieres baignades.",
+        "La nature de pres: sorties en bateau pour voir baleines et dauphins, animaux du Loro Parque au nord et decor volcanique du Teide."
+      ]
+    },
+    "bestAreas": {
+      "en": [
+        "Costa Adeje: the polished family heartland, with the best resorts, calmest sandy beaches and easy access to Siam Park.",
+        "Los Cristianos: an easygoing town with the gentlest sheltered beach in the south, great for babies and self-catering.",
+        "Puerto de la Cruz: the greener, more authentic north, cooler but home to Loro Parque and the Lago Martianez pools."
+      ],
+      "fr": [
+        "Costa Adeje: le coeur familial soigne, avec les meilleurs complexes, les plages de sable les plus calmes et un acces facile au Siam Park.",
+        "Los Cristianos: une ville decontractee avec la plage abritee la plus douce du sud, ideale pour les bebes et pour cuisiner soi-meme.",
+        "Puerto de la Cruz: le nord plus vert et plus authentique, plus frais mais abritant le Loro Parque et les piscines du Lago Martianez."
+      ]
+    },
+    "stats": [
+      {
+        "value": "12",
+        "label": {
+          "en": "months of swimming weather",
+          "fr": "mois de temps propice a la baignade"
+        }
+      },
+      {
+        "value": "3,715m",
+        "label": {
+          "en": "Mount Teide, Spain's highest peak",
+          "fr": "le Teide, plus haut sommet d'Espagne"
+        }
+      },
+      {
+        "value": "#1",
+        "label": {
+          "en": "Siam Park, world's top water park",
+          "fr": "Siam Park, meilleur parc aquatique du monde"
+        }
+      }
+    ],
+    "activities": [
+      {
+        "emoji": "🛝",
+        "name": {
+          "en": "Siam Park",
+          "fr": "Siam Park"
+        },
+        "detail": {
+          "en": "A Thai-themed water park with a wave pool, lazy river and toddler zone as well as big slides.",
+          "fr": "Un parc aquatique a theme thailandais avec piscine a vagues, riviere lente et zone tout-petits en plus des grands toboggans."
+        },
+        "ages": [
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Full day",
+          "fr": "Journee entiere"
+        }
+      },
+      {
+        "emoji": "🐋",
+        "name": {
+          "en": "Whale watching",
+          "fr": "Observation des baleines"
+        },
+        "detail": {
+          "en": "Resident pilot whales and dolphins live year round off the south coast, an easy boat trip.",
+          "fr": "Globicephales et dauphins vivent toute l'annee au large de la cote sud, une sortie en bateau facile."
+        },
+        "ages": [
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Half day",
+          "fr": "Demi-journee"
+        }
+      },
+      {
+        "emoji": "🌋",
+        "name": {
+          "en": "Teide cable car",
+          "fr": "Telepherique du Teide"
+        },
+        "detail": {
+          "en": "Ride up Spain's highest volcano through a lunar landscape of lava fields.",
+          "fr": "Montez le plus haut volcan d'Espagne a travers un paysage lunaire de champs de lave."
+        },
+        "ages": [
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Full day",
+          "fr": "Journee entiere"
+        }
+      },
+      {
+        "emoji": "🦜",
+        "name": {
+          "en": "Loro Parque",
+          "fr": "Loro Parque"
+        },
+        "detail": {
+          "en": "A superb animal park in the north with penguins, dolphins, orcas and parrots.",
+          "fr": "Un superbe parc animalier au nord avec manchots, dauphins, orques et perroquets."
+        },
+        "ages": [
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Full day",
+          "fr": "Journee entiere"
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "q": {
+          "en": "When is the best time to visit Tenerife with kids?",
+          "fr": "Quelle est la meilleure periode pour visiter Tenerife avec des enfants?"
+        },
+        "a": {
+          "en": "Any time; the south is warm and dry year round. Winter is the standout, offering reliable sun when much of Europe is cold.",
+          "fr": "N'importe quand; le sud est chaud et sec toute l'annee. L'hiver est le grand atout, avec un soleil fiable quand une grande partie de l'Europe grelotte."
+        }
+      },
+      {
+        "q": {
+          "en": "Are the beaches safe for young children?",
+          "fr": "Les plages sont-elles sures pour les jeunes enfants?"
+        },
+        "a": {
+          "en": "The sheltered southern beaches such as Los Cristianos and Fanabe are calm and gently shelving; note that many natural beaches have black volcanic sand.",
+          "fr": "Les plages abritees du sud comme Los Cristianos et Fanabe sont calmes et a pente douce; notez que beaucoup de plages naturelles ont du sable volcanique noir."
+        }
+      },
+      {
+        "q": {
+          "en": "Do we need a hire car?",
+          "fr": "Faut-il louer une voiture?"
+        },
+        "a": {
+          "en": "Not if you base yourself in a walkable resort town, but a car opens up Teide, the north and quieter beaches easily.",
+          "fr": "Pas si vous logez dans une station accessible a pied, mais une voiture ouvre facilement l'acces au Teide, au nord et aux plages plus calmes."
+        }
+      }
+    ],
+    "parentTip": {
+      "en": "Base yourself in the sunny south for beach days, then hire a car for a day or two to see Teide and the green north; the island changes completely from coast to summit.",
+      "fr": "Installez-vous dans le sud ensoleille pour les journees plage, puis louez une voiture un jour ou deux pour voir le Teide et le nord verdoyant; l'ile change du tout au tout de la cote au sommet."
+    },
+    "goodToKnow": {
+      "en": "Many of Tenerife's natural beaches are black volcanic sand, which gets hot underfoot, so pack water shoes; the golden-sand family beaches in Costa Adeje are largely imported. The south is reliably sunny while the north can be cloudier and cooler.",
+      "fr": "Beaucoup de plages naturelles de Tenerife sont de sable volcanique noir, qui chauffe sous les pieds, prevoyez donc des chaussures d'eau; les plages familiales de sable dore de Costa Adeje sont en grande partie rapportees. Le sud est ensoleille de facon fiable tandis que le nord peut etre plus nuageux et plus frais."
+    },
+    "emoji": "☀️",
+    "photos": [
+      "poolPalms",
+      "deckLoungersSea",
+      "whiteResortPool"
+    ]
+  }
+}

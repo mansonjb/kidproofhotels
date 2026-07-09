@@ -5,6 +5,7 @@ import lisbon from "./lisbon.json";
 import algarve from "./algarve.json";
 import costa from "./costa-del-sol.json";
 import mallorca from "./mallorca.json";
+import tenerife from "./tenerife.json";
 
 // Hotels are authored as JSON seeds (researched + drafted) and mapped to the
 // Hotel shape here: geo assembled, a clean unique slug generated per property,
@@ -15,10 +16,13 @@ type SeedFile = {
   destinationMeta?: Record<string, unknown>;
 };
 
-const FILES = [lisbon, algarve, costa, mallorca] as unknown as SeedFile[];
+const FILES = [lisbon, algarve, costa, mallorca, tenerife] as unknown as SeedFile[];
 
-/** Loosely-typed Mallorca destination meta (used to build its Destination). */
+/** Loosely-typed per-destination meta (used to build newer Destinations). */
 export const MALLORCA_META = (mallorca as unknown as SeedFile).destinationMeta as
+  | Record<string, unknown>
+  | undefined;
+export const TENERIFE_META = (tenerife as unknown as SeedFile).destinationMeta as
   | Record<string, unknown>
   | undefined;
 
