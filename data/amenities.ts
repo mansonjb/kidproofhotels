@@ -195,14 +195,3 @@ export const AMENITIES: Amenity[] = [
 ];
 
 export const AMENITY_BY_ID = new Map(AMENITIES.map((a) => [a.id, a]));
-
-// Which amenities each hotel offers. Kept explicit (not inferred) so the tagging
-// stays honest and editorial.
-export const HOTEL_AMENITIES: Record<string, AmenityId[]> = {
-  "lisbon-tejo-family": ["pool", "baby-friendly", "family-suites", "toddler-friendly", "city-base"],
-  "lisbon-parque-suites": ["family-suites", "self-catering", "city-base"],
-  "algarve-falesia-family": ["pool", "free-kids-club", "water-slides", "baby-friendly", "beach-access", "family-suites", "toddler-friendly"],
-  "algarve-marina-club": ["pool", "beach-access", "family-suites", "self-catering"],
-  "costa-aqua-resort": ["pool", "free-kids-club", "water-slides", "beach-access", "family-suites", "toddler-friendly"],
-  "costa-marbella-garden": ["pool", "free-kids-club", "baby-friendly", "beach-access", "family-suites", "toddler-friendly"],
-};

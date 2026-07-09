@@ -73,12 +73,13 @@ export type Hotel = {
   key: string;
   name: string; // proper noun, not translated
   destinationKey: string;
+  area?: L10n; // neighbourhood / town within the destination
   slug: L10n;
   geo: Geo;
   address: string;
   priceTier: PriceTier;
   priceFrom?: number; // indicative EUR / night
-  image: string;
+  image?: string;
   ages: AgeBand[];
   scores: Scores;
   roomsSummary: L10n; // factor n°1, shown at the very top of the fiche

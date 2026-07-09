@@ -1,0 +1,2857 @@
+{
+  "hotels": [
+    {
+      "key": "algarve-pine-cliffs-resort",
+      "destinationKey": "algarve",
+      "name": "Pine Cliffs, a Luxury Collection Resort",
+      "area": {
+        "en": "Praia da Falésia (Olhos de Água)",
+        "fr": "Praia da Falésia (Olhos de Água)"
+      },
+      "lat": 37.0886,
+      "lng": -8.1667,
+      "zoom": 13,
+      "address": "Pine Cliffs, a Luxury Collection Resort, Praia da Falésia, Portugal",
+      "priceTier": 4,
+      "priceFrom": 460,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "beach-access",
+        "family-suites",
+        "self-catering",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "algarveCliffs",
+        "infinityPoolSea",
+        "poolCabanas"
+      ],
+      "scores": {
+        "rooms": 92,
+        "baby": 82,
+        "pool": 87,
+        "dining": 90,
+        "safety": 84,
+        "convenience": 76,
+        "location": 91,
+        "extras": 96
+      },
+      "roomsSummary": {
+        "en": "A big spread of options: hotel rooms in the main Ocean building, plus self-catering suites, apartments and villas in the Residence and Gardens. Interconnecting rooms and one and two-bedroom apartments with kitchens make this genuinely workable for families who want space and their own fridge.",
+        "fr": "Un vrai choix d'hébergements : chambres classiques dans le bâtiment Ocean, mais aussi suites, appartements et villas avec cuisine dans la Residence et les Gardens. Les chambres communicantes et les appartements une ou deux chambres rendent le séjour très vivable en famille, avec l'espace et le frigo à soi."
+      },
+      "intro": {
+        "en": "Perched on the red cliffs above Praia da Falésia, Pine Cliffs is the Algarve's showpiece family resort: a small village of pools, restaurants, a clifftop golf hole and one of Europe's largest kids clubs. It is polished and expensive, but the range of accommodation and the sheer amount for children to do make it a genuine multi-generation base.",
+        "fr": "Accroché aux falaises rouges au-dessus de Praia da Falésia, Pine Cliffs est la vitrine familiale de l'Algarve : un petit village de piscines, de restaurants, un trou de golf en bord de falaise et l'un des plus grands clubs enfants d'Europe. C'est soigné et cher, mais la variété des hébergements et tout ce qu'il y a à faire pour les enfants en font une vraie base multigénérationnelle."
+      },
+      "highlights": {
+        "en": [
+          "Porto Pirata, a 7,000 sqm kids club with two pirate ships, mini golf and two kids-only pools",
+          "Beach access to Praia da Falésia via a cliff lift, so no scramble down the steps with a buggy",
+          "Self-catering apartments and villas alongside hotel rooms",
+          "Annabel Croft Tennis Academy with junior programmes",
+          "Nine restaurants on site, from casual to fine dining",
+          "Big spa and adults-only pool areas for parents on downtime"
+        ],
+        "fr": [
+          "Porto Pirata, un club enfants de 7 000 m² avec deux bateaux pirates, mini-golf et deux piscines réservées aux enfants",
+          "Accès à la plage de Praia da Falésia par un ascenseur de falaise, sans galère de poussette dans les escaliers",
+          "Appartements et villas avec cuisine en plus des chambres d'hôtel",
+          "Académie de tennis Annabel Croft avec programmes juniors",
+          "Neuf restaurants sur place, du décontracté au gastronomique",
+          "Grand spa et espaces piscine réservés aux adultes pour souffler"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Enormous choice of things for kids of every age to do without leaving the resort",
+          "Clifftop setting with a lift straight down to a superb beach",
+          "Apartments with kitchens take the pressure off fussy-eater mealtimes"
+        ],
+        "fr": [
+          "Choix immense d'activités pour les enfants de tout âge sans quitter le resort",
+          "Cadre en haut de falaise avec un ascenseur qui descend droit vers une plage superbe",
+          "Appartements avec cuisine qui simplifient les repas des enfants difficiles"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Prices are high and most extras (kids club, some dining) are paid on top",
+          "The resort is large and spread out, so expect a fair bit of walking",
+          "So much on site that you may never actually explore the wider Algarve"
+        ],
+        "fr": [
+          "Tarifs élevés et la plupart des extras (club enfants, certains restaurants) en supplément",
+          "Le resort est vaste et étendu, il faut donc pas mal marcher",
+          "Tellement de choses sur place qu'on risque de ne jamais découvrir le reste de l'Algarve"
+        ]
+      },
+      "verdict": {
+        "en": "The safe, do-everything luxury choice for families who want quality and range in one place and are happy to pay for it. Book an apartment for the kitchen, and factor the kids club into your budget.",
+        "fr": "Le choix luxe et sans mauvaise surprise pour les familles qui veulent qualité et diversité au même endroit, et qui acceptent d'y mettre le prix. Réservez un appartement pour la cuisine, et intégrez le club enfants au budget."
+      },
+      "parentTip": {
+        "en": "Use the cliff lift early: mornings on Praia da Falésia are calm and the beach cafe does a good breakfast before the sun gets fierce.",
+        "fr": "Prenez l'ascenseur de falaise tôt : le matin, Praia da Falésia est calme et le café de plage sert un bon petit-déjeuner avant que le soleil ne tape trop."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Praia da Falésia via cliff lift",
+            "fr": "Praia da Falésia par ascenseur"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Porto Pirata, 12 mo to 8 yrs, paid",
+            "fr": "Porto Pirata, 12 mois à 8 ans, payant"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Several, including kids-only pools",
+            "fr": "Plusieurs, dont piscines pour enfants"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Dining",
+            "fr": "Restauration"
+          },
+          "value": {
+            "en": "Nine restaurants on site",
+            "fr": "Neuf restaurants sur place"
+          }
+        },
+        {
+          "icon": "🍳",
+          "label": {
+            "en": "Self-catering",
+            "fr": "Cuisine"
+          },
+          "value": {
+            "en": "Apartments and villas with kitchens",
+            "fr": "Appartements et villas avec cuisine"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport",
+            "fr": "Aéroport"
+          },
+          "value": {
+            "en": "About 30 min from Faro",
+            "fr": "Environ 30 min de Faro"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏴‍☠️",
+          "name": {
+            "en": "Porto Pirata kids club",
+            "fr": "Club Porto Pirata"
+          },
+          "detail": {
+            "en": "Pirate ships, bouncy castles, mini golf and two kids-only pools across a huge shaded park.",
+            "fr": "Bateaux pirates, châteaux gonflables, mini-golf et deux piscines pour enfants dans un immense parc ombragé."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Half or full day",
+            "fr": "Demi-journée ou journée"
+          }
+        },
+        {
+          "emoji": "🎾",
+          "name": {
+            "en": "Junior tennis",
+            "fr": "Tennis junior"
+          },
+          "detail": {
+            "en": "Group and private coaching for children at the Annabel Croft Tennis Academy.",
+            "fr": "Cours collectifs et particuliers pour enfants à l'académie Annabel Croft."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "1 to 2 hours",
+            "fr": "1 à 2 heures"
+          }
+        },
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Beach morning",
+            "fr": "Matinée plage"
+          },
+          "detail": {
+            "en": "Take the cliff lift down to Praia da Falésia for sandcastles and gentle paddling.",
+            "fr": "Descendez par l'ascenseur vers Praia da Falésia pour châteaux de sable et baignade tranquille."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matinée"
+          }
+        },
+        {
+          "emoji": "⛳",
+          "name": {
+            "en": "Clifftop mini golf and golf",
+            "fr": "Mini-golf et golf en falaise"
+          },
+          "detail": {
+            "en": "A famous par-3 clifftop hole plus family-friendly mini golf for younger players.",
+            "fr": "Un célèbre par-3 en bord de falaise et un mini-golf accessible aux plus jeunes."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "1 hour",
+            "fr": "1 heure"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Breakfast on the terrace",
+            "fr": "Petit-déjeuner en terrasse"
+          },
+          "note": {
+            "en": "Cliff views before the heat builds.",
+            "fr": "Vue sur la falaise avant que la chaleur monte."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Beach via the lift",
+            "fr": "Plage par l'ascenseur"
+          },
+          "note": {
+            "en": "Sandcastles and a paddle while it is quiet.",
+            "fr": "Châteaux de sable et baignade au calme."
+          }
+        },
+        {
+          "time": "12:30",
+          "title": {
+            "en": "Lunch at the apartment",
+            "fr": "Déjeuner à l'appartement"
+          },
+          "note": {
+            "en": "Kitchen makes fussy eaters easy.",
+            "fr": "La cuisine simplifie les enfants difficiles."
+          }
+        },
+        {
+          "time": "14:30",
+          "title": {
+            "en": "Porto Pirata",
+            "fr": "Porto Pirata"
+          },
+          "note": {
+            "en": "Kids in the club, parents to the spa.",
+            "fr": "Enfants au club, parents au spa."
+          }
+        },
+        {
+          "time": "18:30",
+          "title": {
+            "en": "Early family dinner",
+            "fr": "Dîner familial tôt"
+          },
+          "note": {
+            "en": "Casual restaurant near the main square.",
+            "fr": "Restaurant décontracté près de la place centrale."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Apartments with kitchens and a lift to the beach help with babies; cots are available on request.",
+          "fr": "Les appartements avec cuisine et l'ascenseur vers la plage aident avec un bébé ; lits parapluie sur demande."
+        },
+        "toddler": {
+          "en": "Porto Pirata takes children from 12 months and has shallow kids-only pools, ideal for toddlers.",
+          "fr": "Porto Pirata accueille dès 12 mois et propose des piscines peu profondes pour enfants, parfait pour les tout-petits."
+        },
+        "kid": {
+          "en": "The sweet spot: kids club, tennis, mini golf, beach and pools all in one place.",
+          "fr": "L'âge idéal : club, tennis, mini-golf, plage et piscines réunis au même endroit."
+        },
+        "teen": {
+          "en": "Tennis, watersports and the beach keep teens busy, though the vibe is family rather than party.",
+          "fr": "Tennis, sports nautiques et plage occupent les ados, même si l'ambiance reste familiale plutôt que festive."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the kids club free?",
+            "fr": "Le club enfants est-il gratuit ?"
+          },
+          "a": {
+            "en": "No. Porto Pirata is a paid kids club, open seasonally for children from 12 months to 8 years, with babysitting available.",
+            "fr": "Non. Porto Pirata est un club payant, ouvert selon la saison pour les enfants de 12 mois à 8 ans, avec baby-sitting disponible."
+          }
+        },
+        {
+          "q": {
+            "en": "How do we get to the beach?",
+            "fr": "Comment accède-t-on à la plage ?"
+          },
+          "a": {
+            "en": "A cliff lift takes you straight down to Praia da Falésia, so you avoid carrying children and gear down the steps.",
+            "fr": "Un ascenseur de falaise descend directement à Praia da Falésia, ce qui évite de porter enfants et affaires dans les escaliers."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we self-cater?",
+            "fr": "Peut-on cuisiner sur place ?"
+          },
+          "a": {
+            "en": "Yes. The Residence and Gardens offer apartments and villas with kitchens, alongside the hotel rooms in the Ocean building.",
+            "fr": "Oui. La Residence et les Gardens proposent appartements et villas avec cuisine, en plus des chambres d'hôtel du bâtiment Ocean."
+          }
+        }
+      ]
+    },
+    {
+      "key": "algarve-nau-salgados-dunas-suites",
+      "destinationKey": "algarve",
+      "name": "NAU Salgados Dunas Suites",
+      "area": {
+        "en": "Salgados, Albufeira",
+        "fr": "Salgados, Albufeira"
+      },
+      "lat": 37.0857,
+      "lng": -8.317,
+      "zoom": 13,
+      "address": "NAU Salgados Dunas Suites, Salgados, Albufeira, Portugal",
+      "priceTier": 3,
+      "priceFrom": 150,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "beach-access",
+        "family-suites",
+        "self-catering",
+        "toddler-friendly",
+        "baby-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "poolPalms",
+        "resortLoungers",
+        "deckLoungersSea"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 78,
+        "pool": 88,
+        "dining": 75,
+        "safety": 82,
+        "convenience": 79,
+        "location": 80,
+        "extras": 76
+      },
+      "roomsSummary": {
+        "en": "Suites and family rooms with balconies, most with a kitchenette so you can do breakfasts and children's teas in the room. Family suites have a separate sleeping area, useful when you need lights out for little ones while the evening carries on.",
+        "fr": "Suites et chambres familiales avec balcon, la plupart avec kitchenette pour gérer petits-déjeuners et goûters dans la chambre. Les suites familiales ont un coin nuit séparé, pratique pour coucher les petits pendant que la soirée continue."
+      },
+      "intro": {
+        "en": "A relaxed suite-style resort set behind the dunes of Salgados beach, west of Albufeira. The draw is the water: a big cluster of pools among palm and olive trees, including shallow children's pools, plus a boardwalk straight over the dunes to a long, quiet Atlantic beach. Kitchenettes make it an easy pick for self-catering families.",
+        "fr": "Un resort en suites détendu, installé derrière les dunes de la plage de Salgados, à l'ouest d'Albufeira. L'atout, c'est l'eau : un grand ensemble de piscines entre palmiers et oliviers, dont des bassins peu profonds pour enfants, et une passerelle qui franchit les dunes vers une longue plage atlantique tranquille. Les kitchenettes en font un choix facile pour les familles qui cuisinent."
+      },
+      "highlights": {
+        "en": [
+          "Large pool complex among gardens, with dedicated shallow children's pools",
+          "Boardwalk over the dunes to a long, uncrowded Salgados beach",
+          "Suites with kitchenettes and balconies for easy self-catering",
+          "Seasonal kids club with supervised activities for ages 3 to 12",
+          "Spa, gym and buffet plus a la carte dining on site",
+          "Quieter, nature-backed setting away from the Albufeira strip"
+        ],
+        "fr": [
+          "Grand complexe de piscines dans les jardins, avec bassins peu profonds pour enfants",
+          "Passerelle sur les dunes vers la longue plage peu fréquentée de Salgados",
+          "Suites avec kitchenette et balcon pour cuisiner facilement",
+          "Club enfants saisonnier avec activités encadrées de 3 à 12 ans",
+          "Spa, salle de sport, buffet et restauration à la carte sur place",
+          "Cadre plus calme, adossé à la nature, loin de l'agitation d'Albufeira"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Excellent pool area with proper shallow options for small children",
+          "Direct, easy beach access over the dunes",
+          "Kitchenettes and space in the family suites"
+        ],
+        "fr": [
+          "Superbe espace piscines avec de vrais bassins peu profonds pour les petits",
+          "Accès direct et facile à la plage par les dunes",
+          "Kitchenettes et espace dans les suites familiales"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The kids club is paid and seasonal, not included in the rate",
+          "Fairly isolated: you will want a car to reach restaurants and Albufeira town",
+          "Big resort that can feel busy around the pools in peak summer"
+        ],
+        "fr": [
+          "Le club enfants est payant et saisonnier, non inclus dans le tarif",
+          "Assez isolé : une voiture est utile pour les restaurants et le centre d'Albufeira",
+          "Grand resort qui peut sembler chargé autour des piscines en plein été"
+        ]
+      },
+      "verdict": {
+        "en": "A strong value pick for families who want pools, space and a real beach without the nightlife noise. Bring or hire a car and lean on the kitchenette to keep costs down.",
+        "fr": "Un excellent rapport qualité-prix pour les familles qui veulent piscines, espace et vraie plage sans le bruit des sorties nocturnes. Prévoyez une voiture et misez sur la kitchenette pour maîtriser le budget."
+      },
+      "parentTip": {
+        "en": "Claim loungers near a children's pool early. The complex is big, and the shady spots by the shallow pools go first on hot days.",
+        "fr": "Réservez des transats près d'un bassin enfants tôt. Le complexe est vaste et les coins ombragés près des petites piscines partent vite les jours de chaleur."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Salgados, boardwalk over dunes",
+            "fr": "Salgados, passerelle sur dunes"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Large complex with kids pools",
+            "fr": "Grand complexe avec bassins enfants"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Ages 3 to 12, seasonal, paid",
+            "fr": "3 à 12 ans, saisonnier, payant"
+          }
+        },
+        {
+          "icon": "🍳",
+          "label": {
+            "en": "Self-catering",
+            "fr": "Cuisine"
+          },
+          "value": {
+            "en": "Kitchenettes in suites",
+            "fr": "Kitchenettes dans les suites"
+          }
+        },
+        {
+          "icon": "🚗",
+          "label": {
+            "en": "Getting around",
+            "fr": "Déplacements"
+          },
+          "value": {
+            "en": "Car recommended",
+            "fr": "Voiture recommandée"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport",
+            "fr": "Aéroport"
+          },
+          "value": {
+            "en": "About 30 min from Faro",
+            "fr": "Environ 30 min de Faro"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Pool day",
+            "fr": "Journée piscine"
+          },
+          "detail": {
+            "en": "Work through the pool cluster, from shallow kids pools to the main basins.",
+            "fr": "Explorez l'ensemble des piscines, des bassins peu profonds pour enfants aux grands bassins."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Full day",
+            "fr": "Journée"
+          }
+        },
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Dune beach walk",
+            "fr": "Balade plage et dunes"
+          },
+          "detail": {
+            "en": "Cross the boardwalk to the wide, calm sands of Salgados for shells and paddling.",
+            "fr": "Traversez la passerelle vers le grand sable calme de Salgados pour ramasser des coquillages et se baigner."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matinée"
+          }
+        },
+        {
+          "emoji": "🦩",
+          "name": {
+            "en": "Salgados lagoon birdwatching",
+            "fr": "Oiseaux de la lagune de Salgados"
+          },
+          "detail": {
+            "en": "The protected lagoon nearby is good for spotting flamingos and other birds.",
+            "fr": "La lagune protégée toute proche permet d'observer flamants et autres oiseaux."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "1 hour",
+            "fr": "1 heure"
+          }
+        },
+        {
+          "emoji": "🎨",
+          "name": {
+            "en": "Kids club activities",
+            "fr": "Activités du club enfants"
+          },
+          "detail": {
+            "en": "Supervised indoor and outdoor play for ages 3 to 12 during the season.",
+            "fr": "Jeux encadrés en intérieur et extérieur de 3 à 12 ans pendant la saison."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journée"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Breakfast in the suite",
+            "fr": "Petit-déjeuner en suite"
+          },
+          "note": {
+            "en": "Kitchenette saves time and money.",
+            "fr": "La kitchenette fait gagner temps et argent."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Beach over the dunes",
+            "fr": "Plage par les dunes"
+          },
+          "note": {
+            "en": "Wide sands, calm early on.",
+            "fr": "Grand sable, calme en début de journée."
+          }
+        },
+        {
+          "time": "12:30",
+          "title": {
+            "en": "Lunch and a rest",
+            "fr": "Déjeuner et sieste"
+          },
+          "note": {
+            "en": "Back to the room for the hottest hour.",
+            "fr": "Retour en chambre pour l'heure la plus chaude."
+          }
+        },
+        {
+          "time": "15:00",
+          "title": {
+            "en": "Shallow pools",
+            "fr": "Bassins peu profonds"
+          },
+          "note": {
+            "en": "Toddlers splash while big kids swim.",
+            "fr": "Les petits barbotent, les grands nagent."
+          }
+        },
+        {
+          "time": "18:30",
+          "title": {
+            "en": "Buffet dinner",
+            "fr": "Dîner buffet"
+          },
+          "note": {
+            "en": "Plenty of choice for young palates.",
+            "fr": "Beaucoup de choix pour les jeunes palais."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Kitchenettes help with bottles and purees, and cots are available; the beach is soft-sanded and easy.",
+          "fr": "Les kitchenettes aident pour biberons et purées, lits bébé disponibles ; la plage est en sable fin et facile."
+        },
+        "toddler": {
+          "en": "Shallow children's pools and gentle beach shelving make this an easy toddler resort.",
+          "fr": "Les bassins peu profonds et la plage en pente douce en font un resort facile pour les tout-petits."
+        },
+        "kid": {
+          "en": "Pools, beach and the seasonal kids club keep primary-age children happy for a week.",
+          "fr": "Piscines, plage et club saisonnier occupent les enfants d'âge primaire toute une semaine."
+        },
+        "teen": {
+          "en": "Fine for teens who like the beach and pool, but there is little nightlife on site.",
+          "fr": "Convient aux ados qui aiment plage et piscine, mais peu d'animation nocturne sur place."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Do the rooms have kitchens?",
+            "fr": "Les chambres ont-elles une cuisine ?"
+          },
+          "a": {
+            "en": "Most suites include a kitchenette with a fridge and basic cooking facilities, which suits self-catering families.",
+            "fr": "La plupart des suites disposent d'une kitchenette avec frigo et équipement de cuisine de base, idéale pour cuisiner en famille."
+          }
+        },
+        {
+          "q": {
+            "en": "How far is the beach?",
+            "fr": "À quelle distance est la plage ?"
+          },
+          "a": {
+            "en": "A wooden boardwalk crosses the dunes directly from the resort to Salgados beach, a few minutes on foot.",
+            "fr": "Une passerelle en bois franchit les dunes directement du resort à la plage de Salgados, à quelques minutes à pied."
+          }
+        },
+        {
+          "q": {
+            "en": "Do we need a car?",
+            "fr": "Faut-il une voiture ?"
+          },
+          "a": {
+            "en": "It is recommended. The setting is quiet and a little isolated, so a car makes reaching restaurants and Albufeira much easier.",
+            "fr": "C'est recommandé. Le cadre est calme et un peu isolé, une voiture facilite l'accès aux restaurants et à Albufeira."
+          }
+        }
+      ]
+    },
+    {
+      "key": "algarve-tivoli-marina-vilamoura",
+      "destinationKey": "algarve",
+      "name": "Tivoli Marina Vilamoura Algarve Resort",
+      "area": {
+        "en": "Vilamoura",
+        "fr": "Vilamoura"
+      },
+      "lat": 37.073,
+      "lng": -8.123,
+      "zoom": 13,
+      "address": "Tivoli Marina Vilamoura Algarve Resort, Vilamoura, Portugal",
+      "priceTier": 4,
+      "priceFrom": 240,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly",
+        "baby-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "poolDusk",
+        "resortCanal",
+        "infinityPoolSea"
+      ],
+      "scores": {
+        "rooms": 85,
+        "baby": 79,
+        "pool": 84,
+        "dining": 84,
+        "safety": 83,
+        "convenience": 88,
+        "location": 89,
+        "extras": 82
+      },
+      "roomsSummary": {
+        "en": "Modern rooms and suites, with a growing choice of family rooms and suites: several have separate living areas and the Family Junior Suite adds a pull-out bed. Ask for a marina or sea view; the marina buzz is part of the appeal here.",
+        "fr": "Chambres et suites modernes, avec un choix croissant de formules familiales : plusieurs offrent un salon séparé et la Family Junior Suite ajoute un lit d'appoint. Demandez une vue marina ou mer ; l'animation du port fait partie du charme ici."
+      },
+      "intro": {
+        "en": "A five-star resort planted right where Vilamoura's glossy marina meets the beach. You can walk from your room to the sand, or out along the quays past yachts and restaurants. Four pools including a children's pool, a seasonal kids club and easy town-style amenities make it a polished, convenient family base.",
+        "fr": "Un resort cinq étoiles posé exactement là où la marina chic de Vilamoura rejoint la plage. On rejoint le sable à pied depuis la chambre, ou on flâne le long des quais entre yachts et restaurants. Quatre piscines dont un bassin enfants, un club saisonnier et des commodités faciles en font une base familiale soignée et pratique."
+      },
+      "highlights": {
+        "en": [
+          "Steps from Vilamoura marina and a short walk to Praia de Vilamoura",
+          "Four pools including an indoor pool and a dedicated children's pool",
+          "Seasonal kids club with activities for ages 4 to 12",
+          "Family rooms and suites, some with separate living areas",
+          "Marina restaurants, ice cream and boat trips right on the doorstep",
+          "Playground, indoor play area and babysitting on request"
+        ],
+        "fr": [
+          "À deux pas de la marina de Vilamoura et à courte marche de Praia de Vilamoura",
+          "Quatre piscines dont une intérieure et un bassin réservé aux enfants",
+          "Club enfants saisonnier avec activités de 4 à 12 ans",
+          "Chambres et suites familiales, certaines avec salon séparé",
+          "Restaurants du port, glaces et sorties en bateau juste devant",
+          "Aire de jeux, espace de jeu intérieur et baby-sitting sur demande"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Superb location between marina and beach, easy to explore on foot",
+          "Good mix of pools including an indoor one for cooler days",
+          "Lots to do just outside the gates, from boat trips to gelato"
+        ],
+        "fr": [
+          "Emplacement superbe entre marina et plage, facile à explorer à pied",
+          "Bon éventail de piscines, dont une intérieure pour les jours plus frais",
+          "Beaucoup à faire juste à la sortie, des sorties en bateau aux glaces"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The kids club is paid and seasonal, not part of the room rate",
+          "Marina setting means it can be lively and busy, not a hideaway",
+          "Prices climb steeply in July and August"
+        ],
+        "fr": [
+          "Le club enfants est payant et saisonnier, non compris dans le tarif",
+          "Le cadre marina peut être animé et fréquenté, ce n'est pas un refuge",
+          "Les prix grimpent fortement en juillet et août"
+        ]
+      },
+      "verdict": {
+        "en": "Ideal for families who like being in the thick of it: marina walks, easy dining and a beach on the doorstep, with a proper kids club when you book it. Choose it for buzz and convenience over seclusion.",
+        "fr": "Idéal pour les familles qui aiment être au coeur de l'action : balades sur la marina, restauration facile et plage à deux pas, avec un vrai club enfants quand on le réserve. À choisir pour l'animation et la commodité plutôt que pour le calme."
+      },
+      "parentTip": {
+        "en": "Do a late-afternoon marina stroll for the boats and ice cream, then eat early at a quayside table before the evening crowd arrives.",
+        "fr": "Faites une balade sur la marina en fin d'après-midi pour les bateaux et les glaces, puis dînez tôt en terrasse sur les quais avant l'affluence du soir."
+      },
+      "atAGlance": [
+        {
+          "icon": "⚓",
+          "label": {
+            "en": "Setting",
+            "fr": "Cadre"
+          },
+          "value": {
+            "en": "On Vilamoura marina",
+            "fr": "Sur la marina de Vilamoura"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Praia de Vilamoura, short walk",
+            "fr": "Praia de Vilamoura, courte marche"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Four, including indoor and kids pool",
+            "fr": "Quatre, dont intérieure et bassin enfants"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Ages 4 to 12, seasonal, paid",
+            "fr": "4 à 12 ans, saisonnier, payant"
+          }
+        },
+        {
+          "icon": "🍨",
+          "label": {
+            "en": "Nearby",
+            "fr": "À proximité"
+          },
+          "value": {
+            "en": "Marina dining and boat trips",
+            "fr": "Restaurants et bateaux de la marina"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport",
+            "fr": "Aéroport"
+          },
+          "value": {
+            "en": "About 25 min from Faro",
+            "fr": "Environ 25 min de Faro"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "⛵",
+          "name": {
+            "en": "Dolphin boat trip",
+            "fr": "Sortie bateau dauphins"
+          },
+          "detail": {
+            "en": "Boats leave the marina for dolphin-spotting and coastal cave trips.",
+            "fr": "Des bateaux partent de la marina pour observer les dauphins et longer les grottes."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "2 to 3 hours",
+            "fr": "2 à 3 heures"
+          }
+        },
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Pool afternoon",
+            "fr": "Après-midi piscine"
+          },
+          "detail": {
+            "en": "Split time between the shallow kids pool and the main pools.",
+            "fr": "Partagez le temps entre le bassin enfants et les grandes piscines."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        },
+        {
+          "emoji": "🍦",
+          "name": {
+            "en": "Marina stroll",
+            "fr": "Balade sur la marina"
+          },
+          "detail": {
+            "en": "Walk the quays past yachts, with ice cream and buskers in summer.",
+            "fr": "Longez les quais entre les yachts, glaces et musiciens de rue en été."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "1 hour",
+            "fr": "1 heure"
+          }
+        },
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Beach morning",
+            "fr": "Matinée plage"
+          },
+          "detail": {
+            "en": "The wide town beach is a short walk with lifeguards in season.",
+            "fr": "La grande plage de ville est à courte marche, surveillée en saison."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matinée"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Buffet breakfast",
+            "fr": "Petit-déjeuner buffet"
+          },
+          "note": {
+            "en": "Fuel up before the marina wakes.",
+            "fr": "On fait le plein avant le réveil de la marina."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Town beach",
+            "fr": "Plage de ville"
+          },
+          "note": {
+            "en": "Sandcastles and a morning swim.",
+            "fr": "Châteaux de sable et baignade matinale."
+          }
+        },
+        {
+          "time": "12:30",
+          "title": {
+            "en": "Lunch on the quay",
+            "fr": "Déjeuner sur le quai"
+          },
+          "note": {
+            "en": "Easy child-friendly menus.",
+            "fr": "Menus faciles et adaptés aux enfants."
+          }
+        },
+        {
+          "time": "14:30",
+          "title": {
+            "en": "Kids club or pool",
+            "fr": "Club enfants ou piscine"
+          },
+          "note": {
+            "en": "Cool off during the hottest hours.",
+            "fr": "On se rafraîchit aux heures les plus chaudes."
+          }
+        },
+        {
+          "time": "18:00",
+          "title": {
+            "en": "Boats and ice cream",
+            "fr": "Bateaux et glaces"
+          },
+          "note": {
+            "en": "Sunset walk along the marina.",
+            "fr": "Balade au coucher du soleil sur la marina."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Flat, walkable surroundings are buggy-friendly, and cots are available; the beach is a short push away.",
+          "fr": "Les abords plats et praticables sont adaptés à la poussette, lits bébé disponibles ; la plage est à quelques minutes."
+        },
+        "toddler": {
+          "en": "The shallow kids pool and gentle town beach suit toddlers, with the marina to burn off energy.",
+          "fr": "Le bassin peu profond et la plage de ville en pente douce conviennent aux tout-petits, avec la marina pour se défouler."
+        },
+        "kid": {
+          "en": "Great for primary-age kids: boat trips, pools, beach and a lively marina to explore.",
+          "fr": "Parfait pour les enfants d'âge primaire : sorties en bateau, piscines, plage et marina animée à explorer."
+        },
+        "teen": {
+          "en": "Teens enjoy the marina scene, watersports and boat trips right on the doorstep.",
+          "fr": "Les ados apprécient l'ambiance de la marina, les sports nautiques et les sorties en bateau juste devant."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is it right on the beach?",
+            "fr": "Est-ce en bord de plage ?"
+          },
+          "a": {
+            "en": "It sits on the marina with Praia de Vilamoura a short, flat walk away, so both are easy to reach on foot.",
+            "fr": "Il est sur la marina, avec Praia de Vilamoura à courte marche à plat, les deux sont donc faciles à rejoindre à pied."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the kids club included?",
+            "fr": "Le club enfants est-il inclus ?"
+          },
+          "a": {
+            "en": "No. The kids club is a paid, seasonal service for ages 4 to 12, with babysitting available on request.",
+            "fr": "Non. Le club enfants est un service payant et saisonnier pour les 4 à 12 ans, avec baby-sitting sur demande."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it a quiet resort?",
+            "fr": "Est-ce un resort calme ?"
+          },
+          "a": {
+            "en": "Not especially. The marina setting is lively and social, which is part of the appeal, but not ideal if you want seclusion.",
+            "fr": "Pas vraiment. Le cadre de la marina est animé et convivial, ce qui fait son charme, mais ce n'est pas idéal si vous cherchez le calme."
+          }
+        }
+      ]
+    },
+    {
+      "key": "algarve-cascade-wellness-resort",
+      "destinationKey": "algarve",
+      "name": "Cascade Wellness Resort",
+      "area": {
+        "en": "Lagos",
+        "fr": "Lagos"
+      },
+      "lat": 37.1,
+      "lng": -8.683,
+      "zoom": 13,
+      "address": "Cascade Wellness Resort, Lagos, Portugal",
+      "priceTier": 3,
+      "priceFrom": 180,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "family-suites",
+        "self-catering",
+        "city-base",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolPalms",
+        "villaPoolGreen",
+        "coastTown"
+      ],
+      "scores": {
+        "rooms": 83,
+        "baby": 75,
+        "pool": 82,
+        "dining": 80,
+        "safety": 81,
+        "convenience": 84,
+        "location": 86,
+        "extras": 85
+      },
+      "roomsSummary": {
+        "en": "A flexible mix of suites, one and two-bedroom apartments and villas, most with a full kitchen. Reserve an apartment and you still get all the resort amenities, which makes this a strong self-catering base for families who want independence.",
+        "fr": "Un choix flexible de suites, d'appartements une ou deux chambres et de villas, la plupart avec cuisine complète. En réservant un appartement, vous gardez l'accès à tous les services du resort, ce qui en fait une excellente base pour les familles autonomes."
+      },
+      "intro": {
+        "en": "A calm, low-rise wellness resort set between Lagos town and Porto de Mós beach, at the wilder western end of the Algarve. The headline for families is a free kids club in the school holidays, three pools, and self-catering apartments, plus easy access to characterful Lagos with its historic centre and famous cliff-backed beaches.",
+        "fr": "Un resort bien-être tranquille et bas, situé entre la ville de Lagos et la plage de Porto de Mós, à l'extrémité ouest plus sauvage de l'Algarve. L'atout pour les familles : un club enfants gratuit pendant les vacances scolaires, trois piscines et des appartements avec cuisine, plus un accès facile à Lagos, son centre historique et ses célèbres plages entre falaises."
+      },
+      "highlights": {
+        "en": [
+          "Free kids club (Caskiddy) for ages 3 to 12 during Easter and summer holidays",
+          "Self-catering apartments and villas with full kitchens",
+          "Three swimming pools plus a wellness spa and gym",
+          "Seasonal football academy for children aged 5 to 15",
+          "Walkable to Porto de Mós beach and a short hop to Lagos old town",
+          "Great base for the dramatic beaches and grottoes around Ponta da Piedade"
+        ],
+        "fr": [
+          "Club enfants gratuit (Caskiddy) de 3 à 12 ans pendant les vacances de Pâques et d'été",
+          "Appartements et villas avec cuisine complète",
+          "Trois piscines, un spa bien-être et une salle de sport",
+          "Académie de football saisonnière pour les enfants de 5 à 15 ans",
+          "Accès à pied à la plage de Porto de Mós et centre historique de Lagos tout proche",
+          "Excellente base pour les plages spectaculaires et grottes de Ponta da Piedade"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Free kids club in the holidays, a real saving over paid clubs elsewhere",
+          "Proper self-catering apartments with room to spread out",
+          "Close to lively, historic Lagos and its spectacular beaches"
+        ],
+        "fr": [
+          "Club enfants gratuit pendant les vacances, une vraie économie face aux clubs payants ailleurs",
+          "De vrais appartements avec cuisine et de l'espace pour s'installer",
+          "Proche de Lagos, ville historique et animée, et de ses plages spectaculaires"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Not on the beach: Porto de Mós is a walk or short drive downhill",
+          "The wellness focus means it is calmer and quieter than a big party resort",
+          "Lagos is at the far west, so a longer transfer from Faro airport"
+        ],
+        "fr": [
+          "Pas en bord de plage : Porto de Mós se rejoint à pied ou en voiture, en descente",
+          "L'orientation bien-être en fait un lieu plus calme qu'un grand resort festif",
+          "Lagos est tout à l'ouest, donc un transfert plus long depuis l'aéroport de Faro"
+        ]
+      },
+      "verdict": {
+        "en": "A smart choice for independent families who want kitchen space, a free holiday kids club and easy access to the best beaches in the western Algarve. Best if you are happy to drive a little.",
+        "fr": "Un choix malin pour les familles autonomes qui veulent une cuisine, un club enfants gratuit pendant les vacances et un accès facile aux plus belles plages de l'ouest de l'Algarve. Idéal si vous acceptez de conduire un peu."
+      },
+      "parentTip": {
+        "en": "Base beach days at Porto de Mós when the little ones need calm, and save Ponta da Piedade's dramatic coves for a boat trip with older kids.",
+        "fr": "Réservez les journées plage à Porto de Mós quand les petits ont besoin de calme, et gardez les criques spectaculaires de Ponta da Piedade pour une sortie en bateau avec les plus grands."
+      },
+      "atAGlance": [
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free in holidays, ages 3 to 12",
+            "fr": "Gratuit en vacances, 3 à 12 ans"
+          }
+        },
+        {
+          "icon": "🍳",
+          "label": {
+            "en": "Self-catering",
+            "fr": "Cuisine"
+          },
+          "value": {
+            "en": "Apartments and villas with kitchens",
+            "fr": "Appartements et villas avec cuisine"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Three, plus wellness spa",
+            "fr": "Trois, plus spa bien-être"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Porto de Mós, walk or short drive",
+            "fr": "Porto de Mós, à pied ou courte route"
+          }
+        },
+        {
+          "icon": "🏛️",
+          "label": {
+            "en": "Town",
+            "fr": "Ville"
+          },
+          "value": {
+            "en": "Historic Lagos nearby",
+            "fr": "Lagos historique à proximité"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport",
+            "fr": "Aéroport"
+          },
+          "value": {
+            "en": "About 1 hr from Faro",
+            "fr": "Environ 1 h de Faro"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "⚽",
+          "name": {
+            "en": "Football academy",
+            "fr": "Académie de football"
+          },
+          "detail": {
+            "en": "Seasonal coaching sessions for children aged 5 to 15 on site.",
+            "fr": "Séances d'entraînement saisonnières pour les enfants de 5 à 15 ans sur place."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "1 to 2 hours",
+            "fr": "1 à 2 heures"
+          }
+        },
+        {
+          "emoji": "🚤",
+          "name": {
+            "en": "Ponta da Piedade boat trip",
+            "fr": "Sortie bateau Ponta da Piedade"
+          },
+          "detail": {
+            "en": "Small boats weave through the golden cliffs and sea caves near Lagos.",
+            "fr": "De petits bateaux se faufilent entre les falaises dorées et les grottes marines près de Lagos."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "1 to 2 hours",
+            "fr": "1 à 2 heures"
+          }
+        },
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Porto de Mós beach",
+            "fr": "Plage de Porto de Mós"
+          },
+          "detail": {
+            "en": "A long sandy beach backed by cliffs, good for families and easy paddling.",
+            "fr": "Une longue plage de sable adossée aux falaises, parfaite pour les familles et la baignade tranquille."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matinée"
+          }
+        },
+        {
+          "emoji": "🎨",
+          "name": {
+            "en": "Caskiddy kids club",
+            "fr": "Club enfants Caskiddy"
+          },
+          "detail": {
+            "en": "Indoor playroom and outdoor play area with supervised activities in the holidays.",
+            "fr": "Salle de jeux intérieure et aire extérieure avec activités encadrées pendant les vacances."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journée"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast in the apartment",
+            "fr": "Petit-déjeuner à l'appartement"
+          },
+          "note": {
+            "en": "Full kitchen makes mornings easy.",
+            "fr": "Une cuisine complète simplifie les matins."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Porto de Mós beach",
+            "fr": "Plage de Porto de Mós"
+          },
+          "note": {
+            "en": "Long sands, room to run.",
+            "fr": "Grand sable, de la place pour courir."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch back at base",
+            "fr": "Déjeuner au resort"
+          },
+          "note": {
+            "en": "Rest during the midday heat.",
+            "fr": "On se repose à la chaleur de midi."
+          }
+        },
+        {
+          "time": "15:00",
+          "title": {
+            "en": "Kids club or football",
+            "fr": "Club enfants ou football"
+          },
+          "note": {
+            "en": "Free club is a bonus.",
+            "fr": "Le club gratuit est un plus."
+          }
+        },
+        {
+          "time": "18:30",
+          "title": {
+            "en": "Evening in Lagos",
+            "fr": "Soirée à Lagos"
+          },
+          "note": {
+            "en": "Wander the old town for dinner.",
+            "fr": "On flâne dans la vieille ville pour dîner."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Full kitchens make bottles and purees simple; the resort is calm, though the nearest beach needs a short trip.",
+          "fr": "Les cuisines complètes simplifient biberons et purées ; le resort est calme, mais la plage la plus proche demande un court trajet."
+        },
+        "toddler": {
+          "en": "Shallow pool areas and the gentle Porto de Mós beach suit toddlers well.",
+          "fr": "Les zones de piscine peu profondes et la plage tranquille de Porto de Mós conviennent bien aux tout-petits."
+        },
+        "kid": {
+          "en": "The free kids club and football academy are a great fit for primary-age children.",
+          "fr": "Le club gratuit et l'académie de football conviennent parfaitement aux enfants d'âge primaire."
+        },
+        "teen": {
+          "en": "Football, boat trips and lively Lagos give teens plenty to do beyond the resort.",
+          "fr": "Football, sorties en bateau et Lagos animée offrent aux ados de quoi s'occuper au-delà du resort."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the kids club really free?",
+            "fr": "Le club enfants est-il vraiment gratuit ?"
+          },
+          "a": {
+            "en": "Yes. The Caskiddy kids club is free for resort guests aged 3 to 12 during Easter and summer holidays.",
+            "fr": "Oui. Le club Caskiddy est gratuit pour les clients du resort de 3 à 12 ans pendant les vacances de Pâques et d'été."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we cook in the room?",
+            "fr": "Peut-on cuisiner dans la chambre ?"
+          },
+          "a": {
+            "en": "Yes. The apartments and villas have full kitchens, and apartment guests can use all the resort facilities.",
+            "fr": "Oui. Les appartements et villas ont une cuisine complète, et les clients en appartement accèdent à tous les services du resort."
+          }
+        },
+        {
+          "q": {
+            "en": "How far is the beach?",
+            "fr": "À quelle distance est la plage ?"
+          },
+          "a": {
+            "en": "Porto de Mós beach is within walking distance downhill, or a couple of minutes by car; Lagos town is also very close.",
+            "fr": "La plage de Porto de Mós est accessible à pied en descente, ou à quelques minutes en voiture ; le centre de Lagos est aussi tout proche."
+          }
+        }
+      ]
+    },
+    {
+      "key": "algarve-tivoli-carvoeiro",
+      "destinationKey": "algarve",
+      "name": "Tivoli Carvoeiro Algarve Resort",
+      "area": {
+        "en": "Carvoeiro",
+        "fr": "Carvoeiro"
+      },
+      "lat": 37.096,
+      "lng": -8.472,
+      "zoom": 13,
+      "address": "Tivoli Carvoeiro Algarve Resort, Carvoeiro, Portugal",
+      "priceTier": 3,
+      "priceFrom": 200,
+      "ages": [
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "algarveCliffs",
+        "infinityPoolSea",
+        "poolDusk"
+      ],
+      "scores": {
+        "rooms": 84,
+        "baby": 68,
+        "pool": 83,
+        "dining": 82,
+        "safety": 74,
+        "convenience": 78,
+        "location": 88,
+        "extras": 79
+      },
+      "roomsSummary": {
+        "en": "Contemporary rooms and suites, many with balconies and sweeping ocean or pool views. Family rooms are available, and the modern layout feels fresh, but note the cliff setting means this is more a hotel with a view than a beach-at-your-feet resort.",
+        "fr": "Chambres et suites contemporaines, souvent avec balcon et vue dégagée sur l'océan ou la piscine. Des chambres familiales existent et l'ensemble est moderne et frais, mais le cadre en falaise en fait plus un hôtel avec vue qu'un resort les pieds dans le sable."
+      },
+      "intro": {
+        "en": "A sleek five-star hotel perched on the cliffs of Vale de Covo above Carvoeiro, with cinematic Atlantic views. It has a kids club, a children's pool section and mini golf, and sits close to the pretty village of Carvoeiro and the Slide and Splash waterpark. The trade-off for those cliff views is that the beach is a walk or short drive down, not on the doorstep.",
+        "fr": "Un hôtel cinq étoiles élégant, perché sur les falaises de Vale de Covo au-dessus de Carvoeiro, avec des vues atlantiques spectaculaires. Il propose un club enfants, une section piscine pour enfants et un mini-golf, et se trouve près du joli village de Carvoeiro et du parc aquatique Slide and Splash. La contrepartie de ces vues : la plage se rejoint à pied ou en voiture, pas au pied de l'hôtel."
+      },
+      "highlights": {
+        "en": [
+          "Dramatic clifftop position with panoramic Atlantic views",
+          "Outdoor pool with a kids section, plus an indoor pool",
+          "Kids club, playground and mini golf on site",
+          "Close to Slide and Splash waterpark for a big day out",
+          "Walkable to charming Carvoeiro village and its cove beach",
+          "Great base for Benagil Cave and boat trips along the coast"
+        ],
+        "fr": [
+          "Position spectaculaire en haut de falaise avec vues panoramiques sur l'Atlantique",
+          "Piscine extérieure avec section enfants, plus une piscine intérieure",
+          "Club enfants, aire de jeux et mini-golf sur place",
+          "Proche du parc aquatique Slide and Splash pour une grande journée",
+          "Accès à pied au charmant village de Carvoeiro et à sa crique",
+          "Excellente base pour la grotte de Benagil et les sorties en bateau"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Spectacular cliff and ocean setting with modern, comfortable rooms",
+          "Kids pool, mini golf and a waterpark nearby cover rainy-day energy",
+          "Close to the postcard village of Carvoeiro"
+        ],
+        "fr": [
+          "Cadre spectaculaire en falaise et océan, avec des chambres modernes et confortables",
+          "Bassin enfants, mini-golf et parc aquatique proche pour dépenser l'énergie",
+          "Proche du village de carte postale de Carvoeiro"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The beach is not on site: expect steps or a short drive down to the sand",
+          "The kids club is paid and seasonal, not included in the rate",
+          "Clifftop location needs supervision with very young children"
+        ],
+        "fr": [
+          "La plage n'est pas sur place : prévoyez des escaliers ou une courte route vers le sable",
+          "Le club enfants est payant et saisonnier, non inclus dans le tarif",
+          "Le cadre en falaise demande de la vigilance avec de très jeunes enfants"
+        ]
+      },
+      "verdict": {
+        "en": "A stylish clifftop base for families with children who can handle steps and drives, drawn by the views, the village and the coast's famous caves. Less ideal if you need sand directly beneath your sun lounger.",
+        "fr": "Une base élégante en falaise pour les familles avec des enfants à l'aise avec les escaliers et les trajets, séduites par les vues, le village et les célèbres grottes de la côte. Moins idéal si vous voulez le sable juste sous votre transat."
+      },
+      "parentTip": {
+        "en": "Book a small-boat trip from Carvoeiro to Benagil Cave early in the day; the sea is calmer and the light inside the cave is at its best.",
+        "fr": "Réservez une sortie en petit bateau depuis Carvoeiro vers la grotte de Benagil tôt le matin ; la mer est plus calme et la lumière dans la grotte est à son meilleur."
+      },
+      "atAGlance": [
+        {
+          "icon": "🌊",
+          "label": {
+            "en": "Setting",
+            "fr": "Cadre"
+          },
+          "value": {
+            "en": "Clifftop, panoramic sea views",
+            "fr": "Falaise, vues mer panoramiques"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Outdoor with kids section, plus indoor",
+            "fr": "Extérieure avec section enfants, plus intérieure"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Seasonal, paid",
+            "fr": "Saisonnier, payant"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Carvoeiro cove, walk or short drive",
+            "fr": "Crique de Carvoeiro, à pied ou courte route"
+          }
+        },
+        {
+          "icon": "🎢",
+          "label": {
+            "en": "Nearby",
+            "fr": "À proximité"
+          },
+          "value": {
+            "en": "Slide and Splash waterpark",
+            "fr": "Parc aquatique Slide and Splash"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport",
+            "fr": "Aéroport"
+          },
+          "value": {
+            "en": "About 45 min from Faro",
+            "fr": "Environ 45 min de Faro"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🕳️",
+          "name": {
+            "en": "Benagil Cave trip",
+            "fr": "Sortie grotte de Benagil"
+          },
+          "detail": {
+            "en": "Boat or kayak to the Algarve's most famous sea cave along the cliffs.",
+            "fr": "Bateau ou kayak vers la grotte marine la plus célèbre de l'Algarve, le long des falaises."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "1 to 2 hours",
+            "fr": "1 à 2 heures"
+          }
+        },
+        {
+          "emoji": "🎢",
+          "name": {
+            "en": "Slide and Splash",
+            "fr": "Slide and Splash"
+          },
+          "detail": {
+            "en": "A full day at the big nearby waterpark with slides for all ages.",
+            "fr": "Une journée complète au grand parc aquatique voisin, avec toboggans pour tous les âges."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Full day",
+            "fr": "Journée"
+          }
+        },
+        {
+          "emoji": "⛳",
+          "name": {
+            "en": "Mini golf",
+            "fr": "Mini-golf"
+          },
+          "detail": {
+            "en": "On-site mini golf and a playground for lower-key afternoons.",
+            "fr": "Mini-golf sur place et aire de jeux pour des après-midi plus tranquilles."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "1 hour",
+            "fr": "1 heure"
+          }
+        },
+        {
+          "emoji": "🏘️",
+          "name": {
+            "en": "Carvoeiro village",
+            "fr": "Village de Carvoeiro"
+          },
+          "detail": {
+            "en": "Stroll down to the pretty cove village for gelato and a swim.",
+            "fr": "Descendez vers le joli village en crique pour une glace et une baignade."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journée"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast with a view",
+            "fr": "Petit-déjeuner avec vue"
+          },
+          "note": {
+            "en": "Ocean panorama to start the day.",
+            "fr": "Panorama océan pour commencer la journée."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Boat to Benagil",
+            "fr": "Bateau vers Benagil"
+          },
+          "note": {
+            "en": "Calm morning seas are best.",
+            "fr": "La mer calme du matin est idéale."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch in the village",
+            "fr": "Déjeuner au village"
+          },
+          "note": {
+            "en": "Grilled fish and a paddle.",
+            "fr": "Poisson grillé et petite baignade."
+          }
+        },
+        {
+          "time": "15:00",
+          "title": {
+            "en": "Pool and mini golf",
+            "fr": "Piscine et mini-golf"
+          },
+          "note": {
+            "en": "Kids section keeps it easy.",
+            "fr": "La section enfants facilite les choses."
+          }
+        },
+        {
+          "time": "19:00",
+          "title": {
+            "en": "Dinner on the terrace",
+            "fr": "Dîner en terrasse"
+          },
+          "note": {
+            "en": "Sunset over the cliffs.",
+            "fr": "Coucher de soleil sur les falaises."
+          }
+        }
+      ],
+      "ageNotes": {
+        "toddler": {
+          "en": "The kids pool section and mini golf suit toddlers, but the cliff setting needs constant supervision.",
+          "fr": "La section piscine enfants et le mini-golf conviennent aux tout-petits, mais le cadre en falaise exige une surveillance constante."
+        },
+        "kid": {
+          "en": "Ideal age here: cave trips, the waterpark, pools and the village are all within easy reach.",
+          "fr": "L'âge idéal ici : grottes, parc aquatique, piscines et village sont tous facilement accessibles."
+        },
+        "teen": {
+          "en": "Kayaking, boat trips and coastal walks make it a good fit for active teens.",
+          "fr": "Kayak, sorties en bateau et balades côtières en font un bon choix pour les ados actifs."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is there direct beach access?",
+            "fr": "Y a-t-il un accès direct à la plage ?"
+          },
+          "a": {
+            "en": "Not directly. The hotel sits on the cliffs, so reaching the sand means steps down or a short drive to Carvoeiro cove.",
+            "fr": "Pas directement. L'hôtel est sur la falaise, rejoindre le sable demande de descendre des escaliers ou une courte route vers la crique de Carvoeiro."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it suitable for very young children?",
+            "fr": "Convient-il aux très jeunes enfants ?"
+          },
+          "a": {
+            "en": "It works, but the clifftop setting and the walk to the beach mean it suits toddlers and up more than babies.",
+            "fr": "C'est possible, mais le cadre en falaise et la marche jusqu'à la plage le rendent plus adapté aux tout-petits qu'aux bébés."
+          }
+        },
+        {
+          "q": {
+            "en": "What is there to do nearby?",
+            "fr": "Que faire à proximité ?"
+          },
+          "a": {
+            "en": "Plenty: Carvoeiro village, the Slide and Splash waterpark, and boat trips to Benagil Cave are all close by.",
+            "fr": "Beaucoup de choses : le village de Carvoeiro, le parc aquatique Slide and Splash et les sorties en bateau vers la grotte de Benagil sont tout proches."
+          }
+        }
+      ]
+    },
+    {
+      "key": "algarve-vila-vita-parc",
+      "destinationKey": "algarve",
+      "name": "Vila Vita Parc Resort and Spa",
+      "area": {
+        "en": "Porches, Armação de Pêra",
+        "fr": "Porches, Armação de Pêra"
+      },
+      "lat": 37.101,
+      "lng": -8.4,
+      "zoom": 13,
+      "address": "Vila Vita Parc Resort and Spa, Porches, Armação de Pêra, Portugal",
+      "priceTier": 4,
+      "priceFrom": 520,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "beach-access",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "infinityPoolSea",
+        "poolCabanas",
+        "algarveCliffs"
+      ],
+      "scores": {
+        "rooms": 94,
+        "baby": 85,
+        "pool": 90,
+        "dining": 95,
+        "safety": 86,
+        "convenience": 74,
+        "location": 90,
+        "extras": 96
+      },
+      "roomsSummary": {
+        "en": "Some of the Algarve's finest rooms, suites and private villas, spread over lush clifftop gardens. Family suites and villas give generous space and, in the villas, private pools. This is polished luxury, priced accordingly, with service to match.",
+        "fr": "Parmi les plus belles chambres, suites et villas privées de l'Algarve, réparties dans de luxuriants jardins en haut de falaise. Les suites et villas familiales offrent un grand espace et, pour les villas, une piscine privée. Un luxe soigné, au prix en conséquence, avec un service à la hauteur."
+      },
+      "intro": {
+        "en": "The Algarve's benchmark luxury resort, set in manicured gardens on the cliffs near Porches. It pairs serious grown-up credentials, a Michelin-level dining scene and a superb spa, with genuine family care: a crèche for the littlest, Annabella's Kids Park, and a private beach club reached by complimentary shuttle. Expensive, but exceptional.",
+        "fr": "Le resort de luxe de référence en Algarve, dans des jardins soignés sur les falaises près de Porches. Il associe de vrais atouts pour adultes, une scène gastronomique de niveau étoilé et un spa superbe, à une réelle attention aux familles : une crèche pour les plus petits, l'Annabella's Kids Park et un beach club privé accessible en navette gratuite. Cher, mais exceptionnel."
+      },
+      "highlights": {
+        "en": [
+          "Crèche for babies from 6 months to 3 years, plus a kids club for ages 4 to 11",
+          "Annabella's Kids Park with slides, swings, trampolines and craft sessions",
+          "Private Armação Beach Club with beach restaurants, reached by free shuttle",
+          "Multiple pools set in clifftop gardens",
+          "Outstanding dining, from casual to award-winning fine dining",
+          "Big spa and grounds that give parents room to breathe"
+        ],
+        "fr": [
+          "Crèche pour les bébés de 6 mois à 3 ans, plus un club enfants de 4 à 11 ans",
+          "Annabella's Kids Park avec toboggans, balançoires, trampolines et ateliers créatifs",
+          "Beach club privé Armação avec restaurants de plage, accessible en navette gratuite",
+          "Plusieurs piscines dans des jardins en haut de falaise",
+          "Restauration remarquable, du décontracté au gastronomique primé",
+          "Grand spa et vastes jardins qui laissent respirer les parents"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Rare crèche from 6 months means even parents of babies get real downtime",
+          "World-class dining and spa alongside genuine children's facilities",
+          "Beautiful, spacious grounds that never feel crowded"
+        ],
+        "fr": [
+          "Rare crèche dès 6 mois : même les parents de bébés soufflent vraiment",
+          "Restauration et spa de classe mondiale, avec de vraies installations pour enfants",
+          "Jardins superbes et spacieux qui ne semblent jamais bondés"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Very expensive, and the crèche and kids club are paid extras",
+          "The beach is not on site: it is a complimentary shuttle ride away",
+          "Refined atmosphere can feel formal for boisterous younger children"
+        ],
+        "fr": [
+          "Très cher, et la crèche comme le club enfants sont des extras payants",
+          "La plage n'est pas sur place : elle se rejoint en navette gratuite",
+          "L'ambiance raffinée peut sembler formelle pour de jeunes enfants turbulents"
+        ]
+      },
+      "verdict": {
+        "en": "The top of the Algarve tree for families who want true luxury without giving up childcare. The crèche from 6 months is the killer feature. Book only if the budget is comfortable.",
+        "fr": "Le sommet de l'Algarve pour les familles qui veulent un vrai luxe sans renoncer à la garde d'enfants. La crèche dès 6 mois est l'atout décisif. À réserver seulement si le budget suit."
+      },
+      "parentTip": {
+        "en": "Book crèche or kids club sessions before arrival in high season; the best morning slots fill up, and they buy you a spa hour or a long lunch.",
+        "fr": "Réservez les créneaux de crèche ou de club enfants avant l'arrivée en haute saison ; les meilleurs créneaux du matin partent vite et vous offrent une heure de spa ou un long déjeuner."
+      },
+      "atAGlance": [
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Crèche",
+            "fr": "Crèche"
+          },
+          "value": {
+            "en": "From 6 months, paid",
+            "fr": "Dès 6 mois, payante"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Ages 4 to 11, paid",
+            "fr": "4 à 11 ans, payant"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Private beach club, free shuttle",
+            "fr": "Beach club privé, navette gratuite"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Dining",
+            "fr": "Restauration"
+          },
+          "value": {
+            "en": "Multiple restaurants, fine dining",
+            "fr": "Plusieurs restaurants, gastronomie"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Several in clifftop gardens",
+            "fr": "Plusieurs dans les jardins en falaise"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport",
+            "fr": "Aéroport"
+          },
+          "value": {
+            "en": "About 40 min from Faro",
+            "fr": "Environ 40 min de Faro"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🤸",
+          "name": {
+            "en": "Annabella's Kids Park",
+            "fr": "Annabella's Kids Park"
+          },
+          "detail": {
+            "en": "Slides, swings, trampolines and craft sessions, opening late twice a week in high season.",
+            "fr": "Toboggans, balançoires, trampolines et ateliers créatifs, ouvert tard deux soirs par semaine en haute saison."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journée"
+          }
+        },
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Beach club day",
+            "fr": "Journée beach club"
+          },
+          "detail": {
+            "en": "Take the free shuttle to the private Armação Beach Club with restaurants and watersports.",
+            "fr": "Prenez la navette gratuite vers le beach club privé Armação, avec restaurants et sports nautiques."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Full day",
+            "fr": "Journée"
+          }
+        },
+        {
+          "emoji": "🍳",
+          "name": {
+            "en": "Family baking session",
+            "fr": "Atelier pâtisserie en famille"
+          },
+          "detail": {
+            "en": "Baking and painting activities run for children within the kids programme.",
+            "fr": "Ateliers pâtisserie et peinture proposés aux enfants dans le programme du club."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "1 to 2 hours",
+            "fr": "1 à 2 heures"
+          }
+        },
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Garden pools",
+            "fr": "Piscines des jardins"
+          },
+          "detail": {
+            "en": "Drift between the resort pools set among the clifftop gardens.",
+            "fr": "Passez d'une piscine à l'autre dans les jardins en haut de falaise."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Leisurely breakfast",
+            "fr": "Petit-déjeuner tranquille"
+          },
+          "note": {
+            "en": "Gardens and sea views to wake up to.",
+            "fr": "Jardins et vue mer pour se réveiller."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Crèche or kids park",
+            "fr": "Crèche ou kids park"
+          },
+          "note": {
+            "en": "Little ones cared for, parents free.",
+            "fr": "Les petits sont gardés, les parents libres."
+          }
+        },
+        {
+          "time": "12:30",
+          "title": {
+            "en": "Beach club lunch",
+            "fr": "Déjeuner au beach club"
+          },
+          "note": {
+            "en": "Free shuttle down to the sand.",
+            "fr": "Navette gratuite vers le sable."
+          }
+        },
+        {
+          "time": "15:30",
+          "title": {
+            "en": "Pools and gardens",
+            "fr": "Piscines et jardins"
+          },
+          "note": {
+            "en": "Family swim in the shade.",
+            "fr": "Baignade en famille à l'ombre."
+          }
+        },
+        {
+          "time": "19:00",
+          "title": {
+            "en": "Early family dinner",
+            "fr": "Dîner familial tôt"
+          },
+          "note": {
+            "en": "Then a quiet drink on the terrace.",
+            "fr": "Puis un verre tranquille en terrasse."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "The crèche from 6 months is exceptional for a luxury resort, and rooms are well equipped for babies.",
+          "fr": "La crèche dès 6 mois est exceptionnelle pour un resort de luxe, et les chambres sont bien équipées pour les bébés."
+        },
+        "toddler": {
+          "en": "Annabella's Kids Park and the crèche mean toddlers are superbly catered for.",
+          "fr": "L'Annabella's Kids Park et la crèche prennent superbement soin des tout-petits."
+        },
+        "kid": {
+          "en": "Kids club, beach club and pools fill the days, with plenty of space to roam.",
+          "fr": "Club enfants, beach club et piscines remplissent les journées, avec beaucoup d'espace pour bouger."
+        },
+        "teen": {
+          "en": "Watersports at the beach club and the wider coast suit teens, though the mood is refined rather than lively.",
+          "fr": "Les sports nautiques au beach club et la côte alentour conviennent aux ados, même si l'ambiance est raffinée plutôt qu'animée."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Can they look after a baby?",
+            "fr": "Peuvent-ils garder un bébé ?"
+          },
+          "a": {
+            "en": "Yes. There is a crèche for babies from 6 months to 3 years, which is unusual and very useful at this level of resort.",
+            "fr": "Oui. Il y a une crèche pour les bébés de 6 mois à 3 ans, ce qui est rare et très pratique dans un resort de ce standing."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the beach at the resort?",
+            "fr": "La plage est-elle au resort ?"
+          },
+          "a": {
+            "en": "No. The resort is on the cliffs, with a private Armação Beach Club reached by a complimentary shuttle in a few minutes.",
+            "fr": "Non. Le resort est sur la falaise, avec un beach club privé Armação accessible en quelques minutes par navette gratuite."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it worth the price for families?",
+            "fr": "Le prix vaut-il le coup pour les familles ?"
+          },
+          "a": {
+            "en": "If the budget allows, yes: you get world-class dining, a superb spa and rare childcare from 6 months, all in beautiful grounds.",
+            "fr": "Si le budget le permet, oui : restauration de classe mondiale, spa superbe et rare garde d'enfants dès 6 mois, le tout dans un cadre magnifique."
+          }
+        }
+      ]
+    },
+    {
+      "key": "algarve-tivoli-alvor",
+      "destinationKey": "algarve",
+      "name": "Tivoli Alvor Algarve Resort",
+      "area": {
+        "en": "Alvor",
+        "fr": "Alvor"
+      },
+      "lat": 37.129,
+      "lng": -8.6,
+      "zoom": 13,
+      "address": "Tivoli Alvor Algarve Resort, Alvor, Portugal",
+      "priceTier": 3,
+      "priceFrom": 210,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolPalms",
+        "whiteResortPool",
+        "resortLoungers"
+      ],
+      "scores": {
+        "rooms": 81,
+        "baby": 80,
+        "pool": 89,
+        "dining": 83,
+        "safety": 85,
+        "convenience": 84,
+        "location": 84,
+        "extras": 87
+      },
+      "roomsSummary": {
+        "en": "A big resort with 491 rooms and suites across lush gardens, including plenty of family rooms and connecting options. It is an all-inclusive property, so the room is really your base between pools, buffets and the beach shuttle rather than somewhere you will spend long days.",
+        "fr": "Un grand resort de 491 chambres et suites dans de vastes jardins, avec de nombreuses chambres familiales et communicantes. C'est un établissement tout compris : la chambre sert surtout de base entre piscines, buffets et navette plage, plutôt qu'un lieu où passer de longues journées."
+      },
+      "intro": {
+        "en": "A large all-inclusive resort in the fishing village of Alvor, built for families who want everything handled. The standout is the free Pluma Junior Club, complimentary for children up to 12, plus six pools including a children's pool with waterslides. A miniature train runs guests down to the beach, and Alvor's laid-back village is close by.",
+        "fr": "Un grand resort tout compris dans le village de pêcheurs d'Alvor, pensé pour les familles qui veulent que tout soit géré. Le point fort : le Pluma Junior Club gratuit, offert aux enfants jusqu'à 12 ans, plus six piscines dont un bassin enfants avec toboggans. Un petit train conduit les clients à la plage, et le village tranquille d'Alvor est tout proche."
+      },
+      "highlights": {
+        "en": [
+          "Free Pluma Junior Club, complimentary for children up to 12",
+          "Six pools, including a children's pool with waterslides and a splash area",
+          "All-inclusive dining takes the stress out of fussy-eater mealtimes",
+          "Miniature train shuttle down to the beach and towards Alvor village",
+          "Playground, mini golf and a baby room among the family facilities",
+          "Close to the wide, dune-backed Alvor beach and estuary"
+        ],
+        "fr": [
+          "Pluma Junior Club gratuit, offert aux enfants jusqu'à 12 ans",
+          "Six piscines, dont un bassin enfants avec toboggans et zone d'éclaboussures",
+          "Formule tout compris qui enlève le stress des repas d'enfants difficiles",
+          "Petit train qui descend vers la plage et vers le village d'Alvor",
+          "Aire de jeux, mini-golf et salle bébé parmi les équipements familiaux",
+          "Proche de la grande plage d'Alvor adossée aux dunes et de l'estuaire"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Genuinely free kids club up to age 12, a big saving for families",
+          "Waterslides and multiple pools keep children busy all day",
+          "All-inclusive pricing makes budgeting simple"
+        ],
+        "fr": [
+          "Club enfants vraiment gratuit jusqu'à 12 ans, une belle économie pour les familles",
+          "Toboggans et plusieurs piscines occupent les enfants toute la journée",
+          "La formule tout compris simplifie la gestion du budget"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Large and busy: pools and buffets can feel packed in peak season",
+          "All-inclusive food is plentiful but can lack variety over a long stay",
+          "The beach is a shuttle or walk away rather than directly on site"
+        ],
+        "fr": [
+          "Grand et fréquenté : piscines et buffets peuvent être bondés en haute saison",
+          "La cuisine tout compris est abondante mais peut manquer de variété sur un long séjour",
+          "La plage se rejoint en navette ou à pied, pas directement sur place"
+        ]
+      },
+      "verdict": {
+        "en": "One of the best-value all-inclusive family resorts in the Algarve, thanks to a genuinely free kids club and waterslides. Choose it for stress-free, budget-friendly family days and accept that it is big and busy.",
+        "fr": "L'un des meilleurs rapports qualité-prix en tout compris familial de l'Algarve, grâce à un club enfants vraiment gratuit et à des toboggans. À choisir pour des journées familiales sans souci et économiques, en acceptant que ce soit grand et fréquenté."
+      },
+      "parentTip": {
+        "en": "Ride the miniature train to the beach mid-morning, then come back for the waterslides after the midday heat when the queues have thinned.",
+        "fr": "Prenez le petit train vers la plage en milieu de matinée, puis revenez pour les toboggans après la chaleur de midi, quand les files ont diminué."
+      },
+      "atAGlance": [
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free, up to age 12",
+            "fr": "Gratuit, jusqu'à 12 ans"
+          }
+        },
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Waterslides",
+            "fr": "Toboggans"
+          },
+          "value": {
+            "en": "Kids pool with slides and splash area",
+            "fr": "Bassin enfants avec toboggans et zone d'eau"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board basis",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "All-inclusive",
+            "fr": "Tout compris"
+          }
+        },
+        {
+          "icon": "🚂",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Alvor beach via miniature train",
+            "fr": "Plage d'Alvor par petit train"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Six, including indoor",
+            "fr": "Six, dont une intérieure"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport",
+            "fr": "Aéroport"
+          },
+          "value": {
+            "en": "About 50 min from Faro",
+            "fr": "Environ 50 min de Faro"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "Waterslides and splash pool",
+            "fr": "Toboggans et pataugeoire"
+          },
+          "detail": {
+            "en": "The children's pool has waterslides and a splash area for a full day of play.",
+            "fr": "Le bassin enfants a des toboggans et une zone d'éclaboussures pour une journée entière de jeu."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Half or full day",
+            "fr": "Demi-journée ou journée"
+          }
+        },
+        {
+          "emoji": "🎨",
+          "name": {
+            "en": "Pluma Junior Club",
+            "fr": "Pluma Junior Club"
+          },
+          "detail": {
+            "en": "Free supervised activities, mini golf, outdoor cinema and a dedicated kids dining area.",
+            "fr": "Activités encadrées gratuites, mini-golf, cinéma en plein air et espace repas pour enfants."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journée"
+          }
+        },
+        {
+          "emoji": "🚂",
+          "name": {
+            "en": "Miniature train to the beach",
+            "fr": "Petit train vers la plage"
+          },
+          "detail": {
+            "en": "A fun little train shuttles families down to Alvor beach through the day.",
+            "fr": "Un amusant petit train conduit les familles à la plage d'Alvor tout au long de la journée."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Short ride",
+            "fr": "Court trajet"
+          }
+        },
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Alvor beach and boardwalk",
+            "fr": "Plage et passerelle d'Alvor"
+          },
+          "detail": {
+            "en": "A wide beach with a dune boardwalk and a calm estuary for younger paddlers.",
+            "fr": "Une grande plage avec passerelle sur les dunes et un estuaire calme pour les plus petits."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matinée"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "All-inclusive breakfast",
+            "fr": "Petit-déjeuner tout compris"
+          },
+          "note": {
+            "en": "Big buffet, no bill to worry about.",
+            "fr": "Grand buffet, aucune addition à gérer."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Train to the beach",
+            "fr": "Train vers la plage"
+          },
+          "note": {
+            "en": "Wide sands and calm estuary.",
+            "fr": "Grand sable et estuaire calme."
+          }
+        },
+        {
+          "time": "12:30",
+          "title": {
+            "en": "Lunch back at base",
+            "fr": "Déjeuner au resort"
+          },
+          "note": {
+            "en": "Then a rest through the heat.",
+            "fr": "Puis une pause pendant la chaleur."
+          }
+        },
+        {
+          "time": "15:00",
+          "title": {
+            "en": "Waterslides",
+            "fr": "Toboggans"
+          },
+          "note": {
+            "en": "Kids club or splash pool.",
+            "fr": "Club enfants ou pataugeoire."
+          }
+        },
+        {
+          "time": "18:30",
+          "title": {
+            "en": "Family dinner and show",
+            "fr": "Dîner et spectacle en famille"
+          },
+          "note": {
+            "en": "Evening entertainment on site.",
+            "fr": "Animation en soirée sur place."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "A baby room and all-inclusive convenience help, though the resort is large and busy in peak weeks.",
+          "fr": "Une salle bébé et le confort du tout compris aident, même si le resort est grand et fréquenté en pleine saison."
+        },
+        "toddler": {
+          "en": "The splash pool, waterslides and free kids club make this a strong toddler choice.",
+          "fr": "La pataugeoire, les toboggans et le club gratuit en font un excellent choix pour les tout-petits."
+        },
+        "kid": {
+          "en": "Primary-age children are the sweet spot here, with a free club, pools and slides all day.",
+          "fr": "Les enfants d'âge primaire sont l'âge idéal ici, avec club gratuit, piscines et toboggans toute la journée."
+        },
+        "teen": {
+          "en": "Teens have pools, the beach and evening entertainment, though it is family-focused rather than lively.",
+          "fr": "Les ados ont piscines, plage et animations du soir, même si l'ambiance est familiale plutôt que festive."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the kids club really included?",
+            "fr": "Le club enfants est-il vraiment inclus ?"
+          },
+          "a": {
+            "en": "Yes. The Pluma Junior Club is complimentary for children up to 12, which is a real bonus at an all-inclusive resort.",
+            "fr": "Oui. Le Pluma Junior Club est offert aux enfants jusqu'à 12 ans, un vrai plus dans un resort tout compris."
+          }
+        },
+        {
+          "q": {
+            "en": "Are there waterslides?",
+            "fr": "Y a-t-il des toboggans ?"
+          },
+          "a": {
+            "en": "Yes. The children's pool has waterslides and a splash area, part of six pools including an indoor one.",
+            "fr": "Oui. Le bassin enfants dispose de toboggans et d'une zone d'eau, parmi six piscines dont une intérieure."
+          }
+        },
+        {
+          "q": {
+            "en": "How do we reach the beach?",
+            "fr": "Comment rejoint-on la plage ?"
+          },
+          "a": {
+            "en": "A miniature train shuttles guests down to Alvor beach, and it is also walkable over a private bridge.",
+            "fr": "Un petit train conduit les clients à la plage d'Alvor, également accessible à pied par un pont privé."
+          }
+        }
+      ]
+    },
+    {
+      "key": "algarve-vila-gale-cerro-alagoa",
+      "destinationKey": "algarve",
+      "name": "Vila Galé Cerro Alagoa",
+      "area": {
+        "en": "Albufeira",
+        "fr": "Albufeira"
+      },
+      "lat": 37.088,
+      "lng": -8.25,
+      "zoom": 13,
+      "address": "Vila Galé Cerro Alagoa, Albufeira, Portugal",
+      "priceTier": 2,
+      "priceFrom": 120,
+      "ages": [
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "family-suites",
+        "city-base",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "whiteResortPool",
+        "poolPalms",
+        "coastTown"
+      ],
+      "scores": {
+        "rooms": 76,
+        "baby": 70,
+        "pool": 78,
+        "dining": 76,
+        "safety": 78,
+        "convenience": 90,
+        "location": 85,
+        "extras": 74
+      },
+      "roomsSummary": {
+        "en": "310 straightforward, comfortable rooms and suites, including 24 junior suites, in a large town hotel near Albufeira's old town. Rooms are practical rather than luxurious, but the value and location are the point here: you are 800m from both the beach and the old town.",
+        "fr": "310 chambres et suites simples et confortables, dont 24 junior suites, dans un grand hôtel de ville proche de la vieille ville d'Albufeira. Les chambres sont pratiques plutôt que luxueuses, mais l'intérêt réside dans le rapport qualité-prix et l'emplacement : à 800 m de la plage comme de la vieille ville."
+      },
+      "intro": {
+        "en": "A well-priced, well-located family hotel a short walk from Albufeira's old town and beach. It is not a sprawling resort, but it does the family basics well: indoor and outdoor pools, a children's swimming area, a kids club and light entertainment, all within easy reach of restaurants, shops and the sea. A practical, budget-friendly base for exploring the central Algarve.",
+        "fr": "Un hôtel familial bien placé et au bon prix, à courte marche de la vieille ville et de la plage d'Albufeira. Ce n'est pas un resort tentaculaire, mais il maîtrise l'essentiel pour les familles : piscines intérieure et extérieure, zone de baignade pour enfants, club enfants et animation légère, le tout près des restaurants, des boutiques et de la mer. Une base pratique et économique pour explorer le centre de l'Algarve."
+      },
+      "highlights": {
+        "en": [
+          "Central Albufeira location, about 800m from beach and old town",
+          "Indoor and outdoor pools plus a dedicated children's swimming area",
+          "Kids club and a children's playground on site",
+          "Health club with indoor pool, sauna and gym for parents",
+          "Daytime and evening entertainment including live music and games",
+          "Great value base with everything walkable"
+        ],
+        "fr": [
+          "Emplacement central à Albufeira, à environ 800 m de la plage et de la vieille ville",
+          "Piscines intérieure et extérieure, plus une zone de baignade pour enfants",
+          "Club enfants et aire de jeux sur place",
+          "Espace forme avec piscine intérieure, sauna et salle de sport pour les parents",
+          "Animation en journée et en soirée, dont musique live et jeux",
+          "Base à très bon rapport qualité-prix, tout accessible à pied"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Excellent value with a genuinely central, walkable location",
+          "Indoor pool and a kids club cover the family basics year-round",
+          "Everything you need is close: beach, restaurants, shops and old town"
+        ],
+        "fr": [
+          "Excellent rapport qualité-prix avec un emplacement central, tout à pied",
+          "Piscine intérieure et club enfants couvrent l'essentiel familial toute l'année",
+          "Tout est proche : plage, restaurants, boutiques et vieille ville"
+        ]
+      },
+      "cons": {
+        "en": [
+          "A town hotel, not a resort, so pools and grounds are more modest",
+          "Central Albufeira can be noisy, especially in peak summer",
+          "Rooms are functional rather than stylish"
+        ],
+        "fr": [
+          "Un hôtel de ville, pas un resort : piscines et espaces plus modestes",
+          "Le centre d'Albufeira peut être bruyant, surtout en plein été",
+          "Les chambres sont fonctionnelles plutôt que design"
+        ]
+      },
+      "verdict": {
+        "en": "The value pick for families who want to be in the middle of Albufeira, close to the beach and everything else, without paying resort prices. Ideal if location and budget matter more than acres of pool.",
+        "fr": "Le choix malin pour les familles qui veulent être au coeur d'Albufeira, près de la plage et de tout le reste, sans payer un tarif de resort. Idéal si l'emplacement et le budget comptent plus que de vastes piscines."
+      },
+      "parentTip": {
+        "en": "Ask for a room away from the street side for a quieter night; central Albufeira stays lively well into the evening in summer.",
+        "fr": "Demandez une chambre à l'opposé de la rue pour une nuit plus calme ; le centre d'Albufeira reste animé tard le soir en été."
+      },
+      "atAGlance": [
+        {
+          "icon": "📍",
+          "label": {
+            "en": "Location",
+            "fr": "Emplacement"
+          },
+          "value": {
+            "en": "Central Albufeira, walkable",
+            "fr": "Centre d'Albufeira, tout à pied"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "About 800m to the sand",
+            "fr": "Environ 800 m du sable"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Indoor and outdoor, kids area",
+            "fr": "Intérieure et extérieure, zone enfants"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "On site, plus playground",
+            "fr": "Sur place, plus aire de jeux"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Value",
+            "fr": "Budget"
+          },
+          "value": {
+            "en": "Great value town hotel",
+            "fr": "Hôtel de ville très abordable"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport",
+            "fr": "Aéroport"
+          },
+          "value": {
+            "en": "About 35 min from Faro",
+            "fr": "Environ 35 min de Faro"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Fishermen's beach",
+            "fr": "Plage des pêcheurs"
+          },
+          "detail": {
+            "en": "Praia dos Pescadores in the old town is an easy walk for a morning swim.",
+            "fr": "La Praia dos Pescadores, dans la vieille ville, se rejoint à pied pour une baignade matinale."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matinée"
+          }
+        },
+        {
+          "emoji": "🍨",
+          "name": {
+            "en": "Old town wander",
+            "fr": "Balade dans la vieille ville"
+          },
+          "detail": {
+            "en": "Cobbled streets, ice cream and shops just a short stroll away.",
+            "fr": "Ruelles pavées, glaces et boutiques à courte distance à pied."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journée"
+          }
+        },
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Pool time",
+            "fr": "Temps piscine"
+          },
+          "detail": {
+            "en": "Split between the outdoor pool and the indoor pool on cooler days.",
+            "fr": "Alternez entre la piscine extérieure et l'intérieure les jours plus frais."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        },
+        {
+          "emoji": "🎤",
+          "name": {
+            "en": "Evening entertainment",
+            "fr": "Animation en soirée"
+          },
+          "detail": {
+            "en": "Live music, shows and games for families some evenings.",
+            "fr": "Musique live, spectacles et jeux pour les familles certains soirs."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soirée"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Buffet breakfast",
+            "fr": "Petit-déjeuner buffet"
+          },
+          "note": {
+            "en": "Simple and quick to start.",
+            "fr": "Simple et rapide pour démarrer."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Walk to the beach",
+            "fr": "Marche vers la plage"
+          },
+          "note": {
+            "en": "Old town sands close by.",
+            "fr": "Le sable de la vieille ville est tout proche."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch in town",
+            "fr": "Déjeuner en ville"
+          },
+          "note": {
+            "en": "Plenty of easy options nearby.",
+            "fr": "Beaucoup d'options faciles à proximité."
+          }
+        },
+        {
+          "time": "15:00",
+          "title": {
+            "en": "Pool and playground",
+            "fr": "Piscine et aire de jeux"
+          },
+          "note": {
+            "en": "Cool down at the hotel.",
+            "fr": "On se rafraîchit à l'hôtel."
+          }
+        },
+        {
+          "time": "19:00",
+          "title": {
+            "en": "Dinner and a show",
+            "fr": "Dîner et spectacle"
+          },
+          "note": {
+            "en": "Light entertainment on site.",
+            "fr": "Animation légère sur place."
+          }
+        }
+      ],
+      "ageNotes": {
+        "toddler": {
+          "en": "The children's swimming area and playground suit toddlers, and everything is a short, flat walk.",
+          "fr": "La zone de baignade enfants et l'aire de jeux conviennent aux tout-petits, et tout se rejoint à plat, en peu de marche."
+        },
+        "kid": {
+          "en": "Central location, pools and the beach make it easy and fun for primary-age children.",
+          "fr": "Emplacement central, piscines et plage rendent le séjour facile et amusant pour les enfants d'âge primaire."
+        },
+        "teen": {
+          "en": "Teens appreciate being able to walk to the beach, shops and the buzz of the old town.",
+          "fr": "Les ados apprécient de pouvoir rejoindre à pied la plage, les boutiques et l'animation de la vieille ville."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is it close to the beach?",
+            "fr": "Est-ce proche de la plage ?"
+          },
+          "a": {
+            "en": "Yes. The beach and Albufeira old town are both about 800m away, an easy walk with shops and restaurants en route.",
+            "fr": "Oui. La plage et la vieille ville d'Albufeira sont à environ 800 m, une marche facile avec boutiques et restaurants sur le chemin."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a pool for children?",
+            "fr": "Y a-t-il une piscine pour enfants ?"
+          },
+          "a": {
+            "en": "Yes. There are indoor and outdoor pools plus a dedicated children's swimming area, along with a kids club and playground.",
+            "fr": "Oui. Il y a des piscines intérieure et extérieure, une zone de baignade dédiée aux enfants, un club enfants et une aire de jeux."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it noisy?",
+            "fr": "Est-ce bruyant ?"
+          },
+          "a": {
+            "en": "It can be. The central location is very convenient but Albufeira is lively in summer, so ask for a quieter room away from the street.",
+            "fr": "Cela peut l'être. L'emplacement central est très pratique mais Albufeira est animée en été, demandez donc une chambre plus calme, à l'écart de la rue."
+          }
+        }
+      ]
+    }
+  ]
+}

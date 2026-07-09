@@ -1,0 +1,2828 @@
+{
+  "hotels": [
+    {
+      "key": "lisbon-martinhal-chiado-family-suites",
+      "destinationKey": "lisbon",
+      "name": "Martinhal Lisbon Chiado Family Suites",
+      "area": {
+        "en": "Chiado (Baixa & Chiado)",
+        "fr": "Chiado (Baixa et Chiado)"
+      },
+      "lat": 38.7105,
+      "lng": -9.1408,
+      "zoom": 13,
+      "address": "Martinhal Lisbon Chiado Family Suites, Chiado, Portugal",
+      "priceTier": 4,
+      "priceFrom": 320,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "free-kids-club",
+        "baby-friendly",
+        "family-suites",
+        "self-catering",
+        "toddler-friendly",
+        "city-base"
+      ],
+      "clubFree": true,
+      "photos": [
+        "livingRoom",
+        "roomCozy",
+        "lisbonTram"
+      ],
+      "scores": {
+        "rooms": 95,
+        "baby": 92,
+        "pool": 20,
+        "dining": 78,
+        "safety": 85,
+        "convenience": 90,
+        "location": 90,
+        "extras": 90
+      },
+      "roomsSummary": {
+        "en": "Studios to two-bedroom apartments, all with a real equipped kitchen and a proper dining area. Layouts are built for families: cosy studios hide living-room bunk beds, while one and two-bedroom suites give parents a separate room. Most units genuinely sleep four to six, and cots and rails are free on request.",
+        "fr": "Du studio a l'appartement deux chambres, tous avec vraie cuisine equipee et coin repas. Les agencements sont penses pour les familles : les studios cachent des lits superposes dans le salon, et les suites une ou deux chambres offrent aux parents une piece a part. La plupart accueillent vraiment quatre a six personnes, et lits bebe et barrieres sont gratuits sur demande."
+      },
+      "intro": {
+        "en": "Billed as the world's first city-centre family hotel, Martinhal Chiado is the rare Lisbon address that treats children as guests, not an afterthought. You get apartment living with hotel service in the heart of the old town, plus a free supervised kids club so parents can slip out for dinner.",
+        "fr": "Presente comme le premier hotel familial en plein centre-ville, le Martinhal Chiado est cette adresse rare a Lisbonne qui considere les enfants comme de vrais clients. On y trouve le confort d'un appartement avec le service d'un hotel, au coeur de la vieille ville, plus un club enfants encadre et gratuit pour souffler le soir."
+      },
+      "highlights": {
+        "en": [
+          "Free supervised kids club from 6 months to 9 years, open 09:30 to 17:30",
+          "Fully equipped kitchens with oven, dishwasher and coffee machine in every apartment",
+          "Living-room bunk beds and connecting layouts that keep families together",
+          "Baby gear on loan: cots, high chairs, bottle warmers and monitors",
+          "A six-minute walk to Cais do Sodre metro and the riverfront",
+          "Evening babysitting so parents can enjoy Chiado's restaurants"
+        ],
+        "fr": [
+          "Club enfants encadre et gratuit de 6 mois a 9 ans, ouvert de 9h30 a 17h30",
+          "Cuisines entierement equipees (four, lave-vaisselle, machine a cafe) dans chaque appartement",
+          "Lits superposes dans le salon et chambres communicantes pour rester en famille",
+          "Materiel bebe pret : lit parapluie, chaise haute, chauffe-biberon, ecoute-bebe",
+          "A six minutes a pied du metro Cais do Sodre et des bords du Tage",
+          "Garde d'enfants en soiree pour profiter des restaurants du Chiado"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Best true family room layouts in central Lisbon",
+          "Free kids club is a genuine, well-run service",
+          "Self-catering kitchens cut the cost of feeding fussy eaters"
+        ],
+        "fr": [
+          "Les meilleures vraies configurations familiales du centre de Lisbonne",
+          "Le club enfants gratuit est un service serieux et bien tenu",
+          "Les cuisines equipees allegent le budget repas des petits difficiles"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No swimming pool, so summer afternoons need a plan",
+          "Premium nightly rates, especially in high season",
+          "Chiado's cobbled hills are hard work with a stroller"
+        ],
+        "fr": [
+          "Pas de piscine : les apres-midis d'ete demandent un plan B",
+          "Tarifs eleves, surtout en haute saison",
+          "Les rues pavees et pentues du Chiado sont penibles avec une poussette"
+        ]
+      },
+      "verdict": {
+        "en": "The gold standard for families who want space, a kitchen and a kids club without leaving the centre of Lisbon.",
+        "fr": "La reference pour les familles qui veulent de l'espace, une cuisine et un club enfants sans quitter le centre de Lisbonne."
+      },
+      "parentTip": {
+        "en": "Book a one-bedroom with the living-room sofa bed rather than a studio: the extra door means lights-out for the kids doesn't mean lights-out for you.",
+        "fr": "Reservez une chambre avec canape-lit au salon plutot qu'un studio : la porte en plus permet de coucher les enfants sans vous coucher aussi."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Sleeps",
+            "fr": "Capacite"
+          },
+          "value": {
+            "en": "4 to 6 per apartment",
+            "fr": "4 a 6 par appartement"
+          }
+        },
+        {
+          "icon": "🧸",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free, 6 months to 9 years",
+            "fr": "Gratuit, 6 mois a 9 ans"
+          }
+        },
+        {
+          "icon": "🍳",
+          "label": {
+            "en": "Kitchen",
+            "fr": "Cuisine"
+          },
+          "value": {
+            "en": "Full kitchen in every unit",
+            "fr": "Cuisine complete partout"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "None",
+            "fr": "Aucune"
+          }
+        },
+        {
+          "icon": "🚇",
+          "label": {
+            "en": "Metro",
+            "fr": "Metro"
+          },
+          "value": {
+            "en": "6 min to Cais do Sodre",
+            "fr": "6 min de Cais do Sodre"
+          }
+        },
+        {
+          "icon": "🍼",
+          "label": {
+            "en": "Baby gear",
+            "fr": "Materiel bebe"
+          },
+          "value": {
+            "en": "Cots and high chairs free",
+            "fr": "Lits bebe et chaises hautes gratuits"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🚋",
+          "name": {
+            "en": "Tram 28 ride",
+            "fr": "Balade en tram 28"
+          },
+          "detail": {
+            "en": "Hop the famous yellow tram climbing from Baixa up to the castle; kids love the rattle and the steep turns.",
+            "fr": "Grimpez dans le celebre tram jaune qui monte de la Baixa au chateau : les enfants adorent le vacarme et les virages raides."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "45 min",
+            "fr": "45 min"
+          }
+        },
+        {
+          "emoji": "🏰",
+          "name": {
+            "en": "Castelo de Sao Jorge",
+            "fr": "Chateau de Sao Jorge"
+          },
+          "detail": {
+            "en": "Ramparts to run along, peacocks in the gardens and the best view over the city.",
+            "fr": "Des remparts a arpenter, des paons dans les jardins et la plus belle vue sur la ville."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "2 h",
+            "fr": "2 h"
+          }
+        },
+        {
+          "emoji": "🛗",
+          "name": {
+            "en": "Santa Justa Lift",
+            "fr": "Ascenseur de Santa Justa"
+          },
+          "detail": {
+            "en": "A wrought-iron lift straight out of a storybook, ending on a rooftop viewpoint.",
+            "fr": "Un ascenseur en fer forge digne d'un livre d'images, qui debouche sur un belvedere."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "30 min",
+            "fr": "30 min"
+          }
+        },
+        {
+          "emoji": "🍮",
+          "name": {
+            "en": "Time Out Market",
+            "fr": "Time Out Market"
+          },
+          "detail": {
+            "en": "A food hall five minutes downhill where everyone picks a different dish, pastel de nata included.",
+            "fr": "Une halle gourmande a cinq minutes en descente ou chacun choisit son plat, pastel de nata compris."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "1 h",
+            "fr": "1 h"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Breakfast in the apartment",
+            "fr": "Petit-dejeuner dans l'appartement"
+          },
+          "note": {
+            "en": "Toast and fruit in your own kitchen, no queue for a buffet.",
+            "fr": "Tartines et fruits dans votre cuisine, sans file au buffet."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Drop-off at the kids club",
+            "fr": "Depose au club enfants"
+          },
+          "note": {
+            "en": "Little ones start the day with themed games and crafts.",
+            "fr": "Les petits demarrent avec des jeux a theme et du bricolage."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Parents explore Chiado",
+            "fr": "Les parents explorent le Chiado"
+          },
+          "note": {
+            "en": "Coffee and bookshops while the club runs.",
+            "fr": "Cafe et librairies pendant que le club tourne."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Family lunch out",
+            "fr": "Dejeuner en famille"
+          },
+          "note": {
+            "en": "Grab everyone and share plates at Time Out Market.",
+            "fr": "On recupere tout le monde pour partager des plats au Time Out Market."
+          }
+        },
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Tram 28 to the castle",
+            "fr": "Tram 28 vers le chateau"
+          },
+          "note": {
+            "en": "End the afternoon on the ramparts at golden hour.",
+            "fr": "On finit l'apres-midi sur les remparts a la lumiere doree."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Cots, bottle warmers and monitors are free, and the kids club takes children from six months, which is unusually early for a city hotel.",
+          "fr": "Lits bebe, chauffe-biberons et ecoute-bebe sont gratuits, et le club accueille des six mois, ce qui est rare pour un hotel de ville."
+        },
+        "toddler": {
+          "en": "The play areas and equipped kitchen make daily rhythms easy, though the cobbled hills outside demand a sturdy carrier over a stroller.",
+          "fr": "Les espaces de jeu et la cuisine equipee simplifient le quotidien, mais les rues pavees et pentues imposent un porte-bebe plutot qu'une poussette."
+        },
+        "kid": {
+          "en": "The free club with crafts and science games keeps five to nine year olds happily busy for a full morning.",
+          "fr": "Le club gratuit, avec bricolage et jeux scientifiques, occupe joyeusement les cinq a neuf ans toute une matinee."
+        },
+        "teen": {
+          "en": "Older kids age out of the club but love the central location and the freedom of an apartment base.",
+          "fr": "Les ados sont trop grands pour le club mais adorent l'emplacement central et la liberte d'une base en appartement."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the kids club really free?",
+            "fr": "Le club enfants est-il vraiment gratuit ?"
+          },
+          "a": {
+            "en": "Yes, supervised sessions for guests aged six months to nine years are included, running roughly 09:30 to 17:30. Evening babysitting is a paid extra.",
+            "fr": "Oui, les sessions encadrees pour les 6 mois a 9 ans sont incluses, environ de 9h30 a 17h30. La garde en soiree est payante en supplement."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a pool?",
+            "fr": "Y a-t-il une piscine ?"
+          },
+          "a": {
+            "en": "No. This is a city aparthotel, so plan a park or a day trip if your children need to burn off energy in the water.",
+            "fr": "Non. C'est un appartement-hotel urbain : prevoyez un parc ou une excursion si vos enfants veulent se depenser dans l'eau."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we cook our own meals?",
+            "fr": "Peut-on cuisiner soi-meme ?"
+          },
+          "a": {
+            "en": "Every apartment has a full kitchen with oven, dishwasher and coffee machine, which is a real money-saver for families.",
+            "fr": "Chaque appartement dispose d'une cuisine complete (four, lave-vaisselle, machine a cafe), une vraie economie pour les familles."
+          }
+        }
+      ]
+    },
+    {
+      "key": "lisbon-myriad-by-sana",
+      "destinationKey": "lisbon",
+      "name": "MYRIAD by SANA Hotels",
+      "area": {
+        "en": "Parque das Nacoes",
+        "fr": "Parque das Nacoes"
+      },
+      "lat": 38.7683,
+      "lng": -9.0947,
+      "zoom": 13,
+      "address": "MYRIAD by SANA Hotels, Parque das Nacoes, Portugal",
+      "priceTier": 4,
+      "priceFrom": 260,
+      "ages": [
+        "baby",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "family-suites",
+        "baby-friendly",
+        "city-base"
+      ],
+      "photos": [
+        "poolDusk",
+        "hotelTowerGreen",
+        "roomCozy"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 70,
+        "pool": 60,
+        "dining": 88,
+        "safety": 82,
+        "convenience": 72,
+        "location": 74,
+        "extras": 78
+      },
+      "roomsSummary": {
+        "en": "Deluxe Family Rooms are two connecting rooms that sleep up to four, so parents and children each get their own space and door. Standard rooms are floor-to-ceiling glass with river views but suit a couple more than a full family. Ask for connecting rooms at booking, not on arrival.",
+        "fr": "Les Deluxe Family Rooms sont deux chambres communicantes pour quatre personnes : parents et enfants ont chacun leur espace et leur porte. Les chambres standard, vitrees du sol au plafond avec vue fleuve, conviennent plus a un couple qu'a une famille complete. Demandez les chambres communicantes des la reservation, pas a l'arrivee."
+      },
+      "intro": {
+        "en": "A glass tower on the Tagus in the modern Parque das Nacoes district, Myriad pairs knockout river views with the Expo 98 attractions on its doorstep. It leans luxury and business, but the connecting family rooms and the oceanarium next door make it a strong base for older kids and teens.",
+        "fr": "Tour de verre sur le Tage dans le quartier moderne du Parque das Nacoes, le Myriad marie des vues fleuve spectaculaires et les attractions de l'Expo 98 juste en bas. Le style est luxe et affaires, mais les chambres familiales communicantes et l'oceanarium voisin en font une base solide pour grands enfants et ados."
+      },
+      "highlights": {
+        "en": [
+          "Deluxe Family Rooms are two connecting rooms sleeping up to four",
+          "Floor-to-ceiling Tagus views from almost every room",
+          "Heated indoor spa pool on the top floor with panoramic windows",
+          "The Lisbon Oceanarium is a five-minute walk away",
+          "Babysitting available by appointment",
+          "River Lounge restaurant with a terrace right on the water"
+        ],
+        "fr": [
+          "Les Deluxe Family Rooms sont deux chambres communicantes pour quatre personnes",
+          "Vues sur le Tage du sol au plafond depuis presque toutes les chambres",
+          "Piscine interieure chauffee du spa au dernier etage, baies panoramiques",
+          "L'Oceanarium de Lisbonne est a cinq minutes a pied",
+          "Garde d'enfants sur rendez-vous",
+          "Restaurant River Lounge avec terrasse au bord de l'eau"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Genuine connecting family rooms with separate doors",
+          "Right beside the oceanarium, cable car and science museum",
+          "Spectacular river views the kids will remember"
+        ],
+        "fr": [
+          "Vraies chambres familiales communicantes avec portes separees",
+          "Juste a cote de l'oceanarium, du telepherique et du musee des sciences",
+          "Vues fleuve spectaculaires dont les enfants se souviendront"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The spa pool is a quiet relaxation pool, not a splash pool for kids",
+          "Parque das Nacoes is a 15-minute metro ride from the historic centre",
+          "Design and dining skew grown-up and pricey"
+        ],
+        "fr": [
+          "La piscine du spa est un bassin de detente calme, pas un bassin pour barboter",
+          "Le Parque das Nacoes est a 15 min de metro du centre historique",
+          "Le design et la restauration visent plutot les adultes, et les prix suivent"
+        ]
+      },
+      "verdict": {
+        "en": "A sleek riverside tower that works best for families with older kids who want attractions on the doorstep and views to match.",
+        "fr": "Une elegante tour au bord du fleuve, ideale pour les familles avec grands enfants qui veulent des attractions en bas et des vues a la hauteur."
+      },
+      "parentTip": {
+        "en": "The oceanarium sells timed tickets that sell out on rainy days: buy them online the night before from your room and walk over first thing.",
+        "fr": "L'oceanarium vend des billets horodates qui partent vite les jours de pluie : achetez-les en ligne la veille depuis la chambre et allez-y des l'ouverture."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Sleeps",
+            "fr": "Capacite"
+          },
+          "value": {
+            "en": "Up to 4 in family rooms",
+            "fr": "Jusqu'a 4 en chambre familiale"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "Heated indoor spa pool",
+            "fr": "Piscine interieure chauffee (spa)"
+          }
+        },
+        {
+          "icon": "🐠",
+          "label": {
+            "en": "Oceanarium",
+            "fr": "Oceanarium"
+          },
+          "value": {
+            "en": "5 min walk",
+            "fr": "5 min a pied"
+          }
+        },
+        {
+          "icon": "🌊",
+          "label": {
+            "en": "View",
+            "fr": "Vue"
+          },
+          "value": {
+            "en": "Tagus river, floor to ceiling",
+            "fr": "Le Tage, du sol au plafond"
+          }
+        },
+        {
+          "icon": "🚇",
+          "label": {
+            "en": "Centre",
+            "fr": "Centre"
+          },
+          "value": {
+            "en": "15 min by metro",
+            "fr": "15 min en metro"
+          }
+        },
+        {
+          "icon": "🍼",
+          "label": {
+            "en": "Babysitting",
+            "fr": "Garde"
+          },
+          "value": {
+            "en": "On request",
+            "fr": "Sur demande"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🦈",
+          "name": {
+            "en": "Lisbon Oceanarium",
+            "fr": "Oceanarium de Lisbonne"
+          },
+          "detail": {
+            "en": "One of Europe's biggest aquariums, built around a giant central tank of sharks and rays.",
+            "fr": "L'un des plus grands aquariums d'Europe, organise autour d'un immense bassin central de requins et de raies."
+          },
+          "ages": [
+            "baby",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "2 to 3 h",
+            "fr": "2 a 3 h"
+          }
+        },
+        {
+          "emoji": "🔬",
+          "name": {
+            "en": "Pavilion of Knowledge",
+            "fr": "Pavillon de la Connaissance"
+          },
+          "detail": {
+            "en": "A hands-on science museum where kids ride an upside-down bike on a high wire.",
+            "fr": "Un musee des sciences interactif ou les enfants pedalent a l'envers sur un fil suspendu."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "2 h",
+            "fr": "2 h"
+          }
+        },
+        {
+          "emoji": "🚡",
+          "name": {
+            "en": "Telecabine cable car",
+            "fr": "Telepherique Telecabine"
+          },
+          "detail": {
+            "en": "A gentle glide along the riverfront with the whole family strapped in one cabin.",
+            "fr": "Un vol tranquille le long du fleuve, toute la famille dans une meme cabine."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "20 min",
+            "fr": "20 min"
+          }
+        },
+        {
+          "emoji": "⛲",
+          "name": {
+            "en": "Vasco da Gama fountains",
+            "fr": "Fontaines Vasco da Gama"
+          },
+          "detail": {
+            "en": "Free water jets along the promenade that kids run through on hot afternoons.",
+            "fr": "Des jets d'eau gratuits sur la promenade ou les enfants courent les apres-midis de chaleur."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "45 min",
+            "fr": "45 min"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "River-view breakfast",
+            "fr": "Petit-dejeuner vue fleuve"
+          },
+          "note": {
+            "en": "Watch the boats go by from the River Lounge.",
+            "fr": "On regarde passer les bateaux depuis le River Lounge."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Oceanarium",
+            "fr": "Oceanarium"
+          },
+          "note": {
+            "en": "Beat the crowds with your pre-booked morning slot.",
+            "fr": "On evite la foule grace au creneau reserve le matin."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch on the promenade",
+            "fr": "Dejeuner sur la promenade"
+          },
+          "note": {
+            "en": "Casual riverside cafes a short stroll away.",
+            "fr": "Des cafes decontractes au bord de l'eau, a deux pas."
+          }
+        },
+        {
+          "time": "15:00",
+          "title": {
+            "en": "Cable car and fountains",
+            "fr": "Telepherique et fontaines"
+          },
+          "note": {
+            "en": "A ride above the river then a run through the water jets.",
+            "fr": "Un tour au-dessus du fleuve puis une course dans les jets d'eau."
+          }
+        },
+        {
+          "time": "18:00",
+          "title": {
+            "en": "Rest and pool time",
+            "fr": "Repos et piscine"
+          },
+          "note": {
+            "en": "Wind down in the top-floor spa pool before dinner.",
+            "fr": "On decompresse a la piscine du dernier etage avant le diner."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Connecting rooms and babysitting help, but the spa pool has age rules, so check before you count on it for the baby.",
+          "fr": "Les chambres communicantes et la garde aident, mais la piscine du spa a des regles d'age : verifiez avant d'y compter pour bebe."
+        },
+        "kid": {
+          "en": "The oceanarium, science museum and cable car cluster within walking distance make this a dream for curious five to eleven year olds.",
+          "fr": "L'oceanarium, le musee des sciences et le telepherique, tous a pied, en font un reve pour les cinq a onze ans curieux."
+        },
+        "teen": {
+          "en": "Teens get their own connecting room, riverside cycling paths and a district that feels modern rather than touristy.",
+          "fr": "Les ados ont leur chambre communicante, des pistes cyclables au bord du fleuve et un quartier moderne plutot que touristique."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the pool good for young children?",
+            "fr": "La piscine convient-elle aux jeunes enfants ?"
+          },
+          "a": {
+            "en": "It is a heated indoor relaxation pool in the spa, designed for quiet swims rather than splashing, and it has age restrictions. Confirm access for your children directly.",
+            "fr": "C'est une piscine interieure chauffee de detente, concue pour nager au calme et non pour barboter, avec des restrictions d'age. Confirmez l'acces pour vos enfants directement."
+          }
+        },
+        {
+          "q": {
+            "en": "How far is the historic centre?",
+            "fr": "A quelle distance est le centre historique ?"
+          },
+          "a": {
+            "en": "About 15 minutes on the red metro line from Oriente station, which is a two-minute walk from the hotel.",
+            "fr": "Environ 15 minutes sur la ligne rouge du metro depuis la gare d'Oriente, a deux minutes a pied de l'hotel."
+          }
+        },
+        {
+          "q": {
+            "en": "Do family rooms have two separate rooms?",
+            "fr": "Les chambres familiales ont-elles deux pieces separees ?"
+          },
+          "a": {
+            "en": "Yes, the Deluxe Family Room is two connecting rooms sleeping up to four. Request it when booking as availability is limited.",
+            "fr": "Oui, la Deluxe Family Room est composee de deux chambres communicantes pour quatre personnes. Demandez-la a la reservation, les disponibilites sont limitees."
+          }
+        }
+      ]
+    },
+    {
+      "key": "lisbon-tivoli-avenida-liberdade",
+      "destinationKey": "lisbon",
+      "name": "Tivoli Avenida Liberdade Lisboa",
+      "area": {
+        "en": "Avenida da Liberdade",
+        "fr": "Avenida da Liberdade"
+      },
+      "lat": 38.7188,
+      "lng": -9.1447,
+      "zoom": 13,
+      "address": "Tivoli Avenida Liberdade Lisboa, Avenida da Liberdade, Portugal",
+      "priceTier": 4,
+      "priceFrom": 350,
+      "ages": [
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "family-suites",
+        "baby-friendly",
+        "city-base"
+      ],
+      "photos": [
+        "poolPalms",
+        "lisbonTram",
+        "roomCozy"
+      ],
+      "scores": {
+        "rooms": 78,
+        "baby": 72,
+        "pool": 65,
+        "dining": 82,
+        "safety": 84,
+        "convenience": 80,
+        "location": 88,
+        "extras": 75
+      },
+      "roomsSummary": {
+        "en": "A 1930s grande dame with suites and connecting rooms that let a family of four spread out. Standard rooms are generous by city-centre standards; the family answer here is a suite or two adjoining rooms rather than a single bunked room. Cots and extra beds are arranged on request.",
+        "fr": "Grande dame des annees 1930, avec suites et chambres communicantes ou une famille de quatre respire. Les chambres standard sont genereuses pour le centre-ville ; la solution familiale ici est la suite ou deux chambres attenantes plutot qu'une seule chambre a lits superposes. Lits bebe et lits d'appoint sur demande."
+      },
+      "intro": {
+        "en": "On Lisbon's grandest boulevard, the Tivoli is a proper five-star classic with something few city hotels offer: a real outdoor pool set in a semi-tropical garden. For a summer city break where children still get a swim, this is the sweet spot.",
+        "fr": "Sur le plus grand boulevard de Lisbonne, le Tivoli est un vrai cinq-etoiles classique avec un atout rare en ville : une vraie piscine exterieure dans un jardin semi-tropical. Pour un city-break estival ou les enfants nagent quand meme, c'est le bon compromis."
+      },
+      "highlights": {
+        "en": [
+          "Outdoor pool in a lush garden, open June to October",
+          "Suites and connecting rooms for families of four",
+          "Prime spot on Avenida da Liberdade, walkable to Baixa",
+          "Babysitting and occasional supervised kids activities",
+          "Rooftop bar with sweeping city views for a family sundowner",
+          "Metro and tram links a couple of minutes from the door"
+        ],
+        "fr": [
+          "Piscine exterieure dans un jardin luxuriant, ouverte de juin a octobre",
+          "Suites et chambres communicantes pour familles de quatre",
+          "Emplacement de choix sur l'Avenida da Liberdade, la Baixa a pied",
+          "Garde d'enfants et animations encadrees ponctuelles",
+          "Bar sur le toit avec vue panoramique pour un verre en famille au coucher du soleil",
+          "Metro et tram a deux minutes de la porte"
+        ]
+      },
+      "pros": {
+        "en": [
+          "A genuine outdoor pool, rare for central Lisbon",
+          "Unbeatable location on the main boulevard",
+          "Spacious suites that suit families better than most city hotels"
+        ],
+        "fr": [
+          "Une vraie piscine exterieure, rare en plein centre de Lisbonne",
+          "Emplacement imbattable sur le grand boulevard",
+          "Suites spacieuses qui conviennent mieux aux familles que la plupart des hotels de ville"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The pool only opens June to October, so it is off the table in winter and spring",
+          "Five-star rates run high, especially with a second room",
+          "Grand and formal in feel rather than playful"
+        ],
+        "fr": [
+          "La piscine n'ouvre que de juin a octobre, donc indisponible en hiver et au printemps",
+          "Tarifs cinq-etoiles eleves, surtout avec une deuxieme chambre",
+          "Ambiance chic et formelle plutot que ludique"
+        ]
+      },
+      "verdict": {
+        "en": "The pick for a summer city break: five-star polish on the main avenue with a garden pool the kids will actually use.",
+        "fr": "Le choix pour un city-break estival : le raffinement cinq-etoiles sur la grande avenue, avec une piscine de jardin que les enfants utiliseront vraiment."
+      },
+      "parentTip": {
+        "en": "Ask for a room facing the garden rather than the avenue: it is noticeably quieter at nap time and the pool is right below you.",
+        "fr": "Demandez une chambre cote jardin plutot que cote avenue : nettement plus calme a l'heure de la sieste, avec la piscine juste en dessous."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Sleeps",
+            "fr": "Capacite"
+          },
+          "value": {
+            "en": "4 in a suite or adjoining rooms",
+            "fr": "4 en suite ou chambres attenantes"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "Outdoor garden pool, Jun to Oct",
+            "fr": "Piscine de jardin, juin a oct."
+          }
+        },
+        {
+          "icon": "🛍️",
+          "label": {
+            "en": "Location",
+            "fr": "Emplacement"
+          },
+          "value": {
+            "en": "Avenida da Liberdade",
+            "fr": "Avenida da Liberdade"
+          }
+        },
+        {
+          "icon": "🚇",
+          "label": {
+            "en": "Metro",
+            "fr": "Metro"
+          },
+          "value": {
+            "en": "2 min to Avenida station",
+            "fr": "2 min de la station Avenida"
+          }
+        },
+        {
+          "icon": "🍸",
+          "label": {
+            "en": "Rooftop",
+            "fr": "Rooftop"
+          },
+          "value": {
+            "en": "Bar with city views",
+            "fr": "Bar avec vue sur la ville"
+          }
+        },
+        {
+          "icon": "🍼",
+          "label": {
+            "en": "Babysitting",
+            "fr": "Garde"
+          },
+          "value": {
+            "en": "On request",
+            "fr": "Sur demande"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🚶",
+          "name": {
+            "en": "Stroll to Baixa",
+            "fr": "Descente vers la Baixa"
+          },
+          "detail": {
+            "en": "A flat, tree-lined walk down the avenue to the grand riverside square of Praca do Comercio.",
+            "fr": "Une descente plate et ombragee de l'avenue jusqu'a la majestueuse place du Commerce, au bord du fleuve."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "25 min",
+            "fr": "25 min"
+          }
+        },
+        {
+          "emoji": "🌳",
+          "name": {
+            "en": "Parque Eduardo VII",
+            "fr": "Parc Eduardo VII"
+          },
+          "detail": {
+            "en": "A big formal park at the top of the avenue with lawns and a greenhouse full of ponds.",
+            "fr": "Un grand parc a la francaise en haut de l'avenue, avec pelouses et une serre pleine de bassins."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "1 h",
+            "fr": "1 h"
+          }
+        },
+        {
+          "emoji": "🚋",
+          "name": {
+            "en": "Gloria funicular",
+            "fr": "Funiculaire da Gloria"
+          },
+          "detail": {
+            "en": "A short, steep tram ride up to the Bairro Alto viewpoint, a favourite with kids.",
+            "fr": "Une courte montee raide en funiculaire jusqu'au belvedere du Bairro Alto, chouchou des enfants."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "30 min",
+            "fr": "30 min"
+          }
+        },
+        {
+          "emoji": "🧁",
+          "name": {
+            "en": "Pastelaria stop",
+            "fr": "Pause pastelaria"
+          },
+          "detail": {
+            "en": "The avenue's cafes serve warm custard tarts that reliably fix a grumpy afternoon.",
+            "fr": "Les cafes de l'avenue servent des pasteis de nata tiedes qui sauvent a coup sur un apres-midi grognon."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "30 min",
+            "fr": "30 min"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Buffet breakfast",
+            "fr": "Petit-dejeuner buffet"
+          },
+          "note": {
+            "en": "A wide spread that pleases picky eaters.",
+            "fr": "Un large choix qui contente les petits difficiles."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Walk down to Baixa",
+            "fr": "Descente vers la Baixa"
+          },
+          "note": {
+            "en": "Flat and shaded all the way to the river square.",
+            "fr": "Plat et ombrage jusqu'a la place du fleuve."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch near the river",
+            "fr": "Dejeuner pres du fleuve"
+          },
+          "note": {
+            "en": "Grilled fish or a toastie by Praca do Comercio.",
+            "fr": "Poisson grille ou croque pres de la place du Commerce."
+          }
+        },
+        {
+          "time": "15:30",
+          "title": {
+            "en": "Pool afternoon",
+            "fr": "Apres-midi piscine"
+          },
+          "note": {
+            "en": "Back to the garden pool for a proper swim (summer).",
+            "fr": "Retour a la piscine de jardin pour une vraie baignade (ete)."
+          }
+        },
+        {
+          "time": "19:00",
+          "title": {
+            "en": "Rooftop sundowner",
+            "fr": "Verre au coucher du soleil"
+          },
+          "note": {
+            "en": "Juices for the kids as the city lights come on.",
+            "fr": "Des jus pour les enfants quand la ville s'illumine."
+          }
+        }
+      ],
+      "ageNotes": {
+        "toddler": {
+          "en": "The flat avenue and garden pool are toddler-friendly, and cots slot easily into the roomy suites.",
+          "fr": "L'avenue plate et la piscine de jardin conviennent aux tout-petits, et les lits bebe se glissent facilement dans les suites spacieuses."
+        },
+        "kid": {
+          "en": "A summer swim after a morning of trams and tarts is the ideal city-break rhythm for this age.",
+          "fr": "Une baignade estivale apres une matinee de trams et de pasteis : le rythme ideal du city-break pour cet age."
+        },
+        "teen": {
+          "en": "Teens appreciate the address, the rooftop scene and being a short walk from Lisbon's shops and squares.",
+          "fr": "Les ados apprecient l'adresse, l'ambiance du rooftop et la proximite a pied des boutiques et places de Lisbonne."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "When is the outdoor pool open?",
+            "fr": "Quand la piscine exterieure est-elle ouverte ?"
+          },
+          "a": {
+            "en": "Typically June to October, weather permitting. Outside those months the pool is closed, so book elsewhere if a swim is essential.",
+            "fr": "En general de juin a octobre, selon la meteo. Hors de cette periode la piscine est fermee : reservez ailleurs si la baignade est essentielle."
+          }
+        },
+        {
+          "q": {
+            "en": "Can a family of four share one room?",
+            "fr": "Une famille de quatre peut-elle partager une chambre ?"
+          },
+          "a": {
+            "en": "A suite or two connecting rooms is the comfortable option. Standard rooms fit a couple plus a cot or one small child.",
+            "fr": "Une suite ou deux chambres communicantes est l'option confortable. Une chambre standard convient a un couple avec un lit bebe ou un jeune enfant."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it walkable to the main sights?",
+            "fr": "Les principaux sites sont-ils accessibles a pied ?"
+          },
+          "a": {
+            "en": "Yes, it is a flat walk down the avenue to Baixa and the river, with metro and tram a couple of minutes away.",
+            "fr": "Oui, une descente plate de l'avenue mene a la Baixa et au fleuve, avec metro et tram a deux minutes."
+          }
+        }
+      ]
+    },
+    {
+      "key": "lisbon-altis-belem-hotel-spa",
+      "destinationKey": "lisbon",
+      "name": "Altis Belem Hotel & Spa",
+      "area": {
+        "en": "Belem",
+        "fr": "Belem"
+      },
+      "lat": 38.696,
+      "lng": -9.2065,
+      "zoom": 13,
+      "address": "Altis Belem Hotel & Spa, Belem, Portugal",
+      "priceTier": 4,
+      "priceFrom": 300,
+      "ages": [
+        "baby",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "family-suites",
+        "baby-friendly",
+        "city-base"
+      ],
+      "photos": [
+        "poolDusk",
+        "coastTown",
+        "livingRoom"
+      ],
+      "scores": {
+        "rooms": 72,
+        "baby": 60,
+        "pool": 70,
+        "dining": 85,
+        "safety": 80,
+        "convenience": 68,
+        "location": 78,
+        "extras": 72
+      },
+      "roomsSummary": {
+        "en": "A small design hotel of 50 rooms and suites, all with river views. Suites give a family more room and a sofa area, but this is a boutique property rather than a bunk-bed family factory, so a suite or connecting pair is the way to fit four. Cots on request.",
+        "fr": "Petit hotel design de 50 chambres et suites, toutes avec vue fleuve. Les suites offrent plus d'espace et un coin salon, mais c'est un etablissement de charme, pas une usine a lits superposes : privilegiez une suite ou deux chambres communicantes pour loger quatre personnes. Lit bebe sur demande."
+      },
+      "intro": {
+        "en": "Right on the Belem waterfront, steps from the monastery and the pastel de nata that made the district famous, Altis Belem is a sleek design hotel with both an indoor and a rooftop pool. It suits culture-minded families who want monuments in the morning and a swim in the afternoon.",
+        "fr": "En bord de Tage a Belem, a deux pas du monastere et du pastel de nata qui a fait la renommee du quartier, l'Altis Belem est un hotel design elegant avec piscine interieure et piscine sur le toit. Il convient aux familles amatrices de culture qui veulent des monuments le matin et une baignade l'apres-midi."
+      },
+      "highlights": {
+        "en": [
+          "Both an indoor pool and a rooftop outdoor pool with river views",
+          "Belem's monuments and famous custard tarts a short walk away",
+          "Family-friendly suites with sofa areas and river outlook",
+          "Babysitting available so parents can try the Michelin restaurant",
+          "A calm marina-side setting away from the city crush",
+          "River ferries and the coast train run from nearby"
+        ],
+        "fr": [
+          "Une piscine interieure et une piscine exterieure sur le toit avec vue fleuve",
+          "Les monuments de Belem et les celebres pasteis a quelques minutes a pied",
+          "Suites familiales avec coin salon et vue sur le fleuve",
+          "Garde d'enfants disponible pour tester le restaurant etoile",
+          "Un cadre calme au bord de la marina, loin de la cohue",
+          "Bateaux fluviaux et train du littoral a proximite"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Two pools, unusual for a Lisbon city hotel",
+          "Walking distance to Belem's headline sights",
+          "Quiet, scenic waterfront location"
+        ],
+        "fr": [
+          "Deux piscines, chose rare pour un hotel de ville a Lisbonne",
+          "A pied des grands sites de Belem",
+          "Emplacement calme et pittoresque au bord de l'eau"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Children under 16 can only use the pools during limited Kids hours (10:00 to 12:00)",
+          "Belem is a 20-minute tram or train ride from the historic centre",
+          "Only 50 rooms, so family layouts sell out early"
+        ],
+        "fr": [
+          "Les moins de 16 ans n'accedent aux piscines que sur des horaires enfants limites (10h a 12h)",
+          "Belem est a 20 min de tram ou de train du centre historique",
+          "Seulement 50 chambres : les configurations familiales partent vite"
+        ]
+      },
+      "verdict": {
+        "en": "A design-led waterfront base for culture-loving families, as long as you plan swims around the restricted Kids pool hours.",
+        "fr": "Une base design au bord de l'eau pour familles amatrices de culture, a condition d'organiser les baignades autour des horaires enfants restreints."
+      },
+      "parentTip": {
+        "en": "The Kids pool window is only 10:00 to 12:00, so do the monastery at opening time and swim straight after, before the queues and the heat build.",
+        "fr": "Le creneau piscine enfants n'est que de 10h a 12h : visitez le monastere des l'ouverture et enchainez la baignade, avant les files et la chaleur."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Sleeps",
+            "fr": "Capacite"
+          },
+          "value": {
+            "en": "4 in a suite or two rooms",
+            "fr": "4 en suite ou deux chambres"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Indoor and rooftop",
+            "fr": "Interieure et sur le toit"
+          }
+        },
+        {
+          "icon": "⏰",
+          "label": {
+            "en": "Kids pool hours",
+            "fr": "Horaires enfants"
+          },
+          "value": {
+            "en": "10:00 to 12:00 only",
+            "fr": "10h a 12h uniquement"
+          }
+        },
+        {
+          "icon": "🧁",
+          "label": {
+            "en": "Pasteis de Belem",
+            "fr": "Pasteis de Belem"
+          },
+          "value": {
+            "en": "5 min walk",
+            "fr": "5 min a pied"
+          }
+        },
+        {
+          "icon": "🚋",
+          "label": {
+            "en": "Centre",
+            "fr": "Centre"
+          },
+          "value": {
+            "en": "20 min by tram",
+            "fr": "20 min en tram"
+          }
+        },
+        {
+          "icon": "🌊",
+          "label": {
+            "en": "View",
+            "fr": "Vue"
+          },
+          "value": {
+            "en": "Tagus and marina",
+            "fr": "Le Tage et la marina"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "⛪",
+          "name": {
+            "en": "Jeronimos Monastery",
+            "fr": "Monastere des Jeronimos"
+          },
+          "detail": {
+            "en": "A vast, ornate cloister where kids hunt for carved sea monsters in the stone.",
+            "fr": "Un cloitre immense et ouvrage ou les enfants cherchent les monstres marins sculptes dans la pierre."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "1.5 h",
+            "fr": "1 h 30"
+          }
+        },
+        {
+          "emoji": "🐎",
+          "name": {
+            "en": "Coaches Museum",
+            "fr": "Musee des Carrosses"
+          },
+          "detail": {
+            "en": "Rows of gilded royal carriages that look like they rolled out of a fairy tale.",
+            "fr": "Des rangees de carrosses royaux dores, tout droit sortis d'un conte de fees."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "1 h",
+            "fr": "1 h"
+          }
+        },
+        {
+          "emoji": "🍮",
+          "name": {
+            "en": "Pasteis de Belem",
+            "fr": "Pasteis de Belem"
+          },
+          "detail": {
+            "en": "The original custard-tart bakery, still warm from the oven and worth the short queue.",
+            "fr": "La patisserie d'origine du pastel de nata, encore tiede, qui vaut la petite file d'attente."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "30 min",
+            "fr": "30 min"
+          }
+        },
+        {
+          "emoji": "🗼",
+          "name": {
+            "en": "Belem Tower",
+            "fr": "Tour de Belem"
+          },
+          "detail": {
+            "en": "A little fortress in the river with spiral stairs to climb and cannon to peer through.",
+            "fr": "Une petite forteresse dans le fleuve, avec escaliers en colimacon a gravir et canons a observer."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "1 h",
+            "fr": "1 h"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast by the marina",
+            "fr": "Petit-dejeuner face a la marina"
+          },
+          "note": {
+            "en": "Boats and river light to start the day.",
+            "fr": "Bateaux et lumiere du fleuve pour bien commencer."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Monastery at opening",
+            "fr": "Monastere a l'ouverture"
+          },
+          "note": {
+            "en": "Beat the tour groups to the cloister.",
+            "fr": "On devance les groupes dans le cloitre."
+          }
+        },
+        {
+          "time": "11:00",
+          "title": {
+            "en": "Kids pool hour",
+            "fr": "Heure piscine enfants"
+          },
+          "note": {
+            "en": "Straight back for a swim in the 10:00 to 12:00 window.",
+            "fr": "Retour direct pour nager dans le creneau 10h a 12h."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Tarts and riverside lunch",
+            "fr": "Pasteis et dejeuner au bord de l'eau"
+          },
+          "note": {
+            "en": "Custard tarts then something savoury nearby.",
+            "fr": "Pasteis de nata puis un plat sale a cote."
+          }
+        },
+        {
+          "time": "15:30",
+          "title": {
+            "en": "Belem Tower",
+            "fr": "Tour de Belem"
+          },
+          "note": {
+            "en": "Climb the spiral stairs and spot the cannons.",
+            "fr": "On grimpe l'escalier en colimacon et on repere les canons."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Suites and cots work, but the restricted Kids pool hours and the boutique, adult feel make it easier with children who nap on the go.",
+          "fr": "Suites et lits bebe conviennent, mais les horaires piscine enfants limites et l'ambiance de charme plutot adulte facilitent la vie avec des enfants qui dorment en deplacement."
+        },
+        "kid": {
+          "en": "The monastery, tower and carriage museum are a hit with primary-age kids, and the morning pool slot rewards an early start.",
+          "fr": "Le monastere, la tour et le musee des carrosses plaisent aux enfants du primaire, et le creneau piscine du matin recompense les leve-tot."
+        },
+        "teen": {
+          "en": "Teens enjoy the design interiors, the waterfront cycling path and cafe-hopping around Belem's museums.",
+          "fr": "Les ados apprecient les interieurs design, la piste cyclable en bord de fleuve et les cafes autour des musees de Belem."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Can children use the pools?",
+            "fr": "Les enfants peuvent-ils utiliser les piscines ?"
+          },
+          "a": {
+            "en": "Yes, but access to the spa and indoor pool for under-16s is limited to Kids hours, typically 10:00 to 12:00. Plan your day around that window.",
+            "fr": "Oui, mais l'acces au spa et a la piscine interieure pour les moins de 16 ans se limite aux horaires enfants, en general de 10h a 12h. Organisez la journee autour de ce creneau."
+          }
+        },
+        {
+          "q": {
+            "en": "How do we reach the city centre?",
+            "fr": "Comment rejoindre le centre-ville ?"
+          },
+          "a": {
+            "en": "The historic tram, the coast-line train or a river ferry all connect Belem to central Lisbon in around 20 minutes.",
+            "fr": "Le tram historique, le train du littoral ou un bateau relient Belem au centre de Lisbonne en une vingtaine de minutes."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it good for a short culture-focused stay?",
+            "fr": "Est-ce adapte a un court sejour culturel ?"
+          },
+          "a": {
+            "en": "Yes. You can walk to the monastery, tower and museums, then retreat to a quiet waterfront hotel with two pools.",
+            "fr": "Oui. On rejoint a pied le monastere, la tour et les musees, puis on se replie dans un hotel calme au bord de l'eau avec deux piscines."
+          }
+        }
+      ]
+    },
+    {
+      "key": "lisbon-corinthia-lisbon",
+      "destinationKey": "lisbon",
+      "name": "Corinthia Lisbon",
+      "area": {
+        "en": "Marques de Pombal & Sete Rios",
+        "fr": "Marques de Pombal et Sete Rios"
+      },
+      "lat": 38.7378,
+      "lng": -9.1653,
+      "zoom": 13,
+      "address": "Corinthia Lisbon, Sete Rios, Portugal",
+      "priceTier": 3,
+      "priceFrom": 220,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "family-suites",
+        "baby-friendly",
+        "city-base"
+      ],
+      "photos": [
+        "poolOrange",
+        "roomCozy",
+        "lisbonTram"
+      ],
+      "scores": {
+        "rooms": 82,
+        "baby": 75,
+        "pool": 68,
+        "dining": 80,
+        "safety": 83,
+        "convenience": 78,
+        "location": 70,
+        "extras": 82
+      },
+      "roomsSummary": {
+        "en": "A large hotel with the space city-centre boutiques lack: roomy doubles, connecting rooms and suites, with children under 16 staying free when sharing with parents. That free-sharing policy plus connecting rooms makes a four-person stay genuinely affordable here. Cots and extra beds on request.",
+        "fr": "Un grand hotel avec l'espace qui manque aux boutiques du centre : chambres doubles vastes, chambres communicantes et suites, les moins de 16 ans logeant gratuitement avec leurs parents. Cette gratuite plus les chambres communicantes rendent un sejour a quatre vraiment abordable. Lits bebe et lits d'appoint sur demande."
+      },
+      "intro": {
+        "en": "A big, comfortable hotel near Marques de Pombal with the largest spa in Lisbon and, crucially for families, the city zoo right next door. Kids under 16 stay free, which turns a smart four-star into one of the better value family bases in town.",
+        "fr": "Grand hotel confortable pres de Marques de Pombal, avec le plus vaste spa de Lisbonne et, atout majeur pour les familles, le zoo juste a cote. Les moins de 16 ans logent gratuitement, ce qui transforme ce quatre-etoiles soigne en l'une des meilleures bases familiales de la ville en rapport qualite-prix."
+      },
+      "highlights": {
+        "en": [
+          "Children under 16 stay free when sharing their parents' room",
+          "Lisbon Zoo is right next door with its own metro stop",
+          "Rooftop pool with plenty of family space (an adults-only infinity section aside)",
+          "The city's largest spa, with an aqua circuit for grown-up downtime",
+          "Connecting rooms and suites for bigger families",
+          "Three restaurants with kids' menus on site"
+        ],
+        "fr": [
+          "Les moins de 16 ans logent gratuitement dans la chambre des parents",
+          "Le zoo de Lisbonne est juste a cote, avec sa propre station de metro",
+          "Piscine sur le toit avec un large espace famille (hors section infinity reservee aux adultes)",
+          "Le plus grand spa de la ville, avec circuit aquatique pour le temps calme des parents",
+          "Chambres communicantes et suites pour les familles nombreuses",
+          "Trois restaurants avec menus enfants sur place"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Under-16s stay free, excellent value for a smart hotel",
+          "Zoo on the doorstep with its own metro station",
+          "Big rooms and connecting options that fit real families"
+        ],
+        "fr": [
+          "Les moins de 16 ans logent gratuitement, excellent rapport qualite-prix",
+          "Le zoo a la porte, avec sa propre station de metro",
+          "Grandes chambres et options communicantes pour vraies familles"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Sete Rios is a business district, less charming than the old town",
+          "Under-16s need an adult swimmer with them in the pool, and the spa aqua circuit costs extra",
+          "Big-hotel scale can feel impersonal"
+        ],
+        "fr": [
+          "Sete Rios est un quartier d'affaires, moins charmant que la vieille ville",
+          "Les moins de 16 ans doivent etre accompagnes d'un adulte nageur dans la piscine, et le circuit aquatique du spa est payant",
+          "L'echelle d'un grand hotel peut sembler impersonnelle"
+        ]
+      },
+      "verdict": {
+        "en": "The value play for families: free kids, a zoo next door and big connecting rooms, with a short metro hop to the centre.",
+        "fr": "Le bon plan des familles : enfants gratuits, zoo a cote et grandes chambres communicantes, a un saut de metro du centre."
+      },
+      "parentTip": {
+        "en": "Buy zoo tickets online and go at opening: the animals are livelier in the cool morning and you are back for pool time by lunch.",
+        "fr": "Achetez les billets du zoo en ligne et allez-y a l'ouverture : les animaux sont plus actifs au frais du matin et vous rentrez pour la piscine a midi."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Sleeps",
+            "fr": "Capacite"
+          },
+          "value": {
+            "en": "4 with connecting rooms",
+            "fr": "4 en chambres communicantes"
+          }
+        },
+        {
+          "icon": "🐒",
+          "label": {
+            "en": "Zoo",
+            "fr": "Zoo"
+          },
+          "value": {
+            "en": "Next door",
+            "fr": "Juste a cote"
+          }
+        },
+        {
+          "icon": "🤸",
+          "label": {
+            "en": "Kids stay free",
+            "fr": "Enfants gratuits"
+          },
+          "value": {
+            "en": "Under 16 sharing",
+            "fr": "Moins de 16 ans en partage"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "Rooftop, family section",
+            "fr": "Sur le toit, section famille"
+          }
+        },
+        {
+          "icon": "🚇",
+          "label": {
+            "en": "Centre",
+            "fr": "Centre"
+          },
+          "value": {
+            "en": "5 min metro to Avenida",
+            "fr": "5 min de metro d'Avenida"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Dining",
+            "fr": "Restauration"
+          },
+          "value": {
+            "en": "3 restaurants, kids' menus",
+            "fr": "3 restaurants, menus enfants"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🦁",
+          "name": {
+            "en": "Lisbon Zoo",
+            "fr": "Zoo de Lisbonne"
+          },
+          "detail": {
+            "en": "Big-cat feedings, a cable car over the enclosures and a dolphin show, all next to the hotel.",
+            "fr": "Nourrissage des fauves, telecabine au-dessus des enclos et spectacle de dauphins, juste a cote de l'hotel."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journee"
+          }
+        },
+        {
+          "emoji": "🌳",
+          "name": {
+            "en": "Parque Eduardo VII",
+            "fr": "Parc Eduardo VII"
+          },
+          "detail": {
+            "en": "A short metro ride to a large park with lawns to picnic on and a greenhouse to explore.",
+            "fr": "Un court trajet de metro vers un grand parc, ideal pour pique-niquer, avec une serre a explorer."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "1.5 h",
+            "fr": "1 h 30"
+          }
+        },
+        {
+          "emoji": "🎨",
+          "name": {
+            "en": "Gulbenkian gardens",
+            "fr": "Jardins Gulbenkian"
+          },
+          "detail": {
+            "en": "Leafy gardens with ponds and ducks around a family-friendly art museum.",
+            "fr": "Des jardins verdoyants avec bassins et canards autour d'un musee d'art accueillant pour les familles."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "1.5 h",
+            "fr": "1 h 30"
+          }
+        },
+        {
+          "emoji": "🚇",
+          "name": {
+            "en": "Metro to Baixa",
+            "fr": "Metro vers la Baixa"
+          },
+          "detail": {
+            "en": "Five minutes on the metro drops you at the grand avenue and the old town beyond.",
+            "fr": "Cinq minutes de metro vous deposent sur la grande avenue et la vieille ville au-dela."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Flexible",
+            "fr": "Variable"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Big buffet breakfast",
+            "fr": "Grand petit-dejeuner buffet"
+          },
+          "note": {
+            "en": "Plenty of choice to fuel a zoo day.",
+            "fr": "De quoi tenir toute une journee au zoo."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Zoo next door",
+            "fr": "Zoo a cote"
+          },
+          "note": {
+            "en": "Straight in at opening, cable car first.",
+            "fr": "On entre a l'ouverture, telecabine en premier."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch back at the hotel",
+            "fr": "Dejeuner de retour a l'hotel"
+          },
+          "note": {
+            "en": "Kids' menu and a sit-down after the walking.",
+            "fr": "Menu enfants et pause assise apres la marche."
+          }
+        },
+        {
+          "time": "15:00",
+          "title": {
+            "en": "Rooftop pool",
+            "fr": "Piscine sur le toit"
+          },
+          "note": {
+            "en": "Family section, with a parent in the water.",
+            "fr": "Section famille, avec un parent dans l'eau."
+          }
+        },
+        {
+          "time": "18:00",
+          "title": {
+            "en": "Metro into town",
+            "fr": "Metro vers le centre"
+          },
+          "note": {
+            "en": "An easy evening stroll on the avenue.",
+            "fr": "Une balade tranquille du soir sur l'avenue."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Connecting rooms, cots and a next-door zoo with flat paths make babies straightforward, and the free-sharing policy keeps costs down.",
+          "fr": "Chambres communicantes, lits bebe et un zoo voisin aux allees plates simplifient la vie avec un bebe, et la gratuite du partage limite les couts."
+        },
+        "toddler": {
+          "en": "The zoo, park lawns and a family pool section give toddlers plenty to do without long transfers.",
+          "fr": "Le zoo, les pelouses du parc et une section piscine famille offrent de quoi occuper les tout-petits sans longs trajets."
+        },
+        "kid": {
+          "en": "Free stays for under-16s and the zoo's cable car and shows make this a great-value pick for primary-age children.",
+          "fr": "La gratuite pour les moins de 16 ans, la telecabine et les spectacles du zoo en font un choix tres avantageux pour les enfants du primaire."
+        },
+        "teen": {
+          "en": "Teens get a free bed, a big pool and a five-minute metro line into the heart of the city.",
+          "fr": "Les ados profitent d'un lit gratuit, d'une grande piscine et d'un metro a cinq minutes du coeur de la ville."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Do children really stay free?",
+            "fr": "Les enfants logent-ils vraiment gratuitement ?"
+          },
+          "a": {
+            "en": "Under-16s stay free when sharing their parents' room. Meals and the spa aqua circuit are extra, but the room saving is significant.",
+            "fr": "Les moins de 16 ans logent gratuitement dans la chambre des parents. Les repas et le circuit aquatique du spa sont en supplement, mais l'economie sur la chambre est notable."
+          }
+        },
+        {
+          "q": {
+            "en": "Can kids use the rooftop pool?",
+            "fr": "Les enfants peuvent-ils utiliser la piscine du toit ?"
+          },
+          "a": {
+            "en": "Yes, in the family section, but under-16s must be with an adult who can swim. One infinity section is adults only.",
+            "fr": "Oui, dans la section famille, mais les moins de 16 ans doivent etre avec un adulte sachant nager. Une section infinity est reservee aux adultes."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the location convenient?",
+            "fr": "L'emplacement est-il pratique ?"
+          },
+          "a": {
+            "en": "It sits in the Sete Rios business area beside the zoo, with a metro stop that reaches Avenida da Liberdade in about five minutes.",
+            "fr": "Il se trouve dans le quartier d'affaires de Sete Rios, a cote du zoo, avec un metro qui rejoint l'Avenida da Liberdade en cinq minutes environ."
+          }
+        }
+      ]
+    },
+    {
+      "key": "lisbon-hello-lisbon-castelo-apartments",
+      "destinationKey": "lisbon",
+      "name": "Hello Lisbon Castelo Apartments",
+      "area": {
+        "en": "Alfama & Castelo",
+        "fr": "Alfama et Castelo"
+      },
+      "lat": 38.7118,
+      "lng": -9.1315,
+      "zoom": 13,
+      "address": "Hello Lisbon Castelo Apartments, Alfama, Portugal",
+      "priceTier": 2,
+      "priceFrom": 130,
+      "ages": [
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "self-catering",
+        "family-suites",
+        "toddler-friendly",
+        "city-base"
+      ],
+      "photos": [
+        "roomCozy",
+        "livingRoom",
+        "coastTown"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 55,
+        "pool": 15,
+        "dining": 60,
+        "safety": 72,
+        "convenience": 78,
+        "location": 80,
+        "extras": 60
+      },
+      "roomsSummary": {
+        "en": "Self-contained apartments with a living room, dining area and a fully equipped kitchenette, plus a washing machine and soundproof windows. One and two-bedroom layouts genuinely sleep families of four, and the sofa bed in the living room can stretch to five. Bring or request a travel cot for babies.",
+        "fr": "Appartements autonomes avec salon, coin repas et kitchenette entierement equipee, plus lave-linge et fenetres insonorisees. Les configurations une et deux chambres accueillent vraiment des familles de quatre, et le canape-lit du salon peut monter a cinq. Prevoyez ou demandez un lit parapluie pour les bebes."
+      },
+      "intro": {
+        "en": "Tucked below the castle on the edge of Alfama, these serviced apartments give you a real Lisbon neighbourhood, a proper kitchen and a washing machine for a fraction of a four-star's price. It is a self-catering base for independent families happy to trade a reception desk for space and a front-door market.",
+        "fr": "Niches sous le chateau, en lisiere d'Alfama, ces appartements avec services offrent un vrai quartier lisboete, une cuisine digne de ce nom et un lave-linge, pour une fraction du prix d'un quatre-etoiles. Une base en autonomie pour les familles independantes pretes a echanger la reception contre de l'espace et une epicerie au pied de la porte."
+      },
+      "highlights": {
+        "en": [
+          "Fully equipped kitchenette in every apartment for family meals",
+          "Washing machine and soundproof windows, rare at this price",
+          "A short climb from the castle and the heart of Alfama",
+          "Living-room sofa beds stretch capacity to five",
+          "Local bakeries, grocers and tram stops on the doorstep",
+          "Flat rate for the apartment rather than per-person hotel pricing"
+        ],
+        "fr": [
+          "Kitchenette entierement equipee dans chaque appartement pour les repas en famille",
+          "Lave-linge et fenetres insonorisees, rares a ce prix",
+          "A une courte montee du chateau et du coeur d'Alfama",
+          "Les canapes-lits du salon montent la capacite a cinq",
+          "Boulangeries, epiceries et arrets de tram au pied de la porte",
+          "Tarif forfaitaire par appartement plutot que par personne"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Kitchen and washing machine at a genuine budget price",
+          "Right in an atmospheric old-Lisbon neighbourhood",
+          "Apartment pricing beats booking two hotel rooms"
+        ],
+        "fr": [
+          "Cuisine et lave-linge a un prix vraiment abordable",
+          "En plein coeur d'un quartier ancien plein de caractere",
+          "Le tarif par appartement bat la reservation de deux chambres d'hotel"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No pool and no daytime reception or kids facilities",
+          "Alfama's steep, cobbled lanes are tough with a stroller or a baby",
+          "Self-catering means no breakfast and no housekeeping taken off your hands"
+        ],
+        "fr": [
+          "Pas de piscine, pas de reception en journee ni d'equipements enfants",
+          "Les ruelles pavees et pentues d'Alfama sont difficiles avec une poussette ou un bebe",
+          "En autonomie : pas de petit-dejeuner ni de menage pris en charge au quotidien"
+        ]
+      },
+      "verdict": {
+        "en": "A smart-value self-catering base in atmospheric Alfama, best for independent families with kids old enough for the hills.",
+        "fr": "Une base en autonomie au bon rapport qualite-prix dans l'Alfama plein de caractere, ideale pour les familles autonomes avec des enfants assez grands pour les montees."
+      },
+      "parentTip": {
+        "en": "Do a first-night grocery run before you arrive: Alfama's tiny shops keep odd hours, and a stocked fridge saves the hungry-kid meltdown after a travel day.",
+        "fr": "Faites une course des le premier soir avant d'arriver : les petites echoppes d'Alfama ont des horaires capricieux, et un frigo rempli evite la crise du ventre vide apres une journee de voyage."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Sleeps",
+            "fr": "Capacite"
+          },
+          "value": {
+            "en": "4 to 5 with sofa bed",
+            "fr": "4 a 5 avec canape-lit"
+          }
+        },
+        {
+          "icon": "🍳",
+          "label": {
+            "en": "Kitchen",
+            "fr": "Cuisine"
+          },
+          "value": {
+            "en": "Full kitchenette",
+            "fr": "Kitchenette complete"
+          }
+        },
+        {
+          "icon": "🧺",
+          "label": {
+            "en": "Laundry",
+            "fr": "Buanderie"
+          },
+          "value": {
+            "en": "Washing machine in unit",
+            "fr": "Lave-linge dans le logement"
+          }
+        },
+        {
+          "icon": "🏰",
+          "label": {
+            "en": "Castle",
+            "fr": "Chateau"
+          },
+          "value": {
+            "en": "Short walk uphill",
+            "fr": "Courte montee a pied"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "None",
+            "fr": "Aucune"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Price",
+            "fr": "Prix"
+          },
+          "value": {
+            "en": "Per apartment, budget",
+            "fr": "Par appartement, economique"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏰",
+          "name": {
+            "en": "Castelo de Sao Jorge",
+            "fr": "Chateau de Sao Jorge"
+          },
+          "detail": {
+            "en": "Ramparts, peacocks and the city's best viewpoint, a short walk uphill from the door.",
+            "fr": "Remparts, paons et le plus beau belvedere de la ville, a une courte montee de la porte."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "2 h",
+            "fr": "2 h"
+          }
+        },
+        {
+          "emoji": "🚋",
+          "name": {
+            "en": "Tram 28",
+            "fr": "Tram 28"
+          },
+          "detail": {
+            "en": "The classic yellow tram rattles right through Alfama's tightest turns.",
+            "fr": "Le classique tram jaune se faufile dans les virages les plus serres d'Alfama."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "45 min",
+            "fr": "45 min"
+          }
+        },
+        {
+          "emoji": "🎸",
+          "name": {
+            "en": "Fado street corners",
+            "fr": "Coins de rue fado"
+          },
+          "detail": {
+            "en": "Wander the lanes at dusk to catch drifting fado from open windows and doorways.",
+            "fr": "Flanez dans les ruelles au crepuscule pour saisir le fado qui s'echappe des fenetres et des portes."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "1 h",
+            "fr": "1 h"
+          }
+        },
+        {
+          "emoji": "⛪",
+          "name": {
+            "en": "Se Cathedral",
+            "fr": "Cathedrale Se"
+          },
+          "detail": {
+            "en": "A fortress-like cathedral downhill where the tram trundles past the door.",
+            "fr": "Une cathedrale a l'allure de forteresse en contrebas, ou le tram passe devant la porte."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "45 min",
+            "fr": "45 min"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Breakfast in the apartment",
+            "fr": "Petit-dejeuner dans l'appartement"
+          },
+          "note": {
+            "en": "Fresh bread from the corner bakery, coffee at home.",
+            "fr": "Pain frais de la boulangerie du coin, cafe a la maison."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Up to the castle",
+            "fr": "Montee au chateau"
+          },
+          "note": {
+            "en": "Beat the heat and the crowds on the ramparts.",
+            "fr": "On devance la chaleur et la foule sur les remparts."
+          }
+        },
+        {
+          "time": "12:30",
+          "title": {
+            "en": "Lunch back home",
+            "fr": "Dejeuner a la maison"
+          },
+          "note": {
+            "en": "Cook a simple meal and let toddlers nap.",
+            "fr": "On cuisine simple et on laisse les petits faire la sieste."
+          }
+        },
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Tram 28 loop",
+            "fr": "Boucle en tram 28"
+          },
+          "note": {
+            "en": "Ride the lanes and hop off at a viewpoint.",
+            "fr": "On parcourt les ruelles et on descend a un belvedere."
+          }
+        },
+        {
+          "time": "18:30",
+          "title": {
+            "en": "Dinner in Alfama",
+            "fr": "Diner dans Alfama"
+          },
+          "note": {
+            "en": "A family tasca with grilled sardines nearby.",
+            "fr": "Une tasca familiale avec sardines grillees a cote."
+          }
+        }
+      ],
+      "ageNotes": {
+        "toddler": {
+          "en": "The kitchen and quiet apartment help with naps and meals, but plan the hilly cobbled streets with a carrier rather than a stroller.",
+          "fr": "La cuisine et le calme de l'appartement aident pour les siestes et les repas, mais prevoyez les rues pavees et pentues avec un porte-bebe plutot qu'une poussette."
+        },
+        "kid": {
+          "en": "Old enough to manage the hills, primary-age kids love the castle, the tram and getting lost in Alfama's maze.",
+          "fr": "Assez grands pour les montees, les enfants du primaire adorent le chateau, le tram et se perdre dans le dedale d'Alfama."
+        },
+        "teen": {
+          "en": "Teens get space, a kitchen and one of Lisbon's most photogenic neighbourhoods right outside.",
+          "fr": "Les ados profitent d'espace, d'une cuisine et de l'un des quartiers les plus photogeniques de Lisbonne juste dehors."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is there a reception or hotel service?",
+            "fr": "Y a-t-il une reception ou un service hotelier ?"
+          },
+          "a": {
+            "en": "These are serviced apartments with check-in support but no full hotel desk, breakfast or kids facilities. You self-cater and manage your own days.",
+            "fr": "Ce sont des appartements avec services, une aide a l'arrivee mais pas de reception complete, de petit-dejeuner ni d'equipements enfants. Vous etes en autonomie et gerez vos journees."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it hard with a stroller?",
+            "fr": "Est-ce difficile avec une poussette ?"
+          },
+          "a": {
+            "en": "Alfama is steep and cobbled, so a stroller is a struggle. A baby carrier is far easier for the lanes and the climb to the castle.",
+            "fr": "Alfama est pentu et pave : la poussette est un calvaire. Un porte-bebe est bien plus pratique pour les ruelles et la montee au chateau."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we cook and do laundry?",
+            "fr": "Peut-on cuisiner et faire la lessive ?"
+          },
+          "a": {
+            "en": "Yes, each apartment has a fully equipped kitchenette and a washing machine, which is a real plus on a longer family stay.",
+            "fr": "Oui, chaque appartement dispose d'une kitchenette complete et d'un lave-linge, un vrai atout pour un sejour familial prolonge."
+          }
+        }
+      ]
+    },
+    {
+      "key": "lisbon-serviced-apartments-baixa-chiado",
+      "destinationKey": "lisbon",
+      "name": "Lisbon Serviced Apartments Baixa Chiado",
+      "area": {
+        "en": "Baixa",
+        "fr": "Baixa"
+      },
+      "lat": 38.711,
+      "lng": -9.1385,
+      "zoom": 13,
+      "address": "Lisbon Serviced Apartments Baixa Chiado, Baixa, Portugal",
+      "priceTier": 2,
+      "priceFrom": 140,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "self-catering",
+        "family-suites",
+        "toddler-friendly",
+        "city-base"
+      ],
+      "photos": [
+        "livingRoom",
+        "roomCozy",
+        "lisbonTram"
+      ],
+      "scores": {
+        "rooms": 82,
+        "baby": 70,
+        "pool": 15,
+        "dining": 58,
+        "safety": 75,
+        "convenience": 82,
+        "location": 88,
+        "extras": 58
+      },
+      "roomsSummary": {
+        "en": "One to three-bedroom apartments with full self-catering kitchens, including fridge, dishwasher, washing machine and microwave, plus en-suite bathrooms for each bedroom. The three-bedroom units genuinely sleep six, which is rare in the centre, and the flat Baixa streets make cots and strollers easy. Confirm which floors have a lift.",
+        "fr": "Appartements d'une a trois chambres avec cuisines completes (refrigerateur, lave-vaisselle, lave-linge, micro-ondes) et salle de bain privative par chambre. Les trois-chambres logent vraiment six personnes, chose rare dans le centre, et les rues plates de la Baixa facilitent lits bebe et poussettes. Verifiez quels etages sont desservis par un ascenseur."
+      },
+      "intro": {
+        "en": "A step from the Santa Justa Lift and Rossio square, these apartments put you on Lisbon's flat, grid-planned Baixa, the easiest neighbourhood in town for strollers and small legs. Full kitchens, en-suite bathrooms per bedroom and units up to three bedrooms make this a comfortable, good-value base for a larger family.",
+        "fr": "A deux pas de l'ascenseur de Santa Justa et de la place du Rossio, ces appartements vous installent dans la Baixa plate et quadrillee de Lisbonne, le quartier le plus facile de la ville pour les poussettes et les petites jambes. Cuisines completes, salle de bain par chambre et logements jusqu'a trois chambres en font une base confortable et avantageuse pour une famille nombreuse."
+      },
+      "highlights": {
+        "en": [
+          "One to three-bedroom apartments that sleep up to six",
+          "Full kitchen with dishwasher and washing machine in each unit",
+          "En-suite bathroom for every bedroom, no morning queue",
+          "Flat Baixa streets, the friendliest in Lisbon for strollers",
+          "100 metres from the Santa Justa Lift and Rossio square",
+          "Trams, metro and the riverside square all within a short walk"
+        ],
+        "fr": [
+          "Appartements d'une a trois chambres pour six personnes",
+          "Cuisine complete avec lave-vaisselle et lave-linge dans chaque logement",
+          "Salle de bain privative par chambre, pas de file le matin",
+          "Rues plates de la Baixa, les plus accueillantes de Lisbonne pour les poussettes",
+          "A 100 metres de l'ascenseur de Santa Justa et de la place du Rossio",
+          "Trams, metro et place au bord du fleuve a courte distance a pied"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Flat, central location that is genuinely stroller-friendly",
+          "Up to three bedrooms with a bathroom each, ideal for big families",
+          "Full kitchen and laundry keep costs and stress down"
+        ],
+        "fr": [
+          "Emplacement plat et central vraiment adapte aux poussettes",
+          "Jusqu'a trois chambres avec salle de bain chacune, ideal pour familles nombreuses",
+          "Cuisine complete et lave-linge pour reduire couts et stress"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No pool, breakfast or on-site kids facilities",
+          "Central Baixa is lively and can be noisy at night in summer",
+          "Service is apartment-style, so no daily housekeeping or concierge on tap"
+        ],
+        "fr": [
+          "Pas de piscine, de petit-dejeuner ni d'equipements enfants sur place",
+          "La Baixa centrale est animee et peut etre bruyante la nuit en ete",
+          "Service en mode appartement : pas de menage quotidien ni de conciergerie a disposition"
+        ]
+      },
+      "verdict": {
+        "en": "The most stroller-friendly self-catering base in central Lisbon, and a real bargain for families of five or six.",
+        "fr": "La base en autonomie la plus adaptee aux poussettes du centre de Lisbonne, et une vraie bonne affaire pour les familles de cinq ou six."
+      },
+      "parentTip": {
+        "en": "Ask for an upper-floor apartment away from the street: Baixa's bars keep the ground floors buzzing well past bedtime in summer.",
+        "fr": "Demandez un appartement en etage eleve, cote cour : en ete, les bars de la Baixa animent les rez-de-chaussee bien apres l'heure du coucher."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Sleeps",
+            "fr": "Capacite"
+          },
+          "value": {
+            "en": "Up to 6 in three-bed units",
+            "fr": "Jusqu'a 6 en trois-chambres"
+          }
+        },
+        {
+          "icon": "🍳",
+          "label": {
+            "en": "Kitchen",
+            "fr": "Cuisine"
+          },
+          "value": {
+            "en": "Full kitchen and laundry",
+            "fr": "Cuisine complete et lave-linge"
+          }
+        },
+        {
+          "icon": "🚿",
+          "label": {
+            "en": "Bathrooms",
+            "fr": "Salles de bain"
+          },
+          "value": {
+            "en": "En-suite per bedroom",
+            "fr": "Privative par chambre"
+          }
+        },
+        {
+          "icon": "🚶",
+          "label": {
+            "en": "Terrain",
+            "fr": "Terrain"
+          },
+          "value": {
+            "en": "Flat, stroller-friendly",
+            "fr": "Plat, adapte aux poussettes"
+          }
+        },
+        {
+          "icon": "🛗",
+          "label": {
+            "en": "Santa Justa Lift",
+            "fr": "Ascenseur Santa Justa"
+          },
+          "value": {
+            "en": "100 m",
+            "fr": "100 m"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "None",
+            "fr": "Aucune"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛗",
+          "name": {
+            "en": "Santa Justa Lift",
+            "fr": "Ascenseur de Santa Justa"
+          },
+          "detail": {
+            "en": "A storybook iron lift 100 metres away, ending on a rooftop viewpoint.",
+            "fr": "Un ascenseur en fer digne d'un conte, a 100 metres, qui debouche sur un belvedere."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "30 min",
+            "fr": "30 min"
+          }
+        },
+        {
+          "emoji": "🌟",
+          "name": {
+            "en": "Praca do Comercio",
+            "fr": "Place du Commerce"
+          },
+          "detail": {
+            "en": "A huge riverside square, flat and open, perfect for scooters and running about.",
+            "fr": "Une immense place au bord du fleuve, plate et ouverte, parfaite pour les trottinettes et les cavalcades."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "1 h",
+            "fr": "1 h"
+          }
+        },
+        {
+          "emoji": "🍮",
+          "name": {
+            "en": "Time Out Market",
+            "fr": "Time Out Market"
+          },
+          "detail": {
+            "en": "A food hall a short walk away where everyone chooses their own dinner.",
+            "fr": "Une halle gourmande a deux pas ou chacun choisit son diner."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "1 h",
+            "fr": "1 h"
+          }
+        },
+        {
+          "emoji": "⛵",
+          "name": {
+            "en": "Tagus ferry ride",
+            "fr": "Traversee du Tage"
+          },
+          "detail": {
+            "en": "A cheap commuter ferry across the river and back, a mini boat trip for little sailors.",
+            "fr": "Un bac bon marche qui traverse le fleuve aller-retour, une mini croisiere pour petits marins."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "1 h",
+            "fr": "1 h"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Breakfast in",
+            "fr": "Petit-dejeuner a la maison"
+          },
+          "note": {
+            "en": "Pastries from the corner and coffee at the table.",
+            "fr": "Viennoiseries du coin et cafe a table."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Santa Justa and Rossio",
+            "fr": "Santa Justa et Rossio"
+          },
+          "note": {
+            "en": "Ride the lift, then the wavy-tiled square.",
+            "fr": "On prend l'ascenseur, puis la place aux paves ondules."
+          }
+        },
+        {
+          "time": "12:30",
+          "title": {
+            "en": "Lunch at home",
+            "fr": "Dejeuner a la maison"
+          },
+          "note": {
+            "en": "Quick pasta and a rest for the little ones.",
+            "fr": "Des pates vite faites et un repos pour les petits."
+          }
+        },
+        {
+          "time": "15:00",
+          "title": {
+            "en": "Ferry across the Tagus",
+            "fr": "Traversee du Tage"
+          },
+          "note": {
+            "en": "A short boat ride and views back at the city.",
+            "fr": "Une courte traversee et la vue sur la ville."
+          }
+        },
+        {
+          "time": "18:00",
+          "title": {
+            "en": "Comercio square scoot",
+            "fr": "Trottinette place du Commerce"
+          },
+          "note": {
+            "en": "Wide open space to run before dinner.",
+            "fr": "Un grand espace ouvert pour courir avant le diner."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Flat streets, a lift-served building and a full kitchen make Baixa one of the easiest central bases with a baby. Confirm lift access for your floor.",
+          "fr": "Rues plates, immeuble avec ascenseur et cuisine complete font de la Baixa l'une des bases centrales les plus faciles avec un bebe. Verifiez l'acces ascenseur a votre etage."
+        },
+        "toddler": {
+          "en": "The open squares and level pavements are ideal for wobbly walkers and a stroller, with the apartment close for naps.",
+          "fr": "Les places ouvertes et les trottoirs plats sont ideaux pour les premiers pas et la poussette, l'appartement tout proche pour les siestes."
+        },
+        "kid": {
+          "en": "The lift, ferry and food market keep primary-age kids entertained, all within an easy flat walk.",
+          "fr": "L'ascenseur, le bac et la halle gourmande occupent les enfants du primaire, le tout a plat et a pied."
+        },
+        "teen": {
+          "en": "Teens get their own room and bathroom and a base in the middle of the shops, squares and riverside action.",
+          "fr": "Les ados ont leur chambre et leur salle de bain, au milieu des boutiques, des places et de l'animation du bord de l'eau."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is it suitable for a big family?",
+            "fr": "Est-ce adapte a une famille nombreuse ?"
+          },
+          "a": {
+            "en": "Yes. Three-bedroom units sleep up to six with an en-suite for each bedroom, which is hard to find in central Lisbon at this price.",
+            "fr": "Oui. Les trois-chambres logent jusqu'a six personnes avec une salle de bain privative par chambre, chose rare dans le centre de Lisbonne a ce prix."
+          }
+        },
+        {
+          "q": {
+            "en": "Is Baixa noisy at night?",
+            "fr": "La Baixa est-elle bruyante la nuit ?"
+          },
+          "a": {
+            "en": "It can be lively in summer. Ask for an apartment on a higher floor or a quieter street if early bedtimes matter.",
+            "fr": "Elle peut etre animee en ete. Demandez un appartement en etage eleve ou dans une rue plus calme si les couchers tot comptent."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a pool or breakfast?",
+            "fr": "Y a-t-il une piscine ou un petit-dejeuner ?"
+          },
+          "a": {
+            "en": "No. This is a self-catering apartment base, so you cook your own meals and there is no pool or hotel breakfast.",
+            "fr": "Non. C'est une base en appartement autonome : vous cuisinez vous-meme, sans piscine ni petit-dejeuner d'hotel."
+          }
+        }
+      ]
+    },
+    {
+      "key": "lisbon-olissippo-oriente",
+      "destinationKey": "lisbon",
+      "name": "Olissippo Oriente",
+      "area": {
+        "en": "Parque das Nacoes",
+        "fr": "Parque das Nacoes"
+      },
+      "lat": 38.768,
+      "lng": -9.0985,
+      "zoom": 13,
+      "address": "Olissippo Oriente, Parque das Nacoes, Portugal",
+      "priceTier": 2,
+      "priceFrom": 120,
+      "ages": [
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "family-suites",
+        "baby-friendly",
+        "city-base"
+      ],
+      "photos": [
+        "roomCozy",
+        "hotelTowerGreen",
+        "livingRoom"
+      ],
+      "scores": {
+        "rooms": 74,
+        "baby": 68,
+        "pool": 20,
+        "dining": 68,
+        "safety": 82,
+        "convenience": 78,
+        "location": 72,
+        "extras": 76
+      },
+      "roomsSummary": {
+        "en": "A modern four-star where rooms pair a king bed with a living area whose sofa opens up for one child, and connecting rooms are available for larger families. Layouts comfortably take a couple plus one or two children, with cots on request. For four across two proper beds, book connecting rooms early.",
+        "fr": "Un quatre-etoiles moderne ou les chambres associent un lit king a un coin salon dont le canape se deplie pour un enfant, avec chambres communicantes pour les familles plus nombreuses. Les configurations accueillent aisement un couple avec un ou deux enfants, lit bebe sur demande. Pour quatre sur de vrais lits, reservez tot des chambres communicantes."
+      },
+      "intro": {
+        "en": "A well-priced modern hotel in Parque das Nacoes, walking distance from the oceanarium, the cable car and the riverside gardens. It skips the pool and the frills but delivers space, calm and a metro line straight into the centre, making it a sensible value base for families who will spend their days out.",
+        "fr": "Hotel moderne et bien tarife au Parque das Nacoes, a pied de l'oceanarium, du telepherique et des jardins au bord du fleuve. Il fait l'impasse sur la piscine et le superflu mais offre espace, calme et un metro direct vers le centre : une base raisonnable et economique pour les familles qui passeront leurs journees dehors."
+      },
+      "highlights": {
+        "en": [
+          "Rooms with a sofa that opens for one child, plus connecting options",
+          "A walk from the oceanarium, cable car and science museum",
+          "Quiet, modern district with wide, flat, stroller-friendly promenades",
+          "Babysitting arranged on request",
+          "Oriente metro and train two minutes away for the airport and centre",
+          "Riverside gardens and free fountains for kids to run through"
+        ],
+        "fr": [
+          "Chambres avec canape depliant pour un enfant, plus options communicantes",
+          "A pied de l'oceanarium, du telepherique et du musee des sciences",
+          "Quartier moderne et calme, promenades larges, plates et adaptees aux poussettes",
+          "Garde d'enfants sur demande",
+          "Metro et train Oriente a deux minutes pour l'aeroport et le centre",
+          "Jardins au bord du fleuve et fontaines gratuites pour courir"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Strong value for a modern four-star with family rooms",
+          "Walkable to Lisbon's best cluster of kid attractions",
+          "Flat, buggy-friendly streets and easy transport links"
+        ],
+        "fr": [
+          "Excellent rapport qualite-prix pour un quatre-etoiles moderne avec chambres familiales",
+          "A pied du meilleur ensemble d'attractions pour enfants de Lisbonne",
+          "Rues plates et adaptees aux poussettes, transports faciles"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No pool, so no swim to reward a hot day",
+          "The sofa suits one child, so four means connecting rooms",
+          "Parque das Nacoes is a metro ride from the historic old town"
+        ],
+        "fr": [
+          "Pas de piscine, donc pas de baignade pour recompenser une journee de chaleur",
+          "Le canape convient a un enfant : pour quatre, il faut des chambres communicantes",
+          "Le Parque das Nacoes est a un trajet de metro de la vieille ville historique"
+        ]
+      },
+      "verdict": {
+        "en": "A sensible-value modern base beside Lisbon's best kid attractions, for families happy to be out all day and skip a pool.",
+        "fr": "Une base moderne au bon rapport qualite-prix, a cote des meilleures attractions pour enfants de Lisbonne, pour les familles pretes a sortir toute la journee sans piscine."
+      },
+      "parentTip": {
+        "en": "Everything the kids want is a flat walk away, so leave the car and the taxis behind: the oceanarium, cable car and fountains are a ten-minute stroll from the lobby.",
+        "fr": "Tout ce que veulent les enfants est a plat et a pied : oubliez la voiture et les taxis, l'oceanarium, le telepherique et les fontaines sont a dix minutes du hall."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Sleeps",
+            "fr": "Capacite"
+          },
+          "value": {
+            "en": "3 in one room, 4 connecting",
+            "fr": "3 en une chambre, 4 en communicantes"
+          }
+        },
+        {
+          "icon": "🐠",
+          "label": {
+            "en": "Oceanarium",
+            "fr": "Oceanarium"
+          },
+          "value": {
+            "en": "10 min walk",
+            "fr": "10 min a pied"
+          }
+        },
+        {
+          "icon": "🚇",
+          "label": {
+            "en": "Transport",
+            "fr": "Transports"
+          },
+          "value": {
+            "en": "Oriente metro and train, 2 min",
+            "fr": "Metro et train Oriente, 2 min"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "None",
+            "fr": "Aucune"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport",
+            "fr": "Aeroport"
+          },
+          "value": {
+            "en": "About 10 min by taxi",
+            "fr": "Environ 10 min en taxi"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Price",
+            "fr": "Prix"
+          },
+          "value": {
+            "en": "Mid-range value",
+            "fr": "Milieu de gamme abordable"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🦈",
+          "name": {
+            "en": "Lisbon Oceanarium",
+            "fr": "Oceanarium de Lisbonne"
+          },
+          "detail": {
+            "en": "A short walk to one of Europe's biggest aquariums and its giant central tank.",
+            "fr": "A quelques minutes a pied de l'un des plus grands aquariums d'Europe et de son immense bassin central."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "2 to 3 h",
+            "fr": "2 a 3 h"
+          }
+        },
+        {
+          "emoji": "🚡",
+          "name": {
+            "en": "Telecabine cable car",
+            "fr": "Telepherique Telecabine"
+          },
+          "detail": {
+            "en": "A gentle ride along the riverfront with the whole family in one cabin.",
+            "fr": "Un vol tranquille le long du fleuve, toute la famille dans une cabine."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "20 min",
+            "fr": "20 min"
+          }
+        },
+        {
+          "emoji": "🔬",
+          "name": {
+            "en": "Pavilion of Knowledge",
+            "fr": "Pavillon de la Connaissance"
+          },
+          "detail": {
+            "en": "Hands-on science exhibits kids can push, pedal and pull all afternoon.",
+            "fr": "Des experiences scientifiques interactives que les enfants poussent, pedalent et tirent tout l'apres-midi."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "2 h",
+            "fr": "2 h"
+          }
+        },
+        {
+          "emoji": "⛲",
+          "name": {
+            "en": "Riverside fountains",
+            "fr": "Fontaines du bord de l'eau"
+          },
+          "detail": {
+            "en": "Free jumping water jets along the promenade for hot afternoons.",
+            "fr": "Des jets d'eau gratuits le long de la promenade pour les apres-midis de chaleur."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "45 min",
+            "fr": "45 min"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast at the hotel",
+            "fr": "Petit-dejeuner a l'hotel"
+          },
+          "note": {
+            "en": "A quick buffet before a walking day.",
+            "fr": "Un buffet rapide avant une journee a pied."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Oceanarium",
+            "fr": "Oceanarium"
+          },
+          "note": {
+            "en": "Ten minutes on foot, in early to beat the crowds.",
+            "fr": "Dix minutes a pied, tot pour eviter la foule."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch on the promenade",
+            "fr": "Dejeuner sur la promenade"
+          },
+          "note": {
+            "en": "Casual riverside spots near the marina.",
+            "fr": "Des adresses decontractees au bord de l'eau, pres de la marina."
+          }
+        },
+        {
+          "time": "15:00",
+          "title": {
+            "en": "Cable car and fountains",
+            "fr": "Telepherique et fontaines"
+          },
+          "note": {
+            "en": "A ride over the river then a splash in the jets.",
+            "fr": "Un tour au-dessus du fleuve puis une trempette dans les jets."
+          }
+        },
+        {
+          "time": "18:00",
+          "title": {
+            "en": "Metro into the old town",
+            "fr": "Metro vers la vieille ville"
+          },
+          "note": {
+            "en": "Fifteen minutes to dinner in the centre.",
+            "fr": "Quinze minutes jusqu'au diner dans le centre."
+          }
+        }
+      ],
+      "ageNotes": {
+        "toddler": {
+          "en": "Flat promenades, free fountains and a short walk to the oceanarium suit toddlers well, with a pull-out sofa for one small child.",
+          "fr": "Promenades plates, fontaines gratuites et courte marche jusqu'a l'oceanarium conviennent bien aux tout-petits, avec un canape depliant pour un jeune enfant."
+        },
+        "kid": {
+          "en": "The oceanarium, science museum and cable car within walking distance make for busy, happy days at this age.",
+          "fr": "L'oceanarium, le musee des sciences et le telepherique, tous a pied, garantissent des journees bien remplies a cet age."
+        },
+        "teen": {
+          "en": "Teens get a connecting room, riverside cycle paths and a fast train link for day trips out of the city.",
+          "fr": "Les ados profitent d'une chambre communicante, de pistes cyclables au bord du fleuve et d'un train rapide pour des excursions hors de la ville."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Can a family of four share one room?",
+            "fr": "Une famille de quatre peut-elle partager une chambre ?"
+          },
+          "a": {
+            "en": "The living-area sofa opens for one child, so a couple with one or two young children fits. For four in proper beds, book connecting rooms.",
+            "fr": "Le canape du coin salon se deplie pour un enfant, donc un couple avec un ou deux jeunes enfants tient. Pour quatre dans de vrais lits, reservez des chambres communicantes."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a pool?",
+            "fr": "Y a-t-il une piscine ?"
+          },
+          "a": {
+            "en": "No. This is a city hotel without a pool, so plan the riverside fountains or a day trip if the kids need water.",
+            "fr": "Non. C'est un hotel de ville sans piscine : prevoyez les fontaines du bord de l'eau ou une excursion si les enfants veulent de l'eau."
+          }
+        },
+        {
+          "q": {
+            "en": "How far are the main attractions?",
+            "fr": "A quelle distance sont les principales attractions ?"
+          },
+          "a": {
+            "en": "The oceanarium, cable car and science museum are a flat ten-minute walk, and the historic centre is about 15 minutes by metro.",
+            "fr": "L'oceanarium, le telepherique et le musee des sciences sont a dix minutes a plat, et le centre historique a environ 15 minutes en metro."
+          }
+        }
+      ]
+    }
+  ]
+}

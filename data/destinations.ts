@@ -1,5 +1,11 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
+import { MALLORCA_META } from "@/data/hotels/load";
+import { hotelsInDestination } from "@/data/hotels";
+
+// Mallorca's editorial content is authored alongside its hotels (JSON seed).
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const M = (MALLORCA_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -50,7 +56,7 @@ export const DESTINATIONS: Destination[] = [
     },
     emoji: "🚋",
     accent: "ff9d1c",
-    hotelKeys: ["lisbon-tejo-family", "lisbon-parque-suites"],
+    hotelKeys: [], // populated from loaded hotels below
     related: ["algarve", "guide-baby-checklist", "guide-connecting-rooms"],
   },
   {
@@ -99,7 +105,7 @@ export const DESTINATIONS: Destination[] = [
     },
     emoji: "🏖️",
     accent: "2bb3c0",
-    hotelKeys: ["algarve-falesia-family", "algarve-marina-club"],
+    hotelKeys: [], // populated below
     related: ["lisbon", "guide-allinclusive-europe", "guide-kids-club-free"],
   },
   {
@@ -148,15 +154,48 @@ export const DESTINATIONS: Destination[] = [
     },
     emoji: "🎢",
     accent: "ff6b4a",
-    hotelKeys: ["costa-aqua-resort", "costa-marbella-garden"],
+    hotelKeys: [], // populated below
     related: ["algarve", "guide-allinclusive-europe", "guide-waterslide-hotels"],
+  },
+  {
+    key: "mallorca",
+    name: { en: "Mallorca", fr: "Majorque" },
+    country: { en: "Spain", fr: "Espagne" },
+    inPhrase: { en: "in Mallorca", fr: "à Majorque" },
+    slug: {
+      en: "family-hotels-mallorca",
+      fr: "hotels-famille-majorque",
+    },
+    geo: { lat: 39.7, lng: 3.02, zoom: 9 },
+    heroKicker: M.heroKicker ?? {
+      en: "Europe's family island",
+      fr: "L'île famille d'Europe",
+    },
+    intro: M.intro ?? {
+      en: "Mallorca is one of Europe's easiest family islands: shallow calm bays, short transfers and resorts built around kids clubs and splash parks.",
+      fr: "Majorque est l'une des îles les plus faciles en famille d'Europe : criques calmes et peu profondes, transferts courts et resorts pensés autour des clubs enfants et des parcs à jets.",
+    },
+    whyKids: M.whyKids ?? { en: [], fr: [] },
+    bestAreas: M.bestAreas ?? { en: [], fr: [] },
+    emoji: M.emoji ?? "🏝️",
+    accent: "2bb3c0",
+    hotelKeys: [], // populated below
+    related: ["algarve", "costa-del-sol", "guide-allinclusive-europe"],
+    photos: M.photos,
+    stats: M.stats,
+    activities: M.activities,
+    faqs: M.faqs,
+    parentTip: M.parentTip,
+    goodToKnow: M.goodToKnow,
   },
 ];
 
-// Merge rich content (photos, stats, activities, FAQs, tips) onto destinations.
+// Merge rich content (photos, stats, activities, FAQs, tips) onto destinations,
+// and populate each destination's hotel line-up from the loaded hotels.
 for (const d of DESTINATIONS) {
   const extra = DEST_CONTENT[d.key];
   if (extra) Object.assign(d, extra);
+  d.hotelKeys = hotelsInDestination(d.key).map((h) => h.key);
 }
 
 export const DEST_BY_KEY = new Map(DESTINATIONS.map((d) => [d.key, d]));

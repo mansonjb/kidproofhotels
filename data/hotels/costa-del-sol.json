@@ -1,0 +1,2832 @@
+{
+  "hotels": [
+    {
+      "key": "costa-sol-principe-torremolinos",
+      "destinationKey": "costa-del-sol",
+      "name": "Sol Príncipe by Meliá",
+      "area": {
+        "en": "Torremolinos",
+        "fr": "Torremolinos"
+      },
+      "lat": 36.6156,
+      "lng": -4.5001,
+      "zoom": 13,
+      "address": "Sol Príncipe by Meliá, Torremolinos, Spain",
+      "priceTier": 3,
+      "priceFrom": 125,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolTropicalMtn",
+        "poolOrange",
+        "swimmer"
+      ],
+      "scores": {
+        "rooms": 74,
+        "baby": 78,
+        "pool": 92,
+        "dining": 80,
+        "safety": 82,
+        "convenience": 88,
+        "location": 86,
+        "extras": 90
+      },
+      "roomsSummary": {
+        "en": "Standard family rooms take two adults and two children, with a sofa bed and a small balcony. They are practical rather than plush, so ask for a renovated room and one facing the gardens if you want quiet at nap time.",
+        "fr": "Les chambres familiales standard accueillent deux adultes et deux enfants, avec un canapé-lit et un petit balcon. Elles sont pratiques plus que raffinées : demandez une chambre rénovée, côté jardin, pour le calme à l'heure de la sieste."
+      },
+      "intro": {
+        "en": "The Costa del Sol's classic family machine, right across the road from Bajondillo beach. The showpiece is a 1,500 square metre lagoon pool with a shallow shelf and a separate splash park, and your stay includes free entry to Aqualand and Crocodile Park nearby.",
+        "fr": "La valeur sûre des familles sur la Costa del Sol, juste en face de la plage de Bajondillo. Sa vedette : une piscine lagon de 1 500 mètres carrés avec plage immergée et un splash park à part, et le séjour inclut l'entrée gratuite à Aqualand et au Crocodile Park voisins."
+      },
+      "highlights": {
+        "en": [
+          "Lagoon pool with a walk-in shallow end that toddlers love.",
+          "Dedicated splash park with small slides for the under tens.",
+          "Free tickets to Aqualand Torremolinos and Crocodile Park.",
+          "Kidsdom clubs split by age, running through the summer.",
+          "Beach directly across the seafront promenade."
+        ],
+        "fr": [
+          "Piscine lagon avec entrée en pente douce que les tout-petits adorent.",
+          "Splash park dédié avec petits toboggans pour les moins de dix ans.",
+          "Billets gratuits pour Aqualand Torremolinos et le Crocodile Park.",
+          "Clubs Kidsdom répartis par âge, actifs tout l'été.",
+          "Plage juste en face, de l'autre côté de la promenade."
+        ]
+      },
+      "pros": {
+        "en": [
+          "One of the best pool set-ups for young families on the coast.",
+          "Free water park tickets are a real saving over a week.",
+          "Flat, buggy-friendly walk to the beach and the promenade."
+        ],
+        "fr": [
+          "L'un des meilleurs espaces piscine pour jeunes familles de la côte.",
+          "Les billets de parc aquatique offerts, une vraie économie sur la semaine.",
+          "Accès plat et poussette jusqu'à la plage et la promenade."
+        ]
+      },
+      "cons": {
+        "en": [
+          "Rooms feel dated unless you land a renovated one.",
+          "It is big and busy in peak season, with queues at the buffet.",
+          "The splash park and clubs run mainly mid June to mid September."
+        ],
+        "fr": [
+          "Les chambres font datées, sauf à décrocher une version rénovée.",
+          "L'établissement est grand et bondé en haute saison, avec la queue au buffet.",
+          "Le splash park et les clubs tournent surtout de mi-juin à mi-septembre."
+        ]
+      },
+      "verdict": {
+        "en": "If your holiday is measured in pool hours and water slides, this is hard to beat for the money, especially with the free park tickets thrown in.",
+        "fr": "Si vos vacances se comptent en heures de piscine et en toboggans, difficile de faire mieux à ce prix, surtout avec les billets de parc offerts."
+      },
+      "parentTip": {
+        "en": "Go to Aqualand on a weekday morning with the free tickets, then keep the afternoon for the calmer hotel lagoon when the crowds head out.",
+        "fr": "Faites Aqualand un matin de semaine avec les billets offerts, puis gardez l'après-midi pour le lagon plus calme de l'hôtel quand la foule repart."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Lagoon pool plus splash park",
+            "fr": "Piscine lagon et splash park"
+          }
+        },
+        {
+          "icon": "🎟️",
+          "label": {
+            "en": "Water parks",
+            "fr": "Parcs aquatiques"
+          },
+          "value": {
+            "en": "Aqualand and Crocodile Park free",
+            "fr": "Aqualand et Crocodile Park offerts"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Bajondillo, across the road",
+            "fr": "Bajondillo, en face"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free, split by age",
+            "fr": "Gratuit, par tranche d'âge"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Pension"
+          },
+          "value": {
+            "en": "Half board or all inclusive",
+            "fr": "Demi-pension ou tout compris"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport",
+            "fr": "Aéroport"
+          },
+          "value": {
+            "en": "About 15 minutes",
+            "fr": "Environ 15 minutes"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🌊",
+          "name": {
+            "en": "Lagoon pool morning",
+            "fr": "Matinée piscine lagon"
+          },
+          "detail": {
+            "en": "Shallow shelf, geyser and whirlpools for all ages.",
+            "fr": "Plage immergée, geyser et bains à remous pour tous."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "Aqualand day trip",
+            "fr": "Journée à Aqualand"
+          },
+          "detail": {
+            "en": "Included tickets to the Torremolinos water park.",
+            "fr": "Billets inclus pour le parc aquatique de Torremolinos."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Full day",
+            "fr": "Journée"
+          }
+        },
+        {
+          "emoji": "🐊",
+          "name": {
+            "en": "Crocodile Park",
+            "fr": "Crocodile Park"
+          },
+          "detail": {
+            "en": "Short outing to see the crocs, tickets included.",
+            "fr": "Petite sortie voir les crocodiles, billets inclus."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journée"
+          }
+        },
+        {
+          "emoji": "🚶",
+          "name": {
+            "en": "Seafront stroll",
+            "fr": "Balade sur le front de mer"
+          },
+          "detail": {
+            "en": "Flat promenade to Torremolinos old town and cafes.",
+            "fr": "Promenade plate jusqu'au vieux Torremolinos et ses cafés."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soir"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Buffet breakfast",
+            "fr": "Petit-déjeuner buffet"
+          },
+          "note": {
+            "en": "Get in early to beat the peak rush.",
+            "fr": "Arrivez tôt pour éviter l'affluence."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Splash park",
+            "fr": "Splash park"
+          },
+          "note": {
+            "en": "Small slides before the sun gets fierce.",
+            "fr": "Petits toboggans avant le gros soleil."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and shade",
+            "fr": "Déjeuner et ombre"
+          },
+          "note": {
+            "en": "Nap slot for the little ones back in the room.",
+            "fr": "Créneau sieste pour les petits à la chambre."
+          }
+        },
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Beach across the road",
+            "fr": "Plage en face"
+          },
+          "note": {
+            "en": "Gentle sand and a paddle on Bajondillo.",
+            "fr": "Sable doux et baignade à Bajondillo."
+          }
+        },
+        {
+          "time": "20:00",
+          "title": {
+            "en": "Kids show",
+            "fr": "Spectacle enfants"
+          },
+          "note": {
+            "en": "Evening entertainment before bed.",
+            "fr": "Animation du soir avant le coucher."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Cots on request and a shaded shallow shelf, though this is a busy resort so plan quiet nap times in the room.",
+          "fr": "Lits bébé sur demande et une plage immergée ombragée, mais l'endroit est animé : prévoyez les siestes au calme en chambre."
+        },
+        "toddler": {
+          "en": "The walk-in lagoon and mini splash park are ideal, with a fenced feel away from the deep pool.",
+          "fr": "Le lagon en pente douce et le mini splash park sont parfaits, à l'écart du bassin profond."
+        },
+        "kid": {
+          "en": "The sweet spot here: slides, the free water parks and an age-appropriate club.",
+          "fr": "L'âge idéal ici : toboggans, parcs aquatiques offerts et un club adapté."
+        },
+        "teen": {
+          "en": "Aqualand and the beach keep them happy, though evening entertainment skews younger.",
+          "fr": "Aqualand et la plage les occupent, même si l'animation du soir vise plus jeune."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Are the water park tickets really free?",
+            "fr": "Les billets de parc aquatique sont-ils vraiment gratuits ?"
+          },
+          "a": {
+            "en": "Yes, stays typically include entry to Aqualand Torremolinos and Crocodile Park. Confirm the current offer when you book.",
+            "fr": "Oui, les séjours incluent en général l'entrée à Aqualand Torremolinos et au Crocodile Park. Vérifiez l'offre en cours à la réservation."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it right on the beach?",
+            "fr": "Est-ce en bord de plage ?"
+          },
+          "a": {
+            "en": "It sits across the seafront road from Bajondillo beach, a flat one minute walk with a buggy.",
+            "fr": "Il se trouve juste en face de la plage de Bajondillo, à une minute à plat avec la poussette."
+          }
+        },
+        {
+          "q": {
+            "en": "When does the kids club run?",
+            "fr": "Quand le club enfants fonctionne-t-il ?"
+          },
+          "a": {
+            "en": "The Kidsdom clubs and splash park operate mainly from mid June to mid September, with reduced activities off season.",
+            "fr": "Les clubs Kidsdom et le splash park tournent surtout de mi-juin à mi-septembre, avec des activités réduites hors saison."
+          }
+        }
+      ]
+    },
+    {
+      "key": "costa-sunset-beach-club-benalmadena",
+      "destinationKey": "costa-del-sol",
+      "name": "Sunset Beach Club",
+      "area": {
+        "en": "Benalmádena",
+        "fr": "Benalmádena"
+      },
+      "lat": 36.5942,
+      "lng": -4.532,
+      "zoom": 13,
+      "address": "Sunset Beach Club, Benalmádena, Spain",
+      "priceTier": 2,
+      "priceFrom": 95,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "self-catering",
+        "family-suites",
+        "beach-access",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "resortLoungers",
+        "poolPalms",
+        "deckLoungersSea"
+      ],
+      "scores": {
+        "rooms": 84,
+        "baby": 82,
+        "pool": 80,
+        "dining": 72,
+        "safety": 84,
+        "convenience": 90,
+        "location": 88,
+        "extras": 86
+      },
+      "roomsSummary": {
+        "en": "Every apartment has a proper kitchenette, a balcony and a sofa bed for two, so a family of four spreads out easily. One and two bedroom options mean bigger groups get a real separate bedroom.",
+        "fr": "Chaque appartement dispose d'une vraie kitchenette, d'un balcon et d'un canapé-lit deux places : une famille de quatre s'y installe sans se marcher dessus. Les formules une ou deux chambres offrent aux plus grands une vraie chambre séparée."
+      },
+      "intro": {
+        "en": "A seafront aparthotel that families come back to year after year. The kitchenettes take the pressure off mealtimes, the beach sits on both sides of the property, and there are three kids clubs running a fuller programme through the school holidays.",
+        "fr": "Un appart-hôtel en front de mer où les familles reviennent année après année. Les kitchenettes déchargent des repas, la plage borde l'établissement des deux côtés, et trois clubs enfants proposent un programme étoffé pendant les vacances scolaires."
+      },
+      "highlights": {
+        "en": [
+          "Full kitchenette in every apartment for milk, snacks and simple dinners.",
+          "Two large pools plus two dedicated children's pools with a lifeguard.",
+          "Three kids clubs split by age, busiest during school holidays.",
+          "Beach on both sides, plus a mini bowling alley and arcade for rainy spells.",
+          "On-site supermarket so you never run out of nappies or fruit."
+        ],
+        "fr": [
+          "Kitchenette complète dans chaque appartement pour le lait, les goûters et des dîners simples.",
+          "Deux grandes piscines et deux pataugeoires surveillées.",
+          "Trois clubs enfants par tranche d'âge, très actifs pendant les vacances.",
+          "Plage des deux côtés, plus un mini-bowling et une salle d'arcade pour les jours de pluie.",
+          "Supérette sur place, pour ne jamais manquer de couches ou de fruits."
+        ]
+      },
+      "pros": {
+        "en": [
+          "Self-catering flexibility that suits babies and fussy eaters.",
+          "Genuine seafront location with beach access either side.",
+          "Kids clubs and activities keep older children busy all day."
+        ],
+        "fr": [
+          "La souplesse de la cuisine en appartement, idéale avec bébé ou petits mangeurs difficiles.",
+          "Vraie situation en front de mer, avec accès à la plage des deux côtés.",
+          "Clubs et animations qui occupent les plus grands toute la journée."
+        ]
+      },
+      "cons": {
+        "en": [
+          "It is a large, popular complex, so pools get crowded in August.",
+          "Restaurant dining is average, which is why most people self-cater.",
+          "The full kids club programme is thinner outside school holidays."
+        ],
+        "fr": [
+          "Le complexe est grand et prisé : les piscines se remplissent en août.",
+          "La restauration reste moyenne, d'où le réflexe cuisine en appartement.",
+          "Le programme complet du club se réduit hors vacances scolaires."
+        ]
+      },
+      "verdict": {
+        "en": "The reliable self-catering choice on this stretch: a real kitchen, the sea on your doorstep and enough for the kids to do that the days fill themselves.",
+        "fr": "Le choix cuisine-en-appartement fiable sur ce littoral : une vraie cuisine, la mer au pied de l'immeuble et de quoi occuper les enfants sans y penser."
+      },
+      "parentTip": {
+        "en": "Book a sea-facing apartment on a higher floor: same kitchenette, but you gain a breeze and a sunset over the water from the balcony.",
+        "fr": "Réservez un appartement côté mer en étage : même kitchenette, mais vous gagnez la brise et le coucher de soleil sur l'eau depuis le balcon."
+      },
+      "atAGlance": [
+        {
+          "icon": "🍳",
+          "label": {
+            "en": "Kitchen",
+            "fr": "Cuisine"
+          },
+          "value": {
+            "en": "Kitchenette in every unit",
+            "fr": "Kitchenette dans chaque logement"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Two adult, two children's",
+            "fr": "Deux adultes, deux enfants"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Seafront, both sides",
+            "fr": "Front de mer, des deux côtés"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids clubs",
+            "fr": "Clubs enfants"
+          },
+          "value": {
+            "en": "Three, by age group",
+            "fr": "Trois, par tranche d'âge"
+          }
+        },
+        {
+          "icon": "🛒",
+          "label": {
+            "en": "Shop",
+            "fr": "Commerce"
+          },
+          "value": {
+            "en": "On-site supermarket",
+            "fr": "Supérette sur place"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport",
+            "fr": "Aéroport"
+          },
+          "value": {
+            "en": "About 20 minutes",
+            "fr": "Environ 20 minutes"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🎳",
+          "name": {
+            "en": "Mini bowling",
+            "fr": "Mini-bowling"
+          },
+          "detail": {
+            "en": "On-site lanes for a cooler indoor hour.",
+            "fr": "Pistes sur place pour une heure au frais."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        },
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Children's pool time",
+            "fr": "Pataugeoire"
+          },
+          "detail": {
+            "en": "Two shallow pools with a lifeguard on duty.",
+            "fr": "Deux bassins peu profonds avec maître-nageur."
+          },
+          "ages": [
+            "baby",
+            "toddler"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🎭",
+          "name": {
+            "en": "Moonlight shows",
+            "fr": "Spectacles Moonlight"
+          },
+          "detail": {
+            "en": "Free evening entertainment in summer.",
+            "fr": "Animations gratuites en soirée l'été."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soir"
+          }
+        },
+        {
+          "emoji": "🚋",
+          "name": {
+            "en": "Benalmádena marina",
+            "fr": "Port de Benalmádena"
+          },
+          "detail": {
+            "en": "Stroll to Puerto Marina's cafes and boats.",
+            "fr": "Balade vers les cafés et bateaux de Puerto Marina."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soir"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Breakfast on the balcony",
+            "fr": "Petit-déjeuner au balcon"
+          },
+          "note": {
+            "en": "Kitchenette means no queue with a toddler.",
+            "fr": "La kitchenette évite la file avec un tout-petit."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Kids club drop-in",
+            "fr": "Passage au club enfants"
+          },
+          "note": {
+            "en": "Crafts and games by age group.",
+            "fr": "Bricolages et jeux par tranche d'âge."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and siesta",
+            "fr": "Déjeuner et sieste"
+          },
+          "note": {
+            "en": "Simple pasta in the apartment, then quiet time.",
+            "fr": "Pâtes simples à l'appartement, puis temps calme."
+          }
+        },
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Beach on the sea side",
+            "fr": "Plage côté mer"
+          },
+          "note": {
+            "en": "Sandcastles a minute from your door.",
+            "fr": "Châteaux de sable à une minute de la porte."
+          }
+        },
+        {
+          "time": "20:00",
+          "title": {
+            "en": "Moonlight theatre",
+            "fr": "Théâtre Moonlight"
+          },
+          "note": {
+            "en": "Free show, then bed upstairs.",
+            "fr": "Spectacle gratuit, puis au lit à l'étage."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "The kitchenette and fridge make bottle and puree life easy, and the supermarket downstairs covers anything you forgot.",
+          "fr": "La kitchenette et le frigo simplifient biberons et purées, et la supérette du bas comble les oublis."
+        },
+        "toddler": {
+          "en": "Two shallow children's pools with a lifeguard and a playground keep little ones close and safe.",
+          "fr": "Deux pataugeoires surveillées et une aire de jeux gardent les petits près et en sécurité."
+        },
+        "kid": {
+          "en": "Three clubs, an arcade and mini bowling mean there is always something on, rain or shine.",
+          "fr": "Trois clubs, une salle d'arcade et le mini-bowling : il y a toujours de quoi faire, beau temps ou pluie."
+        },
+        "teen": {
+          "en": "The marina and beach are a short walk, giving older ones a bit of independence.",
+          "fr": "Le port et la plage sont à quelques minutes, laissant un peu d'autonomie aux grands."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Do all apartments have a kitchen?",
+            "fr": "Tous les appartements ont-ils une cuisine ?"
+          },
+          "a": {
+            "en": "Yes, every unit has a fully equipped kitchenette plus a balcony or terrace, which is the main reason families choose it.",
+            "fr": "Oui, chaque logement dispose d'une kitchenette équipée et d'un balcon ou d'une terrasse, la raison même du choix des familles."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the kids club free?",
+            "fr": "Le club enfants est-il gratuit ?"
+          },
+          "a": {
+            "en": "Yes, the kids clubs are included, with a fuller daily programme during school holidays and quieter activities off season.",
+            "fr": "Oui, les clubs sont inclus, avec un programme quotidien plus riche pendant les vacances et des activités plus calmes hors saison."
+          }
+        },
+        {
+          "q": {
+            "en": "Can you walk to the beach?",
+            "fr": "Peut-on aller à la plage à pied ?"
+          },
+          "a": {
+            "en": "The complex sits directly on the seafront with beach access on both sides, no road to cross.",
+            "fr": "Le complexe est en front de mer, avec accès à la plage des deux côtés, sans route à traverser."
+          }
+        }
+      ]
+    },
+    {
+      "key": "costa-holiday-world-benalmadena",
+      "destinationKey": "costa-del-sol",
+      "name": "Holiday World Resort Affiliated by Meliá",
+      "area": {
+        "en": "Benalmádena",
+        "fr": "Benalmádena"
+      },
+      "lat": 36.5878,
+      "lng": -4.5163,
+      "zoom": 13,
+      "address": "Holiday World Resort Affiliated by Meliá, Benalmádena, Spain",
+      "priceTier": 2,
+      "priceFrom": 90,
+      "ages": [
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "water-slides",
+        "free-kids-club",
+        "self-catering",
+        "family-suites"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolCabanas",
+        "poolOrange",
+        "whiteResortPool"
+      ],
+      "scores": {
+        "rooms": 76,
+        "baby": 72,
+        "pool": 90,
+        "dining": 74,
+        "safety": 80,
+        "convenience": 82,
+        "location": 78,
+        "extras": 92
+      },
+      "roomsSummary": {
+        "en": "Apartment-style rooms for up to four, with a separate bedroom, a small kitchen and a sofa bed in the living area. Handy for spreading out, though decor is functional and varies across the three hotels in the complex.",
+        "fr": "Des chambres façon appartement jusqu'à quatre personnes, avec chambre séparée, petite cuisine et canapé-lit au salon. Pratique pour se répartir, même si la déco reste fonctionnelle et varie selon les trois hôtels du complexe."
+      },
+      "intro": {
+        "en": "A multi-hotel resort built around a beachfront water park with nine pools and slides. It is a five minute walk to the beach, and the whole place is geared to keeping children busy, from the mini club to evening shows.",
+        "fr": "Un complexe de plusieurs hôtels organisé autour d'un parc aquatique en front de mer, avec neuf bassins et toboggans. La plage est à cinq minutes à pied, et tout l'endroit vise à occuper les enfants, du mini-club aux spectacles du soir."
+      },
+      "highlights": {
+        "en": [
+          "Beach Club water park with nine pools and slides across themed zones.",
+          "Free mini club with a daily activities programme.",
+          "Apartment rooms with a kitchen and separate bedroom for four.",
+          "Playground, games room and nightly entertainment.",
+          "Five minute walk to the beach and the seafront."
+        ],
+        "fr": [
+          "Beach Club, parc aquatique de neuf bassins et toboggans en zones à thème.",
+          "Mini-club gratuit avec un programme d'activités quotidien.",
+          "Chambres-appartements avec cuisine et chambre séparée pour quatre.",
+          "Aire de jeux, salle de jeux et animations chaque soir.",
+          "Cinq minutes à pied de la plage et du front de mer."
+        ]
+      },
+      "pros": {
+        "en": [
+          "The on-site water park is a genuine day out on its own.",
+          "Apartment layout with a kitchen suits longer family stays.",
+          "Strong value, especially on all inclusive."
+        ],
+        "fr": [
+          "Le parc aquatique sur place vaut à lui seul une journée entière.",
+          "Le format appartement avec cuisine convient aux séjours plus longs.",
+          "Bon rapport qualité-prix, surtout en tout compris."
+        ]
+      },
+      "cons": {
+        "en": [
+          "Water park entry is only free with an all inclusive plan, otherwise it costs extra.",
+          "The complex feels dated in parts and can get very busy.",
+          "It is set back from the beach rather than right on it."
+        ],
+        "fr": [
+          "L'entrée au parc aquatique n'est offerte qu'en tout compris, sinon elle est payante.",
+          "Le complexe fait daté par endroits et se remplit vite.",
+          "Il est en retrait de la plage, pas directement en bord de mer."
+        ]
+      },
+      "verdict": {
+        "en": "Book the all inclusive plan and the water park becomes your holiday. Great fun for slide-mad kids, if you can look past some tired corners.",
+        "fr": "Prenez la formule tout compris et le parc aquatique devient vos vacances. Un vrai plaisir pour les enfants fans de toboggans, si l'on ferme les yeux sur quelques coins fatigués."
+      },
+      "parentTip": {
+        "en": "The water park is free only with all inclusive, so do the maths before booking room-only: for slide lovers, the all inclusive plan usually wins.",
+        "fr": "Le parc aquatique n'est gratuit qu'en tout compris : faites le calcul avant de réserver en chambre seule. Pour les fans de toboggans, le tout compris l'emporte souvent."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "Nine pools and slides on site",
+            "fr": "Neuf bassins et toboggans sur place"
+          }
+        },
+        {
+          "icon": "🍳",
+          "label": {
+            "en": "Kitchen",
+            "fr": "Cuisine"
+          },
+          "value": {
+            "en": "Apartment rooms with a kitchen",
+            "fr": "Chambres-appartements avec cuisine"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Mini club",
+            "fr": "Mini-club"
+          },
+          "value": {
+            "en": "Free, daily programme",
+            "fr": "Gratuit, programme quotidien"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Five minute walk",
+            "fr": "Cinq minutes à pied"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Pension"
+          },
+          "value": {
+            "en": "All inclusive recommended",
+            "fr": "Tout compris conseillé"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport",
+            "fr": "Aéroport"
+          },
+          "value": {
+            "en": "About 20 minutes",
+            "fr": "Environ 20 minutes"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "Beach Club water park",
+            "fr": "Parc aquatique Beach Club"
+          },
+          "detail": {
+            "en": "Nine pools and slides across themed areas.",
+            "fr": "Neuf bassins et toboggans en zones à thème."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Full day",
+            "fr": "Journée"
+          }
+        },
+        {
+          "emoji": "🎨",
+          "name": {
+            "en": "Mini club",
+            "fr": "Mini-club"
+          },
+          "detail": {
+            "en": "Free crafts, games and group activities.",
+            "fr": "Bricolages, jeux et activités de groupe, gratuits."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🎤",
+          "name": {
+            "en": "Evening shows",
+            "fr": "Spectacles du soir"
+          },
+          "detail": {
+            "en": "Family entertainment after dinner.",
+            "fr": "Animations familiales après le dîner."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soir"
+          }
+        },
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Beach afternoon",
+            "fr": "Après-midi plage"
+          },
+          "detail": {
+            "en": "Short walk down to the Benalmádena sand.",
+            "fr": "Courte descente jusqu'au sable de Benalmádena."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast buffet",
+            "fr": "Buffet petit-déjeuner"
+          },
+          "note": {
+            "en": "Fuel up before the water park opens.",
+            "fr": "On fait le plein avant l'ouverture du parc."
+          }
+        },
+        {
+          "time": "10:30",
+          "title": {
+            "en": "Water park",
+            "fr": "Parc aquatique"
+          },
+          "note": {
+            "en": "Slides and pools while it is quieter.",
+            "fr": "Toboggans et bassins pendant les heures calmes."
+          }
+        },
+        {
+          "time": "13:30",
+          "title": {
+            "en": "Lunch and rest",
+            "fr": "Déjeuner et repos"
+          },
+          "note": {
+            "en": "Included lunch at the park restaurant.",
+            "fr": "Déjeuner inclus au restaurant du parc."
+          }
+        },
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Mini club",
+            "fr": "Mini-club"
+          },
+          "note": {
+            "en": "Crafts and games out of the sun.",
+            "fr": "Bricolages et jeux à l'abri du soleil."
+          }
+        },
+        {
+          "time": "20:30",
+          "title": {
+            "en": "Evening show",
+            "fr": "Spectacle du soir"
+          },
+          "note": {
+            "en": "Family entertainment before bed.",
+            "fr": "Animation familiale avant le coucher."
+          }
+        }
+      ],
+      "ageNotes": {
+        "toddler": {
+          "en": "There are shallow zones and a playground, but the resort is busy and the focus is the bigger water park, so keep little ones close.",
+          "fr": "Il y a des zones peu profondes et une aire de jeux, mais l'endroit est animé et centré sur le grand parc aquatique : gardez les petits près de vous."
+        },
+        "kid": {
+          "en": "The natural fit here: slides all day and a free mini club to break it up.",
+          "fr": "L'âge parfait ici : toboggans toute la journée et un mini-club gratuit pour souffler."
+        },
+        "teen": {
+          "en": "Bigger slides and the games room keep them going, though nightlife is family oriented.",
+          "fr": "Grands toboggans et salle de jeux les tiennent, même si les soirées restent familiales."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the water park included?",
+            "fr": "Le parc aquatique est-il inclus ?"
+          },
+          "a": {
+            "en": "It is free for guests on an all inclusive plan. On other board types there is an extra charge, so factor that in.",
+            "fr": "Il est gratuit pour les clients en tout compris. Sur les autres formules, un supplément s'applique : tenez-en compte."
+          }
+        },
+        {
+          "q": {
+            "en": "Do the rooms have a kitchen?",
+            "fr": "Les chambres ont-elles une cuisine ?"
+          },
+          "a": {
+            "en": "Yes, rooms are apartment style with a kitchen, separate bedroom and sofa bed, sleeping up to four.",
+            "fr": "Oui, les chambres sont de type appartement avec cuisine, chambre séparée et canapé-lit, jusqu'à quatre personnes."
+          }
+        },
+        {
+          "q": {
+            "en": "How far is the beach?",
+            "fr": "À quelle distance est la plage ?"
+          },
+          "a": {
+            "en": "The beach is about a five minute walk downhill from the resort.",
+            "fr": "La plage est à environ cinq minutes à pied en descendant du complexe."
+          }
+        }
+      ]
+    },
+    {
+      "key": "costa-higueron-hilton-fuengirola",
+      "destinationKey": "costa-del-sol",
+      "name": "Higuerón Hotel Málaga, Curio Collection by Hilton",
+      "area": {
+        "en": "Fuengirola",
+        "fr": "Fuengirola"
+      },
+      "lat": 36.5525,
+      "lng": -4.6382,
+      "zoom": 13,
+      "address": "Higuerón Hotel Málaga, Curio Collection by Hilton, Fuengirola, Spain",
+      "priceTier": 4,
+      "priceFrom": 245,
+      "ages": [
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "family-suites",
+        "beach-access",
+        "water-slides"
+      ],
+      "photos": [
+        "infinityPoolSea",
+        "poolDusk",
+        "hotelTowerGreen"
+      ],
+      "scores": {
+        "rooms": 90,
+        "baby": 70,
+        "pool": 88,
+        "dining": 90,
+        "safety": 88,
+        "convenience": 78,
+        "location": 82,
+        "extras": 84
+      },
+      "roomsSummary": {
+        "en": "Polished, contemporary rooms with quality beds and generous family options that comfortably take two adults and two children. Higher floors get the sea views that define the place.",
+        "fr": "Des chambres modernes et soignées, avec de bonnes literies et des formules familiales généreuses pour deux adultes et deux enfants. Les étages élevés offrent les vues mer qui font la réputation des lieux."
+      },
+      "intro": {
+        "en": "The upscale, design-led choice above Fuengirola, part of Hilton's Curio Collection. It pairs a spectacular rooftop infinity pool with a children's splash zone and a play area, plus a free shuttle down to Carvajal beach.",
+        "fr": "Le choix haut de gamme et design au-dessus de Fuengirola, membre de la Curio Collection de Hilton. Il marie une spectaculaire piscine à débordement sur le toit à une zone splash et une aire de jeux pour enfants, avec une navette gratuite jusqu'à la plage de Carvajal."
+      },
+      "highlights": {
+        "en": [
+          "Rooftop infinity pool with sweeping sea views.",
+          "Children's splash zone and an outdoor play area.",
+          "Indoor pool plus two outdoor pools for cooler days.",
+          "Free shuttle to Carvajal beach, under a kilometre away.",
+          "Strong dining and a big wellness offer for parents."
+        ],
+        "fr": [
+          "Piscine à débordement sur le toit, avec vue mer panoramique.",
+          "Zone splash pour enfants et aire de jeux en plein air.",
+          "Piscine intérieure et deux piscines extérieures pour les jours plus frais.",
+          "Navette gratuite vers la plage de Carvajal, à moins d'un kilomètre.",
+          "Belle restauration et grande offre bien-être pour les parents."
+        ]
+      },
+      "pros": {
+        "en": [
+          "Genuinely smart rooms and grown-up design, rare at family resorts.",
+          "The infinity pool and splash zone please parents and kids alike.",
+          "Excellent food and a serious spa when you want a break."
+        ],
+        "fr": [
+          "Des chambres vraiment élégantes et un design adulte, rares en resort familial.",
+          "La piscine à débordement et la zone splash plaisent aux parents comme aux enfants.",
+          "Une cuisine excellente et un vrai spa quand on veut souffler."
+        ]
+      },
+      "cons": {
+        "en": [
+          "It sits above town, so you rely on the shuttle or a car for the beach.",
+          "The vibe leans grown-up and design-led rather than a dedicated kids resort.",
+          "Prices are the highest of our Fuengirola picks."
+        ],
+        "fr": [
+          "Il domine la ville : on dépend de la navette ou d'une voiture pour la plage.",
+          "L'ambiance penche vers l'adulte et le design plutôt que le resort dédié aux enfants.",
+          "Les tarifs sont les plus élevés de nos choix à Fuengirola."
+        ]
+      },
+      "verdict": {
+        "en": "For parents who want style, good food and a wow pool without going fully child-centric, this is the pick. Just plan around needing the shuttle to reach the sand.",
+        "fr": "Pour des parents qui veulent du style, une bonne table et une piscine spectaculaire sans tout centrer sur les enfants, c'est le bon choix. Prévoyez simplement la navette pour rejoindre le sable."
+      },
+      "parentTip": {
+        "en": "Time the beach shuttle around nap schedules and check the day's departures at reception, since it runs to a set timetable rather than on demand.",
+        "fr": "Calez la navette plage sur les horaires de sieste et vérifiez les départs du jour à la réception : elle suit un horaire fixe, pas à la demande."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏙️",
+          "label": {
+            "en": "Style",
+            "fr": "Style"
+          },
+          "value": {
+            "en": "Design-led Hilton Curio",
+            "fr": "Hilton Curio, design soigné"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Rooftop infinity plus splash zone",
+            "fr": "Débordement sur le toit et zone splash"
+          }
+        },
+        {
+          "icon": "🚐",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Free shuttle to Carvajal",
+            "fr": "Navette gratuite vers Carvajal"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Dining",
+            "fr": "Restauration"
+          },
+          "value": {
+            "en": "Multiple quality restaurants",
+            "fr": "Plusieurs restaurants de qualité"
+          }
+        },
+        {
+          "icon": "💆",
+          "label": {
+            "en": "Wellness",
+            "fr": "Bien-être"
+          },
+          "value": {
+            "en": "Large spa and sport club",
+            "fr": "Grand spa et club sportif"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport",
+            "fr": "Aéroport"
+          },
+          "value": {
+            "en": "About 20 minutes",
+            "fr": "Environ 20 minutes"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🌅",
+          "name": {
+            "en": "Rooftop pool",
+            "fr": "Piscine sur le toit"
+          },
+          "detail": {
+            "en": "Infinity pool with sea views for the whole family.",
+            "fr": "Piscine à débordement avec vue mer pour toute la famille."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        },
+        {
+          "emoji": "💦",
+          "name": {
+            "en": "Splash zone",
+            "fr": "Zone splash"
+          },
+          "detail": {
+            "en": "Shallow water play for younger children.",
+            "fr": "Jeux d'eau peu profonds pour les plus jeunes."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Carvajal beach",
+            "fr": "Plage de Carvajal"
+          },
+          "detail": {
+            "en": "Free shuttle to a calm family beach.",
+            "fr": "Navette gratuite vers une plage familiale tranquille."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journée"
+          }
+        },
+        {
+          "emoji": "🚴",
+          "name": {
+            "en": "Sport club",
+            "fr": "Club sportif"
+          },
+          "detail": {
+            "en": "Courts and classes for active teens.",
+            "fr": "Terrains et cours pour ados actifs."
+          },
+          "ages": [
+            "teen"
+          ],
+          "time": {
+            "en": "Flexible",
+            "fr": "Flexible"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast with a view",
+            "fr": "Petit-déjeuner avec vue"
+          },
+          "note": {
+            "en": "Quality buffet, quieter than the big resorts.",
+            "fr": "Buffet de qualité, plus calme que les gros resorts."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Splash zone",
+            "fr": "Zone splash"
+          },
+          "note": {
+            "en": "Water play before the sun peaks.",
+            "fr": "Jeux d'eau avant le plein soleil."
+          }
+        },
+        {
+          "time": "12:30",
+          "title": {
+            "en": "Shuttle to the beach",
+            "fr": "Navette vers la plage"
+          },
+          "note": {
+            "en": "Check the timetable at reception.",
+            "fr": "Vérifiez l'horaire à la réception."
+          }
+        },
+        {
+          "time": "16:30",
+          "title": {
+            "en": "Rooftop infinity pool",
+            "fr": "Piscine à débordement sur le toit"
+          },
+          "note": {
+            "en": "Sea views as the day cools.",
+            "fr": "Vue mer à la fraîche."
+          }
+        },
+        {
+          "time": "19:30",
+          "title": {
+            "en": "Family dinner",
+            "fr": "Dîner en famille"
+          },
+          "note": {
+            "en": "One of the on-site restaurants.",
+            "fr": "Dans l'un des restaurants de l'hôtel."
+          }
+        }
+      ],
+      "ageNotes": {
+        "toddler": {
+          "en": "The splash zone and play area work well, but the hotel is not a dedicated toddler resort, so pack your own pool floats and shade.",
+          "fr": "La zone splash et l'aire de jeux fonctionnent bien, mais l'hôtel n'est pas un resort dédié aux tout-petits : prévoyez vos flotteurs et de l'ombre."
+        },
+        "kid": {
+          "en": "Splash zone, big pools and the beach shuttle make for full, varied days.",
+          "fr": "Zone splash, grandes piscines et navette plage remplissent des journées variées."
+        },
+        "teen": {
+          "en": "The infinity pool, sport club and stylish setting suit older kids who have outgrown mini clubs.",
+          "fr": "La piscine à débordement, le club sportif et le cadre élégant conviennent aux grands qui ont passé l'âge des mini-clubs."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is it on the beach?",
+            "fr": "Est-il en bord de plage ?"
+          },
+          "a": {
+            "en": "No, it sits above town, but a free shuttle runs to Carvajal beach under a kilometre away. Check the daily timetable.",
+            "fr": "Non, il domine la ville, mais une navette gratuite dessert la plage de Carvajal à moins d'un kilomètre. Vérifiez l'horaire du jour."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it suitable for young children?",
+            "fr": "Est-il adapté aux jeunes enfants ?"
+          },
+          "a": {
+            "en": "Yes, there is a splash zone, a play area and family rooms, though the overall style is more grown-up than a dedicated kids resort.",
+            "fr": "Oui, il y a une zone splash, une aire de jeux et des chambres familiales, même si l'ensemble est plus adulte qu'un resort pour enfants."
+          }
+        },
+        {
+          "q": {
+            "en": "Can you use the infinity pool with kids?",
+            "fr": "Peut-on profiter de la piscine à débordement avec des enfants ?"
+          },
+          "a": {
+            "en": "Yes, the rooftop pool is open to families, alongside the indoor and outdoor pools and the children's splash zone.",
+            "fr": "Oui, la piscine sur le toit est ouverte aux familles, en plus des piscines intérieure et extérieures et de la zone splash."
+          }
+        }
+      ]
+    },
+    {
+      "key": "costa-pyr-marbella-puerto-banus",
+      "destinationKey": "costa-del-sol",
+      "name": "PYR Marbella",
+      "area": {
+        "en": "Puerto Banús, Marbella",
+        "fr": "Puerto Banús, Marbella"
+      },
+      "lat": 36.4879,
+      "lng": -4.9498,
+      "zoom": 13,
+      "address": "PYR Marbella, Puerto Banús, Marbella, Spain",
+      "priceTier": 3,
+      "priceFrom": 135,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "self-catering",
+        "family-suites",
+        "beach-access",
+        "city-base"
+      ],
+      "clubFree": true,
+      "photos": [
+        "villaModern",
+        "poolPalms",
+        "coastTown"
+      ],
+      "scores": {
+        "rooms": 72,
+        "baby": 74,
+        "pool": 68,
+        "dining": 66,
+        "safety": 80,
+        "convenience": 86,
+        "location": 92,
+        "extras": 74
+      },
+      "roomsSummary": {
+        "en": "Apartments and studio family rooms with a kitchenette and a furnished balcony, so you get Puerto Banús at aparthotel prices. Furnishings are simple and vary by unit, so ask for a refurbished one.",
+        "fr": "Des appartements et studios familiaux avec kitchenette et balcon meublé : Puerto Banús au tarif d'un appart-hôtel. Le mobilier reste simple et inégal selon les logements, demandez une version rénovée."
+      },
+      "intro": {
+        "en": "The smart-value family base in Marbella's glossy Puerto Banús, a short walk from the beach and the marina. Kitchenettes keep costs down, and a summer Pirate Kids Club plus two pools mean the children are looked after while you enjoy the location.",
+        "fr": "Le pied-à-terre familial malin dans le clinquant Puerto Banús de Marbella, à quelques minutes à pied de la plage et du port. Les kitchenettes allègent la note, et un Pirate Kids Club l'été plus deux piscines occupent les enfants pendant que vous profitez du quartier."
+      },
+      "highlights": {
+        "en": [
+          "Walkable to Puerto Banús beach, marina and shops.",
+          "Kitchenette in every apartment to keep the budget in check.",
+          "Two pools, one dedicated to children.",
+          "Summer Pirate Kids Club with an entertainment programme.",
+          "Studio family rooms and larger suites for bigger groups."
+        ],
+        "fr": [
+          "À pied de la plage, du port et des boutiques de Puerto Banús.",
+          "Kitchenette dans chaque appartement pour maîtriser le budget.",
+          "Deux piscines, dont une réservée aux enfants.",
+          "Pirate Kids Club l'été avec un programme d'animation.",
+          "Studios familiaux et suites plus grandes pour les groupes."
+        ]
+      },
+      "pros": {
+        "en": [
+          "A genuine Marbella location without the Marbella room rate.",
+          "Self-catering flexibility right by the beach and marina.",
+          "Free summer kids club is a bonus at this price."
+        ],
+        "fr": [
+          "Une vraie adresse à Marbella sans le tarif de Marbella.",
+          "La souplesse de la cuisine en appartement, à deux pas de la plage et du port.",
+          "Le club enfants gratuit l'été, un plus à ce prix."
+        ]
+      },
+      "cons": {
+        "en": [
+          "It is a large, older aparthotel and some rooms need updating.",
+          "Pools are modest and get crowded, this is not a resort water park.",
+          "Puerto Banús gets lively and noisy at night in summer."
+        ],
+        "fr": [
+          "C'est un grand appart-hôtel ancien et certaines chambres méritent un rafraîchissement.",
+          "Les piscines sont modestes et se remplissent : ce n'est pas un parc aquatique.",
+          "Puerto Banús devient animé et bruyant le soir en été."
+        ]
+      },
+      "verdict": {
+        "en": "The clever way to give the family a Marbella holiday: location and kitchenettes do the heavy lifting, and you skip the eye-watering luxury tariff.",
+        "fr": "La façon maligne d'offrir des vacances à Marbella à la famille : l'emplacement et les kitchenettes font le travail, sans le tarif luxe qui pique les yeux."
+      },
+      "parentTip": {
+        "en": "Self-cater breakfast and picnic lunches from the local supermarket, then spend the savings on one memorable dinner out in the marina.",
+        "fr": "Faites petit-déjeuner et pique-niques avec la supérette du coin, puis mettez l'économie dans un beau dîner au port."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛥️",
+          "label": {
+            "en": "Location",
+            "fr": "Emplacement"
+          },
+          "value": {
+            "en": "Puerto Banús, walk to marina",
+            "fr": "Puerto Banús, port à pied"
+          }
+        },
+        {
+          "icon": "🍳",
+          "label": {
+            "en": "Kitchen",
+            "fr": "Cuisine"
+          },
+          "value": {
+            "en": "Kitchenette in every unit",
+            "fr": "Kitchenette dans chaque logement"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Two, one for children",
+            "fr": "Deux, dont une pour enfants"
+          }
+        },
+        {
+          "icon": "🏴‍☠️",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free Pirate club in summer",
+            "fr": "Pirate Club gratuit l'été"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Short walk",
+            "fr": "Courte marche"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport",
+            "fr": "Aéroport"
+          },
+          "value": {
+            "en": "About 45 minutes",
+            "fr": "Environ 45 minutes"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏴‍☠️",
+          "name": {
+            "en": "Pirate Kids Club",
+            "fr": "Pirate Kids Club"
+          },
+          "detail": {
+            "en": "Summer entertainment programme for children.",
+            "fr": "Programme d'animation estival pour enfants."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Daytime",
+            "fr": "Journée"
+          }
+        },
+        {
+          "emoji": "🛥️",
+          "name": {
+            "en": "Marina walk",
+            "fr": "Balade au port"
+          },
+          "detail": {
+            "en": "Stroll the Puerto Banús marina and yachts.",
+            "fr": "Flânerie le long du port et des yachts de Puerto Banús."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soir"
+          }
+        },
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Beach morning",
+            "fr": "Matinée plage"
+          },
+          "detail": {
+            "en": "Short walk to the Puerto Banús sand.",
+            "fr": "Courte marche jusqu'au sable de Puerto Banús."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🎾",
+          "name": {
+            "en": "Tennis court",
+            "fr": "Court de tennis"
+          },
+          "detail": {
+            "en": "On-site court for a knockabout with teens.",
+            "fr": "Court sur place pour taper la balle avec les ados."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Flexible",
+            "fr": "Flexible"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Breakfast in the apartment",
+            "fr": "Petit-déjeuner à l'appartement"
+          },
+          "note": {
+            "en": "Cheaper and calmer with the kitchenette.",
+            "fr": "Moins cher et plus calme avec la kitchenette."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Beach walk",
+            "fr": "Marche vers la plage"
+          },
+          "note": {
+            "en": "Short stroll to the Puerto Banús sand.",
+            "fr": "Petite marche jusqu'au sable de Puerto Banús."
+          }
+        },
+        {
+          "time": "12:30",
+          "title": {
+            "en": "Pool and picnic",
+            "fr": "Piscine et pique-nique"
+          },
+          "note": {
+            "en": "Children's pool and lunch back at base.",
+            "fr": "Pataugeoire et déjeuner de retour à l'appartement."
+          }
+        },
+        {
+          "time": "15:00",
+          "title": {
+            "en": "Pirate club",
+            "fr": "Pirate Club"
+          },
+          "note": {
+            "en": "Summer activities while you relax.",
+            "fr": "Activités estivales pendant que vous soufflez."
+          }
+        },
+        {
+          "time": "19:30",
+          "title": {
+            "en": "Dinner in the marina",
+            "fr": "Dîner au port"
+          },
+          "note": {
+            "en": "One nice meal out with the savings.",
+            "fr": "Un bon repas dehors avec les économies."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "The kitchenette and fridge make bottles and purees straightforward, though pools are small so pick shaded times.",
+          "fr": "La kitchenette et le frigo simplifient biberons et purées, mais les piscines sont petites : privilégiez les créneaux à l'ombre."
+        },
+        "toddler": {
+          "en": "The children's pool and summer club keep little ones occupied close to your door.",
+          "fr": "La pataugeoire et le club estival occupent les petits tout près de chez vous."
+        },
+        "kid": {
+          "en": "Beach, pool and the buzz of the marina make for easy, cheap-to-run days.",
+          "fr": "Plage, piscine et l'animation du port font des journées faciles et peu coûteuses."
+        },
+        "teen": {
+          "en": "Puerto Banús gives older ones something to explore, with the beach and shops on the doorstep.",
+          "fr": "Puerto Banús donne aux grands de quoi explorer, avec la plage et les boutiques à deux pas."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is this actually in Marbella?",
+            "fr": "Est-ce vraiment à Marbella ?"
+          },
+          "a": {
+            "en": "Yes, it is in Puerto Banús, the marina district of Marbella, a short walk from the beach and the town's central port area.",
+            "fr": "Oui, c'est à Puerto Banús, le quartier du port de Marbella, à quelques minutes à pied de la plage et du centre portuaire."
+          }
+        },
+        {
+          "q": {
+            "en": "Do the rooms have kitchens?",
+            "fr": "Les chambres ont-elles une cuisine ?"
+          },
+          "a": {
+            "en": "Yes, apartments and studio family rooms come with a kitchenette, which is what keeps a Marbella stay affordable here.",
+            "fr": "Oui, les appartements et studios familiaux disposent d'une kitchenette, ce qui rend un séjour à Marbella abordable ici."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it noisy at night?",
+            "fr": "Est-ce bruyant la nuit ?"
+          },
+          "a": {
+            "en": "Puerto Banús is lively in summer, so ask for a room away from the street side if you have early sleepers.",
+            "fr": "Puerto Banús est animé l'été : demandez une chambre côté cour si vos enfants se couchent tôt."
+          }
+        }
+      ]
+    },
+    {
+      "key": "costa-kempinski-bahia-estepona",
+      "destinationKey": "costa-del-sol",
+      "name": "Kempinski Hotel Bahía",
+      "area": {
+        "en": "Estepona",
+        "fr": "Estepona"
+      },
+      "lat": 36.4283,
+      "lng": -5.0398,
+      "zoom": 13,
+      "address": "Kempinski Hotel Bahía, Estepona, Spain",
+      "priceTier": 4,
+      "priceFrom": 340,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "beach-access",
+        "baby-friendly",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "infinityPoolSea",
+        "poolPalms",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 94,
+        "baby": 90,
+        "pool": 88,
+        "dining": 92,
+        "safety": 92,
+        "convenience": 80,
+        "location": 86,
+        "extras": 88
+      },
+      "roomsSummary": {
+        "en": "Spacious, genuinely luxurious rooms and family suites with fine linens and marble bathrooms. Baby equipment and bottle sterilisation come on request, so travelling with little ones is properly catered for.",
+        "fr": "Des chambres et suites familiales spacieuses et vraiment luxueuses, avec beau linge et salles de bains en marbre. Matériel bébé et stérilisation des biberons sur demande : voyager avec des tout-petits est réellement pris en compte."
+      },
+      "intro": {
+        "en": "The grand beachfront choice on the Estepona coast, wrapped in award-winning subtropical gardens. Three outdoor pools, a children's pool and a free Kids Club for ages four to twelve make luxury genuinely workable with a family.",
+        "fr": "Le grand choix en front de mer sur la côte d'Estepona, niché dans des jardins subtropicaux primés. Trois piscines extérieures, une pataugeoire et un Kids Club gratuit de quatre à douze ans rendent le luxe vraiment vivable en famille."
+      },
+      "highlights": {
+        "en": [
+          "Three outdoor pools, one heated off season, plus a shaded children's pool.",
+          "Free Kids Club for ages four to twelve, with under fours welcome alongside a parent.",
+          "Direct beach access through subtropical gardens.",
+          "Pushchair-friendly paths and baby equipment on request.",
+          "A private doctor on call and the hospital six minutes away."
+        ],
+        "fr": [
+          "Trois piscines extérieures, une chauffée hors saison, et une pataugeoire ombragée.",
+          "Kids Club gratuit de quatre à douze ans, les moins de quatre ans bienvenus avec un parent.",
+          "Accès direct à la plage à travers les jardins subtropicaux.",
+          "Allées adaptées aux poussettes et matériel bébé sur demande.",
+          "Médecin privé de garde et hôpital à six minutes."
+        ]
+      },
+      "pros": {
+        "en": [
+          "Real five-star comfort that still takes families seriously.",
+          "Beautiful gardens and beachfront setting with a heated pool option.",
+          "Thoughtful baby and toddler support, from sterilisers to shaded pools."
+        ],
+        "fr": [
+          "Un vrai confort cinq étoiles qui prend les familles au sérieux.",
+          "De beaux jardins en front de mer et une option piscine chauffée.",
+          "Des services bébé et tout-petit bien pensés, du stérilisateur aux bassins ombragés."
+        ]
+      },
+      "cons": {
+        "en": [
+          "The price is a significant step up from everything else on this list.",
+          "It is between towns, so you need a car or taxis to explore.",
+          "Babysitting and some extras carry an additional charge."
+        ],
+        "fr": [
+          "Le tarif fait un vrai bond par rapport au reste de cette sélection.",
+          "Il est entre deux villes : une voiture ou des taxis sont nécessaires pour bouger.",
+          "Le baby-sitting et certains extras sont facturés en plus."
+        ]
+      },
+      "verdict": {
+        "en": "If the budget stretches, this is the family holiday where the parents relax too: luxury, gardens and the beach, with the children genuinely looked after.",
+        "fr": "Si le budget le permet, ce sont les vacances où les parents décompressent aussi : luxe, jardins et plage, avec des enfants réellement pris en charge."
+      },
+      "parentTip": {
+        "en": "Ask for baby equipment and the bottle steriliser when you book, not on arrival, so everything is set up in the room before you land.",
+        "fr": "Demandez le matériel bébé et le stérilisateur à la réservation, pas à l'arrivée, pour que tout soit installé en chambre avant votre atterrissage."
+      },
+      "atAGlance": [
+        {
+          "icon": "⭐",
+          "label": {
+            "en": "Category",
+            "fr": "Catégorie"
+          },
+          "value": {
+            "en": "Five-star beachfront resort",
+            "fr": "Resort cinq étoiles en front de mer"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Three outdoor plus children's pool",
+            "fr": "Trois extérieures et une pataugeoire"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids Club",
+            "fr": "Kids Club"
+          },
+          "value": {
+            "en": "Free, ages four to twelve",
+            "fr": "Gratuit, de quatre à douze ans"
+          }
+        },
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Baby kit",
+            "fr": "Matériel bébé"
+          },
+          "value": {
+            "en": "Equipment and sterilisers on request",
+            "fr": "Matériel et stérilisateurs sur demande"
+          }
+        },
+        {
+          "icon": "🌴",
+          "label": {
+            "en": "Setting",
+            "fr": "Cadre"
+          },
+          "value": {
+            "en": "Subtropical gardens to the beach",
+            "fr": "Jardins subtropicaux jusqu'à la plage"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport",
+            "fr": "Aéroport"
+          },
+          "value": {
+            "en": "About 50 minutes",
+            "fr": "Environ 50 minutes"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🧒",
+          "name": {
+            "en": "Kempi Kids Club",
+            "fr": "Kempi Kids Club"
+          },
+          "detail": {
+            "en": "Free water games, baking and clay workshops.",
+            "fr": "Jeux d'eau, pâtisserie et ateliers d'argile, gratuits."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Daytime",
+            "fr": "Journée"
+          }
+        },
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Beach through the gardens",
+            "fr": "Plage par les jardins"
+          },
+          "detail": {
+            "en": "Direct access across the subtropical grounds.",
+            "fr": "Accès direct à travers les jardins subtropicaux."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journée"
+          }
+        },
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Heated pool swim",
+            "fr": "Piscine chauffée"
+          },
+          "detail": {
+            "en": "A warm pool option even in cooler months.",
+            "fr": "Une piscine chauffée même hors saison."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🎨",
+          "name": {
+            "en": "Garden crafts",
+            "fr": "Ateliers au jardin"
+          },
+          "detail": {
+            "en": "Painting and baking while parents relax.",
+            "fr": "Peinture et pâtisserie pendant que les parents soufflent."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Garden breakfast",
+            "fr": "Petit-déjeuner au jardin"
+          },
+          "note": {
+            "en": "Relaxed start with sea air.",
+            "fr": "Départ tranquille avec l'air marin."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Kids Club",
+            "fr": "Kids Club"
+          },
+          "note": {
+            "en": "Free workshops for four to twelves.",
+            "fr": "Ateliers gratuits pour les quatre-douze ans."
+          }
+        },
+        {
+          "time": "12:30",
+          "title": {
+            "en": "Children's pool",
+            "fr": "Pataugeoire"
+          },
+          "note": {
+            "en": "Shaded and gentle for little ones.",
+            "fr": "Ombragée et douce pour les petits."
+          }
+        },
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Beach time",
+            "fr": "Temps plage"
+          },
+          "note": {
+            "en": "Straight through the gardens to the sand.",
+            "fr": "Tout droit par les jardins jusqu'au sable."
+          }
+        },
+        {
+          "time": "19:30",
+          "title": {
+            "en": "Early family dinner",
+            "fr": "Dîner familial tôt"
+          },
+          "note": {
+            "en": "High chairs and a children's menu.",
+            "fr": "Chaises hautes et menu enfants."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Among the most baby-ready choices on the coast: sterilisers, baby equipment and pushchair-friendly paths throughout.",
+          "fr": "L'un des choix les plus adaptés aux bébés de la côte : stérilisateurs, matériel bébé et allées accessibles aux poussettes partout."
+        },
+        "toddler": {
+          "en": "A shaded children's pool and the free club take the under-fours with a parent, which is rare at this level.",
+          "fr": "Une pataugeoire ombragée et le club gratuit accueillent les moins de quatre ans avec un parent, chose rare à ce niveau."
+        },
+        "kid": {
+          "en": "The Kids Club, pools and beach fill the days, with the calm of a proper resort.",
+          "fr": "Le Kids Club, les piscines et la plage remplissent les journées, dans le calme d'un vrai resort."
+        },
+        "teen": {
+          "en": "The heated pool, beach and wellness offer suit older ones, though there is less of a teen scene here.",
+          "fr": "La piscine chauffée, la plage et le bien-être conviennent aux grands, même s'il y a peu d'ambiance ados."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the Kids Club free?",
+            "fr": "Le Kids Club est-il gratuit ?"
+          },
+          "a": {
+            "en": "Yes, the Kids Club is included for ages four to twelve. Under fours are welcome with a parent, and babysitting is available for a fee.",
+            "fr": "Oui, le Kids Club est inclus de quatre à douze ans. Les moins de quatre ans sont bienvenus avec un parent, et le baby-sitting est proposé en supplément."
+          }
+        },
+        {
+          "q": {
+            "en": "Can I get baby equipment?",
+            "fr": "Peut-on obtenir du matériel bébé ?"
+          },
+          "a": {
+            "en": "Yes, cots, baby equipment and bottle sterilisation are available on request. Ask when booking so it is ready on arrival.",
+            "fr": "Oui, lits bébé, matériel et stérilisation des biberons sont disponibles sur demande. Demandez à la réservation pour tout avoir à l'arrivée."
+          }
+        },
+        {
+          "q": {
+            "en": "Do you need a car?",
+            "fr": "Faut-il une voiture ?"
+          },
+          "a": {
+            "en": "The hotel sits between towns on the Estepona coast, so a car or taxis help if you want to explore beyond the resort.",
+            "fr": "L'hôtel se trouve entre deux villes sur la côte d'Estepona : une voiture ou des taxis aident pour sortir du resort."
+          }
+        }
+      ]
+    },
+    {
+      "key": "costa-sol-marbella-atalaya-park-estepona",
+      "destinationKey": "costa-del-sol",
+      "name": "Sol Marbella Estepona Atalaya Park by Meliá",
+      "area": {
+        "en": "Estepona",
+        "fr": "Estepona"
+      },
+      "lat": 36.4611,
+      "lng": -5.0021,
+      "zoom": 13,
+      "address": "Sol Marbella Estepona Atalaya Park by Meliá, Estepona, Spain",
+      "priceTier": 3,
+      "priceFrom": 120,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "water-slides",
+        "free-kids-club",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolPalms",
+        "resortLoungers",
+        "poolDuskPalms"
+      ],
+      "scores": {
+        "rooms": 74,
+        "baby": 80,
+        "pool": 88,
+        "dining": 76,
+        "safety": 84,
+        "convenience": 82,
+        "location": 84,
+        "extras": 86
+      },
+      "roomsSummary": {
+        "en": "Comfortable rooms with a private balcony looking over the gardens, pools or the mountains. Family rooms take four; they are simple and functional rather than stylish, but the gardens are the real draw.",
+        "fr": "Des chambres confortables avec balcon privé donnant sur les jardins, les piscines ou les montagnes. Les chambres familiales accueillent quatre personnes : simples et fonctionnelles plutôt que design, mais ce sont les jardins qui font la différence."
+      },
+      "intro": {
+        "en": "A sprawling garden resort on the beach between Estepona and Marbella, built for outdoor family days. Six pools, a Splash Park and seasonal Katmandu Adventures kids clubs from age five give children room to roam.",
+        "fr": "Un vaste resort-jardin en bord de plage entre Estepona et Marbella, taillé pour les journées dehors en famille. Six piscines, un Splash Park et les clubs enfants saisonniers Katmandu Adventures dès cinq ans laissent les enfants s'ébattre."
+      },
+      "highlights": {
+        "en": [
+          "Six swimming pools, including one designed for children.",
+          "Splash Park with water play for hot afternoons.",
+          "Katmandu Adventures kids clubs for all ages from five, in season.",
+          "Large mature gardens right beside Atalaya beach.",
+          "Family entertainment programme with shows and live music."
+        ],
+        "fr": [
+          "Six piscines, dont une pensée pour les enfants.",
+          "Splash Park et jeux d'eau pour les après-midis chauds.",
+          "Clubs Katmandu Adventures pour tous dès cinq ans, en saison.",
+          "Grands jardins matures juste à côté de la plage d'Atalaya.",
+          "Programme d'animation familial avec spectacles et musique live."
+        ]
+      },
+      "pros": {
+        "en": [
+          "Huge green grounds give young children space to run safely.",
+          "Six pools and a Splash Park mean the pool never feels full.",
+          "Beachfront location between Estepona and Marbella."
+        ],
+        "fr": [
+          "De vastes espaces verts où les jeunes enfants courent en sécurité.",
+          "Six piscines et un Splash Park : la piscine n'est jamais bondée.",
+          "Emplacement en bord de plage entre Estepona et Marbella."
+        ]
+      },
+      "cons": {
+        "en": [
+          "Rooms are dated and vary in quality across the resort.",
+          "The kids clubs and Splash Park run in season only, from age five.",
+          "It is spread out, which means a fair bit of walking with a buggy."
+        ],
+        "fr": [
+          "Les chambres sont datées et de qualité inégale selon les bâtiments.",
+          "Les clubs et le Splash Park ne fonctionnent qu'en saison, dès cinq ans.",
+          "L'ensemble est étendu, donc pas mal de marche avec la poussette."
+        ]
+      },
+      "verdict": {
+        "en": "A green, spacious resort where children can properly let loose. Come for the gardens, pools and beach, and forgive the rooms their age.",
+        "fr": "Un resort vert et spacieux où les enfants se défoulent pour de bon. On vient pour les jardins, les piscines et la plage, en pardonnant l'âge des chambres."
+      },
+      "parentTip": {
+        "en": "Ask for a room near the main pool and Splash Park to cut the daily walking, since the grounds are large and spread out.",
+        "fr": "Demandez une chambre près de la piscine principale et du Splash Park pour réduire la marche quotidienne : le domaine est grand et étalé."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Six, one for children",
+            "fr": "Six, dont une pour enfants"
+          }
+        },
+        {
+          "icon": "💦",
+          "label": {
+            "en": "Splash Park",
+            "fr": "Splash Park"
+          },
+          "value": {
+            "en": "Water play, in season",
+            "fr": "Jeux d'eau, en saison"
+          }
+        },
+        {
+          "icon": "🌳",
+          "label": {
+            "en": "Grounds",
+            "fr": "Domaine"
+          },
+          "value": {
+            "en": "Large mature gardens",
+            "fr": "Grands jardins matures"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids clubs",
+            "fr": "Clubs enfants"
+          },
+          "value": {
+            "en": "Katmandu, from age five",
+            "fr": "Katmandu, dès cinq ans"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Beside Atalaya beach",
+            "fr": "À côté de la plage d'Atalaya"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport",
+            "fr": "Aéroport"
+          },
+          "value": {
+            "en": "About 45 minutes",
+            "fr": "Environ 45 minutes"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "💦",
+          "name": {
+            "en": "Splash Park",
+            "fr": "Splash Park"
+          },
+          "detail": {
+            "en": "Water play area for cooling off in season.",
+            "fr": "Espace de jeux d'eau pour se rafraîchir en saison."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        },
+        {
+          "emoji": "🏕️",
+          "name": {
+            "en": "Katmandu Adventures",
+            "fr": "Katmandu Adventures"
+          },
+          "detail": {
+            "en": "Seasonal kids clubs for all ages from five.",
+            "fr": "Clubs enfants saisonniers pour tous dès cinq ans."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Daytime",
+            "fr": "Journée"
+          }
+        },
+        {
+          "emoji": "🌳",
+          "name": {
+            "en": "Garden explore",
+            "fr": "Exploration des jardins"
+          },
+          "detail": {
+            "en": "Space to run in the mature grounds.",
+            "fr": "De l'espace pour courir dans les jardins matures."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🎶",
+          "name": {
+            "en": "Evening entertainment",
+            "fr": "Animation du soir"
+          },
+          "detail": {
+            "en": "Shows and live music for the family.",
+            "fr": "Spectacles et musique live pour la famille."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soir"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast buffet",
+            "fr": "Buffet petit-déjeuner"
+          },
+          "note": {
+            "en": "Then straight out into the gardens.",
+            "fr": "Puis direction les jardins."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Pool morning",
+            "fr": "Matinée piscine"
+          },
+          "note": {
+            "en": "Pick a quieter pool, there are six.",
+            "fr": "Choisissez une piscine tranquille, il y en a six."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and shade",
+            "fr": "Déjeuner et ombre"
+          },
+          "note": {
+            "en": "Rest under the mature trees.",
+            "fr": "Repos sous les grands arbres."
+          }
+        },
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Splash Park",
+            "fr": "Splash Park"
+          },
+          "note": {
+            "en": "Water play as the heat drops.",
+            "fr": "Jeux d'eau quand la chaleur retombe."
+          }
+        },
+        {
+          "time": "20:30",
+          "title": {
+            "en": "Family show",
+            "fr": "Spectacle familial"
+          },
+          "note": {
+            "en": "Live music before bedtime.",
+            "fr": "Musique live avant le coucher."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Cots on request and lots of shaded garden space, though the resort is large so factor in the walking.",
+          "fr": "Lits bébé sur demande et beaucoup de jardin ombragé, mais le resort est grand : tenez compte de la marche."
+        },
+        "toddler": {
+          "en": "The children's pool and Splash Park suit little ones, with the gardens for toddling about.",
+          "fr": "La pataugeoire et le Splash Park conviennent aux petits, avec les jardins pour trottiner."
+        },
+        "kid": {
+          "en": "Six pools, the Splash Park and the Katmandu clubs make this an easy win from age five.",
+          "fr": "Six piscines, le Splash Park et les clubs Katmandu en font un choix évident dès cinq ans."
+        },
+        "teen": {
+          "en": "Beach, pools and evening shows keep them content, with Marbella a short drive for a change of scene.",
+          "fr": "Plage, piscines et spectacles du soir les contentent, Marbella étant à quelques minutes pour changer d'air."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "How many pools are there?",
+            "fr": "Combien y a-t-il de piscines ?"
+          },
+          "a": {
+            "en": "The resort has six swimming pools, including one designed for children, plus a Splash Park that runs in season.",
+            "fr": "Le resort compte six piscines, dont une pour les enfants, plus un Splash Park qui fonctionne en saison."
+          }
+        },
+        {
+          "q": {
+            "en": "From what age can children join the club?",
+            "fr": "À partir de quel âge les enfants peuvent-ils aller au club ?"
+          },
+          "a": {
+            "en": "The Katmandu Adventures kids clubs cater for all ages from five and run seasonally, so check the calendar for your dates.",
+            "fr": "Les clubs Katmandu Adventures accueillent tous les enfants dès cinq ans et fonctionnent en saison : vérifiez le calendrier pour vos dates."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it right on the beach?",
+            "fr": "Est-ce en bord de plage ?"
+          },
+          "a": {
+            "en": "Yes, the gardens sit beside Atalaya beach between Estepona and Marbella, with direct access to the sand.",
+            "fr": "Oui, les jardins bordent la plage d'Atalaya entre Estepona et Marbella, avec accès direct au sable."
+          }
+        }
+      ]
+    },
+    {
+      "key": "costa-la-cala-resort-mijas",
+      "destinationKey": "costa-del-sol",
+      "name": "La Cala Resort",
+      "area": {
+        "en": "Mijas",
+        "fr": "Mijas"
+      },
+      "lat": 36.5352,
+      "lng": -4.7085,
+      "zoom": 13,
+      "address": "La Cala Resort, Mijas, Spain",
+      "priceTier": 3,
+      "priceFrom": 160,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid"
+      ],
+      "amenities": [
+        "pool",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "photos": [
+        "poolPalms",
+        "villaPoolGreen",
+        "poolDusk"
+      ],
+      "scores": {
+        "rooms": 84,
+        "baby": 72,
+        "pool": 80,
+        "dining": 84,
+        "safety": 86,
+        "convenience": 66,
+        "location": 74,
+        "extras": 78
+      },
+      "roomsSummary": {
+        "en": "Boutique-hotel rooms and suites that are calm, spacious and better finished than most resort rooms on the coast. Family rooms take four, though there are no kitchenettes, so it is a hotel stay rather than self-catering.",
+        "fr": "Des chambres et suites d'hôtel-boutique, calmes, spacieuses et mieux finies que la plupart des chambres de resort de la côte. Les chambres familiales accueillent quatre personnes, mais sans kitchenette : c'est un séjour d'hôtel, pas en appartement."
+      },
+      "intro": {
+        "en": "A calm inland resort tucked between the Sierra de Mijas and the sea, built around three golf courses and quiet gardens. It suits families who want space, good food and a slower pace, with the beach a short drive away.",
+        "fr": "Un resort au calme, à l'intérieur des terres, niché entre la Sierra de Mijas et la mer, autour de trois parcours de golf et de jardins paisibles. Il convient aux familles qui cherchent l'espace, la bonne cuisine et un rythme plus lent, la plage étant à quelques minutes en voiture."
+      },
+      "highlights": {
+        "en": [
+          "Quiet outdoor pool with a children's pool and lawns.",
+          "Indoor pool and spa for cooler or rainy days.",
+          "Four restaurants with kids' menus and genuinely good food.",
+          "Wide open grounds and gardens away from the crowds.",
+          "Beach and Fuengirola about ten minutes away by car."
+        ],
+        "fr": [
+          "Piscine extérieure tranquille avec pataugeoire et pelouses.",
+          "Piscine intérieure et spa pour les jours frais ou de pluie.",
+          "Quatre restaurants avec menus enfants et une vraie bonne cuisine.",
+          "De grands espaces et jardins loin de la foule.",
+          "Plage et Fuengirola à une dizaine de minutes en voiture."
+        ]
+      },
+      "pros": {
+        "en": [
+          "Peaceful and spacious, a real break from the busy beach resorts.",
+          "Rooms and food are a cut above the typical family resort.",
+          "Indoor pool and spa give you options when the weather turns."
+        ],
+        "fr": [
+          "Paisible et spacieux, une vraie coupure avec les resorts de plage bondés.",
+          "Chambres et cuisine d'un niveau supérieur au resort familial classique.",
+          "Piscine intérieure et spa offrent des options quand le temps se gâte."
+        ]
+      },
+      "cons": {
+        "en": [
+          "You really need a car, the beach and towns are a drive away.",
+          "There is no dedicated kids club programme like the beach resorts.",
+          "The golf-resort focus means fewer built-in child activities."
+        ],
+        "fr": [
+          "Une voiture est indispensable : plage et villes sont à distance de route.",
+          "Pas de véritable club enfants comme dans les resorts de plage.",
+          "L'orientation golf implique moins d'activités enfants intégrées."
+        ]
+      },
+      "verdict": {
+        "en": "The quiet, grown-up choice for families who would rather have space and a good dinner than a water park. Bring a car and enjoy the calm.",
+        "fr": "Le choix calme et adulte pour les familles qui préfèrent l'espace et un bon dîner à un parc aquatique. Prenez une voiture et savourez la tranquillité."
+      },
+      "parentTip": {
+        "en": "Hire a car from the airport: with it you get quiet mornings at the resort and easy afternoons on the Fuengirola beaches, the best of both.",
+        "fr": "Louez une voiture à l'aéroport : vous gagnez des matinées calmes au resort et des après-midis faciles sur les plages de Fuengirola, le meilleur des deux."
+      },
+      "atAGlance": [
+        {
+          "icon": "🌄",
+          "label": {
+            "en": "Setting",
+            "fr": "Cadre"
+          },
+          "value": {
+            "en": "Inland, between hills and sea",
+            "fr": "Intérieur, entre collines et mer"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Outdoor, children's and indoor",
+            "fr": "Extérieure, enfants et intérieure"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Dining",
+            "fr": "Restauration"
+          },
+          "value": {
+            "en": "Four restaurants, kids' menus",
+            "fr": "Quatre restaurants, menus enfants"
+          }
+        },
+        {
+          "icon": "🚗",
+          "label": {
+            "en": "Getting around",
+            "fr": "Déplacements"
+          },
+          "value": {
+            "en": "Car recommended",
+            "fr": "Voiture conseillée"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "About ten minutes by car",
+            "fr": "Environ dix minutes en voiture"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport",
+            "fr": "Aéroport"
+          },
+          "value": {
+            "en": "About 35 minutes",
+            "fr": "Environ 35 minutes"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Quiet pool morning",
+            "fr": "Matinée piscine au calme"
+          },
+          "detail": {
+            "en": "Outdoor pool and children's pool on the lawns.",
+            "fr": "Piscine extérieure et pataugeoire sur les pelouses."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Beach drive",
+            "fr": "Escapade plage"
+          },
+          "detail": {
+            "en": "Short drive to the Mijas and Fuengirola sand.",
+            "fr": "Courte route jusqu'au sable de Mijas et Fuengirola."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        },
+        {
+          "emoji": "🥾",
+          "name": {
+            "en": "Sierra walk",
+            "fr": "Balade dans la sierra"
+          },
+          "detail": {
+            "en": "Gentle strolls in the hills behind the resort.",
+            "fr": "Balades douces dans les collines derrière le resort."
+          },
+          "ages": [
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🍽️",
+          "name": {
+            "en": "Family dinner",
+            "fr": "Dîner en famille"
+          },
+          "detail": {
+            "en": "One of four restaurants with a children's menu.",
+            "fr": "L'un des quatre restaurants avec menu enfants."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soir"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Slow breakfast",
+            "fr": "Petit-déjeuner tranquille"
+          },
+          "note": {
+            "en": "No queues, unlike the big beach resorts.",
+            "fr": "Sans file, contrairement aux gros resorts de plage."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Pool and lawns",
+            "fr": "Piscine et pelouses"
+          },
+          "note": {
+            "en": "Space to spread out with little ones.",
+            "fr": "De l'espace pour s'installer avec les petits."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and nap",
+            "fr": "Déjeuner et sieste"
+          },
+          "note": {
+            "en": "Quiet room for a proper rest.",
+            "fr": "Chambre calme pour un vrai repos."
+          }
+        },
+        {
+          "time": "15:30",
+          "title": {
+            "en": "Drive to the beach",
+            "fr": "Route vers la plage"
+          },
+          "note": {
+            "en": "Ten minutes to the Fuengirola sand.",
+            "fr": "Dix minutes jusqu'au sable de Fuengirola."
+          }
+        },
+        {
+          "time": "19:30",
+          "title": {
+            "en": "Dinner on site",
+            "fr": "Dîner sur place"
+          },
+          "note": {
+            "en": "Good food and a children's menu.",
+            "fr": "Bonne cuisine et menu enfants."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "The calm and space suit babies well, with cots on request, though there is no baby club and you will rely on a car.",
+          "fr": "Le calme et l'espace conviennent bien aux bébés, avec lits sur demande, mais sans club bébé et il faudra une voiture."
+        },
+        "toddler": {
+          "en": "A gentle children's pool, lawns and quiet make for stress-free days with toddlers.",
+          "fr": "Une pataugeoire douce, des pelouses et le calme font des journées sereines avec les tout-petits."
+        },
+        "kid": {
+          "en": "Pools, gardens and hill walks suit active children, though there is no organised kids club to lean on.",
+          "fr": "Piscines, jardins et balades en collines conviennent aux enfants actifs, sans club organisé sur lequel s'appuyer."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Do I need a car?",
+            "fr": "Faut-il une voiture ?"
+          },
+          "a": {
+            "en": "Yes, the resort is inland and the beaches and towns are a short drive, so a hire car makes the stay much easier.",
+            "fr": "Oui, le resort est à l'intérieur des terres et les plages et villes sont à quelques minutes de route : une voiture de location facilite beaucoup le séjour."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a kids club?",
+            "fr": "Y a-t-il un club enfants ?"
+          },
+          "a": {
+            "en": "There is no dedicated daily kids club like the beach resorts. The appeal here is space, pools and good food rather than organised entertainment.",
+            "fr": "Il n'y a pas de club enfants quotidien comme dans les resorts de plage. L'attrait ici, c'est l'espace, les piscines et la bonne cuisine plutôt que l'animation organisée."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it good for a rainy day?",
+            "fr": "Est-ce adapté un jour de pluie ?"
+          },
+          "a": {
+            "en": "Yes, there is an indoor pool and a spa, plus four restaurants on site, so a wet day is easy to fill.",
+            "fr": "Oui, il y a une piscine intérieure et un spa, plus quatre restaurants sur place : un jour de pluie s'occupe facilement."
+          }
+        }
+      ]
+    }
+  ]
+}

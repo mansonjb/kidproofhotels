@@ -1,0 +1,3007 @@
+{
+  "hotels": [
+    {
+      "key": "mallorca-zafiro-palace-alcudia",
+      "destinationKey": "mallorca",
+      "name": "Zafiro Palace Alcudia",
+      "area": {
+        "en": "Port d'Alcudia",
+        "fr": "Port d'Alcudia"
+      },
+      "lat": 39.8065,
+      "lng": 3.1305,
+      "zoom": 13,
+      "address": "Zafiro Palace Alcudia, Port d'Alcudia, Mallorca, Spain",
+      "priceTier": 4,
+      "priceFrom": 320,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "baby-friendly",
+        "beach-access",
+        "family-suites"
+      ],
+      "clubFree": true,
+      "photos": [
+        "whiteResortPool",
+        "poolPalms",
+        "resortLoungers"
+      ],
+      "scores": {
+        "rooms": 93,
+        "baby": 82,
+        "pool": 95,
+        "dining": 88,
+        "safety": 86,
+        "convenience": 84,
+        "location": 82,
+        "extras": 90
+      },
+      "roomsSummary": {
+        "en": "Spacious modern suites built for families, from Junior Suites up to Two Bedroom Penthouses sleeping six. The clever ones are the Swim Up Suites, where your terrace opens straight onto a shared shallow pool, and the private pool suites for families who want their own splash. Sofa beds, big bathrooms and proper wardrobe space throughout.",
+        "fr": "De grandes suites contemporaines pensees pour les familles, de la Junior Suite au penthouse deux chambres qui loge six personnes. Les plus malignes sont les Swim Up Suites, dont la terrasse donne directement sur une piscine partagee peu profonde, et les suites avec piscine privee. Canape-lit, salles de bain spacieuses et vrais rangements partout."
+      },
+      "intro": {
+        "en": "This is the grown up end of the Alcudia family scene: a polished five star where the kids get a pirate ship splash pool and their own club, and parents still get an adults only pool and a serious spa. Six swim up pools, two indoor pools and a genuine sense of space mean nobody feels on top of anybody else.",
+        "fr": "Voici la version chic du sejour famille a Alcudia : un cinq etoiles soigne ou les enfants ont leur bateau pirate a jets d'eau et leur club, pendant que les parents gardent une piscine reservee aux adultes et un vrai spa. Six piscines swim up, deux piscines interieures et beaucoup d'espace : personne ne se marche dessus."
+      },
+      "highlights": {
+        "en": [
+          "Pirate ship splash pool with slides sized for toddlers up to big kids, loungers all around so you supervise from the shade",
+          "Free Mini Club and entertainment team for ages 4 to 15, with evening shows until bedtime",
+          "Swim Up Suites open onto a shared shallow pool, a real hit with confident paddlers",
+          "Adults only pool and a large spa when it is a grown ups turn",
+          "Two heated indoor pools for the odd grey or windy day"
+        ],
+        "fr": [
+          "Bateau pirate a jets d'eau avec toboggans pour les tout-petits comme pour les grands, transats tout autour pour surveiller a l'ombre",
+          "Mini Club gratuit et equipe d'animation de 4 a 15 ans, avec spectacles le soir jusqu'au coucher",
+          "Les Swim Up Suites ouvrent sur une piscine partagee peu profonde, un vrai succes aupres des nageurs surs d'eux",
+          "Piscine reservee aux adultes et grand spa quand c'est au tour des parents",
+          "Deux piscines interieures chauffees pour les journees grises ou ventees"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Genuinely spacious suites, some sleeping six, so bigger families avoid taking two rooms",
+          "Free kids club with a wide 4 to 15 age range",
+          "Clear split between family fun and adult calm keeps everyone happy"
+        ],
+        "fr": [
+          "Suites vraiment grandes, certaines pour six, les grandes familles evitent de prendre deux chambres",
+          "Club enfants gratuit couvrant une large tranche de 4 a 15 ans",
+          "Separation nette entre l'espace famille et le calme des adultes : tout le monde y trouve son compte"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Not directly on the sand: the beach is a short walk or shuttle away",
+          "Premium prices, especially for the swim up and private pool suites in July and August",
+          "Big complex, so peak weeks can feel busy around the main pools"
+        ],
+        "fr": [
+          "Pas les pieds dans le sable : la plage se rejoint a pied ou en navette",
+          "Tarifs eleves, surtout pour les suites swim up et piscine privee en juillet-aout",
+          "Grand complexe : en pleine saison, les piscines principales peuvent etre animees"
+        ]
+      },
+      "verdict": {
+        "en": "The pick for families who want five star polish without giving up the kids club and splash park.",
+        "fr": "Le choix des familles qui veulent le confort cinq etoiles sans renoncer au club enfants ni au parc aquatique."
+      },
+      "parentTip": {
+        "en": "Book a Swim Up Suite on a lower floor: toddlers can go from terrace to shallow water in seconds while you keep the coffee coming.",
+        "fr": "Reservez une Swim Up Suite a un etage bas : les tout-petits passent de la terrasse a l'eau peu profonde en quelques secondes, et vous gardez votre cafe a portee de main."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Rooms",
+            "fr": "Chambres"
+          },
+          "value": {
+            "en": "Suites for up to 6",
+            "fr": "Suites jusqu'a 6 pers."
+          }
+        },
+        {
+          "icon": "🏴‍☠️",
+          "label": {
+            "en": "For kids",
+            "fr": "Pour les enfants"
+          },
+          "value": {
+            "en": "Pirate ship splash pool",
+            "fr": "Bateau pirate a jets"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free, ages 4 to 15",
+            "fr": "Gratuit, 4 a 15 ans"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Six swim up, two indoor",
+            "fr": "Six swim up, deux couvertes"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Short walk or shuttle",
+            "fr": "A pied ou en navette"
+          }
+        },
+        {
+          "icon": "💆",
+          "label": {
+            "en": "Grown ups",
+            "fr": "Cote adultes"
+          },
+          "value": {
+            "en": "Adults pool and spa",
+            "fr": "Piscine adultes et spa"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏴‍☠️",
+          "name": {
+            "en": "Pirate ship splash session",
+            "fr": "Session bateau pirate"
+          },
+          "detail": {
+            "en": "Slides, jets and a bubble pool right by the loungers",
+            "fr": "Toboggans, jets et bassin a bulles juste a cote des transats"
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Any time",
+            "fr": "A tout moment"
+          }
+        },
+        {
+          "emoji": "🎨",
+          "name": {
+            "en": "Mini Club crafts",
+            "fr": "Ateliers du Mini Club"
+          },
+          "detail": {
+            "en": "Supervised games and crafts while you hit the spa",
+            "fr": "Jeux et bricolages encadres pendant que vous filez au spa"
+          },
+          "ages": [
+            "kid"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journee"
+          }
+        },
+        {
+          "emoji": "🚲",
+          "name": {
+            "en": "Bay of Alcudia cycle",
+            "fr": "Velo dans la baie d'Alcudia"
+          },
+          "detail": {
+            "en": "Flat, safe cycle paths run along the whole bay",
+            "fr": "Pistes cyclables plates et sures tout le long de la baie"
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "2h",
+            "fr": "2h"
+          }
+        },
+        {
+          "emoji": "🏛️",
+          "name": {
+            "en": "Old Alcudia walls",
+            "fr": "Remparts d'Alcudia"
+          },
+          "detail": {
+            "en": "Medieval walled town and a Wednesday market a short drive away",
+            "fr": "Vieille ville fortifiee et marche du mercredi a quelques minutes"
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journee"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Breakfast on the terrace",
+            "fr": "Petit-dejeuner en terrasse"
+          },
+          "note": {
+            "en": "Big buffet, high chairs and space for the pram",
+            "fr": "Grand buffet, chaises hautes et place pour la poussette"
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Pirate ship splash",
+            "fr": "Bateau pirate"
+          },
+          "note": {
+            "en": "Slather on the sun cream and let them loose",
+            "fr": "Creme solaire et on les lache"
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and quiet time",
+            "fr": "Dejeuner puis temps calme"
+          },
+          "note": {
+            "en": "Nap for the little one in the cool suite",
+            "fr": "Sieste du plus petit dans la suite au frais"
+          }
+        },
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Kids club, parents spa",
+            "fr": "Club enfants, spa pour les parents"
+          },
+          "note": {
+            "en": "Everyone gets their thing",
+            "fr": "Chacun son moment"
+          }
+        },
+        {
+          "time": "20:30",
+          "title": {
+            "en": "Evening show",
+            "fr": "Spectacle du soir"
+          },
+          "note": {
+            "en": "Entertainment keeps them going until bedtime",
+            "fr": "L'animation les tient jusqu'au coucher"
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Cots on request and roomy suites, but the beach is not on the doorstep so plan the pram walk.",
+          "fr": "Lits bebe sur demande et suites spacieuses, mais la plage n'est pas au pied de l'hotel : anticipez la balade en poussette."
+        },
+        "toddler": {
+          "en": "The shallow splash areas and swim up terraces are made for this age.",
+          "fr": "Les zones a jets peu profondes et les terrasses swim up sont taillees pour cet age."
+        },
+        "kid": {
+          "en": "Prime years here: slides, club and entertainment all land well.",
+          "fr": "L'age ideal ici : toboggans, club et animation font mouche."
+        },
+        "teen": {
+          "en": "The club runs to 15 and there is space to roam, though teens may want the beach action nearby.",
+          "fr": "Le club va jusqu'a 15 ans et l'espace ne manque pas, meme si les ados voudront l'animation de la plage a cote."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the kids club really free?",
+            "fr": "Le club enfants est-il vraiment gratuit ?"
+          },
+          "a": {
+            "en": "Yes, the Mini Club for ages 4 to 15 is included, with an entertainment team running daytime and evening activities.",
+            "fr": "Oui, le Mini Club de 4 a 15 ans est inclus, avec une equipe d'animation qui gere les activites en journee et en soiree."
+          }
+        },
+        {
+          "q": {
+            "en": "How far is the beach?",
+            "fr": "La plage est-elle loin ?"
+          },
+          "a": {
+            "en": "It is a short walk or a quick shuttle to the long sandy Bay of Alcudia beaches, which shelve very gently.",
+            "fr": "Une courte marche ou une navette rapide vous mene aux longues plages de sable de la baie d'Alcudia, a la pente tres douce."
+          }
+        },
+        {
+          "q": {
+            "en": "Can a family of five or six share one suite?",
+            "fr": "Une famille de cinq ou six peut-elle tenir dans une suite ?"
+          },
+          "a": {
+            "en": "Yes, the Two Bedroom Penthouse and larger swim up suites sleep up to six, which often works out better than two rooms.",
+            "fr": "Oui, le penthouse deux chambres et les grandes suites swim up logent jusqu'a six, souvent plus avantageux que deux chambres."
+          }
+        }
+      ]
+    },
+    {
+      "key": "mallorca-iberostar-waves-alcudia-park",
+      "destinationKey": "mallorca",
+      "name": "Iberostar Waves Alcudia Park",
+      "area": {
+        "en": "Playa de Muro",
+        "fr": "Playa de Muro"
+      },
+      "lat": 39.8035,
+      "lng": 3.1275,
+      "zoom": 13,
+      "address": "Iberostar Waves Alcudia Park, Playa de Muro, Mallorca, Spain",
+      "priceTier": 3,
+      "priceFrom": 220,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "baby-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolPalms",
+        "deckLoungersSea",
+        "resortLoungers"
+      ],
+      "scores": {
+        "rooms": 78,
+        "baby": 80,
+        "pool": 90,
+        "dining": 82,
+        "safety": 88,
+        "convenience": 85,
+        "location": 92,
+        "extras": 84
+      },
+      "roomsSummary": {
+        "en": "Comfortable, practical family rooms rather than showstoppers, with connecting options and family rooms that sleep four. Balconies throughout and enough storage for a fortnight of beach kit. Ask for a renovated room, as standards vary across the wings.",
+        "fr": "Des chambres familiales confortables et pratiques plutot que spectaculaires, avec chambres communicantes et formats pour quatre. Balcon partout et rangements suffisants pour deux semaines de materiel de plage. Demandez une chambre renovee, le standing varie selon les ailes."
+      },
+      "intro": {
+        "en": "A proper beachfront all inclusive right on Playa de Muro, the calm shallow beach that makes northern Mallorca so good with small children. The draw is the water: five pool slides, a splash park with jets and sprinklers, plus the free Star Camp club that spans toddlers to teens.",
+        "fr": "Un vrai all inclusive les pieds dans le sable sur Playa de Muro, la plage calme et peu profonde qui fait la reputation du nord de Majorque aupres des petits. L'atout, c'est l'eau : cinq toboggans, un parc aquatique a jets et brumisateurs, et le club Star Camp gratuit qui va des tout-petits aux ados."
+      },
+      "highlights": {
+        "en": [
+          "Directly on Playa de Muro, one of the island's calmest, shallowest family beaches",
+          "Splash park with five slides, water jets, sprinklers and an adventure play area",
+          "Free Star Camp clubs grouped by age from little ones up to teenagers",
+          "Heated indoor pool for cooler or windy days",
+          "All inclusive dining with a dedicated children's buffet"
+        ],
+        "fr": [
+          "Directement sur Playa de Muro, l'une des plages les plus calmes et les moins profondes de l'ile",
+          "Parc aquatique avec cinq toboggans, jets d'eau, brumisateurs et aire de jeux aventure",
+          "Clubs Star Camp gratuits repartis par age, des petits aux ados",
+          "Piscine interieure chauffee pour les jours frais ou ventes",
+          "Formule tout compris avec buffet dedie aux enfants"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Beachfront location on an exceptionally safe, shallow beach",
+          "Excellent water play for a mid range price",
+          "Free clubs cover a genuinely wide age range"
+        ],
+        "fr": [
+          "Emplacement les pieds dans l'eau sur une plage tres sure et peu profonde",
+          "Excellents jeux d'eau pour un tarif intermediaire",
+          "Clubs gratuits couvrant une large tranche d'age"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Room standards are uneven, so it is worth pushing for a renovated one",
+          "Large and busy in peak season, with sunbed jostling around the main pool",
+          "All inclusive food is solid rather than memorable"
+        ],
+        "fr": [
+          "Le standing des chambres est inegal, insistez pour une renovee",
+          "Grand et frequente en haute saison, avec la course aux transats pres de la piscine principale",
+          "La cuisine tout compris est correcte sans etre inoubliable"
+        ]
+      },
+      "verdict": {
+        "en": "Hard to beat on the water and the beach for the money, if you can look past the ageing rooms.",
+        "fr": "Difficile a battre sur l'eau et la plage pour le prix, si l'on ferme les yeux sur des chambres qui vieillissent."
+      },
+      "parentTip": {
+        "en": "Walk left along Playa de Muro away from the hotel and the beach gets even quieter and shallower, ideal for wobbly first swimmers.",
+        "fr": "Marchez vers la gauche sur Playa de Muro en vous eloignant de l'hotel : la plage devient encore plus calme et peu profonde, parfaite pour les premiers pas dans l'eau."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Right on Playa de Muro",
+            "fr": "Sur Playa de Muro"
+          }
+        },
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Slides",
+            "fr": "Toboggans"
+          },
+          "value": {
+            "en": "Five plus splash park",
+            "fr": "Cinq plus parc aquatique"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free Star Camp",
+            "fr": "Star Camp gratuit"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Pension"
+          },
+          "value": {
+            "en": "All inclusive",
+            "fr": "Tout compris"
+          }
+        },
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Rooms",
+            "fr": "Chambres"
+          },
+          "value": {
+            "en": "Family rooms sleep 4",
+            "fr": "Familiales pour 4"
+          }
+        },
+        {
+          "icon": "🌧️",
+          "label": {
+            "en": "Bad weather",
+            "fr": "Mauvais temps"
+          },
+          "value": {
+            "en": "Heated indoor pool",
+            "fr": "Piscine couverte chauffee"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "Splash park morning",
+            "fr": "Matinee parc aquatique"
+          },
+          "detail": {
+            "en": "Slides, jets and sprinklers with an adventure zone",
+            "fr": "Toboggans, jets et brumisateurs avec zone aventure"
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Any time",
+            "fr": "A tout moment"
+          }
+        },
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Shallow beach play",
+            "fr": "Jeux sur la plage peu profonde"
+          },
+          "detail": {
+            "en": "Wade out a long way before it gets deep",
+            "fr": "On avance longtemps avant que ca devienne profond"
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Any time",
+            "fr": "A tout moment"
+          }
+        },
+        {
+          "emoji": "🦩",
+          "name": {
+            "en": "S'Albufera wetlands",
+            "fr": "Marais de S'Albufera"
+          },
+          "detail": {
+            "en": "Flat nature reserve trails and birdlife next door",
+            "fr": "Sentiers plats et oiseaux de la reserve naturelle a cote"
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journee"
+          }
+        },
+        {
+          "emoji": "🎭",
+          "name": {
+            "en": "Star Camp show",
+            "fr": "Spectacle Star Camp"
+          },
+          "detail": {
+            "en": "Evening mini disco and shows for all ages",
+            "fr": "Mini disco et spectacles en soiree pour tous les ages"
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Le soir"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Buffet breakfast",
+            "fr": "Petit-dejeuner buffet"
+          },
+          "note": {
+            "en": "Fuel up before the sun gets high",
+            "fr": "On fait le plein avant que le soleil tape"
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Beach then splash park",
+            "fr": "Plage puis parc aquatique"
+          },
+          "note": {
+            "en": "Straight onto the sand from the pool deck",
+            "fr": "De la piscine au sable en quelques pas"
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and shade",
+            "fr": "Dejeuner et pause a l'ombre"
+          },
+          "note": {
+            "en": "Retreat inside during the hottest hours",
+            "fr": "On rentre au frais aux heures les plus chaudes"
+          }
+        },
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Star Camp club",
+            "fr": "Club Star Camp"
+          },
+          "note": {
+            "en": "Free time for the grown ups",
+            "fr": "Temps libre pour les parents"
+          }
+        },
+        {
+          "time": "21:00",
+          "title": {
+            "en": "Mini disco",
+            "fr": "Mini disco"
+          },
+          "note": {
+            "en": "One last wiggle before bed",
+            "fr": "Un dernier dechainement avant le dodo"
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "The shallow beach is a real plus, and cots are available, though rooms can feel dated.",
+          "fr": "La plage peu profonde est un vrai atout et des lits bebe sont disponibles, meme si les chambres peuvent sembler datees."
+        },
+        "toddler": {
+          "en": "Splash park and gentle sea are exactly right for this age.",
+          "fr": "Le parc aquatique et la mer douce sont parfaits pour cet age."
+        },
+        "kid": {
+          "en": "Slides, clubs and mini disco keep this age busy from morning to night.",
+          "fr": "Toboggans, clubs et mini disco occupent cet age du matin au soir."
+        },
+        "teen": {
+          "en": "There is a teen club and water sports on the beach, though older teens may find it tame.",
+          "fr": "Il y a un club ados et des sports nautiques sur la plage, meme si les plus grands le trouveront un peu sage."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is it truly on the beach?",
+            "fr": "Est-ce vraiment les pieds dans l'eau ?"
+          },
+          "a": {
+            "en": "Yes, it sits directly on Playa de Muro, so you can be on the sand within a minute of leaving the pool.",
+            "fr": "Oui, il donne directement sur Playa de Muro : vous etes sur le sable une minute apres avoir quitte la piscine."
+          }
+        },
+        {
+          "q": {
+            "en": "Are the water slides included?",
+            "fr": "Les toboggans sont-ils inclus ?"
+          },
+          "a": {
+            "en": "Yes, the five slides and splash park are part of the stay, subject to the usual height and age rules.",
+            "fr": "Oui, les cinq toboggans et le parc aquatique sont compris, sous reserve des regles habituelles de taille et d'age."
+          }
+        },
+        {
+          "q": {
+            "en": "Should I request a specific room?",
+            "fr": "Faut-il demander une chambre precise ?"
+          },
+          "a": {
+            "en": "Yes, ask for a renovated family room, as older rooms are noticeably tired.",
+            "fr": "Oui, demandez une chambre familiale renovee, les anciennes sont nettement fatiguees."
+          }
+        }
+      ]
+    },
+    {
+      "key": "mallorca-viva-blue-spa",
+      "destinationKey": "mallorca",
+      "name": "VIVA Blue & Spa",
+      "area": {
+        "en": "Playa de Muro",
+        "fr": "Playa de Muro"
+      },
+      "lat": 39.7875,
+      "lng": 3.1345,
+      "zoom": 13,
+      "address": "VIVA Blue & Spa, Playa de Muro, Mallorca, Spain",
+      "priceTier": 3,
+      "priceFrom": 195,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "self-catering",
+        "family-suites",
+        "beach-access",
+        "baby-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolDusk",
+        "poolCabanas",
+        "roomCozy"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 84,
+        "pool": 86,
+        "dining": 74,
+        "safety": 85,
+        "convenience": 82,
+        "location": 84,
+        "extras": 80
+      },
+      "roomsSummary": {
+        "en": "Bright apartments with a proper kitchenette (fridge, microwave, coffee maker), a separate sleeping area and a balcony. The self catering option is what sets it apart: heat a bottle, do an early kids tea, keep snacks on hand. One and two bedroom layouts suit families who value a bit of separation.",
+        "fr": "Des appartements lumineux avec vraie kitchenette (frigo, micro-ondes, cafetiere), un coin nuit separe et un balcon. C'est la formule cuisine autonome qui fait la difference : rechauffer un biberon, servir un diner tot aux enfants, garder des encas sous la main. Les formats une ou deux chambres conviennent aux familles qui aiment un peu de separation."
+      },
+      "intro": {
+        "en": "An aparthotel a couple of hundred metres from Playa de Muro, next to the S'Albufera nature reserve, built around a pirate ship splash park and five pools. The kitchenettes make it a favourite for families with babies and toddlers who want to keep their own routine rather than eat on the hotel's clock.",
+        "fr": "Un appart-hotel a deux cents metres de Playa de Muro, en bordure de la reserve de S'Albufera, organise autour d'un parc aquatique bateau pirate et de cinq piscines. Les kitchenettes en font un favori des familles avec bebes et tout-petits qui veulent garder leur rythme plutot que manger a l'heure de l'hotel."
+      },
+      "highlights": {
+        "en": [
+          "Apartments with kitchenettes, ideal for baby and toddler routines",
+          "Pirate ship splash park plus a Wet Bubble pool for little ones and adults",
+          "Five pools in total, including a semi Olympic pool and a heated indoor pool",
+          "Children's club, games room and play area with an entertainment team",
+          "Two hundred metres from the calm Playa de Muro sands and near S'Albufera"
+        ],
+        "fr": [
+          "Appartements avec kitchenette, ideal pour le rythme des bebes et tout-petits",
+          "Parc aquatique bateau pirate et bassin Wet Bubble pour petits et adultes",
+          "Cinq piscines au total, dont une semi-olympique et une couverte chauffee",
+          "Club enfants, salle de jeux et aire de jeux avec equipe d'animation",
+          "A deux cents metres du sable calme de Playa de Muro et pres de S'Albufera"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Kitchenettes give real flexibility with babies and toddlers",
+          "Genuinely good water play with a themed splash park",
+          "Quiet, green setting next to a nature reserve"
+        ],
+        "fr": [
+          "Les kitchenettes offrent une vraie souplesse avec bebes et tout-petits",
+          "De vrais bons jeux d'eau avec un parc aquatique a theme",
+          "Cadre calme et verdoyant en bordure de reserve naturelle"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Not beachfront, so it is a short walk to the sand",
+          "Dining is functional, which is partly the point of self catering",
+          "Best suited to younger children, with less for teens"
+        ],
+        "fr": [
+          "Pas en front de mer, une courte marche vous separe du sable",
+          "La restauration est fonctionnelle, ce qui va de pair avec la cuisine autonome",
+          "Plutot adapte aux plus jeunes, moins de choses pour les ados"
+        ]
+      },
+      "verdict": {
+        "en": "The smart choice for families with little ones who want their own kitchen and great water play.",
+        "fr": "Le choix malin des familles avec des tout-petits qui veulent leur cuisine et de super jeux d'eau."
+      },
+      "parentTip": {
+        "en": "Do a first day supermarket run for breakfast and snacks: the kitchenette pays for itself and mornings become far calmer.",
+        "fr": "Faites les courses le premier jour pour les petits-dejeuners et les encas : la kitchenette est vite rentabilisee et les matins deviennent bien plus calmes."
+      },
+      "atAGlance": [
+        {
+          "icon": "🍳",
+          "label": {
+            "en": "Kitchen",
+            "fr": "Cuisine"
+          },
+          "value": {
+            "en": "Kitchenette in room",
+            "fr": "Kitchenette en chambre"
+          }
+        },
+        {
+          "icon": "🏴‍☠️",
+          "label": {
+            "en": "Water play",
+            "fr": "Jeux d'eau"
+          },
+          "value": {
+            "en": "Pirate splash park",
+            "fr": "Parc pirate a jets"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Five, one heated indoor",
+            "fr": "Cinq, une couverte chauffee"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free, younger ages",
+            "fr": "Gratuit, jeune public"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "About 200m",
+            "fr": "Environ 200m"
+          }
+        },
+        {
+          "icon": "🦩",
+          "label": {
+            "en": "Nearby",
+            "fr": "A cote"
+          },
+          "value": {
+            "en": "S'Albufera reserve",
+            "fr": "Reserve de S'Albufera"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏴‍☠️",
+          "name": {
+            "en": "Splash park play",
+            "fr": "Jeux au parc aquatique"
+          },
+          "detail": {
+            "en": "Pirate ship, slide and shallow bubble pool",
+            "fr": "Bateau pirate, toboggan et bassin a bulles peu profond"
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Any time",
+            "fr": "A tout moment"
+          }
+        },
+        {
+          "emoji": "🦆",
+          "name": {
+            "en": "Nature reserve stroll",
+            "fr": "Balade dans la reserve"
+          },
+          "detail": {
+            "en": "Easy flat paths and birdwatching in S'Albufera",
+            "fr": "Sentiers plats et observation des oiseaux a S'Albufera"
+          },
+          "ages": [
+            "kid"
+          ],
+          "time": {
+            "en": "2h",
+            "fr": "2h"
+          }
+        },
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Beach morning",
+            "fr": "Matinee plage"
+          },
+          "detail": {
+            "en": "Short walk to calm shallow water",
+            "fr": "Courte marche vers une eau calme et peu profonde"
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journee"
+          }
+        },
+        {
+          "emoji": "🎨",
+          "name": {
+            "en": "Kids club crafts",
+            "fr": "Ateliers du club enfants"
+          },
+          "detail": {
+            "en": "Supervised games while you cook or relax",
+            "fr": "Jeux encadres pendant que vous cuisinez ou vous reposez"
+          },
+          "ages": [
+            "kid"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journee"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Breakfast in the apartment",
+            "fr": "Petit-dejeuner dans l'appartement"
+          },
+          "note": {
+            "en": "No rush, no queues, no dressing up",
+            "fr": "Sans stress, sans file d'attente, en pyjama"
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Splash park",
+            "fr": "Parc aquatique"
+          },
+          "note": {
+            "en": "Pirate ship and bubble pool",
+            "fr": "Bateau pirate et bassin a bulles"
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and nap",
+            "fr": "Dejeuner et sieste"
+          },
+          "note": {
+            "en": "Baby sleeps in the cool room",
+            "fr": "Bebe dort dans la chambre au frais"
+          }
+        },
+        {
+          "time": "16:30",
+          "title": {
+            "en": "Beach walk",
+            "fr": "Balade a la plage"
+          },
+          "note": {
+            "en": "Late sun is gentler on small skin",
+            "fr": "Le soleil de fin de journee est plus doux pour les petites peaux"
+          }
+        },
+        {
+          "time": "18:30",
+          "title": {
+            "en": "Early kids tea",
+            "fr": "Diner tot des enfants"
+          },
+          "note": {
+            "en": "Cooked in your own kitchenette",
+            "fr": "Prepare dans votre kitchenette"
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "The kitchenette for bottles and purees plus a quiet setting make this genuinely baby friendly.",
+          "fr": "La kitchenette pour les biberons et les purees plus un cadre calme rendent l'endroit vraiment adapte aux bebes."
+        },
+        "toddler": {
+          "en": "The shallow splash pools and gentle beach suit toddlers perfectly.",
+          "fr": "Les bassins a jets peu profonds et la plage douce conviennent parfaitement aux tout-petits."
+        },
+        "kid": {
+          "en": "Plenty of water play and a club to fill the days.",
+          "fr": "Beaucoup de jeux d'eau et un club pour remplir les journees."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Do the apartments have a real kitchen?",
+            "fr": "Les appartements ont-ils une vraie cuisine ?"
+          },
+          "a": {
+            "en": "They have a kitchenette with fridge, microwave and coffee maker, enough for breakfasts, baby food and simple meals.",
+            "fr": "Ils disposent d'une kitchenette avec frigo, micro-ondes et cafetiere, suffisante pour les petits-dejeuners, les repas de bebe et des plats simples."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it good for teenagers?",
+            "fr": "Est-ce adapte aux adolescents ?"
+          },
+          "a": {
+            "en": "It leans younger. Families with teens may prefer a bigger resort with a teen club and more evening buzz.",
+            "fr": "L'ambiance est plutot jeune. Les familles avec ados prefereront un plus grand complexe avec club ados et plus d'animation en soiree."
+          }
+        },
+        {
+          "q": {
+            "en": "How far is the beach?",
+            "fr": "La plage est-elle loin ?"
+          },
+          "a": {
+            "en": "Around two hundred metres to the calm sands of Playa de Muro.",
+            "fr": "Environ deux cents metres jusqu'au sable calme de Playa de Muro."
+          }
+        }
+      ]
+    },
+    {
+      "key": "mallorca-protur-biomar-gran-hotel-spa",
+      "destinationKey": "mallorca",
+      "name": "Protur Biomar Gran Hotel & Spa",
+      "area": {
+        "en": "Sa Coma",
+        "fr": "Sa Coma"
+      },
+      "lat": 39.5885,
+      "lng": 3.3795,
+      "zoom": 13,
+      "address": "Protur Biomar Gran Hotel & Spa, Sa Coma, Mallorca, Spain",
+      "priceTier": 3,
+      "priceFrom": 210,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "baby-friendly",
+        "family-suites"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolTropicalMtn",
+        "poolPalms",
+        "resortLoungers"
+      ],
+      "scores": {
+        "rooms": 84,
+        "baby": 78,
+        "pool": 85,
+        "dining": 80,
+        "safety": 84,
+        "convenience": 78,
+        "location": 80,
+        "extras": 88
+      },
+      "roomsSummary": {
+        "en": "Modern, generously sized rooms and family rooms, several with a sofa area and space for a cot. The look is contemporary and the family wing keeps you close to the kids' pools and Play House. Bigger families can combine adjoining rooms.",
+        "fr": "Des chambres et chambres familiales modernes et bien dimensionnees, plusieurs avec coin salon et place pour un lit bebe. Le style est contemporain et l'aile famille vous garde pres des piscines enfants et de la Play House. Les grandes familles peuvent combiner des chambres attenantes."
+      },
+      "intro": {
+        "en": "On the east coast in Sa Coma, a short walk from a Blue Flag beach, this is a resort split cleverly into a lively family side and a striking adults only side. Families get freeform pools with small slides, a saltwater kids splash pool and a Play House garden, while the huge spa and hydrotherapy area is the standout extra.",
+        "fr": "Sur la cote est a Sa Coma, a quelques minutes d'une plage Pavillon Bleu, ce complexe est habilement partage entre un cote famille anime et un cote adultes a l'architecture marquante. Les familles profitent de piscines a forme libre avec petits toboggans, d'un bassin enfants a jets en eau salee et d'un jardin Play House, tandis que l'immense spa et son espace hydrotherapie sont l'atout signature."
+      },
+      "highlights": {
+        "en": [
+          "Freeform family pool with small slides plus a saltwater kids splash pool",
+          "Play House garden, playground and mini club for ages 3 to 12",
+          "One of the island's biggest spas, with a free access hydrotherapy circuit",
+          "Children's buffet and several dining venues",
+          "Short walk to the gently shelving Sa Coma Blue Flag beach"
+        ],
+        "fr": [
+          "Piscine famille a forme libre avec petits toboggans et bassin enfants a jets en eau salee",
+          "Jardin Play House, aire de jeux et mini club de 3 a 12 ans",
+          "L'un des plus grands spas de l'ile, avec circuit hydrotherapie en acces libre",
+          "Buffet enfants et plusieurs restaurants",
+          "Courte marche jusqu'a la plage Pavillon Bleu de Sa Coma, a la pente douce"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Excellent spa and pools for the price bracket",
+          "Smart, modern rooms with a proper family wing",
+          "Calm east coast setting near a Blue Flag beach"
+        ],
+        "fr": [
+          "Excellent spa et belles piscines pour la gamme de prix",
+          "Chambres modernes et soignees avec une vraie aile famille",
+          "Cadre calme sur la cote est, pres d'une plage Pavillon Bleu"
+        ]
+      },
+      "cons": {
+        "en": [
+          "All inclusive has limits: some restaurants and snacks cost extra",
+          "Sa Coma is quieter, so you may want a car to explore",
+          "The kids club stops at 12, leaving less for teens"
+        ],
+        "fr": [
+          "Le tout compris a ses limites : certains restaurants et encas sont en supplement",
+          "Sa Coma est plutot calme, une voiture est utile pour explorer",
+          "Le club enfants s'arrete a 12 ans, moins de choses pour les ados"
+        ]
+      },
+      "verdict": {
+        "en": "A polished east coast pick where the spa and pools punch above the price.",
+        "fr": "Une valeur sure de la cote est ou le spa et les piscines depassent leur categorie de prix."
+      },
+      "parentTip": {
+        "en": "The hydrotherapy circuit is included: book a mid afternoon slot while the kids are in the club and actually use it.",
+        "fr": "Le circuit hydrotherapie est inclus : reservez un creneau en milieu d'apres-midi pendant que les enfants sont au club et profitez-en vraiment."
+      },
+      "atAGlance": [
+        {
+          "icon": "💧",
+          "label": {
+            "en": "Kids pool",
+            "fr": "Piscine enfants"
+          },
+          "value": {
+            "en": "Saltwater splash pool",
+            "fr": "Bassin a jets en eau salee"
+          }
+        },
+        {
+          "icon": "💆",
+          "label": {
+            "en": "Spa",
+            "fr": "Spa"
+          },
+          "value": {
+            "en": "Huge, free circuit",
+            "fr": "Immense, circuit inclus"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free, ages 3 to 12",
+            "fr": "Gratuit, 3 a 12 ans"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Blue Flag, short walk",
+            "fr": "Pavillon Bleu, a pied"
+          }
+        },
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Rooms",
+            "fr": "Chambres"
+          },
+          "value": {
+            "en": "Modern family wing",
+            "fr": "Aile famille moderne"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Pension"
+          },
+          "value": {
+            "en": "AI with some extras",
+            "fr": "Tout compris, quelques suppl."
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "Freeform pool slides",
+            "fr": "Toboggans de la piscine"
+          },
+          "detail": {
+            "en": "Small slides in the family pool for building confidence",
+            "fr": "Petits toboggans dans la piscine famille pour prendre confiance"
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Any time",
+            "fr": "A tout moment"
+          }
+        },
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Sa Coma beach",
+            "fr": "Plage de Sa Coma"
+          },
+          "detail": {
+            "en": "Blue Flag sand shelving gently into calm water",
+            "fr": "Sable Pavillon Bleu descendant doucement dans une eau calme"
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journee"
+          }
+        },
+        {
+          "emoji": "🐬",
+          "name": {
+            "en": "Safari Zoo trip",
+            "fr": "Excursion Safari Zoo"
+          },
+          "detail": {
+            "en": "Drive through animal park a few minutes away",
+            "fr": "Parc animalier en voiture a quelques minutes"
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journee"
+          }
+        },
+        {
+          "emoji": "🕳️",
+          "name": {
+            "en": "Drach Caves",
+            "fr": "Grottes du Drach"
+          },
+          "detail": {
+            "en": "Famous caves and underground lake at nearby Porto Cristo",
+            "fr": "Grottes celebres et lac souterrain a Porto Cristo, tout pres"
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journee"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast buffet",
+            "fr": "Buffet du petit-dejeuner"
+          },
+          "note": {
+            "en": "Good spread, high chairs available",
+            "fr": "Beau choix, chaises hautes disponibles"
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Family pool and slides",
+            "fr": "Piscine famille et toboggans"
+          },
+          "note": {
+            "en": "Splash pool for the smallest",
+            "fr": "Bassin a jets pour les plus petits"
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and rest",
+            "fr": "Dejeuner et repos"
+          },
+          "note": {
+            "en": "Cooler hours indoors",
+            "fr": "Heures chaudes au frais"
+          }
+        },
+        {
+          "time": "15:30",
+          "title": {
+            "en": "Club and spa",
+            "fr": "Club et spa"
+          },
+          "note": {
+            "en": "Kids in the Play House, parents in hydrotherapy",
+            "fr": "Enfants a la Play House, parents en hydrotherapie"
+          }
+        },
+        {
+          "time": "20:00",
+          "title": {
+            "en": "Dinner then show",
+            "fr": "Diner puis spectacle"
+          },
+          "note": {
+            "en": "Evening entertainment on the family side",
+            "fr": "Animation du soir cote famille"
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Cots and space in the family rooms work, though bottle prep is easier if you book with a fridge.",
+          "fr": "Lits bebe et espace dans les chambres familiales conviennent, mais preparer un biberon est plus simple avec un frigo en chambre."
+        },
+        "toddler": {
+          "en": "The shallow salt splash pool and small slides are ideal.",
+          "fr": "Le bassin a jets peu profond en eau salee et les petits toboggans sont ideaux."
+        },
+        "kid": {
+          "en": "The sweet spot age: club, pools and excursions all fit.",
+          "fr": "L'age ideal : club, piscines et excursions collent parfaitement."
+        },
+        "teen": {
+          "en": "There is space and a spa pass option, but the club stops at 12 so teens make their own fun.",
+          "fr": "Il y a de l'espace et un acces spa possible, mais le club s'arrete a 12 ans : les ados s'organisent seuls."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the spa really free to use?",
+            "fr": "Le spa est-il vraiment en acces libre ?"
+          },
+          "a": {
+            "en": "The large hydrotherapy circuit is complimentary for guests; individual treatments are charged separately.",
+            "fr": "Le grand circuit hydrotherapie est offert aux clients ; les soins individuels sont factures a part."
+          }
+        },
+        {
+          "q": {
+            "en": "How far is the beach?",
+            "fr": "La plage est-elle loin ?"
+          },
+          "a": {
+            "en": "It is a short walk to the Blue Flag Sa Coma beach, which is sandy and shallow.",
+            "fr": "Une courte marche mene a la plage Pavillon Bleu de Sa Coma, sablonneuse et peu profonde."
+          }
+        },
+        {
+          "q": {
+            "en": "Do I need a car?",
+            "fr": "Faut-il une voiture ?"
+          },
+          "a": {
+            "en": "Not essential, but Sa Coma is quiet and a car opens up caves, the safari park and the wider east coast.",
+            "fr": "Pas indispensable, mais Sa Coma est calme et une voiture donne acces aux grottes, au parc safari et a toute la cote est."
+          }
+        }
+      ]
+    },
+    {
+      "key": "mallorca-inturotel-esmeralda-park",
+      "destinationKey": "mallorca",
+      "name": "Inturotel Esmeralda Park",
+      "area": {
+        "en": "Cala d'Or",
+        "fr": "Cala d'Or"
+      },
+      "lat": 39.3705,
+      "lng": 3.2345,
+      "zoom": 13,
+      "address": "Inturotel Esmeralda Park, Cala d'Or, Mallorca, Spain",
+      "priceTier": 2,
+      "priceFrom": 150,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid"
+      ],
+      "amenities": [
+        "pool",
+        "self-catering",
+        "family-suites",
+        "beach-access",
+        "toddler-friendly",
+        "baby-friendly"
+      ],
+      "photos": [
+        "infinityPoolSea",
+        "deckLoungersSea",
+        "coastTown"
+      ],
+      "scores": {
+        "rooms": 76,
+        "baby": 80,
+        "pool": 78,
+        "dining": 70,
+        "safety": 82,
+        "convenience": 74,
+        "location": 88,
+        "extras": 68
+      },
+      "roomsSummary": {
+        "en": "Recently renovated studios, apartments and villas with kitchenettes, satellite TV and a private balcony or terrace. Layouts sleep families comfortably, and the big fridge makes self catering practical. Not luxurious, but bright, clean and flexible.",
+        "fr": "Des studios, appartements et villas recemment renoves avec kitchenette, TV satellite et balcon ou terrasse privatif. Les formats logent confortablement une famille, et le grand frigo rend la cuisine autonome pratique. Sans luxe, mais lumineux, propre et flexible."
+      },
+      "intro": {
+        "en": "A relaxed beachfront aparthotel above the pretty Cala Esmeralda cove in Cala d'Or, on the quieter southeast coast. The appeal is simple: a lovely small sheltered beach right below, a sea view pool and apartments with kitchens, for families who want calm coves over big resort noise.",
+        "fr": "Un appart-hotel decontracte en front de mer au-dessus de la jolie crique de Cala Esmeralda, a Cala d'Or, sur la cote sud-est plus tranquille. L'attrait est simple : une belle petite plage abritee juste en contrebas, une piscine avec vue mer et des appartements avec cuisine, pour les familles qui preferent les criques calmes au brouhaha des grands complexes."
+      },
+      "highlights": {
+        "en": [
+          "Perched right above the sheltered Cala Esmeralda cove, a short path to the sand",
+          "Sea view pool plus a separate children's pool",
+          "Apartments with kitchenettes and big fridges for self catering",
+          "Calm, shallow cove water that suits nervous swimmers",
+          "Walkable to Cala d'Or's other coves, marina and restaurants"
+        ],
+        "fr": [
+          "Perche juste au-dessus de la crique abritee de Cala Esmeralda, un court sentier vers le sable",
+          "Piscine avec vue mer et bassin enfants separe",
+          "Appartements avec kitchenette et grand frigo pour cuisiner soi-meme",
+          "Eau calme et peu profonde de la crique, parfaite pour les nageurs prudents",
+          "A pied des autres criques de Cala d'Or, de la marina et des restaurants"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Unbeatable position above a calm, sheltered cove",
+          "Kitchenettes keep costs and toddler routines under control",
+          "Quieter, prettier alternative to the big northern resorts"
+        ],
+        "fr": [
+          "Emplacement imbattable au-dessus d'une crique calme et abritee",
+          "Les kitchenettes maitrisent le budget et le rythme des tout-petits",
+          "Alternative plus calme et plus jolie aux grands complexes du nord"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No big splash park or extensive kids club, so less structured entertainment",
+          "Steps and a slope down to the cove, which is fiddly with a pram",
+          "Dining is limited, so plan to cook or eat out in town"
+        ],
+        "fr": [
+          "Pas de grand parc aquatique ni de gros club enfants, donc moins d'animation encadree",
+          "Des marches et une pente jusqu'a la crique, peu pratiques avec une poussette",
+          "Restauration limitee, prevoyez de cuisiner ou de diner en ville"
+        ]
+      },
+      "verdict": {
+        "en": "For families who prize a calm cove and a kitchen over waterslides and a club.",
+        "fr": "Pour les familles qui privilegient une crique calme et une cuisine aux toboggans et au club."
+      },
+      "parentTip": {
+        "en": "Go down to Cala Esmeralda early: the little cove fills up by mid morning in August, so stake your patch of shade first.",
+        "fr": "Descendez tot a Cala Esmeralda : la petite crique se remplit des le milieu de matinee en aout, reservez votre coin d'ombre en premier."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Cove right below",
+            "fr": "Crique en contrebas"
+          }
+        },
+        {
+          "icon": "🍳",
+          "label": {
+            "en": "Kitchen",
+            "fr": "Cuisine"
+          },
+          "value": {
+            "en": "Kitchenette in unit",
+            "fr": "Kitchenette dans le logement"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Sea view plus kids pool",
+            "fr": "Vue mer et bassin enfants"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Value",
+            "fr": "Budget"
+          },
+          "value": {
+            "en": "From about 150 EUR",
+            "fr": "Des 150 EUR environ"
+          }
+        },
+        {
+          "icon": "🚶",
+          "label": {
+            "en": "Town",
+            "fr": "Ville"
+          },
+          "value": {
+            "en": "Coves and marina nearby",
+            "fr": "Criques et marina a cote"
+          }
+        },
+        {
+          "icon": "🧸",
+          "label": {
+            "en": "Best for",
+            "fr": "Ideal pour"
+          },
+          "value": {
+            "en": "Babies to young kids",
+            "fr": "Bebes aux jeunes enfants"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏝️",
+          "name": {
+            "en": "Cala Esmeralda cove",
+            "fr": "Crique de Cala Esmeralda"
+          },
+          "detail": {
+            "en": "Sheltered shallow water just below the hotel",
+            "fr": "Eau abritee et peu profonde juste sous l'hotel"
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journee"
+          }
+        },
+        {
+          "emoji": "🛶",
+          "name": {
+            "en": "Cove hopping walk",
+            "fr": "Balade de crique en crique"
+          },
+          "detail": {
+            "en": "Coastal path links several calm Cala d'Or beaches",
+            "fr": "Un sentier cotier relie plusieurs plages calmes de Cala d'Or"
+          },
+          "ages": [
+            "kid"
+          ],
+          "time": {
+            "en": "2h",
+            "fr": "2h"
+          }
+        },
+        {
+          "emoji": "⛵",
+          "name": {
+            "en": "Marina evening",
+            "fr": "Soiree a la marina"
+          },
+          "detail": {
+            "en": "Boats, ice cream and easy dinner in Cala d'Or",
+            "fr": "Bateaux, glaces et diner tranquille a Cala d'Or"
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Le soir"
+          }
+        },
+        {
+          "emoji": "🌅",
+          "name": {
+            "en": "Mondrago beaches",
+            "fr": "Plages de Mondrago"
+          },
+          "detail": {
+            "en": "Natural park beaches a short drive south",
+            "fr": "Plages du parc naturel a quelques minutes au sud"
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journee"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast on the terrace",
+            "fr": "Petit-dejeuner en terrasse"
+          },
+          "note": {
+            "en": "Your own kitchen, your own pace",
+            "fr": "Votre cuisine, votre rythme"
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Down to the cove",
+            "fr": "Descente a la crique"
+          },
+          "note": {
+            "en": "Beat the crowd for shade",
+            "fr": "On devance la foule pour l'ombre"
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and nap",
+            "fr": "Dejeuner et sieste"
+          },
+          "note": {
+            "en": "Cool apartment for the little one",
+            "fr": "Appartement au frais pour le plus petit"
+          }
+        },
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Pool with a view",
+            "fr": "Piscine avec vue"
+          },
+          "note": {
+            "en": "Kids pool for the smallest",
+            "fr": "Bassin enfants pour les plus petits"
+          }
+        },
+        {
+          "time": "19:00",
+          "title": {
+            "en": "Walk to the marina",
+            "fr": "Balade vers la marina"
+          },
+          "note": {
+            "en": "Ice cream and boats",
+            "fr": "Glaces et bateaux"
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Kitchenette and a sheltered cove help, but factor in steps and a slope with a pram.",
+          "fr": "Kitchenette et crique abritee aident, mais tenez compte des marches et de la pente avec une poussette."
+        },
+        "toddler": {
+          "en": "The calm shallow cove is excellent for early paddling.",
+          "fr": "La crique calme et peu profonde est excellente pour les premiers bains."
+        },
+        "kid": {
+          "en": "Cove swimming, cove hopping and boat trips keep this age happy.",
+          "fr": "Baignade, exploration des criques et sorties en bateau ravissent cet age."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is there a kids club?",
+            "fr": "Y a-t-il un club enfants ?"
+          },
+          "a": {
+            "en": "Entertainment is low key here; the draw is the cove and the pools rather than a full club programme.",
+            "fr": "L'animation est discrete ici ; l'atout est la crique et les piscines plutot qu'un vrai programme de club."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it easy with a pushchair?",
+            "fr": "Est-ce pratique avec une poussette ?"
+          },
+          "a": {
+            "en": "The complex is fine, but the path down to the cove has steps and a slope, so a sling can be handy for babies.",
+            "fr": "Le complexe est correct, mais le chemin vers la crique comporte marches et pente : un porte-bebe peut depanner."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we cook in the room?",
+            "fr": "Peut-on cuisiner dans le logement ?"
+          },
+          "a": {
+            "en": "Yes, units have kitchenettes with a big fridge, ideal for breakfasts and simple family meals.",
+            "fr": "Oui, les logements ont une kitchenette avec grand frigo, ideale pour les petits-dejeuners et repas simples."
+          }
+        }
+      ]
+    },
+    {
+      "key": "mallorca-sol-palmanova",
+      "destinationKey": "mallorca",
+      "name": "Sol Palmanova by Melia",
+      "area": {
+        "en": "Palmanova",
+        "fr": "Palmanova"
+      },
+      "lat": 39.5205,
+      "lng": 2.5345,
+      "zoom": 13,
+      "address": "Sol Palmanova by Melia, Palmanova, Mallorca, Spain",
+      "priceTier": 2,
+      "priceFrom": 160,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "baby-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolOrange",
+        "resortLoungers",
+        "poolPalms"
+      ],
+      "scores": {
+        "rooms": 70,
+        "baby": 76,
+        "pool": 84,
+        "dining": 74,
+        "safety": 82,
+        "convenience": 84,
+        "location": 82,
+        "extras": 78
+      },
+      "roomsSummary": {
+        "en": "Straightforward, well kept family rooms that sleep up to four, most with a balcony. Nothing fancy, but functional and clean, with connecting options for bigger groups. This is a value all inclusive, so set expectations around comfort rather than style.",
+        "fr": "Des chambres familiales simples et bien tenues pour quatre personnes, la plupart avec balcon. Rien d'extravagant, mais fonctionnel et propre, avec des options communicantes pour les groupes. C'est un tout compris eco : attendez-vous a du confort plutot qu'a du style."
+      },
+      "intro": {
+        "en": "A friendly, good value all inclusive a short stroll from the shallow, sheltered Palmanova beach on the southwest coast, close to Palma and the airport. Four pools, two with kids' waterslides, a 60cm deep toddler pool and a free Mini Club make it an easy first family holiday base.",
+        "fr": "Un tout compris sympathique et abordable a deux pas de la plage abritee et peu profonde de Palmanova, sur la cote sud-ouest, pres de Palma et de l'aeroport. Quatre piscines dont deux avec toboggans enfants, un bassin tout-petits de 60 cm et un Mini Club gratuit en font une base facile pour un premier sejour en famille."
+      },
+      "highlights": {
+        "en": [
+          "Four pools, two with children's waterslides",
+          "A 60cm deep freshwater toddler pool, safe for the very small",
+          "Free Mini Club with workshops, crafts and a mini disco, May to October",
+          "Short walk to the calm, gently shelving Palmanova beach",
+          "Handy for Palma, the airport and the Western Water Park"
+        ],
+        "fr": [
+          "Quatre piscines, dont deux avec toboggans pour enfants",
+          "Un bassin tout-petits de 60 cm en eau douce, sur pour les tres petits",
+          "Mini Club gratuit avec ateliers, bricolages et mini disco, de mai a octobre",
+          "Courte marche jusqu'a la plage calme et peu profonde de Palmanova",
+          "Pratique pour Palma, l'aeroport et le Western Water Park"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Great value all inclusive with genuinely good pools",
+          "Very safe, shallow toddler pool and nearby beach",
+          "Close to the airport, so short transfers with tired kids"
+        ],
+        "fr": [
+          "Tout compris tres abordable avec de vraies bonnes piscines",
+          "Bassin tout-petits tres sur et peu profond, plage proche",
+          "Proche de l'aeroport, transferts courts avec des enfants fatigues"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Rooms are basic and can feel dated",
+          "Palmanova is busy and lively, not a quiet resort",
+          "All inclusive food is functional buffet fare"
+        ],
+        "fr": [
+          "Les chambres sont basiques et peuvent sembler datees",
+          "Palmanova est animee et frequentee, pas une station tranquille",
+          "La cuisine tout compris est un buffet fonctionnel"
+        ]
+      },
+      "verdict": {
+        "en": "A dependable, wallet friendly family all inclusive with better pools than the price suggests.",
+        "fr": "Un tout compris familial fiable et economique, avec de meilleures piscines que le prix ne le laisse penser."
+      },
+      "parentTip": {
+        "en": "With the airport barely twenty minutes away, book an early flight home and let the kids swim right up to the transfer.",
+        "fr": "L'aeroport etant a peine a vingt minutes, prenez un vol tot le dernier jour et laissez les enfants nager jusqu'au transfert."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Four, two with slides",
+            "fr": "Quatre, deux a toboggans"
+          }
+        },
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Toddler pool",
+            "fr": "Bassin tout-petits"
+          },
+          "value": {
+            "en": "60cm deep, safe",
+            "fr": "60 cm, securisant"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free Mini Club",
+            "fr": "Mini Club gratuit"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Pension"
+          },
+          "value": {
+            "en": "All inclusive",
+            "fr": "Tout compris"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport",
+            "fr": "Aeroport"
+          },
+          "value": {
+            "en": "About 20 min",
+            "fr": "Environ 20 min"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Short walk, shallow",
+            "fr": "A pied, peu profonde"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "Pool slide session",
+            "fr": "Session toboggans"
+          },
+          "detail": {
+            "en": "Two pools have kids' waterslides",
+            "fr": "Deux piscines ont des toboggans pour enfants"
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Any time",
+            "fr": "A tout moment"
+          }
+        },
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Palmanova beach",
+            "fr": "Plage de Palmanova"
+          },
+          "detail": {
+            "en": "Short walk to calm, shallow, sandy water",
+            "fr": "Courte marche vers une eau sablonneuse, calme et peu profonde"
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journee"
+          }
+        },
+        {
+          "emoji": "🌊",
+          "name": {
+            "en": "Western Water Park",
+            "fr": "Western Water Park"
+          },
+          "detail": {
+            "en": "Big water park a short drive away for a day out",
+            "fr": "Grand parc aquatique a quelques minutes pour une journee"
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Full day",
+            "fr": "Journee entiere"
+          }
+        },
+        {
+          "emoji": "🏰",
+          "name": {
+            "en": "Palma old town",
+            "fr": "Vieille ville de Palma"
+          },
+          "detail": {
+            "en": "Cathedral, gelato and easy strolling nearby",
+            "fr": "Cathedrale, glaces et balade facile a cote"
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journee"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Buffet breakfast",
+            "fr": "Petit-dejeuner buffet"
+          },
+          "note": {
+            "en": "Fill up before the pool",
+            "fr": "On fait le plein avant la piscine"
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Slides and toddler pool",
+            "fr": "Toboggans et bassin tout-petits"
+          },
+          "note": {
+            "en": "Something for every age",
+            "fr": "De quoi faire pour chaque age"
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and downtime",
+            "fr": "Dejeuner et pause"
+          },
+          "note": {
+            "en": "Shade during peak sun",
+            "fr": "A l'ombre au plus fort du soleil"
+          }
+        },
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Mini Club",
+            "fr": "Mini Club"
+          },
+          "note": {
+            "en": "Crafts and games",
+            "fr": "Bricolages et jeux"
+          }
+        },
+        {
+          "time": "20:30",
+          "title": {
+            "en": "Mini disco",
+            "fr": "Mini disco"
+          },
+          "note": {
+            "en": "The nightly highlight for little ones",
+            "fr": "Le grand moment du soir pour les petits"
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Cots on request and short transfers help; rooms are basic so manage expectations.",
+          "fr": "Lits bebe sur demande et transferts courts aident ; chambres basiques, gerez les attentes."
+        },
+        "toddler": {
+          "en": "The 60cm toddler pool and gentle beach are ideal for this age.",
+          "fr": "Le bassin de 60 cm et la plage douce sont ideaux pour cet age."
+        },
+        "kid": {
+          "en": "Slides, Mini Club and mini disco fill the days well.",
+          "fr": "Toboggans, Mini Club et mini disco remplissent bien les journees."
+        },
+        "teen": {
+          "en": "Lively resort and nearby water park suit teens, though the hotel itself skews younger.",
+          "fr": "Station animee et parc aquatique proche plaisent aux ados, meme si l'hotel vise plus jeune."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is it good for a first family holiday?",
+            "fr": "Est-ce bien pour un premier sejour en famille ?"
+          },
+          "a": {
+            "en": "Yes, short transfers, a safe toddler pool, a free club and all inclusive make it an easy, low stress choice.",
+            "fr": "Oui, transferts courts, bassin tout-petits securisant, club gratuit et tout compris en font un choix simple et serein."
+          }
+        },
+        {
+          "q": {
+            "en": "How new are the rooms?",
+            "fr": "Les chambres sont-elles recentes ?"
+          },
+          "a": {
+            "en": "They are clean and functional rather than modern; this is a value hotel, so the pools and location are the strengths.",
+            "fr": "Elles sont propres et fonctionnelles plutot que modernes ; c'est un hotel eco, les points forts sont les piscines et l'emplacement."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we get to Palma easily?",
+            "fr": "Peut-on rejoindre Palma facilement ?"
+          },
+          "a": {
+            "en": "Yes, Palma is a short drive or bus ride, good for a half day of cathedral, shopping and gelato.",
+            "fr": "Oui, Palma est a quelques minutes en voiture ou en bus, parfait pour une demi-journee cathedrale, shopping et glaces."
+          }
+        }
+      ]
+    },
+    {
+      "key": "mallorca-st-regis-mardavall",
+      "destinationKey": "mallorca",
+      "name": "The St. Regis Mardavall Mallorca Resort",
+      "area": {
+        "en": "Costa d'en Blanes (Portals Nous)",
+        "fr": "Costa d'en Blanes (Portals Nous)"
+      },
+      "lat": 39.5345,
+      "lng": 2.5785,
+      "zoom": 13,
+      "address": "The St. Regis Mardavall Mallorca Resort, Costa d'en Blanes, Mallorca, Spain",
+      "priceTier": 4,
+      "priceFrom": 480,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites"
+      ],
+      "clubFree": true,
+      "photos": [
+        "infinityPoolSea",
+        "deckLoungersSea",
+        "villaInterior"
+      ],
+      "scores": {
+        "rooms": 95,
+        "baby": 80,
+        "pool": 78,
+        "dining": 92,
+        "safety": 88,
+        "convenience": 80,
+        "location": 78,
+        "extras": 94
+      },
+      "roomsSummary": {
+        "en": "Just 125 spacious rooms and suites, most with a sea view terrace and famous St. Regis butler service. Suites and connecting rooms give families room to spread out in real comfort, with marble bathrooms and quality throughout. This is the grown up, low key luxury end of family travel.",
+        "fr": "Seulement 125 chambres et suites spacieuses, la plupart avec terrasse vue mer et le fameux service de majordome St. Regis. Suites et chambres communicantes offrent aux familles de la place dans un vrai confort, avec salles de bain en marbre et qualite partout. Voici le luxe discret et adulte du voyage en famille."
+      },
+      "intro": {
+        "en": "A quietly luxurious resort near Portals Nous on the southwest coast, more spa retreat than splash park, but genuinely warm with children. Kids aged 3 to 12 get their own free club with two pools, a sandpit and a playground, while parents get a Michelin starred restaurant and one of Europe's largest spas.",
+        "fr": "Un resort au luxe discret pres de Portals Nous, sur la cote sud-ouest, davantage retraite spa que parc aquatique, mais reellement chaleureux avec les enfants. Les 3 a 12 ans ont leur club gratuit avec deux piscines, un bac a sable et une aire de jeux, pendant que les parents profitent d'un restaurant etoile et de l'un des plus grands spas d'Europe."
+      },
+      "highlights": {
+        "en": [
+          "Free kids' club for ages 3 to 12 with two pools, a sandpit and a playground",
+          "St. Regis butler service, a rare touch for travelling with small children",
+          "One of Europe's largest spas at 4,700 sqm, for parent downtime",
+          "Michelin starred dining alongside relaxed all day options",
+          "Calm sea frontage with easy access to smart Portals Nous marina"
+        ],
+        "fr": [
+          "Club enfants gratuit de 3 a 12 ans avec deux piscines, un bac a sable et une aire de jeux",
+          "Service de majordome St. Regis, un vrai plus quand on voyage avec de jeunes enfants",
+          "L'un des plus grands spas d'Europe, 4 700 m2, pour le repos des parents",
+          "Table etoilee aux cotes d'options plus decontractees toute la journee",
+          "Front de mer calme avec acces facile a la marina chic de Portals Nous"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Exceptional rooms, service and food at the very top of the market",
+          "A free kids' club and warm welcome for children despite the luxury feel",
+          "Superb spa and grown up spaces for genuine parent recharge"
+        ],
+        "fr": [
+          "Chambres, service et cuisine exceptionnels, tout en haut de gamme",
+          "Un club enfants gratuit et un accueil chaleureux malgre l'esprit luxe",
+          "Spa superbe et espaces adultes pour une vraie recharge des parents"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Premium prices that put it out of reach for many families",
+          "No big waterslides or splash park, so thrill seeking kids may want more",
+          "The sea frontage is rocky rather than a long sandy beach"
+        ],
+        "fr": [
+          "Tarifs premium hors de portee pour beaucoup de familles",
+          "Pas de grands toboggans ni de parc aquatique, les amateurs de sensations en voudront plus",
+          "Le front de mer est rocheux plutot qu'une longue plage de sable"
+        ]
+      },
+      "verdict": {
+        "en": "Quiet five star luxury that still makes room for children, if the budget stretches.",
+        "fr": "Un luxe cinq etoiles discret qui fait quand meme sa place aux enfants, si le budget suit."
+      },
+      "parentTip": {
+        "en": "Use the butler for the unglamorous wins: pre stocking the fridge with milk, arranging a cot, booking an early kids dinner. That is where the service earns its keep.",
+        "fr": "Servez-vous du majordome pour l'intendance : remplir le frigo de lait, installer un lit bebe, reserver un diner tot pour les enfants. C'est la que le service prend tout son sens."
+      },
+      "atAGlance": [
+        {
+          "icon": "🤵",
+          "label": {
+            "en": "Service",
+            "fr": "Service"
+          },
+          "value": {
+            "en": "Butler for every room",
+            "fr": "Majordome par chambre"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free, ages 3 to 12",
+            "fr": "Gratuit, 3 a 12 ans"
+          }
+        },
+        {
+          "icon": "💆",
+          "label": {
+            "en": "Spa",
+            "fr": "Spa"
+          },
+          "value": {
+            "en": "4,700 sqm, huge",
+            "fr": "4 700 m2, immense"
+          }
+        },
+        {
+          "icon": "⭐",
+          "label": {
+            "en": "Dining",
+            "fr": "Restauration"
+          },
+          "value": {
+            "en": "Michelin starred",
+            "fr": "Table etoilee"
+          }
+        },
+        {
+          "icon": "⛵",
+          "label": {
+            "en": "Nearby",
+            "fr": "A cote"
+          },
+          "value": {
+            "en": "Portals Nous marina",
+            "fr": "Marina de Portals Nous"
+          }
+        },
+        {
+          "icon": "🌊",
+          "label": {
+            "en": "Shore",
+            "fr": "Littoral"
+          },
+          "value": {
+            "en": "Rocky, calm sea",
+            "fr": "Rocheux, mer calme"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Kids' club pools",
+            "fr": "Piscines du club enfants"
+          },
+          "detail": {
+            "en": "Two dedicated pools, sandpit and playground",
+            "fr": "Deux piscines dediees, bac a sable et aire de jeux"
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journee"
+          }
+        },
+        {
+          "emoji": "⛵",
+          "name": {
+            "en": "Portals Nous marina",
+            "fr": "Marina de Portals Nous"
+          },
+          "detail": {
+            "en": "Superyachts, ice cream and a stroll after dinner",
+            "fr": "Yachts, glaces et balade apres le diner"
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Le soir"
+          }
+        },
+        {
+          "emoji": "🐠",
+          "name": {
+            "en": "Palma Aquarium",
+            "fr": "Palma Aquarium"
+          },
+          "detail": {
+            "en": "Sharks and a deep tank a short drive away",
+            "fr": "Requins et grand bassin a quelques minutes en voiture"
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journee"
+          }
+        },
+        {
+          "emoji": "🏰",
+          "name": {
+            "en": "Palma old town",
+            "fr": "Vieille ville de Palma"
+          },
+          "detail": {
+            "en": "Cathedral and gardens fifteen minutes away",
+            "fr": "Cathedrale et jardins a quinze minutes"
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journee"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Sea view breakfast",
+            "fr": "Petit-dejeuner vue mer"
+          },
+          "note": {
+            "en": "Take your time on the terrace",
+            "fr": "On prend son temps sur la terrasse"
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Kids' club splash",
+            "fr": "Piscines du club enfants"
+          },
+          "note": {
+            "en": "Two pools and a sandpit",
+            "fr": "Deux piscines et un bac a sable"
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and rest",
+            "fr": "Dejeuner et repos"
+          },
+          "note": {
+            "en": "Nap in the cool suite",
+            "fr": "Sieste dans la suite au frais"
+          }
+        },
+        {
+          "time": "15:30",
+          "title": {
+            "en": "Spa for the parents",
+            "fr": "Spa pour les parents"
+          },
+          "note": {
+            "en": "Kids stay in the supervised club",
+            "fr": "Les enfants restent au club encadre"
+          }
+        },
+        {
+          "time": "18:30",
+          "title": {
+            "en": "Early kids dinner",
+            "fr": "Diner tot des enfants"
+          },
+          "note": {
+            "en": "Butler arranges the timing",
+            "fr": "Le majordome cale l'horaire"
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Cots, butler help and calm spaces work beautifully, though there is no baby splash park.",
+          "fr": "Lits bebe, aide du majordome et espaces calmes fonctionnent tres bien, meme sans parc aquatique pour bebe."
+        },
+        "toddler": {
+          "en": "The gentle kids' club pools and sandpit are perfect for this age.",
+          "fr": "Les piscines douces du club et le bac a sable sont parfaits pour cet age."
+        },
+        "kid": {
+          "en": "The 3 to 12 club covers this age; older kids who want slides may find it quiet.",
+          "fr": "Le club 3 a 12 ans couvre cet age ; les plus grands en quete de toboggans le trouveront calme."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is it really family friendly at this level of luxury?",
+            "fr": "Est-ce vraiment adapte aux familles a ce niveau de luxe ?"
+          },
+          "a": {
+            "en": "Yes, there is a free club for ages 3 to 12, cots and family suites, and staff are warm with children, but the vibe stays calm and grown up.",
+            "fr": "Oui, il y a un club gratuit de 3 a 12 ans, des lits bebe et des suites familiales, et le personnel est chaleureux avec les enfants, mais l'ambiance reste calme et adulte."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a sandy beach?",
+            "fr": "Y a-t-il une plage de sable ?"
+          },
+          "a": {
+            "en": "The resort's shore is rocky with calm sea; sandy beaches like Palmanova are a short drive away.",
+            "fr": "Le littoral du resort est rocheux avec une mer calme ; des plages de sable comme Palmanova sont a quelques minutes en voiture."
+          }
+        },
+        {
+          "q": {
+            "en": "What does the butler service actually do?",
+            "fr": "A quoi sert vraiment le majordome ?"
+          },
+          "a": {
+            "en": "Practical things travel with kids demand: unpacking, stocking the fridge, arranging cots and timing meals around nap schedules.",
+            "fr": "Aux taches concretes qu'impose un voyage avec enfants : defaire les valises, remplir le frigo, installer les lits bebe et caler les repas sur les siestes."
+          }
+        }
+      ]
+    },
+    {
+      "key": "mallorca-mar-hotels-playa-mar-spa",
+      "destinationKey": "mallorca",
+      "name": "Mar Hotels Playa Mar & Spa",
+      "area": {
+        "en": "Port de Pollenca",
+        "fr": "Port de Pollenca"
+      },
+      "lat": 39.9055,
+      "lng": 3.0835,
+      "zoom": 13,
+      "address": "Mar Hotels Playa Mar & Spa, Port de Pollenca, Mallorca, Spain",
+      "priceTier": 3,
+      "priceFrom": 200,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "baby-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolPalms",
+        "beachSunset",
+        "resortLoungers"
+      ],
+      "scores": {
+        "rooms": 79,
+        "baby": 82,
+        "pool": 83,
+        "dining": 78,
+        "safety": 86,
+        "convenience": 80,
+        "location": 86,
+        "extras": 82
+      },
+      "roomsSummary": {
+        "en": "Refreshed family rooms sleeping up to four, most with a balcony, some with a sofa area for a bit of breathing space. Comfortable and well kept rather than plush, with connecting options worth requesting for larger families.",
+        "fr": "Des chambres familiales rafraichies pour quatre personnes, la plupart avec balcon, certaines avec coin salon pour respirer un peu. Confortables et bien tenues plutot que luxueuses, avec des chambres communicantes a demander pour les grandes familles."
+      },
+      "intro": {
+        "en": "A lively four star about a hundred metres from the beach in Port de Pollenca, the calm, family loved bay in Mallorca's north. The pull is the Splash! Zone with waterslides for kids aged 2 to 16, a free Mini Club and a spa, all a short walk from the famous flat Pine Walk promenade.",
+        "fr": "Un quatre etoiles anime a une centaine de metres de la plage a Port de Pollenca, la baie calme et prisee des familles dans le nord de Majorque. L'atout, c'est la Splash! Zone avec toboggans pour les 2 a 16 ans, un Mini Club gratuit et un spa, le tout a deux pas de la fameuse promenade plate du Pine Walk."
+      },
+      "highlights": {
+        "en": [
+          "Splash! Zone with waterslides catering to a wide 2 to 16 age range",
+          "Free Mini Club for ages 4 to 12 with a daily programme",
+          "About 100m from the calm, shallow Pollenca bay beach",
+          "Spa and show cooking restaurant for the grown ups",
+          "Steps from the flat, pram friendly Pine Walk promenade"
+        ],
+        "fr": [
+          "Splash! Zone avec toboggans couvrant une large tranche de 2 a 16 ans",
+          "Mini Club gratuit de 4 a 12 ans avec programme quotidien",
+          "A environ 100 m de la plage calme et peu profonde de la baie de Pollenca",
+          "Spa et restaurant show cooking pour les parents",
+          "A deux pas de la promenade plate et accessible du Pine Walk"
+        ]
+      },
+      "pros": {
+        "en": [
+          "One of the more complete family hotels in a genuinely calm bay",
+          "Water play spanning a wide age range, toddlers to teens",
+          "Flat, safe promenade and shallow beach right nearby"
+        ],
+        "fr": [
+          "L'un des hotels familiaux les plus complets dans une baie vraiment calme",
+          "Jeux d'eau couvrant une large tranche d'age, des tout-petits aux ados",
+          "Promenade plate et sure et plage peu profonde juste a cote"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Not beachfront, so it is a short walk with the beach kit",
+          "Popular and busy, with the usual peak season sunbed scramble",
+          "Rooms are comfortable but not luxurious"
+        ],
+        "fr": [
+          "Pas en front de mer, une courte marche avec tout l'attirail de plage",
+          "Populaire et frequente, avec la course aux transats en haute saison",
+          "Chambres confortables mais sans luxe"
+        ]
+      },
+      "verdict": {
+        "en": "The most family complete base in calm Port de Pollenca, strong across all ages.",
+        "fr": "La base familiale la plus complete dans le calme de Port de Pollenca, solide pour tous les ages."
+      },
+      "parentTip": {
+        "en": "Do the Pine Walk at golden hour: it is flat, shaded and pram friendly, and the bay light is lovely with tired kids after dinner.",
+        "fr": "Faites le Pine Walk a l'heure doree : c'est plat, ombrage et accessible en poussette, et la lumiere de la baie est superbe avec des enfants fatigues apres le diner."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water play",
+            "fr": "Jeux d'eau"
+          },
+          "value": {
+            "en": "Splash Zone, ages 2 to 16",
+            "fr": "Splash Zone, 2 a 16 ans"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free Mini Club",
+            "fr": "Mini Club gratuit"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "About 100m, calm",
+            "fr": "Environ 100 m, calme"
+          }
+        },
+        {
+          "icon": "🌲",
+          "label": {
+            "en": "Nearby",
+            "fr": "A cote"
+          },
+          "value": {
+            "en": "Flat Pine Walk",
+            "fr": "Pine Walk, plat"
+          }
+        },
+        {
+          "icon": "💆",
+          "label": {
+            "en": "Spa",
+            "fr": "Spa"
+          },
+          "value": {
+            "en": "On site",
+            "fr": "Sur place"
+          }
+        },
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Rooms",
+            "fr": "Chambres"
+          },
+          "value": {
+            "en": "Family rooms sleep 4",
+            "fr": "Familiales pour 4"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "Splash Zone slides",
+            "fr": "Toboggans de la Splash Zone"
+          },
+          "detail": {
+            "en": "Waterslides scaled for toddlers up to teens",
+            "fr": "Toboggans adaptes des tout-petits aux ados"
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Any time",
+            "fr": "A tout moment"
+          }
+        },
+        {
+          "emoji": "🌲",
+          "name": {
+            "en": "Pine Walk stroll",
+            "fr": "Balade du Pine Walk"
+          },
+          "detail": {
+            "en": "Flat, shaded seafront promenade, pram friendly",
+            "fr": "Promenade plate et ombragee en bord de mer, accessible en poussette"
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "1h",
+            "fr": "1h"
+          }
+        },
+        {
+          "emoji": "⛵",
+          "name": {
+            "en": "Formentor boat trip",
+            "fr": "Excursion en bateau a Formentor"
+          },
+          "detail": {
+            "en": "Boats cross the bay to a dramatic beach",
+            "fr": "Des bateaux traversent la baie vers une plage spectaculaire"
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journee"
+          }
+        },
+        {
+          "emoji": "🥾",
+          "name": {
+            "en": "Cala Sant Vicenc coves",
+            "fr": "Criques de Cala Sant Vicenc"
+          },
+          "detail": {
+            "en": "Small sheltered coves a short drive away",
+            "fr": "Petites criques abritees a quelques minutes en voiture"
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journee"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast buffet",
+            "fr": "Buffet du petit-dejeuner"
+          },
+          "note": {
+            "en": "High chairs and space for prams",
+            "fr": "Chaises hautes et place pour les poussettes"
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Splash Zone",
+            "fr": "Splash Zone"
+          },
+          "note": {
+            "en": "Slides for every size",
+            "fr": "Toboggans pour toutes les tailles"
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and rest",
+            "fr": "Dejeuner et repos"
+          },
+          "note": {
+            "en": "Out of the midday sun",
+            "fr": "A l'abri du soleil de midi"
+          }
+        },
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Beach and Mini Club",
+            "fr": "Plage et Mini Club"
+          },
+          "note": {
+            "en": "Calm shallow bay a short walk away",
+            "fr": "Baie calme et peu profonde a deux pas"
+          }
+        },
+        {
+          "time": "19:30",
+          "title": {
+            "en": "Pine Walk after dinner",
+            "fr": "Pine Walk apres le diner"
+          },
+          "note": {
+            "en": "Gentle wind down by the sea",
+            "fr": "Retour au calme en bord de mer"
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Calm bay, flat promenade and cots make it easy; it is a short walk to the sand though.",
+          "fr": "Baie calme, promenade plate et lits bebe facilitent la vie ; la plage reste a quelques minutes a pied."
+        },
+        "toddler": {
+          "en": "The Splash Zone starts young and the shallow bay is ideal.",
+          "fr": "La Splash Zone accueille les petits et la baie peu profonde est ideale."
+        },
+        "kid": {
+          "en": "Slides, club and boat trips make this a strong all rounder.",
+          "fr": "Toboggans, club et sorties en bateau en font un excellent choix polyvalent."
+        },
+        "teen": {
+          "en": "Slides run to 16 and there are boat trips and coves to explore.",
+          "fr": "Les toboggans vont jusqu'a 16 ans, avec sorties en bateau et criques a explorer."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is Port de Pollenca good for young families?",
+            "fr": "Port de Pollenca convient-il aux jeunes familles ?"
+          },
+          "a": {
+            "en": "Very much so: the bay is calm and shallow, the Pine Walk is flat and shaded, and the resort is relaxed rather than rowdy.",
+            "fr": "Tout a fait : la baie est calme et peu profonde, le Pine Walk est plat et ombrage, et la station est detendue plutot que bruyante."
+          }
+        },
+        {
+          "q": {
+            "en": "Are the waterslides suitable for little ones?",
+            "fr": "Les toboggans conviennent-ils aux plus petits ?"
+          },
+          "a": {
+            "en": "The Splash Zone spans ages 2 to 16, so there are gentler slides for toddlers and bigger ones for older kids.",
+            "fr": "La Splash Zone couvre de 2 a 16 ans, avec des toboggans doux pour les tout-petits et de plus grands pour les aines."
+          }
+        },
+        {
+          "q": {
+            "en": "How far is the beach?",
+            "fr": "La plage est-elle loin ?"
+          },
+          "a": {
+            "en": "About a hundred metres to the calm sands of Pollenca bay.",
+            "fr": "Environ cent metres jusqu'au sable calme de la baie de Pollenca."
+          }
+        }
+      ]
+    }
+  ],
+  "destinationMeta": {
+    "heroKicker": {
+      "en": "Europe's easiest family beach island",
+      "fr": "L'ile plage la plus simple d'Europe en famille"
+    },
+    "intro": {
+      "en": "Mallorca is the family beach island so many parents come back to, and for good reason. The north has long, shallow, gently shelving bays made for small children, the resorts are packed with splash parks and free kids clubs, and short transfers from a well run airport mean you are on the sand within an hour of landing. Add calm coves in the south, a beautiful old capital and reliable summer sun, and you have a holiday that works from babies to teens.",
+      "fr": "Majorque est l'ile plage vers laquelle tant de parents reviennent, et pour de bonnes raisons. Le nord aligne de longues baies peu profondes a la pente douce, taillees pour les petits, les hotels regorgent de parcs aquatiques et de clubs enfants gratuits, et les transferts courts depuis un aeroport bien rode vous mettent les pieds dans le sable moins d'une heure apres l'atterrissage. Ajoutez des criques calmes au sud, une belle capitale ancienne et un soleil d'ete fiable, et vous tenez des vacances qui marchent du bebe a l'ado."
+    },
+    "whyKids": {
+      "en": [
+        "Long, shallow, gently shelving beaches in the north, especially Playa de Muro and Alcudia, where you wade out a long way before it gets deep",
+        "Family resorts loaded with splash parks, waterslides and free kids clubs",
+        "Short transfers from Palma airport, so tired little ones are in the pool fast",
+        "Easy day trips: caves, water parks, boat rides and a walkable old capital in Palma"
+      ],
+      "fr": [
+        "De longues plages peu profondes a la pente douce dans le nord, surtout Playa de Muro et Alcudia, ou l'on avance longtemps avant que ca devienne profond",
+        "Des hotels familiaux bourres de parcs aquatiques, de toboggans et de clubs enfants gratuits",
+        "Des transferts courts depuis l'aeroport de Palma, les petits fatigues sont vite a la piscine",
+        "Des sorties faciles : grottes, parcs aquatiques, bateaux et une capitale, Palma, agreable a pied"
+      ]
+    },
+    "bestAreas": {
+      "en": [
+        "Alcudia and Playa de Muro: the best shallow family beaches and the biggest choice of splash park resorts",
+        "Port de Pollenca: a calmer northern bay with a flat, pram friendly seafront walk",
+        "Cala d'Or and the southeast: pretty sheltered coves and aparthotels for quieter, self catering stays"
+      ],
+      "fr": [
+        "Alcudia et Playa de Muro : les meilleures plages familiales peu profondes et le plus grand choix d'hotels a parc aquatique",
+        "Port de Pollenca : une baie du nord plus calme avec une promenade plate et accessible en poussette",
+        "Cala d'Or et le sud-est : de jolies criques abritees et des appart-hotels pour des sejours plus tranquilles en cuisine autonome"
+      ]
+    },
+    "stats": [
+      {
+        "value": "1km+",
+        "label": {
+          "en": "of shallow sand at Playa de Muro",
+          "fr": "de sable peu profond a Playa de Muro"
+        }
+      },
+      {
+        "value": "~25 min",
+        "label": {
+          "en": "from Palma airport to many resorts",
+          "fr": "de l'aeroport de Palma a de nombreux hotels"
+        }
+      },
+      {
+        "value": "300+",
+        "label": {
+          "en": "days of sun a year",
+          "fr": "jours de soleil par an"
+        }
+      }
+    ],
+    "activities": [
+      {
+        "emoji": "🌊",
+        "name": {
+          "en": "Big water parks",
+          "fr": "Grands parcs aquatiques"
+        },
+        "detail": {
+          "en": "Western Water Park and Hidropark for a full day of slides",
+          "fr": "Western Water Park et Hidropark pour une journee de toboggans"
+        },
+        "ages": [
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Full day",
+          "fr": "Journee entiere"
+        }
+      },
+      {
+        "emoji": "🕳️",
+        "name": {
+          "en": "Caves of Drach",
+          "fr": "Grottes du Drach"
+        },
+        "detail": {
+          "en": "Vast caverns and an underground lake near Porto Cristo",
+          "fr": "Vastes cavernes et lac souterrain pres de Porto Cristo"
+        },
+        "ages": [
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Half day",
+          "fr": "Demi-journee"
+        }
+      },
+      {
+        "emoji": "⛵",
+        "name": {
+          "en": "Bay boat trips",
+          "fr": "Sorties en bateau dans la baie"
+        },
+        "detail": {
+          "en": "Easy family boat rides from Alcudia and Pollenca",
+          "fr": "Sorties en bateau faciles au depart d'Alcudia et de Pollenca"
+        },
+        "ages": [
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Half day",
+          "fr": "Demi-journee"
+        }
+      },
+      {
+        "emoji": "🏰",
+        "name": {
+          "en": "Palma old town",
+          "fr": "Vieille ville de Palma"
+        },
+        "detail": {
+          "en": "Cathedral, gardens, aquarium and gelato in the capital",
+          "fr": "Cathedrale, jardins, aquarium et glaces dans la capitale"
+        },
+        "ages": [
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Half day",
+          "fr": "Demi-journee"
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "q": {
+          "en": "Which part of Mallorca is best for young children?",
+          "fr": "Quelle partie de Majorque est la meilleure pour les jeunes enfants ?"
+        },
+        "a": {
+          "en": "The north around Alcudia, Playa de Muro and Port de Pollenca, where the bays are long, sandy and very shallow, so toddlers can paddle safely a long way out.",
+          "fr": "Le nord autour d'Alcudia, Playa de Muro et Port de Pollenca, ou les baies sont longues, sablonneuses et tres peu profondes : les tout-petits barbotent en securite loin du bord."
+        }
+      },
+      {
+        "q": {
+          "en": "How long are transfers from the airport?",
+          "fr": "Combien de temps durent les transferts depuis l'aeroport ?"
+        },
+        "a": {
+          "en": "Southwest resorts like Palmanova are around 20 to 25 minutes; the northern beaches near Alcudia are about an hour.",
+          "fr": "Les stations du sud-ouest comme Palmanova sont a environ 20 a 25 minutes ; les plages du nord pres d'Alcudia sont a environ une heure."
+        }
+      },
+      {
+        "q": {
+          "en": "All inclusive or an apartment with a kitchen?",
+          "fr": "Tout compris ou appartement avec cuisine ?"
+        },
+        "a": {
+          "en": "All inclusive suits families who want everything sorted and lots of pool time; an aparthotel with a kitchenette suits babies, toddlers and anyone who values their own routine and budget.",
+          "fr": "Le tout compris convient aux familles qui veulent tout gere et beaucoup de piscine ; un appart-hotel avec kitchenette convient aux bebes, aux tout-petits et a tous ceux qui tiennent a leur rythme et a leur budget."
+        }
+      }
+    ],
+    "parentTip": {
+      "en": "Base yourself in the north for the shallowest beaches, then hire a car for two or three days to reach the caves, coves and Palma without being tied to resort transfers.",
+      "fr": "Installez-vous dans le nord pour les plages les moins profondes, puis louez une voiture deux ou trois jours pour rejoindre les grottes, les criques et Palma sans dependre des transferts."
+    },
+    "goodToKnow": {
+      "en": "July and August are hot and busy, with the highest prices and the fiercest sunbed competition. Late May, June and September are gentler on small children and the wallet, with warm sea and calmer resorts.",
+      "fr": "Juillet et aout sont chauds et charges, avec les prix les plus eleves et la plus rude bataille des transats. La fin mai, juin et septembre sont plus doux pour les petits et le budget, avec une mer chaude et des stations plus calmes."
+    },
+    "emoji": "🏝️",
+    "photos": [
+      "whiteResortPool",
+      "deckLoungersSea",
+      "poolPalms"
+    ]
+  }
+}

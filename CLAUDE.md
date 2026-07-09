@@ -13,9 +13,12 @@ Brand voice: written by parents, for parents. Warm, specific, honest, joyful.
 
 ## Adding content
 
-- **Hotel**: add to `data/hotels.ts` (fill all 8 `scores`, `roomsSummary`, pros/cons),
-  reference its `key` from a destination's `hotelKeys`. The registry + routes pick it
-  up automatically.
+- **Hotel**: add an entry to the destination's `data/hotels/<destKey>.json` (the
+  HotelSeed shape: 8 `scores`, `roomsSummary`, `amenities`, `photos`, rich content).
+  `data/hotels/load.ts` maps it to a `Hotel` (slug/geo/related auto-generated) and
+  `data/hotels.ts` exposes it. Destinations auto-populate their line-up and the
+  combo matrix regenerates. Run `node scripts/validate-seeds.mjs` after editing
+  (it strips em-dashes/entities and checks every field/enum).
 - **Destination**: add to `data/destinations.ts`.
 - **Guide**: add metadata to `data/guides.ts`, write `content/guides/{en,fr}/<key>.mdx`,
   register both in `data/guide-content.ts`.
