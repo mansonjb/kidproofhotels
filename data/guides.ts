@@ -1,8 +1,9 @@
 import type { Guide } from "@/lib/types";
+import { backfillDeep, src } from "@/lib/l10n";
 
 // Guide metadata. The article body for each lives in content/guides/{locale}/{key}.mdx
 // and is wired up in data/guide-content.ts.
-export const GUIDES: Guide[] = [
+export const GUIDES: Guide[] = src([
   {
     key: "guide-connecting-rooms",
     hero: "roomCozy",
@@ -113,6 +114,8 @@ export const GUIDES: Guide[] = [
     readMinutes: 6,
     related: ["guide-allinclusive-europe", "costa-del-sol"],
   },
-];
+]);
+
+backfillDeep(GUIDES);
 
 export const GUIDE_BY_KEY = new Map(GUIDES.map((g) => [g.key, g]));

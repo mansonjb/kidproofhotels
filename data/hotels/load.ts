@@ -1,6 +1,7 @@
-import type { AgeBand, Hotel } from "@/lib/types";
+import type { AgeBand, Hotel, L10n } from "@/lib/types";
 import { slugify } from "@/lib/slug";
 import { kidProofScore } from "@/lib/score";
+import { backfillDeep, src } from "@/lib/l10n";
 import lisbon from "./lisbon.json";
 import algarve from "./algarve.json";
 import costa from "./costa-del-sol.json";
@@ -43,7 +44,7 @@ function toHotel(raw: Record<string, unknown>, usedSlugs: Set<string>): Hotel {
     name: s.name,
     destinationKey: s.destinationKey,
     area: s.area,
-    slug: { en: slug, fr: slug },
+    slug: src<L10n>({ en: slug, fr: slug }),
     geo: { lat: s.lat, lng: s.lng, zoom: s.zoom ?? 13 },
     address: s.address,
     priceTier: s.priceTier,
@@ -73,6 +74,8 @@ const used = new Set<string>();
 export const SEED_HOTELS: Hotel[] = FILES.flatMap((f) =>
   (f.hotels ?? []).map((s) => toHotel(s, used)),
 );
+// Fill missing locales (it/de/es/pt) with English until translated.
+backfillDeep(SEED_HOTELS);
 
 // Auto-relate: up to 3 other hotels in the same destination, best score first.
 for (const h of SEED_HOTELS) {

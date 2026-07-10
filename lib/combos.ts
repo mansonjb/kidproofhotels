@@ -2,6 +2,7 @@ import { AMENITIES, type AmenityId } from "@/data/amenities";
 import { DESTINATIONS } from "@/data/destinations";
 import { hotelsInDestination } from "@/data/hotels";
 import type { L10n } from "@/lib/types";
+import { src } from "@/lib/l10n";
 
 // City x amenity long-tail matrix: "family hotels with a pool in Lisbon".
 // The highest-intent pages of all. We only generate a combo when at least two
@@ -38,10 +39,10 @@ for (const d of DESTINATIONS) {
       key: `combo-${d.key}-${a.id}`,
       destKey: d.key,
       amenityId: a.id,
-      slug: {
+      slug: src<L10n>({
         en: `${a.slug.en}-in-${slugifyPlace(d.name.en)}`,
         fr: `${a.slug.fr}-a-${slugifyPlace(d.name.fr)}`,
-      },
+      }),
       hotelKeys: matches.map((h) => h.key),
     });
   }

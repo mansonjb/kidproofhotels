@@ -1,5 +1,6 @@
 import type { ImgKey } from "@/lib/images";
 import type { L10n } from "@/lib/types";
+import { backfillDeep, src } from "@/lib/l10n";
 
 // Family amenity taxonomy. This is what turns the site from a handful of pages
 // into a browsable matrix: "family hotels with a pool", "with a free kids club",
@@ -29,16 +30,16 @@ export type Amenity = {
   tip: L10n; // parent tip callout on the amenity page
 };
 
-export const AMENITIES: Amenity[] = [
+export const AMENITIES: Amenity[] = src([
   {
     id: "pool",
     emoji: "🏊",
     img: "poolPalms",
     accent: "2bb3c0",
-    label: { en: "Swimming pool", fr: "Piscine" },
-    short: { en: "Hotels with a pool the kids can actually use", fr: "Des hôtels avec une piscine où les enfants peuvent vraiment nager" },
-    slug: { en: "family-hotels-with-a-pool", fr: "hotels-famille-avec-piscine" },
-    h1: { en: "Family hotels with a pool", fr: "Hôtels famille avec piscine" },
+    label: { en: "Swimming pool", fr: "Piscine", it: "Piscina", de: "Swimmingpool", es: "Piscina", pt: "Piscina" },
+    short: { en: "Hotels with a pool the kids can actually use", fr: "Des hôtels avec une piscine où les enfants peuvent vraiment nager", it: "Hotel con piscina che i bambini possono davvero usare", de: "Hotels mit Pool, den die Kinder wirklich nutzen können", es: "Hoteles con piscina que los niños pueden usar de verdad", pt: "Hotéis com piscina que as crianças podem mesmo usar" },
+    slug: { en: "family-hotels-with-a-pool", fr: "hotels-famille-avec-piscine", it: "hotel-per-famiglie-con-piscina", de: "familienhotels-mit-pool", es: "hoteles-familiares-con-piscina", pt: "hoteis-para-familias-com-piscina" },
+    h1: { en: "Family hotels with a pool", fr: "Hôtels famille avec piscine", it: "Hotel per famiglie con piscina", de: "Familienhotels mit Pool", es: "Hoteles familiares con piscina", pt: "Hotéis para famílias com piscina" },
     intro: {
       en: "A pool is the number one amenity families search for, but not all pools are equal. We flag the shallow end, the toddler shelf and whether it is watched, so you know it works for your children before you book.",
       fr: "La piscine est l'équipement le plus recherché par les familles, mais toutes ne se valent pas. On signale le fond plat, le rebord pour tout-petits et la surveillance, pour savoir si elle convient à vos enfants avant de réserver.",
@@ -192,6 +193,8 @@ export const AMENITIES: Amenity[] = [
       fr: "Privilégiez les quartiers plats et à pied avec un métro devant. Ça compte plus que le nombre d'étoiles avec une poussette.",
     },
   },
-];
+]);
+
+backfillDeep(AMENITIES);
 
 export const AMENITY_BY_ID = new Map(AMENITIES.map((a) => [a.id, a]));

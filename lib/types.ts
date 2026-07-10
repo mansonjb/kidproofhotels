@@ -2,10 +2,13 @@ import type { Locale } from "@/lib/i18n";
 import type { ImgKey } from "@/lib/images";
 import type { AmenityId } from "@/data/amenities";
 
-/** A short string translated into every supported locale. */
+/** A localized string. Authored with en (+fr); missing locales are filled with
+ *  English by backfillDeep at the data boundary, so every locale reads a string. */
 export type L10n = Record<Locale, string>;
-/** A list of short strings, translated into every locale. */
+/** A localized list of strings, same backfill contract as L10n. */
 export type L10nList = Record<Locale, string[]>;
+/** Loose shape for authored content before backfill (en required, rest optional). */
+export type L10nSrc = { en: string } & Partial<Record<Locale, string>>;
 
 export type Geo = { lat: number; lng: number; zoom?: number };
 

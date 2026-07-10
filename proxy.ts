@@ -1,12 +1,12 @@
 import { NextResponse, type NextRequest } from "next/server";
 
 // i18n routing (Next 16 "proxy", formerly middleware):
-// EN (default) at the root, FR prefixed by /fr.
-//  - /fr/...  : passes through (rendered by [locale]=fr)
-//  - /en/...  : redirects to /... (the default prefix must not be exposed)
-//  - /...     : rewritten internally to /en/... (rendered by [locale]=en)
+// EN (default) at the root, every other locale prefixed (/fr, /it, /de, /es, /pt).
+//  - /<loc>/...  : passes through (rendered by [locale]=loc)
+//  - /en/...     : redirects to /... (the default prefix must not be exposed)
+//  - /...        : rewritten internally to /en/... (rendered by [locale]=en)
 const DEFAULT_LOCALE = "en";
-const PREFIXED = ["fr"];
+const PREFIXED = ["fr", "it", "de", "es", "pt"];
 
 export function proxy(req: NextRequest) {
   const { pathname } = req.nextUrl;

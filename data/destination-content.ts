@@ -1,5 +1,6 @@
 import type { ImgKey } from "@/lib/images";
 import type { Activity, Faq, L10n, Stat } from "@/lib/types";
+import { src } from "@/lib/l10n";
 
 // Rich, per-destination content, merged onto the destinations in
 // data/destinations.ts. Voice: parent to parent. No em-dashes.
@@ -13,7 +14,7 @@ export type DestExtra = {
   goodToKnow: L10n;
 };
 
-export const DEST_CONTENT: Record<string, DestExtra> = {
+export const DEST_CONTENT: Record<string, DestExtra> = src({
   lisbon: {
     photos: ["lisbonTram", "coastTown", "poolDusk"],
     stats: [
@@ -196,4 +197,4 @@ export const DEST_CONTENT: Record<string, DestExtra> = {
       fr: "Les resorts d'ici sont grands et animés. Formidable pour les enfants qui aiment l'eau, mais demandez une chambre côté calme avec un bébé qui fait la sieste.",
     },
   },
-};
+});

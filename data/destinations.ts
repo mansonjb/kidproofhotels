@@ -2,6 +2,7 @@ import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
 import { MALLORCA_META, TENERIFE_META, CRETE_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
+import { backfillDeep, src } from "@/lib/l10n";
 
 // Newer destinations pull their editorial content from the JSON seed's meta.
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -13,7 +14,7 @@ const C = (CRETE_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
-export const DESTINATIONS: Destination[] = [
+export const DESTINATIONS: Destination[] = src([
   {
     key: "lisbon",
     name: { en: "Lisbon", fr: "Lisbonne" },
@@ -254,7 +255,7 @@ export const DESTINATIONS: Destination[] = [
     parentTip: C.parentTip,
     goodToKnow: C.goodToKnow,
   },
-];
+]);
 
 // Merge rich content (photos, stats, activities, FAQs, tips) onto destinations,
 // and populate each destination's hotel line-up from the loaded hotels.
@@ -263,5 +264,6 @@ for (const d of DESTINATIONS) {
   if (extra) Object.assign(d, extra);
   d.hotelKeys = hotelsInDestination(d.key).map((h) => h.key);
 }
+backfillDeep(DESTINATIONS);
 
 export const DEST_BY_KEY = new Map(DESTINATIONS.map((d) => [d.key, d]));

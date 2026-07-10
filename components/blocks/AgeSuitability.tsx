@@ -1,6 +1,6 @@
 import type { Dict } from "@/data/i18n/ui";
 import type { Locale } from "@/lib/i18n";
-import type { AgeBand } from "@/lib/types";
+import type { AgeBand, L10n } from "@/lib/types";
 
 const ORDER: AgeBand[] = ["baby", "toddler", "kid", "teen"];
 const EMOJI: Record<AgeBand, string> = { baby: "👶", toddler: "🧒", kid: "🧑", teen: "🧑‍🎤" };
@@ -14,7 +14,7 @@ export function AgeSuitability({
   locale,
 }: {
   ages: AgeBand[];
-  notes: Partial<Record<AgeBand, { en: string; fr: string }>>;
+  notes: Partial<Record<AgeBand, L10n>>;
   dict: Dict;
   locale: Locale;
 }) {

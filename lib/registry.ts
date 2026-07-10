@@ -5,9 +5,10 @@ import { HOTELS } from "@/data/hotels";
 import { COMBOS } from "@/lib/combos";
 import { LOCALES, localeHref, type Locale } from "@/lib/i18n";
 import type { PageEntry } from "@/lib/types";
+import { backfillDeep, src } from "@/lib/l10n";
 
 // Localised slugs for the fixed index pages.
-const FIXED: PageEntry[] = [
+const FIXED: PageEntry[] = src([
   { key: "home", kind: "home", slug: { en: "", fr: "" }, related: [] },
   {
     key: "destinations-index",
@@ -33,7 +34,7 @@ const FIXED: PageEntry[] = [
     slug: { en: "method", fr: "methode" },
     related: [],
   },
-];
+]);
 
 // Assemble the whole site's page list from the typed data collections.
 export const REGISTRY: PageEntry[] = [
@@ -80,12 +81,14 @@ export const REGISTRY: PageEntry[] = [
   ),
 ];
 
+// Fill missing-locale slugs (it/de/es/pt) with English so every page routes.
+backfillDeep(REGISTRY);
+
 const BY_KEY = new Map(REGISTRY.map((e) => [e.key, e]));
 
-const BY_SLUG: Record<Locale, Map<string, PageEntry>> = {
-  en: new Map(),
-  fr: new Map(),
-};
+const BY_SLUG = Object.fromEntries(
+  LOCALES.map((l) => [l, new Map<string, PageEntry>()]),
+) as Record<Locale, Map<string, PageEntry>>;
 for (const e of REGISTRY) {
   for (const l of LOCALES) BY_SLUG[l].set(norm(e.slug[l]), e);
 }

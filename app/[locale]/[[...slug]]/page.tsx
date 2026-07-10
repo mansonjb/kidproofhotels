@@ -116,10 +116,9 @@ export default async function Page({
   if (!entry) notFound();
 
   const dict = getDict(loc);
-  const alt: Record<Locale, string> = {
-    en: localeHref("en", entry.slug.en),
-    fr: localeHref("fr", entry.slug.fr),
-  };
+  const alt = Object.fromEntries(
+    LOCALES.map((l) => [l, localeHref(l, entry.slug[l])]),
+  ) as Record<Locale, string>;
 
   return (
     <>

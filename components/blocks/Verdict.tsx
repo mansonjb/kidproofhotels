@@ -1,6 +1,6 @@
 import type { Dict } from "@/data/i18n/ui";
 import type { Locale } from "@/lib/i18n";
-import type { Scores } from "@/lib/types";
+import type { L10n, Scores } from "@/lib/types";
 import { ScoreBadge } from "@/components/ScoreBadge";
 
 /** Editorial verdict pull-box: our one-line take, next to the score. The kind of
@@ -11,7 +11,7 @@ export function Verdict({
   dict,
   locale,
 }: {
-  verdict: { en: string; fr: string };
+  verdict: L10n;
   scores: Scores;
   dict: Dict;
   locale: Locale;
