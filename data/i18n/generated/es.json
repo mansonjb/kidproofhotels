@@ -1,1 +1,229 @@
-{}
+{
+  "brandTagline": "Hoteles que de verdad funcionan con niños.",
+  "nav": {
+    "destinations": "Destinos",
+    "amenities": "Hoteles familiares",
+    "guides": "Guías",
+    "method": "Nuestro método",
+    "menu": "Menú"
+  },
+  "common": {
+    "home": "Inicio",
+    "byParents": "Escrito por padres, para padres",
+    "fromPrice": "desde",
+    "perNight": "/ noche",
+    "viewHotel": "Ver el hotel",
+    "readMore": "Seguir leyendo",
+    "backHome": "Volver al inicio",
+    "sponsored": "Patrocinado",
+    "updated": "Actualizado el {date}",
+    "readTime": "{min} min de lectura",
+    "goodFor": "Ideal para",
+    "exploreAll": "Explorar todo"
+  },
+  "ages": {
+    "baby": "Bebé",
+    "toddler": "Pequeño",
+    "kid": "Niño",
+    "teen": "Adolescente"
+  },
+  "ageRanges": {
+    "baby": "0 a 1 año",
+    "toddler": "1 a 3 años",
+    "kid": "4 a 11 años",
+    "teen": "12 años en adelante"
+  },
+  "score": {
+    "label": "KidProof Score",
+    "outOf": "/ 100",
+    "whatStandsOut": "Lo que destaca",
+    "howItWorks": "Cómo funciona el KidProof Score",
+    "howItWorksBody": "Cada hotel se puntúa en ocho cosas que de verdad importan a las familias, y luego se ponderan según cuánto pesan en tu decisión. La distribución de las habitaciones es lo que más cuenta. Los pequeños detalles desempatan.",
+    "criteria": {
+      "rooms": {
+        "name": "Distribución de habitaciones",
+        "blurb": "¿Para cuántos? ¿Habitaciones comunicadas, suites familiares, una cama supletoria de verdad?"
+      },
+      "baby": {
+        "name": "Equipamiento para bebés",
+        "blurb": "Cuna de viaje limpia, trona, calientabiberones, cambiador, kit en préstamo."
+      },
+      "pool": {
+        "name": "Piscina y juego",
+        "blurb": "Piscina poco profunda o zona de chapoteo, parque infantil, miniclub (gratis o de pago)."
+      },
+      "dining": {
+        "name": "Comer en familia",
+        "blurb": "Desayuno rápido, menús infantiles, opciones para alergias, snacks a mano."
+      },
+      "safety": {
+        "name": "Seguridad",
+        "blurb": "Ventanas protegidas, esquinas seguras, piscina vigilada, instalaciones cuidadas."
+      },
+      "convenience": {
+        "name": "Logística de la estancia",
+        "blurb": "Lavandería, nevera en la habitación, acceso con carrito, aparcamiento, wifi fiable."
+      },
+      "location": {
+        "name": "Ubicación",
+        "blurb": "Cerca de atracciones familiares, transporte fácil, entradas o acceso a parques."
+      },
+      "extras": {
+        "name": "Pequeños detalles",
+        "blurb": "Regalo de bienvenida para el niño, personal que habla con los peques, habitaciones temáticas."
+      }
+    },
+    "grades": {
+      "gold": "KidProof Gold",
+      "green": "Favorito de las familias",
+      "amber": "Merece un vistazo"
+    }
+  },
+  "stay22": {
+    "eyebrow": "Precios y disponibilidad en tiempo real",
+    "hotelsNear": "Alojamientos cerca de {name}",
+    "browse": "Ver alojamientos cerca de {name}",
+    "note": "Comparamos Booking, Expedia, Hotels.com y más para que reserves al mejor precio. Los precios se actualizan en tiempo real.",
+    "disclosure": "Algunos enlaces son de afiliados. Si reservas a través de ellos podemos ganar una comisión, sin coste adicional para ti. Nunca cambia lo que recomendamos."
+  },
+  "hotel": {
+    "rooms": "Las habitaciones",
+    "highlights": "Por qué encanta a las familias",
+    "pros": "Lo bueno",
+    "cons": "Conviene saber",
+    "book": "Ver precios y reservar",
+    "similar": "Alojamientos familiares parecidos",
+    "inDestination": "en {name}",
+    "clubFree": "Miniclub gratuito",
+    "clubPaid": "Miniclub de pago"
+  },
+  "destination": {
+    "whyKids": "Por qué funciona con niños",
+    "bestAreas": "Las mejores zonas para alojarse",
+    "ourPicks": "Nuestras elecciones KidProof",
+    "picksNote": "Elegidos a mano y puntuados en las ocho cosas que importan a las familias.",
+    "allDestinations": "Todos los destinos"
+  },
+  "guides": {
+    "indexTitle": "Guías de viaje en familia",
+    "indexDek": "Ayuda para planificar y elecciones honestas, escritas por padres que viajan con sus propios hijos.",
+    "all": "Todas las guías"
+  },
+  "blocks": {
+    "atAGlance": "De un vistazo",
+    "activitiesNear": "Planes en familia por la zona",
+    "activitiesIn": "Planes en familia en {name}",
+    "sampleDay": "Un día aquí con niños",
+    "ageSuitability": "¿Es adecuado para tus hijos?",
+    "ageGreat": "Encaja genial",
+    "ageOkay": "Funciona con algo de planificación",
+    "faq": "Los padres también preguntan",
+    "compare": "Compara nuestras elecciones en {name}",
+    "verdict": "Nuestro veredicto",
+    "parentTip": "Truco de padres",
+    "goodToKnow": "Ojo con esto",
+    "forAges": "Para",
+    "duration": "Duración",
+    "tableHotel": "Hotel",
+    "tableScore": "Puntuación",
+    "tableRooms": "Plazas",
+    "tableClub": "Miniclub",
+    "tablePrice": "Desde",
+    "planStay": "Planifica tu estancia"
+  },
+  "browse": {
+    "amenitiesTitle": "Explora por lo que importa",
+    "amenitiesDek": "Busca como piensan de verdad los padres: por esa única cosa que hace o rompe el viaje.",
+    "amenitiesIndexTitle": "Encuentra hoteles familiares por lo que importa",
+    "amenitiesIndexDek": "Piscina, miniclub gratuito, toboganes de agua, kit para bebés. Explora hoteles familiares por el servicio del que depende tu viaje, cada uno con su puntuación.",
+    "hotelsCount": "{count} hoteles",
+    "explore": "Explorar",
+    "finderKicker": "Encuentra tu alojamiento",
+    "finderTitle": "¿Qué necesita más tu familia?",
+    "finderWhere": "¿A dónde?",
+    "finderWhat": "¿Qué importa más?",
+    "finderAnyDest": "Cualquier lugar",
+    "finderAnyAmenity": "Cualquier servicio",
+    "finderGo": "Buscar hoteles",
+    "alsoGoodFor": "También ideal para",
+    "ourPicksWith": "Nuestras elecciones con {name}",
+    "comboIntro": "Los mejores hoteles familiares {dest} justo para esto, ordenados por KidProof Score y comparados uno al lado del otro, con los peros honestos que un padre quiere conocer antes de reservar.",
+    "browseInDest": "Explora {name} por lo que importa",
+    "sameElsewhere": "Lo mismo, en otros destinos",
+    "moreInDest": "Más hoteles familiares {dest}",
+    "howKicker": "Cómo funciona",
+    "howTitle": "De una apuesta a ciegas a una reserva con confianza",
+    "steps": [
+      { "t": "Elige lo que importa", "d": "Una piscina, un miniclub gratuito, un dormitorio aparte para el bebé. Empieza por esa única cosa que hace el viaje." },
+      { "t": "Compara el KidProof Score", "d": "Cada hotel se puntúa en las ocho cosas que importan a las familias, para que compares lo comparable, no la publicidad." },
+      { "t": "Reserva al mejor precio", "d": "Consultamos Booking, Expedia y más con un solo enlace, para que reserves la misma habitación por menos." }
+    ],
+    "trust": [
+      { "icon": "👪", "t": "Puntuado por padres", "d": "Juzgado como juzgas tú un hotel a las 6 de la tarde con un peque cansado." },
+      { "icon": "🆓", "t": "Gratis de usar", "d": "Sin cuotas ni registros. Ganamos una comisión del sitio de reservas, no de ti." },
+      { "icon": "💸", "t": "Mejor precio, un solo enlace", "d": "Comparamos los grandes sitios de reservas para que nunca pagues de más." },
+      { "icon": "🎯", "t": "Sin paja", "d": "Solo los detalles que deciden un viaje en familia, y los peros honestos." }
+    ]
+  },
+  "home": {
+    "heroKicker": "Escrito por padres, para padres",
+    "heroTitleA": "Encuentra el hotel que",
+    "heroTitleAccent": "funciona de verdad",
+    "heroTitleB": "con tus hijos.",
+    "heroSub": "Se acabó descifrar reseñas vagas. Puntuamos cada hotel en los detalles que hacen o rompen un viaje en familia, desde habitaciones comunicadas hasta un miniclub gratuito.",
+    "ctaPrimary": "Explorar destinos",
+    "ctaSecondary": "Cómo puntuamos los hoteles",
+    "featuredDest": "Dónde alojarte con niños",
+    "featuredDestSub": "Elecciones pensadas para familias en los destinos que más preguntan los padres.",
+    "latestGuides": "Recién salido del magazine",
+    "latestGuidesSub": "Guías de planificación, listas y análisis honestos.",
+    "scoreSectionKicker": "Nuestra seña de identidad",
+    "scoreSectionTitle": "El KidProof Score",
+    "scoreSectionBody": "Un número claro, construido a partir de las ocho cosas que de verdad importan a las familias. Así distingues un hotel realmente preparado para niños de otro que solo dice serlo.",
+    "trustKicker": "Por qué confiar en nosotros",
+    "trustTitle": "Viajamos con nuestros propios hijos",
+    "trustBody": "Cada elección se juzga como un padre juzga un hotel a las 6 de la tarde con un peque cansado. Concreta, honesta y sin edulcorar.",
+    "trustPoints": [
+      "Empezamos por la distribución de las habitaciones, la pregunta número uno y la que nadie responde bien.",
+      "Te avisamos de los miniclubs de pago y los desayunos lentos antes de reservar, no después.",
+      "Te decimos para qué edad va bien de verdad un hotel, desde bebés hasta adolescentes."
+    ]
+  },
+  "method": {
+    "title": "Cómo elegimos y puntuamos los hoteles",
+    "dek": "El método KidProof, en lenguaje claro.",
+    "intro": "Somos padres ante todo. Creamos este sitio porque reservar un hotel familiar significaba leer entre líneas reseñas escritas por parejas en una escapada romántica. Aquí tienes exactamente cómo juzgamos un hotel.",
+    "sections": [
+      {
+        "h": "Empezamos por la habitación",
+        "p": "Es la pregunta número uno y la peor respondida. ¿Para cuántos? ¿Hay habitaciones comunicadas o suites familiares con una zona de dormir aparte? ¿La cama supletoria es de verdad o es un sofá? Ponemos la respuesta al principio de cada página de hotel."
+      },
+      {
+        "h": "Puntuamos ocho cosas, ponderadas",
+        "p": "Distribución de habitaciones, equipamiento para bebés, piscina y juego, comida, seguridad, logística de la estancia, ubicación y los pequeños detalles. Cada una se puntúa sobre 100 y luego se pondera según cuánto pesa en la decisión de una familia. El resultado es el KidProof Score."
+      },
+      {
+        "h": "Somos honestos con los peros",
+        "p": "Cada página de hotel tiene una breve lista de cosas que conviene saber antes de reservar, desde un miniclub de pago hasta una piscina que es honda por un lado. Ningún hotel es perfecto y fingir lo contrario no ayuda a nadie."
+      },
+      {
+        "h": "Cómo ganamos dinero",
+        "p": "Cuando reservas a través de nuestros enlaces podemos ganar una comisión del sitio de reservas, sin coste adicional para ti. Nunca cambia nuestras puntuaciones ni qué hoteles destacamos."
+      }
+    ]
+  },
+  "footer": {
+    "disclosure": "KidProof Hotels gana una comisión cuando reservas a través de algunos de nuestros enlaces, sin coste adicional para ti. Nunca cambia lo que recomendamos.",
+    "tagline": "Hoteles que de verdad funcionan con niños.",
+    "colDiscover": "Descubre",
+    "colGuides": "Guías",
+    "colAbout": "Sobre nosotros",
+    "method": "Nuestro método",
+    "rights": "Todos los derechos reservados."
+  },
+  "notFound": {
+    "title": "Esta página se fue de exploración",
+    "body": "No hemos podido encontrarla. Deja que te llevemos de vuelta a lo bueno.",
+    "cta": "Volver al inicio"
+  }
+}
