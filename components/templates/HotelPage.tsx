@@ -16,6 +16,7 @@ import { Stay22Map } from "@/components/Stay22Map";
 import { HotelCard } from "@/components/HotelCard";
 import { AffiliateLink } from "@/components/AffiliateLink";
 import { PhotoGallery } from "@/components/Photo";
+import { hotelGallerySrcs } from "@/lib/hotel-photos";
 import { AmenityChips } from "@/components/AmenityChips";
 import { JsonLd } from "@/components/JsonLd";
 import { Callout } from "@/components/Callout";
@@ -75,11 +76,9 @@ export function HotelPage({
         )}
       </header>
 
-      {hotel.photos && hotel.photos.length > 0 && (
-        <div className="mt-8">
-          <PhotoGallery imgs={hotel.photos} alt={hotel.name} />
-        </div>
-      )}
+      <div className="mt-8">
+        <PhotoGallery srcs={hotelGallerySrcs(hotel)} alt={hotel.name} />
+      </div>
 
       {/* Verdict + score */}
       {hotel.verdict && (

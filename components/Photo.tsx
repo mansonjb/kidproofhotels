@@ -30,26 +30,21 @@ export function Photo({
   );
 }
 
-/** A tidy photo strip: one lead image + two stacked, for hotel/destination heads. */
-export function PhotoGallery({
-  imgs,
-  alt,
-}: {
-  imgs: ImgKey[];
-  alt: string;
-}) {
-  const [lead, ...rest] = imgs;
+/** A tidy photo strip: one lead image + two stacked, for hotel heads. Takes
+ *  ready-made srcs (real hotel photos, or Unsplash URLs). */
+export function PhotoGallery({ srcs, alt }: { srcs: string[]; alt: string }) {
+  const [lead, ...rest] = srcs;
   if (!lead) return null;
   return (
     <div className="grid gap-2 sm:grid-cols-[1.6fr_1fr]">
-      <div className="overflow-hidden rounded-[var(--radius-xl2)]">
-        <Photo img={lead} alt={alt} w={900} h={620} className="h-full w-full object-cover" eager />
+      <div className="aspect-[3/2] overflow-hidden rounded-[var(--radius-xl2)]">
+        <img src={lead} alt={alt} loading="eager" decoding="async" className="h-full w-full object-cover" />
       </div>
       {rest.length > 0 && (
         <div className="grid gap-2">
-          {rest.slice(0, 2).map((k, i) => (
-            <div key={k} className="overflow-hidden rounded-[var(--radius-xl2)]">
-              <Photo img={k} alt={`${alt} (${i + 2})`} w={560} h={i === 0 && rest.length > 1 ? 302 : 620} className="h-full w-full object-cover" />
+          {rest.slice(0, 2).map((src, i) => (
+            <div key={i} className="aspect-[16/9] overflow-hidden rounded-[var(--radius-xl2)] sm:aspect-auto sm:h-[calc(50%-4px)]">
+              <img src={src} alt={`${alt} (${i + 2})`} loading="lazy" decoding="async" className="h-full w-full object-cover" />
             </div>
           ))}
         </div>

@@ -7,7 +7,7 @@ import { DEST_BY_KEY } from "@/data/destinations";
 import { grade, kidProofScore } from "@/lib/score";
 import { getByKey, pageHref } from "@/lib/registry";
 import { Postcard } from "@/components/Postcard";
-import { Photo } from "@/components/Photo";
+import { hotelHeroSrc } from "@/lib/hotel-photos";
 import { PriceTag } from "@/components/AgeChips";
 
 const CHIP: Record<string, string> = {
@@ -39,12 +39,14 @@ export function HotelCard({
     >
       <div className="relative">
         <div className="aspect-[4/3] overflow-hidden">
-          {hotel.photos?.[0] ? (
-            <Photo
-              img={hotel.photos[0]}
+          {hotelHeroSrc(hotel) ? (
+            <img
+              src={hotelHeroSrc(hotel)}
               alt={hotel.name}
-              w={560}
-              h={420}
+              width={560}
+              height={420}
+              loading="lazy"
+              decoding="async"
               className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
             />
           ) : (
