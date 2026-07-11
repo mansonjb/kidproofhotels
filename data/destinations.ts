@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -11,6 +11,8 @@ const M = (MALLORCA_META ?? {}) as any;
 const T = (TENERIFE_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const C = (CRETE_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const A = (ANTALYA_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -410,6 +412,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: C.faqs,
     parentTip: C.parentTip,
     goodToKnow: C.goodToKnow,
+  },
+  {
+    key: "antalya",
+    name: { en: "Antalya", fr: "Antalya" },
+    country: { en: "Turkey", fr: "Turquie" },
+    inPhrase: { en: "in Antalya", fr: "à Antalya" },
+    slug: {
+      en: "family-hotels-antalya",
+      fr: "hotels-famille-antalya",
+    },
+    geo: { lat: 36.86, lng: 31.06, zoom: 8 },
+    heroKicker: A.heroKicker ?? {
+      en: "Europe's all-inclusive family capital",
+      fr: "La capitale famille du tout inclus",
+    },
+    intro: A.intro ?? {
+      en: "The Turkish Riviera around Antalya is built for big-value family holidays: ultra all-inclusive resorts with vast aqua parks, free kids clubs and warm sea into November. If you want everything paid for up front and the kids entertained all day, few places do it better.",
+      fr: "La Riviera turque autour d'Antalya est faite pour des vacances familiales au rapport qualité-prix imbattable : resorts ultra tout inclus avec d'immenses parcs aquatiques, clubs enfants gratuits et mer chaude jusqu'en novembre. Si vous voulez tout payé d'avance et des enfants occupés toute la journée, peu d'endroits font mieux.",
+    },
+    whyKids: A.whyKids ?? { en: [], fr: [] },
+    bestAreas: A.bestAreas ?? { en: [], fr: [] },
+    emoji: A.emoji ?? "🌅",
+    accent: "e0794a",
+    hotelKeys: [], // populated below
+    related: ["crete", "costa-del-sol", "guide-allinclusive-europe"],
+    photos: A.photos,
+    stats: A.stats,
+    activities: A.activities,
+    faqs: A.faqs,
+    parentTip: A.parentTip,
+    goodToKnow: A.goodToKnow,
   },
 ]);
 
