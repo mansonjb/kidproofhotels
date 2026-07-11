@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -17,6 +17,8 @@ const A = (ANTALYA_META ?? {}) as any;
 const S = (SARDINIA_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const B = (COSTA_BLANCA_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const R = (RHODES_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -509,6 +511,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: B.faqs,
     parentTip: B.parentTip,
     goodToKnow: B.goodToKnow,
+  },
+  {
+    key: "rhodes",
+    name: { en: "Rhodes", fr: "Rhodes" },
+    country: { en: "Greece", fr: "Grèce" },
+    inPhrase: { en: "in Rhodes", fr: "à Rhodes" },
+    slug: {
+      en: "family-hotels-rhodes",
+      fr: "hotels-famille-rhodes",
+    },
+    geo: { lat: 36.3, lng: 28.1, zoom: 9 },
+    heroKicker: R.heroKicker ?? {
+      en: "All-inclusive island for easy family weeks",
+      fr: "L'île tout inclus pour des semaines faciles en famille",
+    },
+    intro: R.intro ?? {
+      en: "Rhodes is a family all-inclusive heavyweight: big resorts with aqua parks and free kids clubs, warm calm sea into October, and a dose of ancient history at Lindos and the Old Town. Everything paid up front, plenty for the kids, and short transfers make for an easy week.",
+      fr: "Rhodes est un poids lourd du tout inclus en famille : grands resorts avec parcs aquatiques et clubs enfants gratuits, mer chaude et calme jusqu'en octobre, et une dose d'histoire antique à Lindos et dans la vieille ville. Tout payé d'avance, de quoi occuper les enfants, et des transferts courts pour une semaine facile.",
+    },
+    whyKids: R.whyKids ?? { en: [], fr: [] },
+    bestAreas: R.bestAreas ?? { en: [], fr: [] },
+    emoji: R.emoji ?? "🏛️",
+    accent: "5b8def",
+    hotelKeys: [], // populated below
+    related: ["crete", "antalya", "guide-allinclusive-europe"],
+    photos: R.photos,
+    stats: R.stats,
+    activities: R.activities,
+    faqs: R.faqs,
+    parentTip: R.parentTip,
+    goodToKnow: R.goodToKnow,
   },
 ]);
 
