@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -13,6 +13,10 @@ const T = (TENERIFE_META ?? {}) as any;
 const C = (CRETE_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const A = (ANTALYA_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const S = (SARDINIA_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const B = (COSTA_BLANCA_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -443,6 +447,68 @@ export const DESTINATIONS: Destination[] = src([
     faqs: A.faqs,
     parentTip: A.parentTip,
     goodToKnow: A.goodToKnow,
+  },
+  {
+    key: "sardinia",
+    name: { en: "Sardinia", fr: "Sardaigne" },
+    country: { en: "Italy", fr: "Italie" },
+    inPhrase: { en: "in Sardinia", fr: "en Sardaigne" },
+    slug: {
+      en: "family-hotels-sardinia",
+      fr: "hotels-famille-sardaigne",
+    },
+    geo: { lat: 40.1, lng: 9.4, zoom: 8 },
+    heroKicker: S.heroKicker ?? {
+      en: "Turquoise bays made for children",
+      fr: "Des criques turquoise faites pour les enfants",
+    },
+    intro: S.intro ?? {
+      en: "Sardinia has some of the Mediterranean's most beautiful shallow, calm bays, the kind where a toddler can paddle for hours. Add short flights, family resorts with real kids clubs and food children actually eat, and it is a gentle, gorgeous week with kids.",
+      fr: "La Sardaigne possède parmi les plus belles criques peu profondes et calmes de Méditerranée, le genre où un tout-petit peut barboter des heures. Ajoutez des vols courts, des resorts familiaux avec de vrais clubs enfants et une cuisine que les enfants mangent vraiment, et c'est une semaine douce et magnifique en famille.",
+    },
+    whyKids: S.whyKids ?? { en: [], fr: [] },
+    bestAreas: S.bestAreas ?? { en: [], fr: [] },
+    emoji: S.emoji ?? "🐚",
+    accent: "2a9d8f",
+    hotelKeys: [], // populated below
+    related: ["crete", "mallorca", "guide-allinclusive-europe"],
+    photos: S.photos,
+    stats: S.stats,
+    activities: S.activities,
+    faqs: S.faqs,
+    parentTip: S.parentTip,
+    goodToKnow: S.goodToKnow,
+  },
+  {
+    key: "costa-blanca",
+    name: { en: "Costa Blanca", fr: "Costa Blanca" },
+    country: { en: "Spain", fr: "Espagne" },
+    inPhrase: { en: "on the Costa Blanca", fr: "sur la Costa Blanca" },
+    slug: {
+      en: "family-hotels-costa-blanca",
+      fr: "hotels-famille-costa-blanca",
+    },
+    geo: { lat: 38.53, lng: -0.13, zoom: 9 },
+    heroKicker: B.heroKicker ?? {
+      en: "Theme parks, water parks and long beaches",
+      fr: "Parcs à thème, parcs aquatiques et longues plages",
+    },
+    intro: B.intro ?? {
+      en: "The Costa Blanca around Benidorm is a family theme-park and water-park powerhouse: Terra Mitica, Aqualandia and Mundomar are on the doorstep, the beaches are long and gentle, and Alicante airport is a short transfer. If your kids want rides and slides, this is the coast for them.",
+      fr: "La Costa Blanca autour de Benidorm est une machine à parcs à thème et parcs aquatiques : Terra Mitica, Aqualandia et Mundomar sont à deux pas, les plages sont longues et douces, et l'aéroport d'Alicante est à courte distance. Si vos enfants veulent des manèges et des toboggans, c'est le littoral qu'il leur faut.",
+    },
+    whyKids: B.whyKids ?? { en: [], fr: [] },
+    bestAreas: B.bestAreas ?? { en: [], fr: [] },
+    emoji: B.emoji ?? "🎡",
+    accent: "e76f51",
+    hotelKeys: [], // populated below
+    related: ["costa-del-sol", "mallorca", "guide-allinclusive-europe"],
+    photos: B.photos,
+    stats: B.stats,
+    activities: B.activities,
+    faqs: B.faqs,
+    parentTip: B.parentTip,
+    goodToKnow: B.goodToKnow,
   },
 ]);
 
