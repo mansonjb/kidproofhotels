@@ -133,6 +133,7 @@ export type PageKind =
   | "combo"
   | "collections-index"
   | "collection"
+  | "destinations-ranking"
   | "method";
 
 export type PageEntry = {

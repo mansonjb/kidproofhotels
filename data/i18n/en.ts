@@ -121,6 +121,16 @@ export const UI_EN: Dict = {
     ourPicks: "Our picks",
     seeAll: "All holiday ideas",
   },
+  ranking: {
+    title: "The best family holiday destinations in Europe",
+    dek: "Every destination we cover, ranked by the average KidProof Score of its hotels. A shortcut to where a family trip just works.",
+    intro: "We score every hotel on the eight things that make or break a trip with kids, then average those scores by destination. The result is an honest ranking of where families are most likely to have an easy, happy holiday, from the calm bays to the big all-inclusive resorts. Pick a spot, then dig into its hotels.",
+    how: "Ranked by average KidProof Score",
+    avgScore: "Average score",
+    from: "from",
+    seeHotels: "See the hotels",
+    cta: "See the ranking",
+  },
   blocks: {
     atAGlance: "At a glance",
     activitiesNear: "Family things to do nearby",

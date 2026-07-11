@@ -73,6 +73,16 @@ export type Dict = {
     ourPicks: string;
     seeAll: string;
   };
+  ranking: {
+    title: string;
+    dek: string;
+    intro: string;
+    how: string;
+    avgScore: string;
+    from: string;
+    seeHotels: string;
+    cta: string;
+  };
   blocks: {
     atAGlance: string;
     activitiesNear: string; // "Family activities nearby"

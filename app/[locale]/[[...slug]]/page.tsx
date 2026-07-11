@@ -30,6 +30,7 @@ import { AmenityPage } from "@/components/templates/AmenityPage";
 import { ComboPage, comboFromKey } from "@/components/templates/ComboPage";
 import { CollectionsIndex } from "@/components/templates/CollectionsIndex";
 import { CollectionPage } from "@/components/templates/CollectionPage";
+import { DestinationsRanking } from "@/components/templates/DestinationsRanking";
 import { collectionFromKey } from "@/lib/collections";
 import { MethodPage } from "@/components/templates/MethodPage";
 
@@ -98,6 +99,8 @@ function metaFor(
       const c = collectionFromKey(entry.key)!;
       return { title: c.title[locale], description: c.dek[locale] };
     }
+    case "destinations-ranking":
+      return { title: dict.ranking.title, description: dict.ranking.dek };
   }
 }
 
@@ -147,6 +150,7 @@ export default async function Page({
         {entry.kind === "collection" && (
           <CollectionPage collection={collectionFromKey(entry.key)!} locale={loc} dict={dict} />
         )}
+        {entry.kind === "destinations-ranking" && <DestinationsRanking locale={loc} dict={dict} />}
         {entry.kind === "method" && <MethodPage locale={loc} dict={dict} />}
         {entry.kind === "destination" && (
           <DestinationPage dest={DEST_BY_KEY.get(entry.key)!} entry={entry} locale={loc} dict={dict} />

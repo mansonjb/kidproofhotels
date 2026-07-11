@@ -1,3 +1,4 @@
+import Link from "next/link";
 import type { Dict } from "@/data/i18n/ui";
 import type { Locale } from "@/lib/i18n";
 import { DESTINATIONS } from "@/data/destinations";
@@ -20,6 +21,18 @@ export function DestinationsIndex({ locale, dict }: { locale: Locale; dict: Dict
           {dict.home.featuredDest}
         </h1>
         <p className="mt-4 text-lg text-muted">{dict.home.featuredDestSub}</p>
+        {(() => {
+          const r = getByKey("destinations-ranking");
+          if (!r) return null;
+          return (
+            <Link
+              href={pageHref(r, locale)}
+              className="mt-5 inline-flex items-center gap-2 rounded-full bg-ink px-5 py-2.5 text-sm font-semibold text-paper transition-transform hover:-translate-y-0.5"
+            >
+              🏆 {dict.ranking.cta} <span aria-hidden>→</span>
+            </Link>
+          );
+        })()}
       </header>
       <div className="mt-10 grid auto-rows-fr gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {DESTINATIONS.map((d) => (

@@ -121,6 +121,16 @@ export const UI_FR: Dict = {
     ourPicks: "Nos choix",
     seeAll: "Toutes les idées vacances",
   },
+  ranking: {
+    title: "Les meilleures destinations vacances famille d'Europe",
+    dek: "Toutes nos destinations, classées par Score KidProof moyen de leurs hôtels. Un raccourci vers les endroits où un voyage en famille se passe bien.",
+    intro: "On note chaque hôtel sur les huit critères qui font ou défont un voyage avec des enfants, puis on fait la moyenne par destination. Le résultat, c'est un classement honnête des endroits où les familles ont le plus de chances de passer des vacances faciles et heureuses, des criques calmes aux grands resorts tout inclus. Choisissez un lieu, puis explorez ses hôtels.",
+    how: "Classé par Score KidProof moyen",
+    avgScore: "Score moyen",
+    from: "dès",
+    seeHotels: "Voir les hôtels",
+    cta: "Voir le classement",
+  },
   blocks: {
     atAGlance: "En un coup d'oeil",
     activitiesNear: "Activités famille à proximité",

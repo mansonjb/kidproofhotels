@@ -36,6 +36,15 @@ const FIXED: PageEntry[] = src([
     related: [],
   },
   {
+    key: "destinations-ranking",
+    kind: "destinations-ranking",
+    slug: {
+      en: "best-family-holiday-destinations",
+      fr: "meilleures-destinations-vacances-famille",
+    },
+    related: [],
+  },
+  {
     key: "method",
     kind: "method",
     slug: { en: "method", fr: "methode" },
