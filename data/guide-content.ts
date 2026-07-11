@@ -32,5 +32,7 @@ export function guideBody(
   locale: Locale,
   key: string,
 ): ComponentType | null {
-  return CONTENT[`${locale}:${key}`] ?? null;
+  // Fall back to the English body for locales whose MDX has not been written yet
+  // (it/de/es/pt), so a guide page is never left with an empty article.
+  return CONTENT[`${locale}:${key}`] ?? CONTENT[`en:${key}`] ?? null;
 }
