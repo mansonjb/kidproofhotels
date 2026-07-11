@@ -131,6 +131,8 @@ export type PageKind =
   | "amenities-index"
   | "amenity"
   | "combo"
+  | "collections-index"
+  | "collection"
   | "method";
 
 export type PageEntry = {

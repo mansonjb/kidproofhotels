@@ -113,6 +113,14 @@ export const UI_FR: Dict = {
     indexDek: "De l'aide pour préparer et des choix honnêtes, écrits par des parents qui voyagent avec leurs enfants.",
     all: "Tous les guides",
   },
+  collections: {
+    nav: "Vacances",
+    indexTitle: "Idées de vacances en famille",
+    indexDek: "Des sélections choisies et de saison : soleil d'hiver, Toussaint, tout inclus et le meilleur de l'année, chaque hôtel noté.",
+    whenToGo: "Quand partir",
+    ourPicks: "Nos choix",
+    seeAll: "Toutes les idées vacances",
+  },
   blocks: {
     atAGlance: "En un coup d'oeil",
     activitiesNear: "Activités famille à proximité",

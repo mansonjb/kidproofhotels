@@ -65,6 +65,14 @@ export type Dict = {
     indexDek: string;
     all: string;
   };
+  collections: {
+    nav: string;
+    indexTitle: string;
+    indexDek: string;
+    whenToGo: string;
+    ourPicks: string;
+    seeAll: string;
+  };
   blocks: {
     atAGlance: string;
     activitiesNear: string; // "Family activities nearby"

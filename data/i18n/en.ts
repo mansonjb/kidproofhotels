@@ -113,6 +113,14 @@ export const UI_EN: Dict = {
     indexDek: "Planning help and honest picks, written by parents who travel with their own kids.",
     all: "All guides",
   },
+  collections: {
+    nav: "Holidays",
+    indexTitle: "Family holiday ideas",
+    indexDek: "Timely, hand-picked collections: winter sun, half term, all-inclusive and the year's best, every hotel scored.",
+    whenToGo: "When to go",
+    ourPicks: "Our picks",
+    seeAll: "All holiday ideas",
+  },
   blocks: {
     atAGlance: "At a glance",
     activitiesNear: "Family things to do nearby",

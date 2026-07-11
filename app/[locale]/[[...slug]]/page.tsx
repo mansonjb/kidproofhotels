@@ -28,6 +28,9 @@ import { GuidePage } from "@/components/templates/GuidePage";
 import { AmenitiesIndex } from "@/components/templates/AmenitiesIndex";
 import { AmenityPage } from "@/components/templates/AmenityPage";
 import { ComboPage, comboFromKey } from "@/components/templates/ComboPage";
+import { CollectionsIndex } from "@/components/templates/CollectionsIndex";
+import { CollectionPage } from "@/components/templates/CollectionPage";
+import { collectionFromKey } from "@/lib/collections";
 import { MethodPage } from "@/components/templates/MethodPage";
 
 function amenityFromKey(key: string) {
@@ -89,6 +92,12 @@ function metaFor(
       const title = `${a.h1[locale]} ${d.inPhrase[locale]}`;
       return { title, description: `${a.short[locale]} ${d.inPhrase[locale]}.` };
     }
+    case "collections-index":
+      return { title: dict.collections.indexTitle, description: dict.collections.indexDek };
+    case "collection": {
+      const c = collectionFromKey(entry.key)!;
+      return { title: c.title[locale], description: c.dek[locale] };
+    }
   }
 }
 
@@ -133,6 +142,10 @@ export default async function Page({
         )}
         {entry.kind === "combo" && (
           <ComboPage combo={comboFromKey(entry.key)!} locale={loc} dict={dict} />
+        )}
+        {entry.kind === "collections-index" && <CollectionsIndex locale={loc} dict={dict} />}
+        {entry.kind === "collection" && (
+          <CollectionPage collection={collectionFromKey(entry.key)!} locale={loc} dict={dict} />
         )}
         {entry.kind === "method" && <MethodPage locale={loc} dict={dict} />}
         {entry.kind === "destination" && (

@@ -1,4 +1,5 @@
 import { AMENITIES } from "@/data/amenities";
+import { COLLECTIONS } from "@/data/collections";
 import { DESTINATIONS } from "@/data/destinations";
 import { GUIDES } from "@/data/guides";
 import { HOTELS } from "@/data/hotels";
@@ -26,6 +27,12 @@ const FIXED: PageEntry[] = src([
     key: "amenities-index",
     kind: "amenities-index",
     slug: { en: "family-hotels", fr: "hotels-famille" },
+    related: [],
+  },
+  {
+    key: "collections-index",
+    kind: "collections-index",
+    slug: { en: "family-holidays", fr: "vacances-famille" },
     related: [],
   },
   {
@@ -75,6 +82,14 @@ export const REGISTRY: PageEntry[] = [
     (c): PageEntry => ({
       key: c.key,
       kind: "combo",
+      slug: c.slug,
+      related: [],
+    }),
+  ),
+  ...COLLECTIONS.map(
+    (c): PageEntry => ({
+      key: `collection-${c.key}`,
+      kind: "collection",
       slug: c.slug,
       related: [],
     }),
