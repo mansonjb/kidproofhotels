@@ -12,6 +12,8 @@ import { Stay22Map } from "@/components/Stay22Map";
 import { HotelCard } from "@/components/HotelCard";
 import { RelatedPages } from "@/components/RelatedPages";
 import { Photo } from "@/components/Photo";
+import { hotelHeroSrc, hasRealPhoto } from "@/lib/hotel-photos";
+import { imgUrl } from "@/lib/images";
 import { Callout } from "@/components/Callout";
 import { StatStrip } from "@/components/blocks/StatStrip";
 import { Activities } from "@/components/blocks/Activities";
@@ -74,11 +76,18 @@ export function DestinationPage({
         <p className="mt-5 text-lg leading-relaxed text-ink-soft">{dest.intro[locale]}</p>
       </header>
 
-      {dest.photos && dest.photos[0] && (
-        <div className="mt-8 aspect-[16/8] overflow-hidden rounded-[var(--radius-xl2)] sm:aspect-[16/6]">
-          <Photo img={dest.photos[0]} alt={dest.name[locale]} w={1200} h={520} className="h-full w-full object-cover" eager />
-        </div>
-      )}
+      {(() => {
+        const hero = hotels.find(hasRealPhoto) ?? hotels[0];
+        const heroSrc =
+          (hero && hotelHeroSrc(hero, 1200, 620)) ||
+          (dest.photos?.[0] ? imgUrl(dest.photos[0], { w: 1200, h: 520 }) : "");
+        if (!heroSrc) return null;
+        return (
+          <div className="mt-8 aspect-[16/8] overflow-hidden rounded-[var(--radius-xl2)] sm:aspect-[16/6]">
+            <img src={heroSrc} alt={dest.name[locale]} loading="eager" decoding="async" className="h-full w-full object-cover" />
+          </div>
+        );
+      })()}
 
       {dest.stats && (
         <div className="mt-8">

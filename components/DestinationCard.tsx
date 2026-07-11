@@ -4,8 +4,9 @@ import type { Locale } from "@/lib/i18n";
 import type { Destination } from "@/lib/types";
 import { getByKey, pageHref } from "@/lib/registry";
 import { hotelsInDestination } from "@/data/hotels";
+import { hotelHeroSrc, hasRealPhoto } from "@/lib/hotel-photos";
+import { imgUrl } from "@/lib/images";
 import { Postcard } from "@/components/Postcard";
-import { Photo } from "@/components/Photo";
 
 export function DestinationCard({
   dest,
@@ -20,7 +21,14 @@ export function DestinationCard({
 }) {
   const entry = getByKey(dest.key);
   if (!entry) return null;
-  const count = hotelsInDestination(dest.key).length;
+  const hotels = hotelsInDestination(dest.key);
+  const count = hotels.length;
+  // Use the real photo of the destination's top-scored hotel (unique + relevant),
+  // falling back to the illustrative stock only if no hotel has one.
+  const hero = hotels.find(hasRealPhoto) ?? hotels[0];
+  const heroSrc =
+    (hero && hotelHeroSrc(hero, large ? 900 : 560, large ? 620 : 420)) ||
+    (dest.photos?.[0] ? imgUrl(dest.photos[0], { w: large ? 900 : 560, h: large ? 620 : 420 }) : "");
 
   return (
     <Link
@@ -30,13 +38,13 @@ export function DestinationCard({
       }`}
     >
       <div className={`overflow-hidden ${large ? "aspect-[16/11]" : "aspect-[4/3]"}`}>
-        {dest.photos?.[0] ? (
+        {heroSrc ? (
           <div className="relative h-full w-full">
-            <Photo
-              img={dest.photos[0]}
+            <img
+              src={heroSrc}
               alt={dest.name[locale]}
-              w={large ? 900 : 560}
-              h={large ? 620 : 420}
+              loading="lazy"
+              decoding="async"
               className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
             />
             <span className="absolute left-3 top-3 grid h-9 w-9 place-items-center rounded-xl bg-cloud/90 text-xl shadow-sm backdrop-blur">
