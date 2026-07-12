@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -21,6 +21,8 @@ const B = (COSTA_BLANCA_META ?? {}) as any;
 const R = (RHODES_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const GC = (GRAN_CANARIA_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const CY = (CYPRUS_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -575,6 +577,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: GC.faqs,
     parentTip: GC.parentTip,
     goodToKnow: GC.goodToKnow,
+  },
+  {
+    key: "cyprus",
+    name: { en: "Cyprus", fr: "Chypre" },
+    country: { en: "Cyprus", fr: "Chypre" },
+    inPhrase: { en: "in Cyprus", fr: "à Chypre" },
+    slug: {
+      en: "family-hotels-cyprus",
+      fr: "hotels-famille-chypre",
+    },
+    geo: { lat: 34.98, lng: 33.95, zoom: 9 },
+    heroKicker: CY.heroKicker ?? {
+      en: "Long warm season, calm shallow bays",
+      fr: "Longue saison chaude, criques calmes et peu profondes",
+    },
+    intro: CY.intro ?? {
+      en: "Cyprus keeps the sun going well into November, with some of the Mediterranean's calmest, shallowest family bays around Protaras and Coral Bay, big all-inclusive resorts, and English spoken everywhere. It is one of the easiest, warmest family islands for a late-season week.",
+      fr: "Chypre garde le soleil jusqu'en novembre, avec parmi les criques familiales les plus calmes et peu profondes de Méditerranée autour de Protaras et Coral Bay, de grands resorts tout inclus, et l'anglais parlé partout. C'est l'une des îles familiales les plus faciles et chaudes pour une semaine en fin de saison.",
+    },
+    whyKids: CY.whyKids ?? { en: [], fr: [] },
+    bestAreas: CY.bestAreas ?? { en: [], fr: [] },
+    emoji: CY.emoji ?? "\ud83c\udffa",
+    accent: "1f9ea6",
+    hotelKeys: [], // populated below
+    related: ["rhodes", "crete", "guide-allinclusive-europe"],
+    photos: CY.photos,
+    stats: CY.stats,
+    activities: CY.activities,
+    faqs: CY.faqs,
+    parentTip: CY.parentTip,
+    goodToKnow: CY.goodToKnow,
   },
 ]);
 
