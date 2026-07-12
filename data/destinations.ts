@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -19,6 +19,8 @@ const S = (SARDINIA_META ?? {}) as any;
 const B = (COSTA_BLANCA_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const R = (RHODES_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const GC = (GRAN_CANARIA_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -542,6 +544,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: R.faqs,
     parentTip: R.parentTip,
     goodToKnow: R.goodToKnow,
+  },
+  {
+    key: "gran-canaria",
+    name: { en: "Gran Canaria", fr: "Grande Canarie" },
+    country: { en: "Spain", fr: "Espagne" },
+    inPhrase: { en: "in Gran Canaria", fr: "à Grande Canarie" },
+    slug: {
+      en: "family-hotels-gran-canaria",
+      fr: "hotels-famille-grande-canarie",
+    },
+    geo: { lat: 27.76, lng: -15.58, zoom: 10 },
+    heroKicker: GC.heroKicker ?? {
+      en: "Year-round sun, even in winter",
+      fr: "Du soleil toute l'année, même en hiver",
+    },
+    intro: GC.intro ?? {
+      en: "Gran Canaria keeps families warm all year, even in the depths of winter, with calm shallow beaches in the sheltered south, big resorts around Maspalomas and Meloneras, and aqua parks like Aqualand. It is one of Europe's most reliable winter-sun escapes with kids.",
+      fr: "Grande Canarie garde les familles au chaud toute l'année, même en plein hiver, avec des plages calmes et peu profondes dans le sud abrité, de grands resorts autour de Maspalomas et Meloneras, et des parcs aquatiques comme Aqualand. C'est l'une des escapades soleil d'hiver les plus fiables d'Europe avec des enfants.",
+    },
+    whyKids: GC.whyKids ?? { en: [], fr: [] },
+    bestAreas: GC.bestAreas ?? { en: [], fr: [] },
+    emoji: GC.emoji ?? "🏜️",
+    accent: "d98c3f",
+    hotelKeys: [], // populated below
+    related: ["tenerife", "costa-del-sol", "guide-allinclusive-europe"],
+    photos: GC.photos,
+    stats: GC.stats,
+    activities: GC.activities,
+    faqs: GC.faqs,
+    parentTip: GC.parentTip,
+    goodToKnow: GC.goodToKnow,
   },
 ]);
 

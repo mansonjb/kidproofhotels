@@ -53,7 +53,7 @@ export const COLLECTIONS: Collection[] = src([
       en: "Best from November to March. Book 2 to 4 months ahead for the best rooms.",
       fr: "Idéal de novembre à mars. Réservez 2 à 4 mois à l'avance pour les meilleures chambres.",
     },
-    select: { destinationKeys: ["tenerife", "costa-del-sol"], limit: 12 },
+    select: { destinationKeys: ["tenerife", "gran-canaria", "costa-del-sol"], limit: 12 },
     faqs: [
       {
         q: { en: "Where is warmest in Europe in winter?", fr: "Où fait-il le plus chaud en Europe en hiver ?" },
@@ -90,7 +90,7 @@ export const COLLECTIONS: Collection[] = src([
       en: "For late October. Book by August for the best family rooms.",
       fr: "Pour fin octobre. Réservez avant août pour les meilleures chambres familiales.",
     },
-    select: { destinationKeys: ["tenerife", "algarve", "costa-del-sol", "crete"], limit: 12 },
+    select: { destinationKeys: ["tenerife", "gran-canaria", "algarve", "costa-del-sol", "crete"], limit: 12 },
     faqs: [
       {
         q: { en: "Where is warm at October half term?", fr: "Où fait-il chaud aux vacances de la Toussaint ?" },
