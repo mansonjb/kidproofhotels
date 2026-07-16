@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -23,6 +23,10 @@ const R = (RHODES_META ?? {}) as any;
 const GC = (GRAN_CANARIA_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const CY = (CYPRUS_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const SI = (SICILY_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const CO = (CORFU_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -608,6 +612,68 @@ export const DESTINATIONS: Destination[] = src([
     faqs: CY.faqs,
     parentTip: CY.parentTip,
     goodToKnow: CY.goodToKnow,
+  },
+  {
+    key: "sicily",
+    name: { en: "Sicily", fr: "Sicile" },
+    country: { en: "Italy", fr: "Italie" },
+    inPhrase: { en: "in Sicily", fr: "en Sicile" },
+    slug: {
+      en: "family-hotels-sicily",
+      fr: "hotels-famille-sicile",
+    },
+    geo: { lat: 37.6, lng: 14.0, zoom: 8 },
+    heroKicker: SI.heroKicker ?? {
+      en: "Warm sea, big flavours, a volcano to climb",
+      fr: "Mer chaude, saveurs franches, un volcan a gravir",
+    },
+    intro: SI.intro ?? {
+      en: "Sicily gives a family everything at once: warm calm sea into October, club-style resorts with real kids clubs, food even fussy eaters devour, and Mount Etna plus Greek theatres for the days you fancy more than the pool.",
+      fr: "La Sicile offre tout d'un coup a une famille : mer chaude et calme jusqu'en octobre, resorts avec de vrais clubs enfants, une cuisine que meme les difficiles devorent, et l'Etna plus les theatres grecs pour les jours ou la piscine ne suffit pas.",
+    },
+    whyKids: SI.whyKids ?? { en: [], fr: [] },
+    bestAreas: SI.bestAreas ?? { en: [], fr: [] },
+    emoji: SI.emoji ?? "\ud83c\udf0b",
+    accent: "c1553b",
+    hotelKeys: [], // populated below
+    related: ["sardinia", "crete", "guide-allinclusive-europe"],
+    photos: SI.photos,
+    stats: SI.stats,
+    activities: SI.activities,
+    faqs: SI.faqs,
+    parentTip: SI.parentTip,
+    goodToKnow: SI.goodToKnow,
+  },
+  {
+    key: "corfu",
+    name: { en: "Corfu", fr: "Corfou" },
+    country: { en: "Greece", fr: "Grèce" },
+    inPhrase: { en: "in Corfu", fr: "à Corfou" },
+    slug: {
+      en: "family-hotels-corfu",
+      fr: "hotels-famille-corfou",
+    },
+    geo: { lat: 39.62, lng: 19.87, zoom: 9 },
+    heroKicker: CO.heroKicker ?? {
+      en: "Green island, calm bays, easy weeks",
+      fr: "Ile verte, criques calmes, semaines faciles",
+    },
+    intro: CO.intro ?? {
+      en: "Corfu is the softest of the big Greek family islands: lush and green rather than baked, with calm shallow bays along the east coast, all-inclusive resorts that know families, and Aqualand for the day the pool is not enough.",
+      fr: "Corfou est la plus douce des grandes iles grecques familiales : verte et luxuriante plutot que brulee, avec des criques calmes et peu profondes sur la cote est, des resorts tout inclus qui connaissent les familles, et Aqualand pour le jour ou la piscine ne suffit plus.",
+    },
+    whyKids: CO.whyKids ?? { en: [], fr: [] },
+    bestAreas: CO.bestAreas ?? { en: [], fr: [] },
+    emoji: CO.emoji ?? "\ud83c\udf3f",
+    accent: "4f9d69",
+    hotelKeys: [], // populated below
+    related: ["crete", "rhodes", "guide-allinclusive-europe"],
+    photos: CO.photos,
+    stats: CO.stats,
+    activities: CO.activities,
+    faqs: CO.faqs,
+    parentTip: CO.parentTip,
+    goodToKnow: CO.goodToKnow,
   },
 ]);
 
