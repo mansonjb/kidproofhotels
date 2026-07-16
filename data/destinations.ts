@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -27,6 +27,8 @@ const CY = (CYPRUS_META ?? {}) as any;
 const SI = (SICILY_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const CO = (CORFU_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const FV = (FUERTEVENTURA_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -674,6 +676,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: CO.faqs,
     parentTip: CO.parentTip,
     goodToKnow: CO.goodToKnow,
+  },
+  {
+    key: "fuerteventura",
+    name: { en: "Fuerteventura", fr: "Fuerteventura" },
+    country: { en: "Spain", fr: "Espagne" },
+    inPhrase: { en: "in Fuerteventura", fr: "à Fuerteventura" },
+    slug: {
+      en: "family-hotels-fuerteventura",
+      fr: "hotels-famille-fuerteventura",
+    },
+    geo: { lat: 28.4, lng: -14.0, zoom: 9 },
+    heroKicker: FV.heroKicker ?? {
+      en: "Endless white-sand beaches, year-round sun",
+      fr: "Plages de sable blanc a l'infini, soleil toute l'annee",
+    },
+    intro: FV.intro ?? {
+      en: "Fuerteventura is all about the beaches: vast white-sand bays and shallow, calm shores that toddlers love, plus year-round warmth that makes it a winter-sun favourite. Add family resorts with real kids clubs and the Oasis Park camels and it is an easy island week.",
+      fr: "Fuerteventura, c'est avant tout les plages : d'immenses baies de sable blanc et des rives calmes et peu profondes que les tout-petits adorent, plus une douceur toute l'annee qui en fait une favorite du soleil d'hiver. Ajoutez des resorts familiaux avec de vrais clubs enfants et les chameaux d'Oasis Park, et c'est une semaine d'ile facile.",
+    },
+    whyKids: FV.whyKids ?? { en: [], fr: [] },
+    bestAreas: FV.bestAreas ?? { en: [], fr: [] },
+    emoji: FV.emoji ?? "\ud83d\udc2a",
+    accent: "d4a24a",
+    hotelKeys: [], // populated below
+    related: ["tenerife", "gran-canaria", "guide-allinclusive-europe"],
+    photos: FV.photos,
+    stats: FV.stats,
+    activities: FV.activities,
+    faqs: FV.faqs,
+    parentTip: FV.parentTip,
+    goodToKnow: FV.goodToKnow,
   },
 ]);
 
