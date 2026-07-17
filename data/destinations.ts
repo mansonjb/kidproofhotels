@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -29,6 +29,8 @@ const SI = (SICILY_META ?? {}) as any;
 const CO = (CORFU_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const FV = (FUERTEVENTURA_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const BCN = (BARCELONA_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -707,6 +709,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: FV.faqs,
     parentTip: FV.parentTip,
     goodToKnow: FV.goodToKnow,
+  },
+  {
+    key: "barcelona",
+    name: { en: "Barcelona", fr: "Barcelone" },
+    country: { en: "Spain", fr: "Espagne" },
+    inPhrase: { en: "in Barcelona", fr: "à Barcelone" },
+    slug: {
+      en: "family-hotels-barcelona",
+      fr: "hotels-famille-barcelone",
+    },
+    geo: { lat: 41.3874, lng: 2.1686, zoom: 12 },
+    heroKicker: BCN.heroKicker ?? {
+      en: "A beach and a big city, in one easy trip",
+      fr: "La plage et la grande ville, en un seul voyage facile",
+    },
+    intro: BCN.intro ?? {
+      en: "Barcelona is the rare city break that also has a real beach: Gaudi's playground of a skyline, an aquarium and a cable car, then sand a metro ride away. The catch is choosing a base that keeps the buggy days short and the family room genuine. These are the hotels that get it right.",
+      fr: "Barcelone est ce rare city break qui a aussi une vraie plage : la skyline-terrain-de-jeu de Gaudi, un aquarium et un telepherique, puis le sable a un arret de metro. Le hic, c'est de choisir un point de chute qui garde les journees poussette courtes et la chambre familiale vraie. Voici les hotels qui reussissent.",
+    },
+    whyKids: BCN.whyKids ?? { en: [], fr: [] },
+    bestAreas: BCN.bestAreas ?? { en: [], fr: [] },
+    emoji: BCN.emoji ?? "\ud83c\udfdb\ufe0f",
+    accent: "e8734a",
+    hotelKeys: [], // populated below
+    related: ["costa-blanca", "costa-del-sol", "guide-connecting-rooms"],
+    photos: BCN.photos,
+    stats: BCN.stats,
+    activities: BCN.activities,
+    faqs: BCN.faqs,
+    parentTip: BCN.parentTip,
+    goodToKnow: BCN.goodToKnow,
   },
 ]);
 
