@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -35,6 +35,8 @@ const BCN = (BARCELONA_META ?? {}) as any;
 const LZ = (LANZAROTE_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const MN = (MENORCA_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const KOS = (KOS_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -806,6 +808,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: MN.faqs,
     parentTip: MN.parentTip,
     goodToKnow: MN.goodToKnow,
+  },
+  {
+    key: "kos",
+    name: { en: "Kos", fr: "Kos" },
+    country: { en: "Greece", fr: "Grece" },
+    inPhrase: { en: "in Kos", fr: "a Kos" },
+    slug: {
+      en: "family-hotels-kos",
+      fr: "hotels-famille-kos",
+    },
+    geo: { lat: 36.85, lng: 27.24, zoom: 11 },
+    heroKicker: KOS.heroKicker ?? {
+      en: "Flat, cycle-friendly and edged with shallow sandy beaches",
+      fr: "Plate, a velo et bordee de plages de sable peu profondes",
+    },
+    intro: KOS.intro ?? {
+      en: "Kos is the easy Greek island for families: famously flat and threaded with cycle lanes, ringed by long shallow beaches at Tigaki, Marmari and Mastichari that shelve gently for toddlers, and packed with big all-inclusive resorts that run proper kids clubs. Add Hippocrates' ancient Asklepion, a salt lake with spring flamingos and boat trips to a volcano, and you have a lot of holiday for very little effort. These are the hotels that make the most of it.",
+      fr: "Kos, c'est l'ile grecque facile pour les familles : remarquablement plate et sillonnee de pistes cyclables, bordee de longues plages peu profondes a Tigaki, Marmari et Mastichari qui descendent en pente douce pour les tout-petits, et remplie de grands resorts tout compris avec de vrais clubs enfants. Ajoutez l'Asklepion antique d'Hippocrate, un lac sale aux flamants roses au printemps et des sorties en bateau vers un volcan, et vous obtenez beaucoup de vacances pour tres peu d'efforts. Voici les hotels qui en tirent le meilleur.",
+    },
+    whyKids: KOS.whyKids ?? { en: [], fr: [] },
+    bestAreas: KOS.bestAreas ?? { en: [], fr: [] },
+    emoji: KOS.emoji ?? "🏝️",
+    accent: "1a9bbf",
+    hotelKeys: [], // populated below
+    related: ["rhodes", "crete", "guide-allinclusive-europe"],
+    photos: KOS.photos,
+    stats: KOS.stats,
+    activities: KOS.activities,
+    faqs: KOS.faqs,
+    parentTip: KOS.parentTip,
+    goodToKnow: KOS.goodToKnow,
   },
 ]);
 
