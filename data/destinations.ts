@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -31,6 +31,8 @@ const CO = (CORFU_META ?? {}) as any;
 const FV = (FUERTEVENTURA_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const BCN = (BARCELONA_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const LZ = (LANZAROTE_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -740,6 +742,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: BCN.faqs,
     parentTip: BCN.parentTip,
     goodToKnow: BCN.goodToKnow,
+  },
+  {
+    key: "lanzarote",
+    name: { en: "Lanzarote", fr: "Lanzarote" },
+    country: { en: "Spain", fr: "Espagne" },
+    inPhrase: { en: "in Lanzarote", fr: "a Lanzarote" },
+    slug: {
+      en: "family-hotels-lanzarote",
+      fr: "hotels-famille-lanzarote",
+    },
+    geo: { lat: 29.0, lng: -13.6, zoom: 9 },
+    heroKicker: LZ.heroKicker ?? {
+      en: "Winter sun, calm beaches and a volcano to explore",
+      fr: "Soleil d'hiver, plages calmes et un volcan a explorer",
+    },
+    intro: LZ.intro ?? {
+      en: "Lanzarote is a winter-sun favourite for a reason: warm all year, short transfers from Arrecife, and a run of calm, shallow beaches that toddlers love. Add a proper zoo with a splash park, a volcano you cross by camel, and family resorts with real kids clubs, and a week here plans itself. These are the hotels that get the family details right.",
+      fr: "Lanzarote est une favorite du soleil d'hiver, et pour de bonnes raisons : douce toute l'annee, transferts courts depuis Arrecife, et une serie de plages calmes et peu profondes que les tout-petits adorent. Ajoutez un vrai zoo avec parc a jets, un volcan que l'on traverse a dos de chameau, et des resorts familiaux avec de vrais clubs enfants : une semaine ici s'organise toute seule. Voici les hotels qui soignent les details famille.",
+    },
+    whyKids: LZ.whyKids ?? { en: [], fr: [] },
+    bestAreas: LZ.bestAreas ?? { en: [], fr: [] },
+    emoji: LZ.emoji ?? "\ud83c\udf0b",
+    accent: "c26a3d",
+    hotelKeys: [], // populated below
+    related: ["fuerteventura", "gran-canaria", "guide-allinclusive-europe"],
+    photos: LZ.photos,
+    stats: LZ.stats,
+    activities: LZ.activities,
+    faqs: LZ.faqs,
+    parentTip: LZ.parentTip,
+    goodToKnow: LZ.goodToKnow,
   },
 ]);
 
