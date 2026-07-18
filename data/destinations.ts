@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -33,6 +33,8 @@ const FV = (FUERTEVENTURA_META ?? {}) as any;
 const BCN = (BARCELONA_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const LZ = (LANZAROTE_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const MN = (MENORCA_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -773,6 +775,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: LZ.faqs,
     parentTip: LZ.parentTip,
     goodToKnow: LZ.goodToKnow,
+  },
+  {
+    key: "menorca",
+    name: { en: "Menorca", fr: "Minorque" },
+    country: { en: "Spain", fr: "Espagne" },
+    inPhrase: { en: "in Menorca", fr: "a Minorque" },
+    slug: {
+      en: "family-hotels-menorca",
+      fr: "hotels-famille-minorque",
+    },
+    geo: { lat: 39.95, lng: 4.1, zoom: 10 },
+    heroKicker: MN.heroKicker ?? {
+      en: "The Balearics' calmest, shallowest beaches",
+      fr: "Les plages les plus calmes et peu profondes des Baleares",
+    },
+    intro: MN.intro ?? {
+      en: "Menorca is the quiet Balearic: no big party strips, just a coastline of shallow, sheltered bays that are as close to a toddler-perfect beach as Europe gets. Cala Galdana and Son Bou are huge and gently shelving, boat trips reach virgin coves, and the resorts are low-rise and family-run. These are the hotels that make the most of it.",
+      fr: "Minorque, c'est la Baleare tranquille : pas de grandes zones festives, juste un littoral de baies peu profondes et abritees, ce qui se rapproche le plus d'une plage parfaite pour tout-petits en Europe. Cala Galdana et Son Bou sont immenses et a pente douce, les sorties en bateau atteignent des criques vierges, et les resorts sont bas et familiaux. Voici les hotels qui en tirent le meilleur.",
+    },
+    whyKids: MN.whyKids ?? { en: [], fr: [] },
+    bestAreas: MN.bestAreas ?? { en: [], fr: [] },
+    emoji: MN.emoji ?? "\ud83d\udc1a",
+    accent: "2f9e8f",
+    hotelKeys: [], // populated below
+    related: ["mallorca", "costa-blanca", "guide-allinclusive-europe"],
+    photos: MN.photos,
+    stats: MN.stats,
+    activities: MN.activities,
+    faqs: MN.faqs,
+    parentTip: MN.parentTip,
+    goodToKnow: MN.goodToKnow,
   },
 ]);
 
