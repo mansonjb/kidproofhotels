@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -37,6 +37,8 @@ const LZ = (LANZAROTE_META ?? {}) as any;
 const MN = (MENORCA_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const KOS = (KOS_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const VLC = (VALENCIA_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -839,6 +841,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: KOS.faqs,
     parentTip: KOS.parentTip,
     goodToKnow: KOS.goodToKnow,
+  },
+  {
+    key: "valencia",
+    name: { en: "Valencia", fr: "Valence" },
+    country: { en: "Spain", fr: "Espagne" },
+    inPhrase: { en: "in Valencia", fr: "a Valence" },
+    slug: {
+      en: "family-hotels-valencia",
+      fr: "hotels-famille-valence",
+    },
+    geo: { lat: 39.4699, lng: -0.3763, zoom: 12 },
+    heroKicker: VLC.heroKicker ?? {
+      en: "Europe's biggest aquarium, a beach, and a park you cannot get lost in",
+      fr: "Le plus grand aquarium d'Europe, une plage, et un parc ou l'on ne se perd pas",
+    },
+    intro: VLC.intro ?? {
+      en: "Valencia is the easy city break the guidebooks undersell: flat and bike-friendly (no Barcelona hills), with the Oceanografic, Europe's largest aquarium, a 9 km green park where the river used to run, a giant Gulliver playground kids climb over, and a proper city beach. Add family rooms and a mild climate and it plans itself. These are the hotels that get it right.",
+      fr: "Valence est ce city break facile que les guides sous-vendent : plat et cyclable (pas les cotes de Barcelone), avec l'Oceanografic (le plus grand aquarium d'Europe), un parc vert de 9 km dans l'ancien lit du fleuve, un geant Gulliver que les enfants escaladent, et une vraie plage urbaine. Ajoutez des chambres familiales et un climat doux : tout s'organise seul. Voici les hotels qui reussissent.",
+    },
+    whyKids: VLC.whyKids ?? { en: [], fr: [] },
+    bestAreas: VLC.bestAreas ?? { en: [], fr: [] },
+    emoji: VLC.emoji ?? "\ud83c\udf4a",
+    accent: "f2a03d",
+    hotelKeys: [], // populated below
+    related: ["barcelona", "costa-blanca", "guide-connecting-rooms"],
+    photos: VLC.photos,
+    stats: VLC.stats,
+    activities: VLC.activities,
+    faqs: VLC.faqs,
+    parentTip: VLC.parentTip,
+    goodToKnow: VLC.goodToKnow,
   },
 ]);
 
