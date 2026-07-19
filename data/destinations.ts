@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -39,6 +39,8 @@ const MN = (MENORCA_META ?? {}) as any;
 const KOS = (KOS_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const VLC = (VALENCIA_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const MT = (MALTA_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -872,6 +874,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: VLC.faqs,
     parentTip: VLC.parentTip,
     goodToKnow: VLC.goodToKnow,
+  },
+  {
+    key: "malta",
+    name: { en: "Malta", fr: "Malte" },
+    country: { en: "Malta", fr: "Malte" },
+    inPhrase: { en: "in Malta", fr: "a Malte" },
+    slug: {
+      en: "family-hotels-malta",
+      fr: "hotels-famille-malte",
+    },
+    geo: { lat: 35.92, lng: 14.4, zoom: 11 },
+    heroKicker: MT.heroKicker ?? {
+      en: "English-speaking, sun-soaked, everything a short drive away",
+      fr: "Anglophone, gorgee de soleil, tout a quelques minutes en voiture",
+    },
+    intro: MT.intro ?? {
+      en: "Malta is the easy Mediterranean with kids: everyone speaks English, the island is small so nothing is far, and the season runs warm well into October. Ghadira Bay in Mellieha gives you a proper shallow sandy beach, Popeye Village is a film-set playground, and a boat to the Blue Lagoon is the day everyone remembers. These are the hotels that make it simple.",
+      fr: "Malte, c'est la Mediterranee facile avec des enfants : tout le monde parle anglais, l'ile est petite donc rien n'est loin, et la saison reste chaude jusqu'en octobre. Ghadira Bay a Mellieha offre une vraie plage de sable peu profonde, Popeye Village est un decor de film transforme en parc, et une sortie en bateau au Blue Lagoon est la journee que tout le monde retient. Voici les hotels qui simplifient tout.",
+    },
+    whyKids: MT.whyKids ?? { en: [], fr: [] },
+    bestAreas: MT.bestAreas ?? { en: [], fr: [] },
+    emoji: MT.emoji ?? "\ud83c\udff0",
+    accent: "c68a3e",
+    hotelKeys: [], // populated below
+    related: ["sicily", "cyprus", "guide-allinclusive-europe"],
+    photos: MT.photos,
+    stats: MT.stats,
+    activities: MT.activities,
+    faqs: MT.faqs,
+    parentTip: MT.parentTip,
+    goodToKnow: MT.goodToKnow,
   },
 ]);
 
