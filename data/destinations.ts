@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -41,6 +41,8 @@ const KOS = (KOS_META ?? {}) as any;
 const VLC = (VALENCIA_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const MT = (MALTA_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const ZK = (ZAKYNTHOS_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -905,6 +907,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: MT.faqs,
     parentTip: MT.parentTip,
     goodToKnow: MT.goodToKnow,
+  },
+  {
+    key: "zakynthos",
+    name: { en: "Zakynthos", fr: "Zakynthos" },
+    country: { en: "Greece", fr: "Grece" },
+    inPhrase: { en: "in Zakynthos", fr: "a Zakynthos" },
+    slug: {
+      en: "family-hotels-zakynthos",
+      fr: "hotels-famille-zakynthos",
+    },
+    geo: { lat: 37.79, lng: 20.87, zoom: 11 },
+    heroKicker: ZK.heroKicker ?? {
+      en: "Loggerhead turtles, the Blue Caves and Greece's most famous shipwreck beach",
+      fr: "Tortues caouannes, Grottes Bleues et la plage a l'epave la plus celebre de Grece",
+    },
+    intro: ZK.intro ?? {
+      en: "Zakynthos, also known as Zante, pairs postcard scenery with genuinely well-organised family resorts. Laganas and Tsilivi are built around big pools, kids clubs and sandy beaches, while the island's real headline act is nature: loggerhead sea turtles nest right off the south coast. These are the hotels that make it simple with kids.",
+      fr: "Zakynthos, aussi appelee Zante, associe des paysages de carte postale a des resorts familiaux vraiment bien organises. Laganas et Tsilivi sont construits autour de grandes piscines, de clubs enfants et de plages de sable, tandis que la vraie vedette reste la nature : les tortues caouannes pondent juste au large de la cote sud. Voici les hotels qui simplifient tout avec des enfants.",
+    },
+    whyKids: ZK.whyKids ?? { en: [], fr: [] },
+    bestAreas: ZK.bestAreas ?? { en: [], fr: [] },
+    emoji: ZK.emoji ?? "🐢",
+    accent: "1f9a8a",
+    hotelKeys: [], // populated below
+    related: ["corfu", "crete", "guide-waterslide-hotels"],
+    photos: ZK.photos,
+    stats: ZK.stats,
+    activities: ZK.activities,
+    faqs: ZK.faqs,
+    parentTip: ZK.parentTip,
+    goodToKnow: ZK.goodToKnow,
   },
 ]);
 
