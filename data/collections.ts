@@ -1,7 +1,7 @@
 import type { ImgKey } from "@/lib/images";
 import type { AmenityId } from "@/data/amenities";
 import type { Faq, L10n } from "@/lib/types";
-import { src } from "@/lib/l10n";
+import { backfillDeep, src } from "@/lib/l10n";
 
 // High-intent, timely landing pages that curate our scored hotels across
 // destinations: "winter sun family holidays", "October half term", "best family
@@ -190,5 +190,9 @@ export const COLLECTIONS: Collection[] = src([
     ],
   },
 ]);
+
+// Collections are authored in en/fr only; fill it/de/es/pt with English so the
+// localized pages render real copy (and never an undefined title/description).
+backfillDeep(COLLECTIONS);
 
 export const COLLECTION_BY_KEY = new Map(COLLECTIONS.map((c) => [c.key, c]));

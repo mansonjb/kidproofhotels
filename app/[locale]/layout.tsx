@@ -39,11 +39,20 @@ export default async function LocaleLayout({
       lang={HTML_LANG[locale]}
       className={`${display.variable} ${body.variable}`}
     >
+      <head>
+        {/* Unsplash serves every hero image; warm the connection early. */}
+        <link
+          rel="preconnect"
+          href="https://images.unsplash.com"
+          crossOrigin="anonymous"
+        />
+        <link rel="dns-prefetch" href="https://images.unsplash.com" />
+      </head>
       <body className="page-canvas min-h-screen">
         <JsonLd
           data={{
             "@context": "https://schema.org",
-            "@graph": [orgNode(), websiteNode()],
+            "@graph": [orgNode(), websiteNode(locale)],
           }}
         />
         <Stay22Script lmaId={process.env.NEXT_PUBLIC_STAY22_LMA_ID} />

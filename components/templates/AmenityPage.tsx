@@ -5,7 +5,10 @@ import type { Amenity } from "@/data/amenities";
 import { AMENITIES } from "@/data/amenities";
 import { hotelsWithAmenity } from "@/data/hotels";
 import { getByKey, pageHref } from "@/lib/registry";
+import { localeHref } from "@/lib/i18n";
 import { scoreOf } from "@/lib/score";
+import { JsonLd } from "@/components/JsonLd";
+import { breadcrumbNode, itemListNode } from "@/lib/schema";
 import { Breadcrumb } from "@/components/Breadcrumb";
 import { Photo } from "@/components/Photo";
 import { Callout } from "@/components/Callout";
@@ -85,6 +88,24 @@ export function AmenityPage({
       <p className="mt-12 rounded-2xl bg-paper-2 p-4 text-xs leading-relaxed text-muted">
         {dict.stay22.disclosure}
       </p>
+
+      <JsonLd
+        data={breadcrumbNode([
+          { name: dict.common.home, path: pageHref(getByKey("home")!, locale) },
+          ...(idx ? [{ name: dict.browse.amenitiesTitle, path: pageHref(idx, locale) }] : []),
+          { name: amenity.label[locale], path: localeHref(locale, amenity.slug[locale]) },
+        ])}
+      />
+
+      <JsonLd
+        data={itemListNode({
+          name: fill(dict.browse.ourPicksWith, { name: amenity.label[locale] }),
+          items: hotels.map((hotel) => ({
+            name: hotel.name,
+            path: localeHref(locale, hotel.slug[locale]),
+          })),
+        })}
+      />
     </article>
   );
 }

@@ -3,6 +3,9 @@ import type { Locale } from "@/lib/i18n";
 import type { Collection } from "@/data/collections";
 import { collectionHotels } from "@/lib/collections";
 import { getByKey, pageHref } from "@/lib/registry";
+import { localeHref } from "@/lib/i18n";
+import { JsonLd } from "@/components/JsonLd";
+import { breadcrumbNode, itemListNode } from "@/lib/schema";
 import { Breadcrumb } from "@/components/Breadcrumb";
 import { Photo } from "@/components/Photo";
 import { Callout } from "@/components/Callout";
@@ -75,6 +78,24 @@ export function CollectionPage({
       <p className="mt-12 rounded-2xl bg-paper-2 p-4 text-xs leading-relaxed text-muted">
         {dict.stay22.disclosure}
       </p>
+
+      <JsonLd
+        data={breadcrumbNode([
+          { name: dict.common.home, path: pageHref(getByKey("home")!, locale) },
+          ...(idx ? [{ name: dict.collections.nav, path: pageHref(idx, locale) }] : []),
+          { name: collection.title[locale], path: localeHref(locale, collection.slug[locale]) },
+        ])}
+      />
+
+      <JsonLd
+        data={itemListNode({
+          name: collection.title[locale],
+          items: hotels.map((hotel) => ({
+            name: hotel.name,
+            path: localeHref(locale, hotel.slug[locale]),
+          })),
+        })}
+      />
     </article>
   );
 }

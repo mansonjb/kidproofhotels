@@ -64,7 +64,7 @@ export function DestinationCard({
           {dest.heroKicker[locale]}
         </p>
         <span className="mt-auto pt-2 text-sm font-semibold text-sky-deep">
-          {count} {count > 1 ? "hotels" : "hotel"} →
+          {dict.browse.hotelsCount.replace("{count}", String(count))} →
         </span>
       </div>
     </Link>

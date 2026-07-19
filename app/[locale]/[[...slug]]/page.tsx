@@ -8,7 +8,6 @@ import {
   localeHref,
   type Locale,
 } from "@/lib/i18n";
-import { SITE_NAME } from "@/lib/site";
 import { allPages, getBySlug } from "@/lib/registry";
 import { buildMetadata } from "@/lib/seo";
 import type { PageEntry } from "@/lib/types";
@@ -33,6 +32,13 @@ import { CollectionPage } from "@/components/templates/CollectionPage";
 import { DestinationsRanking } from "@/components/templates/DestinationsRanking";
 import { collectionFromKey } from "@/lib/collections";
 import { MethodPage } from "@/components/templates/MethodPage";
+import { imgUrl, type ImgKey } from "@/lib/images";
+
+// Absolute Unsplash URL for a page hero, at social-card ratio (1200x630).
+function heroImage(photos?: ImgKey[]): string | undefined {
+  const key = photos?.[0];
+  return key ? imgUrl(key, { w: 1200, h: 630 }) : undefined;
+}
 
 function amenityFromKey(key: string) {
   return AMENITY_BY_ID.get(key.replace(/^amenity-/, "") as never);
@@ -53,11 +59,12 @@ export function generateStaticParams() {
 function metaFor(
   entry: PageEntry,
   locale: Locale,
-): { title: string; description: string } {
+): { title: string; description: string; image?: string } {
   const dict = getDict(locale);
   switch (entry.kind) {
     case "home":
-      return { title: `${SITE_NAME}: ${dict.brandTagline}`, description: dict.home.heroSub };
+      // Brand is appended once by the layout title template; don't prefix it here.
+      return { title: dict.brandTagline, description: dict.home.heroSub };
     case "destinations-index":
       return { title: dict.home.featuredDest, description: dict.home.featuredDestSub };
     case "guides-index":
@@ -66,7 +73,11 @@ function metaFor(
       return { title: dict.method.title, description: dict.method.dek };
     case "destination": {
       const d = DEST_BY_KEY.get(entry.key)!;
-      return { title: `${dict.home.featuredDest}: ${d.name[locale]}`, description: d.intro[locale] };
+      return {
+        title: `${dict.home.featuredDest}: ${d.name[locale]}`,
+        description: d.intro[locale],
+        image: heroImage(d.photos),
+      };
     }
     case "hotel": {
       const h = HOTEL_BY_KEY.get(entry.key)!;
@@ -74,6 +85,7 @@ function metaFor(
       return {
         title: d ? `${h.name}, ${d.name[locale]}` : h.name,
         description: h.roomsSummary[locale],
+        image: heroImage(h.photos),
       };
     }
     case "guide": {
@@ -113,8 +125,8 @@ export async function generateMetadata({
   const loc = isLocale(locale) ? locale : DEFAULT_LOCALE;
   const entry = getBySlug(loc, slug);
   if (!entry) return {};
-  const { title, description } = metaFor(entry, loc);
-  return buildMetadata({ entry, locale: loc, title, description });
+  const { title, description, image } = metaFor(entry, loc);
+  return buildMetadata({ entry, locale: loc, title, description, image });
 }
 
 export default async function Page({

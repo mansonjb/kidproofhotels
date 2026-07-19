@@ -8,7 +8,10 @@ import { AMENITY_BY_ID } from "@/data/amenities";
 import { DEST_BY_KEY } from "@/data/destinations";
 import { HOTEL_BY_KEY } from "@/data/hotels";
 import { getByKey, pageHref } from "@/lib/registry";
+import { localeHref } from "@/lib/i18n";
 import { scoreOf } from "@/lib/score";
+import { JsonLd } from "@/components/JsonLd";
+import { breadcrumbNode } from "@/lib/schema";
 import { Breadcrumb } from "@/components/Breadcrumb";
 import { Photo } from "@/components/Photo";
 import { Callout } from "@/components/Callout";
@@ -148,6 +151,15 @@ export function ComboPage({
       <p className="mt-12 rounded-2xl bg-paper-2 p-4 text-xs leading-relaxed text-muted">
         {dict.stay22.disclosure}
       </p>
+
+      <JsonLd
+        data={breadcrumbNode([
+          { name: dict.common.home, path: pageHref(getByKey("home")!, locale) },
+          ...(amenityEntry ? [{ name: amenity.label[locale], path: pageHref(amenityEntry, locale) }] : []),
+          ...(destEntry ? [{ name: dest.name[locale], path: pageHref(destEntry, locale) }] : []),
+          { name: h1, path: localeHref(locale, combo.slug[locale]) },
+        ])}
+      />
     </article>
   );
 }

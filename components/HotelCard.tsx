@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import type { Dict } from "@/data/i18n/ui";
 import type { Locale } from "@/lib/i18n";
 import { fill } from "@/lib/i18n";
@@ -40,13 +41,12 @@ export function HotelCard({
       <div className="relative">
         <div className="aspect-[4/3] overflow-hidden">
           {hotelHeroSrc(hotel) ? (
-            <img
+            <Image
               src={hotelHeroSrc(hotel)}
               alt={hotel.name}
               width={560}
               height={420}
-              loading="lazy"
-              decoding="async"
+              sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
               className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
             />
           ) : (

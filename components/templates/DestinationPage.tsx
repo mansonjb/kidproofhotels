@@ -3,6 +3,9 @@ import type { Locale } from "@/lib/i18n";
 import { fill } from "@/lib/i18n";
 import type { Destination, PageEntry } from "@/lib/types";
 import { getByKey, pageHref } from "@/lib/registry";
+import { localeHref } from "@/lib/i18n";
+import { JsonLd } from "@/components/JsonLd";
+import { breadcrumbNode, itemListNode, SITE_UPDATED } from "@/lib/schema";
 import { HOTEL_BY_KEY } from "@/data/hotels";
 import { combosForDestination } from "@/lib/combos";
 import { AMENITY_BY_ID } from "@/data/amenities";
@@ -55,6 +58,10 @@ export function DestinationPage({
   const hotels = dest.hotelKeys
     .map((k) => HOTEL_BY_KEY.get(k))
     .filter((h): h is NonNullable<typeof h> => Boolean(h));
+  const updated = new Date(SITE_UPDATED).toLocaleDateString(
+    locale === "fr" ? "fr-FR" : "en-GB",
+    { year: "numeric", month: "long", day: "numeric" },
+  );
 
   return (
     <article className="mx-auto max-w-5xl px-5 py-10">
@@ -72,7 +79,12 @@ export function DestinationPage({
           <span className="mr-2">{dest.emoji}</span>
           {dest.name[locale]}
         </h1>
-        <p className="mt-2 text-lg text-muted">{dest.country[locale]}</p>
+        {dest.country[locale] !== dest.name[locale] && (
+          <p className="mt-2 text-lg text-muted">{dest.country[locale]}</p>
+        )}
+        <p className="mt-2 font-mono text-xs text-muted">
+          {fill(dict.common.updated, { date: updated })}
+        </p>
         <p className="mt-5 text-lg leading-relaxed text-ink-soft">{dest.intro[locale]}</p>
       </header>
 
@@ -203,6 +215,24 @@ export function DestinationPage({
       <p className="mt-12 rounded-2xl bg-paper-2 p-4 text-xs leading-relaxed text-muted">
         {dict.stay22.disclosure}
       </p>
+
+      <JsonLd
+        data={breadcrumbNode([
+          { name: dict.common.home, path: pageHref(getByKey("home")!, locale) },
+          ...(idx ? [{ name: dict.nav.destinations, path: pageHref(idx, locale) }] : []),
+          { name: dest.name[locale], path: pageHref(entry, locale) },
+        ])}
+      />
+
+      <JsonLd
+        data={itemListNode({
+          name: fill(dict.blocks.compare, { name: dest.name[locale] }),
+          items: hotels.map((hotel) => ({
+            name: hotel.name,
+            path: localeHref(locale, hotel.slug[locale]),
+          })),
+        })}
+      />
     </article>
   );
 }

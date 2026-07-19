@@ -353,7 +353,7 @@ export const DESTINATIONS: Destination[] = src([
   {
     key: "mallorca",
     name: { en: "Mallorca", fr: "Majorque" },
-    country: { en: "Spain", fr: "Espagne" },
+    country: { en: "Spain", fr: "Espagne", it: "Spagna", de: "Spanien", es: "España", pt: "Espanha" },
     inPhrase: { en: "in Mallorca", fr: "à Majorque" },
     slug: {
       en: "family-hotels-mallorca",
@@ -384,7 +384,7 @@ export const DESTINATIONS: Destination[] = src([
   {
     key: "tenerife",
     name: { en: "Tenerife", fr: "Tenerife" },
-    country: { en: "Spain", fr: "Espagne" },
+    country: { en: "Spain", fr: "Espagne", it: "Spagna", de: "Spanien", es: "España", pt: "Espanha" },
     inPhrase: { en: "in Tenerife", fr: "à Tenerife" },
     slug: {
       en: "family-hotels-tenerife",
@@ -415,7 +415,7 @@ export const DESTINATIONS: Destination[] = src([
   {
     key: "crete",
     name: { en: "Crete", fr: "Crète" },
-    country: { en: "Greece", fr: "Grèce" },
+    country: { en: "Greece", fr: "Grèce", it: "Grecia", de: "Griechenland", es: "Grecia", pt: "Grécia" },
     inPhrase: { en: "in Crete", fr: "en Crète" },
     slug: {
       en: "family-hotels-crete",
@@ -446,7 +446,7 @@ export const DESTINATIONS: Destination[] = src([
   {
     key: "antalya",
     name: { en: "Antalya", fr: "Antalya" },
-    country: { en: "Turkey", fr: "Turquie" },
+    country: { en: "Turkey", fr: "Turquie", it: "Turchia", de: "Türkei", es: "Turquía", pt: "Turquia" },
     inPhrase: { en: "in Antalya", fr: "à Antalya" },
     slug: {
       en: "family-hotels-antalya",
@@ -477,7 +477,7 @@ export const DESTINATIONS: Destination[] = src([
   {
     key: "sardinia",
     name: { en: "Sardinia", fr: "Sardaigne" },
-    country: { en: "Italy", fr: "Italie" },
+    country: { en: "Italy", fr: "Italie", it: "Italia", de: "Italien", es: "Italia", pt: "Itália" },
     inPhrase: { en: "in Sardinia", fr: "en Sardaigne" },
     slug: {
       en: "family-hotels-sardinia",
@@ -508,7 +508,7 @@ export const DESTINATIONS: Destination[] = src([
   {
     key: "costa-blanca",
     name: { en: "Costa Blanca", fr: "Costa Blanca" },
-    country: { en: "Spain", fr: "Espagne" },
+    country: { en: "Spain", fr: "Espagne", it: "Spagna", de: "Spanien", es: "España", pt: "Espanha" },
     inPhrase: { en: "on the Costa Blanca", fr: "sur la Costa Blanca" },
     slug: {
       en: "family-hotels-costa-blanca",
@@ -539,7 +539,7 @@ export const DESTINATIONS: Destination[] = src([
   {
     key: "rhodes",
     name: { en: "Rhodes", fr: "Rhodes" },
-    country: { en: "Greece", fr: "Grèce" },
+    country: { en: "Greece", fr: "Grèce", it: "Grecia", de: "Griechenland", es: "Grecia", pt: "Grécia" },
     inPhrase: { en: "in Rhodes", fr: "à Rhodes" },
     slug: {
       en: "family-hotels-rhodes",
@@ -570,7 +570,7 @@ export const DESTINATIONS: Destination[] = src([
   {
     key: "gran-canaria",
     name: { en: "Gran Canaria", fr: "Grande Canarie" },
-    country: { en: "Spain", fr: "Espagne" },
+    country: { en: "Spain", fr: "Espagne", it: "Spagna", de: "Spanien", es: "España", pt: "Espanha" },
     inPhrase: { en: "in Gran Canaria", fr: "à Grande Canarie" },
     slug: {
       en: "family-hotels-gran-canaria",
@@ -601,7 +601,7 @@ export const DESTINATIONS: Destination[] = src([
   {
     key: "cyprus",
     name: { en: "Cyprus", fr: "Chypre" },
-    country: { en: "Cyprus", fr: "Chypre" },
+    country: { en: "Cyprus", fr: "Chypre", it: "Cipro", de: "Zypern", es: "Chipre", pt: "Chipre" },
     inPhrase: { en: "in Cyprus", fr: "à Chypre" },
     slug: {
       en: "family-hotels-cyprus",
@@ -632,7 +632,7 @@ export const DESTINATIONS: Destination[] = src([
   {
     key: "sicily",
     name: { en: "Sicily", fr: "Sicile" },
-    country: { en: "Italy", fr: "Italie" },
+    country: { en: "Italy", fr: "Italie", it: "Italia", de: "Italien", es: "Italia", pt: "Itália" },
     inPhrase: { en: "in Sicily", fr: "en Sicile" },
     slug: {
       en: "family-hotels-sicily",
@@ -663,7 +663,7 @@ export const DESTINATIONS: Destination[] = src([
   {
     key: "corfu",
     name: { en: "Corfu", fr: "Corfou" },
-    country: { en: "Greece", fr: "Grèce" },
+    country: { en: "Greece", fr: "Grèce", it: "Grecia", de: "Griechenland", es: "Grecia", pt: "Grécia" },
     inPhrase: { en: "in Corfu", fr: "à Corfou" },
     slug: {
       en: "family-hotels-corfu",
@@ -694,7 +694,7 @@ export const DESTINATIONS: Destination[] = src([
   {
     key: "fuerteventura",
     name: { en: "Fuerteventura", fr: "Fuerteventura" },
-    country: { en: "Spain", fr: "Espagne" },
+    country: { en: "Spain", fr: "Espagne", it: "Spagna", de: "Spanien", es: "España", pt: "Espanha" },
     inPhrase: { en: "in Fuerteventura", fr: "à Fuerteventura" },
     slug: {
       en: "family-hotels-fuerteventura",
@@ -725,7 +725,7 @@ export const DESTINATIONS: Destination[] = src([
   {
     key: "barcelona",
     name: { en: "Barcelona", fr: "Barcelone" },
-    country: { en: "Spain", fr: "Espagne" },
+    country: { en: "Spain", fr: "Espagne", it: "Spagna", de: "Spanien", es: "España", pt: "Espanha" },
     inPhrase: { en: "in Barcelona", fr: "à Barcelone" },
     slug: {
       en: "family-hotels-barcelona",
@@ -756,7 +756,7 @@ export const DESTINATIONS: Destination[] = src([
   {
     key: "lanzarote",
     name: { en: "Lanzarote", fr: "Lanzarote" },
-    country: { en: "Spain", fr: "Espagne" },
+    country: { en: "Spain", fr: "Espagne", it: "Spagna", de: "Spanien", es: "España", pt: "Espanha" },
     inPhrase: { en: "in Lanzarote", fr: "a Lanzarote" },
     slug: {
       en: "family-hotels-lanzarote",
@@ -787,7 +787,7 @@ export const DESTINATIONS: Destination[] = src([
   {
     key: "menorca",
     name: { en: "Menorca", fr: "Minorque" },
-    country: { en: "Spain", fr: "Espagne" },
+    country: { en: "Spain", fr: "Espagne", it: "Spagna", de: "Spanien", es: "España", pt: "Espanha" },
     inPhrase: { en: "in Menorca", fr: "a Minorque" },
     slug: {
       en: "family-hotels-menorca",
@@ -818,7 +818,7 @@ export const DESTINATIONS: Destination[] = src([
   {
     key: "kos",
     name: { en: "Kos", fr: "Kos" },
-    country: { en: "Greece", fr: "Grece" },
+    country: { en: "Greece", fr: "Grèce", it: "Grecia", de: "Griechenland", es: "Grecia", pt: "Grécia" },
     inPhrase: { en: "in Kos", fr: "a Kos" },
     slug: {
       en: "family-hotels-kos",
@@ -849,7 +849,7 @@ export const DESTINATIONS: Destination[] = src([
   {
     key: "valencia",
     name: { en: "Valencia", fr: "Valence" },
-    country: { en: "Spain", fr: "Espagne" },
+    country: { en: "Spain", fr: "Espagne", it: "Spagna", de: "Spanien", es: "España", pt: "Espanha" },
     inPhrase: { en: "in Valencia", fr: "a Valence" },
     slug: {
       en: "family-hotels-valencia",
@@ -880,7 +880,7 @@ export const DESTINATIONS: Destination[] = src([
   {
     key: "malta",
     name: { en: "Malta", fr: "Malte" },
-    country: { en: "Malta", fr: "Malte" },
+    country: { en: "Malta", fr: "Malte", it: "Malta", de: "Malta", es: "Malta", pt: "Malta" },
     inPhrase: { en: "in Malta", fr: "a Malte" },
     slug: {
       en: "family-hotels-malta",
@@ -911,7 +911,7 @@ export const DESTINATIONS: Destination[] = src([
   {
     key: "zakynthos",
     name: { en: "Zakynthos", fr: "Zakynthos" },
-    country: { en: "Greece", fr: "Grece" },
+    country: { en: "Greece", fr: "Grèce", it: "Grecia", de: "Griechenland", es: "Grecia", pt: "Grécia" },
     inPhrase: { en: "in Zakynthos", fr: "a Zakynthos" },
     slug: {
       en: "family-hotels-zakynthos",

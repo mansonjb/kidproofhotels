@@ -4,6 +4,10 @@ import type { Locale } from "@/lib/i18n";
 import { fill } from "@/lib/i18n";
 import type { Guide, PageEntry } from "@/lib/types";
 import { getByKey, pageHref } from "@/lib/registry";
+import { localeHref } from "@/lib/i18n";
+import { imgUrl } from "@/lib/images";
+import { JsonLd } from "@/components/JsonLd";
+import { breadcrumbNode, articleNode } from "@/lib/schema";
 import { Breadcrumb } from "@/components/Breadcrumb";
 import { AgeChips } from "@/components/AgeChips";
 import { Stay22Map } from "@/components/Stay22Map";
@@ -81,6 +85,25 @@ export function GuidePage({
       <p className="mt-12 rounded-2xl bg-paper-2 p-4 text-xs leading-relaxed text-muted">
         {dict.stay22.disclosure}
       </p>
+
+      <JsonLd
+        data={breadcrumbNode([
+          { name: dict.common.home, path: pageHref(getByKey("home")!, locale) },
+          ...(idx ? [{ name: dict.nav.guides, path: pageHref(idx, locale) }] : []),
+          { name: guide.title[locale], path: pageHref(entry, locale) },
+        ])}
+      />
+
+      <JsonLd
+        data={articleNode({
+          title: guide.title[locale],
+          description: guide.dek[locale],
+          path: pageHref(entry, locale),
+          updated: guide.updated,
+          locale,
+          image: guide.hero ? imgUrl(guide.hero, { w: 1200, h: 630 }) : undefined,
+        })}
+      />
     </article>
   );
 }

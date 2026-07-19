@@ -7,8 +7,9 @@ import { HOTEL_BY_KEY } from "@/data/hotels";
 import { getByKey, pageHref } from "@/lib/registry";
 import { kidProofScore } from "@/lib/score";
 import { stay22Url } from "@/lib/affiliates/stay22";
-import { hotelNode } from "@/lib/schema";
+import { hotelNode, breadcrumbNode, SITE_UPDATED } from "@/lib/schema";
 import { localeHref } from "@/lib/i18n";
+import { hotelHeroSrc } from "@/lib/hotel-photos";
 import { Breadcrumb } from "@/components/Breadcrumb";
 import { ScoreBreakdown } from "@/components/ScoreBreakdown";
 import { AgeChips, PriceTag } from "@/components/AgeChips";
@@ -45,6 +46,17 @@ export function HotelPage({
     .filter((h): h is NonNullable<typeof h> => Boolean(h));
   const bookHref = stay22Url(hotel.address, hotel.name);
   const accent = dest?.accent ?? "ff9d1c";
+  // "In Cyprus, Cyprus" → "In Cyprus": drop the country when it repeats the area.
+  const place = dest
+    ? dest.name[locale] === dest.country[locale]
+      ? dest.name[locale]
+      : `${dest.name[locale]}, ${dest.country[locale]}`
+    : "";
+  const heroSrc = hotelHeroSrc(hotel, 1200, 620);
+  const updated = new Date(SITE_UPDATED).toLocaleDateString(
+    locale === "fr" ? "fr-FR" : "en-GB",
+    { year: "numeric", month: "long", day: "numeric" },
+  );
 
   return (
     <article className="mx-auto max-w-5xl px-5 py-10">
@@ -60,10 +72,13 @@ export function HotelPage({
       <header>
         {dest && (
           <p className="kicker mb-3">
-            {fill(dict.hotel.inDestination, { name: `${dest.name[locale]}, ${dest.country[locale]}` })}
+            {fill(dict.hotel.inDestination, { name: place })}
           </p>
         )}
         <h1 className="font-display text-4xl leading-tight text-ink sm:text-5xl">{hotel.name}</h1>
+        <p className="mt-3 font-mono text-xs text-muted">
+          {fill(dict.common.updated, { date: updated })}
+        </p>
         <div className="mt-4 flex flex-wrap items-center gap-4">
           <AgeChips ages={hotel.ages} dict={dict} />
           <PriceTag tier={hotel.priceTier} from={hotel.priceFrom} dict={dict} />
@@ -211,13 +226,26 @@ export function HotelPage({
       </p>
 
       <JsonLd
+        data={breadcrumbNode([
+          { name: dict.common.home, path: pageHref(getByKey("home")!, locale) },
+          ...(dest ? [{ name: dest.name[locale], path: pageHref(getByKey(dest.key)!, locale) }] : []),
+          { name: hotel.name, path: localeHref(locale, hotel.slug[locale]) },
+        ])}
+      />
+
+      <JsonLd
         data={hotelNode({
           name: hotel.name,
           path: localeHref(locale, hotel.slug[locale]),
           locale,
           score,
-          address: hotel.address,
+          address: {
+            locality: dest ? dest.name[locale] : hotel.area?.[locale] ?? hotel.name,
+            country: dest ? dest.country[locale] : "",
+          },
           geo: hotel.geo,
+          image: heroSrc || undefined,
+          priceTier: hotel.priceTier,
         })}
       />
     </article>

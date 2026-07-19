@@ -36,6 +36,7 @@ export function Faq({
         data={{
           "@context": "https://schema.org",
           "@type": "FAQPage",
+          inLanguage: locale,
           mainEntity: faqs.map((f) => ({
             "@type": "Question",
             name: f.q[locale],

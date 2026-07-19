@@ -42,7 +42,7 @@ export function HomePage({ locale, dict }: { locale: Locale; dict: Dict }) {
           <div className="relative">
             <Star className="absolute -left-6 top-2 hidden h-7 w-7 text-sun lg:block" />
             <p className="kicker mb-4">{h.heroKicker}</p>
-            <h1 className="font-display text-5xl leading-[1.02] text-ink sm:text-6xl lg:text-7xl">
+            <h1 className="font-display text-4xl leading-[1.05] text-balance text-ink sm:text-5xl md:text-6xl lg:text-7xl">
               {h.heroTitleA}{" "}
               <span className="relative whitespace-nowrap text-sun-deep">
                 {h.heroTitleAccent}

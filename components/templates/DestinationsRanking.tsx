@@ -9,7 +9,7 @@ import { grade } from "@/lib/score";
 import { getByKey, pageHref } from "@/lib/registry";
 import { Breadcrumb } from "@/components/Breadcrumb";
 import { JsonLd } from "@/components/JsonLd";
-import { SITE_URL } from "@/lib/site";
+import { breadcrumbNode, itemListNode } from "@/lib/schema";
 import { localeHref } from "@/lib/i18n";
 
 const CHIP: Record<string, string> = {
@@ -87,17 +87,20 @@ export function DestinationsRanking({ locale, dict }: { locale: Locale; dict: Di
       </p>
 
       <JsonLd
-        data={{
-          "@context": "https://schema.org",
-          "@type": "ItemList",
+        data={breadcrumbNode([
+          { name: dict.common.home, path: pageHref(getByKey("home")!, locale) },
+          { name: dict.ranking.title, path: pageHref(getByKey("destinations-ranking")!, locale) },
+        ])}
+      />
+
+      <JsonLd
+        data={itemListNode({
           name: dict.ranking.title,
-          itemListElement: ranked.map((r, i) => ({
-            "@type": "ListItem",
-            position: i + 1,
+          items: ranked.map((r) => ({
             name: r.dest.name[locale],
-            url: `${SITE_URL}${localeHref(locale, getByKey(r.dest.key)!.slug[locale])}`,
+            path: localeHref(locale, getByKey(r.dest.key)!.slug[locale]),
           })),
-        }}
+        })}
       />
     </article>
   );
