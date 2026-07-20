@@ -50,7 +50,7 @@
       },
       "roomsSummary": {
         "en": "Large rooms, suites and bungalows in gardens sloping to Kamari Bay, most with a sea or garden view. Two-bedroom family suites and swim-up options mean parents and older kids get their own space, and cots and bed rails are standard. This is the room configuration that makes a long week with little ones actually restful.",
-        "fr": "Grandes chambres, suites et bungalows dans des jardins qui descendent vers la baie de Kamari, la plupart avec vue mer ou jardin. Les suites familiales deux chambres et les options acces piscine offrent aux parents et aux grands enfants un espace a eux, et lits bebe et barrieres de lit sont fournis d'office. C'est le type de configuration qui rend une semaine avec des petits vraiment reposante.",
+        "fr": "Grandes chambres, suites et bungalows dans des jardins qui descendent vers la baie de Kamari, la plupart avec vue mer ou jardin. Les suites familiales deux chambres et les options accès piscine offrent aux parents et aux grands enfants un espace à eux, et lits bébé et barrières de lit sont fournis d'office. C'est le type de configuration qui rend une semaine avec des petits vraiment reposante.",
         "it": "Camere spaziose, suite e bungalow immersi in giardini che degradano verso Kamari Bay, la maggior parte con vista mare o giardino. Le suite familiari con due camere e le opzioni con accesso diretto alla piscina fanno sì che genitori e figli più grandi abbiano il proprio spazio, e lettini e sponde per il letto sono di serie. È la configurazione delle camere che rende davvero riposante una lunga settimana con i più piccoli.",
         "de": "Große Zimmer, Suiten und Bungalows in Gärten, die zur Kamari Bay hin abfallen, die meisten mit Meer- oder Gartenblick. Familiensuiten mit zwei Schlafzimmern und Optionen mit direktem Poolzugang sorgen dafür, dass Eltern und größere Kinder ihren eigenen Raum haben, und Kinderbetten sowie Bettgitter gehören zum Standard. Das ist die Zimmeraufteilung, die eine lange Woche mit den Kleinen wirklich erholsam macht.",
         "es": "Habitaciones amplias, suites y bungalós en jardines que descienden hacia Kamari Bay, la mayoría con vistas al mar o al jardín. Las suites familiares de dos dormitorios y las opciones con acceso directo a la piscina hacen que padres e hijos mayores tengan su propio espacio, y las cunas y las barandillas de cama son de serie. Es la configuración de habitación que hace que una semana larga con los pequeños sea de verdad descansada.",
@@ -58,7 +58,7 @@
       },
       "intro": {
         "en": "This is the island's flagship five-star all-inclusive, an Ikos property where the food and service genuinely feel premium, not just plentiful. It sits on its own quiet bay near Kefalos, well away from the party strips, with a proper kids club, a teens hangout and a beach that shelves gently. You pay for it, but the everything-included model (fine dining, minibar, even a local car for a day) takes the daily maths out of a family holiday.",
-        "fr": "C'est le navire amiral cinq etoiles tout compris de l'ile, une adresse Ikos ou la cuisine et le service sont vraiment haut de gamme, pas juste abondants. Il occupe sa propre baie tranquille pres de Kefalos, loin des rues festives, avec un vrai club enfants, un espace ados et une plage a pente douce. Cela a un prix, mais le modele tout inclus (tables gastronomiques, minibar, meme une voiture locale pour une journee) enleve tout le calcul quotidien d'un sejour en famille.",
+        "fr": "C'est le navire amiral cinq étoiles tout compris de l'île, une adresse Ikos où la cuisine et le service sont vraiment haut de gamme, pas juste abondants. Il occupe sa propre baie tranquille près de Kefalos, loin des rues festives, avec un vrai club enfants, un espace ados et une plage à pente douce. Cela a un prix, mais le modèle tout inclus (tables gastronomiques, minibar, même une voiture locale pour une journée) enlève tout le calcul quotidien d'un séjour en famille.",
         "it": "È il fiore all'occhiello dell'isola, un cinque stelle all inclusive firmato Ikos dove cibo e servizio sono davvero di livello premium, non solo abbondanti. Si trova su una baia tranquilla tutta sua vicino a Kefalos, ben lontano dalle zone della movida, con un vero miniclub, uno spazio per teenager e una spiaggia che digrada dolcemente. Si paga, ma la formula tutto incluso (ristoranti gourmet, minibar e persino un'auto a noleggio per un giorno) toglie di mezzo i conti quotidiani di una vacanza in famiglia.",
         "de": "Dies ist das Aushängeschild der Insel, ein Fünf-Sterne-All-inclusive von Ikos, bei dem Essen und Service wirklich hochwertig wirken, nicht nur reichlich. Es liegt an einer eigenen ruhigen Bucht bei Kefalos, weit weg von den Partymeilen, mit einem richtigen Kinderclub, einem Teenager-Treffpunkt und einem Strand, der sanft abfällt. Es hat seinen Preis, aber das Alles-inklusive-Modell (feines Essen, Minibar, sogar ein Mietwagen für einen Tag) nimmt einem das tägliche Rechnen im Familienurlaub ab.",
         "es": "Es el buque insignia de la isla, un cinco estrellas todo incluido de Ikos donde la comida y el servicio se sienten de verdad premium, no solo abundantes. Se asienta en su propia bahía tranquila cerca de Kefalos, bien lejos de las zonas de fiesta, con un club infantil de verdad, un espacio para adolescentes y una playa que baja con suavidad. Se paga, pero el modelo todo incluido (alta cocina, minibar e incluso un coche local por un día) quita las cuentas diarias de unas vacaciones en familia.",
@@ -72,10 +72,10 @@
           "Two-bedroom family suites, some swim-up"
         ],
         "fr": [
-          "Cinq etoiles tout compris avec tables gastronomiques",
-          "Club enfants gratuit et espace ados dedie",
-          "Baie tranquille a pente douce pres de Kefalos",
-          "Suites familiales deux chambres, certaines acces piscine"
+          "Cinq étoiles tout compris avec tables gastronomiques",
+          "Club enfants gratuit et espace ados dédié",
+          "Baie tranquille à pente douce près de Kefalos",
+          "Suites familiales deux chambres, certaines accès piscine"
         ],
         "it": [
           "Cinque stelle all inclusive con ristoranti gourmet",
@@ -111,9 +111,9 @@
         ],
         "fr": [
           "Cuisine et service bien au-dessus du tout compris habituel",
-          "Baie calme qui convient aux tout-petits et aux premieres baignades",
-          "Suites familiales genereuses avec deux salles de bain",
-          "Club enfants, club ados et experiences locales offertes"
+          "Baie calme qui convient aux tout-petits et aux premières baignades",
+          "Suites familiales généreuses avec deux salles de bain",
+          "Club enfants, club ados et expériences locales offertes"
         ],
         "it": [
           "Cibo e servizio ben oltre il solito all inclusive",
@@ -147,8 +147,8 @@
           "Large grounds mean some walking with a pram"
         ],
         "fr": [
-          "Tarif premium, le plus eleve de l'ile",
-          "Kefalos est a 40 minutes de route de l'aeroport",
+          "Tarif premium, le plus élevé de l'île",
+          "Kefalos est à 40 minutes de route de l'aéroport",
           "Grand domaine, donc un peu de marche avec la poussette"
         ],
         "it": [
@@ -174,7 +174,7 @@
       },
       "verdict": {
         "en": "If the budget allows, this is the best family stay on Kos, full stop. Book a two-bedroom suite on the bay and let the all-inclusive do the rest.",
-        "fr": "Si le budget suit, c'est le meilleur sejour en famille de Kos, point. Reservez une suite deux chambres sur la baie et laissez le tout compris faire le reste.",
+        "fr": "Si le budget suit, c'est le meilleur séjour en famille de Kos, point. Réservez une suite deux chambres sur la baie et laissez le tout compris faire le reste.",
         "it": "Se il budget lo permette, è il miglior soggiorno per famiglie di Kos, punto. Prenotate una suite con due camere sulla baia e lasciate che il tutto incluso faccia il resto.",
         "de": "Wenn das Budget es zulässt, ist dies der beste Familienaufenthalt auf Kos, ganz einfach. Buchen Sie eine Suite mit zwei Schlafzimmern an der Bucht und lassen Sie das All-inclusive den Rest erledigen.",
         "es": "Si el presupuesto lo permite, es la mejor estancia familiar de Kos, y punto. Reservad una suite de dos dormitorios sobre la bahía y dejad que el todo incluido haga el resto.",
@@ -182,7 +182,7 @@
       },
       "parentTip": {
         "en": "Ask for a bungalow near the kids club side of the gardens, it cuts the pram walk to breakfast and the pool right down.",
-        "fr": "Demandez un bungalow du cote du club enfants, cela raccourcit nettement le trajet en poussette jusqu'au petit-dejeuner et a la piscine.",
+        "fr": "Demandez un bungalow du côté du club enfants, cela raccourcit nettement le trajet en poussette jusqu'au petit-déjeuner et à la piscine.",
         "it": "Chiedete un bungalow sul lato dei giardini vicino al miniclub: riduce parecchio il tragitto con il passeggino verso la colazione e la piscina.",
         "de": "Bitten Sie um einen Bungalow auf der Kinderclub-Seite der Gärten, das verkürzt den Weg mit dem Kinderwagen zum Frühstück und zum Pool erheblich.",
         "es": "Pedid un bungaló en el lado de los jardines cercano al club infantil: acorta mucho el trayecto con el carrito hasta el desayuno y la piscina.",
@@ -201,7 +201,7 @@
           },
           "value": {
             "en": "Five-star all-inclusive",
-            "fr": "Cinq etoiles tout compris",
+            "fr": "Cinq étoiles tout compris",
             "it": "Cinque stelle all inclusive",
             "de": "Fünf-Sterne-All-inclusive",
             "es": "Cinco estrellas todo incluido",
@@ -239,7 +239,7 @@
           },
           "value": {
             "en": "Own bay, gently shelving",
-            "fr": "Baie privee, pente douce",
+            "fr": "Baie privée, pente douce",
             "it": "Baia privata, fondale digradante",
             "de": "Eigene Bucht, sanft abfallend",
             "es": "Bahía propia, de suave pendiente",
@@ -279,7 +279,7 @@
           },
           "detail": {
             "en": "The sheltered water off the beach is clear and calm, good for a first look at fish with a parent close by.",
-            "fr": "L'eau abritee au large de la plage est claire et calme, ideale pour une premiere observation des poissons, un parent tout pres.",
+            "fr": "L'eau abritée au large de la plage est claire et calme, idéale pour une première observation des poissons, un parent tout près.",
             "it": "L'acqua riparata davanti alla spiaggia è limpida e calma, perfetta per una prima occhiata ai pesci con un genitore accanto.",
             "de": "Das geschützte Wasser vor dem Strand ist klar und ruhig, ideal für einen ersten Blick auf die Fische mit einem Elternteil in der Nähe.",
             "es": "El agua resguardada frente a la playa es clara y tranquila, perfecta para un primer vistazo a los peces con un adulto al lado.",
@@ -310,7 +310,7 @@
           },
           "detail": {
             "en": "Supervised games, crafts and mini shows run through the day so parents get a proper break.",
-            "fr": "Jeux encadres, bricolages et mini spectacles tout au long de la journee, pour que les parents soufflent vraiment.",
+            "fr": "Jeux encadrés, bricolages et mini spectacles tout au long de la journée, pour que les parents soufflent vraiment.",
             "it": "Giochi con animatori, laboratori e mini spettacoli per tutta la giornata, così i genitori si prendono una vera pausa.",
             "de": "Betreute Spiele, Bastelaktionen und Minishows über den Tag verteilt, damit Eltern eine echte Pause bekommen.",
             "es": "Juegos supervisados, manualidades y miniespectáculos durante todo el día, para que los padres tengan un descanso de verdad.",
@@ -341,7 +341,7 @@
           },
           "detail": {
             "en": "Drop the children at the club and book the spa circuit while they are happily occupied.",
-            "fr": "Deposez les enfants au club et reservez le parcours spa pendant qu'ils sont bien occupes.",
+            "fr": "Déposez les enfants au club et réservez le parcours spa pendant qu'ils sont bien occupés.",
             "it": "Lasciate i bambini al club e prenotate il percorso spa mentre sono felicemente impegnati.",
             "de": "Bringen Sie die Kinder in den Club und buchen Sie den Spa-Rundgang, während sie glücklich beschäftigt sind.",
             "es": "Dejad a los niños en el club y reservad el circuito de spa mientras están felizmente entretenidos.",
@@ -363,7 +363,7 @@
           "time": "8:00",
           "title": {
             "en": "Breakfast by the bay",
-            "fr": "Petit-dejeuner face a la baie",
+            "fr": "Petit-déjeuner face à la baie",
             "it": "Colazione vista baia",
             "de": "Frühstück an der Bucht",
             "es": "Desayuno frente a la bahía",
@@ -371,7 +371,7 @@
           },
           "note": {
             "en": "Sit on the sea side, the morning light on Kamari Bay is lovely.",
-            "fr": "Installez-vous cote mer, la lumiere du matin sur la baie de Kamari est superbe.",
+            "fr": "Installez-vous côté mer, la lumière du matin sur la baie de Kamari est superbe.",
             "it": "Sedetevi sul lato mare: la luce del mattino su Kamari Bay è splendida.",
             "de": "Setzen Sie sich auf die Meeresseite, das Morgenlicht über der Kamari Bay ist wunderschön.",
             "es": "Sentaos en el lado del mar: la luz de la mañana sobre Kamari Bay es preciosa.",
@@ -409,7 +409,7 @@
           },
           "note": {
             "en": "Light bites included, then a shady quiet hour.",
-            "fr": "En-cas legers inclus, puis une heure calme a l'ombre.",
+            "fr": "En-cas légers inclus, puis une heure calme à l'ombre.",
             "it": "Spuntini leggeri inclusi, poi un'ora tranquilla all'ombra.",
             "de": "Kleine Snacks inklusive, danach eine ruhige Stunde im Schatten.",
             "es": "Bocados ligeros incluidos, luego una hora tranquila a la sombra.",
@@ -428,7 +428,7 @@
           },
           "note": {
             "en": "Calm shallow water for a paddle before an early dinner.",
-            "fr": "Eau calme et peu profonde pour barboter avant un diner tot.",
+            "fr": "Eau calme et peu profonde pour barboter avant un dîner tôt.",
             "it": "Acqua calma e bassa per sguazzare prima di una cena presto.",
             "de": "Ruhiges, flaches Wasser zum Plantschen vor einem frühen Abendessen.",
             "es": "Agua tranquila y poco profunda para chapotear antes de una cena temprana.",
@@ -439,7 +439,7 @@
       "ageNotes": {
         "baby": {
           "en": "Cots, bed rails and a calm bay make this easy with a baby, though the grounds are large.",
-          "fr": "Lits bebe, barrieres de lit et une baie calme rendent le sejour facile avec un bebe, meme si le domaine est vaste.",
+          "fr": "Lits bébé, barrières de lit et une baie calme rendent le séjour facile avec un bébé, même si le domaine est vaste.",
           "it": "Lettini, sponde per il letto e una baia calma rendono tutto facile con un neonato, anche se la struttura è ampia.",
           "de": "Kinderbetten, Bettgitter und eine ruhige Bucht machen es mit einem Baby leicht, auch wenn das Gelände weitläufig ist.",
           "es": "Cunas, barandillas de cama y una bahía tranquila lo hacen fácil con un bebé, aunque el recinto es grande.",
@@ -447,7 +447,7 @@
         },
         "toddler": {
           "en": "Shallow pool sections and the gently shelving beach are ideal for wobbly first swimmers.",
-          "fr": "Les zones de piscine peu profondes et la plage en pente douce sont ideales pour les premieres baignades hesitantes.",
+          "fr": "Les zones de piscine peu profondes et la plage en pente douce sont idéales pour les premières baignades hésitantes.",
           "it": "Le zone poco profonde della piscina e la spiaggia dal fondale digradante sono ideali per i primi incerti nuotatori.",
           "de": "Die flachen Poolbereiche und der sanft abfallende Strand sind ideal für wackelige erste Schwimmversuche.",
           "es": "Las zonas poco profundas de la piscina y la playa de suave pendiente son ideales para los primeros nadadores inseguros.",
@@ -455,7 +455,7 @@
         },
         "kid": {
           "en": "The free kids club and constant activities keep this age busy from morning to night.",
-          "fr": "Le club enfants gratuit et les activites permanentes occupent cet age du matin au soir.",
+          "fr": "Le club enfants gratuit et les activités permanentes occupent cet âge du matin au soir.",
           "it": "Il miniclub gratuito e le attività continue tengono impegnata questa fascia d'età da mattina a sera.",
           "de": "Der kostenlose Kinderclub und die ständigen Aktivitäten halten diese Altersgruppe von morgens bis abends auf Trab.",
           "es": "El club infantil gratuito y las actividades constantes mantienen ocupada a esta edad de la mañana a la noche.",
@@ -463,7 +463,7 @@
         },
         "teen": {
           "en": "A dedicated teens space, watersports and good food give older kids their own rhythm.",
-          "fr": "Un espace ados dedie, des sports nautiques et une bonne cuisine donnent aux plus grands leur propre rythme.",
+          "fr": "Un espace ados dédié, des sports nautiques et une bonne cuisine donnent aux plus grands leur propre rythme.",
           "it": "Uno spazio dedicato ai teenager, gli sport acquatici e la buona cucina danno ai ragazzi più grandi il proprio ritmo.",
           "de": "Ein eigener Teenager-Bereich, Wassersport und gutes Essen geben größeren Kindern ihren eigenen Rhythmus.",
           "es": "Un espacio dedicado a los adolescentes, los deportes acuáticos y la buena comida dan a los mayores su propio ritmo.",
@@ -474,7 +474,7 @@
         {
           "q": {
             "en": "Is it really all-inclusive, even the good restaurants?",
-            "fr": "Est-ce vraiment tout compris, meme les bons restaurants?",
+            "fr": "Est-ce vraiment tout compris, même les bons restaurants?",
             "it": "È davvero tutto incluso, anche i ristoranti buoni?",
             "de": "Ist es wirklich all-inclusive, sogar die guten Restaurants?",
             "es": "¿Es de verdad todo incluido, incluso los buenos restaurantes?",
@@ -482,7 +482,7 @@
           },
           "a": {
             "en": "Yes, the a la carte restaurants, minibar and most drinks are included in the rate, which is what sets the Ikos model apart.",
-            "fr": "Oui, les restaurants a la carte, le minibar et la plupart des boissons sont compris dans le tarif, et c'est ce qui distingue le modele Ikos.",
+            "fr": "Oui, les restaurants à la carte, le minibar et la plupart des boissons sont compris dans le tarif, et c'est ce qui distingue le modèle Ikos.",
             "it": "Sì, i ristoranti à la carte, il minibar e la maggior parte delle bevande sono compresi nella tariffa, ed è ciò che distingue il modello Ikos.",
             "de": "Ja, die À-la-carte-Restaurants, die Minibar und die meisten Getränke sind im Preis enthalten, und genau das macht das Ikos-Modell besonders.",
             "es": "Sí, los restaurantes a la carta, el minibar y la mayoría de las bebidas están incluidos en la tarifa, y eso es lo que distingue al modelo Ikos.",
@@ -492,7 +492,7 @@
         {
           "q": {
             "en": "How far is it from the airport?",
-            "fr": "A quelle distance se trouve l'aeroport?",
+            "fr": "À quelle distance se trouve l'aéroport?",
             "it": "Quanto dista dall'aeroporto?",
             "de": "Wie weit ist es vom Flughafen entfernt?",
             "es": "¿A qué distancia está del aeropuerto?",
@@ -500,7 +500,7 @@
           },
           "a": {
             "en": "Kamari Bay near Kefalos is about a 40 minute drive from Kos airport, at the quieter southwest end of the island.",
-            "fr": "La baie de Kamari pres de Kefalos est a environ 40 minutes de route de l'aeroport de Kos, a l'extremite sud-ouest plus tranquille de l'ile.",
+            "fr": "La baie de Kamari près de Kefalos est à environ 40 minutes de route de l'aéroport de Kos, à l'extrémité sud-ouest plus tranquille de l'île.",
             "it": "Kamari Bay, vicino a Kefalos, è a circa 40 minuti d'auto dall'aeroporto di Kos, all'estremità sud-occidentale più tranquilla dell'isola.",
             "de": "Die Kamari Bay bei Kefalos liegt etwa 40 Autominuten vom Flughafen Kos entfernt, am ruhigeren Südwestende der Insel.",
             "es": "Kamari Bay, cerca de Kefalos, está a unos 40 minutos en coche del aeropuerto de Kos, en el extremo suroeste más tranquilo de la isla.",
@@ -510,7 +510,7 @@
         {
           "q": {
             "en": "Are family suites worth the extra?",
-            "fr": "Les suites familiales valent-elles le supplement?",
+            "fr": "Les suites familiales valent-elles le supplément?",
             "it": "Vale la pena spendere di più per le suite familiari?",
             "de": "Lohnen sich die Familiensuiten für den Aufpreis?",
             "es": "¿Merecen la pena las suites familiares por el extra?",
@@ -577,7 +577,7 @@
       },
       "roomsSummary": {
         "en": "Rooms, bungalows and family suites terraced down a hillside to the sea at Psalidi, many with sea views and some with a private or shared pool. Family suites and connecting bungalows give two-child families real separation, and cots plus baby kit are easy to arrange. The multi-level layout is beautiful but worth flagging if you have a pram.",
-        "fr": "Chambres, bungalows et suites familiales en terrasses sur une colline qui descend vers la mer a Psalidi, souvent avec vue mer et parfois piscine privee ou partagee. Les suites familiales et les bungalows communicants offrent une vraie separation aux familles avec deux enfants, et lits bebe et equipement bebe s'organisent facilement. Le relief en terrasses est magnifique, mais a signaler si vous avez une poussette.",
+        "fr": "Chambres, bungalows et suites familiales en terrasses sur une colline qui descend vers la mer à Psalidi, souvent avec vue mer et parfois piscine privée ou partagée. Les suites familiales et les bungalows communicants offrent une vraie séparation aux familles avec deux enfants, et lits bébé et équipement bébé s'organisent facilement. Le relief en terrasses est magnifique, mais à signaler si vous avez une poussette.",
         "it": "Camere, bungalow e suite familiari disposti a terrazze lungo una collina che scende verso il mare a Psalidi, molti con vista mare e alcuni con piscina privata o condivisa. Le suite familiari e i bungalow comunicanti offrono una vera separazione alle famiglie con due bambini, e lettini e kit per neonati si organizzano facilmente. La disposizione su più livelli è bellissima, ma vale la pena tenerne conto se avete il passeggino.",
         "de": "Zimmer, Bungalows und Familiensuiten, die sich in Psalidi terrassenförmig einen Hang zum Meer hinunterziehen, viele mit Meerblick und einige mit privatem oder geteiltem Pool. Familiensuiten und verbundene Bungalows bieten Familien mit zwei Kindern echte Trennung, und Kinderbetten sowie Babyausstattung lassen sich leicht organisieren. Die Anlage auf mehreren Ebenen ist wunderschön, aber mit Kinderwagen erwähnenswert.",
         "es": "Habitaciones, bungalós y suites familiares dispuestos en terrazas por una ladera que baja hacia el mar en Psalidi, muchos con vistas al mar y algunos con piscina privada o compartida. Las suites familiares y los bungalós comunicados dan una separación real a las familias con dos hijos, y las cunas y el kit de bebé se organizan con facilidad. La distribución en varios niveles es preciosa, pero conviene tenerla en cuenta si lleváis carrito.",
@@ -585,7 +585,7 @@
       },
       "intro": {
         "en": "A Grecotel property with a wow-factor set of terraced lagoon pools spilling down to the sea, this is the polished choice near Kos Town. It is genuinely family-friendly with a free kids club and shallow pool zones, yet grown-up enough for a spa and good dining. Psalidi is a short cycle or drive from Kos Town, so you get resort calm with the old town and its castle within easy reach.",
-        "fr": "Adresse Grecotel avec un ensemble spectaculaire de piscines lagon en terrasses qui devalent vers la mer, c'est le choix raffine pres de Kos-ville. Il est vraiment adapte aux familles avec un club enfants gratuit et des zones de piscine peu profondes, tout en restant assez adulte pour un spa et une bonne table. Psalidi est a courte distance a velo ou en voiture de Kos-ville, vous avez donc le calme du resort avec la vieille ville et son chateau a portee de main.",
+        "fr": "Adresse Grecotel avec un ensemble spectaculaire de piscines lagon en terrasses qui dévalent vers la mer, c'est le choix raffiné près de Kos-ville. Il est vraiment adapté aux familles avec un club enfants gratuit et des zones de piscine peu profondes, tout en restant assez adulte pour un spa et une bonne table. Psalidi est à courte distance à vélo ou en voiture de Kos-ville, vous avez donc le calme du resort avec la vieille ville et son château à portée de main.",
         "it": "Una struttura Grecotel con uno spettacolare insieme di piscine a laguna a terrazze che digradano verso il mare: è la scelta raffinata vicino a Kos Town. È davvero adatta alle famiglie, con un miniclub gratuito e zone di piscina poco profonde, ma anche abbastanza da adulti per una spa e una buona cucina. Psalidi è a breve distanza in bici o in auto da Kos Town, così avete la calma del resort con il centro storico e il suo castello a portata di mano.",
         "de": "Ein Grecotel-Haus mit einer beeindruckenden Reihe terrassierter Lagunenpools, die zum Meer hinabfließen, ist dies die elegante Wahl bei Kos Town. Es ist wirklich familienfreundlich mit einem kostenlosen Kinderclub und flachen Poolzonen, aber zugleich erwachsen genug für ein Spa und gutes Essen. Psalidi ist mit dem Rad oder dem Auto schnell von Kos Town aus zu erreichen, so haben Sie die Ruhe des Resorts mit der Altstadt und ihrer Burg in Reichweite.",
         "es": "Un establecimiento Grecotel con un espectacular conjunto de piscinas tipo laguna en terrazas que descienden hacia el mar: es la opción refinada cerca de Kos Town. Es de verdad familiar, con un club infantil gratuito y zonas de piscina poco profundas, pero también lo bastante adulto para un spa y buena cocina. Psalidi está a poca distancia en bici o en coche de Kos Town, así que tenéis la calma del resort con el casco antiguo y su castillo a mano.",
@@ -602,7 +602,7 @@
           "Piscines lagon en terrasses qui descendent vers la mer",
           "Club enfants gratuit et pataugeoires peu profondes",
           "Suites familiales et bungalows communicants",
-          "Courte distance a velo ou en voiture de Kos-ville"
+          "Courte distance à vélo ou en voiture de Kos-ville"
         ],
         "it": [
           "Piscine a laguna a terrazze che scendono verso il mare",
@@ -637,8 +637,8 @@
           "Close to Kos Town without the noise"
         ],
         "fr": [
-          "Paysage de piscines spectaculaire qui plait aux enfants",
-          "Service et cuisine Grecotel raffines",
+          "Paysage de piscines spectaculaire qui plaît aux enfants",
+          "Service et cuisine Grecotel raffinés",
           "Vue mer depuis de nombreuses chambres",
           "Proche de Kos-ville sans le bruit"
         ],
@@ -701,7 +701,7 @@
       },
       "verdict": {
         "en": "The stylish pick near Kos Town for families who want polish and pools without going fully all-inclusive. Ask for a lower-terrace room to save your legs.",
-        "fr": "Le choix elegant pres de Kos-ville pour les familles qui veulent du raffinement et des piscines sans partir en tout compris integral. Demandez une chambre en terrasse basse pour epargner vos jambes.",
+        "fr": "Le choix élégant près de Kos-ville pour les familles qui veulent du raffinement et des piscines sans partir en tout compris intégral. Demandez une chambre en terrasse basse pour épargner vos jambes.",
         "it": "La scelta elegante vicino a Kos Town per le famiglie che vogliono raffinatezza e piscine senza passare al tutto incluso completo. Chiedete una camera nelle terrazze basse per risparmiare le gambe.",
         "de": "Die stilvolle Wahl bei Kos Town für Familien, die Eleganz und Pools wollen, ohne ganz auf All-inclusive zu setzen. Bitten Sie um ein Zimmer auf einer der unteren Terrassen, das schont die Beine.",
         "es": "La opción con estilo cerca de Kos Town para familias que quieren refinamiento y piscinas sin llegar al todo incluido completo. Pedid una habitación en las terrazas bajas para ahorraros las piernas.",
@@ -766,7 +766,7 @@
           },
           "value": {
             "en": "Short cycle or drive",
-            "fr": "Courte distance a velo ou en voiture",
+            "fr": "Courte distance à vélo ou en voiture",
             "it": "Breve tragitto in bici o in auto",
             "de": "Kurze Fahrt mit Rad oder Auto",
             "es": "Corto trayecto en bici o en coche",
@@ -785,7 +785,7 @@
           },
           "value": {
             "en": "Own sea frontage",
-            "fr": "Front de mer prive",
+            "fr": "Front de mer privé",
             "it": "Fronte mare privato",
             "de": "Eigener Meereszugang",
             "es": "Frente al mar propio",
@@ -798,7 +798,7 @@
           "emoji": "🛝",
           "name": {
             "en": "Lagoon pool morning",
-            "fr": "Matinee piscines lagon",
+            "fr": "Matinée piscines lagon",
             "it": "Mattinata alle piscine a laguna",
             "de": "Vormittag an den Lagunenpools",
             "es": "Mañana en las piscinas tipo laguna",
@@ -806,7 +806,7 @@
           },
           "detail": {
             "en": "The cascading pools have shallow ledges and shady corners, an all-morning playground for younger kids.",
-            "fr": "Les piscines en cascade ont des rebords peu profonds et des coins ombrages, un terrain de jeu pour toute la matinee des plus jeunes.",
+            "fr": "Les piscines en cascade ont des rebords peu profonds et des coins ombragés, un terrain de jeu pour toute la matinée des plus jeunes.",
             "it": "Le piscine a cascata hanno bordi poco profondi e angoli ombreggiati, un parco giochi per tutta la mattina per i più piccoli.",
             "de": "Die kaskadenförmigen Pools haben flache Absätze und schattige Ecken, ein Spielplatz für den ganzen Vormittag für jüngere Kinder.",
             "es": "Las piscinas en cascada tienen bordes poco profundos y rincones con sombra, un parque de juegos para toda la mañana para los más pequeños.",
@@ -829,7 +829,7 @@
           "emoji": "🚲",
           "name": {
             "en": "Cycle into Kos Town",
-            "fr": "Velo jusqu'a Kos-ville",
+            "fr": "Vélo jusqu'à Kos-ville",
             "it": "In bici fino a Kos Town",
             "de": "Mit dem Rad nach Kos Town",
             "es": "En bici hasta Kos Town",
@@ -837,7 +837,7 @@
           },
           "detail": {
             "en": "The flat coastal path leads to the old town, harbour and the castle, an easy ride for confident kids.",
-            "fr": "Le chemin cotier plat mene a la vieille ville, au port et au chateau, une balade facile pour les enfants a l'aise.",
+            "fr": "Le chemin côtier plat mène à la vieille ville, au port et au château, une balade facile pour les enfants à l'aise.",
             "it": "Il sentiero costiero pianeggiante porta al centro storico, al porto e al castello, un giro facile per i bambini sicuri in bici.",
             "de": "Der flache Küstenweg führt zur Altstadt, zum Hafen und zur Burg, eine leichte Fahrt für sichere Kinder.",
             "es": "El camino costero llano lleva al casco antiguo, al puerto y al castillo, un paseo fácil para niños que van seguros en bici.",
@@ -860,7 +860,7 @@
           "emoji": "🏰",
           "name": {
             "en": "Castle and harbour walk",
-            "fr": "Balade au chateau et au port",
+            "fr": "Balade au château et au port",
             "it": "Passeggiata al castello e al porto",
             "de": "Spaziergang zu Burg und Hafen",
             "es": "Paseo por el castillo y el puerto",
@@ -868,7 +868,7 @@
           },
           "detail": {
             "en": "The Neratzia castle and the palm-lined harbour make a gentle history stop after the beach.",
-            "fr": "Le chateau de Neratzia et le port borde de palmiers offrent une escale histoire tranquille apres la plage.",
+            "fr": "Le château de Neratzia et le port bordé de palmiers offrent une escale histoire tranquille après la plage.",
             "it": "Il castello di Neratzia e il porto orlato di palme sono una tranquilla tappa di storia dopo la spiaggia.",
             "de": "Die Burg Neratzia und der von Palmen gesäumte Hafen bieten nach dem Strand einen entspannten Geschichtsstopp.",
             "es": "El castillo de Neratzia y el puerto bordeado de palmeras son una tranquila parada de historia después de la playa.",
@@ -893,7 +893,7 @@
           "time": "8:30",
           "title": {
             "en": "Breakfast with a sea view",
-            "fr": "Petit-dejeuner avec vue mer",
+            "fr": "Petit-déjeuner avec vue mer",
             "it": "Colazione con vista mare",
             "de": "Frühstück mit Meerblick",
             "es": "Desayuno con vistas al mar",
@@ -950,7 +950,7 @@
           "time": "18:30",
           "title": {
             "en": "Cycle to the old town",
-            "fr": "Velo vers la vieille ville",
+            "fr": "Vélo vers la vieille ville",
             "it": "In bici verso il centro storico",
             "de": "Mit dem Rad in die Altstadt",
             "es": "En bici hasta el casco antiguo",
@@ -969,7 +969,7 @@
       "ageNotes": {
         "baby": {
           "en": "Cots and baby kit are easy, but the terraced site means some slopes with a pram.",
-          "fr": "Lits bebe et equipement bebe s'organisent facilement, mais le site en terrasses implique quelques pentes avec la poussette.",
+          "fr": "Lits bébé et équipement bébé s'organisent facilement, mais le site en terrasses implique quelques pentes avec la poussette.",
           "it": "Lettini e kit per neonati sono facili da avere, ma il sito a terrazze comporta qualche pendenza con il passeggino.",
           "de": "Kinderbetten und Babyausstattung sind kein Problem, aber die terrassierte Anlage bedeutet einige Steigungen mit dem Kinderwagen.",
           "es": "Cunas y kit de bebé son fáciles de conseguir, pero el emplazamiento en terrazas implica algunas pendientes con el carrito.",
@@ -977,7 +977,7 @@
         },
         "toddler": {
           "en": "The shallow lower pools are ideal, just keep a hand close on the terrace steps.",
-          "fr": "Les piscines basses peu profondes sont ideales, gardez juste une main a proximite sur les marches des terrasses.",
+          "fr": "Les piscines basses peu profondes sont idéales, gardez juste une main à proximité sur les marches des terrasses.",
           "it": "Le piscine basse poco profonde sono ideali, tenete solo una mano vicina sui gradini delle terrazze.",
           "de": "Die flachen unteren Pools sind ideal, halten Sie nur an den Terrassenstufen eine Hand bereit.",
           "es": "Las piscinas bajas poco profundas son ideales, solo mantened una mano cerca en los escalones de las terrazas.",
@@ -985,7 +985,7 @@
         },
         "kid": {
           "en": "The pool network and free kids club keep this age thoroughly happy.",
-          "fr": "Le reseau de piscines et le club enfants gratuit rendent cet age parfaitement heureux.",
+          "fr": "Le réseau de piscines et le club enfants gratuit rendent cet âge parfaitement heureux.",
           "it": "La rete di piscine e il miniclub gratuito rendono questa fascia d'età pienamente felice.",
           "de": "Das Poolnetz und der kostenlose Kinderclub machen diese Altersgruppe rundum glücklich.",
           "es": "La red de piscinas y el club infantil gratuito mantienen a esta edad completamente feliz.",
@@ -993,7 +993,7 @@
         },
         "teen": {
           "en": "Watersports, the spa and easy cycling into town suit older kids well.",
-          "fr": "Les sports nautiques, le spa et le velo facile vers la ville conviennent bien aux plus grands.",
+          "fr": "Les sports nautiques, le spa et le vélo facile vers la ville conviennent bien aux plus grands.",
           "it": "Gli sport acquatici, la spa e le facili pedalate in città si adattano bene ai ragazzi più grandi.",
           "de": "Wassersport, das Spa und entspannte Radtouren in die Stadt passen gut zu größeren Kindern.",
           "es": "Los deportes acuáticos, el spa y los fáciles paseos en bici a la ciudad van bien a los mayores.",
@@ -1030,7 +1030,7 @@
           },
           "a": {
             "en": "Psalidi is about a 10 minute drive or a flat, easy cycle along the coast into the old town.",
-            "fr": "Psalidi est a environ 10 minutes en voiture ou une balade a velo facile et plate le long de la cote jusqu'a la vieille ville.",
+            "fr": "Psalidi est à environ 10 minutes en voiture ou une balade à vélo facile et plate le long de la côte jusqu'à la vieille ville.",
             "it": "Psalidi è a circa 10 minuti d'auto o una facile pedalata pianeggiante lungo la costa fino al centro storico.",
             "de": "Psalidi ist etwa 10 Autominuten oder eine flache, entspannte Radtour entlang der Küste in die Altstadt entfernt.",
             "es": "Psalidi está a unos 10 minutos en coche o un fácil paseo llano en bici por la costa hasta el casco antiguo.",
@@ -1048,7 +1048,7 @@
           },
           "a": {
             "en": "It is a mix of sand and shingle, so bring water shoes, though the pools carry most of the swimming.",
-            "fr": "C'est un melange de sable et de galets, prevoyez donc des chaussures d'eau, meme si les piscines assurent l'essentiel des baignades.",
+            "fr": "C'est un mélange de sable et de galets, prévoyez donc des chaussures d'eau, même si les piscines assurent l'essentiel des baignades.",
             "it": "È un misto di sabbia e ghiaia, quindi portate scarpette da acqua, anche se le piscine coprono la maggior parte dei bagni.",
             "de": "Es ist eine Mischung aus Sand und Kies, bringen Sie also Badeschuhe mit, auch wenn das Schwimmen hauptsächlich in den Pools stattfindet.",
             "es": "Es una mezcla de arena y guijarros, así que llevad escarpines, aunque las piscinas se encargan de la mayor parte de los baños.",
@@ -1107,7 +1107,7 @@
       },
       "roomsSummary": {
         "en": "Bright rooms, bungalows and family suites in low garden buildings running down to a long sandy beach at Mastichari. Family suites have a separate kids room, and connecting rooms are widely available, so families of four or five are well served. Cots, high chairs and a baby-care corner in the restaurant make the early years easy here.",
-        "fr": "Chambres lumineuses, bungalows et suites familiales dans des batiments bas de jardin qui descendent vers une longue plage de sable a Mastichari. Les suites familiales disposent d'une chambre enfants separee, et les chambres communicantes sont nombreuses, les familles de quatre ou cinq sont donc bien loties. Lits bebe, chaises hautes et un coin soin bebe au restaurant simplifient les premieres annees ici.",
+        "fr": "Chambres lumineuses, bungalows et suites familiales dans des bâtiments bas de jardin qui descendent vers une longue plage de sable à Mastichari. Les suites familiales disposent d'une chambre enfants séparée, et les chambres communicantes sont nombreuses, les familles de quatre ou cinq sont donc bien loties. Lits bébé, chaises hautes et un coin soin bébé au restaurant simplifient les premières années ici.",
         "it": "Camere luminose, bungalow e suite familiari in edifici bassi immersi nel giardino che scendono verso una lunga spiaggia sabbiosa a Mastichari. Le suite familiari hanno una camera separata per i bambini, e le camere comunicanti sono ampiamente disponibili, così le famiglie di quattro o cinque persone sono ben servite. Lettini, seggioloni e un angolo per la cura del neonato nel ristorante rendono facili i primi anni.",
         "de": "Helle Zimmer, Bungalows und Familiensuiten in niedrigen Gartengebäuden, die zu einem langen Sandstrand in Mastichari hinunterführen. Familiensuiten haben ein separates Kinderzimmer, und Verbindungszimmer sind reichlich vorhanden, sodass Familien mit vier oder fünf Personen gut versorgt sind. Kinderbetten, Hochstühle und eine Babypflegeecke im Restaurant machen die frühen Jahre hier leicht.",
         "es": "Habitaciones luminosas, bungalós y suites familiares en edificios bajos entre jardines que bajan hacia una larga playa de arena en Mastichari. Las suites familiares tienen una habitación aparte para los niños, y hay muchas habitaciones comunicadas, así que las familias de cuatro o cinco están bien atendidas. Cunas, tronas y un rincón de cuidado del bebé en el restaurante hacen fáciles los primeros años.",
@@ -1115,7 +1115,7 @@
       },
       "intro": {
         "en": "A long-standing family favourite on the north coast, Neptune combines a proper sandy beach with a genuinely well-run kids programme and calm, green grounds. Mastichari is a low-key fishing village, so evenings are gentle, and the shallow Aegean here is good for paddling, with the caveat that afternoon breezes can pick up. It is the reliable, slightly grown-up all-inclusive that keeps families coming back.",
-        "fr": "Grand favori des familles sur la cote nord depuis longtemps, le Neptune associe une vraie plage de sable a un programme enfants vraiment bien mene et des jardins verts et calmes. Mastichari est un village de pecheurs tranquille, les soirees sont donc douces, et la mer Egee peu profonde ici se prete au barbotage, avec la reserve que la brise peut se lever l'apres-midi. C'est le tout compris fiable et un peu adulte qui fait revenir les familles.",
+        "fr": "Grand favori des familles sur la côte nord depuis longtemps, le Neptune associe une vraie plage de sable à un programme enfants vraiment bien mené et des jardins verts et calmes. Mastichari est un village de pêcheurs tranquille, les soirées sont donc douces, et la mer Égée peu profonde ici se prête au barbotage, avec la réserve que la brise peut se lever l'après-midi. C'est le tout compris fiable et un peu adulte qui fait revenir les familles.",
         "it": "Da tempo tra i preferiti delle famiglie sulla costa nord, il Neptune unisce una vera spiaggia di sabbia a un programma per bambini davvero ben organizzato e a un'ampia struttura calma e verde. Mastichari è un tranquillo villaggio di pescatori, quindi le serate sono placide, e l'Egeo poco profondo qui è ottimo per sguazzare, con l'avvertenza che nel pomeriggio la brezza può rinforzare. È l'all inclusive affidabile e un po' da adulti che fa tornare le famiglie.",
         "de": "Ein langjähriger Familienliebling an der Nordküste: Das Neptune verbindet einen richtigen Sandstrand mit einem wirklich gut geführten Kinderprogramm und einer ruhigen, grünen Anlage. Mastichari ist ein beschauliches Fischerdorf, die Abende sind also entspannt, und die flache Ägäis eignet sich hier gut zum Plantschen, mit dem Hinweis, dass die Nachmittagsbrise auffrischen kann. Es ist das verlässliche, etwas erwachsenere All-inclusive, zu dem Familien immer wieder zurückkehren.",
         "es": "Un favorito de las familias desde hace tiempo en la costa norte, el Neptune combina una playa de arena de verdad con un programa infantil realmente bien llevado y un recinto tranquilo y verde. Mastichari es un discreto pueblo pesquero, así que las tardes son apacibles, y el Egeo poco profundo aquí es bueno para chapotear, con la salvedad de que la brisa de la tarde puede levantarse. Es el todo incluido fiable y algo adulto que hace que las familias vuelvan.",
@@ -1130,9 +1130,9 @@
         ],
         "fr": [
           "Longue plage de sable juste devant",
-          "Club enfants et mini club gratuits bien menes",
-          "Suites familiales avec chambre enfants separee",
-          "Cadre tranquille de village de pecheurs"
+          "Club enfants et mini club gratuits bien menés",
+          "Suites familiales avec chambre enfants séparée",
+          "Cadre tranquille de village de pêcheurs"
         ],
         "it": [
           "Lunga spiaggia di sabbia proprio davanti",
@@ -1167,8 +1167,8 @@
           "Good all-inclusive food for the price"
         ],
         "fr": [
-          "Acces direct a une plage de sable doux",
-          "Programme enfants solide et organise",
+          "Accès direct à une plage de sable doux",
+          "Programme enfants solide et organisé",
           "Jardins verts et calmes qui rassurent",
           "Bonne cuisine tout compris pour le prix"
         ],
@@ -1204,9 +1204,9 @@
           "Spread out, some walking to the far rooms"
         ],
         "fr": [
-          "La brise de l'apres-midi peut agiter la plage",
+          "La brise de l'après-midi peut agiter la plage",
           "Mastichari est calme, peu d'animation nocturne pour les ados",
-          "Domaine etendu, un peu de marche vers les chambres eloignees"
+          "Domaine étendu, un peu de marche vers les chambres éloignées"
         ],
         "it": [
           "La brezza egea del pomeriggio può smuovere la spiaggia",
@@ -1231,7 +1231,7 @@
       },
       "verdict": {
         "en": "A dependable, beach-front all-inclusive that quietly gets the family basics right. Best for babies to pre-teens who want sand and a kids club.",
-        "fr": "Un tout compris fiable en bord de plage qui maitrise discretement l'essentiel pour les familles. Ideal des bebes aux preados qui veulent du sable et un club enfants.",
+        "fr": "Un tout compris fiable en bord de plage qui maîtrise discrètement l'essentiel pour les familles. Idéal des bébés aux préados qui veulent du sable et un club enfants.",
         "it": "Un all inclusive affidabile fronte spiaggia che, senza clamore, azzecca l'essenziale per le famiglie. Ideale dai neonati ai preadolescenti che vogliono sabbia e un miniclub.",
         "de": "Ein verlässliches All-inclusive direkt am Strand, das die Familiengrundlagen ganz unaufgeregt richtig macht. Am besten für Babys bis Vorteenager, die Sand und einen Kinderclub wollen.",
         "es": "Un todo incluido fiable frente a la playa que, sin alardes, acierta con lo esencial para las familias. Ideal de bebés a preadolescentes que quieren arena y un club infantil.",
@@ -1239,7 +1239,7 @@
       },
       "parentTip": {
         "en": "The beach is calmest in the morning, so do sand before lunch and pool after, when the breeze tends to pick up.",
-        "fr": "La plage est plus calme le matin, faites donc sable avant le dejeuner et piscine apres, quand la brise a tendance a se lever.",
+        "fr": "La plage est plus calme le matin, faites donc sable avant le déjeuner et piscine après, quand la brise a tendance à se lever.",
         "it": "La spiaggia è più calma al mattino, quindi fate sabbia prima di pranzo e piscina dopo, quando la brezza tende a rinforzare.",
         "de": "Der Strand ist morgens am ruhigsten, machen Sie also Sand vor dem Mittagessen und Pool danach, wenn die Brise meist auffrischt.",
         "es": "La playa está más tranquila por la mañana, así que haced arena antes de comer y piscina después, cuando la brisa suele levantarse.",
@@ -1328,7 +1328,7 @@
           "emoji": "🏖️",
           "name": {
             "en": "Sandcastle beach morning",
-            "fr": "Matinee chateaux de sable",
+            "fr": "Matinée châteaux de sable",
             "it": "Mattinata di castelli di sabbia in spiaggia",
             "de": "Sandburgen-Vormittag am Strand",
             "es": "Mañana de castillos de arena en la playa",
@@ -1336,7 +1336,7 @@
           },
           "detail": {
             "en": "The soft wide beach is made for buckets and spades before the breeze wakes up.",
-            "fr": "La plage large et douce est faite pour seau et pelle avant que la brise ne se leve.",
+            "fr": "La plage large et douce est faite pour seau et pelle avant que la brise ne se lève.",
             "it": "L'ampia spiaggia soffice è fatta per secchiello e paletta prima che si alzi la brezza.",
             "de": "Der weiche, breite Strand ist wie gemacht für Eimer und Schaufel, bevor die Brise erwacht.",
             "es": "La ancha playa suave está hecha para cubo y pala antes de que se despierte la brisa.",
@@ -1367,7 +1367,7 @@
           },
           "detail": {
             "en": "Boats from Mastichari harbour run day trips toward the smaller islands, a fun outing with older kids.",
-            "fr": "Des bateaux au depart du port de Mastichari proposent des excursions vers les petites iles, une belle sortie avec les grands.",
+            "fr": "Des bateaux au départ du port de Mastichari proposent des excursions vers les petites îles, une belle sortie avec les grands.",
             "it": "Le barche dal porto di Mastichari organizzano gite in giornata verso le isole più piccole, un'uscita divertente con i ragazzi più grandi.",
             "de": "Boote vom Hafen Mastichari bieten Tagesausflüge zu den kleineren Inseln, ein schöner Ausflug mit größeren Kindern.",
             "es": "Los barcos del puerto de Mastichari hacen excursiones de un día hacia las islas más pequeñas, una salida divertida con los mayores.",
@@ -1398,7 +1398,7 @@
           },
           "detail": {
             "en": "Daytime crafts and games plus a family-friendly evening show and mini disco.",
-            "fr": "Bricolages et jeux en journee, puis un spectacle en soiree pour toute la famille et une mini disco.",
+            "fr": "Bricolages et jeux en journée, puis un spectacle en soirée pour toute la famille et une mini disco.",
             "it": "Laboratori e giochi di giorno, più uno spettacolo serale per famiglie e una mini disco.",
             "de": "Tagsüber Basteln und Spiele, dazu eine familienfreundliche Abendshow und eine Minidisco.",
             "es": "Manualidades y juegos de día, más un espectáculo nocturno para familias y una minidisco.",
@@ -1431,7 +1431,7 @@
           },
           "note": {
             "en": "Baby-care corner and plenty of kid options.",
-            "fr": "Coin soin bebe et beaucoup d'options pour enfants.",
+            "fr": "Coin soin bébé et beaucoup d'options pour enfants.",
             "it": "Angolo per la cura del neonato e tante opzioni per bambini.",
             "de": "Babypflegeecke und viele Optionen für Kinder.",
             "es": "Rincón de cuidado del bebé y muchas opciones para niños.",
@@ -1469,7 +1469,7 @@
           },
           "note": {
             "en": "Sheltered pools when the wind comes up.",
-            "fr": "Piscines abritees quand le vent se leve.",
+            "fr": "Piscines abritées quand le vent se lève.",
             "it": "Piscine riparate quando si alza il vento.",
             "de": "Geschützte Pools, wenn der Wind auffrischt.",
             "es": "Piscinas resguardadas cuando se levanta el viento.",
@@ -1499,7 +1499,7 @@
       "ageNotes": {
         "baby": {
           "en": "Cots, high chairs and a baby-care corner make babies straightforward here.",
-          "fr": "Lits bebe, chaises hautes et un coin soin bebe rendent le sejour simple avec un bebe.",
+          "fr": "Lits bébé, chaises hautes et un coin soin bébé rendent le séjour simple avec un bébé.",
           "it": "Lettini, seggioloni e un angolo per la cura del neonato rendono tutto semplice con i bebè.",
           "de": "Kinderbetten, Hochstühle und eine Babypflegeecke machen es mit Babys hier unkompliziert.",
           "es": "Cunas, tronas y un rincón de cuidado del bebé hacen que aquí todo sea sencillo con bebés.",
@@ -1507,7 +1507,7 @@
         },
         "toddler": {
           "en": "The shallow beach and mini club are ideal, just watch the afternoon breeze.",
-          "fr": "La plage peu profonde et le mini club sont ideaux, surveillez juste la brise de l'apres-midi.",
+          "fr": "La plage peu profonde et le mini club sont idéaux, surveillez juste la brise de l'après-midi.",
           "it": "La spiaggia poco profonda e il miniclub sono ideali, fate solo attenzione alla brezza del pomeriggio.",
           "de": "Der flache Strand und der Miniclub sind ideal, achten Sie nur auf die Nachmittagsbrise.",
           "es": "La playa poco profunda y el miniclub son ideales, solo vigilad la brisa de la tarde.",
@@ -1515,7 +1515,7 @@
         },
         "kid": {
           "en": "The kids club, beach and pools keep this age happily busy all week.",
-          "fr": "Le club enfants, la plage et les piscines occupent cet age toute la semaine.",
+          "fr": "Le club enfants, la plage et les piscines occupent cet âge toute la semaine.",
           "it": "Il miniclub, la spiaggia e le piscine tengono felicemente impegnata questa fascia d'età per tutta la settimana.",
           "de": "Der Kinderclub, der Strand und die Pools halten diese Altersgruppe die ganze Woche glücklich beschäftigt.",
           "es": "El club infantil, la playa y las piscinas mantienen a esta edad felizmente ocupada toda la semana.",
@@ -1542,7 +1542,7 @@
           },
           "a": {
             "en": "Yes, it is soft sand and shallow, best in the calmer mornings before the typical Aegean afternoon breeze.",
-            "fr": "Oui, c'est du sable doux et peu profond, ideale le matin plus calme avant la brise typique de l'apres-midi en mer Egee.",
+            "fr": "Oui, c'est du sable doux et peu profond, idéale le matin plus calme avant la brise typique de l'après-midi en mer Égée.",
             "it": "Sì, è sabbia soffice e acqua bassa, meglio nelle mattine più calme prima della tipica brezza egea del pomeriggio.",
             "de": "Ja, es ist weicher Sand und flach, am besten in den ruhigeren Morgenstunden vor der typischen nachmittäglichen Ägäisbrise.",
             "es": "Sí, es arena suave y poco profunda, mejor en las mañanas más tranquilas antes de la típica brisa egea de la tarde.",
@@ -1570,7 +1570,7 @@
         {
           "q": {
             "en": "Is there much to do in Mastichari?",
-            "fr": "Y a-t-il beaucoup a faire a Mastichari?",
+            "fr": "Y a-t-il beaucoup à faire à Mastichari?",
             "it": "C'è molto da fare a Mastichari?",
             "de": "Gibt es in Mastichari viel zu tun?",
             "es": "¿Hay mucho que hacer en Mastichari?",
@@ -1578,7 +1578,7 @@
           },
           "a": {
             "en": "It is a quiet fishing village with tavernas and a harbour, lovely and gentle rather than lively, ideal for younger families.",
-            "fr": "C'est un village de pecheurs tranquille avec des tavernes et un port, charmant et paisible plutot qu'anime, ideal pour les familles avec de jeunes enfants.",
+            "fr": "C'est un village de pêcheurs tranquille avec des tavernes et un port, charmant et paisible plutôt qu'animé, idéal pour les familles avec de jeunes enfants.",
             "it": "È un tranquillo villaggio di pescatori con taverne e un porto, grazioso e placido più che vivace, ideale per le famiglie con bambini piccoli.",
             "de": "Es ist ein ruhiges Fischerdorf mit Tavernen und einem Hafen, hübsch und beschaulich statt lebhaft, ideal für junge Familien.",
             "es": "Es un tranquilo pueblo pesquero con tabernas y un puerto, bonito y apacible más que animado, ideal para familias con niños pequeños.",
@@ -1638,7 +1638,7 @@
       },
       "roomsSummary": {
         "en": "Comfortable rooms and family rooms in blocks set among gardens above a long sandy Marmari beach. Family rooms sleep up to four and connecting rooms are available for larger groups, though these are practical rather than plush. Cots and high chairs are standard, and ground-floor rooms cut the stairs with a pram.",
-        "fr": "Chambres confortables et chambres familiales dans des batiments places au milieu de jardins au-dessus de la longue plage de sable de Marmari. Les chambres familiales accueillent jusqu'a quatre personnes et des chambres communicantes existent pour les groupes plus grands, meme si elles sont pratiques plutot que luxueuses. Lits bebe et chaises hautes sont fournis, et les chambres au rez-de-chaussee evitent les escaliers avec la poussette.",
+        "fr": "Chambres confortables et chambres familiales dans des bâtiments placés au milieu de jardins au-dessus de la longue plage de sable de Marmari. Les chambres familiales accueillent jusqu'à quatre personnes et des chambres communicantes existent pour les groupes plus grands, même si elles sont pratiques plutôt que luxueuses. Lits bébé et chaises hautes sont fournis, et les chambres au rez-de-chaussée évitent les escaliers avec la poussette.",
         "it": "Camere confortevoli e camere familiari in edifici immersi nei giardini sopra la lunga spiaggia sabbiosa di Marmari. Le camere familiari ospitano fino a quattro persone e sono disponibili camere comunicanti per i gruppi più numerosi, anche se sono pratiche più che lussuose. Lettini e seggioloni sono di serie, e le camere al piano terra evitano le scale con il passeggino.",
         "de": "Komfortable Zimmer und Familienzimmer in Gebäuden zwischen Gärten oberhalb des langen Sandstrands von Marmari. Familienzimmer bieten Platz für bis zu vier Personen, und für größere Gruppen gibt es Verbindungszimmer, die aber eher praktisch als luxuriös sind. Kinderbetten und Hochstühle gehören zum Standard, und Erdgeschosszimmer ersparen die Treppen mit dem Kinderwagen.",
         "es": "Habitaciones cómodas y habitaciones familiares en bloques entre jardines sobre la larga playa de arena de Marmari. Las habitaciones familiares alojan hasta cuatro personas y hay habitaciones comunicadas para grupos mayores, aunque son prácticas más que lujosas. Cunas y tronas son de serie, y las habitaciones en planta baja evitan las escaleras con el carrito.",
@@ -1646,7 +1646,7 @@
       },
       "intro": {
         "en": "An easy all-inclusive above one of Kos's best family beaches, Marmari Palace pairs a small water-slide zone and kids club with a wide, gently shelving stretch of sand. It is straightforward rather than fancy, but that is the appeal: the children have slides, a pool and a proper beach, and you have an all-in bill. Marmari is flat and open, so afternoons can be breezy, which windsurfers love and toddlers less so.",
-        "fr": "Un tout compris facile au-dessus de l'une des meilleures plages familiales de Kos, le Marmari Palace associe une petite zone de toboggans et un club enfants a une large etendue de sable en pente douce. C'est simple plutot que luxueux, mais c'est justement l'attrait: les enfants ont des toboggans, une piscine et une vraie plage, et vous avez une facture tout compris. Marmari est plat et ouvert, les apres-midi peuvent donc etre venteux, ce que les planchistes adorent et les tout-petits moins.",
+        "fr": "Un tout compris facile au-dessus de l'une des meilleures plages familiales de Kos, le Marmari Palace associe une petite zone de toboggans et un club enfants à une large étendue de sable en pente douce. C'est simple plutôt que luxueux, mais c'est justement l'attrait: les enfants ont des toboggans, une piscine et une vraie plage, et vous avez une facture tout compris. Marmari est plat et ouvert, les après-midi peuvent donc être venteux, ce que les planchistes adorent et les tout-petits moins.",
         "it": "Un all inclusive senza pensieri sopra una delle migliori spiagge per famiglie di Kos, il Marmari Palace abbina una piccola zona di scivoli d'acqua e un miniclub a un'ampia distesa di sabbia dal fondale digradante. È semplice più che ricercato, ma è proprio questo il bello: i bambini hanno scivoli, una piscina e una vera spiaggia, e voi avete un conto tutto incluso. Marmari è piatta e aperta, quindi i pomeriggi possono essere ventosi, cosa che i windsurfisti adorano e i più piccoli un po' meno.",
         "de": "Ein unkompliziertes All-inclusive oberhalb eines der besten Familienstrände von Kos: Das Marmari Palace kombiniert einen kleinen Wasserrutschenbereich und einen Kinderclub mit einem breiten, sanft abfallenden Sandstreifen. Es ist schlicht statt schick, aber genau das ist der Reiz: Die Kinder haben Rutschen, einen Pool und einen richtigen Strand, und Sie haben eine Alles-inklusive-Rechnung. Marmari ist flach und offen, die Nachmittage können also windig sein, was Windsurfer lieben und Kleinkinder weniger.",
         "es": "Un todo incluido sin complicaciones sobre una de las mejores playas familiares de Kos, el Marmari Palace combina una pequeña zona de toboganes de agua y un club infantil con una amplia franja de arena de suave pendiente. Es sencillo más que sofisticado, pero ahí está el atractivo: los niños tienen toboganes, una piscina y una playa de verdad, y vosotros tenéis una factura con todo incluido. Marmari es llana y abierta, así que las tardes pueden ser ventosas, cosa que a los windsurfistas les encanta y a los más pequeños menos.",
@@ -1698,9 +1698,9 @@
           "Flat, easy site for little legs"
         ],
         "fr": [
-          "L'une des meilleures plages familiales de sable de l'ile",
+          "L'une des meilleures plages familiales de sable de l'île",
           "Toboggans et piscines avec un bon club enfants",
-          "Le tout compris rend les couts previsibles",
+          "Le tout compris rend les coûts prévisibles",
           "Site plat et facile pour les petites jambes"
         ],
         "it": [
@@ -1735,9 +1735,9 @@
           "Feels large and busy in peak season"
         ],
         "fr": [
-          "Plage ouverte qui devient venteuse l'apres-midi",
-          "Chambres fonctionnelles plutot que stylees",
-          "Sensation de grand et anime en haute saison"
+          "Plage ouverte qui devient venteuse l'après-midi",
+          "Chambres fonctionnelles plutôt que stylées",
+          "Sensation de grand et animé en haute saison"
         ],
         "it": [
           "La spiaggia aperta diventa ventosa nel pomeriggio",
@@ -1762,7 +1762,7 @@
       },
       "verdict": {
         "en": "A sensible sand-and-slides all-inclusive on a top family beach. Not luxurious, but easy and good value with young children.",
-        "fr": "Un tout compris raisonnable sable et toboggans sur une plage familiale de premier plan. Pas luxueux, mais facile et d'un bon rapport qualite-prix avec de jeunes enfants.",
+        "fr": "Un tout compris raisonnable sable et toboggans sur une plage familiale de premier plan. Pas luxueux, mais facile et d'un bon rapport qualité-prix avec de jeunes enfants.",
         "it": "Un all inclusive ragionevole tra sabbia e scivoli su una spiaggia per famiglie di prim'ordine. Non lussuoso, ma comodo e conveniente con bambini piccoli.",
         "de": "Ein vernünftiges All-inclusive aus Sand und Rutschen an einem Top-Familienstrand. Nicht luxuriös, aber unkompliziert und preiswert mit kleinen Kindern.",
         "es": "Un todo incluido sensato de arena y toboganes en una playa familiar de primera. No es lujoso, pero es cómodo y de buena relación calidad-precio con niños pequeños.",
@@ -1770,7 +1770,7 @@
       },
       "parentTip": {
         "en": "Request a ground-floor garden room near the kids pool, it saves the stairs and keeps the slides in sight.",
-        "fr": "Demandez une chambre de jardin au rez-de-chaussee pres de la piscine enfants, cela evite les escaliers et garde les toboggans en vue.",
+        "fr": "Demandez une chambre de jardin au rez-de-chaussée près de la piscine enfants, cela évite les escaliers et garde les toboggans en vue.",
         "it": "Chiedete una camera al piano terra con giardino vicino alla piscina per bambini: evita le scale e tiene gli scivoli sott'occhio.",
         "de": "Bitten Sie um ein Gartenzimmer im Erdgeschoss in der Nähe des Kinderpools, das erspart die Treppen und behält die Rutschen im Blick.",
         "es": "Pedid una habitación en planta baja con jardín cerca de la piscina infantil: evita las escaleras y mantiene los toboganes a la vista.",
@@ -1867,7 +1867,7 @@
           },
           "detail": {
             "en": "A small set of slides and a splash pool keep energetic kids busy without a big water park drive.",
-            "fr": "Un petit ensemble de toboggans et une pataugeoire occupent les enfants energiques sans devoir rouler jusqu'a un grand parc aquatique.",
+            "fr": "Un petit ensemble de toboggans et une pataugeoire occupent les enfants énergiques sans devoir rouler jusqu'à un grand parc aquatique.",
             "it": "Un piccolo gruppo di scivoli e una vasca gioco tengono impegnati i bambini pieni di energia senza dover guidare fino a un grande parco acquatico.",
             "de": "Ein kleines Rutschenset und ein Planschbecken halten energiegeladene Kinder beschäftigt, ohne die weite Fahrt zu einem großen Wasserpark.",
             "es": "Un pequeño conjunto de toboganes y una piscina de chapoteo mantienen ocupados a los niños con energía sin tener que conducir hasta un gran parque acuático.",
@@ -1897,7 +1897,7 @@
           },
           "detail": {
             "en": "Marmari is a windsurf spot, so afternoons are a show of sails, fun to watch and to try for teens.",
-            "fr": "Marmari est un spot de planche a voile, les apres-midi offrent donc un ballet de voiles, amusant a regarder et a essayer pour les ados.",
+            "fr": "Marmari est un spot de planche à voile, les après-midi offrent donc un ballet de voiles, amusant à regarder et à essayer pour les ados.",
             "it": "Marmari è uno spot per il windsurf, quindi i pomeriggi sono uno spettacolo di vele, divertente da guardare e da provare per i teenager.",
             "de": "Marmari ist ein Windsurf-Spot, die Nachmittage sind also ein Schauspiel aus Segeln, schön anzusehen und für Teenager zum Ausprobieren.",
             "es": "Marmari es un spot de windsurf, así que las tardes son un espectáculo de velas, divertido de ver y de probar para los adolescentes.",
@@ -1919,7 +1919,7 @@
           "emoji": "🦩",
           "name": {
             "en": "Tigaki salt lake nearby",
-            "fr": "Lac sale de Tigaki tout pres",
+            "fr": "Lac salé de Tigaki tout près",
             "it": "Lago salato di Tigaki nelle vicinanze",
             "de": "Salzsee von Tigaki in der Nähe",
             "es": "Lago salado de Tigaki cerca",
@@ -1927,7 +1927,7 @@
           },
           "detail": {
             "en": "The neighbouring salt lake draws flamingos in spring, an easy short drive for a nature stop.",
-            "fr": "Le lac sale voisin attire les flamants roses au printemps, une courte sortie en voiture pour une pause nature.",
+            "fr": "Le lac salé voisin attire les flamants roses au printemps, une courte sortie en voiture pour une pause nature.",
             "it": "Il vicino lago salato attira i fenicotteri in primavera, una breve gita in auto per una pausa nella natura.",
             "de": "Der benachbarte Salzsee zieht im Frühling Flamingos an, eine kurze, einfache Fahrt für einen Naturstopp.",
             "es": "El lago salado vecino atrae flamencos en primavera, un corto trayecto en coche para una parada en la naturaleza.",
@@ -1980,7 +1980,7 @@
           },
           "note": {
             "en": "Burn off energy before the beach.",
-            "fr": "Depensez de l'energie avant la plage.",
+            "fr": "Dépensez de l'énergie avant la plage.",
             "it": "Scaricate l'energia prima della spiaggia.",
             "de": "Energie loswerden vor dem Strand.",
             "es": "Quemad energía antes de la playa.",
@@ -1991,7 +1991,7 @@
           "time": "12:30",
           "title": {
             "en": "Beach and lunch",
-            "fr": "Plage et dejeuner",
+            "fr": "Plage et déjeuner",
             "it": "Spiaggia e pranzo",
             "de": "Strand und Mittagessen",
             "es": "Playa y almuerzo",
@@ -2010,7 +2010,7 @@
           "time": "17:00",
           "title": {
             "en": "Salt lake drive",
-            "fr": "Sortie au lac sale",
+            "fr": "Sortie au lac salé",
             "it": "Gita al lago salato",
             "de": "Fahrt zum Salzsee",
             "es": "Excursión al lago salado",
@@ -2018,7 +2018,7 @@
           },
           "note": {
             "en": "Spot flamingos at Tigaki in spring.",
-            "fr": "Reperez les flamants a Tigaki au printemps.",
+            "fr": "Repérez les flamants à Tigaki au printemps.",
             "it": "Avvistate i fenicotteri a Tigaki in primavera.",
             "de": "Beobachten Sie im Frühling Flamingos in Tigaki.",
             "es": "Avistad flamencos en Tigaki en primavera.",
@@ -2029,7 +2029,7 @@
       "ageNotes": {
         "baby": {
           "en": "Cots and high chairs are standard, and a flat site helps with the pram.",
-          "fr": "Lits bebe et chaises hautes sont fournis, et le site plat facilite la poussette.",
+          "fr": "Lits bébé et chaises hautes sont fournis, et le site plat facilite la poussette.",
           "it": "Lettini e seggioloni sono di serie, e la struttura piatta aiuta con il passeggino.",
           "de": "Kinderbetten und Hochstühle sind Standard, und das flache Gelände hilft mit dem Kinderwagen.",
           "es": "Cunas y tronas son de serie, y el recinto llano ayuda con el carrito.",
@@ -2037,7 +2037,7 @@
         },
         "toddler": {
           "en": "The shallow beach and splash pool suit toddlers, though the afternoon wind can bother little ones.",
-          "fr": "La plage peu profonde et la pataugeoire conviennent aux tout-petits, meme si le vent de l'apres-midi peut gener les petits.",
+          "fr": "La plage peu profonde et la pataugeoire conviennent aux tout-petits, même si le vent de l'après-midi peut gêner les petits.",
           "it": "La spiaggia poco profonda e la vasca gioco sono adatte ai più piccoli, anche se il vento del pomeriggio può dare fastidio ai piccolissimi.",
           "de": "Der flache Strand und das Planschbecken passen zu Kleinkindern, auch wenn der Nachmittagswind die Kleinsten stören kann.",
           "es": "La playa poco profunda y la piscina de chapoteo van bien a los más pequeños, aunque el viento de la tarde puede molestar a los peques.",
@@ -2045,7 +2045,7 @@
         },
         "kid": {
           "en": "Slides, kids club and a big beach make this a strong age group here.",
-          "fr": "Toboggans, club enfants et grande plage font de cet age un groupe bien servi ici.",
+          "fr": "Toboggans, club enfants et grande plage font de cet âge un groupe bien servi ici.",
           "it": "Scivoli, miniclub e una grande spiaggia rendono questa fascia d'età molto ben servita qui.",
           "de": "Rutschen, Kinderclub und ein großer Strand machen diese Altersgruppe hier zu einer starken.",
           "es": "Toboganes, club infantil y una gran playa hacen que esta edad esté muy bien atendida aquí.",
@@ -2053,7 +2053,7 @@
         },
         "teen": {
           "en": "Windsurfing and watersports on the doorstep give teens a real draw.",
-          "fr": "La planche a voile et les sports nautiques a la porte donnent un vrai attrait aux ados.",
+          "fr": "La planche à voile et les sports nautiques à la porte donnent un vrai attrait aux ados.",
           "it": "Il windsurf e gli sport acquatici a due passi sono una vera attrattiva per i teenager.",
           "de": "Windsurfen und Wassersport direkt vor der Tür sind ein echter Anreiz für Teenager.",
           "es": "El windsurf y los deportes acuáticos a un paso son un verdadero atractivo para los adolescentes.",
@@ -2064,7 +2064,7 @@
         {
           "q": {
             "en": "Is it windy at Marmari?",
-            "fr": "Y a-t-il du vent a Marmari?",
+            "fr": "Y a-t-il du vent à Marmari?",
             "it": "C'è vento a Marmari?",
             "de": "Ist es in Marmari windig?",
             "es": "¿Hace viento en Marmari?",
@@ -2072,7 +2072,7 @@
           },
           "a": {
             "en": "Afternoons can be breezy, which is why it is a windsurf spot. Do the beach in the morning and switch to the pools later.",
-            "fr": "Les apres-midi peuvent etre venteux, c'est pourquoi c'est un spot de planche. Faites la plage le matin et passez aux piscines ensuite.",
+            "fr": "Les après-midi peuvent être venteux, c'est pourquoi c'est un spot de planche. Faites la plage le matin et passez aux piscines ensuite.",
             "it": "I pomeriggi possono essere ventosi, ed è per questo che è uno spot per il windsurf. Fate la spiaggia al mattino e passate alle piscine più tardi.",
             "de": "Die Nachmittage können windig sein, deshalb ist es ein Windsurf-Spot. Machen Sie den Strand am Morgen und wechseln Sie später zu den Pools.",
             "es": "Las tardes pueden ser ventosas, por eso es un spot de windsurf. Haced la playa por la mañana y pasad a las piscinas más tarde.",
@@ -2090,7 +2090,7 @@
           },
           "a": {
             "en": "The slide zone is small and best for younger kids, older ones may want a day trip to the Lido water park near Mastichari.",
-            "fr": "La zone de toboggans est petite et surtout adaptee aux plus jeunes, les grands voudront peut-etre une journee au parc aquatique Lido pres de Mastichari.",
+            "fr": "La zone de toboggans est petite et surtout adaptée aux plus jeunes, les grands voudront peut-être une journée au parc aquatique Lido près de Mastichari.",
             "it": "La zona degli scivoli è piccola e più adatta ai bambini piccoli; i più grandi potrebbero volere una gita in giornata al parco acquatico Lido vicino a Mastichari.",
             "de": "Der Rutschenbereich ist klein und eher für jüngere Kinder, ältere möchten vielleicht einen Tagesausflug zum Wasserpark Lido bei Mastichari.",
             "es": "La zona de toboganes es pequeña y más apta para niños pequeños; los mayores quizá quieran una excursión de un día al parque acuático Lido cerca de Mastichari.",
@@ -2100,7 +2100,7 @@
         {
           "q": {
             "en": "Is the salt lake worth visiting?",
-            "fr": "Le lac sale vaut-il la visite?",
+            "fr": "Le lac salé vaut-il la visite?",
             "it": "Vale la pena visitare il lago salato?",
             "de": "Lohnt sich ein Besuch am Salzsee?",
             "es": "¿Merece la pena visitar el lago salado?",
@@ -2108,7 +2108,7 @@
           },
           "a": {
             "en": "In spring the Tigaki salt lake nearby often has flamingos, an easy and free nature stop with kids.",
-            "fr": "Au printemps, le lac sale de Tigaki tout pres accueille souvent des flamants roses, une pause nature facile et gratuite avec les enfants.",
+            "fr": "Au printemps, le lac salé de Tigaki tout près accueille souvent des flamants roses, une pause nature facile et gratuite avec les enfants.",
             "it": "In primavera il vicino lago salato di Tigaki ospita spesso i fenicotteri, una pausa nella natura facile e gratuita con i bambini.",
             "de": "Im Frühling gibt es am nahen Salzsee von Tigaki oft Flamingos, ein einfacher und kostenloser Naturstopp mit Kindern.",
             "es": "En primavera el lago salado de Tigaki cercano suele tener flamencos, una parada en la naturaleza fácil y gratuita con niños.",
@@ -2165,7 +2165,7 @@
       },
       "roomsSummary": {
         "en": "Modern rooms and family rooms set around large pools on a low hill above Kardamena, many with a pool or countryside view. Family rooms sleep four and interconnecting rooms suit bigger families, with a bright, updated feel throughout. It is a short drive down to the beach, so this is a pool-first base rather than a beachfront one.",
-        "fr": "Chambres modernes et chambres familiales disposees autour de grandes piscines sur une colline basse au-dessus de Kardamena, souvent avec vue piscine ou campagne. Les chambres familiales accueillent quatre personnes et les chambres communicantes conviennent aux grandes familles, avec une ambiance claire et renovee partout. La plage est a courte distance en voiture, c'est donc une base axee piscine plutot qu'en bord de mer.",
+        "fr": "Chambres modernes et chambres familiales disposées autour de grandes piscines sur une colline basse au-dessus de Kardamena, souvent avec vue piscine ou campagne. Les chambres familiales accueillent quatre personnes et les chambres communicantes conviennent aux grandes familles, avec une ambiance claire et rénovée partout. La plage est à courte distance en voiture, c'est donc une base axée piscine plutôt qu'en bord de mer.",
         "it": "Camere moderne e camere familiari disposte attorno ad ampie piscine su una bassa collina sopra Kardamena, molte con vista piscina o campagna. Le camere familiari ospitano quattro persone e le camere comunicanti sono adatte alle famiglie più numerose, con un'atmosfera luminosa e rinnovata ovunque. La spiaggia è a breve distanza in auto, quindi è una base pensata prima di tutto per la piscina più che per il fronte mare.",
         "de": "Moderne Zimmer und Familienzimmer rund um große Pools auf einem niedrigen Hügel oberhalb von Kardamena, viele mit Pool- oder Landschaftsblick. Familienzimmer bieten Platz für vier Personen und Verbindungszimmer eignen sich für größere Familien, überall mit heller, modernisierter Atmosphäre. Der Strand ist eine kurze Autofahrt entfernt, dies ist also eher eine Pool- als eine Strandbasis.",
         "es": "Habitaciones modernas y habitaciones familiares dispuestas alrededor de grandes piscinas en una colina baja sobre Kardamena, muchas con vistas a la piscina o al campo. Las habitaciones familiares alojan a cuatro personas y las comunicadas van bien a las familias más numerosas, con un ambiente luminoso y renovado en todas partes. La playa está a un corto trayecto en coche, así que es una base pensada ante todo para la piscina más que para el paseo marítimo.",
@@ -2173,7 +2173,7 @@
       },
       "intro": {
         "en": "This is the water-park pick on Kos, a bright all-inclusive with a proper set of slides and splash zones that older kids adore. It sits just above Kardamena, so the beach is a quick hop down and the resort itself is the main event, with pools, slides and a lively kids club. It is best for families with school-age children rather than babies, who get more out of the slides than the sea.",
-        "fr": "C'est le choix parc aquatique de Kos, un tout compris lumineux avec un vrai ensemble de toboggans et de zones de jeux d'eau que les grands adorent. Il se situe juste au-dessus de Kardamena, la plage est donc a un saut en contrebas et le resort lui-meme est l'attraction principale, avec piscines, toboggans et un club enfants anime. Il convient surtout aux familles avec des enfants d'age scolaire plutot qu'aux bebes, qui profitent plus des toboggans que de la mer.",
+        "fr": "C'est le choix parc aquatique de Kos, un tout compris lumineux avec un vrai ensemble de toboggans et de zones de jeux d'eau que les grands adorent. Il se situe juste au-dessus de Kardamena, la plage est donc à un saut en contrebas et le resort lui-même est l'attraction principale, avec piscines, toboggans et un club enfants animé. Il convient surtout aux familles avec des enfants d'âge scolaire plutôt qu'aux bébés, qui profitent plus des toboggans que de la mer.",
         "it": "È la scelta parco acquatico di Kos, un all inclusive luminoso con un vero insieme di scivoli e zone gioco d'acqua che i bambini più grandi adorano. Si trova appena sopra Kardamena, quindi la spiaggia è a un salto in basso e il resort stesso è l'attrazione principale, con piscine, scivoli e un vivace miniclub. È ideale per le famiglie con bambini in età scolare più che con neonati, perché sfruttano più gli scivoli che il mare.",
         "de": "Das ist die Wasserpark-Wahl auf Kos, ein helles All-inclusive mit einem richtigen Set aus Rutschen und Planschzonen, das größere Kinder lieben. Es liegt direkt oberhalb von Kardamena, der Strand ist also schnell erreicht, und das Resort selbst ist die Hauptattraktion, mit Pools, Rutschen und einem lebhaften Kinderclub. Am besten für Familien mit Kindern im Schulalter statt mit Babys, die mehr von den Rutschen als vom Meer haben.",
         "es": "Es la opción de parque acuático en Kos, un todo incluido luminoso con un buen conjunto de toboganes y zonas de chapoteo que los niños mayores adoran. Se asienta justo sobre Kardamena, así que la playa está a un salto abajo y el propio resort es el gran protagonista, con piscinas, toboganes y un animado club infantil. Es ideal para familias con niños en edad escolar más que con bebés, que aprovechan más los toboganes que el mar.",
@@ -2188,8 +2188,8 @@
         ],
         "fr": [
           "Vrai parc aquatique avec plusieurs toboggans",
-          "Chambres tout compris claires et renovees",
-          "Club enfants gratuit anime et animations",
+          "Chambres tout compris claires et rénovées",
+          "Club enfants gratuit animé et animations",
           "Chambres communicantes pour les grandes familles"
         ],
         "it": [
@@ -2225,10 +2225,10 @@
           "Strong value for a slide-heavy resort"
         ],
         "fr": [
-          "Toboggans et piscines qui ravissent les enfants d'age scolaire",
+          "Toboggans et piscines qui ravissent les enfants d'âge scolaire",
           "Chambres et espaces communs frais et modernes",
           "Bonnes animations et programme enfants",
-          "Bon rapport qualite-prix pour un resort riche en toboggans"
+          "Bon rapport qualité-prix pour un resort riche en toboggans"
         ],
         "it": [
           "Scivoli e piscine che entusiasmano i bambini in età scolare",
@@ -2263,8 +2263,8 @@
         ],
         "fr": [
           "Pas en bord de plage, une courte navette ou voiture en contrebas",
-          "Moins adapte aux bebes qu'aux grands enfants",
-          "Peut etre anime et bruyant autour des toboggans"
+          "Moins adapté aux bébés qu'aux grands enfants",
+          "Peut être animé et bruyant autour des toboggans"
         ],
         "it": [
           "Non sulla spiaggia, una breve navetta o auto in basso",
@@ -2289,7 +2289,7 @@
       },
       "verdict": {
         "en": "The go-to for slide-mad school-age kids on Kos. Pick it for the water park, not for a beachfront babymoon.",
-        "fr": "La reference pour les enfants d'age scolaire fous de toboggans a Kos. Choisissez-le pour le parc aquatique, pas pour un sejour bebe en bord de mer.",
+        "fr": "La référence pour les enfants d'âge scolaire fous de toboggans à Kos. Choisissez-le pour le parc aquatique, pas pour un séjour bébé en bord de mer.",
         "it": "Il riferimento a Kos per i bambini in età scolare pazzi per gli scivoli. Sceglietelo per il parco acquatico, non per un soggiorno tranquillo fronte mare.",
         "de": "Die erste Wahl auf Kos für rutschenverrückte Kinder im Schulalter. Wählen Sie es für den Wasserpark, nicht für einen ruhigen Aufenthalt direkt am Strand.",
         "es": "La referencia en Kos para niños en edad escolar locos por los toboganes. Elegidlo por el parque acuático, no por una escapada tranquila frente al mar.",
@@ -2297,7 +2297,7 @@
       },
       "parentTip": {
         "en": "Head to the slides right when they open, queues build fast once the day warms up.",
-        "fr": "Filez aux toboggans des l'ouverture, les files s'allongent vite quand la journee se rechauffe.",
+        "fr": "Filez aux toboggans dès l'ouverture, les files s'allongent vite quand la journée se réchauffe.",
         "it": "Andate agli scivoli appena aprono, le code si formano in fretta quando la giornata si scalda.",
         "de": "Gehen Sie gleich zur Öffnung zu den Rutschen, die Warteschlangen werden schnell länger, sobald der Tag wärmer wird.",
         "es": "Id a los toboganes justo cuando abren, las colas crecen rápido en cuanto avanza el día.",
@@ -2335,7 +2335,7 @@
           },
           "value": {
             "en": "Free, lively programme",
-            "fr": "Gratuit, programme anime",
+            "fr": "Gratuit, programme animé",
             "it": "Programma gratuito e vivace",
             "de": "Kostenloses, lebhaftes Programm",
             "es": "Programa gratuito y animado",
@@ -2394,7 +2394,7 @@
           },
           "detail": {
             "en": "Several slides, a splash area and lazy pools mean a full day without leaving the resort.",
-            "fr": "Plusieurs toboggans, une aire de jeux d'eau et des piscines tranquilles, de quoi remplir la journee sans quitter le resort.",
+            "fr": "Plusieurs toboggans, une aire de jeux d'eau et des piscines tranquilles, de quoi remplir la journée sans quitter le resort.",
             "it": "Diversi scivoli, un'area gioco d'acqua e piscine tranquille permettono una giornata intera senza lasciare il resort.",
             "de": "Mehrere Rutschen, ein Planschbereich und ruhige Pools bedeuten einen ganzen Tag, ohne das Resort zu verlassen.",
             "es": "Varios toboganes, una zona de chapoteo y piscinas tranquilas permiten un día entero sin salir del resort.",
@@ -2425,7 +2425,7 @@
           },
           "detail": {
             "en": "Sports, crafts and team games run by an energetic animation team.",
-            "fr": "Sports, bricolages et jeux d'equipe menes par une equipe d'animation dynamique.",
+            "fr": "Sports, bricolages et jeux d'équipe menés par une équipe d'animation dynamique.",
             "it": "Sport, laboratori e giochi di squadra guidati da un'energica équipe di animazione.",
             "de": "Sport, Basteln und Mannschaftsspiele, geleitet von einem energiegeladenen Animationsteam.",
             "es": "Deportes, manualidades y juegos de equipo dirigidos por un enérgico equipo de animación.",
@@ -2455,7 +2455,7 @@
           },
           "detail": {
             "en": "A short hop down to the resort town's long beach for a change of scene.",
-            "fr": "Un court trajet en contrebas jusqu'a la longue plage de la station pour changer de decor.",
+            "fr": "Un court trajet en contrebas jusqu'à la longue plage de la station pour changer de décor.",
             "it": "Un breve salto in basso fino alla lunga spiaggia della località per cambiare aria.",
             "de": "Ein kurzer Sprung hinunter zum langen Strand des Ferienorts für einen Tapetenwechsel.",
             "es": "Un corto salto abajo hasta la larga playa del pueblo turístico para cambiar de aires.",
@@ -2481,7 +2481,7 @@
           "time": "8:30",
           "title": {
             "en": "Breakfast then slides",
-            "fr": "Petit-dejeuner puis toboggans",
+            "fr": "Petit-déjeuner puis toboggans",
             "it": "Colazione e poi scivoli",
             "de": "Frühstück, dann Rutschen",
             "es": "Desayuno y luego toboganes",
@@ -2489,7 +2489,7 @@
           },
           "note": {
             "en": "Eat early to beat the slide queues.",
-            "fr": "Mangez tot pour eviter les files des toboggans.",
+            "fr": "Mangez tôt pour éviter les files des toboggans.",
             "it": "Mangiate presto per battere le code agli scivoli.",
             "de": "Frühstücken Sie zeitig, um den Rutschen-Warteschlangen zuvorzukommen.",
             "es": "Comed temprano para adelantaros a las colas de los toboganes.",
@@ -2508,7 +2508,7 @@
           },
           "note": {
             "en": "Slides and splash zones all morning.",
-            "fr": "Toboggans et jeux d'eau toute la matinee.",
+            "fr": "Toboggans et jeux d'eau toute la matinée.",
             "it": "Scivoli e zone gioco d'acqua per tutta la mattina.",
             "de": "Rutschen und Planschzonen den ganzen Vormittag.",
             "es": "Toboganes y zonas de chapoteo toda la mañana.",
@@ -2527,7 +2527,7 @@
           },
           "note": {
             "en": "Team games while parents rest.",
-            "fr": "Jeux d'equipe pendant que les parents se reposent.",
+            "fr": "Jeux d'équipe pendant que les parents se reposent.",
             "it": "Giochi di squadra mentre i genitori riposano.",
             "de": "Mannschaftsspiele, während die Eltern sich ausruhen.",
             "es": "Juegos de equipo mientras los padres descansan.",
@@ -2546,7 +2546,7 @@
           },
           "note": {
             "en": "Short trip down to Kardamena for dinner.",
-            "fr": "Court trajet vers Kardamena pour le diner.",
+            "fr": "Court trajet vers Kardamena pour le dîner.",
             "it": "Breve gita in basso a Kardamena per cena.",
             "de": "Kurzer Ausflug hinunter nach Kardamena zum Abendessen.",
             "es": "Corta salida abajo a Kardamena para cenar.",
@@ -2565,7 +2565,7 @@
         },
         "toddler": {
           "en": "Toddlers enjoy the splash zones, though the main slides are for bigger children.",
-          "fr": "Les tout-petits aiment les aires de jeux d'eau, meme si les grands toboggans sont pour les plus grands.",
+          "fr": "Les tout-petits aiment les aires de jeux d'eau, même si les grands toboggans sont pour les plus grands.",
           "it": "I più piccoli si divertono nelle zone gioco d'acqua, anche se gli scivoli principali sono per i bambini più grandi.",
           "de": "Kleinkinder haben Freude an den Planschzonen, auch wenn die großen Rutschen für größere Kinder sind.",
           "es": "Los más pequeños disfrutan de las zonas de chapoteo, aunque los toboganes principales son para niños mayores.",
@@ -2573,7 +2573,7 @@
         },
         "kid": {
           "en": "This is the sweet spot, slides, pools and a busy kids club all day.",
-          "fr": "C'est l'age ideal, toboggans, piscines et un club enfants anime toute la journee.",
+          "fr": "C'est l'âge idéal, toboggans, piscines et un club enfants animé toute la journée.",
           "it": "È l'età perfetta: scivoli, piscine e un miniclub attivo tutto il giorno.",
           "de": "Das ist die ideale Altersgruppe: Rutschen, Pools und ein geschäftiger Kinderclub den ganzen Tag.",
           "es": "Es la edad ideal: toboganes, piscinas y un club infantil movido todo el día.",
@@ -2581,7 +2581,7 @@
         },
         "teen": {
           "en": "The bigger slides and lively evenings keep teens interested.",
-          "fr": "Les grands toboggans et les soirees animees maintiennent l'interet des ados.",
+          "fr": "Les grands toboggans et les soirées animées maintiennent l'intérêt des ados.",
           "it": "Gli scivoli più grandi e le serate animate tengono vivo l'interesse dei teenager.",
           "de": "Die größeren Rutschen und die lebhaften Abende halten Teenager bei der Stange.",
           "es": "Los toboganes más grandes y las noches animadas mantienen el interés de los adolescentes.",
@@ -2600,7 +2600,7 @@
           },
           "a": {
             "en": "No, it sits above Kardamena on a low hill, so the beach is a short drive or shuttle, the pools and slides are the focus.",
-            "fr": "Non, il se situe au-dessus de Kardamena sur une colline basse, la plage est donc a une courte navette ou voiture, les piscines et toboggans sont le coeur du sejour.",
+            "fr": "Non, il se situe au-dessus de Kardamena sur une colline basse, la plage est donc à une courte navette ou voiture, les piscines et toboggans sont le coeur du séjour.",
             "it": "No, si trova sopra Kardamena su una bassa collina, quindi la spiaggia è a una breve navetta o auto; il cuore del soggiorno sono le piscine e gli scivoli.",
             "de": "Nein, es liegt oberhalb von Kardamena auf einem niedrigen Hügel, der Strand ist also eine kurze Fahrt oder ein Shuttle entfernt; im Mittelpunkt stehen Pools und Rutschen.",
             "es": "No, se asienta sobre Kardamena en una colina baja, así que la playa está a un corto trayecto en coche o lanzadera; el foco son las piscinas y los toboganes.",
@@ -2618,7 +2618,7 @@
           },
           "a": {
             "en": "There are splash zones for little ones, but the main slides have height limits and suit school-age kids and up.",
-            "fr": "Il y a des aires de jeux d'eau pour les petits, mais les grands toboggans ont des limites de taille et conviennent aux enfants d'age scolaire et plus.",
+            "fr": "Il y a des aires de jeux d'eau pour les petits, mais les grands toboggans ont des limites de taille et conviennent aux enfants d'âge scolaire et plus.",
             "it": "Ci sono zone gioco d'acqua per i piccolissimi, ma gli scivoli principali hanno limiti di altezza e sono adatti dai bambini in età scolare in su.",
             "de": "Es gibt Planschzonen für die Kleinsten, aber die großen Rutschen haben Größenbeschränkungen und eignen sich ab dem Schulalter.",
             "es": "Hay zonas de chapoteo para los más pequeños, pero los toboganes principales tienen límites de altura y son aptos a partir de la edad escolar.",
@@ -2636,7 +2636,7 @@
           },
           "a": {
             "en": "Yes, meals, snacks and most drinks are included, along with the kids club and daytime entertainment.",
-            "fr": "Oui, repas, en-cas et la plupart des boissons sont compris, tout comme le club enfants et les animations de journee.",
+            "fr": "Oui, repas, en-cas et la plupart des boissons sont compris, tout comme le club enfants et les animations de journée.",
             "it": "Sì, pasti, spuntini e la maggior parte delle bevande sono inclusi, insieme al miniclub e all'animazione diurna.",
             "de": "Ja, Mahlzeiten, Snacks und die meisten Getränke sind inbegriffen, ebenso der Kinderclub und die Tagesunterhaltung.",
             "es": "Sí, las comidas, los tentempiés y la mayoría de las bebidas están incluidos, junto con el club infantil y la animación diurna.",
@@ -2697,7 +2697,7 @@
       },
       "roomsSummary": {
         "en": "Rooms and family rooms in garden blocks with a big pool complex, on the edge of Kos Town toward Lambi. Family rooms take four and connecting rooms are available, comfortable and practical rather than boutique. Being walkable and cyclable to Kos Town is the real selling point, so this is a great city-and-beach base.",
-        "fr": "Chambres et chambres familiales dans des batiments de jardin avec un grand complexe de piscines, en bordure de Kos-ville vers Lambi. Les chambres familiales prennent quatre personnes et des chambres communicantes existent, confortables et pratiques plutot que boutique. Etre accessible a pied et a velo de Kos-ville est le vrai atout, c'est donc une excellente base ville et plage.",
+        "fr": "Chambres et chambres familiales dans des bâtiments de jardin avec un grand complexe de piscines, en bordure de Kos-ville vers Lambi. Les chambres familiales prennent quatre personnes et des chambres communicantes existent, confortables et pratiques plutôt que boutique. Être accessible à pied et à vélo de Kos-ville est le vrai atout, c'est donc une excellente base ville et plage.",
         "it": "Camere e camere familiari in edifici immersi nel giardino con un grande complesso di piscine, ai margini di Kos Town verso Lambi. Le camere familiari ospitano quattro persone e sono disponibili camere comunicanti, confortevoli e pratiche più che di design. Il vero punto di forza è poter raggiungere Kos Town a piedi e in bici, quindi è un'ottima base tra città e spiaggia.",
         "de": "Zimmer und Familienzimmer in Gartengebäuden mit einem großen Poolkomplex, am Rand von Kos Town Richtung Lambi. Familienzimmer bieten Platz für vier Personen, und Verbindungszimmer sind verfügbar, komfortabel und praktisch statt Boutique. Das eigentliche Plus ist, dass Kos Town zu Fuß und mit dem Rad erreichbar ist, daher eine großartige Basis für Stadt und Strand.",
         "es": "Habitaciones y habitaciones familiares en bloques ajardinados con un gran complejo de piscinas, al borde de Kos Town hacia Lambi. Las habitaciones familiares alojan a cuatro personas y hay habitaciones comunicadas, cómodas y prácticas más que de diseño. El verdadero punto fuerte es poder ir a Kos Town a pie y en bici, así que es una gran base de ciudad y playa.",
@@ -2705,7 +2705,7 @@
       },
       "intro": {
         "en": "A big, busy all-inclusive with a strong pool and slide complex, right where the resort strip meets Kos Town. That location is its trump card: you can cycle the flat seafront path into the old town, harbour and castle in minutes, then come back to the slides and kids club. It is not the quietest choice, but for families who want a proper town on the doorstep, it is hard to beat.",
-        "fr": "Un grand tout compris anime avec un solide complexe de piscines et de toboggans, la ou la zone touristique rejoint Kos-ville. Cet emplacement est son atout maitre: vous pouvez rejoindre a velo, par la promenade plate du front de mer, la vieille ville, le port et le chateau en quelques minutes, puis revenir aux toboggans et au club enfants. Ce n'est pas le choix le plus calme, mais pour les familles qui veulent une vraie ville a la porte, difficile de faire mieux.",
+        "fr": "Un grand tout compris animé avec un solide complexe de piscines et de toboggans, là où la zone touristique rejoint Kos-ville. Cet emplacement est son atout maître: vous pouvez rejoindre à vélo, par la promenade plate du front de mer, la vieille ville, le port et le château en quelques minutes, puis revenir aux toboggans et au club enfants. Ce n'est pas le choix le plus calme, mais pour les familles qui veulent une vraie ville à la porte, difficile de faire mieux.",
         "it": "Un grande e movimentato all inclusive con un solido complesso di piscine e scivoli, proprio dove la zona turistica incontra Kos Town. La posizione è il suo asso nella manica: potete pedalare sul lungomare pianeggiante fino al centro storico, al porto e al castello in pochi minuti, e poi tornare agli scivoli e al miniclub. Non è la scelta più tranquilla, ma per le famiglie che vogliono una vera città a due passi è difficile da battere.",
         "de": "Ein großes, belebtes All-inclusive mit einem starken Pool- und Rutschenkomplex, genau dort, wo die Hotelmeile auf Kos Town trifft. Diese Lage ist sein Trumpf: Sie können auf dem flachen Uferweg in wenigen Minuten in die Altstadt, zum Hafen und zur Burg radeln und dann zurück zu den Rutschen und zum Kinderclub. Es ist nicht die ruhigste Wahl, aber für Familien, die eine richtige Stadt vor der Tür wollen, kaum zu schlagen.",
         "es": "Un todo incluido grande y animado con un potente complejo de piscinas y toboganes, justo donde la zona turística se junta con Kos Town. Esa ubicación es su as en la manga: podéis pedalear por el paseo marítimo llano hasta el casco antiguo, el puerto y el castillo en minutos, y luego volver a los toboganes y al club infantil. No es la opción más tranquila, pero para familias que quieren una ciudad de verdad a la puerta es difícil de superar.",
@@ -2720,7 +2720,7 @@
         ],
         "fr": [
           "Grand complexe de piscines et toboggans",
-          "A pied ou a velo jusqu'a Kos-ville",
+          "À pied ou à vélo jusqu'à Kos-ville",
           "Club enfants gratuit et animations",
           "Chambres familiales et options communicantes"
         ],
@@ -2758,9 +2758,9 @@
         ],
         "fr": [
           "Emplacement ville et plage imbattable",
-          "Bons toboggans et piscines pour tous les ages",
+          "Bons toboggans et piscines pour tous les âges",
           "Piste cyclable plate vers la vieille ville",
-          "Tout compris avec un programme anime"
+          "Tout compris avec un programme animé"
         ],
         "it": [
           "Posizione imbattibile tra città e spiaggia",
@@ -2794,9 +2794,9 @@
           "Rooms are dated in the older blocks"
         ],
         "fr": [
-          "Grand et anime, pas une retraite tranquille",
-          "Plage etroite et par endroits caillouteuse",
-          "Chambres datees dans les batiments anciens"
+          "Grand et animé, pas une retraite tranquille",
+          "Plage étroite et par endroits caillouteuse",
+          "Chambres datées dans les bâtiments anciens"
         ],
         "it": [
           "Grande e movimentato, non un rifugio tranquillo",
@@ -2821,7 +2821,7 @@
       },
       "verdict": {
         "en": "The best base if you want Kos Town on your doorstep plus slides for the kids. Trade a little calm for real convenience.",
-        "fr": "La meilleure base si vous voulez Kos-ville a la porte et des toboggans pour les enfants. Echangez un peu de calme contre une vraie praticite.",
+        "fr": "La meilleure base si vous voulez Kos-ville à la porte et des toboggans pour les enfants. Échangez un peu de calme contre une vraie praticité.",
         "it": "La migliore base se volete Kos Town a due passi più gli scivoli per i bambini. Barattate un po' di calma con una vera comodità.",
         "de": "Die beste Basis, wenn Sie Kos Town vor der Tür plus Rutschen für die Kinder wollen. Tauschen Sie ein wenig Ruhe gegen echten Komfort.",
         "es": "La mejor base si queréis Kos Town a la puerta más toboganes para los niños. Cambiad un poco de calma por comodidad real.",
@@ -2829,7 +2829,7 @@
       },
       "parentTip": {
         "en": "Hire family bikes from town and ride the flat seafront path, it is the nicest and safest way in with kids.",
-        "fr": "Louez des velos familiaux en ville et empruntez la promenade plate du front de mer, c'est la maniere la plus agreable et la plus sure d'y aller avec des enfants.",
+        "fr": "Louez des vélos familiaux en ville et empruntez la promenade plate du front de mer, c'est la manière la plus agréable et la plus sûre d'y aller avec des enfants.",
         "it": "Noleggiate biciclette per famiglie in città e percorrete il lungomare pianeggiante: è il modo più bello e sicuro per arrivare con i bambini.",
         "de": "Leihen Sie Familienräder in der Stadt und fahren Sie den flachen Uferweg, das ist der schönste und sicherste Weg mit Kindern.",
         "es": "Alquilad bicis familiares en la ciudad y recorred el paseo marítimo llano: es la forma más bonita y segura de llegar con niños.",
@@ -2897,7 +2897,7 @@
           "icon": "🚲",
           "label": {
             "en": "Getting around",
-            "fr": "Se deplacer",
+            "fr": "Se déplacer",
             "it": "Spostarsi",
             "de": "Fortbewegung",
             "es": "Desplazarse",
@@ -2918,7 +2918,7 @@
           "emoji": "🚲",
           "name": {
             "en": "Cycle the seafront",
-            "fr": "Velo sur le front de mer",
+            "fr": "Vélo sur le front de mer",
             "it": "In bici sul lungomare",
             "de": "Radeln am Meer entlang",
             "es": "Pedalear por el paseo marítimo",
@@ -2926,7 +2926,7 @@
           },
           "detail": {
             "en": "The flat path into Kos Town passes the harbour, castle and gardens, a lovely family ride.",
-            "fr": "Le chemin plat vers Kos-ville longe le port, le chateau et les jardins, une jolie balade familiale.",
+            "fr": "Le chemin plat vers Kos-ville longe le port, le château et les jardins, une jolie balade familiale.",
             "it": "Il percorso pianeggiante verso Kos Town costeggia il porto, il castello e i giardini, una bella pedalata in famiglia.",
             "de": "Der flache Weg nach Kos Town führt am Hafen, an der Burg und an den Gärten vorbei, eine schöne Familientour.",
             "es": "El camino llano hacia Kos Town pasa por el puerto, el castillo y los jardines, un bonito paseo en familia.",
@@ -2949,7 +2949,7 @@
           "emoji": "🛝",
           "name": {
             "en": "Slide complex morning",
-            "fr": "Matinee complexe de toboggans",
+            "fr": "Matinée complexe de toboggans",
             "it": "Mattinata al complesso di scivoli",
             "de": "Vormittag im Rutschenkomplex",
             "es": "Mañana en el complejo de toboganes",
@@ -2957,7 +2957,7 @@
           },
           "detail": {
             "en": "Several slides and pools cover a whole morning without leaving the resort.",
-            "fr": "Plusieurs toboggans et piscines occupent toute une matinee sans quitter le resort.",
+            "fr": "Plusieurs toboggans et piscines occupent toute une matinée sans quitter le resort.",
             "it": "Diversi scivoli e piscine riempiono un'intera mattinata senza lasciare il resort.",
             "de": "Mehrere Rutschen und Pools füllen einen ganzen Vormittag, ohne das Resort zu verlassen.",
             "es": "Varios toboganes y piscinas llenan toda una mañana sin salir del resort.",
@@ -2988,7 +2988,7 @@
           },
           "detail": {
             "en": "Kos Town's castle, ancient agora and ice cream stops make an easy evening out.",
-            "fr": "Le chateau de Kos-ville, l'ancienne agora et les glaciers offrent une sortie facile en soiree.",
+            "fr": "Le château de Kos-ville, l'ancienne agora et les glaciers offrent une sortie facile en soirée.",
             "it": "Il castello di Kos Town, l'antica agorà e le soste per il gelato rendono facile una serata fuori.",
             "de": "Die Burg von Kos Town, die antike Agora und die Eispausen machen einen entspannten Abend aus.",
             "es": "El castillo de Kos Town, el ágora antigua y las paradas para tomar helado hacen fácil una salida por la tarde.",
@@ -3041,7 +3041,7 @@
           },
           "note": {
             "en": "Shady spots near the kids pool fill first.",
-            "fr": "Les coins ombrages pres de la piscine enfants partent en premier.",
+            "fr": "Les coins ombragés près de la piscine enfants partent en premier.",
             "it": "I posti all'ombra vicino alla piscina per bambini si riempiono per primi.",
             "de": "Die schattigen Plätze am Kinderpool sind zuerst belegt.",
             "es": "Los sitios con sombra cerca de la piscina infantil se llenan primero.",
@@ -3071,7 +3071,7 @@
           "time": "18:30",
           "title": {
             "en": "Cycle into town",
-            "fr": "Velo vers la ville",
+            "fr": "Vélo vers la ville",
             "it": "In bici in città",
             "de": "Mit dem Rad in die Stadt",
             "es": "En bici a la ciudad",
@@ -3079,7 +3079,7 @@
           },
           "note": {
             "en": "Dinner and a wander by the harbour.",
-            "fr": "Diner et flanerie au bord du port.",
+            "fr": "Dîner et flânerie au bord du port.",
             "it": "Cena e una passeggiata sul porto.",
             "de": "Abendessen und ein Bummel am Hafen.",
             "es": "Cena y un paseo por el puerto.",
@@ -3090,7 +3090,7 @@
       "ageNotes": {
         "baby": {
           "en": "Cots are fine and town is walkable for pram naps, though the resort is large and lively.",
-          "fr": "Lits bebe disponibles et ville accessible a pied pour les siestes en poussette, meme si le resort est grand et anime.",
+          "fr": "Lits bébé disponibles et ville accessible à pied pour les siestes en poussette, même si le resort est grand et animé.",
           "it": "I lettini non sono un problema e la città è raggiungibile a piedi per le nanne in passeggino, anche se il resort è grande e movimentato.",
           "de": "Kinderbetten sind kein Problem und die Stadt ist für Kinderwagen-Nickerchen zu Fuß erreichbar, auch wenn das Resort groß und lebhaft ist.",
           "es": "Las cunas no son problema y la ciudad se llega a pie para las siestas en carrito, aunque el resort es grande y animado.",
@@ -3098,7 +3098,7 @@
         },
         "toddler": {
           "en": "Shallow pool zones work well, keep them clear of the bigger slides.",
-          "fr": "Les zones de piscine peu profondes conviennent bien, tenez-les a l'ecart des grands toboggans.",
+          "fr": "Les zones de piscine peu profondes conviennent bien, tenez-les à l'écart des grands toboggans.",
           "it": "Le zone di piscina poco profonde vanno bene, teneteli lontani dagli scivoli più grandi.",
           "de": "Die flachen Poolzonen eignen sich gut, halten Sie sie von den größeren Rutschen fern.",
           "es": "Las zonas de piscina poco profundas van bien, mantenedlos alejados de los toboganes más grandes.",
@@ -3106,7 +3106,7 @@
         },
         "kid": {
           "en": "Slides, kids club and easy town trips make this a great age here.",
-          "fr": "Toboggans, club enfants et sorties faciles en ville font de cet age un tres bon choix ici.",
+          "fr": "Toboggans, club enfants et sorties faciles en ville font de cet âge un très bon choix ici.",
           "it": "Scivoli, miniclub e facili uscite in città rendono questa un'età ottima qui.",
           "de": "Rutschen, Kinderclub und einfache Stadtausflüge machen dies hier zu einer tollen Altersgruppe.",
           "es": "Toboganes, club infantil y fáciles salidas a la ciudad hacen de esta una gran edad aquí.",
@@ -3114,7 +3114,7 @@
         },
         "teen": {
           "en": "The town's cafes, shops and harbour give teens somewhere real to go.",
-          "fr": "Les cafes, boutiques et le port de la ville donnent aux ados un vrai endroit ou aller.",
+          "fr": "Les cafés, boutiques et le port de la ville donnent aux ados un vrai endroit où aller.",
           "it": "I caffè, i negozi e il porto della città danno ai teenager un posto vero dove andare.",
           "de": "Die Cafés, Geschäfte und der Hafen der Stadt geben Teenagern einen echten Ort zum Hingehen.",
           "es": "Los cafés, las tiendas y el puerto de la ciudad dan a los adolescentes un sitio real adonde ir.",
@@ -3133,7 +3133,7 @@
           },
           "a": {
             "en": "The resort sits on the edge of town toward Lambi, a short flat cycle or a walk along the seafront into the old town.",
-            "fr": "Le resort se situe en bordure de ville vers Lambi, une courte balade a velo plate ou a pied le long du front de mer jusqu'a la vieille ville.",
+            "fr": "Le resort se situe en bordure de ville vers Lambi, une courte balade à vélo plate ou à pied le long du front de mer jusqu'à la vieille ville.",
             "it": "Il resort si trova ai margini della città verso Lambi, una breve pedalata pianeggiante o una passeggiata sul lungomare fino al centro storico.",
             "de": "Das Resort liegt am Stadtrand Richtung Lambi, eine kurze flache Radtour oder ein Spaziergang am Meer entlang in die Altstadt.",
             "es": "El resort se sitúa al borde de la ciudad hacia Lambi, un corto paseo llano en bici o una caminata por el paseo marítimo hasta el casco antiguo.",
@@ -3151,7 +3151,7 @@
           },
           "a": {
             "en": "It is a narrow town beach, fine for a dip but shingly in parts, so the pools do most of the swimming.",
-            "fr": "C'est une plage de ville etroite, correcte pour une baignade mais caillouteuse par endroits, les piscines assurent donc l'essentiel des baignades.",
+            "fr": "C'est une plage de ville étroite, correcte pour une baignade mais caillouteuse par endroits, les piscines assurent donc l'essentiel des baignades.",
             "it": "È una stretta spiaggia cittadina, va bene per un tuffo ma con ghiaia in alcuni punti, quindi le piscine coprono la maggior parte dei bagni.",
             "de": "Es ist ein schmaler Stadtstrand, gut für ein Bad, aber stellenweise kieselig, sodass das Schwimmen hauptsächlich in den Pools stattfindet.",
             "es": "Es una estrecha playa urbana, bien para un chapuzón pero con guijarros en algunas partes, así que las piscinas se encargan de la mayor parte de los baños.",
@@ -3161,7 +3161,7 @@
         {
           "q": {
             "en": "Is it too lively for young children?",
-            "fr": "Est-ce trop anime pour de jeunes enfants?",
+            "fr": "Est-ce trop animé pour de jeunes enfants?",
             "it": "È troppo movimentato per i bambini piccoli?",
             "de": "Ist es für kleine Kinder zu lebhaft?",
             "es": "¿Es demasiado animado para niños pequeños?",
@@ -3169,7 +3169,7 @@
           },
           "a": {
             "en": "It is a big, busy resort, but the family zones are well separated, so younger children are fine away from the main entertainment.",
-            "fr": "C'est un grand resort anime, mais les zones familiales sont bien separees, les jeunes enfants sont donc a l'aise a l'ecart des animations principales.",
+            "fr": "C'est un grand resort animé, mais les zones familiales sont bien séparées, les jeunes enfants sont donc à l'aise à l'écart des animations principales.",
             "it": "È un resort grande e movimentato, ma le zone per famiglie sono ben separate, quindi i bambini più piccoli stanno bene lontano dall'animazione principale.",
             "de": "Es ist ein großes, belebtes Resort, aber die Familienbereiche sind gut abgetrennt, sodass jüngere Kinder abseits der Hauptunterhaltung gut aufgehoben sind.",
             "es": "Es un resort grande y animado, pero las zonas familiares están bien separadas, así que los niños más pequeños están bien lejos de la animación principal.",
@@ -3227,7 +3227,7 @@
       },
       "roomsSummary": {
         "en": "Comfortable, good-value rooms and family rooms across a large green complex in Psalidi, most with a balcony onto the gardens. Family rooms sleep four and connecting rooms are common, simple and clean rather than smart. As part of the wider Kipriotis complex you can use shared facilities, so families get plenty of space to spread out.",
-        "fr": "Chambres et chambres familiales confortables et d'un bon rapport qualite-prix, reparties sur un grand complexe verdoyant a Psalidi, la plupart avec balcon sur les jardins. Les chambres familiales accueillent quatre personnes et les chambres communicantes sont frequentes, simples et propres plutot que chic. En faisant partie du grand complexe Kipriotis, vous profitez d'equipements partages, les familles ont donc beaucoup d'espace pour s'etaler.",
+        "fr": "Chambres et chambres familiales confortables et d'un bon rapport qualité-prix, réparties sur un grand complexe verdoyant à Psalidi, la plupart avec balcon sur les jardins. Les chambres familiales accueillent quatre personnes et les chambres communicantes sont fréquentes, simples et propres plutôt que chic. En faisant partie du grand complexe Kipriotis, vous profitez d'équipements partagés, les familles ont donc beaucoup d'espace pour s'étaler.",
         "it": "Camere e camere familiari confortevoli e convenienti in un ampio complesso verde a Psalidi, la maggior parte con balcone sui giardini. Le camere familiari ospitano quattro persone e le comunicanti sono frequenti, semplici e pulite più che eleganti. Facendo parte del più ampio complesso Kipriotis, potete usare le strutture condivise, così le famiglie hanno molto spazio per allargarsi.",
         "de": "Komfortable, preiswerte Zimmer und Familienzimmer in einer großen grünen Anlage in Psalidi, die meisten mit Balkon zu den Gärten. Familienzimmer bieten Platz für vier Personen und Verbindungszimmer sind häufig, einfach und sauber statt schick. Als Teil der größeren Kipriotis-Anlage können Sie die gemeinsamen Einrichtungen nutzen, sodass Familien viel Platz zum Ausbreiten haben.",
         "es": "Habitaciones y habitaciones familiares cómodas y de buena relación calidad-precio en un amplio complejo verde en Psalidi, la mayoría con balcón a los jardines. Las habitaciones familiares alojan a cuatro personas y las comunicadas son habituales, sencillas y limpias más que elegantes. Al formar parte del complejo Kipriotis más amplio podéis usar las instalaciones compartidas, así que las familias tienen mucho espacio para extenderse.",
@@ -3235,7 +3235,7 @@
       },
       "intro": {
         "en": "The value pick in Psalidi, this is a large, friendly complex where the money goes into space and a good kids club rather than designer touches. Set in green grounds a short ride from Kos Town, it gives you pools, a mini club and room to run about at a gentler price than the flashier neighbours. It is not on the beach, but for wallet-conscious families it delivers the essentials well.",
-        "fr": "Le choix bon rapport qualite-prix a Psalidi, c'est un grand complexe convivial ou l'argent va dans l'espace et un bon club enfants plutot que dans les touches design. Installe dans des jardins verts a courte distance de Kos-ville, il offre piscines, mini club et de la place pour courir a un prix plus doux que les voisins plus tape-a-l'oeil. Il n'est pas en bord de plage, mais pour les familles attentives au budget il assure bien l'essentiel.",
+        "fr": "Le choix bon rapport qualité-prix à Psalidi, c'est un grand complexe convivial où l'argent va dans l'espace et un bon club enfants plutôt que dans les touches design. Installé dans des jardins verts à courte distance de Kos-ville, il offre piscines, mini club et de la place pour courir à un prix plus doux que les voisins plus tape-à-l'oeil. Il n'est pas en bord de plage, mais pour les familles attentives au budget il assure bien l'essentiel.",
         "it": "La scelta conveniente a Psalidi: un grande e accogliente complesso dove i soldi vanno nello spazio e in un buon miniclub più che in tocchi di design. Immerso nel verde a breve distanza da Kos Town, offre piscine, un miniclub e spazio per correre a un prezzo più dolce rispetto ai vicini più appariscenti. Non è sulla spiaggia, ma per le famiglie attente al portafoglio assicura bene l'essenziale.",
         "de": "Die preiswerte Wahl in Psalidi: eine große, freundliche Anlage, bei der das Geld in Platz und einen guten Kinderclub statt in Designer-Details fließt. In grüner Umgebung, nur eine kurze Fahrt von Kos Town entfernt, bietet sie Pools, einen Miniclub und Raum zum Herumtoben zu einem sanfteren Preis als die auffälligeren Nachbarn. Sie liegt nicht am Strand, aber für preisbewusste Familien liefert sie die Grundlagen gut.",
         "es": "La opción económica en Psalidi: un complejo grande y acogedor donde el dinero va al espacio y a un buen club infantil más que a toques de diseño. Situado en un entorno verde a poca distancia de Kos Town, ofrece piscinas, un miniclub y sitio para corretear a un precio más suave que los vecinos más llamativos. No está en la playa, pero para familias que cuidan el bolsillo cumple bien con lo esencial.",
@@ -3249,7 +3249,7 @@
           "Family and connecting rooms"
         ],
         "fr": [
-          "Tres bon rapport qualite-prix pour un complexe familial",
+          "Très bon rapport qualité-prix pour un complexe familial",
           "Grands jardins verts avec de la place pour courir",
           "Club enfants et mini club gratuits",
           "Chambres familiales et communicantes"
@@ -3288,7 +3288,7 @@
         ],
         "fr": [
           "Base familiale conviviale et abordable",
-          "Beaucoup d'espace exterieur pour les enfants",
+          "Beaucoup d'espace extérieur pour les enfants",
           "Bonnes piscines et un club enfants solide",
           "Court trajet vers Kos-ville"
         ],
@@ -3324,8 +3324,8 @@
           "Large complex can feel impersonal"
         ],
         "fr": [
-          "Pas en bord de plage, l'acces mer demande une marche ou un trajet",
-          "Chambres simples et un peu datees",
+          "Pas en bord de plage, l'accès mer demande une marche ou un trajet",
+          "Chambres simples et un peu datées",
           "Le grand complexe peut sembler impersonnel"
         ],
         "it": [
@@ -3351,7 +3351,7 @@
       },
       "verdict": {
         "en": "The sensible value choice for families who want space, pools and a kids club without paying top-tier prices. Beach lovers should look elsewhere.",
-        "fr": "Le choix malin pour les familles qui veulent de l'espace, des piscines et un club enfants sans payer les tarifs les plus eleves. Les amateurs de plage regarderont ailleurs.",
+        "fr": "Le choix malin pour les familles qui veulent de l'espace, des piscines et un club enfants sans payer les tarifs les plus élevés. Les amateurs de plage regarderont ailleurs.",
         "it": "La scelta ragionevole e conveniente per le famiglie che vogliono spazio, piscine e un miniclub senza pagare i prezzi più alti. Gli amanti della spiaggia guarderanno altrove.",
         "de": "Die vernünftige, preiswerte Wahl für Familien, die Platz, Pools und einen Kinderclub wollen, ohne Spitzenpreise zu zahlen. Strandliebhaber sollten sich anderswo umsehen.",
         "es": "La opción sensata y económica para familias que quieren espacio, piscinas y un club infantil sin pagar precios de primera. Los amantes de la playa deberían mirar en otra parte.",
@@ -3359,7 +3359,7 @@
       },
       "parentTip": {
         "en": "Rooms near the main pool save the longest walks, handy with a tired toddler at the end of the day.",
-        "fr": "Les chambres pres de la piscine principale evitent les plus longs trajets, pratique avec un tout-petit fatigue en fin de journee.",
+        "fr": "Les chambres près de la piscine principale évitent les plus longs trajets, pratique avec un tout-petit fatigué en fin de journée.",
         "it": "Le camere vicino alla piscina principale evitano i tragitti più lunghi, comode con un bimbo stanco a fine giornata.",
         "de": "Zimmer in der Nähe des Hauptpools ersparen die längsten Wege, praktisch mit einem müden Kleinkind am Ende des Tages.",
         "es": "Las habitaciones cerca de la piscina principal evitan los trayectos más largos, cómodas con un pequeño cansado al final del día.",
@@ -3435,7 +3435,7 @@
           },
           "value": {
             "en": "Short ride away",
-            "fr": "A courte distance",
+            "fr": "À courte distance",
             "it": "A breve distanza",
             "de": "Eine kurze Fahrt entfernt",
             "es": "A poca distancia",
@@ -3456,7 +3456,7 @@
           },
           "detail": {
             "en": "The wide green grounds are perfect for football, hide and seek and letting off steam.",
-            "fr": "Les vastes jardins verts sont parfaits pour le football, cache-cache et se defouler.",
+            "fr": "Les vastes jardins verts sont parfaits pour le football, cache-cache et se défouler.",
             "it": "Gli ampi spazi verdi sono perfetti per il calcio, il nascondino e per sfogarsi.",
             "de": "Die weitläufige grüne Anlage ist perfekt für Fußball, Verstecken und um Dampf abzulassen.",
             "es": "Los amplios espacios verdes son perfectos para el fútbol, el escondite y para desahogarse.",
@@ -3486,7 +3486,7 @@
           },
           "detail": {
             "en": "Simple crafts and games keep younger children happy while parents relax by the pool.",
-            "fr": "Bricolages et jeux simples occupent les plus jeunes pendant que les parents se detendent au bord de la piscine.",
+            "fr": "Bricolages et jeux simples occupent les plus jeunes pendant que les parents se détendent au bord de la piscine.",
             "it": "Laboratori e giochi semplici tengono felici i bambini più piccoli mentre i genitori si rilassano a bordo piscina.",
             "de": "Einfache Bastelaktionen und Spiele halten jüngere Kinder glücklich, während sich die Eltern am Pool entspannen.",
             "es": "Manualidades y juegos sencillos mantienen felices a los más pequeños mientras los padres se relajan junto a la piscina.",
@@ -3509,7 +3509,7 @@
           "emoji": "🏰",
           "name": {
             "en": "Trip into Kos Town",
-            "fr": "Sortie a Kos-ville",
+            "fr": "Sortie à Kos-ville",
             "it": "Gita a Kos Town",
             "de": "Ausflug nach Kos Town",
             "es": "Excursión a Kos Town",
@@ -3517,7 +3517,7 @@
           },
           "detail": {
             "en": "A short ride reaches the old town, harbour and castle for an easy afternoon out.",
-            "fr": "Un court trajet atteint la vieille ville, le port et le chateau pour un apres-midi facile.",
+            "fr": "Un court trajet atteint la vieille ville, le port et le château pour un après-midi facile.",
             "it": "Un breve tragitto raggiunge il centro storico, il porto e il castello per un facile pomeriggio fuori.",
             "de": "Eine kurze Fahrt erreicht die Altstadt, den Hafen und die Burg für einen entspannten Nachmittag.",
             "es": "Un corto trayecto llega al casco antiguo, al puerto y al castillo para una tarde fácil fuera.",
@@ -3608,7 +3608,7 @@
           },
           "note": {
             "en": "Dinner in Kos Town, then home to bed.",
-            "fr": "Diner a Kos-ville, puis retour au lit.",
+            "fr": "Dîner à Kos-ville, puis retour au lit.",
             "it": "Cena a Kos Town, poi a casa a dormire.",
             "de": "Abendessen in Kos Town, dann nach Hause ins Bett.",
             "es": "Cena en Kos Town, luego a casa a dormir.",
@@ -3619,7 +3619,7 @@
       "ageNotes": {
         "baby": {
           "en": "Cots and quiet garden corners help, though there is no beach on site.",
-          "fr": "Lits bebe et coins de jardin calmes aident, meme s'il n'y a pas de plage sur place.",
+          "fr": "Lits bébé et coins de jardin calmes aident, même s'il n'y a pas de plage sur place.",
           "it": "Lettini e angoli tranquilli del giardino aiutano, anche se non c'è una spiaggia in loco.",
           "de": "Kinderbetten und ruhige Gartenecken helfen, auch wenn es vor Ort keinen Strand gibt.",
           "es": "Cunas y rincones tranquilos del jardín ayudan, aunque no hay playa en el recinto.",
@@ -3635,7 +3635,7 @@
         },
         "kid": {
           "en": "Space to play plus a kids club make this a good-value age here.",
-          "fr": "De la place pour jouer et un club enfants font de cet age un bon choix ici.",
+          "fr": "De la place pour jouer et un club enfants font de cet âge un bon choix ici.",
           "it": "Spazio per giocare più un miniclub rendono questa un'età dal buon rapporto qualità-prezzo qui.",
           "de": "Platz zum Spielen plus ein Kinderclub machen dies hier zu einer preiswerten Altersgruppe.",
           "es": "Espacio para jugar más un club infantil hacen de esta una edad de buena relación calidad-precio aquí.",
@@ -3643,7 +3643,7 @@
         },
         "teen": {
           "en": "Teens will want to head into Kos Town, which is an easy ride away.",
-          "fr": "Les ados voudront filer a Kos-ville, facilement accessible.",
+          "fr": "Les ados voudront filer à Kos-ville, facilement accessible.",
           "it": "I teenager vorranno andare a Kos Town, facilmente raggiungibile.",
           "de": "Teenager werden nach Kos Town wollen, das leicht zu erreichen ist.",
           "es": "Los adolescentes querrán ir a Kos Town, fácil de alcanzar.",
@@ -3662,7 +3662,7 @@
           },
           "a": {
             "en": "There is no beach on site, but Psalidi's shoreline and Kos Town beaches are a short walk or ride away.",
-            "fr": "Il n'y a pas de plage sur place, mais le littoral de Psalidi et les plages de Kos-ville sont a une courte marche ou un court trajet.",
+            "fr": "Il n'y a pas de plage sur place, mais le littoral de Psalidi et les plages de Kos-ville sont à une courte marche ou un court trajet.",
             "it": "Non c'è spiaggia in loco, ma la costa di Psalidi e le spiagge di Kos Town sono a breve distanza a piedi o con un tragitto.",
             "de": "Es gibt vor Ort keinen Strand, aber die Küste von Psalidi und die Strände von Kos Town sind einen kurzen Fuß- oder Fahrweg entfernt.",
             "es": "No hay playa en el recinto, pero la costa de Psalidi y las playas de Kos Town están a poca distancia a pie o en coche.",
@@ -3672,7 +3672,7 @@
         {
           "q": {
             "en": "Is it good value with children?",
-            "fr": "Est-ce un bon rapport qualite-prix avec des enfants?",
+            "fr": "Est-ce un bon rapport qualité-prix avec des enfants?",
             "it": "È conveniente con i bambini?",
             "de": "Ist es mit Kindern preiswert?",
             "es": "¿Es económico con niños?",
@@ -3698,7 +3698,7 @@
           },
           "a": {
             "en": "They are simple and clean rather than stylish, which is part of how the price stays reasonable.",
-            "fr": "Elles sont simples et propres plutot que stylees, ce qui explique en partie un prix raisonnable.",
+            "fr": "Elles sont simples et propres plutôt que stylées, ce qui explique en partie un prix raisonnable.",
             "it": "Sono semplici e pulite più che eleganti, ed è in parte per questo che il prezzo resta ragionevole.",
             "de": "Sie sind einfach und sauber statt stilvoll, was mit dazu beiträgt, dass der Preis vernünftig bleibt.",
             "es": "Son sencillas y limpias más que elegantes, lo que en parte explica que el precio siga siendo razonable.",
@@ -3756,7 +3756,7 @@
       },
       "roomsSummary": {
         "en": "A spread of rooms, family rooms and self-catering village apartments on a green hillside above a quiet sandy beach near Kardamena. The village-style apartments have a kitchenette and separate sleeping space, which suits families who want the flexibility to feed toddlers on their own timetable. Choose the hotel side for full board or the village side for self-catering.",
-        "fr": "Un ensemble de chambres, chambres familiales et appartements en village avec cuisine, sur une colline verdoyante au-dessus d'une plage de sable tranquille pres de Kardamena. Les appartements de type village disposent d'une kitchenette et d'un espace nuit separe, ce qui convient aux familles qui veulent la liberte de nourrir les tout-petits a leur propre rythme. Choisissez le cote hotel pour la pension complete ou le cote village pour la formule cuisine.",
+        "fr": "Un ensemble de chambres, chambres familiales et appartements en village avec cuisine, sur une colline verdoyante au-dessus d'une plage de sable tranquille près de Kardamena. Les appartements de type village disposent d'une kitchenette et d'un espace nuit séparé, ce qui convient aux familles qui veulent la liberté de nourrir les tout-petits à leur propre rythme. Choisissez le côté hôtel pour la pension complète ou le côté village pour la formule cuisine.",
         "it": "Un insieme di camere, camere familiari e appartamenti in stile villaggio con angolo cottura, su una collina verde sopra una tranquilla spiaggia sabbiosa vicino a Kardamena. Gli appartamenti in stile villaggio hanno un angolo cottura e uno spazio notte separato, il che si adatta alle famiglie che vogliono la libertà di nutrire i più piccoli secondo i propri orari. Scegliete il lato hotel per la pensione completa o il lato villaggio per la formula con cucina.",
         "de": "Eine Auswahl an Zimmern, Familienzimmern und Apartments im Dorfstil mit Selbstversorgung an einem grünen Hang oberhalb eines ruhigen Sandstrands bei Kardamena. Die Apartments im Dorfstil haben eine Kochnische und einen getrennten Schlafbereich, was Familien entgegenkommt, die die Kleinen flexibel nach eigenem Zeitplan versorgen möchten. Wählen Sie die Hotelseite für Vollpension oder die Dorfseite für Selbstversorgung.",
         "es": "Un conjunto de habitaciones, habitaciones familiares y apartamentos tipo pueblo con cocina en una ladera verde sobre una tranquila playa de arena cerca de Kardamena. Los apartamentos tipo pueblo tienen una cocina pequeña y un espacio para dormir aparte, lo que va bien a las familias que quieren la libertad de alimentar a los pequeños según su propio horario. Elegid el lado hotel para pensión completa o el lado pueblo para la fórmula con cocina.",
@@ -3764,7 +3764,7 @@
       },
       "intro": {
         "en": "A relaxed, good-value resort with a mix of hotel rooms and self-catering village apartments, tucked on a hillside above its own calm beach near Kardamena. The self-catering option is the draw for families who like the freedom of a kitchenette, while the shared pools and free kids club cover the holiday basics. It is quieter and greener than the big Kardamena strip, a gentle choice for younger families.",
-        "fr": "Un resort detendu et d'un bon rapport qualite-prix, avec un melange de chambres d'hotel et d'appartements en village avec cuisine, niche sur une colline au-dessus de sa propre plage calme pres de Kardamena. La formule cuisine seduit les familles qui aiment la liberte d'une kitchenette, tandis que les piscines partagees et le club enfants gratuit couvrent l'essentiel des vacances. C'est plus calme et plus vert que la grande station de Kardamena, un choix doux pour les jeunes familles.",
+        "fr": "Un resort détendu et d'un bon rapport qualité-prix, avec un mélange de chambres d'hôtel et d'appartements en village avec cuisine, niché sur une colline au-dessus de sa propre plage calme près de Kardamena. La formule cuisine séduit les familles qui aiment la liberté d'une kitchenette, tandis que les piscines partagées et le club enfants gratuit couvrent l'essentiel des vacances. C'est plus calme et plus vert que la grande station de Kardamena, un choix doux pour les jeunes familles.",
         "it": "Un resort rilassato e conveniente con un mix di camere d'hotel e appartamenti in stile villaggio con angolo cottura, adagiato su una collina sopra la sua tranquilla spiaggia vicino a Kardamena. La formula con cucina è l'attrattiva per le famiglie che amano la libertà di un angolo cottura, mentre le piscine condivise e il miniclub gratuito coprono l'essenziale della vacanza. È più tranquillo e più verde della grande zona di Kardamena, una scelta dolce per le famiglie con bambini piccoli.",
         "de": "Ein entspanntes, preiswertes Resort mit einer Mischung aus Hotelzimmern und Selbstversorger-Apartments im Dorfstil, gelegen an einem Hang oberhalb seines eigenen ruhigen Strands bei Kardamena. Die Selbstversorgung ist der Reiz für Familien, die die Freiheit einer Kochnische schätzen, während die gemeinsamen Pools und der kostenlose Kinderclub die Urlaubsgrundlagen abdecken. Es ist ruhiger und grüner als die große Meile von Kardamena, eine sanfte Wahl für junge Familien.",
         "es": "Un resort relajado y económico con una mezcla de habitaciones de hotel y apartamentos tipo pueblo con cocina, encajado en una ladera sobre su propia playa tranquila cerca de Kardamena. La opción con cocina es el atractivo para las familias que aprecian la libertad de una cocina pequeña, mientras que las piscinas compartidas y el club infantil gratuito cubren lo esencial de las vacaciones. Es más tranquilo y más verde que la gran zona de Kardamena, una opción suave para familias con niños pequeños.",
@@ -3779,7 +3779,7 @@
         ],
         "fr": [
           "Option appartements en village avec cuisine",
-          "Plage privee tranquille en contrebas du resort",
+          "Plage privée tranquille en contrebas du resort",
           "Club enfants gratuit et piscines",
           "Cadre de colline verdoyante loin de la station"
         ],
@@ -3817,8 +3817,8 @@
         ],
         "fr": [
           "Souplesse de la kitchenette pour les repas des tout-petits",
-          "Plage calme et peu frequentee",
-          "Bon rapport qualite-prix en pension ou en cuisine",
+          "Plage calme et peu fréquentée",
+          "Bon rapport qualité-prix en pension ou en cuisine",
           "Environnement paisible et verdoyant"
         ],
         "it": [
@@ -3854,8 +3854,8 @@
         ],
         "fr": [
           "Relief en colline, donc des pentes avec la poussette",
-          "Moins d'equipements que les grands tout compris",
-          "Une voiture de location aide pour sortir et se deplacer"
+          "Moins d'équipements que les grands tout compris",
+          "Une voiture de location aide pour sortir et se déplacer"
         ],
         "it": [
           "La disposizione in collina comporta pendenze con il passeggino",
@@ -3880,7 +3880,7 @@
       },
       "verdict": {
         "en": "A calm, affordable choice for families who value a kitchenette and a quiet beach over big-resort buzz. Best with a car for day trips.",
-        "fr": "Un choix calme et abordable pour les familles qui preferent une kitchenette et une plage tranquille a l'agitation des grands resorts. Ideal avec une voiture pour les excursions.",
+        "fr": "Un choix calme et abordable pour les familles qui préfèrent une kitchenette et une plage tranquille à l'agitation des grands resorts. Idéal avec une voiture pour les excursions.",
         "it": "Una scelta calma e conveniente per le famiglie che apprezzano un angolo cottura e una spiaggia tranquilla più del fermento dei grandi resort. Ideale con un'auto per le gite in giornata.",
         "de": "Eine ruhige, erschwingliche Wahl für Familien, die eine Kochnische und einen ruhigen Strand dem Trubel großer Resorts vorziehen. Am besten mit Auto für Tagesausflüge.",
         "es": "Una opción tranquila y asequible para familias que valoran una cocina pequeña y una playa tranquila por encima del bullicio de los grandes resorts. Mejor con coche para las excursiones de un día.",
@@ -3888,7 +3888,7 @@
       },
       "parentTip": {
         "en": "Book a village apartment if you have a baby or toddler, the kitchenette makes early meals and snacks far easier.",
-        "fr": "Reservez un appartement en village si vous avez un bebe ou un tout-petit, la kitchenette simplifie les repas tot et les en-cas.",
+        "fr": "Réservez un appartement en village si vous avez un bébé ou un tout-petit, la kitchenette simplifie les repas tôt et les en-cas.",
         "it": "Prenotate un appartamento in stile villaggio se avete un neonato o un bimbo piccolo: l'angolo cottura rende molto più facili i pasti presto e gli spuntini.",
         "de": "Buchen Sie ein Apartment im Dorfstil, wenn Sie ein Baby oder Kleinkind haben, die Kochnische macht frühe Mahlzeiten und Snacks viel einfacher.",
         "es": "Reservad un apartamento tipo pueblo si tenéis un bebé o un pequeño: la cocina pequeña hace mucho más fáciles las comidas tempranas y los tentempiés.",
@@ -3926,7 +3926,7 @@
           },
           "value": {
             "en": "Quiet own beach",
-            "fr": "Plage privee tranquille",
+            "fr": "Plage privée tranquille",
             "it": "Spiaggia privata tranquilla",
             "de": "Ruhiger eigener Strand",
             "es": "Playa propia tranquila",
@@ -3977,7 +3977,7 @@
           "emoji": "🏖️",
           "name": {
             "en": "Quiet beach morning",
-            "fr": "Matinee plage tranquille",
+            "fr": "Matinée plage tranquille",
             "it": "Mattinata di spiaggia tranquilla",
             "de": "Ruhiger Strandvormittag",
             "es": "Mañana de playa tranquila",
@@ -3985,7 +3985,7 @@
           },
           "detail": {
             "en": "The resort's own beach is calm and uncrowded, great for a slow start with young children.",
-            "fr": "La plage privee du resort est calme et peu frequentee, ideale pour un demarrage tranquille avec de jeunes enfants.",
+            "fr": "La plage privée du resort est calme et peu fréquentée, idéale pour un démarrage tranquille avec de jeunes enfants.",
             "it": "La spiaggia privata del resort è calma e poco affollata, ottima per iniziare con calma con i bambini piccoli.",
             "de": "Der eigene Strand des Resorts ist ruhig und wenig besucht, ideal für einen gemächlichen Start mit kleinen Kindern.",
             "es": "La playa propia del resort es tranquila y poco concurrida, estupenda para empezar con calma con niños pequeños.",
@@ -4008,7 +4008,7 @@
           "emoji": "🍅",
           "name": {
             "en": "Market and cook-in",
-            "fr": "Marche et repas maison",
+            "fr": "Marché et repas maison",
             "it": "Mercato e cena in casa",
             "de": "Markt und Kochen zu Hause",
             "es": "Mercado y cena en casa",
@@ -4016,7 +4016,7 @@
           },
           "detail": {
             "en": "Use the kitchenette for a relaxed family meal after a shop in Kardamena.",
-            "fr": "Utilisez la kitchenette pour un repas familial detendu apres des courses a Kardamena.",
+            "fr": "Utilisez la kitchenette pour un repas familial détendu après des courses à Kardamena.",
             "it": "Usate l'angolo cottura per un pasto in famiglia rilassato dopo una spesa a Kardamena.",
             "de": "Nutzen Sie die Kochnische für ein entspanntes Familienessen nach einem Einkauf in Kardamena.",
             "es": "Usad la cocina pequeña para una comida familiar relajada tras una compra en Kardamena.",
@@ -4041,7 +4041,7 @@
           "emoji": "🌋",
           "name": {
             "en": "Boat trip to Nisyros",
-            "fr": "Sortie en bateau a Nisyros",
+            "fr": "Sortie en bateau à Nisyros",
             "it": "Gita in barca a Nisyros",
             "de": "Bootsausflug nach Nisyros",
             "es": "Excursión en barco a Nisyros",
@@ -4049,7 +4049,7 @@
           },
           "detail": {
             "en": "Day boats from Kardamena reach the Nisyros volcano, a memorable outing for older kids.",
-            "fr": "Des bateaux a la journee depuis Kardamena rejoignent le volcan de Nisyros, une sortie memorable pour les grands.",
+            "fr": "Des bateaux à la journée depuis Kardamena rejoignent le volcan de Nisyros, une sortie mémorable pour les grands.",
             "it": "Le barche in giornata da Kardamena raggiungono il vulcano di Nisyros, un'uscita indimenticabile per i bambini più grandi.",
             "de": "Tagesboote von Kardamena erreichen den Vulkan von Nisyros, ein unvergesslicher Ausflug für größere Kinder.",
             "es": "Los barcos de un día desde Kardamena llegan al volcán de Nisyros, una salida memorable para los niños mayores.",
@@ -4082,7 +4082,7 @@
           },
           "note": {
             "en": "Kitchenette means an easy start on your own timetable.",
-            "fr": "La kitchenette permet un demarrage facile a votre rythme.",
+            "fr": "La kitchenette permet un démarrage facile à votre rythme.",
             "it": "L'angolo cottura permette un inizio facile secondo i vostri orari.",
             "de": "Die Kochnische ermöglicht einen entspannten Start nach dem eigenen Zeitplan.",
             "es": "La cocina pequeña permite empezar con facilidad según vuestro propio horario.",
@@ -4101,7 +4101,7 @@
           },
           "note": {
             "en": "Calm sandy stretch, quiet in the morning.",
-            "fr": "Etendue de sable calme, tranquille le matin.",
+            "fr": "Étendue de sable calme, tranquille le matin.",
             "it": "Distesa di sabbia calma, tranquilla al mattino.",
             "de": "Ruhiger Sandabschnitt, morgens still.",
             "es": "Franja de arena tranquila, apacible por la mañana.",
@@ -4120,7 +4120,7 @@
           },
           "note": {
             "en": "A shady afternoon back up at the pools.",
-            "fr": "Un apres-midi a l'ombre de retour aux piscines.",
+            "fr": "Un après-midi à l'ombre de retour aux piscines.",
             "it": "Un pomeriggio all'ombra, di nuovo alle piscine.",
             "de": "Ein schattiger Nachmittag zurück an den Pools.",
             "es": "Una tarde a la sombra, de vuelta en las piscinas.",
@@ -4131,7 +4131,7 @@
           "time": "19:00",
           "title": {
             "en": "Cook-in dinner",
-            "fr": "Diner maison",
+            "fr": "Dîner maison",
             "it": "Cena in casa",
             "de": "Abendessen zu Hause",
             "es": "Cena en casa",
@@ -4139,7 +4139,7 @@
           },
           "note": {
             "en": "Simple pasta on the balcony, kids fed early.",
-            "fr": "Pates simples sur le balcon, enfants nourris tot.",
+            "fr": "Pâtes simples sur le balcon, enfants nourris tôt.",
             "it": "Pasta semplice sul balcone, bambini a cena presto.",
             "de": "Einfache Pasta auf dem Balkon, die Kinder früh gefüttert.",
             "es": "Pasta sencilla en el balcón, niños con la cena temprano.",
@@ -4150,7 +4150,7 @@
       "ageNotes": {
         "baby": {
           "en": "The kitchenette helps with bottles and meals, though the hillside means slopes with a pram.",
-          "fr": "La kitchenette aide pour les biberons et les repas, meme si le relief implique des pentes avec la poussette.",
+          "fr": "La kitchenette aide pour les biberons et les repas, même si le relief implique des pentes avec la poussette.",
           "it": "L'angolo cottura aiuta con i biberon e i pasti, anche se la collina comporta pendenze con il passeggino.",
           "de": "Die Kochnische hilft bei Fläschchen und Mahlzeiten, auch wenn der Hang Steigungen mit dem Kinderwagen bedeutet.",
           "es": "La cocina pequeña ayuda con los biberones y las comidas, aunque la ladera implica pendientes con el carrito.",
@@ -4166,7 +4166,7 @@
         },
         "kid": {
           "en": "Pools, a kids club and boat trips from Kardamena keep this age content.",
-          "fr": "Piscines, club enfants et sorties en bateau depuis Kardamena contentent cet age.",
+          "fr": "Piscines, club enfants et sorties en bateau depuis Kardamena contentent cet âge.",
           "it": "Piscine, un miniclub e le gite in barca da Kardamena tengono contenta questa fascia d'età.",
           "de": "Pools, ein Kinderclub und Bootsausflüge von Kardamena halten diese Altersgruppe zufrieden.",
           "es": "Piscinas, un club infantil y excursiones en barco desde Kardamena mantienen contenta a esta edad.",
@@ -4174,7 +4174,7 @@
         },
         "teen": {
           "en": "Quieter than the big resorts, but boat trips and Kardamena nearby give teens options.",
-          "fr": "Plus calme que les grands resorts, mais les sorties en bateau et Kardamena tout pres offrent des options aux ados.",
+          "fr": "Plus calme que les grands resorts, mais les sorties en bateau et Kardamena tout près offrent des options aux ados.",
           "it": "Più tranquillo dei grandi resort, ma le gite in barca e Kardamena vicina offrono opzioni ai teenager.",
           "de": "Ruhiger als die großen Resorts, aber Bootsausflüge und das nahe Kardamena bieten Teenagern Optionen.",
           "es": "Más tranquilo que los grandes resorts, pero las excursiones en barco y Kardamena cerca dan opciones a los adolescentes.",
@@ -4193,7 +4193,7 @@
           },
           "a": {
             "en": "Yes, the village-style apartments have a kitchenette, so you can self-cater, while the hotel side offers board options.",
-            "fr": "Oui, les appartements de type village ont une kitchenette, vous pouvez donc cuisiner, tandis que le cote hotel propose des formules en pension.",
+            "fr": "Oui, les appartements de type village ont une kitchenette, vous pouvez donc cuisiner, tandis que le côté hôtel propose des formules en pension.",
             "it": "Sì, gli appartamenti in stile villaggio hanno un angolo cottura, quindi potete cucinare in autonomia, mentre il lato hotel offre formule in pensione.",
             "de": "Ja, die Apartments im Dorfstil haben eine Kochnische, sodass Sie sich selbst verpflegen können, während die Hotelseite Verpflegungsoptionen bietet.",
             "es": "Sí, los apartamentos tipo pueblo tienen una cocina pequeña, así que podéis cocinar por vuestra cuenta, mientras que el lado hotel ofrece opciones de pensión.",
@@ -4211,7 +4211,7 @@
           },
           "a": {
             "en": "The resort's own beach is calm, sandy and quiet, a gentle spot for toddlers and first paddles.",
-            "fr": "La plage privee du resort est calme, sableuse et tranquille, un endroit doux pour les tout-petits et les premieres baignades.",
+            "fr": "La plage privée du resort est calme, sableuse et tranquille, un endroit doux pour les tout-petits et les premières baignades.",
             "it": "La spiaggia privata del resort è calma, sabbiosa e tranquilla, un posto dolce per i più piccoli e i primi bagni.",
             "de": "Der eigene Strand des Resorts ist ruhig, sandig und still, ein sanfter Ort für Kleinkinder und erste Planschversuche.",
             "es": "La playa propia del resort es tranquila, de arena y apacible, un lugar suave para los más pequeños y los primeros chapoteos.",
@@ -4229,7 +4229,7 @@
           },
           "a": {
             "en": "A hire car is not essential but helps, as the resort is quieter and a little out of Kardamena's centre.",
-            "fr": "Une voiture de location n'est pas indispensable mais aide, car le resort est plus calme et un peu a l'ecart du centre de Kardamena.",
+            "fr": "Une voiture de location n'est pas indispensable mais aide, car le resort est plus calme et un peu à l'écart du centre de Kardamena.",
             "it": "Un'auto a noleggio non è indispensabile ma aiuta, dato che il resort è più tranquillo e un po' fuori dal centro di Kardamena.",
             "de": "Ein Mietwagen ist nicht unbedingt nötig, hilft aber, da das Resort ruhiger und etwas außerhalb des Zentrums von Kardamena liegt.",
             "es": "Un coche de alquiler no es imprescindible pero ayuda, ya que el resort es más tranquilo y algo alejado del centro de Kardamena.",
@@ -4242,7 +4242,7 @@
   "destinationMeta": {
     "heroKicker": {
       "en": "Flat, cycle-friendly and full of long shallow beaches",
-      "fr": "Plate, propice au velo et bordee de longues plages peu profondes",
+      "fr": "Plate, propice au vélo et bordée de longues plages peu profondes",
       "it": "Pianeggiante, ideale per la bici e ricca di lunghe spiagge poco profonde",
       "de": "Flach, fahrradfreundlich und voller langer, flacher Strände",
       "es": "Llana, ideal para la bici y llena de largas playas poco profundas",
@@ -4250,7 +4250,7 @@
     },
     "intro": {
       "en": "Kos is the easy-going family island of the Dodecanese, sitting in the eastern Aegean within sight of the Turkish coast. It is famously flat and cycle-friendly, with dedicated bike lanes around Kos Town and Tigaki, and it is ringed by long, shallow sandy beaches at Tigaki, Marmari and Mastichari that are made for toddlers and sandcastles. Add ancient sights like the Asklepion, a sunset village at Zia and boat trips to the Nisyros volcano, and you have a destination that keeps every age happy. The one thing to plan around is the afternoon meltemi breeze, so many families do beach mornings and pool afternoons.",
-      "fr": "Kos est l'ile familiale facile a vivre du Dodecanese, posee dans l'est de la mer Egee, en vue de la cote turque. Elle est reputee plate et propice au velo, avec des pistes cyclables dediees autour de Kos-ville et de Tigaki, et elle est ceinturee de longues plages de sable peu profondes a Tigaki, Marmari et Mastichari, faites pour les tout-petits et les chateaux de sable. Ajoutez des sites antiques comme l'Asklepion, un village au coucher du soleil a Zia et des sorties en bateau vers le volcan de Nisyros, et vous obtenez une destination qui plait a tous les ages. La seule chose a anticiper est la brise meltemi de l'apres-midi, beaucoup de familles font donc plage le matin et piscine l'apres-midi.",
+      "fr": "Kos est l'île familiale facile à vivre du Dodécanèse, posée dans l'est de la mer Égée, en vue de la côte turque. Elle est réputée plate et propice au vélo, avec des pistes cyclables dédiées autour de Kos-ville et de Tigaki, et elle est ceinturée de longues plages de sable peu profondes à Tigaki, Marmari et Mastichari, faites pour les tout-petits et les châteaux de sable. Ajoutez des sites antiques comme l'Asklepion, un village au coucher du soleil à Zia et des sorties en bateau vers le volcan de Nisyros, et vous obtenez une destination qui plaît à tous les âges. La seule chose à anticiper est la brise meltemi de l'après-midi, beaucoup de familles font donc plage le matin et piscine l'après-midi.",
       "it": "Kos è l'isola familiare e rilassata del Dodecaneso, nell'Egeo orientale, in vista della costa turca. È celebre per essere pianeggiante e ideale per la bici, con piste ciclabili dedicate attorno a Kos Town e Tigaki, ed è circondata da lunghe spiagge sabbiose poco profonde a Tigaki, Marmari e Mastichari, fatte per i più piccoli e i castelli di sabbia. Aggiungete siti antichi come l'Asklepion, un villaggio al tramonto a Zia e le gite in barca al vulcano di Nisyros, e avete una destinazione che rende felice ogni età. L'unica cosa da mettere in conto è la brezza meltemi del pomeriggio, quindi molte famiglie fanno spiaggia al mattino e piscina nel pomeriggio.",
       "de": "Kos ist die entspannte Familieninsel des Dodekanes, in der östlichen Ägäis in Sichtweite der türkischen Küste gelegen. Sie ist bekannt flach und fahrradfreundlich, mit eigenen Radwegen rund um Kos Town und Tigaki, und von langen, flachen Sandstränden bei Tigaki, Marmari und Mastichari gesäumt, die wie geschaffen sind für Kleinkinder und Sandburgen. Fügen Sie antike Sehenswürdigkeiten wie das Asklepion, ein Sonnenuntergangsdorf in Zia und Bootsausflüge zum Vulkan von Nisyros hinzu, und Sie haben ein Reiseziel, das jedes Alter glücklich macht. Das Einzige, worauf man sich einstellen sollte, ist die nachmittägliche Meltemi-Brise, weshalb viele Familien vormittags an den Strand und nachmittags an den Pool gehen.",
       "es": "Kos es la isla familiar y tranquila del Dodecaneso, en el Egeo oriental y a la vista de la costa turca. Es famosa por ser llana e ideal para la bici, con carriles bici propios alrededor de Kos Town y Tigaki, y está rodeada de largas playas de arena poco profundas en Tigaki, Marmari y Mastichari, hechas para los más pequeños y los castillos de arena. Añadid lugares antiguos como el Asklepion, un pueblo de puesta de sol en Zia y excursiones en barco al volcán de Nisyros, y tenéis un destino que hace feliz a todas las edades. Lo único que hay que prever es la brisa meltemi de la tarde, por eso muchas familias hacen playa por la mañana y piscina por la tarde.",
@@ -4264,10 +4264,10 @@
         "Big family resorts with free kids clubs, plus a water park near Mastichari"
       ],
       "fr": [
-        "Longues plages de sable peu profondes a Tigaki, Marmari et Mastichari, ideales pour les tout-petits",
-        "Reputee plate et propice au velo, avec des pistes cyclables sures autour de Kos-ville et de Tigaki",
-        "Soleil d'ete fiable de mai a octobre pour des journees plage assurees",
-        "Grands resorts familiaux avec clubs enfants gratuits, et un parc aquatique pres de Mastichari"
+        "Longues plages de sable peu profondes à Tigaki, Marmari et Mastichari, idéales pour les tout-petits",
+        "Réputée plate et propice au vélo, avec des pistes cyclables sûres autour de Kos-ville et de Tigaki",
+        "Soleil d'été fiable de mai à octobre pour des journées plage assurées",
+        "Grands resorts familiaux avec clubs enfants gratuits, et un parc aquatique près de Mastichari"
       ],
       "it": [
         "Lunghe spiagge sabbiose poco profonde a Tigaki, Marmari e Mastichari, ideali per i più piccoli",
@@ -4302,10 +4302,10 @@
         "Kardamena and Kefalos: the big resort hub in the south and the calm bays of the southwest"
       ],
       "fr": [
-        "Kos-ville et Psalidi: la base propice au velo avec le chateau, le port et des resorts faciles a proximite",
-        "Tigaki et Marmari: longues plages de sable peu profondes et le lac sale aux flamants, ideales pour les tout-petits",
-        "Mastichari: un village de pecheurs tranquille avec une plage de sable et le parc aquatique Lido tout pres",
-        "Kardamena et Kefalos: le grand pole de resorts au sud et les baies calmes du sud-ouest"
+        "Kos-ville et Psalidi: la base propice au vélo avec le château, le port et des resorts faciles à proximité",
+        "Tigaki et Marmari: longues plages de sable peu profondes et le lac salé aux flamants, idéales pour les tout-petits",
+        "Mastichari: un village de pêcheurs tranquille avec une plage de sable et le parc aquatique Lido tout près",
+        "Kardamena et Kefalos: le grand pôle de resorts au sud et les baies calmes du sud-ouest"
       ],
       "it": [
         "Kos Town e Psalidi: la base ideale per la bici con il castello, il porto e resort comodi nelle vicinanze",
@@ -4348,7 +4348,7 @@
         "value": "290+",
         "label": {
           "en": "Kilometres of coastline",
-          "fr": "Kilometres de littoral",
+          "fr": "Kilomètres de littoral",
           "it": "Chilometri di costa",
           "de": "Kilometer Küste",
           "es": "Kilómetros de costa",
@@ -4383,7 +4383,7 @@
         "emoji": "🚲",
         "name": {
           "en": "Cycle Kos Town",
-          "fr": "Velo a Kos-ville",
+          "fr": "Vélo à Kos-ville",
           "it": "In bici a Kos Town",
           "de": "Kos Town mit dem Rad",
           "es": "En bici por Kos Town",
@@ -4391,7 +4391,7 @@
         },
         "detail": {
           "en": "Kos is flat with proper bike lanes, so family bikes along the seafront to the harbour and castle are a highlight.",
-          "fr": "Kos est plate avec de vraies pistes cyclables, une balade a velo en famille le long du front de mer jusqu'au port et au chateau est un moment fort.",
+          "fr": "Kos est plate avec de vraies pistes cyclables, une balade à vélo en famille le long du front de mer jusqu'au port et au château est un moment fort.",
           "it": "Kos è pianeggiante con vere piste ciclabili, quindi una pedalata in famiglia sul lungomare fino al porto e al castello è un momento clou.",
           "de": "Kos ist flach mit richtigen Radwegen, daher ist eine Familienradtour am Meer entlang zum Hafen und zur Burg ein Höhepunkt.",
           "es": "Kos es llana con carriles bici de verdad, así que un paseo en bici en familia por el paseo marítimo hasta el puerto y el castillo es un momento destacado.",
@@ -4414,7 +4414,7 @@
         "emoji": "🦩",
         "name": {
           "en": "Tigaki salt lake",
-          "fr": "Lac sale de Tigaki",
+          "fr": "Lac salé de Tigaki",
           "it": "Lago salato di Tigaki",
           "de": "Salzsee von Tigaki",
           "es": "Lago salado de Tigaki",
@@ -4422,7 +4422,7 @@
         },
         "detail": {
           "en": "The shallow salt lake behind Tigaki draws pink flamingos in spring, an easy free nature stop with a picnic.",
-          "fr": "Le lac sale peu profond derriere Tigaki attire les flamants roses au printemps, une pause nature facile et gratuite avec un pique-nique.",
+          "fr": "Le lac salé peu profond derrière Tigaki attire les flamants roses au printemps, une pause nature facile et gratuite avec un pique-nique.",
           "it": "Il lago salato poco profondo dietro Tigaki attira i fenicotteri rosa in primavera, una facile e gratuita pausa nella natura con un picnic.",
           "de": "Der flache Salzsee hinter Tigaki zieht im Frühling rosa Flamingos an, ein einfacher, kostenloser Naturstopp mit Picknick.",
           "es": "El lago salado poco profundo detrás de Tigaki atrae flamencos rosados en primavera, una parada en la naturaleza fácil y gratuita con un pícnic.",
@@ -4454,7 +4454,7 @@
         },
         "detail": {
           "en": "The ancient healing sanctuary of Hippocrates, on terraces with sea views, makes a short, memorable history stop.",
-          "fr": "L'ancien sanctuaire de guerison d'Hippocrate, sur des terrasses avec vue mer, offre une escale histoire courte et memorable.",
+          "fr": "L'ancien sanctuaire de guérison d'Hippocrate, sur des terrasses avec vue mer, offre une escale histoire courte et mémorable.",
           "it": "L'antico santuario di guarigione di Ippocrate, su terrazze con vista mare, è una breve e memorabile tappa di storia.",
           "de": "Das antike Heilheiligtum des Hippokrates, auf Terrassen mit Meerblick, ist ein kurzer, unvergesslicher Geschichtsstopp.",
           "es": "El antiguo santuario de curación de Hipócrates, en terrazas con vistas al mar, es una parada de historia corta y memorable.",
@@ -4477,7 +4477,7 @@
         "emoji": "🌋",
         "name": {
           "en": "Boat trip to Nisyros",
-          "fr": "Sortie en bateau a Nisyros",
+          "fr": "Sortie en bateau à Nisyros",
           "it": "Gita in barca a Nisyros",
           "de": "Bootsausflug nach Nisyros",
           "es": "Excursión en barco a Nisyros",
@@ -4485,7 +4485,7 @@
         },
         "detail": {
           "en": "Day boats reach the Nisyros volcano and its steaming crater, plus Kalymnos, a big-adventure day for older kids.",
-          "fr": "Des bateaux a la journee rejoignent le volcan de Nisyros et son cratere fumant, ainsi que Kalymnos, une journee grande aventure pour les grands.",
+          "fr": "Des bateaux à la journée rejoignent le volcan de Nisyros et son cratère fumant, ainsi que Kalymnos, une journée grande aventure pour les grands.",
           "it": "Le barche in giornata raggiungono il vulcano di Nisyros e il suo cratere fumante, oltre a Kalymnos, una giornata di grande avventura per i bambini più grandi.",
           "de": "Tagesboote erreichen den Vulkan von Nisyros und seinen dampfenden Krater sowie Kalymnos, ein großer Abenteuertag für größere Kinder.",
           "es": "Los barcos de un día llegan al volcán de Nisyros y su cráter humeante, además de Kalymnos, un día de gran aventura para los niños mayores.",
@@ -4509,7 +4509,7 @@
       {
         "q": {
           "en": "When is the best time to visit Kos with kids?",
-          "fr": "Quelle est la meilleure periode pour venir a Kos avec des enfants?",
+          "fr": "Quelle est la meilleure période pour venir à Kos avec des enfants?",
           "it": "Qual è il periodo migliore per visitare Kos con i bambini?",
           "de": "Wann ist die beste Zeit, um Kos mit Kindern zu besuchen?",
           "es": "¿Cuándo es la mejor época para visitar Kos con niños?",
@@ -4517,7 +4517,7 @@
         },
         "a": {
           "en": "May, June, September and October are ideal, with reliable sun and warm sea but without the peak heat and crowds of July and August.",
-          "fr": "Mai, juin, septembre et octobre sont ideaux, avec un soleil fiable et une mer chaude mais sans la chaleur et la foule de juillet et aout.",
+          "fr": "Mai, juin, septembre et octobre sont idéaux, avec un soleil fiable et une mer chaude mais sans la chaleur et la foule de juillet et août.",
           "it": "Maggio, giugno, settembre e ottobre sono ideali, con sole affidabile e mare caldo ma senza il caldo e la folla di punta di luglio e agosto.",
           "de": "Mai, Juni, September und Oktober sind ideal, mit verlässlicher Sonne und warmem Meer, aber ohne die Spitzenhitze und den Andrang von Juli und August.",
           "es": "Mayo, junio, septiembre y octubre son ideales, con sol fiable y mar cálido pero sin el calor y las multitudes punta de julio y agosto.",
@@ -4535,7 +4535,7 @@
         },
         "a": {
           "en": "Tigaki, Marmari and Mastichari have the longest, shallowest sandy beaches, best paddled in the calmer mornings before the breeze picks up.",
-          "fr": "Tigaki, Marmari et Mastichari ont les plus longues plages de sable peu profondes, ideales le matin plus calme avant que la brise ne se leve.",
+          "fr": "Tigaki, Marmari et Mastichari ont les plus longues plages de sable peu profondes, idéales le matin plus calme avant que la brise ne se lève.",
           "it": "Tigaki, Marmari e Mastichari hanno le spiagge sabbiose più lunghe e più basse, ideali per sguazzare nelle mattine più calme prima che si alzi la brezza.",
           "de": "Tigaki, Marmari und Mastichari haben die längsten, flachsten Sandstrände, am besten zum Plantschen in den ruhigeren Morgenstunden, bevor die Brise auffrischt.",
           "es": "Tigaki, Marmari y Mastichari tienen las playas de arena más largas y menos profundas, mejor para chapotear en las mañanas más tranquilas antes de que se levante la brisa.",
@@ -4553,7 +4553,7 @@
         },
         "a": {
           "en": "The meltemi breeze often builds in the afternoons, especially in high summer. It suits windsurfers, so many families do beach mornings and pool afternoons.",
-          "fr": "La brise meltemi se leve souvent l'apres-midi, surtout en plein ete. Elle convient aux planchistes, beaucoup de familles font donc plage le matin et piscine l'apres-midi.",
+          "fr": "La brise meltemi se lève souvent l'après-midi, surtout en plein été. Elle convient aux planchistes, beaucoup de familles font donc plage le matin et piscine l'après-midi.",
           "it": "La brezza meltemi spesso rinforza nel pomeriggio, soprattutto in piena estate. Va bene per i windsurfisti, quindi molte famiglie fanno spiaggia al mattino e piscina nel pomeriggio.",
           "de": "Die Meltemi-Brise frischt oft nachmittags auf, besonders im Hochsommer. Sie eignet sich für Windsurfer, weshalb viele Familien vormittags an den Strand und nachmittags an den Pool gehen.",
           "es": "La brisa meltemi suele arreciar por las tardes, sobre todo en pleno verano. Va bien a los windsurfistas, así que muchas familias hacen playa por la mañana y piscina por la tarde.",
@@ -4571,7 +4571,7 @@
         },
         "a": {
           "en": "If you stay near Kos Town you can cycle and bus, but a car makes the salt lake, Zia, Kefalos and the far beaches much easier with children.",
-          "fr": "Si vous logez pres de Kos-ville, velo et bus suffisent, mais une voiture rend le lac sale, Zia, Kefalos et les plages eloignees bien plus faciles avec des enfants.",
+          "fr": "Si vous logez près de Kos-ville, vélo et bus suffisent, mais une voiture rend le lac salé, Zia, Kefalos et les plages éloignées bien plus faciles avec des enfants.",
           "it": "Se alloggiate vicino a Kos Town potete muovervi in bici e in autobus, ma un'auto rende molto più facili il lago salato, Zia, Kefalos e le spiagge più lontane con i bambini.",
           "de": "Wenn Sie in der Nähe von Kos Town wohnen, kommen Sie mit Rad und Bus zurecht, aber ein Auto macht den Salzsee, Zia, Kefalos und die entfernten Strände mit Kindern viel einfacher.",
           "es": "Si os alojáis cerca de Kos Town podéis ir en bici y autobús, pero un coche hace mucho más fáciles el lago salado, Zia, Kefalos y las playas lejanas con niños.",
@@ -4581,7 +4581,7 @@
     ],
     "parentTip": {
       "en": "Rent family bikes for at least a day, Kos is flat with real bike lanes and it is the loveliest, safest way to see Kos Town and the coast with children.",
-      "fr": "Louez des velos familiaux pour au moins une journee, Kos est plate avec de vraies pistes cyclables et c'est la maniere la plus agreable et la plus sure de decouvrir Kos-ville et la cote avec des enfants.",
+      "fr": "Louez des vélos familiaux pour au moins une journée, Kos est plate avec de vraies pistes cyclables et c'est la manière la plus agréable et la plus sûre de découvrir Kos-ville et la côte avec des enfants.",
       "it": "Noleggiate biciclette per famiglie per almeno un giorno: Kos è pianeggiante con vere piste ciclabili ed è il modo più bello e sicuro per scoprire Kos Town e la costa con i bambini.",
       "de": "Mieten Sie mindestens für einen Tag Familienräder: Kos ist flach mit echten Radwegen und es ist die schönste und sicherste Art, Kos Town und die Küste mit Kindern zu erkunden.",
       "es": "Alquilad bicis familiares al menos un día: Kos es llana con carriles bici de verdad y es la forma más bonita y segura de conocer Kos Town y la costa con niños.",
@@ -4589,7 +4589,7 @@
     },
     "goodToKnow": {
       "en": "Kos airport is near Antimachia in the middle of the island. Kos Town and Psalidi are about 25 minutes away, Kardamena and Mastichari roughly 15 to 20 minutes, and Kefalos in the southwest around 40 minutes, so factor transfer time when choosing your base with young children. The island is small and flat, which makes buses, taxis and hire cars all straightforward.",
-      "fr": "L'aeroport de Kos est pres d'Antimachia, au centre de l'ile. Kos-ville et Psalidi sont a environ 25 minutes, Kardamena et Mastichari a peu pres 15 a 20 minutes, et Kefalos au sud-ouest environ 40 minutes, tenez donc compte du temps de transfert au moment de choisir votre base avec de jeunes enfants. L'ile est petite et plate, ce qui rend bus, taxis et voitures de location tous simples a utiliser.",
+      "fr": "L'aéroport de Kos est près d'Antimachia, au centre de l'île. Kos-ville et Psalidi sont à environ 25 minutes, Kardamena et Mastichari à peu près 15 à 20 minutes, et Kefalos au sud-ouest environ 40 minutes, tenez donc compte du temps de transfert au moment de choisir votre base avec de jeunes enfants. L'île est petite et plate, ce qui rend bus, taxis et voitures de location tous simples à utiliser.",
       "it": "L'aeroporto di Kos è vicino ad Antimachia, al centro dell'isola. Kos Town e Psalidi sono a circa 25 minuti, Kardamena e Mastichari all'incirca 15-20 minuti, e Kefalos nel sud-ovest circa 40 minuti, quindi tenete conto del tempo di transfer nello scegliere la vostra base con bambini piccoli. L'isola è piccola e pianeggiante, il che rende semplici autobus, taxi e auto a noleggio.",
       "de": "Der Flughafen von Kos liegt bei Antimachia in der Inselmitte. Kos Town und Psalidi sind etwa 25 Minuten entfernt, Kardamena und Mastichari rund 15 bis 20 Minuten und Kefalos im Südwesten etwa 40 Minuten, kalkulieren Sie also die Transferzeit ein, wenn Sie Ihre Basis mit kleinen Kindern wählen. Die Insel ist klein und flach, was Busse, Taxis und Mietwagen allesamt unkompliziert macht.",
       "es": "El aeropuerto de Kos está cerca de Antimachia, en el centro de la isla. Kos Town y Psalidi están a unos 25 minutos, Kardamena y Mastichari aproximadamente 15 a 20 minutos, y Kefalos en el suroeste alrededor de 40 minutos, así que tened en cuenta el tiempo de traslado al elegir vuestra base con niños pequeños. La isla es pequeña y llana, lo que hace sencillos los autobuses, taxis y coches de alquiler.",

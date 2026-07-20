@@ -50,7 +50,7 @@
       },
       "roomsSummary": {
         "en": "Studios to two-bedroom apartments, all with a real equipped kitchen and a proper dining area. Layouts are built for families: cosy studios hide living-room bunk beds, while one and two-bedroom suites give parents a separate room. Most units genuinely sleep four to six, and cots and rails are free on request.",
-        "fr": "Du studio a l'appartement deux chambres, tous avec vraie cuisine equipee et coin repas. Les agencements sont penses pour les familles : les studios cachent des lits superposes dans le salon, et les suites une ou deux chambres offrent aux parents une piece a part. La plupart accueillent vraiment quatre a six personnes, et lits bebe et barrieres sont gratuits sur demande.",
+        "fr": "Du studio à l'appartement deux chambres, tous avec vraie cuisine équipée et coin repas. Les agencements sont pensés pour les familles : les studios cachent des lits superposés dans le salon, et les suites une ou deux chambres offrent aux parents une pièce à part. La plupart accueillent vraiment quatre à six personnes, et lits bébé et barrières sont gratuits sur demande.",
         "it": "Dai monolocali agli appartamenti con due camere, tutti con una vera cucina attrezzata e un vero angolo pranzo. Gli spazi sono pensati per le famiglie: i monolocali più accoglienti nascondono letti a castello in soggiorno, mentre le suite con una o due camere regalano ai genitori una stanza separata. La maggior parte degli alloggi ospita davvero da quattro a sei persone, e culle e sbarre di protezione sono gratuite su richiesta.",
         "de": "Vom Studio bis zum Apartment mit zwei Schlafzimmern, alle mit einer echten, voll ausgestatteten Küche und einem richtigen Essbereich. Die Grundrisse sind für Familien gemacht: In den gemütlichen Studios verstecken sich Etagenbetten im Wohnbereich, während die Suiten mit einem oder zwei Schlafzimmern den Eltern ein eigenes Zimmer bieten. Die meisten Einheiten bieten wirklich Platz für vier bis sechs Personen, und Reisebetten sowie Bettgitter gibt es auf Wunsch kostenlos.",
         "es": "Desde estudios hasta apartamentos de dos habitaciones, todos con una cocina de verdad totalmente equipada y una zona de comedor como es debido. La distribución está pensada para las familias: los estudios más acogedores esconden literas en el salón, mientras que las suites de una o dos habitaciones dan a los padres un cuarto aparte. La mayoría de los alojamientos duermen de verdad de cuatro a seis personas, y las cunas y barreras son gratuitas si las pides.",
@@ -58,7 +58,7 @@
       },
       "intro": {
         "en": "Billed as the world's first city-centre family hotel, Martinhal Chiado is the rare Lisbon address that treats children as guests, not an afterthought. You get apartment living with hotel service in the heart of the old town, plus a free supervised kids club so parents can slip out for dinner.",
-        "fr": "Presente comme le premier hotel familial en plein centre-ville, le Martinhal Chiado est cette adresse rare a Lisbonne qui considere les enfants comme de vrais clients. On y trouve le confort d'un appartement avec le service d'un hotel, au coeur de la vieille ville, plus un club enfants encadre et gratuit pour souffler le soir.",
+        "fr": "Présenté comme le premier hôtel familial en plein centre-ville, le Martinhal Chiado est cette adresse rare à Lisbonne qui considère les enfants comme de vrais clients. On y trouve le confort d'un appartement avec le service d'un hôtel, au coeur de la vieille ville, plus un club enfants encadré et gratuit pour souffler le soir.",
         "it": "Presentato come il primo hotel per famiglie in pieno centro al mondo, il Martinhal Chiado è quel raro indirizzo di Lisbona che tratta i bambini come veri ospiti e non come un dettaglio secondario. Offre il comfort di un appartamento con il servizio di un hotel nel cuore della città vecchia, più un miniclub gratuito e sorvegliato perché i genitori possano uscire a cena.",
         "de": "Als weltweit erstes Familienhotel im Stadtzentrum beworben, ist das Martinhal Chiado eine der seltenen Adressen Lissabons, die Kinder als echte Gäste behandelt und nicht als Nebensache. Sie wohnen wie im Apartment, genießen aber Hotelservice mitten in der Altstadt, dazu einen kostenlosen, betreuten Kinderclub, damit die Eltern abends zum Essen ausgehen können.",
         "es": "Presentado como el primer hotel familiar en pleno centro del mundo, el Martinhal Chiado es esa rara dirección de Lisboa que trata a los niños como huéspedes de verdad y no como algo secundario. Tienes la comodidad de un apartamento con el servicio de un hotel en el corazón del casco antiguo, más un club infantil gratuito y supervisado para que los padres puedan escaparse a cenar.",
@@ -74,12 +74,12 @@
           "Evening babysitting so parents can enjoy Chiado's restaurants"
         ],
         "fr": [
-          "Club enfants encadre et gratuit de 6 mois a 9 ans, ouvert de 9h30 a 17h30",
-          "Cuisines entierement equipees (four, lave-vaisselle, machine a cafe) dans chaque appartement",
-          "Lits superposes dans le salon et chambres communicantes pour rester en famille",
-          "Materiel bebe pret : lit parapluie, chaise haute, chauffe-biberon, ecoute-bebe",
-          "A six minutes a pied du metro Cais do Sodre et des bords du Tage",
-          "Garde d'enfants en soiree pour profiter des restaurants du Chiado"
+          "Club enfants encadré et gratuit de 6 mois à 9 ans, ouvert de 9h30 à 17h30",
+          "Cuisines entièrement équipées (four, lave-vaisselle, machine à café) dans chaque appartement",
+          "Lits superposés dans le salon et chambres communicantes pour rester en famille",
+          "Matériel bébé prêt : lit parapluie, chaise haute, chauffe-biberon, écoute-bébé",
+          "À six minutes à pied du métro Cais do Sodre et des bords du Tage",
+          "Garde d'enfants en soirée pour profiter des restaurants du Chiado"
         ],
         "it": [
           "Miniclub gratuito e sorvegliato dai 6 mesi ai 9 anni, aperto dalle 09:30 alle 17:30",
@@ -122,8 +122,8 @@
         ],
         "fr": [
           "Les meilleures vraies configurations familiales du centre de Lisbonne",
-          "Le club enfants gratuit est un service serieux et bien tenu",
-          "Les cuisines equipees allegent le budget repas des petits difficiles"
+          "Le club enfants gratuit est un service sérieux et bien tenu",
+          "Les cuisines équipées allègent le budget repas des petits difficiles"
         ],
         "it": [
           "Le migliori vere camere per famiglie del centro di Lisbona",
@@ -153,9 +153,9 @@
           "Chiado's cobbled hills are hard work with a stroller"
         ],
         "fr": [
-          "Pas de piscine : les apres-midis d'ete demandent un plan B",
-          "Tarifs eleves, surtout en haute saison",
-          "Les rues pavees et pentues du Chiado sont penibles avec une poussette"
+          "Pas de piscine : les après-midis d'été demandent un plan B",
+          "Tarifs élevés, surtout en haute saison",
+          "Les rues pavées et pentues du Chiado sont pénibles avec une poussette"
         ],
         "it": [
           "Niente piscina, quindi i pomeriggi d'estate richiedono un piano",
@@ -180,7 +180,7 @@
       },
       "verdict": {
         "en": "The gold standard for families who want space, a kitchen and a kids club without leaving the centre of Lisbon.",
-        "fr": "La reference pour les familles qui veulent de l'espace, une cuisine et un club enfants sans quitter le centre de Lisbonne.",
+        "fr": "La référence pour les familles qui veulent de l'espace, une cuisine et un club enfants sans quitter le centre de Lisbonne.",
         "it": "Il punto di riferimento per le famiglie che vogliono spazio, una cucina e un miniclub senza lasciare il centro di Lisbona.",
         "de": "Der Maßstab für Familien, die Platz, eine Küche und einen Kinderclub wollen, ohne das Zentrum von Lissabon zu verlassen.",
         "es": "El referente para las familias que quieren espacio, una cocina y un club infantil sin salir del centro de Lisboa.",
@@ -188,7 +188,7 @@
       },
       "parentTip": {
         "en": "Book a one-bedroom with the living-room sofa bed rather than a studio: the extra door means lights-out for the kids doesn't mean lights-out for you.",
-        "fr": "Reservez une chambre avec canape-lit au salon plutot qu'un studio : la porte en plus permet de coucher les enfants sans vous coucher aussi.",
+        "fr": "Réservez une chambre avec canapé-lit au salon plutôt qu'un studio : la porte en plus permet de coucher les enfants sans vous coucher aussi.",
         "it": "Prenota un appartamento con una camera e divano letto in soggiorno invece di un monolocale: la porta in più fa sì che spegnere la luce ai bambini non significhi spegnerla anche per voi.",
         "de": "Buchen Sie ein Apartment mit einem Schlafzimmer und Schlafsofa im Wohnbereich statt eines Studios: Die zusätzliche Tür bedeutet, dass Licht aus für die Kinder nicht Licht aus für Sie heißt.",
         "es": "Reserva un apartamento de un dormitorio con sofá cama en el salón en lugar de un estudio: la puerta de más hace que apagar la luz a los niños no signifique apagarla para ti.",
@@ -207,7 +207,7 @@
           },
           "value": {
             "en": "4 to 6 per apartment",
-            "fr": "4 a 6 par appartement",
+            "fr": "4 à 6 par appartement",
             "it": "Da 4 a 6 per appartamento",
             "de": "4 bis 6 pro Apartment",
             "es": "De 4 a 6 por apartamento",
@@ -226,7 +226,7 @@
           },
           "value": {
             "en": "Free, 6 months to 9 years",
-            "fr": "Gratuit, 6 mois a 9 ans",
+            "fr": "Gratuit, 6 mois à 9 ans",
             "it": "Gratuito, da 6 mesi a 9 anni",
             "de": "Kostenlos, 6 Monate bis 9 Jahre",
             "es": "Gratis, de 6 meses a 9 años",
@@ -245,7 +245,7 @@
           },
           "value": {
             "en": "Full kitchen in every unit",
-            "fr": "Cuisine complete partout",
+            "fr": "Cuisine complète partout",
             "it": "Cucina completa in ogni alloggio",
             "de": "Voll ausgestattete Küche in jeder Einheit",
             "es": "Cocina completa en cada alojamiento",
@@ -302,7 +302,7 @@
           },
           "value": {
             "en": "Cots and high chairs free",
-            "fr": "Lits bebe et chaises hautes gratuits",
+            "fr": "Lits bébé et chaises hautes gratuits",
             "it": "Culle e seggioloni gratuiti",
             "de": "Reisebetten und Hochstühle kostenlos",
             "es": "Cunas y tronas gratis",
@@ -323,7 +323,7 @@
           },
           "detail": {
             "en": "Hop the famous yellow tram climbing from Baixa up to the castle; kids love the rattle and the steep turns.",
-            "fr": "Grimpez dans le celebre tram jaune qui monte de la Baixa au chateau : les enfants adorent le vacarme et les virages raides.",
+            "fr": "Grimpez dans le célèbre tram jaune qui monte de la Baixa au château : les enfants adorent le vacarme et les virages raides.",
             "it": "Salite sul celebre tram giallo che dalla Baixa sale fino al castello: i bambini adorano il fracasso e le curve ripide.",
             "de": "Steigen Sie in die berühmte gelbe Tram, die von der Baixa hinauf zur Burg fährt; Kinder lieben das Rattern und die steilen Kurven.",
             "es": "Súbete al famoso tranvía amarillo que sube de la Baixa al castillo; a los niños les encanta el traqueteo y las curvas empinadas.",
@@ -347,7 +347,7 @@
           "emoji": "🏰",
           "name": {
             "en": "Castelo de Sao Jorge",
-            "fr": "Chateau de Sao Jorge",
+            "fr": "Château de Sao Jorge",
             "it": "Castello di Sao Jorge",
             "de": "Castelo de Sao Jorge",
             "es": "Castillo de Sao Jorge",
@@ -355,7 +355,7 @@
           },
           "detail": {
             "en": "Ramparts to run along, peacocks in the gardens and the best view over the city.",
-            "fr": "Des remparts a arpenter, des paons dans les jardins et la plus belle vue sur la ville.",
+            "fr": "Des remparts à arpenter, des paons dans les jardins et la plus belle vue sur la ville.",
             "it": "Bastioni da percorrere di corsa, pavoni nei giardini e la vista più bella sulla città.",
             "de": "Wehrgänge zum Entlanglaufen, Pfauen in den Gärten und der beste Blick über die Stadt.",
             "es": "Murallas por las que correr, pavos reales en los jardines y las mejores vistas de la ciudad.",
@@ -386,7 +386,7 @@
           },
           "detail": {
             "en": "A wrought-iron lift straight out of a storybook, ending on a rooftop viewpoint.",
-            "fr": "Un ascenseur en fer forge digne d'un livre d'images, qui debouche sur un belvedere.",
+            "fr": "Un ascenseur en fer forgé digne d'un livre d'images, qui débouche sur un belvédère.",
             "it": "Un ascensore in ferro battuto uscito da un libro di fiabe, che termina su un belvedere panoramico.",
             "de": "Ein schmiedeeiserner Aufzug wie aus einem Bilderbuch, der auf einer Aussichtsplattform endet.",
             "es": "Un ascensor de hierro forjado salido de un cuento, que acaba en un mirador en las alturas.",
@@ -418,7 +418,7 @@
           },
           "detail": {
             "en": "A food hall five minutes downhill where everyone picks a different dish, pastel de nata included.",
-            "fr": "Une halle gourmande a cinq minutes en descente ou chacun choisit son plat, pastel de nata compris.",
+            "fr": "Une halle gourmande à cinq minutes en descente où chacun choisit son plat, pastel de nata compris.",
             "it": "Un mercato gastronomico a cinque minuti in discesa dove ognuno sceglie un piatto diverso, pastel de nata compreso.",
             "de": "Eine Markthalle fünf Minuten bergab, wo sich jeder ein anderes Gericht aussucht, Pastel de Nata inklusive.",
             "es": "Un mercado gastronómico a cinco minutos cuesta abajo donde cada uno elige un plato distinto, pastel de nata incluido.",
@@ -470,7 +470,7 @@
           },
           "note": {
             "en": "Little ones start the day with themed games and crafts.",
-            "fr": "Les petits demarrent avec des jeux a theme et du bricolage.",
+            "fr": "Les petits démarrent avec des jeux à thème et du bricolage.",
             "it": "I più piccoli iniziano la giornata con giochi a tema e attività manuali.",
             "de": "Die Kleinen starten den Tag mit thematischen Spielen und Basteln.",
             "es": "Los peques empiezan el día con juegos temáticos y manualidades.",
@@ -489,7 +489,7 @@
           },
           "note": {
             "en": "Coffee and bookshops while the club runs.",
-            "fr": "Cafe et librairies pendant que le club tourne.",
+            "fr": "Café et librairies pendant que le club tourne.",
             "it": "Caffè e librerie mentre il club è in corso.",
             "de": "Kaffee und Buchläden, während der Club läuft.",
             "es": "Café y librerías mientras funciona el club.",
@@ -508,7 +508,7 @@
           },
           "note": {
             "en": "Grab everyone and share plates at Time Out Market.",
-            "fr": "On recupere tout le monde pour partager des plats au Time Out Market.",
+            "fr": "On récupère tout le monde pour partager des plats au Time Out Market.",
             "it": "Riunite tutti e condividete i piatti al Time Out Market.",
             "de": "Alle einsammeln und Gerichte im Time Out Market teilen.",
             "es": "Reúne a todos y compartid platos en el Time Out Market.",
@@ -519,7 +519,7 @@
           "time": "16:00",
           "title": {
             "en": "Tram 28 to the castle",
-            "fr": "Tram 28 vers le chateau",
+            "fr": "Tram 28 vers le château",
             "it": "Tram 28 verso il castello",
             "de": "Tram 28 zur Burg",
             "es": "Tranvía 28 al castillo",
@@ -527,7 +527,7 @@
           },
           "note": {
             "en": "End the afternoon on the ramparts at golden hour.",
-            "fr": "On finit l'apres-midi sur les remparts a la lumiere doree.",
+            "fr": "On finit l'après-midi sur les remparts à la lumière dorée.",
             "it": "Chiudete il pomeriggio sui bastioni all'ora dorata.",
             "de": "Lassen Sie den Nachmittag auf den Wehrgängen zur goldenen Stunde ausklingen.",
             "es": "Termina la tarde en las murallas a la hora dorada.",
@@ -538,7 +538,7 @@
       "ageNotes": {
         "baby": {
           "en": "Cots, bottle warmers and monitors are free, and the kids club takes children from six months, which is unusually early for a city hotel.",
-          "fr": "Lits bebe, chauffe-biberons et ecoute-bebe sont gratuits, et le club accueille des six mois, ce qui est rare pour un hotel de ville.",
+          "fr": "Lits bébé, chauffe-biberons et écoute-bébé sont gratuits, et le club accueille dès six mois, ce qui est rare pour un hôtel de ville.",
           "it": "Culle, scaldabiberon e baby monitor sono gratuiti, e il miniclub accoglie i bambini dai sei mesi, cosa insolitamente precoce per un hotel di città.",
           "de": "Reisebetten, Fläschchenwärmer und Babyfone sind kostenlos, und der Kinderclub nimmt Kinder ab sechs Monaten auf, was für ein Stadthotel ungewöhnlich früh ist.",
           "es": "Las cunas, los calientabiberones y los vigilabebés son gratis, y el club infantil admite niños desde los seis meses, algo poco habitual de tan pronto en un hotel urbano.",
@@ -546,7 +546,7 @@
         },
         "toddler": {
           "en": "The play areas and equipped kitchen make daily rhythms easy, though the cobbled hills outside demand a sturdy carrier over a stroller.",
-          "fr": "Les espaces de jeu et la cuisine equipee simplifient le quotidien, mais les rues pavees et pentues imposent un porte-bebe plutot qu'une poussette.",
+          "fr": "Les espaces de jeu et la cuisine équipée simplifient le quotidien, mais les rues pavées et pentues imposent un porte-bébé plutôt qu'une poussette.",
           "it": "Le aree gioco e la cucina attrezzata facilitano i ritmi quotidiani, anche se le salite acciottolate all'esterno richiedono un marsupio robusto più che un passeggino.",
           "de": "Die Spielbereiche und die ausgestattete Küche erleichtern den Tagesablauf, doch die gepflasterten Steigungen draußen verlangen eher eine stabile Trage als einen Kinderwagen.",
           "es": "Las zonas de juego y la cocina equipada facilitan el día a día, aunque las cuestas empedradas de fuera piden una mochila portabebés resistente antes que un cochecito.",
@@ -554,7 +554,7 @@
         },
         "kid": {
           "en": "The free club with crafts and science games keeps five to nine year olds happily busy for a full morning.",
-          "fr": "Le club gratuit, avec bricolage et jeux scientifiques, occupe joyeusement les cinq a neuf ans toute une matinee.",
+          "fr": "Le club gratuit, avec bricolage et jeux scientifiques, occupe joyeusement les cinq à neuf ans toute une matinée.",
           "it": "Il club gratuito, con attività manuali e giochi scientifici, tiene i bambini dai cinque ai nove anni felicemente occupati per un'intera mattinata.",
           "de": "Der kostenlose Club mit Basteln und Wissenschaftsspielen hält Fünf- bis Neunjährige einen ganzen Vormittag lang glücklich beschäftigt.",
           "es": "El club gratuito, con manualidades y juegos de ciencia, mantiene a los niños de cinco a nueve años felices y entretenidos toda una mañana.",
@@ -562,7 +562,7 @@
         },
         "teen": {
           "en": "Older kids age out of the club but love the central location and the freedom of an apartment base.",
-          "fr": "Les ados sont trop grands pour le club mais adorent l'emplacement central et la liberte d'une base en appartement.",
+          "fr": "Les ados sont trop grands pour le club mais adorent l'emplacement central et la liberté d'une base en appartement.",
           "it": "I ragazzi più grandi superano l'età del club ma adorano la posizione centrale e la libertà di una base in appartamento.",
           "de": "Ältere Kinder sind dem Club entwachsen, lieben aber die zentrale Lage und die Freiheit einer Apartment-Basis.",
           "es": "Los mayores ya no entran en el club, pero adoran la ubicación céntrica y la libertad de una base con apartamento.",
@@ -581,7 +581,7 @@
           },
           "a": {
             "en": "Yes, supervised sessions for guests aged six months to nine years are included, running roughly 09:30 to 17:30. Evening babysitting is a paid extra.",
-            "fr": "Oui, les sessions encadrees pour les 6 mois a 9 ans sont incluses, environ de 9h30 a 17h30. La garde en soiree est payante en supplement.",
+            "fr": "Oui, les sessions encadrées pour les 6 mois à 9 ans sont incluses, environ de 9h30 à 17h30. La garde en soirée est payante en supplément.",
             "it": "Sì, le sessioni sorvegliate per gli ospiti dai sei mesi ai nove anni sono incluse, all'incirca dalle 09:30 alle 17:30. Il babysitting serale è un supplemento a pagamento.",
             "de": "Ja, betreute Einheiten für Gäste von sechs Monaten bis neun Jahren sind inbegriffen, etwa von 09:30 bis 17:30 Uhr. Babysitting am Abend kostet extra.",
             "es": "Sí, las sesiones supervisadas para huéspedes de seis meses a nueve años están incluidas, más o menos de 09:30 a 17:30. El canguro por la noche es un extra de pago.",
@@ -599,7 +599,7 @@
           },
           "a": {
             "en": "No. This is a city aparthotel, so plan a park or a day trip if your children need to burn off energy in the water.",
-            "fr": "Non. C'est un appartement-hotel urbain : prevoyez un parc ou une excursion si vos enfants veulent se depenser dans l'eau.",
+            "fr": "Non. C'est un appartement-hôtel urbain : prévoyez un parc ou une excursion si vos enfants veulent se dépenser dans l'eau.",
             "it": "No. È un aparthotel di città, quindi organizzate un parco o una gita se i bambini hanno bisogno di sfogarsi in acqua.",
             "de": "Nein. Dies ist ein Aparthotel in der Stadt, planen Sie also einen Park oder einen Ausflug ein, wenn Ihre Kinder sich im Wasser austoben müssen.",
             "es": "No. Es un aparthotel urbano, así que planifica un parque o una excursión si tus hijos necesitan quemar energía en el agua.",
@@ -617,7 +617,7 @@
           },
           "a": {
             "en": "Every apartment has a full kitchen with oven, dishwasher and coffee machine, which is a real money-saver for families.",
-            "fr": "Chaque appartement dispose d'une cuisine complete (four, lave-vaisselle, machine a cafe), une vraie economie pour les familles.",
+            "fr": "Chaque appartement dispose d'une cuisine complète (four, lave-vaisselle, machine à café), une vraie économie pour les familles.",
             "it": "Ogni appartamento ha una cucina completa con forno, lavastoviglie e macchina del caffè, un vero risparmio per le famiglie.",
             "de": "Jedes Apartment hat eine voll ausgestattete Küche mit Backofen, Geschirrspüler und Kaffeemaschine, was für Familien echtes Geld spart.",
             "es": "Cada apartamento tiene una cocina completa con horno, lavavajillas y cafetera, un verdadero ahorro para las familias.",
@@ -672,7 +672,7 @@
       },
       "roomsSummary": {
         "en": "Deluxe Family Rooms are two connecting rooms that sleep up to four, so parents and children each get their own space and door. Standard rooms are floor-to-ceiling glass with river views but suit a couple more than a full family. Ask for connecting rooms at booking, not on arrival.",
-        "fr": "Les Deluxe Family Rooms sont deux chambres communicantes pour quatre personnes : parents et enfants ont chacun leur espace et leur porte. Les chambres standard, vitrees du sol au plafond avec vue fleuve, conviennent plus a un couple qu'a une famille complete. Demandez les chambres communicantes des la reservation, pas a l'arrivee.",
+        "fr": "Les Deluxe Family Rooms sont deux chambres communicantes pour quatre personnes : parents et enfants ont chacun leur espace et leur porte. Les chambres standard, vitrées du sol au plafond avec vue fleuve, conviennent plus à un couple qu'à une famille complète. Demandez les chambres communicantes dès la réservation, pas à l'arrivée.",
         "it": "Le Deluxe Family Room sono due camere comunicanti che ospitano fino a quattro persone, così genitori e figli hanno ciascuno il proprio spazio e la propria porta. Le camere standard sono vetrate dal pavimento al soffitto con vista sul fiume, ma si adattano più a una coppia che a una famiglia al completo. Chiedete le camere comunicanti al momento della prenotazione, non all'arrivo.",
         "de": "Die Deluxe Family Rooms sind zwei Verbindungszimmer für bis zu vier Personen, sodass Eltern und Kinder jeweils ihren eigenen Bereich und ihre eigene Tür haben. Die Standardzimmer sind vom Boden bis zur Decke verglast mit Flussblick, eignen sich aber eher für ein Paar als für eine ganze Familie. Fragen Sie schon bei der Buchung nach Verbindungszimmern, nicht erst bei der Ankunft.",
         "es": "Las Deluxe Family Rooms son dos habitaciones comunicantes para hasta cuatro personas, así padres e hijos tienen cada uno su espacio y su puerta. Las habitaciones estándar son de cristal del suelo al techo con vistas al río, pero encajan más con una pareja que con una familia completa. Pide las habitaciones comunicantes al reservar, no al llegar.",
@@ -680,7 +680,7 @@
       },
       "intro": {
         "en": "A glass tower on the Tagus in the modern Parque das Nacoes district, Myriad pairs knockout river views with the Expo 98 attractions on its doorstep. It leans luxury and business, but the connecting family rooms and the oceanarium next door make it a strong base for older kids and teens.",
-        "fr": "Tour de verre sur le Tage dans le quartier moderne du Parque das Nacoes, le Myriad marie des vues fleuve spectaculaires et les attractions de l'Expo 98 juste en bas. Le style est luxe et affaires, mais les chambres familiales communicantes et l'oceanarium voisin en font une base solide pour grands enfants et ados.",
+        "fr": "Tour de verre sur le Tage dans le quartier moderne du Parque das Nacoes, le Myriad marie des vues fleuve spectaculaires et les attractions de l'Expo 98 juste en bas. Le style est luxe et affaires, mais les chambres familiales communicantes et l'océanarium voisin en font une base solide pour grands enfants et ados.",
         "it": "Torre di vetro sul Tago nel moderno quartiere del Parque das Nacoes, il Myriad unisce viste spettacolari sul fiume alle attrazioni dell'Expo 98 proprio davanti. Punta sul lusso e sugli affari, ma le camere familiari comunicanti e l'oceanario accanto ne fanno una buona base per ragazzi più grandi e adolescenti.",
         "de": "Ein Glasturm am Tejo im modernen Viertel Parque das Nacoes: Das Myriad verbindet umwerfende Flussblicke mit den Expo-98-Attraktionen direkt vor der Tür. Es setzt auf Luxus und Business, doch die Familien-Verbindungszimmer und das Ozeanarium nebenan machen es zu einer starken Basis für ältere Kinder und Teenager.",
         "es": "Una torre de cristal sobre el Tajo en el moderno barrio del Parque das Nacoes, el Myriad combina vistas al río de escándalo con las atracciones de la Expo 98 a un paso. Tira hacia el lujo y los negocios, pero las habitaciones familiares comunicantes y el oceanario de al lado lo hacen una base sólida para niños mayores y adolescentes.",
@@ -698,8 +698,8 @@
         "fr": [
           "Les Deluxe Family Rooms sont deux chambres communicantes pour quatre personnes",
           "Vues sur le Tage du sol au plafond depuis presque toutes les chambres",
-          "Piscine interieure chauffee du spa au dernier etage, baies panoramiques",
-          "L'Oceanarium de Lisbonne est a cinq minutes a pied",
+          "Piscine intérieure chauffée du spa au dernier étage, baies panoramiques",
+          "L'Oceanarium de Lisbonne est à cinq minutes à pied",
           "Garde d'enfants sur rendez-vous",
           "Restaurant River Lounge avec terrasse au bord de l'eau"
         ],
@@ -743,8 +743,8 @@
           "Spectacular river views the kids will remember"
         ],
         "fr": [
-          "Vraies chambres familiales communicantes avec portes separees",
-          "Juste a cote de l'oceanarium, du telepherique et du musee des sciences",
+          "Vraies chambres familiales communicantes avec portes séparées",
+          "Juste à côté de l'océanarium, du téléphérique et du musée des sciences",
           "Vues fleuve spectaculaires dont les enfants se souviendront"
         ],
         "it": [
@@ -775,9 +775,9 @@
           "Design and dining skew grown-up and pricey"
         ],
         "fr": [
-          "La piscine du spa est un bassin de detente calme, pas un bassin pour barboter",
-          "Le Parque das Nacoes est a 15 min de metro du centre historique",
-          "Le design et la restauration visent plutot les adultes, et les prix suivent"
+          "La piscine du spa est un bassin de détente calme, pas un bassin pour barboter",
+          "Le Parque das Nacoes est à 15 min de métro du centre historique",
+          "Le design et la restauration visent plutôt les adultes, et les prix suivent"
         ],
         "it": [
           "La piscina della spa è una vasca tranquilla per il relax, non una piscina per gli schizzi dei bambini",
@@ -802,7 +802,7 @@
       },
       "verdict": {
         "en": "A sleek riverside tower that works best for families with older kids who want attractions on the doorstep and views to match.",
-        "fr": "Une elegante tour au bord du fleuve, ideale pour les familles avec grands enfants qui veulent des attractions en bas et des vues a la hauteur.",
+        "fr": "Une élégante tour au bord du fleuve, idéale pour les familles avec grands enfants qui veulent des attractions en bas et des vues à la hauteur.",
         "it": "Un'elegante torre sul fiume, ideale per famiglie con figli più grandi che vogliono attrazioni a due passi e viste all'altezza.",
         "de": "Ein eleganter Turm am Fluss, der am besten zu Familien mit älteren Kindern passt, die Attraktionen vor der Tür und passende Ausblicke wollen.",
         "es": "Una elegante torre junto al río, ideal para familias con hijos mayores que quieren atracciones a un paso y vistas a la altura.",
@@ -810,7 +810,7 @@
       },
       "parentTip": {
         "en": "The oceanarium sells timed tickets that sell out on rainy days: buy them online the night before from your room and walk over first thing.",
-        "fr": "L'oceanarium vend des billets horodates qui partent vite les jours de pluie : achetez-les en ligne la veille depuis la chambre et allez-y des l'ouverture.",
+        "fr": "L'océanarium vend des billets horodatés qui partent vite les jours de pluie : achetez-les en ligne la veille depuis la chambre et allez-y dès l'ouverture.",
         "it": "L'oceanario vende biglietti a orario che vanno esauriti nei giorni di pioggia: acquistateli online la sera prima dalla camera e andateci appena apre.",
         "de": "Das Ozeanarium verkauft Zeitfenster-Tickets, die an Regentagen ausverkauft sind: Kaufen Sie sie am Abend zuvor online vom Zimmer aus und gehen Sie gleich morgens hin.",
         "es": "El oceanario vende entradas con hora que se agotan los días de lluvia: cómpralas por internet la noche anterior desde tu habitación y ve a primera hora.",
@@ -829,7 +829,7 @@
           },
           "value": {
             "en": "Up to 4 in family rooms",
-            "fr": "Jusqu'a 4 en chambre familiale",
+            "fr": "Jusqu'à 4 en chambre familiale",
             "it": "Fino a 4 nelle camere familiari",
             "de": "Bis zu 4 in Familienzimmern",
             "es": "Hasta 4 en habitaciones familiares",
@@ -848,7 +848,7 @@
           },
           "value": {
             "en": "Heated indoor spa pool",
-            "fr": "Piscine interieure chauffee (spa)",
+            "fr": "Piscine intérieure chauffée (spa)",
             "it": "Piscina interna riscaldata della spa",
             "de": "Beheizter Spa-Innenpool",
             "es": "Piscina interior climatizada del spa",
@@ -867,7 +867,7 @@
           },
           "value": {
             "en": "5 min walk",
-            "fr": "5 min a pied",
+            "fr": "5 min à pied",
             "it": "5 min a piedi",
             "de": "5 Min. zu Fuß",
             "es": "5 min a pie",
@@ -905,7 +905,7 @@
           },
           "value": {
             "en": "15 min by metro",
-            "fr": "15 min en metro",
+            "fr": "15 min en métro",
             "it": "15 min in metro",
             "de": "15 Min. mit der Metro",
             "es": "15 min en metro",
@@ -945,7 +945,7 @@
           },
           "detail": {
             "en": "One of Europe's biggest aquariums, built around a giant central tank of sharks and rays.",
-            "fr": "L'un des plus grands aquariums d'Europe, organise autour d'un immense bassin central de requins et de raies.",
+            "fr": "L'un des plus grands aquariums d'Europe, organisé autour d'un immense bassin central de requins et de raies.",
             "it": "Uno dei più grandi acquari d'Europa, costruito attorno a un'enorme vasca centrale di squali e razze.",
             "de": "Eines der größten Aquarien Europas, angelegt um ein riesiges zentrales Becken mit Haien und Rochen.",
             "es": "Uno de los acuarios más grandes de Europa, construido en torno a un enorme tanque central de tiburones y rayas.",
@@ -958,7 +958,7 @@
           ],
           "time": {
             "en": "2 to 3 h",
-            "fr": "2 a 3 h",
+            "fr": "2 à 3 h",
             "it": "Da 2 a 3 h",
             "de": "2 bis 3 Std.",
             "es": "De 2 a 3 h",
@@ -977,7 +977,7 @@
           },
           "detail": {
             "en": "A hands-on science museum where kids ride an upside-down bike on a high wire.",
-            "fr": "Un musee des sciences interactif ou les enfants pedalent a l'envers sur un fil suspendu.",
+            "fr": "Un musée des sciences interactif où les enfants pédalent à l'envers sur un fil suspendu.",
             "it": "Un museo della scienza interattivo dove i bambini pedalano a testa in giù su una bici sospesa a un filo.",
             "de": "Ein interaktives Wissenschaftsmuseum, in dem Kinder auf einem Hochseil kopfüber Fahrrad fahren.",
             "es": "Un museo de ciencia interactivo donde los niños montan en una bici boca abajo sobre un cable a gran altura.",
@@ -1000,7 +1000,7 @@
           "emoji": "🚡",
           "name": {
             "en": "Telecabine cable car",
-            "fr": "Telepherique Telecabine",
+            "fr": "Téléphérique Télécabine",
             "it": "Funivia Telecabine",
             "de": "Seilbahn Telecabine",
             "es": "Teleférico Telecabine",
@@ -1008,7 +1008,7 @@
           },
           "detail": {
             "en": "A gentle glide along the riverfront with the whole family strapped in one cabin.",
-            "fr": "Un vol tranquille le long du fleuve, toute la famille dans une meme cabine.",
+            "fr": "Un vol tranquille le long du fleuve, toute la famille dans une même cabine.",
             "it": "Un tranquillo scivolare lungo il fiume con tutta la famiglia allacciata nella stessa cabina.",
             "de": "Ein sanftes Gleiten am Flussufer entlang, die ganze Familie angeschnallt in einer Kabine.",
             "es": "Un suave deslizarse a lo largo del río con toda la familia sujeta en una misma cabina.",
@@ -1040,7 +1040,7 @@
           },
           "detail": {
             "en": "Free water jets along the promenade that kids run through on hot afternoons.",
-            "fr": "Des jets d'eau gratuits sur la promenade ou les enfants courent les apres-midis de chaleur.",
+            "fr": "Des jets d'eau gratuits sur la promenade où les enfants courent les après-midis de chaleur.",
             "it": "Getti d'acqua gratuiti lungo la passeggiata in cui i bambini corrono nei pomeriggi caldi.",
             "de": "Kostenlose Wasserfontänen entlang der Promenade, durch die Kinder an heißen Nachmittagen laufen.",
             "es": "Chorros de agua gratuitos a lo largo del paseo por los que los niños corren las tardes de calor.",
@@ -1065,7 +1065,7 @@
           "time": "8:00",
           "title": {
             "en": "River-view breakfast",
-            "fr": "Petit-dejeuner vue fleuve",
+            "fr": "Petit-déjeuner vue fleuve",
             "it": "Colazione con vista fiume",
             "de": "Frühstück mit Flussblick",
             "es": "Desayuno con vistas al río",
@@ -1092,7 +1092,7 @@
           },
           "note": {
             "en": "Beat the crowds with your pre-booked morning slot.",
-            "fr": "On evite la foule grace au creneau reserve le matin.",
+            "fr": "On évite la foule grâce au créneau réservé le matin.",
             "it": "Evitate la folla con lo slot mattutino prenotato in anticipo.",
             "de": "Dank vorab gebuchtem Vormittags-Slot dem Andrang entgehen.",
             "es": "Evita las aglomeraciones con tu franja de la mañana reservada.",
@@ -1103,7 +1103,7 @@
           "time": "13:00",
           "title": {
             "en": "Lunch on the promenade",
-            "fr": "Dejeuner sur la promenade",
+            "fr": "Déjeuner sur la promenade",
             "it": "Pranzo sulla passeggiata",
             "de": "Mittagessen an der Promenade",
             "es": "Comida en el paseo",
@@ -1111,7 +1111,7 @@
           },
           "note": {
             "en": "Casual riverside cafes a short stroll away.",
-            "fr": "Des cafes decontractes au bord de l'eau, a deux pas.",
+            "fr": "Des cafés décontractés au bord de l'eau, à deux pas.",
             "it": "Caffè informali sul fiume a due passi.",
             "de": "Lässige Cafés am Fluss, nur einen kurzen Spaziergang entfernt.",
             "es": "Cafeterías informales junto al río a un breve paseo.",
@@ -1122,7 +1122,7 @@
           "time": "15:00",
           "title": {
             "en": "Cable car and fountains",
-            "fr": "Telepherique et fontaines",
+            "fr": "Téléphérique et fontaines",
             "it": "Funivia e fontane",
             "de": "Seilbahn und Brunnen",
             "es": "Teleférico y fuentes",
@@ -1149,7 +1149,7 @@
           },
           "note": {
             "en": "Wind down in the top-floor spa pool before dinner.",
-            "fr": "On decompresse a la piscine du dernier etage avant le diner.",
+            "fr": "On décompresse à la piscine du dernier étage avant le dîner.",
             "it": "Rilassatevi nella piscina della spa all'ultimo piano prima di cena.",
             "de": "Vor dem Abendessen im Spa-Pool im obersten Stock entspannen.",
             "es": "Relájate en la piscina del spa de la última planta antes de cenar.",
@@ -1160,7 +1160,7 @@
       "ageNotes": {
         "baby": {
           "en": "Connecting rooms and babysitting help, but the spa pool has age rules, so check before you count on it for the baby.",
-          "fr": "Les chambres communicantes et la garde aident, mais la piscine du spa a des regles d'age : verifiez avant d'y compter pour bebe.",
+          "fr": "Les chambres communicantes et la garde aident, mais la piscine du spa a des règles d'âge : vérifiez avant d'y compter pour bébé.",
           "it": "Le camere comunicanti e il babysitting aiutano, ma la piscina della spa ha regole di età: verificate prima di contarci per il neonato.",
           "de": "Verbindungszimmer und Babysitting helfen, doch der Spa-Pool hat Altersregeln, prüfen Sie das, bevor Sie damit fürs Baby rechnen.",
           "es": "Las habitaciones comunicantes y el canguro ayudan, pero la piscina del spa tiene normas de edad, así que comprueba antes de contar con ella para el bebé.",
@@ -1168,7 +1168,7 @@
         },
         "kid": {
           "en": "The oceanarium, science museum and cable car cluster within walking distance make this a dream for curious five to eleven year olds.",
-          "fr": "L'oceanarium, le musee des sciences et le telepherique, tous a pied, en font un reve pour les cinq a onze ans curieux.",
+          "fr": "L'océanarium, le musée des sciences et le téléphérique, tous à pied, en font un rêve pour les cinq à onze ans curieux.",
           "it": "L'oceanario, il museo della scienza e la funivia, tutti a distanza a piedi, ne fanno un sogno per i curiosi dai cinque agli undici anni.",
           "de": "Ozeanarium, Wissenschaftsmuseum und Seilbahn in Gehweite machen es zum Traum für neugierige Fünf- bis Elfjährige.",
           "es": "El oceanario, el museo de la ciencia y el teleférico, todos a poca distancia a pie, lo convierten en un sueño para los curiosos de cinco a once años.",
@@ -1176,7 +1176,7 @@
         },
         "teen": {
           "en": "Teens get their own connecting room, riverside cycling paths and a district that feels modern rather than touristy.",
-          "fr": "Les ados ont leur chambre communicante, des pistes cyclables au bord du fleuve et un quartier moderne plutot que touristique.",
+          "fr": "Les ados ont leur chambre communicante, des pistes cyclables au bord du fleuve et un quartier moderne plutôt que touristique.",
           "it": "Gli adolescenti hanno la loro camera comunicante, piste ciclabili sul fiume e un quartiere moderno più che turistico.",
           "de": "Teenager bekommen ihr eigenes Verbindungszimmer, Radwege am Fluss und ein Viertel, das eher modern als touristisch wirkt.",
           "es": "Los adolescentes tienen su propia habitación comunicante, carriles bici junto al río y un barrio que se siente moderno más que turístico.",
@@ -1195,7 +1195,7 @@
           },
           "a": {
             "en": "It is a heated indoor relaxation pool in the spa, designed for quiet swims rather than splashing, and it has age restrictions. Confirm access for your children directly.",
-            "fr": "C'est une piscine interieure chauffee de detente, concue pour nager au calme et non pour barboter, avec des restrictions d'age. Confirmez l'acces pour vos enfants directement.",
+            "fr": "C'est une piscine intérieure chauffée de détente, conçue pour nager au calme et non pour barboter, avec des restrictions d'âge. Confirmez l'accès pour vos enfants directement.",
             "it": "È una piscina interna riscaldata di relax nella spa, pensata per nuotate tranquille più che per gli schizzi, e ha restrizioni di età. Confermate direttamente l'accesso per i vostri bambini.",
             "de": "Es ist ein beheizter Entspannungs-Innenpool im Spa, ausgelegt auf ruhiges Schwimmen statt Planschen, und mit Altersbeschränkungen. Klären Sie den Zutritt für Ihre Kinder direkt ab.",
             "es": "Es una piscina interior climatizada de relax en el spa, pensada para nadar con calma más que para chapotear, y tiene restricciones de edad. Confirma directamente el acceso para tus hijos.",
@@ -1205,7 +1205,7 @@
         {
           "q": {
             "en": "How far is the historic centre?",
-            "fr": "A quelle distance est le centre historique ?",
+            "fr": "À quelle distance est le centre historique ?",
             "it": "Quanto dista il centro storico?",
             "de": "Wie weit ist das historische Zentrum?",
             "es": "¿A qué distancia está el centro histórico?",
@@ -1213,7 +1213,7 @@
           },
           "a": {
             "en": "About 15 minutes on the red metro line from Oriente station, which is a two-minute walk from the hotel.",
-            "fr": "Environ 15 minutes sur la ligne rouge du metro depuis la gare d'Oriente, a deux minutes a pied de l'hotel.",
+            "fr": "Environ 15 minutes sur la ligne rouge du métro depuis la gare d'Oriente, à deux minutes à pied de l'hôtel.",
             "it": "Circa 15 minuti sulla linea rossa della metro dalla stazione di Oriente, a due minuti a piedi dall'hotel.",
             "de": "Etwa 15 Minuten mit der roten Metrolinie ab der Station Oriente, die zwei Gehminuten vom Hotel entfernt ist.",
             "es": "Unos 15 minutos en la línea roja del metro desde la estación de Oriente, a dos minutos a pie del hotel.",
@@ -1223,7 +1223,7 @@
         {
           "q": {
             "en": "Do family rooms have two separate rooms?",
-            "fr": "Les chambres familiales ont-elles deux pieces separees ?",
+            "fr": "Les chambres familiales ont-elles deux pièces séparées ?",
             "it": "Le camere familiari hanno due stanze separate?",
             "de": "Haben die Familienzimmer zwei getrennte Räume?",
             "es": "¿Las habitaciones familiares tienen dos cuartos separados?",
@@ -1231,7 +1231,7 @@
           },
           "a": {
             "en": "Yes, the Deluxe Family Room is two connecting rooms sleeping up to four. Request it when booking as availability is limited.",
-            "fr": "Oui, la Deluxe Family Room est composee de deux chambres communicantes pour quatre personnes. Demandez-la a la reservation, les disponibilites sont limitees.",
+            "fr": "Oui, la Deluxe Family Room est composée de deux chambres communicantes pour quatre personnes. Demandez-la à la réservation, les disponibilités sont limitées.",
             "it": "Sì, la Deluxe Family Room è composta da due camere comunicanti per un massimo di quattro persone. Richiedetela in fase di prenotazione, la disponibilità è limitata.",
             "de": "Ja, das Deluxe Family Room besteht aus zwei Verbindungszimmern für bis zu vier Personen. Fragen Sie bei der Buchung danach, die Verfügbarkeit ist begrenzt.",
             "es": "Sí, la Deluxe Family Room son dos habitaciones comunicantes para hasta cuatro personas. Pídela al reservar, ya que la disponibilidad es limitada.",
@@ -1286,7 +1286,7 @@
       },
       "roomsSummary": {
         "en": "A 1930s grande dame with suites and connecting rooms that let a family of four spread out. Standard rooms are generous by city-centre standards; the family answer here is a suite or two adjoining rooms rather than a single bunked room. Cots and extra beds are arranged on request.",
-        "fr": "Grande dame des annees 1930, avec suites et chambres communicantes ou une famille de quatre respire. Les chambres standard sont genereuses pour le centre-ville ; la solution familiale ici est la suite ou deux chambres attenantes plutot qu'une seule chambre a lits superposes. Lits bebe et lits d'appoint sur demande.",
+        "fr": "Grande dame des années 1930, avec suites et chambres communicantes où une famille de quatre respire. Les chambres standard sont généreuses pour le centre-ville ; la solution familiale ici est la suite ou deux chambres attenantes plutôt qu'une seule chambre à lits superposés. Lits bébé et lits d'appoint sur demande.",
         "it": "Una grande dame degli anni Trenta con suite e camere comunicanti che permettono a una famiglia di quattro di allargarsi. Le camere standard sono generose per gli standard del centro; la soluzione per le famiglie qui è una suite o due camere attigue più che un'unica stanza con letti a castello. Culle e letti aggiuntivi si organizzano su richiesta.",
         "de": "Eine Grande Dame aus den 1930er-Jahren mit Suiten und Verbindungszimmern, in denen sich eine vierköpfige Familie ausbreiten kann. Die Standardzimmer sind für Innenstadtverhältnisse großzügig; die Familienlösung ist hier eher eine Suite oder zwei benachbarte Zimmer als ein einzelnes Zimmer mit Etagenbett. Reisebetten und Zustellbetten werden auf Wunsch bereitgestellt.",
         "es": "Una grande dame de los años 30 con suites y habitaciones comunicantes en las que una familia de cuatro puede desahogarse. Las habitaciones estándar son generosas para lo que se estila en el centro; aquí la solución familiar es una suite o dos habitaciones contiguas más que un único cuarto con literas. Las cunas y camas supletorias se preparan bajo petición.",
@@ -1294,7 +1294,7 @@
       },
       "intro": {
         "en": "On Lisbon's grandest boulevard, the Tivoli is a proper five-star classic with something few city hotels offer: a real outdoor pool set in a semi-tropical garden. For a summer city break where children still get a swim, this is the sweet spot.",
-        "fr": "Sur le plus grand boulevard de Lisbonne, le Tivoli est un vrai cinq-etoiles classique avec un atout rare en ville : une vraie piscine exterieure dans un jardin semi-tropical. Pour un city-break estival ou les enfants nagent quand meme, c'est le bon compromis.",
+        "fr": "Sur le plus grand boulevard de Lisbonne, le Tivoli est un vrai cinq-étoiles classique avec un atout rare en ville : une vraie piscine extérieure dans un jardin semi-tropical. Pour un city-break estival où les enfants nagent quand même, c'est le bon compromis.",
         "it": "Sul viale più elegante di Lisbona, il Tivoli è un autentico cinque stelle classico con qualcosa che pochi hotel di città offrono: una vera piscina all'aperto in un giardino semitropicale. Per una vacanza estiva in città in cui i bambini possono comunque fare il bagno, è il compromesso ideale.",
         "de": "Am prächtigsten Boulevard Lissabons ist das Tivoli ein echter Fünf-Sterne-Klassiker mit etwas, das nur wenige Stadthotels bieten: einen echten Außenpool in einem halbtropischen Garten. Für eine sommerliche Städtereise, bei der die Kinder trotzdem schwimmen, ist das der ideale Kompromiss.",
         "es": "En el bulevar más elegante de Lisboa, el Tivoli es un auténtico clásico de cinco estrellas con algo que pocos hoteles urbanos ofrecen: una piscina exterior de verdad en un jardín semitropical. Para una escapada urbana de verano en la que los niños igualmente se bañan, este es el punto justo.",
@@ -1310,12 +1310,12 @@
           "Metro and tram links a couple of minutes from the door"
         ],
         "fr": [
-          "Piscine exterieure dans un jardin luxuriant, ouverte de juin a octobre",
+          "Piscine extérieure dans un jardin luxuriant, ouverte de juin à octobre",
           "Suites et chambres communicantes pour familles de quatre",
-          "Emplacement de choix sur l'Avenida da Liberdade, la Baixa a pied",
-          "Garde d'enfants et animations encadrees ponctuelles",
+          "Emplacement de choix sur l'Avenida da Liberdade, la Baixa à pied",
+          "Garde d'enfants et animations encadrées ponctuelles",
           "Bar sur le toit avec vue panoramique pour un verre en famille au coucher du soleil",
-          "Metro et tram a deux minutes de la porte"
+          "Métro et tram à deux minutes de la porte"
         ],
         "it": [
           "Piscina all'aperto in un giardino rigoglioso, aperta da giugno a ottobre",
@@ -1357,9 +1357,9 @@
           "Spacious suites that suit families better than most city hotels"
         ],
         "fr": [
-          "Une vraie piscine exterieure, rare en plein centre de Lisbonne",
+          "Une vraie piscine extérieure, rare en plein centre de Lisbonne",
           "Emplacement imbattable sur le grand boulevard",
-          "Suites spacieuses qui conviennent mieux aux familles que la plupart des hotels de ville"
+          "Suites spacieuses qui conviennent mieux aux familles que la plupart des hôtels de ville"
         ],
         "it": [
           "Una vera piscina all'aperto, rara nel centro di Lisbona",
@@ -1389,9 +1389,9 @@
           "Grand and formal in feel rather than playful"
         ],
         "fr": [
-          "La piscine n'ouvre que de juin a octobre, donc indisponible en hiver et au printemps",
-          "Tarifs cinq-etoiles eleves, surtout avec une deuxieme chambre",
-          "Ambiance chic et formelle plutot que ludique"
+          "La piscine n'ouvre que de juin à octobre, donc indisponible en hiver et au printemps",
+          "Tarifs cinq-étoiles élevés, surtout avec une deuxième chambre",
+          "Ambiance chic et formelle plutôt que ludique"
         ],
         "it": [
           "La piscina apre solo da giugno a ottobre, quindi è esclusa in inverno e primavera",
@@ -1416,7 +1416,7 @@
       },
       "verdict": {
         "en": "The pick for a summer city break: five-star polish on the main avenue with a garden pool the kids will actually use.",
-        "fr": "Le choix pour un city-break estival : le raffinement cinq-etoiles sur la grande avenue, avec une piscine de jardin que les enfants utiliseront vraiment.",
+        "fr": "Le choix pour un city-break estival : le raffinement cinq-étoiles sur la grande avenue, avec une piscine de jardin que les enfants utiliseront vraiment.",
         "it": "La scelta per una vacanza estiva in città: la raffinatezza cinque stelle sul viale principale con una piscina in giardino che i bambini useranno davvero.",
         "de": "Die Wahl für eine sommerliche Städtereise: Fünf-Sterne-Eleganz an der Hauptallee mit einem Gartenpool, den die Kinder wirklich nutzen.",
         "es": "La opción para una escapada urbana de verano: refinamiento de cinco estrellas en la avenida principal con una piscina de jardín que los niños de verdad usarán.",
@@ -1424,7 +1424,7 @@
       },
       "parentTip": {
         "en": "Ask for a room facing the garden rather than the avenue: it is noticeably quieter at nap time and the pool is right below you.",
-        "fr": "Demandez une chambre cote jardin plutot que cote avenue : nettement plus calme a l'heure de la sieste, avec la piscine juste en dessous.",
+        "fr": "Demandez une chambre côté jardin plutôt que côté avenue : nettement plus calme à l'heure de la sieste, avec la piscine juste en dessous.",
         "it": "Chiedete una camera sul giardino invece che sul viale: è decisamente più tranquilla all'ora del riposino e la piscina è proprio sotto di voi.",
         "de": "Fragen Sie nach einem Zimmer zum Garten statt zur Allee: Es ist zur Schlafenszeit deutlich ruhiger und der Pool liegt direkt darunter.",
         "es": "Pide una habitación que dé al jardín en lugar de a la avenida: es bastante más tranquila a la hora de la siesta y la piscina queda justo debajo.",
@@ -1462,7 +1462,7 @@
           },
           "value": {
             "en": "Outdoor garden pool, Jun to Oct",
-            "fr": "Piscine de jardin, juin a oct.",
+            "fr": "Piscine de jardin, juin à oct.",
             "it": "Piscina in giardino all'aperto, da giu a ott",
             "de": "Garten-Außenpool, Jun bis Okt",
             "es": "Piscina exterior de jardín, jun a oct",
@@ -1559,7 +1559,7 @@
           },
           "detail": {
             "en": "A flat, tree-lined walk down the avenue to the grand riverside square of Praca do Comercio.",
-            "fr": "Une descente plate et ombragee de l'avenue jusqu'a la majestueuse place du Commerce, au bord du fleuve.",
+            "fr": "Une descente plate et ombragée de l'avenue jusqu'à la majestueuse place du Commerce, au bord du fleuve.",
             "it": "Una passeggiata pianeggiante e alberata lungo il viale fino alla grandiosa piazza sul fiume di Praca do Comercio.",
             "de": "Ein flacher, von Bäumen gesäumter Spaziergang die Allee hinunter bis zum großzügigen Flussplatz Praca do Comercio.",
             "es": "Un paseo llano y arbolado por la avenida hasta la grandiosa plaza junto al río de Praca do Comercio.",
@@ -1591,7 +1591,7 @@
           },
           "detail": {
             "en": "A big formal park at the top of the avenue with lawns and a greenhouse full of ponds.",
-            "fr": "Un grand parc a la francaise en haut de l'avenue, avec pelouses et une serre pleine de bassins.",
+            "fr": "Un grand parc à la française en haut de l'avenue, avec pelouses et une serre pleine de bassins.",
             "it": "Un grande parco all'italiana in cima al viale con prati e una serra piena di stagni.",
             "de": "Ein großer, formaler Park am oberen Ende der Allee mit Rasenflächen und einem Gewächshaus voller Teiche.",
             "es": "Un gran parque de trazado formal en lo alto de la avenida, con céspedes y un invernadero lleno de estanques.",
@@ -1623,7 +1623,7 @@
           },
           "detail": {
             "en": "A short, steep tram ride up to the Bairro Alto viewpoint, a favourite with kids.",
-            "fr": "Une courte montee raide en funiculaire jusqu'au belvedere du Bairro Alto, chouchou des enfants.",
+            "fr": "Une courte montée raide en funiculaire jusqu'au belvédère du Bairro Alto, chouchou des enfants.",
             "it": "Una breve e ripida salita in funicolare fino al belvedere del Bairro Alto, uno dei preferiti dei bambini.",
             "de": "Eine kurze, steile Fahrt hinauf zum Aussichtspunkt Bairro Alto, ein Favorit bei Kindern.",
             "es": "Una subida corta y empinada hasta el mirador del Bairro Alto, uno de los favoritos de los niños.",
@@ -1655,7 +1655,7 @@
           },
           "detail": {
             "en": "The avenue's cafes serve warm custard tarts that reliably fix a grumpy afternoon.",
-            "fr": "Les cafes de l'avenue servent des pasteis de nata tiedes qui sauvent a coup sur un apres-midi grognon.",
+            "fr": "Les cafés de l'avenue servent des pasteis de nata tièdes qui sauvent à coup sûr un après-midi grognon.",
             "it": "I caffè del viale servono pastel de nata caldi che risolvono a colpo sicuro un pomeriggio storto.",
             "de": "Die Cafés an der Allee servieren warme Puddingtörtchen, die einen mürrischen Nachmittag zuverlässig retten.",
             "es": "Las cafeterías de la avenida sirven pasteles de nata calientes que salvan sin falta una tarde de mal humor.",
@@ -1708,7 +1708,7 @@
           },
           "note": {
             "en": "Flat and shaded all the way to the river square.",
-            "fr": "Plat et ombrage jusqu'a la place du fleuve.",
+            "fr": "Plat et ombragé jusqu'à la place du fleuve.",
             "it": "Pianeggiante e ombreggiata fino alla piazza sul fiume.",
             "de": "Flach und schattig bis zum Platz am Fluss.",
             "es": "Llano y con sombra hasta la plaza junto al río.",
@@ -1719,7 +1719,7 @@
           "time": "13:00",
           "title": {
             "en": "Lunch near the river",
-            "fr": "Dejeuner pres du fleuve",
+            "fr": "Déjeuner près du fleuve",
             "it": "Pranzo vicino al fiume",
             "de": "Mittagessen in Flussnähe",
             "es": "Comida cerca del río",
@@ -1727,7 +1727,7 @@
           },
           "note": {
             "en": "Grilled fish or a toastie by Praca do Comercio.",
-            "fr": "Poisson grille ou croque pres de la place du Commerce.",
+            "fr": "Poisson grillé ou croque près de la place du Commerce.",
             "it": "Pesce alla griglia o un toast vicino a Praca do Comercio.",
             "de": "Gegrillter Fisch oder ein Sandwich nahe der Praca do Comercio.",
             "es": "Pescado a la parrilla o un sándwich caliente junto a Praca do Comercio.",
@@ -1746,7 +1746,7 @@
           },
           "note": {
             "en": "Back to the garden pool for a proper swim (summer).",
-            "fr": "Retour a la piscine de jardin pour une vraie baignade (ete).",
+            "fr": "Retour à la piscine de jardin pour une vraie baignade (été).",
             "it": "Ritorno alla piscina in giardino per una vera nuotata (in estate).",
             "de": "Zurück zum Gartenpool für ein richtiges Bad (im Sommer).",
             "es": "De vuelta a la piscina del jardín para un buen baño (en verano).",
@@ -1776,7 +1776,7 @@
       "ageNotes": {
         "toddler": {
           "en": "The flat avenue and garden pool are toddler-friendly, and cots slot easily into the roomy suites.",
-          "fr": "L'avenue plate et la piscine de jardin conviennent aux tout-petits, et les lits bebe se glissent facilement dans les suites spacieuses.",
+          "fr": "L'avenue plate et la piscine de jardin conviennent aux tout-petits, et les lits bébé se glissent facilement dans les suites spacieuses.",
           "it": "Il viale pianeggiante e la piscina in giardino sono adatti ai più piccoli, e le culle si inseriscono facilmente nelle suite spaziose.",
           "de": "Die flache Allee und der Gartenpool sind kleinkindfreundlich, und Reisebetten passen mühelos in die geräumigen Suiten.",
           "es": "La avenida llana y la piscina del jardín van bien con los más pequeños, y las cunas caben sin problema en las amplias suites.",
@@ -1784,7 +1784,7 @@
         },
         "kid": {
           "en": "A summer swim after a morning of trams and tarts is the ideal city-break rhythm for this age.",
-          "fr": "Une baignade estivale apres une matinee de trams et de pasteis : le rythme ideal du city-break pour cet age.",
+          "fr": "Une baignade estivale après une matinée de trams et de pasteis : le rythme idéal du city-break pour cet âge.",
           "it": "Un bagno estivo dopo una mattinata di tram e pastel de nata è il ritmo ideale di una vacanza in città a questa età.",
           "de": "Ein Sommerbad nach einem Vormittag mit Trams und Törtchen ist der ideale Städtereise-Rhythmus für dieses Alter.",
           "es": "Un baño de verano tras una mañana de tranvías y pasteles es el ritmo ideal de una escapada urbana a esta edad.",
@@ -1792,7 +1792,7 @@
         },
         "teen": {
           "en": "Teens appreciate the address, the rooftop scene and being a short walk from Lisbon's shops and squares.",
-          "fr": "Les ados apprecient l'adresse, l'ambiance du rooftop et la proximite a pied des boutiques et places de Lisbonne.",
+          "fr": "Les ados apprécient l'adresse, l'ambiance du rooftop et la proximité à pied des boutiques et places de Lisbonne.",
           "it": "Gli adolescenti apprezzano l'indirizzo, l'atmosfera del rooftop e la vicinanza a piedi ai negozi e alle piazze di Lisbona.",
           "de": "Teenager schätzen die Adresse, die Dachterrassen-Szene und die kurze Entfernung zu Lissabons Geschäften und Plätzen.",
           "es": "Los adolescentes valoran la dirección, el ambiente de la azotea y estar a un breve paseo de las tiendas y plazas de Lisboa.",
@@ -1803,7 +1803,7 @@
         {
           "q": {
             "en": "When is the outdoor pool open?",
-            "fr": "Quand la piscine exterieure est-elle ouverte ?",
+            "fr": "Quand la piscine extérieure est-elle ouverte ?",
             "it": "Quando è aperta la piscina all'aperto?",
             "de": "Wann ist der Außenpool geöffnet?",
             "es": "¿Cuándo abre la piscina exterior?",
@@ -1811,7 +1811,7 @@
           },
           "a": {
             "en": "Typically June to October, weather permitting. Outside those months the pool is closed, so book elsewhere if a swim is essential.",
-            "fr": "En general de juin a octobre, selon la meteo. Hors de cette periode la piscine est fermee : reservez ailleurs si la baignade est essentielle.",
+            "fr": "En général de juin à octobre, selon la météo. Hors de cette période la piscine est fermée : réservez ailleurs si la baignade est essentielle.",
             "it": "In genere da giugno a ottobre, tempo permettendo. Fuori da questi mesi la piscina è chiusa, quindi prenotate altrove se il bagno è irrinunciabile.",
             "de": "In der Regel von Juni bis Oktober, wenn es das Wetter zulässt. Außerhalb dieser Monate ist der Pool geschlossen, buchen Sie also anderswo, wenn Schwimmen ein Muss ist.",
             "es": "Normalmente de junio a octubre, si el tiempo acompaña. Fuera de esos meses la piscina está cerrada, así que reserva en otro sitio si bañarse es imprescindible.",
@@ -1829,7 +1829,7 @@
           },
           "a": {
             "en": "A suite or two connecting rooms is the comfortable option. Standard rooms fit a couple plus a cot or one small child.",
-            "fr": "Une suite ou deux chambres communicantes est l'option confortable. Une chambre standard convient a un couple avec un lit bebe ou un jeune enfant.",
+            "fr": "Une suite ou deux chambres communicantes est l'option confortable. Une chambre standard convient à un couple avec un lit bébé ou un jeune enfant.",
             "it": "Una suite o due camere comunicanti sono l'opzione comoda. Le camere standard ospitano una coppia più una culla o un bambino piccolo.",
             "de": "Eine Suite oder zwei Verbindungszimmer sind die bequeme Option. Standardzimmer bieten Platz für ein Paar plus Reisebett oder ein kleines Kind.",
             "es": "Una suite o dos habitaciones comunicantes son la opción cómoda. Las habitaciones estándar caben una pareja más una cuna o un niño pequeño.",
@@ -1839,7 +1839,7 @@
         {
           "q": {
             "en": "Is it walkable to the main sights?",
-            "fr": "Les principaux sites sont-ils accessibles a pied ?",
+            "fr": "Les principaux sites sont-ils accessibles à pied ?",
             "it": "Le attrazioni principali sono raggiungibili a piedi?",
             "de": "Sind die wichtigsten Sehenswürdigkeiten zu Fuß erreichbar?",
             "es": "¿Se puede ir a pie a los principales lugares de interés?",
@@ -1847,7 +1847,7 @@
           },
           "a": {
             "en": "Yes, it is a flat walk down the avenue to Baixa and the river, with metro and tram a couple of minutes away.",
-            "fr": "Oui, une descente plate de l'avenue mene a la Baixa et au fleuve, avec metro et tram a deux minutes.",
+            "fr": "Oui, une descente plate de l'avenue mène à la Baixa et au fleuve, avec métro et tram à deux minutes.",
             "it": "Sì, è una passeggiata pianeggiante lungo il viale fino alla Baixa e al fiume, con metro e tram a un paio di minuti.",
             "de": "Ja, es ist ein flacher Spaziergang die Allee hinunter zur Baixa und zum Fluss, Metro und Tram sind ein paar Minuten entfernt.",
             "es": "Sí, es un paseo llano por la avenida hasta la Baixa y el río, con metro y tranvía a un par de minutos.",
@@ -1902,7 +1902,7 @@
       },
       "roomsSummary": {
         "en": "A small design hotel of 50 rooms and suites, all with river views. Suites give a family more room and a sofa area, but this is a boutique property rather than a bunk-bed family factory, so a suite or connecting pair is the way to fit four. Cots on request.",
-        "fr": "Petit hotel design de 50 chambres et suites, toutes avec vue fleuve. Les suites offrent plus d'espace et un coin salon, mais c'est un etablissement de charme, pas une usine a lits superposes : privilegiez une suite ou deux chambres communicantes pour loger quatre personnes. Lit bebe sur demande.",
+        "fr": "Petit hôtel design de 50 chambres et suites, toutes avec vue fleuve. Les suites offrent plus d'espace et un coin salon, mais c'est un établissement de charme, pas une usine à lits superposés : privilégiez une suite ou deux chambres communicantes pour loger quatre personnes. Lit bébé sur demande.",
         "it": "Un piccolo design hotel di 50 camere e suite, tutte con vista sul fiume. Le suite offrono a una famiglia più spazio e un angolo salotto, ma è un boutique hotel più che una fabbrica di letti a castello per famiglie: per ospitare quattro persone la strada è una suite o due camere comunicanti. Culle su richiesta.",
         "de": "Ein kleines Designhotel mit 50 Zimmern und Suiten, alle mit Flussblick. Suiten bieten einer Familie mehr Platz und eine Sofaecke, doch dies ist ein Boutiquehaus und keine Etagenbett-Familienfabrik, sodass eine Suite oder zwei Verbindungszimmer der Weg für vier Personen sind. Reisebetten auf Anfrage.",
         "es": "Un pequeño hotel de diseño de 50 habitaciones y suites, todas con vistas al río. Las suites dan a la familia más espacio y una zona de sofá, pero es un hotel boutique más que una fábrica familiar de literas, así que una suite o dos habitaciones comunicantes es la forma de meter a cuatro. Cunas bajo petición.",
@@ -1910,7 +1910,7 @@
       },
       "intro": {
         "en": "Right on the Belem waterfront, steps from the monastery and the pastel de nata that made the district famous, Altis Belem is a sleek design hotel with both an indoor and a rooftop pool. It suits culture-minded families who want monuments in the morning and a swim in the afternoon.",
-        "fr": "En bord de Tage a Belem, a deux pas du monastere et du pastel de nata qui a fait la renommee du quartier, l'Altis Belem est un hotel design elegant avec piscine interieure et piscine sur le toit. Il convient aux familles amatrices de culture qui veulent des monuments le matin et une baignade l'apres-midi.",
+        "fr": "En bord de Tage à Belem, à deux pas du monastère et du pastel de nata qui a fait la renommée du quartier, l'Altis Belem est un hôtel design élégant avec piscine intérieure et piscine sur le toit. Il convient aux familles amatrices de culture qui veulent des monuments le matin et une baignade l'après-midi.",
         "it": "Proprio sul lungofiume di Belem, a due passi dal monastero e dai pastel de nata che hanno reso famoso il quartiere, l'Altis Belem è un elegante design hotel con piscina interna e piscina sul tetto. Si addice alle famiglie appassionate di cultura che vogliono monumenti al mattino e un bagno nel pomeriggio.",
         "de": "Direkt an der Uferpromenade von Belem, wenige Schritte vom Kloster und den Pastéis de Nata entfernt, die das Viertel berühmt gemacht haben, ist das Altis Belem ein elegantes Designhotel mit einem Innen- und einem Dachpool. Es passt zu kulturbegeisterten Familien, die vormittags Monumente und nachmittags ein Bad wollen.",
         "es": "Justo en el paseo marítimo de Belem, a unos pasos del monasterio y del pastel de nata que hizo famoso el barrio, el Altis Belem es un elegante hotel de diseño con piscina interior y piscina en la azotea. Encaja con familias amantes de la cultura que quieren monumentos por la mañana y un baño por la tarde.",
@@ -1926,12 +1926,12 @@
           "River ferries and the coast train run from nearby"
         ],
         "fr": [
-          "Une piscine interieure et une piscine exterieure sur le toit avec vue fleuve",
-          "Les monuments de Belem et les celebres pasteis a quelques minutes a pied",
+          "Une piscine intérieure et une piscine extérieure sur le toit avec vue fleuve",
+          "Les monuments de Belem et les célèbres pasteis à quelques minutes à pied",
           "Suites familiales avec coin salon et vue sur le fleuve",
-          "Garde d'enfants disponible pour tester le restaurant etoile",
+          "Garde d'enfants disponible pour tester le restaurant étoilé",
           "Un cadre calme au bord de la marina, loin de la cohue",
-          "Bateaux fluviaux et train du littoral a proximite"
+          "Bateaux fluviaux et train du littoral à proximité"
         ],
         "it": [
           "Sia una piscina interna sia una piscina all'aperto sul tetto con vista sul fiume",
@@ -1973,8 +1973,8 @@
           "Quiet, scenic waterfront location"
         ],
         "fr": [
-          "Deux piscines, chose rare pour un hotel de ville a Lisbonne",
-          "A pied des grands sites de Belem",
+          "Deux piscines, chose rare pour un hôtel de ville à Lisbonne",
+          "À pied des grands sites de Belem",
           "Emplacement calme et pittoresque au bord de l'eau"
         ],
         "it": [
@@ -2005,8 +2005,8 @@
           "Only 50 rooms, so family layouts sell out early"
         ],
         "fr": [
-          "Les moins de 16 ans n'accedent aux piscines que sur des horaires enfants limites (10h a 12h)",
-          "Belem est a 20 min de tram ou de train du centre historique",
+          "Les moins de 16 ans n'accèdent aux piscines que sur des horaires enfants limités (10h à 12h)",
+          "Belem est à 20 min de tram ou de train du centre historique",
           "Seulement 50 chambres : les configurations familiales partent vite"
         ],
         "it": [
@@ -2032,7 +2032,7 @@
       },
       "verdict": {
         "en": "A design-led waterfront base for culture-loving families, as long as you plan swims around the restricted Kids pool hours.",
-        "fr": "Une base design au bord de l'eau pour familles amatrices de culture, a condition d'organiser les baignades autour des horaires enfants restreints.",
+        "fr": "Une base design au bord de l'eau pour familles amatrices de culture, à condition d'organiser les baignades autour des horaires enfants restreints.",
         "it": "Una base di design sul lungofiume per famiglie amanti della cultura, a patto di organizzare i bagni intorno agli orari limitati della piscina per bambini.",
         "de": "Eine designorientierte Basis am Wasser für kulturbegeisterte Familien, solange Sie das Schwimmen um die begrenzten Kinder-Poolzeiten herum planen.",
         "es": "Una base de diseño junto al agua para familias amantes de la cultura, siempre que planifiques los baños en torno al horario restringido de la piscina infantil.",
@@ -2040,7 +2040,7 @@
       },
       "parentTip": {
         "en": "The Kids pool window is only 10:00 to 12:00, so do the monastery at opening time and swim straight after, before the queues and the heat build.",
-        "fr": "Le creneau piscine enfants n'est que de 10h a 12h : visitez le monastere des l'ouverture et enchainez la baignade, avant les files et la chaleur.",
+        "fr": "Le créneau piscine enfants n'est que de 10h à 12h : visitez le monastère dès l'ouverture et enchaînez la baignade, avant les files et la chaleur.",
         "it": "La finestra della piscina per bambini è solo dalle 10:00 alle 12:00: visitate il monastero all'apertura e fate subito il bagno, prima che si formino code e caldo.",
         "de": "Das Kinder-Pool-Zeitfenster ist nur von 10:00 bis 12:00 Uhr: Besuchen Sie das Kloster zur Öffnungszeit und schwimmen Sie gleich danach, bevor Schlangen und Hitze zunehmen.",
         "es": "La franja de la piscina infantil es solo de 10:00 a 12:00, así que visita el monasterio nada más abrir y báñate justo después, antes de que se formen colas y apriete el calor.",
@@ -2078,7 +2078,7 @@
           },
           "value": {
             "en": "Indoor and rooftop",
-            "fr": "Interieure et sur le toit",
+            "fr": "Intérieure et sur le toit",
             "it": "Interna e sul tetto",
             "de": "Innen und auf dem Dach",
             "es": "Interior y en la azotea",
@@ -2097,7 +2097,7 @@
           },
           "value": {
             "en": "10:00 to 12:00 only",
-            "fr": "10h a 12h uniquement",
+            "fr": "10h à 12h uniquement",
             "it": "Solo dalle 10:00 alle 12:00",
             "de": "Nur 10:00 bis 12:00 Uhr",
             "es": "Solo de 10:00 a 12:00",
@@ -2116,7 +2116,7 @@
           },
           "value": {
             "en": "5 min walk",
-            "fr": "5 min a pied",
+            "fr": "5 min à pied",
             "it": "5 min a piedi",
             "de": "5 Min. zu Fuß",
             "es": "5 min a pie",
@@ -2167,7 +2167,7 @@
           "emoji": "⛪",
           "name": {
             "en": "Jeronimos Monastery",
-            "fr": "Monastere des Jeronimos",
+            "fr": "Monastère des Jeronimos",
             "it": "Monastero dos Jeronimos",
             "de": "Hieronymuskloster",
             "es": "Monasterio de los Jerónimos",
@@ -2175,7 +2175,7 @@
           },
           "detail": {
             "en": "A vast, ornate cloister where kids hunt for carved sea monsters in the stone.",
-            "fr": "Un cloitre immense et ouvrage ou les enfants cherchent les monstres marins sculptes dans la pierre.",
+            "fr": "Un cloître immense et ouvragé où les enfants cherchent les monstres marins sculptés dans la pierre.",
             "it": "Un chiostro immenso e riccamente decorato dove i bambini cercano i mostri marini scolpiti nella pietra.",
             "de": "Ein weitläufiger, kunstvoller Kreuzgang, in dem Kinder nach in Stein gehauenen Seeungeheuern suchen.",
             "es": "Un claustro enorme y recargado donde los niños buscan monstruos marinos tallados en la piedra.",
@@ -2198,7 +2198,7 @@
           "emoji": "🐎",
           "name": {
             "en": "Coaches Museum",
-            "fr": "Musee des Carrosses",
+            "fr": "Musée des Carrosses",
             "it": "Museo delle Carrozze",
             "de": "Kutschenmuseum",
             "es": "Museo de las Carrozas",
@@ -2206,7 +2206,7 @@
           },
           "detail": {
             "en": "Rows of gilded royal carriages that look like they rolled out of a fairy tale.",
-            "fr": "Des rangees de carrosses royaux dores, tout droit sortis d'un conte de fees.",
+            "fr": "Des rangées de carrosses royaux dorés, tout droit sortis d'un conte de fées.",
             "it": "File di carrozze reali dorate che sembrano uscite da una fiaba.",
             "de": "Reihen vergoldeter königlicher Kutschen, die wie aus einem Märchen gerollt wirken.",
             "es": "Hileras de carrozas reales doradas que parecen salidas de un cuento de hadas.",
@@ -2238,7 +2238,7 @@
           },
           "detail": {
             "en": "The original custard-tart bakery, still warm from the oven and worth the short queue.",
-            "fr": "La patisserie d'origine du pastel de nata, encore tiede, qui vaut la petite file d'attente.",
+            "fr": "La pâtisserie d'origine du pastel de nata, encore tiède, qui vaut la petite file d'attente.",
             "it": "La pasticceria originale dei pastel de nata, ancora caldi dal forno e che valgono la breve coda.",
             "de": "Die ursprüngliche Bäckerei der Puddingtörtchen, noch ofenwarm und die kurze Schlange wert.",
             "es": "La pastelería original del pastel de nata, aún caliente del horno y que bien vale la breve cola.",
@@ -2270,7 +2270,7 @@
           },
           "detail": {
             "en": "A little fortress in the river with spiral stairs to climb and cannon to peer through.",
-            "fr": "Une petite forteresse dans le fleuve, avec escaliers en colimacon a gravir et canons a observer.",
+            "fr": "Une petite forteresse dans le fleuve, avec escaliers en colimaçon à gravir et canons à observer.",
             "it": "Una piccola fortezza nel fiume con scale a chiocciola da salire e cannoni da sbirciare.",
             "de": "Eine kleine Festung im Fluss mit Wendeltreppen zum Erklimmen und Kanonen zum Durchspähen.",
             "es": "Una pequeña fortaleza en el río con escaleras de caracol para subir y cañones por los que asomarse.",
@@ -2295,7 +2295,7 @@
           "time": "8:30",
           "title": {
             "en": "Breakfast by the marina",
-            "fr": "Petit-dejeuner face a la marina",
+            "fr": "Petit-déjeuner face à la marina",
             "it": "Colazione accanto alla marina",
             "de": "Frühstück am Yachthafen",
             "es": "Desayuno junto al puerto deportivo",
@@ -2303,7 +2303,7 @@
           },
           "note": {
             "en": "Boats and river light to start the day.",
-            "fr": "Bateaux et lumiere du fleuve pour bien commencer.",
+            "fr": "Bateaux et lumière du fleuve pour bien commencer.",
             "it": "Barche e luce del fiume per iniziare la giornata.",
             "de": "Boote und Flusslicht zum Start in den Tag.",
             "es": "Barcos y la luz del río para empezar el día.",
@@ -2314,7 +2314,7 @@
           "time": "9:30",
           "title": {
             "en": "Monastery at opening",
-            "fr": "Monastere a l'ouverture",
+            "fr": "Monastère à l'ouverture",
             "it": "Monastero all'apertura",
             "de": "Kloster zur Öffnung",
             "es": "Monasterio a la apertura",
@@ -2322,7 +2322,7 @@
           },
           "note": {
             "en": "Beat the tour groups to the cloister.",
-            "fr": "On devance les groupes dans le cloitre.",
+            "fr": "On devance les groupes dans le cloître.",
             "it": "Anticipate i gruppi organizzati nel chiostro.",
             "de": "Den Reisegruppen im Kreuzgang zuvorkommen.",
             "es": "Adelántate a los grupos de turistas en el claustro.",
@@ -2341,7 +2341,7 @@
           },
           "note": {
             "en": "Straight back for a swim in the 10:00 to 12:00 window.",
-            "fr": "Retour direct pour nager dans le creneau 10h a 12h.",
+            "fr": "Retour direct pour nager dans le créneau 10h à 12h.",
             "it": "Ritorno immediato per un bagno nella finestra dalle 10:00 alle 12:00.",
             "de": "Gleich zurück für ein Bad im Zeitfenster 10:00 bis 12:00 Uhr.",
             "es": "Vuelta directa para un baño en la franja de 10:00 a 12:00.",
@@ -2352,7 +2352,7 @@
           "time": "13:00",
           "title": {
             "en": "Tarts and riverside lunch",
-            "fr": "Pasteis et dejeuner au bord de l'eau",
+            "fr": "Pasteis et déjeuner au bord de l'eau",
             "it": "Pastel de nata e pranzo sul fiume",
             "de": "Törtchen und Mittagessen am Fluss",
             "es": "Pasteles y comida junto al río",
@@ -2360,7 +2360,7 @@
           },
           "note": {
             "en": "Custard tarts then something savoury nearby.",
-            "fr": "Pasteis de nata puis un plat sale a cote.",
+            "fr": "Pasteis de nata puis un plat salé à côté.",
             "it": "Pastel de nata e poi qualcosa di salato lì vicino.",
             "de": "Puddingtörtchen und dann etwas Herzhaftes in der Nähe.",
             "es": "Pasteles de nata y luego algo salado por la zona.",
@@ -2379,7 +2379,7 @@
           },
           "note": {
             "en": "Climb the spiral stairs and spot the cannons.",
-            "fr": "On grimpe l'escalier en colimacon et on repere les canons.",
+            "fr": "On grimpe l'escalier en colimaçon et on repère les canons.",
             "it": "Salite le scale a chiocciola e individuate i cannoni.",
             "de": "Die Wendeltreppen erklimmen und die Kanonen entdecken.",
             "es": "Sube las escaleras de caracol y localiza los cañones.",
@@ -2390,7 +2390,7 @@
       "ageNotes": {
         "baby": {
           "en": "Suites and cots work, but the restricted Kids pool hours and the boutique, adult feel make it easier with children who nap on the go.",
-          "fr": "Suites et lits bebe conviennent, mais les horaires piscine enfants limites et l'ambiance de charme plutot adulte facilitent la vie avec des enfants qui dorment en deplacement.",
+          "fr": "Suites et lits bébé conviennent, mais les horaires piscine enfants limités et l'ambiance de charme plutôt adulte facilitent la vie avec des enfants qui dorment en déplacement.",
           "it": "Suite e culle vanno bene, ma gli orari limitati della piscina per bambini e l'atmosfera boutique e adulta rendono tutto più semplice con bambini che dormono in movimento.",
           "de": "Suiten und Reisebetten funktionieren, doch die begrenzten Kinder-Poolzeiten und das boutiquehafte, erwachsene Ambiente machen es mit Kindern leichter, die unterwegs schlafen.",
           "es": "Las suites y las cunas funcionan, pero el horario restringido de la piscina infantil y el ambiente boutique y adulto lo hacen más fácil con niños que duermen sobre la marcha.",
@@ -2398,7 +2398,7 @@
         },
         "kid": {
           "en": "The monastery, tower and carriage museum are a hit with primary-age kids, and the morning pool slot rewards an early start.",
-          "fr": "Le monastere, la tour et le musee des carrosses plaisent aux enfants du primaire, et le creneau piscine du matin recompense les leve-tot.",
+          "fr": "Le monastère, la tour et le musée des carrosses plaisent aux enfants du primaire, et le créneau piscine du matin récompense les lève-tôt.",
           "it": "Il monastero, la torre e il museo delle carrozze piacciono ai bambini delle elementari, e lo slot mattutino della piscina premia chi comincia presto.",
           "de": "Kloster, Turm und Kutschenmuseum kommen bei Grundschulkindern gut an, und der Vormittags-Pool-Slot belohnt einen frühen Start.",
           "es": "El monasterio, la torre y el museo de las carrozas encantan a los niños de primaria, y la franja de piscina de la mañana premia madrugar.",
@@ -2406,7 +2406,7 @@
         },
         "teen": {
           "en": "Teens enjoy the design interiors, the waterfront cycling path and cafe-hopping around Belem's museums.",
-          "fr": "Les ados apprecient les interieurs design, la piste cyclable en bord de fleuve et les cafes autour des musees de Belem.",
+          "fr": "Les ados apprécient les intérieurs design, la piste cyclable en bord de fleuve et les cafés autour des musées de Belem.",
           "it": "Gli adolescenti apprezzano gli interni di design, la pista ciclabile sul lungofiume e il giro dei caffè intorno ai musei di Belem.",
           "de": "Teenager genießen das Design-Interieur, den Radweg am Wasser und das Café-Hopping rund um die Museen von Belem.",
           "es": "Los adolescentes disfrutan de los interiores de diseño, el carril bici junto al agua y el ir de café en café por los museos de Belem.",
@@ -2425,7 +2425,7 @@
           },
           "a": {
             "en": "Yes, but access to the spa and indoor pool for under-16s is limited to Kids hours, typically 10:00 to 12:00. Plan your day around that window.",
-            "fr": "Oui, mais l'acces au spa et a la piscine interieure pour les moins de 16 ans se limite aux horaires enfants, en general de 10h a 12h. Organisez la journee autour de ce creneau.",
+            "fr": "Oui, mais l'accès au spa et à la piscine intérieure pour les moins de 16 ans se limite aux horaires enfants, en général de 10h à 12h. Organisez la journée autour de ce créneau.",
             "it": "Sì, ma l'accesso alla spa e alla piscina interna per gli under 16 è limitato agli orari per bambini, di solito dalle 10:00 alle 12:00. Organizzate la giornata intorno a questa finestra.",
             "de": "Ja, doch der Zutritt zu Spa und Innenpool ist für unter 16-Jährige auf die Kinderzeiten beschränkt, meist 10:00 bis 12:00 Uhr. Planen Sie Ihren Tag um dieses Zeitfenster herum.",
             "es": "Sí, pero el acceso al spa y a la piscina interior para menores de 16 años se limita al horario infantil, normalmente de 10:00 a 12:00. Organiza el día en torno a esa franja.",
@@ -2453,7 +2453,7 @@
         {
           "q": {
             "en": "Is it good for a short culture-focused stay?",
-            "fr": "Est-ce adapte a un court sejour culturel ?",
+            "fr": "Est-ce adapté à un court séjour culturel ?",
             "it": "È adatto a un breve soggiorno all'insegna della cultura?",
             "de": "Eignet es sich für einen kurzen, kulturbetonten Aufenthalt?",
             "es": "¿Es bueno para una estancia corta centrada en la cultura?",
@@ -2461,7 +2461,7 @@
           },
           "a": {
             "en": "Yes. You can walk to the monastery, tower and museums, then retreat to a quiet waterfront hotel with two pools.",
-            "fr": "Oui. On rejoint a pied le monastere, la tour et les musees, puis on se replie dans un hotel calme au bord de l'eau avec deux piscines.",
+            "fr": "Oui. On rejoint à pied le monastère, la tour et les musées, puis on se replie dans un hôtel calme au bord de l'eau avec deux piscines.",
             "it": "Sì. Potete raggiungere a piedi il monastero, la torre e i musei, per poi rifugiarvi in un tranquillo hotel sul fiume con due piscine.",
             "de": "Ja. Sie können zu Fuß zum Kloster, Turm und zu den Museen gehen und sich dann in ein ruhiges Hotel am Wasser mit zwei Pools zurückziehen.",
             "es": "Sí. Puedes ir a pie al monasterio, la torre y los museos, y luego retirarte a un tranquilo hotel junto al agua con dos piscinas.",
@@ -2517,7 +2517,7 @@
       },
       "roomsSummary": {
         "en": "A large hotel with the space city-centre boutiques lack: roomy doubles, connecting rooms and suites, with children under 16 staying free when sharing with parents. That free-sharing policy plus connecting rooms makes a four-person stay genuinely affordable here. Cots and extra beds on request.",
-        "fr": "Un grand hotel avec l'espace qui manque aux boutiques du centre : chambres doubles vastes, chambres communicantes et suites, les moins de 16 ans logeant gratuitement avec leurs parents. Cette gratuite plus les chambres communicantes rendent un sejour a quatre vraiment abordable. Lits bebe et lits d'appoint sur demande.",
+        "fr": "Un grand hôtel avec l'espace qui manque aux boutiques du centre : chambres doubles vastes, chambres communicantes et suites, les moins de 16 ans logeant gratuitement avec leurs parents. Cette gratuité plus les chambres communicantes rendent un séjour à quatre vraiment abordable. Lits bébé et lits d'appoint sur demande.",
         "it": "Un grande hotel con lo spazio che manca alle boutique del centro: doppie ampie, camere comunicanti e suite, con i bambini sotto i 16 anni che alloggiano gratis condividendo la stanza dei genitori. Questa gratuità unita alle camere comunicanti rende un soggiorno per quattro davvero conveniente. Culle e letti aggiuntivi su richiesta.",
         "de": "Ein großes Hotel mit dem Platz, der den Boutiquen im Zentrum fehlt: geräumige Doppelzimmer, Verbindungszimmer und Suiten, wobei Kinder unter 16 kostenlos im Zimmer der Eltern übernachten. Diese kostenlose Mitübernachtung plus Verbindungszimmer machen einen Aufenthalt zu viert hier wirklich erschwinglich. Reisebetten und Zustellbetten auf Anfrage.",
         "es": "Un hotel grande con el espacio que les falta a las boutiques del centro: dobles amplias, habitaciones comunicantes y suites, con los menores de 16 años alojándose gratis al compartir con los padres. Esa gratuidad más las habitaciones comunicantes hacen que una estancia para cuatro salga de verdad asequible aquí. Cunas y camas supletorias bajo petición.",
@@ -2525,7 +2525,7 @@
       },
       "intro": {
         "en": "A big, comfortable hotel near Marques de Pombal with the largest spa in Lisbon and, crucially for families, the city zoo right next door. Kids under 16 stay free, which turns a smart four-star into one of the better value family bases in town.",
-        "fr": "Grand hotel confortable pres de Marques de Pombal, avec le plus vaste spa de Lisbonne et, atout majeur pour les familles, le zoo juste a cote. Les moins de 16 ans logent gratuitement, ce qui transforme ce quatre-etoiles soigne en l'une des meilleures bases familiales de la ville en rapport qualite-prix.",
+        "fr": "Grand hôtel confortable près de Marques de Pombal, avec le plus vaste spa de Lisbonne et, atout majeur pour les familles, le zoo juste à côté. Les moins de 16 ans logent gratuitement, ce qui transforme ce quatre-étoiles soigné en l'une des meilleures bases familiales de la ville en rapport qualité-prix.",
         "it": "Un grande e confortevole hotel vicino a Marques de Pombal con la spa più ampia di Lisbona e, cosa fondamentale per le famiglie, lo zoo cittadino proprio accanto. I bambini sotto i 16 anni alloggiano gratis, il che trasforma un elegante quattro stelle in una delle basi per famiglie con il miglior rapporto qualità-prezzo in città.",
         "de": "Ein großes, komfortables Hotel nahe Marques de Pombal mit dem größten Spa Lissabons und, entscheidend für Familien, dem städtischen Zoo direkt nebenan. Kinder unter 16 übernachten kostenlos, was ein schickes Vier-Sterne-Haus zu einer der preiswertesten Familienbasen der Stadt macht.",
         "es": "Un hotel grande y cómodo cerca de Marques de Pombal con el spa más grande de Lisboa y, algo clave para las familias, el zoo de la ciudad justo al lado. Los menores de 16 años se alojan gratis, lo que convierte un elegante cuatro estrellas en una de las bases familiares con mejor relación calidad-precio de la ciudad.",
@@ -2542,8 +2542,8 @@
         ],
         "fr": [
           "Les moins de 16 ans logent gratuitement dans la chambre des parents",
-          "Le zoo de Lisbonne est juste a cote, avec sa propre station de metro",
-          "Piscine sur le toit avec un large espace famille (hors section infinity reservee aux adultes)",
+          "Le zoo de Lisbonne est juste à côté, avec sa propre station de métro",
+          "Piscine sur le toit avec un large espace famille (hors section infinity réservée aux adultes)",
           "Le plus grand spa de la ville, avec circuit aquatique pour le temps calme des parents",
           "Chambres communicantes et suites pour les familles nombreuses",
           "Trois restaurants avec menus enfants sur place"
@@ -2588,8 +2588,8 @@
           "Big rooms and connecting options that fit real families"
         ],
         "fr": [
-          "Les moins de 16 ans logent gratuitement, excellent rapport qualite-prix",
-          "Le zoo a la porte, avec sa propre station de metro",
+          "Les moins de 16 ans logent gratuitement, excellent rapport qualité-prix",
+          "Le zoo à la porte, avec sa propre station de métro",
           "Grandes chambres et options communicantes pour vraies familles"
         ],
         "it": [
@@ -2621,8 +2621,8 @@
         ],
         "fr": [
           "Sete Rios est un quartier d'affaires, moins charmant que la vieille ville",
-          "Les moins de 16 ans doivent etre accompagnes d'un adulte nageur dans la piscine, et le circuit aquatique du spa est payant",
-          "L'echelle d'un grand hotel peut sembler impersonnelle"
+          "Les moins de 16 ans doivent être accompagnés d'un adulte nageur dans la piscine, et le circuit aquatique du spa est payant",
+          "L'échelle d'un grand hôtel peut sembler impersonnelle"
         ],
         "it": [
           "Sete Rios è un quartiere d'affari, meno affascinante della città vecchia",
@@ -2647,7 +2647,7 @@
       },
       "verdict": {
         "en": "The value play for families: free kids, a zoo next door and big connecting rooms, with a short metro hop to the centre.",
-        "fr": "Le bon plan des familles : enfants gratuits, zoo a cote et grandes chambres communicantes, a un saut de metro du centre.",
+        "fr": "Le bon plan des familles : enfants gratuits, zoo à côté et grandes chambres communicantes, à un saut de métro du centre.",
         "it": "La scelta conveniente per le famiglie: bambini gratis, uno zoo accanto e grandi camere comunicanti, a un breve tratto di metro dal centro.",
         "de": "Die günstige Wahl für Familien: kostenlose Kinder, ein Zoo nebenan und große Verbindungszimmer, mit einer kurzen Metrofahrt ins Zentrum.",
         "es": "La opción con mejor relación calidad-precio para las familias: niños gratis, un zoo al lado y grandes habitaciones comunicantes, a un salto de metro del centro.",
@@ -2655,7 +2655,7 @@
       },
       "parentTip": {
         "en": "Buy zoo tickets online and go at opening: the animals are livelier in the cool morning and you are back for pool time by lunch.",
-        "fr": "Achetez les billets du zoo en ligne et allez-y a l'ouverture : les animaux sont plus actifs au frais du matin et vous rentrez pour la piscine a midi.",
+        "fr": "Achetez les billets du zoo en ligne et allez-y à l'ouverture : les animaux sont plus actifs au frais du matin et vous rentrez pour la piscine à midi.",
         "it": "Comprate i biglietti dello zoo online e andate all'apertura: gli animali sono più vivaci nel fresco del mattino e sarete di ritorno per la piscina all'ora di pranzo.",
         "de": "Kaufen Sie die Zootickets online und gehen Sie zur Öffnung: Die Tiere sind in der kühlen Morgenluft lebhafter, und Sie sind bis zum Mittag zurück für die Poolzeit.",
         "es": "Compra las entradas del zoo por internet y ve a la apertura: los animales están más activos en la fresca de la mañana y vuelves para la piscina a la hora de comer.",
@@ -2693,7 +2693,7 @@
           },
           "value": {
             "en": "Next door",
-            "fr": "Juste a cote",
+            "fr": "Juste à côté",
             "it": "Proprio accanto",
             "de": "Direkt nebenan",
             "es": "Al lado",
@@ -2750,7 +2750,7 @@
           },
           "value": {
             "en": "5 min metro to Avenida",
-            "fr": "5 min de metro d'Avenida",
+            "fr": "5 min de métro d'Avenida",
             "it": "5 min di metro fino ad Avenida",
             "de": "5 Min. mit der Metro bis Avenida",
             "es": "5 min en metro a Avenida",
@@ -2790,7 +2790,7 @@
           },
           "detail": {
             "en": "Big-cat feedings, a cable car over the enclosures and a dolphin show, all next to the hotel.",
-            "fr": "Nourrissage des fauves, telecabine au-dessus des enclos et spectacle de dauphins, juste a cote de l'hotel.",
+            "fr": "Nourrissage des fauves, télécabine au-dessus des enclos et spectacle de dauphins, juste à côté de l'hôtel.",
             "it": "Pasti dei grandi felini, una funivia sopra i recinti e uno spettacolo di delfini, tutto accanto all'hotel.",
             "de": "Fütterungen der Großkatzen, eine Seilbahn über die Gehege und eine Delfinshow, alles neben dem Hotel.",
             "es": "Alimentación de los grandes felinos, un teleférico sobre los recintos y un espectáculo de delfines, todo junto al hotel.",
@@ -2823,7 +2823,7 @@
           },
           "detail": {
             "en": "A short metro ride to a large park with lawns to picnic on and a greenhouse to explore.",
-            "fr": "Un court trajet de metro vers un grand parc, ideal pour pique-niquer, avec une serre a explorer.",
+            "fr": "Un court trajet de métro vers un grand parc, idéal pour pique-niquer, avec une serre à explorer.",
             "it": "Un breve tratto di metro fino a un grande parco con prati per il picnic e una serra da esplorare.",
             "de": "Eine kurze Metrofahrt zu einem großen Park mit Rasenflächen zum Picknicken und einem Gewächshaus zum Erkunden.",
             "es": "Un corto trayecto en metro hasta un gran parque con céspedes para hacer picnic y un invernadero por explorar.",
@@ -2855,7 +2855,7 @@
           },
           "detail": {
             "en": "Leafy gardens with ponds and ducks around a family-friendly art museum.",
-            "fr": "Des jardins verdoyants avec bassins et canards autour d'un musee d'art accueillant pour les familles.",
+            "fr": "Des jardins verdoyants avec bassins et canards autour d'un musée d'art accueillant pour les familles.",
             "it": "Giardini verdeggianti con stagni e anatre attorno a un museo d'arte a misura di famiglia.",
             "de": "Grüne Gärten mit Teichen und Enten rund um ein familienfreundliches Kunstmuseum.",
             "es": "Jardines frondosos con estanques y patos alrededor de un museo de arte apto para familias.",
@@ -2879,7 +2879,7 @@
           "emoji": "🚇",
           "name": {
             "en": "Metro to Baixa",
-            "fr": "Metro vers la Baixa",
+            "fr": "Métro vers la Baixa",
             "it": "Metro verso la Baixa",
             "de": "Metro zur Baixa",
             "es": "Metro a la Baixa",
@@ -2887,7 +2887,7 @@
           },
           "detail": {
             "en": "Five minutes on the metro drops you at the grand avenue and the old town beyond.",
-            "fr": "Cinq minutes de metro vous deposent sur la grande avenue et la vieille ville au-dela.",
+            "fr": "Cinq minutes de métro vous déposent sur la grande avenue et la vieille ville au-delà.",
             "it": "Cinque minuti di metro vi lasciano sul grande viale e sulla città vecchia più oltre.",
             "de": "Fünf Minuten mit der Metro bringen Sie zur großen Allee und zur Altstadt dahinter.",
             "es": "Cinco minutos en metro te dejan en la gran avenida y en el casco antiguo más allá.",
@@ -2921,7 +2921,7 @@
           },
           "note": {
             "en": "Plenty of choice to fuel a zoo day.",
-            "fr": "De quoi tenir toute une journee au zoo.",
+            "fr": "De quoi tenir toute une journée au zoo.",
             "it": "Tanta scelta per affrontare una giornata allo zoo.",
             "de": "Reichlich Auswahl als Stärkung für einen Zootag.",
             "es": "Mucha variedad para afrontar un día de zoo.",
@@ -2932,7 +2932,7 @@
           "time": "9:30",
           "title": {
             "en": "Zoo next door",
-            "fr": "Zoo a cote",
+            "fr": "Zoo à côté",
             "it": "Zoo accanto",
             "de": "Zoo nebenan",
             "es": "Zoo al lado",
@@ -2940,7 +2940,7 @@
           },
           "note": {
             "en": "Straight in at opening, cable car first.",
-            "fr": "On entre a l'ouverture, telecabine en premier.",
+            "fr": "On entre à l'ouverture, télécabine en premier.",
             "it": "Dentro subito all'apertura, prima la funivia.",
             "de": "Gleich zur Öffnung hinein, zuerst die Seilbahn.",
             "es": "Dentro nada más abrir, primero el teleférico.",
@@ -2951,7 +2951,7 @@
           "time": "13:00",
           "title": {
             "en": "Lunch back at the hotel",
-            "fr": "Dejeuner de retour a l'hotel",
+            "fr": "Déjeuner de retour à l'hôtel",
             "it": "Pranzo di ritorno in hotel",
             "de": "Mittagessen zurück im Hotel",
             "es": "Comida de vuelta en el hotel",
@@ -2959,7 +2959,7 @@
           },
           "note": {
             "en": "Kids' menu and a sit-down after the walking.",
-            "fr": "Menu enfants et pause assise apres la marche.",
+            "fr": "Menu enfants et pause assise après la marche.",
             "it": "Menu per bambini e una pausa seduti dopo la camminata.",
             "de": "Kindermenü und eine Sitzpause nach dem Laufen.",
             "es": "Menú infantil y sentarse un rato tras la caminata.",
@@ -2989,7 +2989,7 @@
           "time": "18:00",
           "title": {
             "en": "Metro into town",
-            "fr": "Metro vers le centre",
+            "fr": "Métro vers le centre",
             "it": "Metro verso il centro",
             "de": "Mit der Metro in die Stadt",
             "es": "Metro al centro",
@@ -3008,7 +3008,7 @@
       "ageNotes": {
         "baby": {
           "en": "Connecting rooms, cots and a next-door zoo with flat paths make babies straightforward, and the free-sharing policy keeps costs down.",
-          "fr": "Chambres communicantes, lits bebe et un zoo voisin aux allees plates simplifient la vie avec un bebe, et la gratuite du partage limite les couts.",
+          "fr": "Chambres communicantes, lits bébé et un zoo voisin aux allées plates simplifient la vie avec un bébé, et la gratuité du partage limite les coûts.",
           "it": "Camere comunicanti, culle e uno zoo accanto con vialetti pianeggianti rendono tutto semplice con i neonati, e la gratuità della condivisione contiene i costi.",
           "de": "Verbindungszimmer, Reisebetten und ein Zoo nebenan mit flachen Wegen machen es mit Babys unkompliziert, und die kostenlose Mitübernachtung hält die Kosten niedrig.",
           "es": "Las habitaciones comunicantes, las cunas y un zoo al lado con caminos llanos lo hacen sencillo con bebés, y la gratuidad al compartir mantiene los costes bajos.",
@@ -3024,7 +3024,7 @@
         },
         "kid": {
           "en": "Free stays for under-16s and the zoo's cable car and shows make this a great-value pick for primary-age children.",
-          "fr": "La gratuite pour les moins de 16 ans, la telecabine et les spectacles du zoo en font un choix tres avantageux pour les enfants du primaire.",
+          "fr": "La gratuité pour les moins de 16 ans, la télécabine et les spectacles du zoo en font un choix très avantageux pour les enfants du primaire.",
           "it": "Il soggiorno gratuito per gli under 16 e la funivia e gli spettacoli dello zoo ne fanno una scelta molto conveniente per i bambini delle elementari.",
           "de": "Kostenlose Übernachtungen für unter 16-Jährige sowie die Seilbahn und Shows des Zoos machen es zur preiswerten Wahl für Grundschulkinder.",
           "es": "Las estancias gratis para menores de 16 años y el teleférico y los espectáculos del zoo lo hacen una opción muy económica para niños de primaria.",
@@ -3032,7 +3032,7 @@
         },
         "teen": {
           "en": "Teens get a free bed, a big pool and a five-minute metro line into the heart of the city.",
-          "fr": "Les ados profitent d'un lit gratuit, d'une grande piscine et d'un metro a cinq minutes du coeur de la ville.",
+          "fr": "Les ados profitent d'un lit gratuit, d'une grande piscine et d'un métro à cinq minutes du coeur de la ville.",
           "it": "Gli adolescenti hanno un letto gratis, una grande piscina e una linea di metro a cinque minuti dal cuore della città.",
           "de": "Teenager bekommen ein kostenloses Bett, einen großen Pool und eine Metrolinie, die in fünf Minuten ins Herz der Stadt führt.",
           "es": "Los adolescentes tienen cama gratis, una gran piscina y una línea de metro a cinco minutos del corazón de la ciudad.",
@@ -3051,7 +3051,7 @@
           },
           "a": {
             "en": "Under-16s stay free when sharing their parents' room. Meals and the spa aqua circuit are extra, but the room saving is significant.",
-            "fr": "Les moins de 16 ans logent gratuitement dans la chambre des parents. Les repas et le circuit aquatique du spa sont en supplement, mais l'economie sur la chambre est notable.",
+            "fr": "Les moins de 16 ans logent gratuitement dans la chambre des parents. Les repas et le circuit aquatique du spa sont en supplément, mais l'économie sur la chambre est notable.",
             "it": "Gli under 16 alloggiano gratis condividendo la camera dei genitori. I pasti e il percorso acquatico della spa sono a parte, ma il risparmio sulla camera è notevole.",
             "de": "Unter 16-Jährige übernachten kostenlos im Zimmer der Eltern. Mahlzeiten und der Wasserparcours des Spas kosten extra, aber die Ersparnis beim Zimmer ist erheblich.",
             "es": "Los menores de 16 años se alojan gratis al compartir la habitación de sus padres. Las comidas y el circuito de aguas del spa van aparte, pero el ahorro en la habitación es notable.",
@@ -3069,7 +3069,7 @@
           },
           "a": {
             "en": "Yes, in the family section, but under-16s must be with an adult who can swim. One infinity section is adults only.",
-            "fr": "Oui, dans la section famille, mais les moins de 16 ans doivent etre avec un adulte sachant nager. Une section infinity est reservee aux adultes.",
+            "fr": "Oui, dans la section famille, mais les moins de 16 ans doivent être avec un adulte sachant nager. Une section infinity est réservée aux adultes.",
             "it": "Sì, nella sezione famiglia, ma gli under 16 devono essere con un adulto che sappia nuotare. Una sezione infinity è riservata agli adulti.",
             "de": "Ja, im Familienbereich, doch unter 16-Jährige müssen mit einem Erwachsenen zusammen sein, der schwimmen kann. Ein Infinity-Bereich ist nur für Erwachsene.",
             "es": "Sí, en la zona familiar, pero los menores de 16 años deben estar con un adulto que sepa nadar. Una sección infinity es solo para adultos.",
@@ -3087,7 +3087,7 @@
           },
           "a": {
             "en": "It sits in the Sete Rios business area beside the zoo, with a metro stop that reaches Avenida da Liberdade in about five minutes.",
-            "fr": "Il se trouve dans le quartier d'affaires de Sete Rios, a cote du zoo, avec un metro qui rejoint l'Avenida da Liberdade en cinq minutes environ.",
+            "fr": "Il se trouve dans le quartier d'affaires de Sete Rios, à côté du zoo, avec un métro qui rejoint l'Avenida da Liberdade en cinq minutes environ.",
             "it": "Si trova nella zona d'affari di Sete Rios accanto allo zoo, con una fermata della metro che raggiunge l'Avenida da Liberdade in circa cinque minuti.",
             "de": "Es liegt im Geschäftsviertel Sete Rios neben dem Zoo, mit einer Metrostation, die die Avenida da Liberdade in etwa fünf Minuten erreicht.",
             "es": "Está en la zona de negocios de Sete Rios junto al zoo, con una parada de metro que llega a la Avenida da Liberdade en unos cinco minutos.",
@@ -3142,7 +3142,7 @@
       },
       "roomsSummary": {
         "en": "Self-contained apartments with a living room, dining area and a fully equipped kitchenette, plus a washing machine and soundproof windows. One and two-bedroom layouts genuinely sleep families of four, and the sofa bed in the living room can stretch to five. Bring or request a travel cot for babies.",
-        "fr": "Appartements autonomes avec salon, coin repas et kitchenette entierement equipee, plus lave-linge et fenetres insonorisees. Les configurations une et deux chambres accueillent vraiment des familles de quatre, et le canape-lit du salon peut monter a cinq. Prevoyez ou demandez un lit parapluie pour les bebes.",
+        "fr": "Appartements autonomes avec salon, coin repas et kitchenette entièrement équipée, plus lave-linge et fenêtres insonorisées. Les configurations une et deux chambres accueillent vraiment des familles de quatre, et le canapé-lit du salon peut monter à cinq. Prévoyez ou demandez un lit parapluie pour les bébés.",
         "it": "Appartamenti indipendenti con soggiorno, angolo pranzo e un angolo cottura completamente attrezzato, più lavatrice e finestre insonorizzate. Le soluzioni con una e due camere ospitano davvero famiglie di quattro, e il divano letto in soggiorno può arrivare a cinque. Portate o richiedete una culla da viaggio per i neonati.",
         "de": "Eigenständige Apartments mit Wohnzimmer, Essbereich und einer voll ausgestatteten Küchenzeile, dazu Waschmaschine und schallgedämmte Fenster. Die Grundrisse mit einem und zwei Schlafzimmern bieten wirklich Platz für vierköpfige Familien, und das Schlafsofa im Wohnzimmer reicht bis zu fünf. Bringen Sie ein Reisebett für Babys mit oder fordern Sie eines an.",
         "es": "Apartamentos independientes con salón, zona de comedor y una cocina americana totalmente equipada, además de lavadora y ventanas insonorizadas. Las distribuciones de uno y dos dormitorios duermen de verdad a familias de cuatro, y el sofá cama del salón puede llegar a cinco. Trae o pide una cuna de viaje para los bebés.",
@@ -3150,7 +3150,7 @@
       },
       "intro": {
         "en": "Tucked below the castle on the edge of Alfama, these serviced apartments give you a real Lisbon neighbourhood, a proper kitchen and a washing machine for a fraction of a four-star's price. It is a self-catering base for independent families happy to trade a reception desk for space and a front-door market.",
-        "fr": "Niches sous le chateau, en lisiere d'Alfama, ces appartements avec services offrent un vrai quartier lisboete, une cuisine digne de ce nom et un lave-linge, pour une fraction du prix d'un quatre-etoiles. Une base en autonomie pour les familles independantes pretes a echanger la reception contre de l'espace et une epicerie au pied de la porte.",
+        "fr": "Nichés sous le château, en lisière d'Alfama, ces appartements avec services offrent un vrai quartier lisboète, une cuisine digne de ce nom et un lave-linge, pour une fraction du prix d'un quatre-étoiles. Une base en autonomie pour les familles indépendantes prêtes à échanger la réception contre de l'espace et une épicerie au pied de la porte.",
         "it": "Annidati sotto il castello ai margini dell'Alfama, questi appartamenti con servizi vi regalano un vero quartiere di Lisbona, una cucina come si deve e una lavatrice a una frazione del prezzo di un quattro stelle. È una base indipendente per famiglie autonome, contente di scambiare la reception con spazio e un mercato sotto casa.",
         "de": "Unterhalb der Burg am Rand der Alfama gelegen, bieten diese Serviced Apartments ein echtes Lissabonner Viertel, eine richtige Küche und eine Waschmaschine zu einem Bruchteil des Preises eines Vier-Sterne-Hauses. Es ist eine Selbstversorger-Basis für unabhängige Familien, die gern die Rezeption gegen Platz und einen Markt vor der Tür eintauschen.",
         "es": "Escondidos bajo el castillo, al borde de Alfama, estos apartamentos con servicios te dan un barrio de Lisboa de verdad, una cocina como es debido y una lavadora por una fracción del precio de un cuatro estrellas. Es una base con cocina propia para familias independientes, contentas de cambiar la recepción por espacio y un mercado a pie de puerta.",
@@ -3166,12 +3166,12 @@
           "Flat rate for the apartment rather than per-person hotel pricing"
         ],
         "fr": [
-          "Kitchenette entierement equipee dans chaque appartement pour les repas en famille",
-          "Lave-linge et fenetres insonorisees, rares a ce prix",
-          "A une courte montee du chateau et du coeur d'Alfama",
-          "Les canapes-lits du salon montent la capacite a cinq",
-          "Boulangeries, epiceries et arrets de tram au pied de la porte",
-          "Tarif forfaitaire par appartement plutot que par personne"
+          "Kitchenette entièrement équipée dans chaque appartement pour les repas en famille",
+          "Lave-linge et fenêtres insonorisées, rares à ce prix",
+          "À une courte montée du château et du coeur d'Alfama",
+          "Les canapés-lits du salon montent la capacité à cinq",
+          "Boulangeries, épiceries et arrêts de tram au pied de la porte",
+          "Tarif forfaitaire par appartement plutôt que par personne"
         ],
         "it": [
           "Angolo cottura completamente attrezzato in ogni appartamento per i pasti in famiglia",
@@ -3213,9 +3213,9 @@
           "Apartment pricing beats booking two hotel rooms"
         ],
         "fr": [
-          "Cuisine et lave-linge a un prix vraiment abordable",
+          "Cuisine et lave-linge à un prix vraiment abordable",
           "En plein coeur d'un quartier ancien plein de caractere",
-          "Le tarif par appartement bat la reservation de deux chambres d'hotel"
+          "Le tarif par appartement bat la réservation de deux chambres d'hôtel"
         ],
         "it": [
           "Cucina e lavatrice a un prezzo davvero economico",
@@ -3245,9 +3245,9 @@
           "Self-catering means no breakfast and no housekeeping taken off your hands"
         ],
         "fr": [
-          "Pas de piscine, pas de reception en journee ni d'equipements enfants",
-          "Les ruelles pavees et pentues d'Alfama sont difficiles avec une poussette ou un bebe",
-          "En autonomie : pas de petit-dejeuner ni de menage pris en charge au quotidien"
+          "Pas de piscine, pas de réception en journée ni d'équipements enfants",
+          "Les ruelles pavées et pentues d'Alfama sont difficiles avec une poussette ou un bébé",
+          "En autonomie : pas de petit-déjeuner ni de ménage pris en charge au quotidien"
         ],
         "it": [
           "Niente piscina né reception diurna o servizi per bambini",
@@ -3272,7 +3272,7 @@
       },
       "verdict": {
         "en": "A smart-value self-catering base in atmospheric Alfama, best for independent families with kids old enough for the hills.",
-        "fr": "Une base en autonomie au bon rapport qualite-prix dans l'Alfama plein de caractere, ideale pour les familles autonomes avec des enfants assez grands pour les montees.",
+        "fr": "Une base en autonomie au bon rapport qualité-prix dans l'Alfama plein de caractère, idéale pour les familles autonomes avec des enfants assez grands pour les montées.",
         "it": "Una base indipendente dal buon rapporto qualità-prezzo nell'Alfama piena di atmosfera, ideale per famiglie autonome con bambini abbastanza grandi per le salite.",
         "de": "Eine preiswerte Selbstversorger-Basis in der stimmungsvollen Alfama, am besten für unabhängige Familien mit Kindern, die alt genug für die Steigungen sind.",
         "es": "Una base con cocina propia de buena relación calidad-precio en la pintoresca Alfama, ideal para familias independientes con niños ya mayores para las cuestas.",
@@ -3280,7 +3280,7 @@
       },
       "parentTip": {
         "en": "Do a first-night grocery run before you arrive: Alfama's tiny shops keep odd hours, and a stocked fridge saves the hungry-kid meltdown after a travel day.",
-        "fr": "Faites une course des le premier soir avant d'arriver : les petites echoppes d'Alfama ont des horaires capricieux, et un frigo rempli evite la crise du ventre vide apres une journee de voyage.",
+        "fr": "Faites une course dès le premier soir avant d'arriver : les petites échoppes d'Alfama ont des horaires capricieux, et un frigo rempli évite la crise du ventre vide après une journée de voyage.",
         "it": "Fate una spesa per la prima sera prima di arrivare: i minuscoli negozi dell'Alfama hanno orari strani, e un frigo pieno evita la crisi del bambino affamato dopo una giornata di viaggio.",
         "de": "Erledigen Sie den Einkauf für den ersten Abend vor Ihrer Ankunft: Die winzigen Läden der Alfama haben ungewöhnliche Öffnungszeiten, und ein gefüllter Kühlschrank verhindert den Zusammenbruch des hungrigen Kindes nach einem Reisetag.",
         "es": "Haz la compra para la primera noche antes de llegar: las diminutas tiendas de Alfama tienen horarios raros, y una nevera llena evita el berrinche del niño hambriento tras un día de viaje.",
@@ -3299,7 +3299,7 @@
           },
           "value": {
             "en": "4 to 5 with sofa bed",
-            "fr": "4 a 5 avec canape-lit",
+            "fr": "4 à 5 avec canapé-lit",
             "it": "Da 4 a 5 con divano letto",
             "de": "4 bis 5 mit Schlafsofa",
             "es": "De 4 a 5 con sofá cama",
@@ -3318,7 +3318,7 @@
           },
           "value": {
             "en": "Full kitchenette",
-            "fr": "Kitchenette complete",
+            "fr": "Kitchenette complète",
             "it": "Angolo cottura completo",
             "de": "Voll ausgestattete Küchenzeile",
             "es": "Cocina americana completa",
@@ -3348,7 +3348,7 @@
           "icon": "🏰",
           "label": {
             "en": "Castle",
-            "fr": "Chateau",
+            "fr": "Château",
             "it": "Castello",
             "de": "Burg",
             "es": "Castillo",
@@ -3356,7 +3356,7 @@
           },
           "value": {
             "en": "Short walk uphill",
-            "fr": "Courte montee a pied",
+            "fr": "Courte montée à pied",
             "it": "Breve salita a piedi",
             "de": "Kurzer Fußweg bergauf",
             "es": "Corta subida a pie",
@@ -3394,7 +3394,7 @@
           },
           "value": {
             "en": "Per apartment, budget",
-            "fr": "Par appartement, economique",
+            "fr": "Par appartement, économique",
             "it": "Ad appartamento, economico",
             "de": "Pro Apartment, günstig",
             "es": "Por apartamento, económico",
@@ -3407,7 +3407,7 @@
           "emoji": "🏰",
           "name": {
             "en": "Castelo de Sao Jorge",
-            "fr": "Chateau de Sao Jorge",
+            "fr": "Château de Sao Jorge",
             "it": "Castello di Sao Jorge",
             "de": "Castelo de Sao Jorge",
             "es": "Castillo de Sao Jorge",
@@ -3415,7 +3415,7 @@
           },
           "detail": {
             "en": "Ramparts, peacocks and the city's best viewpoint, a short walk uphill from the door.",
-            "fr": "Remparts, paons et le plus beau belvedere de la ville, a une courte montee de la porte.",
+            "fr": "Remparts, paons et le plus beau belvédère de la ville, à une courte montée de la porte.",
             "it": "Bastioni, pavoni e il miglior belvedere della città, a una breve salita dalla porta.",
             "de": "Wehrgänge, Pfauen und der beste Aussichtspunkt der Stadt, einen kurzen Anstieg von der Tür entfernt.",
             "es": "Murallas, pavos reales y el mejor mirador de la ciudad, a una corta subida de la puerta.",
@@ -3447,7 +3447,7 @@
           },
           "detail": {
             "en": "The classic yellow tram rattles right through Alfama's tightest turns.",
-            "fr": "Le classique tram jaune se faufile dans les virages les plus serres d'Alfama.",
+            "fr": "Le classique tram jaune se faufile dans les virages les plus serrés d'Alfama.",
             "it": "Il classico tram giallo sferraglia proprio tra le curve più strette dell'Alfama.",
             "de": "Die klassische gelbe Tram rattert mitten durch die engsten Kurven der Alfama.",
             "es": "El clásico tranvía amarillo traquetea justo por las curvas más cerradas de Alfama.",
@@ -3479,7 +3479,7 @@
           },
           "detail": {
             "en": "Wander the lanes at dusk to catch drifting fado from open windows and doorways.",
-            "fr": "Flanez dans les ruelles au crepuscule pour saisir le fado qui s'echappe des fenetres et des portes.",
+            "fr": "Flânez dans les ruelles au crépuscule pour saisir le fado qui s'échappe des fenêtres et des portes.",
             "it": "Vagate per i vicoli al crepuscolo per cogliere il fado che fluttua da finestre e portoni aperti.",
             "de": "Schlendern Sie in der Dämmerung durch die Gassen, um den Fado einzufangen, der aus offenen Fenstern und Türen weht.",
             "es": "Pasea por las callejuelas al anochecer para captar el fado que flota desde ventanas y portales abiertos.",
@@ -3502,7 +3502,7 @@
           "emoji": "⛪",
           "name": {
             "en": "Se Cathedral",
-            "fr": "Cathedrale Se",
+            "fr": "Cathédrale Se",
             "it": "Cattedrale Se",
             "de": "Kathedrale Se",
             "es": "Catedral Se",
@@ -3510,7 +3510,7 @@
           },
           "detail": {
             "en": "A fortress-like cathedral downhill where the tram trundles past the door.",
-            "fr": "Une cathedrale a l'allure de forteresse en contrebas, ou le tram passe devant la porte.",
+            "fr": "Une cathédrale à l'allure de forteresse en contrebas, où le tram passe devant la porte.",
             "it": "Una cattedrale simile a una fortezza più in basso, dove il tram passa lento davanti alla porta.",
             "de": "Eine festungsähnliche Kathedrale weiter unten, wo die Tram gemächlich an der Tür vorbeirollt.",
             "es": "Una catedral con aspecto de fortaleza cuesta abajo, donde el tranvía pasa despacio junto a la puerta.",
@@ -3543,7 +3543,7 @@
           },
           "note": {
             "en": "Fresh bread from the corner bakery, coffee at home.",
-            "fr": "Pain frais de la boulangerie du coin, cafe a la maison.",
+            "fr": "Pain frais de la boulangerie du coin, café à la maison.",
             "it": "Pane fresco dalla panetteria all'angolo, caffè a casa.",
             "de": "Frisches Brot von der Bäckerei um die Ecke, Kaffee zu Hause.",
             "es": "Pan fresco de la panadería de la esquina, café en casa.",
@@ -3554,7 +3554,7 @@
           "time": "9:30",
           "title": {
             "en": "Up to the castle",
-            "fr": "Montee au chateau",
+            "fr": "Montée au château",
             "it": "Salita al castello",
             "de": "Hinauf zur Burg",
             "es": "Subida al castillo",
@@ -3573,7 +3573,7 @@
           "time": "12:30",
           "title": {
             "en": "Lunch back home",
-            "fr": "Dejeuner a la maison",
+            "fr": "Déjeuner à la maison",
             "it": "Pranzo di ritorno a casa",
             "de": "Mittagessen zu Hause",
             "es": "Comida de vuelta en casa",
@@ -3600,7 +3600,7 @@
           },
           "note": {
             "en": "Ride the lanes and hop off at a viewpoint.",
-            "fr": "On parcourt les ruelles et on descend a un belvedere.",
+            "fr": "On parcourt les ruelles et on descend à un belvédère.",
             "it": "Percorrete i vicoli e scendete a un belvedere.",
             "de": "Durch die Gassen fahren und an einem Aussichtspunkt aussteigen.",
             "es": "Recorre las callejuelas y bájate en un mirador.",
@@ -3611,7 +3611,7 @@
           "time": "18:30",
           "title": {
             "en": "Dinner in Alfama",
-            "fr": "Diner dans Alfama",
+            "fr": "Dîner dans Alfama",
             "it": "Cena nell'Alfama",
             "de": "Abendessen in der Alfama",
             "es": "Cena en Alfama",
@@ -3619,7 +3619,7 @@
           },
           "note": {
             "en": "A family tasca with grilled sardines nearby.",
-            "fr": "Une tasca familiale avec sardines grillees a cote.",
+            "fr": "Une tasca familiale avec sardines grillées à côté.",
             "it": "Una tasca a conduzione familiare con sardine alla griglia lì vicino.",
             "de": "Eine familiäre Tasca mit gegrillten Sardinen in der Nähe.",
             "es": "Una tasca familiar con sardinas a la parrilla cerca.",
@@ -3630,7 +3630,7 @@
       "ageNotes": {
         "toddler": {
           "en": "The kitchen and quiet apartment help with naps and meals, but plan the hilly cobbled streets with a carrier rather than a stroller.",
-          "fr": "La cuisine et le calme de l'appartement aident pour les siestes et les repas, mais prevoyez les rues pavees et pentues avec un porte-bebe plutot qu'une poussette.",
+          "fr": "La cuisine et le calme de l'appartement aident pour les siestes et les repas, mais prévoyez les rues pavées et pentues avec un porte-bébé plutôt qu'une poussette.",
           "it": "La cucina e la tranquillità dell'appartamento aiutano con riposini e pasti, ma affrontate le strade collinari e acciottolate con un marsupio più che con un passeggino.",
           "de": "Die Küche und das ruhige Apartment helfen bei Nickerchen und Mahlzeiten, doch nehmen Sie für die hügeligen Pflasterstraßen eine Trage statt eines Kinderwagens.",
           "es": "La cocina y la tranquilidad del apartamento ayudan con las siestas y las comidas, pero afronta las calles empedradas y con cuestas con una mochila portabebés antes que con un cochecito.",
@@ -3638,7 +3638,7 @@
         },
         "kid": {
           "en": "Old enough to manage the hills, primary-age kids love the castle, the tram and getting lost in Alfama's maze.",
-          "fr": "Assez grands pour les montees, les enfants du primaire adorent le chateau, le tram et se perdre dans le dedale d'Alfama.",
+          "fr": "Assez grands pour les montées, les enfants du primaire adorent le château, le tram et se perdre dans le dédale d'Alfama.",
           "it": "Abbastanza grandi per affrontare le salite, i bambini delle elementari adorano il castello, il tram e perdersi nel labirinto dell'Alfama.",
           "de": "Alt genug für die Steigungen, lieben Grundschulkinder die Burg, die Tram und das Sichverlieren im Labyrinth der Alfama.",
           "es": "Ya mayores para las cuestas, los niños de primaria adoran el castillo, el tranvía y perderse en el laberinto de Alfama.",
@@ -3646,7 +3646,7 @@
         },
         "teen": {
           "en": "Teens get space, a kitchen and one of Lisbon's most photogenic neighbourhoods right outside.",
-          "fr": "Les ados profitent d'espace, d'une cuisine et de l'un des quartiers les plus photogeniques de Lisbonne juste dehors.",
+          "fr": "Les ados profitent d'espace, d'une cuisine et de l'un des quartiers les plus photogéniques de Lisbonne juste dehors.",
           "it": "Gli adolescenti hanno spazio, una cucina e uno dei quartieri più fotogenici di Lisbona proprio fuori dalla porta.",
           "de": "Teenager bekommen Platz, eine Küche und eines der fotogensten Viertel Lissabons direkt vor der Tür.",
           "es": "Los adolescentes tienen espacio, una cocina y uno de los barrios más fotogénicos de Lisboa justo a la puerta.",
@@ -3657,7 +3657,7 @@
         {
           "q": {
             "en": "Is there a reception or hotel service?",
-            "fr": "Y a-t-il une reception ou un service hotelier ?",
+            "fr": "Y a-t-il une réception ou un service hôtelier ?",
             "it": "C'è una reception o un servizio d'hotel?",
             "de": "Gibt es eine Rezeption oder Hotelservice?",
             "es": "¿Hay recepción o servicio de hotel?",
@@ -3665,7 +3665,7 @@
           },
           "a": {
             "en": "These are serviced apartments with check-in support but no full hotel desk, breakfast or kids facilities. You self-cater and manage your own days.",
-            "fr": "Ce sont des appartements avec services, une aide a l'arrivee mais pas de reception complete, de petit-dejeuner ni d'equipements enfants. Vous etes en autonomie et gerez vos journees.",
+            "fr": "Ce sont des appartements avec services, une aide à l'arrivée mais pas de réception complète, de petit-déjeuner ni d'équipements enfants. Vous êtes en autonomie et gérez vos journées.",
             "it": "Sono appartamenti con servizi, con assistenza al check-in ma senza una reception d'hotel completa, colazione o servizi per bambini. Siete autonomi e gestite le vostre giornate.",
             "de": "Dies sind Serviced Apartments mit Check-in-Unterstützung, aber ohne vollständige Hotelrezeption, Frühstück oder Kindereinrichtungen. Sie versorgen sich selbst und gestalten Ihre Tage eigenständig.",
             "es": "Son apartamentos con servicios, con apoyo en el check-in pero sin recepción de hotel completa, desayuno ni instalaciones para niños. Te ocupas de tus comidas y organizas tus propios días.",
@@ -3683,7 +3683,7 @@
           },
           "a": {
             "en": "Alfama is steep and cobbled, so a stroller is a struggle. A baby carrier is far easier for the lanes and the climb to the castle.",
-            "fr": "Alfama est pentu et pave : la poussette est un calvaire. Un porte-bebe est bien plus pratique pour les ruelles et la montee au chateau.",
+            "fr": "Alfama est pentu et pavé : la poussette est un calvaire. Un porte-bébé est bien plus pratique pour les ruelles et la montée au château.",
             "it": "L'Alfama è ripida e acciottolata, quindi il passeggino è una fatica. Un marsupio è molto più pratico per i vicoli e la salita al castello.",
             "de": "Die Alfama ist steil und gepflastert, sodass ein Kinderwagen mühsam ist. Eine Babytrage ist für die Gassen und den Aufstieg zur Burg viel einfacher.",
             "es": "Alfama es empinada y empedrada, así que el cochecito es un suplicio. Una mochila portabebés es mucho más fácil para las callejuelas y la subida al castillo.",
@@ -3701,7 +3701,7 @@
           },
           "a": {
             "en": "Yes, each apartment has a fully equipped kitchenette and a washing machine, which is a real plus on a longer family stay.",
-            "fr": "Oui, chaque appartement dispose d'une kitchenette complete et d'un lave-linge, un vrai atout pour un sejour familial prolonge.",
+            "fr": "Oui, chaque appartement dispose d'une kitchenette complète et d'un lave-linge, un vrai atout pour un séjour familial prolongé.",
             "it": "Sì, ogni appartamento ha un angolo cottura completamente attrezzato e una lavatrice, un vero vantaggio per un soggiorno familiare più lungo.",
             "de": "Ja, jedes Apartment hat eine voll ausgestattete Küchenzeile und eine Waschmaschine, was bei einem längeren Familienaufenthalt ein echter Pluspunkt ist.",
             "es": "Sí, cada apartamento tiene una cocina americana totalmente equipada y una lavadora, un auténtico plus en una estancia familiar más larga.",
@@ -3757,7 +3757,7 @@
       },
       "roomsSummary": {
         "en": "One to three-bedroom apartments with full self-catering kitchens, including fridge, dishwasher, washing machine and microwave, plus en-suite bathrooms for each bedroom. The three-bedroom units genuinely sleep six, which is rare in the centre, and the flat Baixa streets make cots and strollers easy. Confirm which floors have a lift.",
-        "fr": "Appartements d'une a trois chambres avec cuisines completes (refrigerateur, lave-vaisselle, lave-linge, micro-ondes) et salle de bain privative par chambre. Les trois-chambres logent vraiment six personnes, chose rare dans le centre, et les rues plates de la Baixa facilitent lits bebe et poussettes. Verifiez quels etages sont desservis par un ascenseur.",
+        "fr": "Appartements d'une à trois chambres avec cuisines complètes (réfrigérateur, lave-vaisselle, lave-linge, micro-ondes) et salle de bain privative par chambre. Les trois-chambres logent vraiment six personnes, chose rare dans le centre, et les rues plates de la Baixa facilitent lits bébé et poussettes. Vérifiez quels étages sont desservis par un ascenseur.",
         "it": "Appartamenti da una a tre camere con cucine complete e indipendenti, dotate di frigorifero, lavastoviglie, lavatrice e microonde, più bagno privato per ogni camera. Gli alloggi con tre camere ospitano davvero sei persone, cosa rara nel centro, e le strade pianeggianti della Baixa rendono facili culle e passeggini. Verificate quali piani sono serviti da un ascensore.",
         "de": "Apartments mit einem bis drei Schlafzimmern und voll ausgestatteten Selbstversorgerküchen mit Kühlschrank, Geschirrspüler, Waschmaschine und Mikrowelle, dazu ein eigenes Bad pro Schlafzimmer. Die Einheiten mit drei Schlafzimmern bieten wirklich Platz für sechs, was im Zentrum selten ist, und die flachen Straßen der Baixa machen Reisebetten und Kinderwagen leicht. Klären Sie, welche Etagen einen Aufzug haben.",
         "es": "Apartamentos de uno a tres dormitorios con cocinas completas para cocinar por tu cuenta, con nevera, lavavajillas, lavadora y microondas, más baño privado en cada dormitorio. Los de tres dormitorios duermen de verdad a seis, algo raro en el centro, y las calles llanas de la Baixa facilitan cunas y cochecitos. Confirma qué plantas tienen ascensor.",
@@ -3765,7 +3765,7 @@
       },
       "intro": {
         "en": "A step from the Santa Justa Lift and Rossio square, these apartments put you on Lisbon's flat, grid-planned Baixa, the easiest neighbourhood in town for strollers and small legs. Full kitchens, en-suite bathrooms per bedroom and units up to three bedrooms make this a comfortable, good-value base for a larger family.",
-        "fr": "A deux pas de l'ascenseur de Santa Justa et de la place du Rossio, ces appartements vous installent dans la Baixa plate et quadrillee de Lisbonne, le quartier le plus facile de la ville pour les poussettes et les petites jambes. Cuisines completes, salle de bain par chambre et logements jusqu'a trois chambres en font une base confortable et avantageuse pour une famille nombreuse.",
+        "fr": "À deux pas de l'ascenseur de Santa Justa et de la place du Rossio, ces appartements vous installent dans la Baixa plate et quadrillée de Lisbonne, le quartier le plus facile de la ville pour les poussettes et les petites jambes. Cuisines complètes, salle de bain par chambre et logements jusqu'à trois chambres en font une base confortable et avantageuse pour une famille nombreuse.",
         "it": "A un passo dall'Ascensore di Santa Justa e dalla piazza del Rossio, questi appartamenti vi collocano nella Baixa di Lisbona, pianeggiante e a scacchiera, il quartiere più comodo della città per passeggini e gambe corte. Cucine complete, bagno privato per ogni camera e alloggi fino a tre camere ne fanno una base comoda e conveniente per una famiglia numerosa.",
         "de": "Nur einen Schritt vom Aufzug von Santa Justa und dem Rossio-Platz entfernt, versetzen diese Apartments Sie in Lissabons flache, schachbrettartige Baixa, das für Kinderwagen und kleine Beine bequemste Viertel der Stadt. Voll ausgestattete Küchen, ein eigenes Bad pro Schlafzimmer und Einheiten mit bis zu drei Schlafzimmern machen es zu einer komfortablen, preiswerten Basis für eine größere Familie.",
         "es": "A un paso del Ascensor de Santa Justa y de la plaza del Rossio, estos apartamentos te sitúan en la Baixa de Lisboa, llana y trazada en cuadrícula, el barrio más cómodo de la ciudad para cochecitos y piernas pequeñas. Cocinas completas, baño privado por dormitorio y alojamientos de hasta tres dormitorios lo hacen una base cómoda y con buena relación calidad-precio para una familia grande.",
@@ -3781,12 +3781,12 @@
           "Trams, metro and the riverside square all within a short walk"
         ],
         "fr": [
-          "Appartements d'une a trois chambres pour six personnes",
-          "Cuisine complete avec lave-vaisselle et lave-linge dans chaque logement",
+          "Appartements d'une à trois chambres pour six personnes",
+          "Cuisine complète avec lave-vaisselle et lave-linge dans chaque logement",
           "Salle de bain privative par chambre, pas de file le matin",
           "Rues plates de la Baixa, les plus accueillantes de Lisbonne pour les poussettes",
-          "A 100 metres de l'ascenseur de Santa Justa et de la place du Rossio",
-          "Trams, metro et place au bord du fleuve a courte distance a pied"
+          "À 100 mètres de l'ascenseur de Santa Justa et de la place du Rossio",
+          "Trams, métro et place au bord du fleuve à courte distance à pied"
         ],
         "it": [
           "Appartamenti da una a tre camere per un massimo di sei persone",
@@ -3828,9 +3828,9 @@
           "Full kitchen and laundry keep costs and stress down"
         ],
         "fr": [
-          "Emplacement plat et central vraiment adapte aux poussettes",
-          "Jusqu'a trois chambres avec salle de bain chacune, ideal pour familles nombreuses",
-          "Cuisine complete et lave-linge pour reduire couts et stress"
+          "Emplacement plat et central vraiment adapté aux poussettes",
+          "Jusqu'à trois chambres avec salle de bain chacune, idéal pour familles nombreuses",
+          "Cuisine complète et lave-linge pour réduire coûts et stress"
         ],
         "it": [
           "Posizione centrale e pianeggiante, davvero adatta ai passeggini",
@@ -3860,9 +3860,9 @@
           "Service is apartment-style, so no daily housekeeping or concierge on tap"
         ],
         "fr": [
-          "Pas de piscine, de petit-dejeuner ni d'equipements enfants sur place",
-          "La Baixa centrale est animee et peut etre bruyante la nuit en ete",
-          "Service en mode appartement : pas de menage quotidien ni de conciergerie a disposition"
+          "Pas de piscine, de petit-déjeuner ni d'équipements enfants sur place",
+          "La Baixa centrale est animée et peut être bruyante la nuit en été",
+          "Service en mode appartement : pas de ménage quotidien ni de conciergerie à disposition"
         ],
         "it": [
           "Niente piscina, colazione o servizi per bambini in loco",
@@ -3887,7 +3887,7 @@
       },
       "verdict": {
         "en": "The most stroller-friendly self-catering base in central Lisbon, and a real bargain for families of five or six.",
-        "fr": "La base en autonomie la plus adaptee aux poussettes du centre de Lisbonne, et une vraie bonne affaire pour les familles de cinq ou six.",
+        "fr": "La base en autonomie la plus adaptée aux poussettes du centre de Lisbonne, et une vraie bonne affaire pour les familles de cinq ou six.",
         "it": "La base indipendente più adatta ai passeggini del centro di Lisbona, e un vero affare per famiglie di cinque o sei.",
         "de": "Die kinderwagenfreundlichste Selbstversorger-Basis im Zentrum von Lissabon und ein echtes Schnäppchen für Familien mit fünf oder sechs Personen.",
         "es": "La base con cocina propia más cómoda para el cochecito del centro de Lisboa, y una auténtica ganga para familias de cinco o seis.",
@@ -3895,7 +3895,7 @@
       },
       "parentTip": {
         "en": "Ask for an upper-floor apartment away from the street: Baixa's bars keep the ground floors buzzing well past bedtime in summer.",
-        "fr": "Demandez un appartement en etage eleve, cote cour : en ete, les bars de la Baixa animent les rez-de-chaussee bien apres l'heure du coucher.",
+        "fr": "Demandez un appartement en étage élevé, côté cour : en été, les bars de la Baixa animent les rez-de-chaussée bien après l'heure du coucher.",
         "it": "Chiedete un appartamento ai piani alti lontano dalla strada: in estate i bar della Baixa tengono animati i piani terra ben oltre l'ora di dormire.",
         "de": "Fragen Sie nach einem Apartment in einer oberen Etage abseits der Straße: Im Sommer halten die Bars der Baixa die Erdgeschosse bis weit nach der Schlafenszeit in Schwung.",
         "es": "Pide un apartamento en una planta alta lejos de la calle: en verano los bares de la Baixa mantienen los bajos animados hasta mucho después de la hora de dormir.",
@@ -3914,7 +3914,7 @@
           },
           "value": {
             "en": "Up to 6 in three-bed units",
-            "fr": "Jusqu'a 6 en trois-chambres",
+            "fr": "Jusqu'à 6 en trois-chambres",
             "it": "Fino a 6 negli alloggi con tre camere",
             "de": "Bis zu 6 in Einheiten mit drei Schlafzimmern",
             "es": "Hasta 6 en los de tres dormitorios",
@@ -3933,7 +3933,7 @@
           },
           "value": {
             "en": "Full kitchen and laundry",
-            "fr": "Cuisine complete et lave-linge",
+            "fr": "Cuisine complète et lave-linge",
             "it": "Cucina completa e lavatrice",
             "de": "Voll ausgestattete Küche und Waschmaschine",
             "es": "Cocina completa y lavadora",
@@ -3971,7 +3971,7 @@
           },
           "value": {
             "en": "Flat, stroller-friendly",
-            "fr": "Plat, adapte aux poussettes",
+            "fr": "Plat, adapté aux poussettes",
             "it": "Pianeggiante, adatto ai passeggini",
             "de": "Flach, kinderwagenfreundlich",
             "es": "Llano, cómodo para el cochecito",
@@ -4030,7 +4030,7 @@
           },
           "detail": {
             "en": "A storybook iron lift 100 metres away, ending on a rooftop viewpoint.",
-            "fr": "Un ascenseur en fer digne d'un conte, a 100 metres, qui debouche sur un belvedere.",
+            "fr": "Un ascenseur en fer digne d'un conte, à 100 mètres, qui débouche sur un belvédère.",
             "it": "Un ascensore di ferro da fiaba a 100 metri, che termina su un belvedere panoramico.",
             "de": "Ein märchenhafter Eisenaufzug 100 Meter entfernt, der auf einer Aussichtsplattform endet.",
             "es": "Un ascensor de hierro de cuento a 100 metros, que acaba en un mirador en las alturas.",
@@ -4095,7 +4095,7 @@
           },
           "detail": {
             "en": "A food hall a short walk away where everyone chooses their own dinner.",
-            "fr": "Une halle gourmande a deux pas ou chacun choisit son diner.",
+            "fr": "Une halle gourmande à deux pas où chacun choisit son dîner.",
             "it": "Un mercato gastronomico a due passi dove ognuno sceglie la propria cena.",
             "de": "Eine Markthalle nur einen kurzen Spaziergang entfernt, wo sich jeder sein eigenes Abendessen aussucht.",
             "es": "Un mercado gastronómico a un breve paseo donde cada uno elige su cena.",
@@ -4118,7 +4118,7 @@
           "emoji": "⛵",
           "name": {
             "en": "Tagus ferry ride",
-            "fr": "Traversee du Tage",
+            "fr": "Traversée du Tage",
             "it": "Traversata in traghetto sul Tago",
             "de": "Fährfahrt über den Tejo",
             "es": "Travesía en ferri por el Tajo",
@@ -4126,7 +4126,7 @@
           },
           "detail": {
             "en": "A cheap commuter ferry across the river and back, a mini boat trip for little sailors.",
-            "fr": "Un bac bon marche qui traverse le fleuve aller-retour, une mini croisiere pour petits marins.",
+            "fr": "Un bac bon marché qui traverse le fleuve aller-retour, une mini croisière pour petits marins.",
             "it": "Un economico traghetto di linea che attraversa il fiume andata e ritorno, una mini gita in barca per piccoli marinai.",
             "de": "Eine günstige Pendlerfähre über den Fluss und zurück, ein Mini-Bootsausflug für kleine Seeleute.",
             "es": "Un ferri de cercanías barato que cruza el río de ida y vuelta, un mini paseo en barco para pequeños marineros.",
@@ -4152,7 +4152,7 @@
           "time": "8:00",
           "title": {
             "en": "Breakfast in",
-            "fr": "Petit-dejeuner a la maison",
+            "fr": "Petit-déjeuner à la maison",
             "it": "Colazione a casa",
             "de": "Frühstück zu Hause",
             "es": "Desayuno en casa",
@@ -4160,7 +4160,7 @@
           },
           "note": {
             "en": "Pastries from the corner and coffee at the table.",
-            "fr": "Viennoiseries du coin et cafe a table.",
+            "fr": "Viennoiseries du coin et café à table.",
             "it": "Dolci dal forno all'angolo e caffè a tavola.",
             "de": "Gebäck von der Ecke und Kaffee am Tisch.",
             "es": "Bollería de la esquina y café en la mesa.",
@@ -4179,7 +4179,7 @@
           },
           "note": {
             "en": "Ride the lift, then the wavy-tiled square.",
-            "fr": "On prend l'ascenseur, puis la place aux paves ondules.",
+            "fr": "On prend l'ascenseur, puis la place aux pavés ondulés.",
             "it": "Salite sull'ascensore, poi la piazza dal selciato ondulato.",
             "de": "Mit dem Aufzug fahren, dann der Platz mit dem gewellten Pflaster.",
             "es": "Sube en el ascensor y luego la plaza de adoquines ondulados.",
@@ -4190,7 +4190,7 @@
           "time": "12:30",
           "title": {
             "en": "Lunch at home",
-            "fr": "Dejeuner a la maison",
+            "fr": "Déjeuner à la maison",
             "it": "Pranzo a casa",
             "de": "Mittagessen zu Hause",
             "es": "Comida en casa",
@@ -4198,7 +4198,7 @@
           },
           "note": {
             "en": "Quick pasta and a rest for the little ones.",
-            "fr": "Des pates vite faites et un repos pour les petits.",
+            "fr": "Des pâtes vite faites et un repos pour les petits.",
             "it": "Pasta veloce e un riposo per i più piccoli.",
             "de": "Schnelle Pasta und eine Pause für die Kleinen.",
             "es": "Pasta rápida y un descanso para los peques.",
@@ -4209,7 +4209,7 @@
           "time": "15:00",
           "title": {
             "en": "Ferry across the Tagus",
-            "fr": "Traversee du Tage",
+            "fr": "Traversée du Tage",
             "it": "Traghetto attraverso il Tago",
             "de": "Fähre über den Tejo",
             "es": "Ferri por el Tajo",
@@ -4217,7 +4217,7 @@
           },
           "note": {
             "en": "A short boat ride and views back at the city.",
-            "fr": "Une courte traversee et la vue sur la ville.",
+            "fr": "Une courte traversée et la vue sur la ville.",
             "it": "Una breve gita in barca e la vista sulla città.",
             "de": "Eine kurze Bootsfahrt und Ausblicke zurück auf die Stadt.",
             "es": "Un breve paseo en barco y vistas de vuelta a la ciudad.",
@@ -4236,7 +4236,7 @@
           },
           "note": {
             "en": "Wide open space to run before dinner.",
-            "fr": "Un grand espace ouvert pour courir avant le diner.",
+            "fr": "Un grand espace ouvert pour courir avant le dîner.",
             "it": "Un ampio spazio aperto per correre prima di cena.",
             "de": "Viel freier Platz zum Herumrennen vor dem Abendessen.",
             "es": "Un amplio espacio abierto para correr antes de cenar.",
@@ -4247,7 +4247,7 @@
       "ageNotes": {
         "baby": {
           "en": "Flat streets, a lift-served building and a full kitchen make Baixa one of the easiest central bases with a baby. Confirm lift access for your floor.",
-          "fr": "Rues plates, immeuble avec ascenseur et cuisine complete font de la Baixa l'une des bases centrales les plus faciles avec un bebe. Verifiez l'acces ascenseur a votre etage.",
+          "fr": "Rues plates, immeuble avec ascenseur et cuisine complète font de la Baixa l'une des bases centrales les plus faciles avec un bébé. Vérifiez l'accès ascenseur à votre étage.",
           "it": "Strade pianeggianti, un edificio con ascensore e una cucina completa fanno della Baixa una delle basi centrali più comode con un neonato. Verificate l'accesso all'ascensore al vostro piano.",
           "de": "Flache Straßen, ein Gebäude mit Aufzug und eine voll ausgestattete Küche machen die Baixa zu einer der bequemsten zentralen Basen mit einem Baby. Klären Sie den Aufzugszugang für Ihre Etage.",
           "es": "Calles llanas, un edificio con ascensor y una cocina completa hacen de la Baixa una de las bases céntricas más cómodas con un bebé. Confirma el acceso al ascensor para tu planta.",
@@ -4255,7 +4255,7 @@
         },
         "toddler": {
           "en": "The open squares and level pavements are ideal for wobbly walkers and a stroller, with the apartment close for naps.",
-          "fr": "Les places ouvertes et les trottoirs plats sont ideaux pour les premiers pas et la poussette, l'appartement tout proche pour les siestes.",
+          "fr": "Les places ouvertes et les trottoirs plats sont idéaux pour les premiers pas et la poussette, l'appartement tout proche pour les siestes.",
           "it": "Le piazze aperte e i marciapiedi in piano sono ideali per chi muove i primi passi e per il passeggino, con l'appartamento vicino per i riposini.",
           "de": "Die offenen Plätze und ebenen Gehwege sind ideal für wackelige Erstschritte und einen Kinderwagen, mit dem Apartment in der Nähe für Nickerchen.",
           "es": "Las plazas abiertas y las aceras a nivel son ideales para los que empiezan a andar y para el cochecito, con el apartamento cerca para las siestas.",
@@ -4263,7 +4263,7 @@
         },
         "kid": {
           "en": "The lift, ferry and food market keep primary-age kids entertained, all within an easy flat walk.",
-          "fr": "L'ascenseur, le bac et la halle gourmande occupent les enfants du primaire, le tout a plat et a pied.",
+          "fr": "L'ascenseur, le bac et la halle gourmande occupent les enfants du primaire, le tout à plat et à pied.",
           "it": "L'ascensore, il traghetto e il mercato gastronomico tengono occupati i bambini delle elementari, tutto a una comoda passeggiata in piano.",
           "de": "Aufzug, Fähre und Markthalle halten Grundschulkinder bei Laune, alles bequem und flach zu Fuß erreichbar.",
           "es": "El ascensor, el ferri y el mercado gastronómico mantienen entretenidos a los niños de primaria, todo a un cómodo paseo llano.",
@@ -4282,7 +4282,7 @@
         {
           "q": {
             "en": "Is it suitable for a big family?",
-            "fr": "Est-ce adapte a une famille nombreuse ?",
+            "fr": "Est-ce adapté à une famille nombreuse ?",
             "it": "È adatto a una famiglia numerosa?",
             "de": "Ist es für eine große Familie geeignet?",
             "es": "¿Es adecuado para una familia grande?",
@@ -4290,7 +4290,7 @@
           },
           "a": {
             "en": "Yes. Three-bedroom units sleep up to six with an en-suite for each bedroom, which is hard to find in central Lisbon at this price.",
-            "fr": "Oui. Les trois-chambres logent jusqu'a six personnes avec une salle de bain privative par chambre, chose rare dans le centre de Lisbonne a ce prix.",
+            "fr": "Oui. Les trois-chambres logent jusqu'à six personnes avec une salle de bain privative par chambre, chose rare dans le centre de Lisbonne à ce prix.",
             "it": "Sì. Gli alloggi con tre camere ospitano fino a sei persone con un bagno privato per ogni camera, cosa difficile da trovare nel centro di Lisbona a questo prezzo.",
             "de": "Ja. Einheiten mit drei Schlafzimmern bieten Platz für bis zu sechs Personen mit einem eigenen Bad pro Schlafzimmer, was im Zentrum Lissabons zu diesem Preis schwer zu finden ist.",
             "es": "Sí. Los de tres dormitorios duermen hasta a seis con baño privado en cada dormitorio, algo difícil de encontrar en el centro de Lisboa a este precio.",
@@ -4308,7 +4308,7 @@
           },
           "a": {
             "en": "It can be lively in summer. Ask for an apartment on a higher floor or a quieter street if early bedtimes matter.",
-            "fr": "Elle peut etre animee en ete. Demandez un appartement en etage eleve ou dans une rue plus calme si les couchers tot comptent.",
+            "fr": "Elle peut être animée en été. Demandez un appartement en étage élevé ou dans une rue plus calme si les couchers tôt comptent.",
             "it": "In estate può essere vivace. Chiedete un appartamento a un piano più alto o in una strada più tranquilla se contano gli orari di sonno precoci.",
             "de": "Im Sommer kann es lebhaft sein. Fragen Sie nach einem Apartment in einer höheren Etage oder in einer ruhigeren Straße, wenn frühe Schlafenszeiten wichtig sind.",
             "es": "En verano puede ser animada. Pide un apartamento en una planta más alta o en una calle más tranquila si importan las horas de sueño tempranas.",
@@ -4318,7 +4318,7 @@
         {
           "q": {
             "en": "Is there a pool or breakfast?",
-            "fr": "Y a-t-il une piscine ou un petit-dejeuner ?",
+            "fr": "Y a-t-il une piscine ou un petit-déjeuner ?",
             "it": "C'è una piscina o la colazione?",
             "de": "Gibt es einen Pool oder Frühstück?",
             "es": "¿Hay piscina o desayuno?",
@@ -4326,7 +4326,7 @@
           },
           "a": {
             "en": "No. This is a self-catering apartment base, so you cook your own meals and there is no pool or hotel breakfast.",
-            "fr": "Non. C'est une base en appartement autonome : vous cuisinez vous-meme, sans piscine ni petit-dejeuner d'hotel.",
+            "fr": "Non. C'est une base en appartement autonome : vous cuisinez vous-même, sans piscine ni petit-déjeuner d'hôtel.",
             "it": "No. È una base in appartamento indipendente, quindi cucinate da soli e non ci sono piscina o colazione d'hotel.",
             "de": "Nein. Dies ist eine Selbstversorger-Apartmentbasis, Sie kochen also selbst, und es gibt weder Pool noch Hotelfrühstück.",
             "es": "No. Es una base de apartamento con cocina propia, así que cocinas tú y no hay piscina ni desayuno de hotel.",
@@ -4380,7 +4380,7 @@
       },
       "roomsSummary": {
         "en": "A modern four-star where rooms pair a king bed with a living area whose sofa opens up for one child, and connecting rooms are available for larger families. Layouts comfortably take a couple plus one or two children, with cots on request. For four across two proper beds, book connecting rooms early.",
-        "fr": "Un quatre-etoiles moderne ou les chambres associent un lit king a un coin salon dont le canape se deplie pour un enfant, avec chambres communicantes pour les familles plus nombreuses. Les configurations accueillent aisement un couple avec un ou deux enfants, lit bebe sur demande. Pour quatre sur de vrais lits, reservez tot des chambres communicantes.",
+        "fr": "Un quatre-étoiles moderne où les chambres associent un lit king à un coin salon dont le canapé se déplie pour un enfant, avec chambres communicantes pour les familles plus nombreuses. Les configurations accueillent aisément un couple avec un ou deux enfants, lit bébé sur demande. Pour quatre sur de vrais lits, réservez tôt des chambres communicantes.",
         "it": "Un moderno quattro stelle dove le camere abbinano un letto king a un'area soggiorno il cui divano si apre per un bambino, con camere comunicanti disponibili per le famiglie più numerose. Gli spazi ospitano comodamente una coppia più uno o due bambini, con culle su richiesta. Per quattro persone su due veri letti, prenotate per tempo le camere comunicanti.",
         "de": "Ein modernes Vier-Sterne-Haus, in dem die Zimmer ein Kingsize-Bett mit einem Wohnbereich verbinden, dessen Sofa sich für ein Kind ausklappen lässt, und Verbindungszimmer für größere Familien verfügbar sind. Die Grundrisse bieten bequem Platz für ein Paar plus ein oder zwei Kinder, mit Reisebetten auf Anfrage. Für vier Personen in zwei richtigen Betten buchen Sie Verbindungszimmer frühzeitig.",
         "es": "Un moderno cuatro estrellas donde las habitaciones combinan una cama king con una zona de estar cuyo sofá se abre para un niño, con habitaciones comunicantes disponibles para familias más grandes. La distribución acoge con comodidad a una pareja más uno o dos niños, con cunas bajo petición. Para cuatro en dos camas de verdad, reserva pronto las habitaciones comunicantes.",
@@ -4388,7 +4388,7 @@
       },
       "intro": {
         "en": "A well-priced modern hotel in Parque das Nacoes, walking distance from the oceanarium, the cable car and the riverside gardens. It skips the pool and the frills but delivers space, calm and a metro line straight into the centre, making it a sensible value base for families who will spend their days out.",
-        "fr": "Hotel moderne et bien tarife au Parque das Nacoes, a pied de l'oceanarium, du telepherique et des jardins au bord du fleuve. Il fait l'impasse sur la piscine et le superflu mais offre espace, calme et un metro direct vers le centre : une base raisonnable et economique pour les familles qui passeront leurs journees dehors.",
+        "fr": "Hôtel moderne et bien tarifé au Parque das Nacoes, à pied de l'océanarium, du téléphérique et des jardins au bord du fleuve. Il fait l'impasse sur la piscine et le superflu mais offre espace, calme et un métro direct vers le centre : une base raisonnable et économique pour les familles qui passeront leurs journées dehors.",
         "it": "Un moderno hotel dal buon prezzo al Parque das Nacoes, a distanza a piedi dall'oceanario, dalla funivia e dai giardini sul fiume. Rinuncia alla piscina e ai fronzoli ma offre spazio, tranquillità e una linea di metro diretta al centro, il che ne fa una base sensata e conveniente per le famiglie che passeranno le giornate fuori.",
         "de": "Ein preiswertes modernes Hotel im Parque das Nacoes, zu Fuß erreichbar vom Ozeanarium, der Seilbahn und den Gärten am Fluss. Es verzichtet auf Pool und Schnickschnack, bietet aber Platz, Ruhe und eine Metrolinie direkt ins Zentrum, was es zu einer vernünftigen, preiswerten Basis für Familien macht, die ihre Tage draußen verbringen.",
         "es": "Un moderno hotel a buen precio en el Parque das Nacoes, a pie del oceanario, el teleférico y los jardines junto al río. Se salta la piscina y los adornos, pero ofrece espacio, calma y una línea de metro directa al centro, lo que lo hace una base sensata y económica para familias que pasarán el día fuera.",
@@ -4404,11 +4404,11 @@
           "Riverside gardens and free fountains for kids to run through"
         ],
         "fr": [
-          "Chambres avec canape depliant pour un enfant, plus options communicantes",
-          "A pied de l'oceanarium, du telepherique et du musee des sciences",
-          "Quartier moderne et calme, promenades larges, plates et adaptees aux poussettes",
+          "Chambres avec canapé dépliant pour un enfant, plus options communicantes",
+          "À pied de l'océanarium, du téléphérique et du musée des sciences",
+          "Quartier moderne et calme, promenades larges, plates et adaptées aux poussettes",
           "Garde d'enfants sur demande",
-          "Metro et train Oriente a deux minutes pour l'aeroport et le centre",
+          "Métro et train Oriente à deux minutes pour l'aéroport et le centre",
           "Jardins au bord du fleuve et fontaines gratuites pour courir"
         ],
         "it": [
@@ -4451,9 +4451,9 @@
           "Flat, buggy-friendly streets and easy transport links"
         ],
         "fr": [
-          "Excellent rapport qualite-prix pour un quatre-etoiles moderne avec chambres familiales",
-          "A pied du meilleur ensemble d'attractions pour enfants de Lisbonne",
-          "Rues plates et adaptees aux poussettes, transports faciles"
+          "Excellent rapport qualité-prix pour un quatre-étoiles moderne avec chambres familiales",
+          "À pied du meilleur ensemble d'attractions pour enfants de Lisbonne",
+          "Rues plates et adaptées aux poussettes, transports faciles"
         ],
         "it": [
           "Ottimo rapporto qualità-prezzo per un moderno quattro stelle con camere familiari",
@@ -4483,9 +4483,9 @@
           "Parque das Nacoes is a metro ride from the historic old town"
         ],
         "fr": [
-          "Pas de piscine, donc pas de baignade pour recompenser une journee de chaleur",
-          "Le canape convient a un enfant : pour quatre, il faut des chambres communicantes",
-          "Le Parque das Nacoes est a un trajet de metro de la vieille ville historique"
+          "Pas de piscine, donc pas de baignade pour récompenser une journée de chaleur",
+          "Le canapé convient à un enfant : pour quatre, il faut des chambres communicantes",
+          "Le Parque das Nacoes est à un trajet de métro de la vieille ville historique"
         ],
         "it": [
           "Niente piscina, quindi nessun bagno per premiare una giornata calda",
@@ -4510,7 +4510,7 @@
       },
       "verdict": {
         "en": "A sensible-value modern base beside Lisbon's best kid attractions, for families happy to be out all day and skip a pool.",
-        "fr": "Une base moderne au bon rapport qualite-prix, a cote des meilleures attractions pour enfants de Lisbonne, pour les familles pretes a sortir toute la journee sans piscine.",
+        "fr": "Une base moderne au bon rapport qualité-prix, à côté des meilleures attractions pour enfants de Lisbonne, pour les familles prêtes à sortir toute la journée sans piscine.",
         "it": "Una base moderna dal buon rapporto qualità-prezzo accanto alle migliori attrazioni per bambini di Lisbona, per famiglie contente di stare fuori tutto il giorno e di rinunciare alla piscina.",
         "de": "Eine vernünftige, preiswerte moderne Basis neben Lissabons besten Kinderattraktionen, für Familien, die gern den ganzen Tag draußen sind und auf einen Pool verzichten.",
         "es": "Una base moderna con sensata relación calidad-precio junto a las mejores atracciones infantiles de Lisboa, para familias que se conforman con estar todo el día fuera y prescindir de la piscina.",
@@ -4518,7 +4518,7 @@
       },
       "parentTip": {
         "en": "Everything the kids want is a flat walk away, so leave the car and the taxis behind: the oceanarium, cable car and fountains are a ten-minute stroll from the lobby.",
-        "fr": "Tout ce que veulent les enfants est a plat et a pied : oubliez la voiture et les taxis, l'oceanarium, le telepherique et les fontaines sont a dix minutes du hall.",
+        "fr": "Tout ce que veulent les enfants est à plat et à pied : oubliez la voiture et les taxis, l'océanarium, le téléphérique et les fontaines sont à dix minutes du hall.",
         "it": "Tutto ciò che vogliono i bambini è a una passeggiata in piano, quindi lasciate perdere auto e taxi: l'oceanario, la funivia e le fontane sono a dieci minuti a piedi dalla hall.",
         "de": "Alles, was die Kinder wollen, ist flach zu Fuß erreichbar, lassen Sie also Auto und Taxi stehen: Ozeanarium, Seilbahn und Brunnen sind zehn Gehminuten von der Lobby entfernt.",
         "es": "Todo lo que quieren los niños está a un paseo llano, así que olvídate del coche y los taxis: el oceanario, el teleférico y las fuentes están a diez minutos a pie del vestíbulo.",
@@ -4556,7 +4556,7 @@
           },
           "value": {
             "en": "10 min walk",
-            "fr": "10 min a pied",
+            "fr": "10 min à pied",
             "it": "10 min a piedi",
             "de": "10 Min. zu Fuß",
             "es": "10 min a pie",
@@ -4575,7 +4575,7 @@
           },
           "value": {
             "en": "Oriente metro and train, 2 min",
-            "fr": "Metro et train Oriente, 2 min",
+            "fr": "Métro et train Oriente, 2 min",
             "it": "Metro e treno Oriente, 2 min",
             "de": "Metro und Zug Oriente, 2 Min.",
             "es": "Metro y tren Oriente, 2 min",
@@ -4653,7 +4653,7 @@
           },
           "detail": {
             "en": "A short walk to one of Europe's biggest aquariums and its giant central tank.",
-            "fr": "A quelques minutes a pied de l'un des plus grands aquariums d'Europe et de son immense bassin central.",
+            "fr": "À quelques minutes à pied de l'un des plus grands aquariums d'Europe et de son immense bassin central.",
             "it": "A pochi passi da uno dei più grandi acquari d'Europa e dalla sua enorme vasca centrale.",
             "de": "Ein kurzer Spaziergang zu einem der größten Aquarien Europas und seinem riesigen zentralen Becken.",
             "es": "A un breve paseo de uno de los acuarios más grandes de Europa y su enorme tanque central.",
@@ -4666,7 +4666,7 @@
           ],
           "time": {
             "en": "2 to 3 h",
-            "fr": "2 a 3 h",
+            "fr": "2 à 3 h",
             "it": "Da 2 a 3 h",
             "de": "2 bis 3 Std.",
             "es": "De 2 a 3 h",
@@ -4677,7 +4677,7 @@
           "emoji": "🚡",
           "name": {
             "en": "Telecabine cable car",
-            "fr": "Telepherique Telecabine",
+            "fr": "Téléphérique Télécabine",
             "it": "Funivia Telecabine",
             "de": "Seilbahn Telecabine",
             "es": "Teleférico Telecabine",
@@ -4717,7 +4717,7 @@
           },
           "detail": {
             "en": "Hands-on science exhibits kids can push, pedal and pull all afternoon.",
-            "fr": "Des experiences scientifiques interactives que les enfants poussent, pedalent et tirent tout l'apres-midi.",
+            "fr": "Des expériences scientifiques interactives que les enfants poussent, pédalent et tirent tout l'après-midi.",
             "it": "Esposizioni scientifiche interattive che i bambini possono spingere, pedalare e tirare per tutto il pomeriggio.",
             "de": "Interaktive Wissenschaftsexponate, die Kinder den ganzen Nachmittag drücken, treten und ziehen können.",
             "es": "Exposiciones de ciencia interactivas que los niños pueden empujar, pedalear y tirar toda la tarde.",
@@ -4748,7 +4748,7 @@
           },
           "detail": {
             "en": "Free jumping water jets along the promenade for hot afternoons.",
-            "fr": "Des jets d'eau gratuits le long de la promenade pour les apres-midis de chaleur.",
+            "fr": "Des jets d'eau gratuits le long de la promenade pour les après-midis de chaleur.",
             "it": "Getti d'acqua saltellanti e gratuiti lungo la passeggiata per i pomeriggi caldi.",
             "de": "Kostenlose springende Wasserfontänen entlang der Promenade für heiße Nachmittage.",
             "es": "Chorros de agua saltarines y gratuitos a lo largo del paseo para las tardes de calor.",
@@ -4773,7 +4773,7 @@
           "time": "8:30",
           "title": {
             "en": "Breakfast at the hotel",
-            "fr": "Petit-dejeuner a l'hotel",
+            "fr": "Petit-déjeuner à l'hôtel",
             "it": "Colazione in hotel",
             "de": "Frühstück im Hotel",
             "es": "Desayuno en el hotel",
@@ -4781,7 +4781,7 @@
           },
           "note": {
             "en": "A quick buffet before a walking day.",
-            "fr": "Un buffet rapide avant une journee a pied.",
+            "fr": "Un buffet rapide avant une journée à pied.",
             "it": "Un buffet veloce prima di una giornata a piedi.",
             "de": "Ein schnelles Buffet vor einem Wandertag.",
             "es": "Un bufé rápido antes de un día de caminata.",
@@ -4800,7 +4800,7 @@
           },
           "note": {
             "en": "Ten minutes on foot, in early to beat the crowds.",
-            "fr": "Dix minutes a pied, tot pour eviter la foule.",
+            "fr": "Dix minutes à pied, tôt pour éviter la foule.",
             "it": "Dieci minuti a piedi, presto per anticipare la folla.",
             "de": "Zehn Minuten zu Fuß, früh dran, um dem Andrang zu entgehen.",
             "es": "Diez minutos a pie, pronto para adelantarse a la gente.",
@@ -4811,7 +4811,7 @@
           "time": "13:00",
           "title": {
             "en": "Lunch on the promenade",
-            "fr": "Dejeuner sur la promenade",
+            "fr": "Déjeuner sur la promenade",
             "it": "Pranzo sulla passeggiata",
             "de": "Mittagessen an der Promenade",
             "es": "Comida en el paseo",
@@ -4819,7 +4819,7 @@
           },
           "note": {
             "en": "Casual riverside spots near the marina.",
-            "fr": "Des adresses decontractees au bord de l'eau, pres de la marina.",
+            "fr": "Des adresses décontractées au bord de l'eau, près de la marina.",
             "it": "Locali informali sul fiume vicino alla marina.",
             "de": "Lässige Lokale am Fluss in der Nähe des Yachthafens.",
             "es": "Sitios informales junto al río cerca del puerto deportivo.",
@@ -4830,7 +4830,7 @@
           "time": "15:00",
           "title": {
             "en": "Cable car and fountains",
-            "fr": "Telepherique et fontaines",
+            "fr": "Téléphérique et fontaines",
             "it": "Funivia e fontane",
             "de": "Seilbahn und Brunnen",
             "es": "Teleférico y fuentes",
@@ -4849,7 +4849,7 @@
           "time": "18:00",
           "title": {
             "en": "Metro into the old town",
-            "fr": "Metro vers la vieille ville",
+            "fr": "Métro vers la vieille ville",
             "it": "Metro verso la città vecchia",
             "de": "Mit der Metro in die Altstadt",
             "es": "Metro al casco antiguo",
@@ -4857,7 +4857,7 @@
           },
           "note": {
             "en": "Fifteen minutes to dinner in the centre.",
-            "fr": "Quinze minutes jusqu'au diner dans le centre.",
+            "fr": "Quinze minutes jusqu'au dîner dans le centre.",
             "it": "Quindici minuti fino alla cena in centro.",
             "de": "Fünfzehn Minuten bis zum Abendessen im Zentrum.",
             "es": "Quince minutos hasta la cena en el centro.",
@@ -4868,7 +4868,7 @@
       "ageNotes": {
         "toddler": {
           "en": "Flat promenades, free fountains and a short walk to the oceanarium suit toddlers well, with a pull-out sofa for one small child.",
-          "fr": "Promenades plates, fontaines gratuites et courte marche jusqu'a l'oceanarium conviennent bien aux tout-petits, avec un canape depliant pour un jeune enfant.",
+          "fr": "Promenades plates, fontaines gratuites et courte marche jusqu'à l'océanarium conviennent bien aux tout-petits, avec un canapé dépliant pour un jeune enfant.",
           "it": "Passeggiate pianeggianti, fontane gratuite e una breve camminata fino all'oceanario si adattano bene ai più piccoli, con un divano estraibile per un bambino piccolo.",
           "de": "Flache Promenaden, kostenlose Brunnen und ein kurzer Weg zum Ozeanarium passen gut zu Kleinkindern, mit einem ausziehbaren Sofa für ein kleines Kind.",
           "es": "Los paseos llanos, las fuentes gratuitas y el corto trayecto a pie al oceanario van bien con los más pequeños, con un sofá cama para un niño pequeño.",
@@ -4876,7 +4876,7 @@
         },
         "kid": {
           "en": "The oceanarium, science museum and cable car within walking distance make for busy, happy days at this age.",
-          "fr": "L'oceanarium, le musee des sciences et le telepherique, tous a pied, garantissent des journees bien remplies a cet age.",
+          "fr": "L'océanarium, le musée des sciences et le téléphérique, tous à pied, garantissent des journées bien remplies à cet âge.",
           "it": "L'oceanario, il museo della scienza e la funivia a distanza a piedi regalano giornate piene e felici a questa età.",
           "de": "Ozeanarium, Wissenschaftsmuseum und Seilbahn in Gehweite sorgen für ausgefüllte, glückliche Tage in diesem Alter.",
           "es": "El oceanario, el museo de la ciencia y el teleférico a poca distancia a pie hacen que los días sean animados y felices a esta edad.",
@@ -4903,7 +4903,7 @@
           },
           "a": {
             "en": "The living-area sofa opens for one child, so a couple with one or two young children fits. For four in proper beds, book connecting rooms.",
-            "fr": "Le canape du coin salon se deplie pour un enfant, donc un couple avec un ou deux jeunes enfants tient. Pour quatre dans de vrais lits, reservez des chambres communicantes.",
+            "fr": "Le canapé du coin salon se déplie pour un enfant, donc un couple avec un ou deux jeunes enfants tient. Pour quatre dans de vrais lits, réservez des chambres communicantes.",
             "it": "Il divano del soggiorno si apre per un bambino, quindi una coppia con uno o due bambini piccoli ci sta. Per quattro persone su veri letti, prenotate camere comunicanti.",
             "de": "Das Sofa im Wohnbereich lässt sich für ein Kind ausklappen, sodass ein Paar mit ein oder zwei kleinen Kindern hineinpasst. Für vier in richtigen Betten buchen Sie Verbindungszimmer.",
             "es": "El sofá de la zona de estar se abre para un niño, así que cabe una pareja con uno o dos niños pequeños. Para cuatro en camas de verdad, reserva habitaciones comunicantes.",
@@ -4921,7 +4921,7 @@
           },
           "a": {
             "en": "No. This is a city hotel without a pool, so plan the riverside fountains or a day trip if the kids need water.",
-            "fr": "Non. C'est un hotel de ville sans piscine : prevoyez les fontaines du bord de l'eau ou une excursion si les enfants veulent de l'eau.",
+            "fr": "Non. C'est un hôtel de ville sans piscine : prévoyez les fontaines du bord de l'eau ou une excursion si les enfants veulent de l'eau.",
             "it": "No. È un hotel di città senza piscina, quindi organizzate le fontane sul fiume o una gita se i bambini hanno bisogno d'acqua.",
             "de": "Nein. Dies ist ein Stadthotel ohne Pool, planen Sie also die Brunnen am Fluss oder einen Ausflug ein, wenn die Kinder Wasser brauchen.",
             "es": "No. Es un hotel urbano sin piscina, así que planifica las fuentes junto al río o una excursión si los niños necesitan agua.",
@@ -4931,7 +4931,7 @@
         {
           "q": {
             "en": "How far are the main attractions?",
-            "fr": "A quelle distance sont les principales attractions ?",
+            "fr": "À quelle distance sont les principales attractions ?",
             "it": "Quanto distano le attrazioni principali?",
             "de": "Wie weit sind die wichtigsten Attraktionen entfernt?",
             "es": "¿A qué distancia están las principales atracciones?",
@@ -4939,7 +4939,7 @@
           },
           "a": {
             "en": "The oceanarium, cable car and science museum are a flat ten-minute walk, and the historic centre is about 15 minutes by metro.",
-            "fr": "L'oceanarium, le telepherique et le musee des sciences sont a dix minutes a plat, et le centre historique a environ 15 minutes en metro.",
+            "fr": "L'océanarium, le téléphérique et le musée des sciences sont à dix minutes à plat, et le centre historique à environ 15 minutes en métro.",
             "it": "L'oceanario, la funivia e il museo della scienza sono a dieci minuti a piedi in piano, e il centro storico è a circa 15 minuti di metro.",
             "de": "Ozeanarium, Seilbahn und Wissenschaftsmuseum sind zehn Minuten flach zu Fuß entfernt, und das historische Zentrum ist etwa 15 Minuten mit der Metro.",
             "es": "El oceanario, el teleférico y el museo de la ciencia están a diez minutos a pie por terreno llano, y el centro histórico a unos 15 minutos en metro.",
