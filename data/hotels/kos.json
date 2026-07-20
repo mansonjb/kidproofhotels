@@ -322,7 +322,7 @@
           ],
           "time": {
             "en": "All day",
-            "fr": "Toute la journee",
+            "fr": "Toute la journée",
             "it": "Tutto il giorno",
             "de": "Ganztägig",
             "es": "Todo el día",
@@ -350,7 +350,7 @@
           "ages": [],
           "time": {
             "en": "Anytime",
-            "fr": "A tout moment",
+            "fr": "À tout moment",
             "it": "In qualsiasi momento",
             "de": "Jederzeit",
             "es": "En cualquier momento",
@@ -382,7 +382,7 @@
           "time": "10:30",
           "title": {
             "en": "Kids club drop-off",
-            "fr": "Depose au club enfants",
+            "fr": "Dépose au club enfants",
             "it": "Accompagnamento al miniclub",
             "de": "Abgabe im Kinderclub",
             "es": "Dejada en el club infantil",
@@ -401,7 +401,7 @@
           "time": "13:00",
           "title": {
             "en": "Poolside lunch",
-            "fr": "Dejeuner au bord de la piscine",
+            "fr": "Déjeuner au bord de la piscine",
             "it": "Pranzo a bordo piscina",
             "de": "Mittagessen am Pool",
             "es": "Almuerzo junto a la piscina",
@@ -849,7 +849,7 @@
           ],
           "time": {
             "en": "Late afternoon",
-            "fr": "Fin d'apres-midi",
+            "fr": "Fin d'après-midi",
             "it": "Tardo pomeriggio",
             "de": "Später Nachmittag",
             "es": "Media tarde",
@@ -1423,7 +1423,7 @@
           "time": "8:30",
           "title": {
             "en": "Buffet breakfast",
-            "fr": "Petit-dejeuner buffet",
+            "fr": "Petit-déjeuner buffet",
             "it": "Colazione a buffet",
             "de": "Frühstücksbuffet",
             "es": "Desayuno bufé",
@@ -1461,7 +1461,7 @@
           "time": "14:00",
           "title": {
             "en": "Pool afternoon",
-            "fr": "Apres-midi piscine",
+            "fr": "Après-midi piscine",
             "it": "Pomeriggio in piscina",
             "de": "Nachmittag am Pool",
             "es": "Tarde de piscina",
@@ -1908,7 +1908,7 @@
           ],
           "time": {
             "en": "Afternoon",
-            "fr": "Apres-midi",
+            "fr": "Après-midi",
             "it": "Pomeriggio",
             "de": "Nachmittag",
             "es": "Tarde",
@@ -1940,7 +1940,7 @@
           ],
           "time": {
             "en": "Late afternoon",
-            "fr": "Fin d'apres-midi",
+            "fr": "Fin d'après-midi",
             "it": "Tardo pomeriggio",
             "de": "Später Nachmittag",
             "es": "Media tarde",
@@ -1953,7 +1953,7 @@
           "time": "8:30",
           "title": {
             "en": "Breakfast buffet",
-            "fr": "Petit-dejeuner buffet",
+            "fr": "Petit-déjeuner buffet",
             "it": "Colazione a buffet",
             "de": "Frühstücksbuffet",
             "es": "Desayuno bufé",
@@ -2386,7 +2386,7 @@
           "emoji": "🛝",
           "name": {
             "en": "Water park day",
-            "fr": "Journee parc aquatique",
+            "fr": "Journée parc aquatique",
             "it": "Giornata al parco acquatico",
             "de": "Wasserpark-Tag",
             "es": "Día de parque acuático",
@@ -2406,7 +2406,7 @@
           ],
           "time": {
             "en": "All day",
-            "fr": "Toute la journee",
+            "fr": "Toute la journée",
             "it": "Tutto il giorno",
             "de": "Ganztägig",
             "es": "Todo el día",
@@ -2468,7 +2468,7 @@
           ],
           "time": {
             "en": "Afternoon",
-            "fr": "Apres-midi",
+            "fr": "Après-midi",
             "it": "Pomeriggio",
             "de": "Nachmittag",
             "es": "Tarde",
@@ -2938,7 +2938,7 @@
           ],
           "time": {
             "en": "Late afternoon",
-            "fr": "Fin d'apres-midi",
+            "fr": "Fin d'après-midi",
             "it": "Tardo pomeriggio",
             "de": "Später Nachmittag",
             "es": "Media tarde",
@@ -3014,7 +3014,7 @@
           "time": "8:30",
           "title": {
             "en": "Buffet breakfast",
-            "fr": "Petit-dejeuner buffet",
+            "fr": "Petit-déjeuner buffet",
             "it": "Colazione a buffet",
             "de": "Frühstücksbuffet",
             "es": "Desayuno bufé",
@@ -3370,7 +3370,7 @@
           "icon": "💶",
           "label": {
             "en": "Value",
-            "fr": "Rapport qualite-prix",
+            "fr": "Rapport qualité-prix",
             "it": "Rapporto qualità-prezzo",
             "de": "Preis-Leistung",
             "es": "Relación calidad-precio",
@@ -3467,7 +3467,7 @@
           ],
           "time": {
             "en": "Afternoon",
-            "fr": "Apres-midi",
+            "fr": "Après-midi",
             "it": "Pomeriggio",
             "de": "Nachmittag",
             "es": "Tarde",
@@ -3530,7 +3530,7 @@
           ],
           "time": {
             "en": "Afternoon",
-            "fr": "Apres-midi",
+            "fr": "Après-midi",
             "it": "Pomeriggio",
             "de": "Nachmittag",
             "es": "Tarde",
@@ -3543,7 +3543,7 @@
           "time": "8:30",
           "title": {
             "en": "Breakfast buffet",
-            "fr": "Petit-dejeuner buffet",
+            "fr": "Petit-déjeuner buffet",
             "it": "Colazione a buffet",
             "de": "Frühstücksbuffet",
             "es": "Desayuno bufé",
@@ -3562,7 +3562,7 @@
           "time": "10:00",
           "title": {
             "en": "Pool morning",
-            "fr": "Matinee piscine",
+            "fr": "Matinée piscine",
             "it": "Mattinata in piscina",
             "de": "Vormittag am Pool",
             "es": "Mañana de piscina",
@@ -3956,7 +3956,7 @@
           "icon": "💶",
           "label": {
             "en": "Value",
-            "fr": "Rapport qualite-prix",
+            "fr": "Rapport qualité-prix",
             "it": "Rapporto qualità-prezzo",
             "de": "Preis-Leistung",
             "es": "Relación calidad-precio",
@@ -4074,7 +4074,7 @@
           "time": "8:00",
           "title": {
             "en": "Breakfast in the apartment",
-            "fr": "Petit-dejeuner dans l'appartement",
+            "fr": "Petit-déjeuner dans l'appartement",
             "it": "Colazione nell'appartamento",
             "de": "Frühstück im Apartment",
             "es": "Desayuno en el apartamento",
@@ -4337,7 +4337,7 @@
         "value": "26 to 32C",
         "label": {
           "en": "Typical summer day highs",
-          "fr": "Maximums typiques en ete",
+          "fr": "Maximums typiques en été",
           "it": "Massime tipiche di una giornata estiva",
           "de": "Typische sommerliche Tageshöchstwerte",
           "es": "Máximas típicas de un día de verano",
@@ -4403,7 +4403,7 @@
         ],
         "time": {
           "en": "Late afternoon",
-          "fr": "Fin d'apres-midi",
+          "fr": "Fin d'après-midi",
           "it": "Tardo pomeriggio",
           "de": "Später Nachmittag",
           "es": "Media tarde",
@@ -4435,7 +4435,7 @@
         ],
         "time": {
           "en": "Late afternoon",
-          "fr": "Fin d'apres-midi",
+          "fr": "Fin d'après-midi",
           "it": "Tardo pomeriggio",
           "de": "Später Nachmittag",
           "es": "Media tarde",
@@ -4497,7 +4497,7 @@
         ],
         "time": {
           "en": "All day",
-          "fr": "Toute la journee",
+          "fr": "Toute la journée",
           "it": "Tutto il giorno",
           "de": "Ganztägig",
           "es": "Todo el día",

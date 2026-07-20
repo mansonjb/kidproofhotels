@@ -293,7 +293,7 @@
           ],
           "time": {
             "en": "Late afternoon",
-            "fr": "Fin d'apres-midi",
+            "fr": "Fin d'après-midi",
             "it": "Tardo pomeriggio",
             "de": "Spaeter Nachmittag",
             "es": "Media tarde",
@@ -352,7 +352,7 @@
           "ages": [],
           "time": {
             "en": "Anytime",
-            "fr": "A tout moment",
+            "fr": "À tout moment",
             "it": "In qualsiasi momento",
             "de": "Jederzeit",
             "es": "En cualquier momento",
@@ -365,7 +365,7 @@
           "time": "8:30",
           "title": {
             "en": "Suite terrace breakfast",
-            "fr": "Petit-dejeuner sur la terrasse de la suite",
+            "fr": "Petit-déjeuner sur la terrasse de la suite",
             "it": "Colazione in terrazza della suite",
             "de": "Fruehstueck auf der Suitenterrasse",
             "es": "Desayuno en la terraza de la suite",
@@ -403,7 +403,7 @@
           "time": "13:00",
           "title": {
             "en": "Poolside lunch",
-            "fr": "Dejeuner au bord de la piscine",
+            "fr": "Déjeuner au bord de la piscine",
             "it": "Pranzo a bordo piscina",
             "de": "Mittagessen am Pool",
             "es": "Almuerzo junto a la piscina",
@@ -494,7 +494,7 @@
         {
           "q": {
             "en": "How far is the beach?",
-            "fr": "A quelle distance est la plage?",
+            "fr": "À quelle distance est la plage?",
             "it": "Quanto dista la spiaggia?",
             "de": "Wie weit ist der Strand entfernt?",
             "es": "A que distancia esta la playa?",
@@ -882,7 +882,7 @@
           ],
           "time": {
             "en": "Late afternoon",
-            "fr": "Fin d'apres-midi",
+            "fr": "Fin d'après-midi",
             "it": "Tardo pomeriggio",
             "de": "Spaeter Nachmittag",
             "es": "Media tarde",
@@ -1385,7 +1385,7 @@
           ],
           "time": {
             "en": "All day",
-            "fr": "Toute la journee",
+            "fr": "Toute la journée",
             "it": "Tutto il giorno",
             "de": "Ganztaegig",
             "es": "Todo el dia",
@@ -1914,7 +1914,7 @@
           ],
           "time": {
             "en": "Late afternoon",
-            "fr": "Fin d'apres-midi",
+            "fr": "Fin d'après-midi",
             "it": "Tardo pomeriggio",
             "de": "Spaeter Nachmittag",
             "es": "Media tarde",
@@ -1958,7 +1958,7 @@
           "time": "8:30",
           "title": {
             "en": "Buffet breakfast",
-            "fr": "Petit-dejeuner buffet",
+            "fr": "Petit-déjeuner buffet",
             "it": "Colazione a buffet",
             "de": "Fruehstuecksbuffet",
             "es": "Desayuno buffet",
@@ -2105,7 +2105,7 @@
         {
           "q": {
             "en": "How far is the beach?",
-            "fr": "A quelle distance est la plage?",
+            "fr": "À quelle distance est la plage?",
             "it": "Quanto dista la spiaggia?",
             "de": "Wie weit ist der Strand entfernt?",
             "es": "A que distancia esta la playa?",
@@ -2414,7 +2414,7 @@
           ],
           "time": {
             "en": "Late afternoon",
-            "fr": "Fin d'apres-midi",
+            "fr": "Fin d'après-midi",
             "it": "Tardo pomeriggio",
             "de": "Spaeter Nachmittag",
             "es": "Media tarde",
@@ -2478,7 +2478,7 @@
           ],
           "time": {
             "en": "Afternoon",
-            "fr": "Apres-midi",
+            "fr": "Après-midi",
             "it": "Pomeriggio",
             "de": "Nachmittag",
             "es": "Tarde",
@@ -2491,7 +2491,7 @@
           "time": "8:30",
           "title": {
             "en": "Breakfast on the terrace",
-            "fr": "Petit-dejeuner en terrasse",
+            "fr": "Petit-déjeuner en terrasse",
             "it": "Colazione in terrazza",
             "de": "Fruehstueck auf der Terrasse",
             "es": "Desayuno en la terraza",
@@ -2510,7 +2510,7 @@
           "time": "10:00",
           "title": {
             "en": "Beach morning",
-            "fr": "Matinee plage",
+            "fr": "Matinée plage",
             "it": "Mattinata in spiaggia",
             "de": "Vormittag am Strand",
             "es": "Manana de playa",
@@ -2926,7 +2926,7 @@
           "emoji": "🛝",
           "name": {
             "en": "Water park morning",
-            "fr": "Matinee parc aquatique",
+            "fr": "Matinée parc aquatique",
             "it": "Mattinata al parco acquatico",
             "de": "Vormittag im Wasserpark",
             "es": "Manana en el parque acuatico",
@@ -2977,7 +2977,7 @@
           ],
           "time": {
             "en": "Afternoon",
-            "fr": "Apres-midi",
+            "fr": "Après-midi",
             "it": "Pomeriggio",
             "de": "Nachmittag",
             "es": "Tarde",
@@ -3474,7 +3474,7 @@
           ],
           "time": {
             "en": "All day",
-            "fr": "Toute la journee",
+            "fr": "Toute la journée",
             "it": "Tutto il giorno",
             "de": "Ganztaegig",
             "es": "Todo el dia",
@@ -3549,7 +3549,7 @@
           "time": "8:30",
           "title": {
             "en": "Buffet breakfast",
-            "fr": "Petit-dejeuner buffet",
+            "fr": "Petit-déjeuner buffet",
             "it": "Colazione a buffet",
             "de": "Fruehstuecksbuffet",
             "es": "Desayuno buffet",
@@ -3568,7 +3568,7 @@
           "time": "10:00",
           "title": {
             "en": "Pool morning",
-            "fr": "Matinee piscine",
+            "fr": "Matinée piscine",
             "it": "Mattinata in piscina",
             "de": "Vormittag am Pool",
             "es": "Manana de piscina",
@@ -3614,7 +3614,7 @@
           },
           "note": {
             "en": "Kids let off steam before bed.",
-            "fr": "Les enfants se defoulent avant le coucher.",
+            "fr": "Les enfants se défoulent avant le coucher.",
             "it": "I bambini si sfogano prima di andare a letto.",
             "de": "Die Kinder toben sich vor dem Schlafengehen aus.",
             "es": "Los ninos se desahogan antes de acostarse.",
@@ -4098,7 +4098,7 @@
           "time": "10:00",
           "title": {
             "en": "Beach morning",
-            "fr": "Matinee plage",
+            "fr": "Matinée plage",
             "it": "Mattinata in spiaggia",
             "de": "Vormittag am Strand",
             "es": "Manana de playa",
@@ -4117,7 +4117,7 @@
           "time": "13:30",
           "title": {
             "en": "Lunch and nap",
-            "fr": "Dejeuner et sieste",
+            "fr": "Déjeuner et sieste",
             "it": "Pranzo e pisolino",
             "de": "Mittagessen und Nickerchen",
             "es": "Almuerzo y siesta",
@@ -4342,7 +4342,7 @@
         "value": "25 to 29C",
         "label": {
           "en": "Typical summer day highs",
-          "fr": "Maximums typiques en ete",
+          "fr": "Maximums typiques en été",
           "it": "Massime tipiche di una giornata estiva",
           "de": "Typische sommerliche Tageshoechstwerte",
           "es": "Maximas tipicas de un dia de verano",
@@ -4505,7 +4505,7 @@
         ],
         "time": {
           "en": "Late afternoon",
-          "fr": "Fin d'apres-midi",
+          "fr": "Fin d'après-midi",
           "it": "Tardo pomeriggio",
           "de": "Spaeter Nachmittag",
           "es": "Media tarde",

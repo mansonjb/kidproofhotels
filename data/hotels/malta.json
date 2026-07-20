@@ -889,7 +889,7 @@
           ],
           "time": {
             "en": "Late afternoon",
-            "fr": "Fin d'apres-midi",
+            "fr": "Fin d'après-midi",
             "it": "Tardo pomeriggio",
             "de": "Spaeter Nachmittag",
             "es": "Media tarde",
@@ -902,7 +902,7 @@
           "time": "8:00",
           "title": {
             "en": "Sea-view breakfast",
-            "fr": "Petit-dejeuner vue mer",
+            "fr": "Petit-déjeuner vue mer",
             "it": "Colazione con vista mare",
             "de": "Fruehstueck mit Meerblick",
             "es": "Desayuno con vistas al mar",
@@ -921,7 +921,7 @@
           "time": "10:00",
           "title": {
             "en": "Down to the beach",
-            "fr": "Descente a la plage",
+            "fr": "Descente à la plage",
             "it": "Giu in spiaggia",
             "de": "Hinunter zum Strand",
             "es": "Bajada a la playa",
@@ -959,7 +959,7 @@
           "time": "19:30",
           "title": {
             "en": "Early family dinner",
-            "fr": "Diner familial tot",
+            "fr": "Dîner familial tôt",
             "it": "Cena in famiglia presto",
             "de": "Fruehes Familienabendessen",
             "es": "Cena familiar temprano",
@@ -1389,7 +1389,7 @@
           ],
           "time": {
             "en": "All day",
-            "fr": "Toute la journee",
+            "fr": "Toute la journée",
             "it": "Tutto il giorno",
             "de": "Ganztags",
             "es": "Todo el dia",
@@ -1420,7 +1420,7 @@
           ],
           "time": {
             "en": "Late afternoon",
-            "fr": "Fin d'apres-midi",
+            "fr": "Fin d'après-midi",
             "it": "Tardo pomeriggio",
             "de": "Spaeter Nachmittag",
             "es": "Media tarde",
@@ -1452,7 +1452,7 @@
           "time": "10:30",
           "title": {
             "en": "Private beach",
-            "fr": "Plage privee",
+            "fr": "Plage privée",
             "it": "Spiaggia privata",
             "de": "Privatstrand",
             "es": "Playa privada",
@@ -1471,7 +1471,7 @@
           "time": "13:30",
           "title": {
             "en": "Pool afternoon",
-            "fr": "Apres-midi piscine",
+            "fr": "Après-midi piscine",
             "it": "Pomeriggio in piscina",
             "de": "Nachmittag am Pool",
             "es": "Tarde de piscina",
@@ -1951,7 +1951,7 @@
           ],
           "time": {
             "en": "All day",
-            "fr": "Toute la journee",
+            "fr": "Toute la journée",
             "it": "Tutto il giorno",
             "de": "Ganztags",
             "es": "Todo el dia",
@@ -1964,7 +1964,7 @@
           "time": "9:00",
           "title": {
             "en": "Buffet breakfast",
-            "fr": "Petit-dejeuner buffet",
+            "fr": "Petit-déjeuner buffet",
             "it": "Colazione a buffet",
             "de": "Fruehstuecksbuffet",
             "es": "Desayuno bufe",
@@ -2002,7 +2002,7 @@
           "time": "13:00",
           "title": {
             "en": "Pool afternoon",
-            "fr": "Apres-midi piscine",
+            "fr": "Après-midi piscine",
             "it": "Pomeriggio in piscina",
             "de": "Nachmittag am Pool",
             "es": "Tarde de piscina",
@@ -2021,7 +2021,7 @@
           "time": "18:30",
           "title": {
             "en": "Promenade and dinner",
-            "fr": "Promenade et diner",
+            "fr": "Promenade et dîner",
             "it": "Passeggiata e cena",
             "de": "Promenade und Abendessen",
             "es": "Paseo y cena",
@@ -2445,7 +2445,7 @@
           ],
           "time": {
             "en": "Afternoon",
-            "fr": "Apres-midi",
+            "fr": "Après-midi",
             "it": "Pomeriggio",
             "de": "Nachmittags",
             "es": "Tarde",
@@ -2852,7 +2852,7 @@
           },
           "value": {
             "en": "Indoor and outdoor",
-            "fr": "Interieure et exterieure",
+            "fr": "Intérieure et extérieure",
             "it": "Interna ed esterna",
             "de": "Innen und aussen",
             "es": "Interior y exterior",
@@ -2974,7 +2974,7 @@
           ],
           "time": {
             "en": "All day",
-            "fr": "Toute la journee",
+            "fr": "Toute la journée",
             "it": "Tutto il giorno",
             "de": "Ganztags",
             "es": "Todo el dia",
@@ -3019,7 +3019,7 @@
           "time": "8:30",
           "title": {
             "en": "Breakfast",
-            "fr": "Petit-dejeuner",
+            "fr": "Petit-déjeuner",
             "it": "Colazione",
             "de": "Fruehstueck",
             "es": "Desayuno",
@@ -3430,7 +3430,7 @@
           "icon": "🐠",
           "label": {
             "en": "Nearby",
-            "fr": "A proximite",
+            "fr": "À proximité",
             "it": "Nei dintorni",
             "de": "In der Naehe",
             "es": "Cerca",
@@ -3504,7 +3504,7 @@
           ],
           "time": {
             "en": "Afternoon",
-            "fr": "Apres-midi",
+            "fr": "Après-midi",
             "it": "Pomeriggio",
             "de": "Nachmittags",
             "es": "Tarde",
@@ -3549,7 +3549,7 @@
           "time": "8:00",
           "title": {
             "en": "Breakfast in the apartment",
-            "fr": "Petit-dejeuner dans l'appartement",
+            "fr": "Petit-déjeuner dans l'appartement",
             "it": "Colazione in appartamento",
             "de": "Fruehstueck im Apartment",
             "es": "Desayuno en el apartamento",
@@ -3930,7 +3930,7 @@
           },
           "value": {
             "en": "Indoor and outdoor",
-            "fr": "Interieure et exterieure",
+            "fr": "Intérieure et extérieure",
             "it": "Interna ed esterna",
             "de": "Innen und aussen",
             "es": "Interior y exterior",
@@ -4034,7 +4034,7 @@
           ],
           "time": {
             "en": "Afternoon",
-            "fr": "Apres-midi",
+            "fr": "Après-midi",
             "it": "Pomeriggio",
             "de": "Nachmittags",
             "es": "Tarde",
@@ -4065,7 +4065,7 @@
           ],
           "time": {
             "en": "Late afternoon",
-            "fr": "Fin d'apres-midi",
+            "fr": "Fin d'après-midi",
             "it": "Tardo pomeriggio",
             "de": "Spaeter Nachmittag",
             "es": "Media tarde",
@@ -4078,7 +4078,7 @@
           "time": "8:30",
           "title": {
             "en": "Garden breakfast",
-            "fr": "Petit-dejeuner au jardin",
+            "fr": "Petit-déjeuner au jardin",
             "it": "Colazione in giardino",
             "de": "Fruehstueck im Garten",
             "es": "Desayuno en el jardin",
@@ -4353,7 +4353,7 @@
         "value": "26 to 31C",
         "label": {
           "en": "Typical summer day highs",
-          "fr": "Maximums typiques en ete",
+          "fr": "Maximums typiques en été",
           "it": "Massime tipiche di una giornata estiva",
           "de": "Typische sommerliche Tageshoechstwerte",
           "es": "Maximas tipicas de un dia de verano",
@@ -4420,7 +4420,7 @@
         ],
         "time": {
           "en": "All day",
-          "fr": "Toute la journee",
+          "fr": "Toute la journée",
           "it": "Tutto il giorno",
           "de": "Ganztags",
           "es": "Todo el dia",
@@ -4484,7 +4484,7 @@
         ],
         "time": {
           "en": "Afternoon",
-          "fr": "Apres-midi",
+          "fr": "Après-midi",
           "it": "Pomeriggio",
           "de": "Nachmittags",
           "es": "Tarde",
@@ -4563,7 +4563,7 @@
       {
         "q": {
           "en": "When is the best time to visit with kids?",
-          "fr": "Quelle est la meilleure periode pour venir avec des enfants?",
+          "fr": "Quelle est la meilleure période pour venir avec des enfants?",
           "it": "Qual e il periodo migliore per venire con i bambini?",
           "de": "Wann ist die beste Reisezeit mit Kindern?",
           "es": "Cual es la mejor epoca para visitar con ninos?",

@@ -29,6 +29,18 @@ export function AmenityPage({
   const hotels = [...hotelsWithAmenity(amenity.id)].sort((a, b) => scoreOf(b) - scoreOf(a));
   const others = AMENITIES.filter((a) => a.id !== amenity.id).slice(0, 6);
 
+  // Real-data sub-standfirst: how many hotels we scored for this amenity and the
+  // current front-runner. Gives the hub page substance beyond the editorial intro.
+  const topHotel = hotels[0]?.name;
+  const factsLine =
+    hotels.length > 0 && topHotel
+      ? fill(dict.browse.amenityFacts, {
+          count: String(hotels.length),
+          amenity: amenity.label[locale],
+          top: topHotel,
+        })
+      : "";
+
   return (
     <article className="mx-auto max-w-5xl px-5 py-10">
       <Breadcrumb
@@ -46,6 +58,7 @@ export function AmenityPage({
           {amenity.h1[locale]}
         </h1>
         <p className="mt-5 text-lg leading-relaxed text-ink-soft">{amenity.intro[locale]}</p>
+        {factsLine ? <p className="mt-3 text-base leading-relaxed text-muted">{factsLine}</p> : null}
       </header>
 
       <div className="mt-8 aspect-[16/8] overflow-hidden rounded-[var(--radius-xl2)] sm:aspect-[16/6]">

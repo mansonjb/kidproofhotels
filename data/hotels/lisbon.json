@@ -199,7 +199,7 @@
           "icon": "🛏️",
           "label": {
             "en": "Sleeps",
-            "fr": "Capacite",
+            "fr": "Capacité",
             "it": "Capienza",
             "de": "Belegung",
             "es": "Capacidad",
@@ -275,7 +275,7 @@
           "icon": "🚇",
           "label": {
             "en": "Metro",
-            "fr": "Metro",
+            "fr": "Métro",
             "it": "Metro",
             "de": "Metro",
             "es": "Metro",
@@ -294,7 +294,7 @@
           "icon": "🍼",
           "label": {
             "en": "Baby gear",
-            "fr": "Materiel bebe",
+            "fr": "Matériel bébé",
             "it": "Attrezzatura bebè",
             "de": "Babyausstattung",
             "es": "Equipo para bebés",
@@ -443,7 +443,7 @@
           "time": "8:00",
           "title": {
             "en": "Breakfast in the apartment",
-            "fr": "Petit-dejeuner dans l'appartement",
+            "fr": "Petit-déjeuner dans l'appartement",
             "it": "Colazione in appartamento",
             "de": "Frühstück im Apartment",
             "es": "Desayuno en el apartamento",
@@ -462,7 +462,7 @@
           "time": "9:30",
           "title": {
             "en": "Drop-off at the kids club",
-            "fr": "Depose au club enfants",
+            "fr": "Dépose au club enfants",
             "it": "Accompagnamento al miniclub",
             "de": "Abgabe im Kinderclub",
             "es": "Dejar a los niños en el club infantil",
@@ -500,7 +500,7 @@
           "time": "13:00",
           "title": {
             "en": "Family lunch out",
-            "fr": "Dejeuner en famille",
+            "fr": "Déjeuner en famille",
             "it": "Pranzo in famiglia fuori",
             "de": "Familienmittagessen auswärts",
             "es": "Comida en familia fuera",
@@ -609,7 +609,7 @@
         {
           "q": {
             "en": "Can we cook our own meals?",
-            "fr": "Peut-on cuisiner soi-meme ?",
+            "fr": "Peut-on cuisiner soi-même ?",
             "it": "Possiamo cucinare da soli?",
             "de": "Können wir selbst kochen?",
             "es": "¿Podemos cocinar nosotros mismos?",
@@ -821,7 +821,7 @@
           "icon": "🛏️",
           "label": {
             "en": "Sleeps",
-            "fr": "Capacite",
+            "fr": "Capacité",
             "it": "Capienza",
             "de": "Belegung",
             "es": "Capacidad",
@@ -1435,7 +1435,7 @@
           "icon": "🛏️",
           "label": {
             "en": "Sleeps",
-            "fr": "Capacite",
+            "fr": "Capacité",
             "it": "Capienza",
             "de": "Belegung",
             "es": "Capacidad",
@@ -1492,7 +1492,7 @@
           "icon": "🚇",
           "label": {
             "en": "Metro",
-            "fr": "Metro",
+            "fr": "Métro",
             "it": "Metro",
             "de": "Metro",
             "es": "Metro",
@@ -1681,7 +1681,7 @@
           "time": "8:30",
           "title": {
             "en": "Buffet breakfast",
-            "fr": "Petit-dejeuner buffet",
+            "fr": "Petit-déjeuner buffet",
             "it": "Colazione a buffet",
             "de": "Frühstücksbuffet",
             "es": "Desayuno bufé",
@@ -1738,7 +1738,7 @@
           "time": "15:30",
           "title": {
             "en": "Pool afternoon",
-            "fr": "Apres-midi piscine",
+            "fr": "Après-midi piscine",
             "it": "Pomeriggio in piscina",
             "de": "Poolnachmittag",
             "es": "Tarde de piscina",
@@ -2051,7 +2051,7 @@
           "icon": "🛏️",
           "label": {
             "en": "Sleeps",
-            "fr": "Capacite",
+            "fr": "Capacité",
             "it": "Capienza",
             "de": "Belegung",
             "es": "Capacidad",
@@ -2666,7 +2666,7 @@
           "icon": "🛏️",
           "label": {
             "en": "Sleeps",
-            "fr": "Capacite",
+            "fr": "Capacité",
             "it": "Capienza",
             "de": "Belegung",
             "es": "Capacidad",
@@ -2804,7 +2804,7 @@
           ],
           "time": {
             "en": "Half day",
-            "fr": "Demi-journee",
+            "fr": "Demi-journée",
             "it": "Mezza giornata",
             "de": "Halber Tag",
             "es": "Medio día",
@@ -2913,7 +2913,7 @@
           "time": "8:00",
           "title": {
             "en": "Big buffet breakfast",
-            "fr": "Grand petit-dejeuner buffet",
+            "fr": "Grand petit-déjeuner buffet",
             "it": "Ricca colazione a buffet",
             "de": "Großes Frühstücksbuffet",
             "es": "Gran desayuno bufé",
@@ -3291,7 +3291,7 @@
           "icon": "🛏️",
           "label": {
             "en": "Sleeps",
-            "fr": "Capacite",
+            "fr": "Capacité",
             "it": "Capienza",
             "de": "Belegung",
             "es": "Capacidad",
@@ -3535,7 +3535,7 @@
           "time": "8:00",
           "title": {
             "en": "Breakfast in the apartment",
-            "fr": "Petit-dejeuner dans l'appartement",
+            "fr": "Petit-déjeuner dans l'appartement",
             "it": "Colazione in appartamento",
             "de": "Frühstück im Apartment",
             "es": "Desayuno en el apartamento",
@@ -3906,7 +3906,7 @@
           "icon": "🛏️",
           "label": {
             "en": "Sleeps",
-            "fr": "Capacite",
+            "fr": "Capacité",
             "it": "Capienza",
             "de": "Belegung",
             "es": "Capacidad",
@@ -4529,7 +4529,7 @@
           "icon": "🛏️",
           "label": {
             "en": "Sleeps",
-            "fr": "Capacite",
+            "fr": "Capacité",
             "it": "Capienza",
             "de": "Belegung",
             "es": "Capacidad",
@@ -4605,7 +4605,7 @@
           "icon": "✈️",
           "label": {
             "en": "Airport",
-            "fr": "Aeroport",
+            "fr": "Aéroport",
             "it": "Aeroporto",
             "de": "Flughafen",
             "es": "Aeropuerto",

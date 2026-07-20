@@ -76,6 +76,19 @@ export function ComboPage({
   const amenityEntry = getByKey(`amenity-${amenity.id}`);
   const destEntry = getByKey(dest.key);
 
+  // Unique, fact-driven standfirst built from real data on this page: the number
+  // of hotels that actually matched, the top-scoring hotel's name, and (when we
+  // have it) the area families favour. No two combo pages read the same.
+  const topHotel = hotels[0]?.name;
+  const introFacts = fill(dict.browse.comboIntroFacts, {
+    count: String(hotels.length),
+    amenity: amenity.label[locale],
+    dest: dest.inPhrase[locale],
+    top: topHotel ?? "",
+  });
+  const topArea = dest.bestAreas[locale]?.[0]?.split(":")[0]?.trim();
+  const areasLine = topArea ? fill(dict.browse.comboAreas, { area: topArea }) : "";
+
   // Cross-links: same amenity in other cities, and the rest of this city's matrix.
   const elsewhere = combosForAmenity(amenity.id).filter((c) => c.key !== combo.key);
   const moreHere = combosForDestination(dest.key).filter((c) => c.key !== combo.key);
@@ -99,7 +112,8 @@ export function ComboPage({
         </p>
         <h1 className="font-display text-4xl leading-tight text-ink sm:text-5xl">{h1}</h1>
         <p className="mt-5 text-lg leading-relaxed text-ink-soft">
-          {fill(dict.browse.comboIntro, { dest: dest.inPhrase[locale] })}
+          {introFacts}
+          {areasLine ? ` ${areasLine}` : ""}
         </p>
       </header>
 

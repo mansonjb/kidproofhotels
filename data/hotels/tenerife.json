@@ -50,7 +50,7 @@
       },
       "roomsSummary": {
         "en": "Every room is a suite, most with a separate lounge and a sofa bed, so a family of four never has to share one open space. Junior suites suit couples with a baby, and the larger suites give teens their own corner.",
-        "fr": "Toutes les chambres sont des suites, la plupart avec un salon separe et un canape-lit, donc une famille de quatre ne partage jamais un seul espace ouvert. Les junior suites conviennent aux couples avec un bebe, et les grandes suites offrent aux ados leur propre coin.",
+        "fr": "Toutes les chambres sont des suites, la plupart avec un salon séparé et un canapé-lit, donc une famille de quatre ne partage jamais un seul espace ouvert. Les junior suites conviennent aux couples avec un bébé, et les grandes suites offrent aux ados leur propre coin.",
         "it": "Ogni camera è una suite, quasi tutte con salotto separato e divano letto, così una famiglia di quattro non deve mai condividere un unico ambiente. Le junior suite sono perfette per una coppia con un neonato, mentre le suite più grandi regalano ai ragazzi il loro angolo.",
         "de": "Jedes Zimmer ist eine Suite, die meisten mit separatem Wohnbereich und Schlafsofa, sodass eine vierköpfige Familie nie einen einzigen offenen Raum teilen muss. Junior-Suiten passen zu Paaren mit Baby, die größeren Suiten geben Teenagern ihre eigene Ecke.",
         "es": "Cada habitación es una suite, la mayoría con salón independiente y sofá cama, así que una familia de cuatro nunca comparte un único espacio abierto. Las junior suites van bien para parejas con un bebé, y las suites más grandes dan a los adolescentes su propio rincón.",
@@ -58,7 +58,7 @@
       },
       "intro": {
         "en": "GF Victoria is the resort children beg to go back to. Five pools, three of them heated for little ones, plus a proper splash park and even a surf simulator mean the water alone can fill a week. The all-suite layout is what wins parents over: room to breathe once the kids are asleep.",
-        "fr": "Le GF Victoria est le complexe ou les enfants supplient de retourner. Cinq piscines, dont trois chauffees pour les petits, plus un vrai parc aquatique et meme un simulateur de surf: l'eau seule peut remplir une semaine. C'est l'agencement tout en suites qui convainc les parents: de la place pour respirer une fois les enfants couches.",
+        "fr": "Le GF Victoria est le complexe où les enfants supplient de retourner. Cinq piscines, dont trois chauffées pour les petits, plus un vrai parc aquatique et même un simulateur de surf: l'eau seule peut remplir une semaine. C'est l'agencement tout en suites qui convainc les parents: de la place pour respirer une fois les enfants couchés.",
         "it": "Il GF Victoria è il resort in cui i bambini implorano di tornare. Cinque piscine, tre riscaldate per i più piccoli, più un vero splash park e persino un simulatore di surf: solo l'acqua può riempire una settimana. È la formula tutta suite a conquistare i genitori: spazio per respirare una volta che i bambini dormono.",
         "de": "Das GF Victoria ist das Resort, in das Kinder unbedingt zurück wollen. Fünf Pools, drei davon für die Kleinen beheizt, dazu ein echter Spritzpark und sogar ein Surfsimulator: allein das Wasser füllt eine ganze Woche. Was die Eltern überzeugt, ist das reine Suiten-Konzept: Raum zum Durchatmen, sobald die Kinder schlafen.",
         "es": "El GF Victoria es el resort al que los niños suplican volver. Cinco piscinas, tres climatizadas para los más pequeños, además de un auténtico splash park e incluso un simulador de surf: solo el agua puede llenar una semana. Lo que conquista a los padres es que todo son suites: espacio para respirar cuando los niños ya duermen.",
@@ -74,12 +74,12 @@
           "Free shuttle bus stop outside to Siam Park"
         ],
         "fr": [
-          "Parc aquatique avec toboggans et jets d'eau, surveille par des maitres-nageurs",
-          "Baby Club des 4 mois, plus Mini Club et Teen Club",
-          "Piscine a simulateur de surf, un vrai succes chez les plus grands",
-          "Trois piscines enfants chauffees tout l'hiver",
-          "Chambres tout en suites avec salon separe et canape-lit",
-          "Arret de navette gratuite devant l'hotel vers le Siam Park"
+          "Parc aquatique avec toboggans et jets d'eau, surveillé par des maîtres-nageurs",
+          "Baby Club dès 4 mois, plus Mini Club et Teen Club",
+          "Piscine à simulateur de surf, un vrai succès chez les plus grands",
+          "Trois piscines enfants chauffées tout l'hiver",
+          "Chambres tout en suites avec salon séparé et canapé-lit",
+          "Arrêt de navette gratuite devant l'hôtel vers le Siam Park"
         ],
         "it": [
           "Splash park con scivoli e getti d'acqua, sorvegliato dai bagnini",
@@ -122,8 +122,8 @@
         ],
         "fr": [
           "Vrai espace en suite pour les familles de quatre ou cinq",
-          "Offre aquatique enorme pour tous les ages, du parc au simulateur de surf",
-          "Clubs enfants du bebe jusqu'a l'adolescent"
+          "Offre aquatique énorme pour tous les âges, du parc au simulateur de surf",
+          "Clubs enfants du bébé jusqu'à l'adolescent"
         ],
         "it": [
           "Vero spazio tutto suite per famiglie di quattro o cinque",
@@ -153,9 +153,9 @@
           "Big and busy in school holidays"
         ],
         "fr": [
-          "L'une des options les plus cheres de la Costa Adeje",
-          "La plage se rejoint a pied ou en bus, pas au pied de l'hotel",
-          "Grand et anime pendant les vacances scolaires"
+          "L'une des options les plus chères de la Costa Adeje",
+          "La plage se rejoint à pied ou en bus, pas au pied de l'hôtel",
+          "Grand et animé pendant les vacances scolaires"
         ],
         "it": [
           "Una delle opzioni più care di Costa Adeje",
@@ -180,7 +180,7 @@
       },
       "verdict": {
         "en": "If your children measure a holiday in slides and pool time, and you want real space at the end of the day, GF Victoria is close to unbeatable in the south.",
-        "fr": "Si vos enfants mesurent des vacances en toboggans et en temps de piscine, et que vous voulez un vrai espace le soir venu, le GF Victoria est difficile a battre dans le sud.",
+        "fr": "Si vos enfants mesurent des vacances en toboggans et en temps de piscine, et que vous voulez un vrai espace le soir venu, le GF Victoria est difficile à battre dans le sud.",
         "it": "Se per i vostri figli una vacanza si misura in scivoli e ore in piscina, e voi volete spazio vero a fine giornata, il GF Victoria è quasi imbattibile nel sud.",
         "de": "Wenn Ihre Kinder Urlaub in Rutschen und Poolzeit messen und Sie am Ende des Tages echten Platz wollen, ist das GF Victoria im Süden kaum zu schlagen.",
         "es": "Si vuestros hijos miden las vacaciones en toboganes y horas de piscina, y queréis espacio de verdad al final del día, el GF Victoria es casi imbatible en el sur.",
@@ -188,7 +188,7 @@
       },
       "parentTip": {
         "en": "Ask for a suite on a higher floor away from the entertainment stage if you have a baby who naps early. The clubs book up in August, so reserve club places on arrival.",
-        "fr": "Demandez une suite a un etage eleve, loin de la scene d'animation, si vous avez un bebe qui fait la sieste tot. Les clubs se remplissent en aout, reservez les places des l'arrivee.",
+        "fr": "Demandez une suite à un étage élevé, loin de la scène d'animation, si vous avez un bébé qui fait la sieste tôt. Les clubs se remplissent en août, réservez les places dès l'arrivée.",
         "it": "Chiedete una suite a un piano alto lontano dal palco dell'animazione se avete un neonato che fa la nanna presto. I club si riempiono ad agosto, quindi prenotate i posti appena arrivati.",
         "de": "Bitten Sie um eine Suite in einem höheren Stockwerk fern der Bühne, wenn Ihr Baby früh schläft. Die Clubs sind im August ausgebucht, reservieren Sie die Plätze also gleich bei der Ankunft.",
         "es": "Pedid una suite en una planta alta y lejos del escenario de animación si tenéis un bebé que duerme la siesta pronto. Los clubes se llenan en agosto, así que reservad las plazas al llegar.",
@@ -207,7 +207,7 @@
           },
           "value": {
             "en": "5 pools, 3 heated for kids",
-            "fr": "5 piscines, 3 chauffees pour enfants",
+            "fr": "5 piscines, 3 chauffées pour enfants",
             "it": "5 piscine, 3 riscaldate per i bambini",
             "de": "5 Pools, 3 für Kinder beheizt",
             "es": "5 piscinas, 3 climatizadas para niños",
@@ -237,7 +237,7 @@
           "icon": "👶",
           "label": {
             "en": "Baby club",
-            "fr": "Club bebe",
+            "fr": "Club bébé",
             "it": "Club neonati",
             "de": "Babyclub",
             "es": "Club de bebés",
@@ -245,7 +245,7 @@
           },
           "value": {
             "en": "From 4 months",
-            "fr": "Des 4 mois",
+            "fr": "Dès 4 mois",
             "it": "Dai 4 mesi",
             "de": "Ab 4 Monaten",
             "es": "Desde los 4 meses",
@@ -264,7 +264,7 @@
           },
           "value": {
             "en": "All suites with sofa bed",
-            "fr": "Toutes des suites avec canape-lit",
+            "fr": "Toutes des suites avec canapé-lit",
             "it": "Tutte suite con divano letto",
             "de": "Alle Suiten mit Schlafsofa",
             "es": "Todas suites con sofá cama",
@@ -283,7 +283,7 @@
           },
           "value": {
             "en": "Free shuttle stop outside",
-            "fr": "Arret de navette gratuite devant",
+            "fr": "Arrêt de navette gratuite devant",
             "it": "Fermata navetta gratuita davanti",
             "de": "Kostenlose Shuttle-Haltestelle vor dem Haus",
             "es": "Parada de lanzadera gratuita a la puerta",
@@ -323,7 +323,7 @@
           },
           "detail": {
             "en": "Slides, buckets and jets in the shallow zone, lifeguard on watch.",
-            "fr": "Toboggans, seaux et jets dans la zone peu profonde, maitre-nageur present.",
+            "fr": "Toboggans, seaux et jets dans la zone peu profonde, maître-nageur présent.",
             "it": "Scivoli, secchi e getti nella zona bassa, bagnino di guardia.",
             "de": "Rutschen, Kübel und Fontänen im flachen Bereich, Rettungsschwimmer im Blick.",
             "es": "Toboganes, cubos y chorros en la zona poco profunda, con socorrista atento.",
@@ -366,7 +366,7 @@
           ],
           "time": {
             "en": "Afternoon",
-            "fr": "Apres-midi",
+            "fr": "Après-midi",
             "it": "Pomeriggio",
             "de": "Nachmittag",
             "es": "Tarde",
@@ -385,7 +385,7 @@
           },
           "detail": {
             "en": "Supervised games and crafts for ages 4 to 12 while parents relax.",
-            "fr": "Jeux et bricolages encadres de 4 a 12 ans pendant que les parents se detendent.",
+            "fr": "Jeux et bricolages encadrés de 4 à 12 ans pendant que les parents se détendent.",
             "it": "Giochi e attività manuali con animatori dai 4 ai 12 anni mentre i genitori si rilassano.",
             "de": "Betreute Spiele und Basteln für 4- bis 12-Jährige, während die Eltern entspannen.",
             "es": "Juegos y manualidades supervisados de 4 a 12 años mientras los padres descansan.",
@@ -415,7 +415,7 @@
           },
           "detail": {
             "en": "Virtual reality games that teens gravitate to on a rainy hour.",
-            "fr": "Jeux en realite virtuelle vers lesquels les ados se tournent quand le temps se couvre.",
+            "fr": "Jeux en réalité virtuelle vers lesquels les ados se tournent quand le temps se couvre.",
             "it": "Giochi in realtà virtuale verso cui i ragazzi si dirigono in un'ora di pioggia.",
             "de": "Virtual-Reality-Spiele, zu denen es Teenager in einer verregneten Stunde zieht.",
             "es": "Juegos de realidad virtual a los que los adolescentes acuden en una hora de lluvia.",
@@ -439,7 +439,7 @@
           "time": "8:00",
           "title": {
             "en": "Breakfast on the suite terrace",
-            "fr": "Petit-dejeuner sur la terrasse de la suite",
+            "fr": "Petit-déjeuner sur la terrasse de la suite",
             "it": "Colazione sulla terrazza della suite",
             "de": "Frühstück auf der Suiten-Terrasse",
             "es": "Desayuno en la terraza de la suite",
@@ -477,7 +477,7 @@
           "time": "13:00",
           "title": {
             "en": "Lunch and quiet time",
-            "fr": "Dejeuner et temps calme",
+            "fr": "Déjeuner et temps calme",
             "it": "Pranzo e momento tranquillo",
             "de": "Mittagessen und Ruhepause",
             "es": "Almuerzo y rato de calma",
@@ -485,7 +485,7 @@
           },
           "note": {
             "en": "Back to the suite so the baby can nap properly.",
-            "fr": "Retour a la suite pour que le bebe fasse une vraie sieste.",
+            "fr": "Retour à la suite pour que le bébé fasse une vraie sieste.",
             "it": "Rientro in suite perché il neonato faccia una vera nanna.",
             "de": "Zurück in die Suite, damit das Baby richtig schlafen kann.",
             "es": "De vuelta a la suite para que el bebé duerma bien la siesta.",
@@ -504,7 +504,7 @@
           },
           "note": {
             "en": "Kids split by age, parents get a coffee in peace.",
-            "fr": "Les enfants repartis par age, les parents prennent un cafe tranquille.",
+            "fr": "Les enfants répartis par âge, les parents prennent un café tranquille.",
             "it": "Bambini divisi per età, i genitori si prendono un caffè in pace.",
             "de": "Kinder nach Alter aufgeteilt, die Eltern trinken in Ruhe einen Kaffee.",
             "es": "Niños divididos por edades, los padres se toman un café tranquilos.",
@@ -523,7 +523,7 @@
           },
           "note": {
             "en": "Evening entertainment on the main stage.",
-            "fr": "Animation du soir sur la scene principale.",
+            "fr": "Animation du soir sur la scène principale.",
             "it": "Animazione serale sul palco principale.",
             "de": "Abendunterhaltung auf der Hauptbühne.",
             "es": "Animación nocturna en el escenario principal.",
@@ -534,7 +534,7 @@
       "ageNotes": {
         "baby": {
           "en": "Baby Club from 4 months and heated kids pools make this genuinely baby-ready. Cots on request.",
-          "fr": "Le Baby Club des 4 mois et les piscines enfants chauffees le rendent vraiment adapte aux bebes. Lits parapluie sur demande.",
+          "fr": "Le Baby Club dès 4 mois et les piscines enfants chauffées le rendent vraiment adapté aux bébés. Lits parapluie sur demande.",
           "it": "Il Baby Club dai 4 mesi e le piscine per bambini riscaldate lo rendono davvero adatto ai neonati. Culle su richiesta.",
           "de": "Der Baby Club ab 4 Monaten und beheizte Kinderpools machen es wirklich babytauglich. Reisebetten auf Anfrage.",
           "es": "El Baby Club desde los 4 meses y las piscinas infantiles climatizadas lo hacen realmente apto para bebés. Cunas bajo petición.",
@@ -542,7 +542,7 @@
         },
         "toddler": {
           "en": "Shallow splash zones and short slides are ideal for toddlers, with lifeguards close.",
-          "fr": "Zones peu profondes et petits toboggans ideaux pour les tout-petits, avec des maitres-nageurs a proximite.",
+          "fr": "Zones peu profondes et petits toboggans idéaux pour les tout-petits, avec des maîtres-nageurs à proximité.",
           "it": "Zone basse e scivoli corti sono ideali per i più piccoli, con i bagnini vicini.",
           "de": "Flache Spritzzonen und kurze Rutschen sind ideal für Kleinkinder, mit Rettungsschwimmern in der Nähe.",
           "es": "Las zonas poco profundas y los toboganes cortos son ideales para los peques, con socorristas cerca.",
@@ -550,7 +550,7 @@
         },
         "kid": {
           "en": "Prime age here: slides, Mini Club and the surf pool fill every day.",
-          "fr": "L'age ideal ici: toboggans, Mini Club et simulateur de surf remplissent chaque journee.",
+          "fr": "L'âge idéal ici: toboggans, Mini Club et simulateur de surf remplissent chaque journée.",
           "it": "L'età perfetta qui: scivoli, Mini Club e piscina da surf riempiono ogni giornata.",
           "de": "Das ideale Alter hier: Rutschen, Mini Club und Surfpool füllen jeden Tag.",
           "es": "La edad ideal aquí: toboganes, Mini Club y piscina de surf llenan cada día.",
@@ -558,7 +558,7 @@
         },
         "teen": {
           "en": "Surf simulator, VR zone and a dedicated Teen Club give older ones their own space.",
-          "fr": "Simulateur de surf, espace VR et Teen Club dedie donnent aux plus grands leur propre espace.",
+          "fr": "Simulateur de surf, espace VR et Teen Club dédié donnent aux plus grands leur propre espace.",
           "it": "Simulatore di surf, zona VR e un Teen Club dedicato danno ai più grandi il loro spazio.",
           "de": "Surfsimulator, VR-Bereich und ein eigener Teen Club geben den Älteren ihren eigenen Raum.",
           "es": "Simulador de surf, zona VR y un Teen Club propio dan a los mayores su espacio.",
@@ -577,7 +577,7 @@
           },
           "a": {
             "en": "Yes, the Baby, Mini and Teen Clubs are included. Babysitting is a paid extra.",
-            "fr": "Oui, les clubs Baby, Mini et Teen sont inclus. Le babysitting est un supplement payant.",
+            "fr": "Oui, les clubs Baby, Mini et Teen sont inclus. Le babysitting est un supplément payant.",
             "it": "Sì, i club Baby, Mini e Teen sono inclusi. Il babysitting è un extra a pagamento.",
             "de": "Ja, Baby-, Mini- und Teen-Club sind inklusive. Babysitting ist ein kostenpflichtiger Zusatz.",
             "es": "Sí, los clubes Baby, Mini y Teen están incluidos. La niñera es un extra de pago.",
@@ -595,7 +595,7 @@
           },
           "a": {
             "en": "A free shuttle bus stops right outside and runs to Siam Park and other parks.",
-            "fr": "Une navette gratuite s'arrete juste devant et dessert le Siam Park et d'autres parcs.",
+            "fr": "Une navette gratuite s'arrête juste devant et dessert le Siam Park et d'autres parcs.",
             "it": "Una navetta gratuita ferma proprio davanti e porta al Siam Park e ad altri parchi.",
             "de": "Ein kostenloser Shuttlebus hält direkt vor dem Haus und fährt zum Siam Park und anderen Parks.",
             "es": "Un autobús lanzadera gratuito para justo a la puerta y va al Siam Park y a otros parques.",
@@ -613,7 +613,7 @@
           },
           "a": {
             "en": "The three kids pools are heated through the winter, which matters for little ones.",
-            "fr": "Les trois piscines enfants sont chauffees tout l'hiver, ce qui compte pour les petits.",
+            "fr": "Les trois piscines enfants sont chauffées tout l'hiver, ce qui compte pour les petits.",
             "it": "Le tre piscine per bambini sono riscaldate per tutto l'inverno, cosa che conta per i più piccoli.",
             "de": "Die drei Kinderpools sind den ganzen Winter beheizt, was für die Kleinen wichtig ist.",
             "es": "Las tres piscinas infantiles están climatizadas todo el invierno, algo que importa con los peques.",
@@ -672,7 +672,7 @@
       },
       "roomsSummary": {
         "en": "Comfortable, classic rooms with balconies, and family rooms that sleep four without feeling cramped. Ask for a garden or pool view rather than the road side.",
-        "fr": "Chambres confortables et classiques avec balcon, et chambres familiales pour quatre sans se sentir a l'etroit. Demandez une vue jardin ou piscine plutot que le cote rue.",
+        "fr": "Chambres confortables et classiques avec balcon, et chambres familiales pour quatre sans se sentir à l'étroit. Demandez une vue jardin ou piscine plutôt que le côté rue.",
         "it": "Camere comode e classiche con balcone, e camere familiari per quattro senza sentirsi stretti. Chiedete la vista giardino o piscina invece del lato strada.",
         "de": "Bequeme, klassische Zimmer mit Balkon und Familienzimmer für vier, ohne dass es eng wird. Bitten Sie um Garten- oder Poolblick statt Straßenseite.",
         "es": "Habitaciones cómodas y clásicas con balcón, y habitaciones familiares para cuatro sin agobios. Pedid vistas al jardín o a la piscina en lugar del lado de la carretera.",
@@ -680,7 +680,7 @@
       },
       "intro": {
         "en": "Anthelia sits right on Playa Fanabe, one of the calmer swimming beaches in the south, which is the whole point for families. Behind the sand there is a big, gardened resort with children's pools, slides and a pirate ship, plus the Star Camp club that runs by age group.",
-        "fr": "L'Anthelia donne directement sur la Playa Fanabe, l'une des plages de baignade les plus calmes du sud, ce qui change tout pour les familles. Derriere le sable, un grand complexe arbore avec piscines enfants, toboggans et bateau pirate, plus le club Star Camp organise par tranches d'age.",
+        "fr": "L'Anthelia donne directement sur la Playa Fanabe, l'une des plages de baignade les plus calmes du sud, ce qui change tout pour les familles. Derrière le sable, un grand complexe arboré avec piscines enfants, toboggans et bateau pirate, plus le club Star Camp organisé par tranches d'âge.",
         "it": "L'Anthelia si affaccia direttamente su Playa Fanabe, una delle spiagge da bagno più tranquille del sud, ed è proprio questo il punto per le famiglie. Dietro la sabbia c'è un grande resort immerso nel verde con piscine per bambini, scivoli e una nave pirata, oltre al club Star Camp organizzato per fasce d'età.",
         "de": "Das Anthelia liegt direkt an der Playa Fanabe, einem der ruhigeren Badestrände im Süden, und genau darum geht es für Familien. Hinter dem Sand liegt ein großes, begrüntes Resort mit Kinderpools, Rutschen und einem Piratenschiff, dazu der Star-Camp-Club nach Altersgruppen.",
         "es": "El Anthelia está justo en Playa Fanabe, una de las playas de baño más tranquilas del sur, y eso es lo que importa a las familias. Tras la arena hay un gran resort ajardinado con piscinas infantiles, toboganes y un barco pirata, además del club Star Camp organizado por edades.",
@@ -698,10 +698,10 @@
         "fr": [
           "Directement sur la Playa Fanabe, une plage de sable calme",
           "Piscines enfants avec toboggans et bateau pirate",
-          "Club enfants Star Camp organise par age",
-          "Restauration buffet et a la carte tres appreciee",
-          "Sable dore plutot que le sable volcanique noir",
-          "Spa et piscines adultes pour la detente des parents"
+          "Club enfants Star Camp organisé par âge",
+          "Restauration buffet et à la carte très appréciée",
+          "Sable doré plutôt que le sable volcanique noir",
+          "Spa et piscines adultes pour la détente des parents"
         ],
         "it": [
           "Direttamente su Playa Fanabe, una tranquilla spiaggia di sabbia",
@@ -745,7 +745,7 @@
         "fr": [
           "Vraiment sur la plage, et une plage de baignade calme",
           "Restauration solide, au-dessus de l'offre habituelle des complexes",
-          "Beaux jardins matures qui gardent une atmosphere paisible"
+          "Beaux jardins matures qui gardent une atmosphère paisible"
         ],
         "it": [
           "Davvero sulla spiaggia, e per giunta tranquilla per il bagno",
@@ -775,9 +775,9 @@
           "Popular, so sunbeds go early by the main pools"
         ],
         "fr": [
-          "Chambres confortables mais d'un style classique plutot que recent",
+          "Chambres confortables mais d'un style classique plutôt que récent",
           "Tarifs premium en haute saison",
-          "Populaire, les transats partent tot autour des piscines principales"
+          "Populaire, les transats partent tôt autour des piscines principales"
         ],
         "it": [
           "Le camere sono comode ma dallo stile classico più che nuovo",
@@ -802,7 +802,7 @@
       },
       "verdict": {
         "en": "The pick when being on a calm, sandy beach matters most, with reliable food and a proper kids club behind you.",
-        "fr": "Le choix quand etre sur une plage de sable calme compte avant tout, avec une cuisine fiable et un vrai club enfants derriere vous.",
+        "fr": "Le choix quand être sur une plage de sable calme compte avant tout, avec une cuisine fiable et un vrai club enfants derrière vous.",
         "it": "La scelta giusta quando stare su una spiaggia sabbiosa e tranquilla conta più di tutto, con cucina affidabile e un vero kids club alle spalle.",
         "de": "Die Wahl, wenn ein ruhiger Sandstrand am wichtigsten ist, mit verlässlichem Essen und einem echten Kinderclub im Rücken.",
         "es": "La elección cuando estar en una playa de arena tranquila es lo que más importa, con comida fiable y un buen club infantil detrás.",
@@ -829,7 +829,7 @@
           },
           "value": {
             "en": "On Playa Fanabe, golden sand",
-            "fr": "Sur la Playa Fanabe, sable dore",
+            "fr": "Sur la Playa Fanabe, sable doré",
             "it": "Su Playa Fanabe, sabbia dorata",
             "de": "An der Playa Fanabe, goldener Sand",
             "es": "En Playa Fanabe, arena dorada",
@@ -867,7 +867,7 @@
           },
           "value": {
             "en": "Star Camp by age group",
-            "fr": "Star Camp par tranche d'age",
+            "fr": "Star Camp par tranche d'âge",
             "it": "Star Camp per fasce d'età",
             "de": "Star Camp nach Altersgruppen",
             "es": "Star Camp por grupos de edad",
@@ -886,7 +886,7 @@
           },
           "value": {
             "en": "Buffet plus a la carte",
-            "fr": "Buffet plus a la carte",
+            "fr": "Buffet plus à la carte",
             "it": "Buffet più à la carte",
             "de": "Buffet plus à la carte",
             "es": "Bufé más a la carta",
@@ -926,7 +926,7 @@
           },
           "detail": {
             "en": "A themed splash structure that toddlers and young kids adore.",
-            "fr": "Une structure aquatique a theme adoree des tout-petits et jeunes enfants.",
+            "fr": "Une structure aquatique à thème adorée des tout-petits et jeunes enfants.",
             "it": "Una struttura acquatica a tema che i più piccoli adorano.",
             "de": "Eine themenreiche Wasserstruktur, die Kleinkinder und jüngere Kinder lieben.",
             "es": "Una estructura acuática temática que los peques adoran.",
@@ -949,7 +949,7 @@
           "emoji": "🏖️",
           "name": {
             "en": "Beach morning",
-            "fr": "Matinee plage",
+            "fr": "Matinée plage",
             "it": "Mattina in spiaggia",
             "de": "Strandvormittag",
             "es": "Mañana de playa",
@@ -957,7 +957,7 @@
           },
           "detail": {
             "en": "Calm shallows on Playa Fanabe, safe for a first paddle.",
-            "fr": "Eaux calmes et peu profondes sur la Playa Fanabe, sures pour une premiere baignade.",
+            "fr": "Eaux calmes et peu profondes sur la Playa Fanabe, sûres pour une première baignade.",
             "it": "Acque basse e tranquille su Playa Fanabe, sicure per il primo bagnetto.",
             "de": "Ruhiges flaches Wasser an der Playa Fanabe, sicher für die ersten Planschversuche.",
             "es": "Aguas someras y tranquilas en Playa Fanabe, seguras para el primer chapuzón.",
@@ -989,7 +989,7 @@
           },
           "detail": {
             "en": "Age-grouped activities so younger and older kids get the right pace.",
-            "fr": "Activites par age pour que petits et grands aient le bon rythme.",
+            "fr": "Activités par âge pour que petits et grands aient le bon rythme.",
             "it": "Attività per fasce d'età così piccoli e grandi hanno il ritmo giusto.",
             "de": "Nach Alter gestaffelte Aktivitäten, damit jüngere und ältere Kinder das richtige Tempo haben.",
             "es": "Actividades por edades para que pequeños y mayores lleven el ritmo adecuado.",
@@ -1020,7 +1020,7 @@
           },
           "detail": {
             "en": "Boats leave nearby to see pilot whales and dolphins offshore.",
-            "fr": "Des bateaux partent tout pres pour voir globicephales et dauphins au large.",
+            "fr": "Des bateaux partent tout près pour voir globicéphales et dauphins au large.",
             "it": "Le barche partono vicino per vedere globicefali e delfini al largo.",
             "de": "Ganz in der Nähe fahren Boote hinaus, um Grindwale und Delfine zu sehen.",
             "es": "Los barcos salen cerca para ver calderones y delfines mar adentro.",
@@ -1032,7 +1032,7 @@
           ],
           "time": {
             "en": "Half day",
-            "fr": "Demi-journee",
+            "fr": "Demi-journée",
             "it": "Mezza giornata",
             "de": "Halber Tag",
             "es": "Medio día",
@@ -1045,7 +1045,7 @@
           "time": "8:00",
           "title": {
             "en": "Breakfast buffet",
-            "fr": "Petit-dejeuner buffet",
+            "fr": "Petit-déjeuner buffet",
             "it": "Colazione a buffet",
             "de": "Frühstücksbuffet",
             "es": "Desayuno bufé",
@@ -1083,7 +1083,7 @@
           "time": "13:00",
           "title": {
             "en": "Lunch and shade",
-            "fr": "Dejeuner et ombre",
+            "fr": "Déjeuner et ombre",
             "it": "Pranzo e ombra",
             "de": "Mittagessen und Schatten",
             "es": "Almuerzo y sombra",
@@ -1121,7 +1121,7 @@
           "time": "19:30",
           "title": {
             "en": "Dinner then promenade",
-            "fr": "Diner puis promenade",
+            "fr": "Dîner puis promenade",
             "it": "Cena e poi passeggiata",
             "de": "Abendessen und dann Promenade",
             "es": "Cena y luego paseo",
@@ -1140,7 +1140,7 @@
       "ageNotes": {
         "baby": {
           "en": "Calm beach and gardened grounds suit babies well. Cots and buggy-friendly paths throughout.",
-          "fr": "Plage calme et jardins conviennent bien aux bebes. Lits parapluie et allees adaptees aux poussettes partout.",
+          "fr": "Plage calme et jardins conviennent bien aux bébés. Lits parapluie et allées adaptées aux poussettes partout.",
           "it": "Spiaggia tranquilla e giardini si addicono bene ai neonati. Culle e vialetti adatti ai passeggini ovunque.",
           "de": "Ruhiger Strand und begrünte Anlage passen gut zu Babys. Reisebetten und kinderwagenfreundliche Wege überall.",
           "es": "Playa tranquila y jardines van muy bien con bebés. Cunas y caminos aptos para carritos por todas partes.",
@@ -1148,7 +1148,7 @@
         },
         "toddler": {
           "en": "The pirate ship and shallow shore are toddler heaven, with lifeguards on the beach.",
-          "fr": "Le bateau pirate et le rivage peu profond sont un paradis pour les tout-petits, avec des maitres-nageurs sur la plage.",
+          "fr": "Le bateau pirate et le rivage peu profond sont un paradis pour les tout-petits, avec des maîtres-nageurs sur la plage.",
           "it": "La nave pirata e la riva bassa sono il paradiso dei più piccoli, con i bagnini in spiaggia.",
           "de": "Piratenschiff und flaches Ufer sind das Paradies für Kleinkinder, mit Rettungsschwimmern am Strand.",
           "es": "El barco pirata y la orilla poco profunda son el paraíso de los peques, con socorristas en la playa.",
@@ -1156,7 +1156,7 @@
         },
         "kid": {
           "en": "Slides, Star Camp and easy beach access keep this age busy all day.",
-          "fr": "Toboggans, Star Camp et acces facile a la plage occupent cet age toute la journee.",
+          "fr": "Toboggans, Star Camp et accès facile à la plage occupent cet âge toute la journée.",
           "it": "Scivoli, Star Camp e facile accesso alla spiaggia tengono occupata questa età tutto il giorno.",
           "de": "Rutschen, Star Camp und leichter Strandzugang halten dieses Alter den ganzen Tag auf Trab.",
           "es": "Toboganes, Star Camp y fácil acceso a la playa mantienen ocupada esta edad todo el día.",
@@ -1164,7 +1164,7 @@
         },
         "teen": {
           "en": "Teens can wander the promenade and join watersports, though nightlife is elsewhere.",
-          "fr": "Les ados peuvent flaner sur la promenade et faire des sports nautiques, meme si la vie nocturne est ailleurs.",
+          "fr": "Les ados peuvent flâner sur la promenade et faire des sports nautiques, même si la vie nocturne est ailleurs.",
           "it": "I ragazzi possono girare per la passeggiata e provare gli sport acquatici, anche se la vita notturna è altrove.",
           "de": "Teenager können über die Promenade schlendern und Wassersport treiben, das Nachtleben ist jedoch woanders.",
           "es": "Los adolescentes pueden pasear por el paseo y probar deportes acuáticos, aunque la vida nocturna está en otra parte.",
@@ -1183,7 +1183,7 @@
           },
           "a": {
             "en": "Playa Fanabe is golden imported sand and one of the calmer swimming beaches in the south.",
-            "fr": "La Playa Fanabe est faite de sable dore rapporte et compte parmi les plages de baignade les plus calmes du sud.",
+            "fr": "La Playa Fanabe est faite de sable doré rapporté et compte parmi les plages de baignade les plus calmes du sud.",
             "it": "Playa Fanabe è di sabbia dorata riportata ed è una delle spiagge da bagno più tranquille del sud.",
             "de": "Die Playa Fanabe hat aufgeschütteten goldenen Sand und ist einer der ruhigeren Badestrände im Süden.",
             "es": "Playa Fanabe es de arena dorada de aporte y una de las playas de baño más tranquilas del sur.",
@@ -1201,7 +1201,7 @@
           },
           "a": {
             "en": "It runs on half board and full board plans rather than pure all-inclusive; check the rate you book.",
-            "fr": "Il fonctionne en demi-pension et pension complete plutot qu'en tout compris pur; verifiez le tarif reserve.",
+            "fr": "Il fonctionne en demi-pension et pension complète plutôt qu'en tout compris pur; vérifiez le tarif réservé.",
             "it": "Funziona con mezza pensione e pensione completa più che con l'all-inclusive puro; controllate la tariffa che prenotate.",
             "de": "Es läuft eher über Halb- und Vollpension als über reines All-inclusive; prüfen Sie den gebuchten Tarif.",
             "es": "Funciona con media pensión y pensión completa más que con todo incluido puro; comprobad la tarifa que reserváis.",
@@ -1211,7 +1211,7 @@
         {
           "q": {
             "en": "Can we walk to restaurants?",
-            "fr": "Peut-on rejoindre des restaurants a pied?",
+            "fr": "Peut-on rejoindre des restaurants à pied?",
             "it": "Si può andare a piedi ai ristoranti?",
             "de": "Können wir zu Restaurants laufen?",
             "es": "¿Podemos ir a pie a los restaurantes?",
@@ -1219,7 +1219,7 @@
           },
           "a": {
             "en": "Yes, the seafront promenade has shops and restaurants a few minutes on foot.",
-            "fr": "Oui, la promenade de bord de mer offre boutiques et restaurants a quelques minutes a pied.",
+            "fr": "Oui, la promenade de bord de mer offre boutiques et restaurants à quelques minutes à pied.",
             "it": "Sì, la passeggiata sul mare ha negozi e ristoranti a pochi minuti a piedi.",
             "de": "Ja, an der Strandpromenade gibt es Geschäfte und Restaurants wenige Gehminuten entfernt.",
             "es": "Sí, el paseo marítimo tiene tiendas y restaurantes a pocos minutos a pie.",
@@ -1276,7 +1276,7 @@
       },
       "roomsSummary": {
         "en": "Solid family rooms, some with connecting doors, that comfortably fit two adults and two children. Interiors are neat and functional rather than designer.",
-        "fr": "Chambres familiales solides, certaines communicantes, qui accueillent sans probleme deux adultes et deux enfants. Interieurs nets et fonctionnels plutot que design.",
+        "fr": "Chambres familiales solides, certaines communicantes, qui accueillent sans problème deux adultes et deux enfants. Intérieurs nets et fonctionnels plutôt que design.",
         "it": "Solide camere familiari, alcune comunicanti, che ospitano comodamente due adulti e due bambini. Interni ordinati e funzionali più che di design.",
         "de": "Solide Familienzimmer, einige mit Verbindungstür, in denen zwei Erwachsene und zwei Kinder bequem Platz finden. Die Einrichtung ist gepflegt und funktional, nicht designverliebt.",
         "es": "Habitaciones familiares sólidas, algunas comunicadas, que acogen con comodidad a dos adultos y dos niños. Interiores cuidados y funcionales más que de diseño.",
@@ -1284,7 +1284,7 @@
       },
       "intro": {
         "en": "One of the few all-inclusive options in Costa Adeje with proper water slides, the H10 Costa Adeje Palace pairs a busy pool complex with a spot right above La Enramada beach. A kids club and children's menus make the all-in board genuinely family-friendly.",
-        "fr": "L'une des rares formules tout compris de la Costa Adeje avec de vrais toboggans, le H10 Costa Adeje Palace associe un complexe de piscines anime a un emplacement juste au-dessus de la plage de La Enramada. Un club enfants et des menus enfants rendent la pension complete vraiment adaptee aux familles.",
+        "fr": "L'une des rares formules tout compris de la Costa Adeje avec de vrais toboggans, le H10 Costa Adeje Palace associe un complexe de piscines animé à un emplacement juste au-dessus de la plage de La Enramada. Un club enfants et des menus enfants rendent la pension complète vraiment adaptée aux familles.",
         "it": "Una delle poche opzioni all-inclusive di Costa Adeje con veri scivoli d'acqua, l'H10 Costa Adeje Palace unisce un vivace complesso di piscine a una posizione proprio sopra la spiaggia di La Enramada. Un kids club e i menù per bambini rendono la formula tutto compreso davvero adatta alle famiglie.",
         "de": "Als eine der wenigen All-inclusive-Optionen in Costa Adeje mit echten Wasserrutschen verbindet das H10 Costa Adeje Palace einen belebten Poolkomplex mit einer Lage direkt über dem Strand von La Enramada. Kinderclub und Kindermenüs machen die All-inclusive-Verpflegung wirklich familienfreundlich.",
         "es": "Una de las pocas opciones de todo incluido en Costa Adeje con auténticos toboganes de agua, el H10 Costa Adeje Palace combina un animado complejo de piscinas con una ubicación justo encima de la playa de La Enramada. Un club infantil y menús para niños hacen que el régimen sea de verdad familiar.",
@@ -1302,10 +1302,10 @@
         "fr": [
           "Formule tout compris avec de vrais toboggans",
           "Club enfants et menus buffet pour enfants",
-          "Perche au-dessus de la plage de La Enramada",
+          "Perché au-dessus de la plage de La Enramada",
           "Plusieurs piscines dont une piscine enfants",
-          "Bon rapport qualite-prix pour un tout compris a Costa Adeje",
-          "Animations familiales en soiree"
+          "Bon rapport qualité-prix pour un tout compris à Costa Adeje",
+          "Animations familiales en soirée"
         ],
         "it": [
           "Formula all-inclusive con veri scivoli d'acqua",
@@ -1348,8 +1348,8 @@
         ],
         "fr": [
           "Tout compris avec toboggans, rare dans ce complexe",
-          "Bon rapport qualite-prix face aux voisins cinq etoiles",
-          "Plage et boutiques a portee de main"
+          "Bon rapport qualité-prix face aux voisins cinq étoiles",
+          "Plage et boutiques à portée de main"
         ],
         "it": [
           "All-inclusive con scivoli, raro in questa località",
@@ -1379,9 +1379,9 @@
           "Busy pool areas in peak season"
         ],
         "fr": [
-          "La plage de La Enramada en contrebas est de sable volcanique noir, pas dore",
+          "La plage de La Enramada en contrebas est de sable volcanique noir, pas doré",
           "Chambres confortables mais parfois vieillissantes",
-          "Zones de piscine tres frequentees en haute saison"
+          "Zones de piscine très fréquentées en haute saison"
         ],
         "it": [
           "La Enramada in basso è di sabbia vulcanica nera, non dorata",
@@ -1406,7 +1406,7 @@
       },
       "verdict": {
         "en": "The sensible all-inclusive pick for families who want slides and full board without five-star prices.",
-        "fr": "Le choix tout compris raisonnable pour les familles qui veulent des toboggans et la pension complete sans les prix cinq etoiles.",
+        "fr": "Le choix tout compris raisonnable pour les familles qui veulent des toboggans et la pension complète sans les prix cinq étoiles.",
         "it": "La scelta all-inclusive sensata per le famiglie che vogliono scivoli e pensione completa senza i prezzi da cinque stelle.",
         "de": "Die vernünftige All-inclusive-Wahl für Familien, die Rutschen und Vollpension ohne Fünf-Sterne-Preise wollen.",
         "es": "La opción de todo incluido sensata para familias que quieren toboganes y pensión completa sin precios de cinco estrellas.",
@@ -1414,7 +1414,7 @@
       },
       "parentTip": {
         "en": "The nearest sandy swimming beach is a short walk or drive, since La Enramada below is black sand and can get windy; pack water shoes.",
-        "fr": "La plage de sable la plus proche pour se baigner est a quelques minutes a pied ou en voiture, car La Enramada en bas est de sable noir et peut etre ventee; prevoyez des chaussures d'eau.",
+        "fr": "La plage de sable la plus proche pour se baigner est à quelques minutes à pied ou en voiture, car La Enramada en bas est de sable noir et peut être ventée; prévoyez des chaussures d'eau.",
         "it": "La spiaggia sabbiosa da bagno più vicina è a breve distanza a piedi o in auto, perché La Enramada in basso è di sabbia nera e può essere ventosa; portate scarpette da scoglio.",
         "de": "Der nächste Sandbadestrand ist zu Fuß oder mit dem Auto schnell erreichbar, denn La Enramada unten hat schwarzen Sand und kann windig sein; packen Sie Badeschuhe ein.",
         "es": "La playa de arena para bañarse más cercana está a un corto paseo o trayecto en coche, ya que La Enramada, abajo, es de arena negra y puede haber viento; llevad escarpines.",
@@ -1501,7 +1501,7 @@
           "icon": "💶",
           "label": {
             "en": "Value",
-            "fr": "Rapport qualite-prix",
+            "fr": "Rapport qualité-prix",
             "it": "Rapporto qualità-prezzo",
             "de": "Preis-Leistung",
             "es": "Relación calidad-precio",
@@ -1530,7 +1530,7 @@
           },
           "detail": {
             "en": "The water slides are the main draw for kids all day.",
-            "fr": "Les toboggans sont l'attraction principale des enfants toute la journee.",
+            "fr": "Les toboggans sont l'attraction principale des enfants toute la journée.",
             "it": "Gli scivoli d'acqua sono l'attrazione principale per i bambini tutto il giorno.",
             "de": "Die Wasserrutschen sind den ganzen Tag der Hauptmagnet für Kinder.",
             "es": "Los toboganes de agua son el principal atractivo para los niños todo el día.",
@@ -1542,7 +1542,7 @@
           ],
           "time": {
             "en": "All day",
-            "fr": "Toute la journee",
+            "fr": "Toute la journée",
             "it": "Tutto il giorno",
             "de": "Ganztägig",
             "es": "Todo el día",
@@ -1561,7 +1561,7 @@
           },
           "detail": {
             "en": "Classic early evening kids entertainment before dinner.",
-            "fr": "Animation enfants classique en debut de soiree avant le diner.",
+            "fr": "Animation enfants classique en début de soirée avant le dîner.",
             "it": "Classica animazione per bambini di prima serata prima di cena.",
             "de": "Klassische Kinderunterhaltung am frühen Abend vor dem Essen.",
             "es": "Clásica animación infantil de primera hora de la tarde antes de cenar.",
@@ -1584,7 +1584,7 @@
           "emoji": "🐠",
           "name": {
             "en": "Siam Park day",
-            "fr": "Journee au Siam Park",
+            "fr": "Journée au Siam Park",
             "it": "Giornata al Siam Park",
             "de": "Tag im Siam Park",
             "es": "Día en el Siam Park",
@@ -1592,7 +1592,7 @@
           },
           "detail": {
             "en": "Europe's top water park is a short taxi or bus ride away.",
-            "fr": "Le meilleur parc aquatique d'Europe est a un court trajet en taxi ou en bus.",
+            "fr": "Le meilleur parc aquatique d'Europe est à un court trajet en taxi ou en bus.",
             "it": "Il miglior parco acquatico d'Europa è a breve distanza in taxi o autobus.",
             "de": "Europas bester Wasserpark ist eine kurze Taxi- oder Busfahrt entfernt.",
             "es": "El mejor parque acuático de Europa está a un corto trayecto en taxi o autobús.",
@@ -1604,7 +1604,7 @@
           ],
           "time": {
             "en": "Full day",
-            "fr": "Journee entiere",
+            "fr": "Journée entière",
             "it": "Giornata intera",
             "de": "Ganzer Tag",
             "es": "Día completo",
@@ -1615,7 +1615,7 @@
           "emoji": "🚶",
           "name": {
             "en": "La Caleta walk",
-            "fr": "Balade a La Caleta",
+            "fr": "Balade à La Caleta",
             "it": "Passeggiata a La Caleta",
             "de": "Spaziergang nach La Caleta",
             "es": "Paseo a La Caleta",
@@ -1623,7 +1623,7 @@
           },
           "detail": {
             "en": "Stroll to the fishing village of La Caleta for a seafood dinner.",
-            "fr": "Balade jusqu'au village de pecheurs de La Caleta pour un diner de fruits de mer.",
+            "fr": "Balade jusqu'au village de pêcheurs de La Caleta pour un dîner de fruits de mer.",
             "it": "Passeggiata fino al villaggio di pescatori di La Caleta per una cena di pesce.",
             "de": "Ein Bummel ins Fischerdorf La Caleta zu einem Fischessen.",
             "es": "Un paseo hasta el pueblo pesquero de La Caleta para cenar marisco.",
@@ -1648,7 +1648,7 @@
           "time": "8:00",
           "title": {
             "en": "All-inclusive breakfast",
-            "fr": "Petit-dejeuner tout compris",
+            "fr": "Petit-déjeuner tout compris",
             "it": "Colazione all-inclusive",
             "de": "All-inclusive-Frühstück",
             "es": "Desayuno todo incluido",
@@ -1675,7 +1675,7 @@
           },
           "note": {
             "en": "Kids on the slides, parents nearby with a book.",
-            "fr": "Les enfants aux toboggans, les parents a cote avec un livre.",
+            "fr": "Les enfants aux toboggans, les parents à côté avec un livre.",
             "it": "Bambini sugli scivoli, genitori vicini con un libro.",
             "de": "Kinder auf den Rutschen, Eltern daneben mit einem Buch.",
             "es": "Niños en los toboganes, padres cerca con un libro.",
@@ -1686,7 +1686,7 @@
           "time": "13:00",
           "title": {
             "en": "Lunch and rest",
-            "fr": "Dejeuner et repos",
+            "fr": "Déjeuner et repos",
             "it": "Pranzo e riposo",
             "de": "Mittagessen und Ruhe",
             "es": "Almuerzo y descanso",
@@ -1694,7 +1694,7 @@
           },
           "note": {
             "en": "Shady lunch, then a cooler indoor hour.",
-            "fr": "Dejeuner a l'ombre, puis une heure au frais a l'interieur.",
+            "fr": "Déjeuner à l'ombre, puis une heure au frais à l'intérieur.",
             "it": "Pranzo all'ombra, poi un'ora al fresco al chiuso.",
             "de": "Mittagessen im Schatten, dann eine kühlere Stunde drinnen.",
             "es": "Almuerzo a la sombra, luego una hora más fresca en el interior.",
@@ -1724,7 +1724,7 @@
           "time": "19:00",
           "title": {
             "en": "Dinner and show",
-            "fr": "Diner et spectacle",
+            "fr": "Dîner et spectacle",
             "it": "Cena e spettacolo",
             "de": "Abendessen und Show",
             "es": "Cena y espectáculo",
@@ -1732,7 +1732,7 @@
           },
           "note": {
             "en": "Buffet dinner then the evening entertainment.",
-            "fr": "Diner buffet puis animation du soir.",
+            "fr": "Dîner buffet puis animation du soir.",
             "it": "Cena a buffet e poi l'animazione serale.",
             "de": "Buffet-Abendessen und dann die Abendunterhaltung.",
             "es": "Cena bufé y luego la animación nocturna.",
@@ -1743,7 +1743,7 @@
       "ageNotes": {
         "toddler": {
           "en": "A dedicated children's pool works for toddlers, though the beach below is black sand and can be breezy.",
-          "fr": "Une piscine enfants dediee convient aux tout-petits, meme si la plage en bas est de sable noir et parfois ventee.",
+          "fr": "Une piscine enfants dédiée convient aux tout-petits, même si la plage en bas est de sable noir et parfois ventée.",
           "it": "Una piscina dedicata ai bambini va bene per i più piccoli, anche se la spiaggia sotto è di sabbia nera e può essere ventilata.",
           "de": "Ein eigener Kinderpool eignet sich für Kleinkinder, auch wenn der Strand unten schwarzen Sand hat und windig sein kann.",
           "es": "Una piscina infantil propia funciona para los peques, aunque la playa de abajo es de arena negra y puede correr brisa.",
@@ -1751,7 +1751,7 @@
         },
         "kid": {
           "en": "This is the sweet spot: slides, kids club and full board all in one place.",
-          "fr": "C'est l'age ideal: toboggans, club enfants et pension complete au meme endroit.",
+          "fr": "C'est l'âge idéal: toboggans, club enfants et pension complète au même endroit.",
           "it": "È l'età perfetta: scivoli, kids club e pensione completa tutto in un posto.",
           "de": "Das ist der Idealfall: Rutschen, Kinderclub und Vollpension an einem Ort.",
           "es": "Este es el punto justo: toboganes, club infantil y pensión completa en un solo lugar.",
@@ -1759,7 +1759,7 @@
         },
         "teen": {
           "en": "Slides and the walk to La Caleta suit teens, but they may want the buzz of Las Americas nearby.",
-          "fr": "Toboggans et balade a La Caleta conviennent aux ados, mais ils pourraient vouloir l'animation de Las Americas tout pres.",
+          "fr": "Toboggans et balade à La Caleta conviennent aux ados, mais ils pourraient vouloir l'animation de Las Americas tout près.",
           "it": "Scivoli e passeggiata a La Caleta piacciono ai ragazzi, ma potrebbero volere il fermento di Las Americas lì vicino.",
           "de": "Rutschen und der Spaziergang nach La Caleta passen zu Teenagern, aber sie wollen vielleicht den Trubel von Las Americas nebenan.",
           "es": "Los toboganes y el paseo a La Caleta van bien con adolescentes, pero pueden querer el bullicio de Las Americas al lado.",
@@ -1796,7 +1796,7 @@
           },
           "a": {
             "en": "La Enramada just below is natural black volcanic sand and can be windy; water shoes help.",
-            "fr": "La Enramada juste en dessous est de sable volcanique noir naturel et peut etre ventee; des chaussures d'eau aident.",
+            "fr": "La Enramada juste en dessous est de sable volcanique noir naturel et peut être ventée; des chaussures d'eau aident.",
             "it": "La Enramada proprio sotto è di sabbia vulcanica nera naturale e può essere ventosa; le scarpette da scoglio aiutano.",
             "de": "La Enramada direkt unten hat natürlichen schwarzen Vulkansand und kann windig sein; Badeschuhe helfen.",
             "es": "La Enramada, justo debajo, es de arena volcánica negra natural y puede haber viento; los escarpines ayudan.",
@@ -1814,7 +1814,7 @@
           },
           "a": {
             "en": "Yes, a supervised kids club is included, along with children's buffet menus.",
-            "fr": "Oui, un club enfants encadre est inclus, avec des menus buffet pour enfants.",
+            "fr": "Oui, un club enfants encadré est inclus, avec des menus buffet pour enfants.",
             "it": "Sì, un kids club con animatori è incluso, insieme ai menù buffet per bambini.",
             "de": "Ja, ein betreuter Kinderclub ist inklusive, ebenso Kinder-Buffetmenüs.",
             "es": "Sí, se incluye un club infantil supervisado, junto con menús de bufé para niños.",
@@ -1872,7 +1872,7 @@
       },
       "roomsSummary": {
         "en": "The reason to book: 114 designer apartments from one to three bedrooms, each with a full kitchen and sea views, some with a private hot tub or plunge pool. Genuinely the smart choice for families who want space plus a five-star address.",
-        "fr": "La vraie raison de reserver: 114 appartements design d'une a trois chambres, chacun avec cuisine equipee et vue mer, certains avec bain a remous ou petit bassin prive. Vraiment le choix malin pour les familles qui veulent de l'espace et une adresse cinq etoiles.",
+        "fr": "La vraie raison de réserver: 114 appartements design d'une à trois chambres, chacun avec cuisine équipée et vue mer, certains avec bain à remous ou petit bassin privé. Vraiment le choix malin pour les familles qui veulent de l'espace et une adresse cinq étoiles.",
         "it": "Il motivo per prenotare: 114 appartamenti di design da una a tre camere, ciascuno con cucina completa e vista mare, alcuni con vasca idromassaggio o piccola piscina privata. Davvero la scelta intelligente per le famiglie che vogliono spazio e un indirizzo a cinque stelle.",
         "de": "Der Grund zu buchen: 114 Designer-Apartments mit ein bis drei Schlafzimmern, jedes mit voll ausgestatteter Küche und Meerblick, einige mit privatem Whirlpool oder Tauchbecken. Wirklich die kluge Wahl für Familien, die Platz und eine Fünf-Sterne-Adresse wollen.",
         "es": "El motivo para reservar: 114 apartamentos de diseño de uno a tres dormitorios, cada uno con cocina completa y vistas al mar, algunos con jacuzzi o piscina privada. De verdad la opción inteligente para familias que quieren espacio y una dirección de cinco estrellas.",
@@ -1880,7 +1880,7 @@
       },
       "intro": {
         "en": "Corales Suites is the family wing of a bold, design-led resort in the fishing village of La Caleta. You get proper apartments with kitchens, so you can do a quiet breakfast in and eat out at night, plus the Barcy kids club and access to some of Tenerife's best restaurants next door.",
-        "fr": "Corales Suites est l'aile familiale d'un complexe design et audacieux dans le village de pecheurs de La Caleta. Vous avez de vrais appartements avec cuisine, pour un petit-dejeuner tranquille chez soi et un diner dehors le soir, plus le club enfants Barcy et l'acces a certains des meilleurs restaurants de Tenerife juste a cote.",
+        "fr": "Corales Suites est l'aile familiale d'un complexe design et audacieux dans le village de pêcheurs de La Caleta. Vous avez de vrais appartements avec cuisine, pour un petit-déjeuner tranquille chez soi et un dîner dehors le soir, plus le club enfants Barcy et l'accès à certains des meilleurs restaurants de Tenerife juste à côté.",
         "it": "Corales Suites è l'ala famiglie di un resort audace e curato nel design, nel villaggio di pescatori di La Caleta. Avete veri appartamenti con cucina, così potete fare una colazione tranquilla in casa e cenare fuori la sera, più il Barcy kids club e l'accesso ad alcuni dei migliori ristoranti di Tenerife lì accanto.",
         "de": "Corales Suites ist der Familienflügel eines mutigen, designorientierten Resorts im Fischerdorf La Caleta. Sie bekommen richtige Apartments mit Küche, sodass Sie in Ruhe drinnen frühstücken und abends auswärts essen können, dazu den Barcy-Kinderclub und Zugang zu einigen der besten Restaurants Teneriffas nebenan.",
         "es": "Corales Suites es el ala familiar de un resort atrevido y muy cuidado en el diseño, en el pueblo pesquero de La Caleta. Tenéis apartamentos de verdad con cocina, así que podéis desayunar tranquilos dentro y cenar fuera por la noche, además del club infantil Barcy y acceso a algunos de los mejores restaurantes de Tenerife al lado.",
@@ -1896,12 +1896,12 @@
           "Steps from La Caleta village and La Enramada beach"
         ],
         "fr": [
-          "Appartements design d'une a trois chambres avec cuisine equipee",
+          "Appartements design d'une à trois chambres avec cuisine équipée",
           "Vue mer depuis chaque suite",
-          "Barcy Club de 4 a 12 ans, plus un Teens Club",
-          "Piscines d'eau de mer chauffees",
+          "Barcy Club de 4 à 12 ans, plus un Teens Club",
+          "Piscines d'eau de mer chauffées",
           "Restauration de niveau Michelin dans le complexe",
-          "A deux pas du village de La Caleta et de la plage de La Enramada"
+          "À deux pas du village de La Caleta et de la plage de La Enramada"
         ],
         "it": [
           "Appartamenti di design da una a tre camere con cucina completa",
@@ -1943,9 +1943,9 @@
           "Quiet, characterful La Caleta setting"
         ],
         "fr": [
-          "Espace d'appartement et cuisine equipee au niveau cinq etoiles",
+          "Espace d'appartement et cuisine équipée au niveau cinq étoiles",
           "Design et cuisine remarquables pour les parents exigeants",
-          "Cadre calme et plein de caractere a La Caleta"
+          "Cadre calme et plein de caractère à La Caleta"
         ],
         "it": [
           "Spazio da appartamento e cucina completa a livello cinque stelle",
@@ -1975,8 +1975,8 @@
           "Nearest beach is black volcanic sand"
         ],
         "fr": [
-          "L'option la plus chere de cette liste",
-          "Deux des piscines sont reservees aux adultes",
+          "L'option la plus chère de cette liste",
+          "Deux des piscines sont réservées aux adultes",
           "La plage la plus proche est de sable volcanique noir"
         ],
         "it": [
@@ -2002,7 +2002,7 @@
       },
       "verdict": {
         "en": "For families who want apartment space, real design and top food without renting a villa, this is the smart five-star play in the south.",
-        "fr": "Pour les familles qui veulent l'espace d'un appartement, un vrai design et une cuisine haut de gamme sans louer de villa, c'est le choix cinq etoiles malin du sud.",
+        "fr": "Pour les familles qui veulent l'espace d'un appartement, un vrai design et une cuisine haut de gamme sans louer de villa, c'est le choix cinq étoiles malin du sud.",
         "it": "Per le famiglie che vogliono lo spazio di un appartamento, un design vero e cucina di alto livello senza affittare una villa, è la mossa a cinque stelle intelligente del sud.",
         "de": "Für Familien, die Apartment-Platz, echtes Design und Spitzenküche wollen, ohne eine Villa zu mieten, ist das der clevere Fünf-Sterne-Zug im Süden.",
         "es": "Para familias que quieren espacio de apartamento, diseño de verdad y gastronomía de primer nivel sin alquilar una villa, esta es la jugada de cinco estrellas inteligente del sur.",
@@ -2010,7 +2010,7 @@
       },
       "parentTip": {
         "en": "Book a one-bedroom-plus suite with a kitchen and stock up at the La Caleta supermarket; doing breakfast in the apartment saves real money at this level.",
-        "fr": "Reservez une suite d'une chambre avec cuisine et faites le plein au supermarche de La Caleta; prendre le petit-dejeuner dans l'appartement fait vraiment economiser a ce niveau.",
+        "fr": "Réservez une suite d'une chambre avec cuisine et faites le plein au supermarché de La Caleta; prendre le petit-déjeuner dans l'appartement fait vraiment économiser à ce niveau.",
         "it": "Prenotate una suite da una camera con cucina e fate scorta al supermercato di La Caleta; fare colazione in appartamento fa risparmiare davvero a questo livello.",
         "de": "Buchen Sie eine Suite mit mindestens einem Schlafzimmer und Küche und decken Sie sich im Supermarkt von La Caleta ein; drinnen zu frühstücken spart auf diesem Niveau echtes Geld.",
         "es": "Reservad una suite de un dormitorio o más con cocina y abasteceos en el supermercado de La Caleta; desayunar en el apartamento ahorra dinero de verdad a este nivel.",
@@ -2029,7 +2029,7 @@
           },
           "value": {
             "en": "Apartments, 1 to 3 bedrooms",
-            "fr": "Appartements, 1 a 3 chambres",
+            "fr": "Appartements, 1 à 3 chambres",
             "it": "Appartamenti, da 1 a 3 camere",
             "de": "Apartments, 1 bis 3 Schlafzimmer",
             "es": "Apartamentos, de 1 a 3 dormitorios",
@@ -2048,7 +2048,7 @@
           },
           "value": {
             "en": "Full kitchen in every suite",
-            "fr": "Cuisine equipee dans chaque suite",
+            "fr": "Cuisine équipée dans chaque suite",
             "it": "Cucina completa in ogni suite",
             "de": "Voll ausgestattete Küche in jeder Suite",
             "es": "Cocina completa en cada suite",
@@ -2067,7 +2067,7 @@
           },
           "value": {
             "en": "Barcy Club, ages 4 to 12",
-            "fr": "Barcy Club, 4 a 12 ans",
+            "fr": "Barcy Club, 4 à 12 ans",
             "it": "Barcy Club, dai 4 ai 12 anni",
             "de": "Barcy Club, 4 bis 12 Jahre",
             "es": "Barcy Club, de 4 a 12 años",
@@ -2105,7 +2105,7 @@
           },
           "value": {
             "en": "La Caleta fishing village",
-            "fr": "Village de pecheurs de La Caleta",
+            "fr": "Village de pêcheurs de La Caleta",
             "it": "Villaggio di pescatori di La Caleta",
             "de": "Fischerdorf La Caleta",
             "es": "Pueblo pesquero de La Caleta",
@@ -2118,7 +2118,7 @@
           "emoji": "👨‍🍳",
           "name": {
             "en": "Cook-in breakfast",
-            "fr": "Petit-dejeuner maison",
+            "fr": "Petit-déjeuner maison",
             "it": "Colazione fatta in casa",
             "de": "Frühstück in der eigenen Küche",
             "es": "Desayuno hecho en casa",
@@ -2126,7 +2126,7 @@
           },
           "detail": {
             "en": "Use the apartment kitchen for a relaxed morning with a baby.",
-            "fr": "Profitez de la cuisine de l'appartement pour une matinee tranquille avec un bebe.",
+            "fr": "Profitez de la cuisine de l'appartement pour une matinée tranquille avec un bébé.",
             "it": "Usate la cucina dell'appartamento per una mattinata rilassata con un neonato.",
             "de": "Nutzen Sie die Apartment-Küche für einen entspannten Morgen mit Baby.",
             "es": "Usad la cocina del apartamento para una mañana relajada con un bebé.",
@@ -2157,7 +2157,7 @@
           },
           "detail": {
             "en": "Creative Happy Minds sessions for ages 4 to 12.",
-            "fr": "Ateliers creatifs Happy Minds pour les 4 a 12 ans.",
+            "fr": "Ateliers créatifs Happy Minds pour les 4 à 12 ans.",
             "it": "Sessioni creative Happy Minds per i 4-12 anni.",
             "de": "Kreative Happy-Minds-Sessions für 4- bis 12-Jährige.",
             "es": "Sesiones creativas Happy Minds para edades de 4 a 12 años.",
@@ -2179,7 +2179,7 @@
           "emoji": "🐟",
           "name": {
             "en": "La Caleta dinner",
-            "fr": "Diner a La Caleta",
+            "fr": "Dîner à La Caleta",
             "it": "Cena a La Caleta",
             "de": "Abendessen in La Caleta",
             "es": "Cena en La Caleta",
@@ -2218,7 +2218,7 @@
           },
           "detail": {
             "en": "Sea-view suites face west for an easy family sundowner.",
-            "fr": "Les suites vue mer sont orientees ouest pour un apero en famille facile.",
+            "fr": "Les suites vue mer sont orientées ouest pour un apéro en famille facile.",
             "it": "Le suite vista mare sono esposte a ovest per un aperitivo in famiglia facile.",
             "de": "Die Suiten mit Meerblick liegen nach Westen, ideal für einen entspannten Sundowner mit der Familie.",
             "es": "Las suites con vistas al mar dan al oeste para un aperitivo en familia sin complicaciones.",
@@ -2242,7 +2242,7 @@
           "time": "8:30",
           "title": {
             "en": "Breakfast in the apartment",
-            "fr": "Petit-dejeuner dans l'appartement",
+            "fr": "Petit-déjeuner dans l'appartement",
             "it": "Colazione in appartamento",
             "de": "Frühstück im Apartment",
             "es": "Desayuno en el apartamento",
@@ -2250,7 +2250,7 @@
           },
           "note": {
             "en": "Slow start with the whole family, no buffet queue.",
-            "fr": "Debut tranquille en famille, sans file d'attente au buffet.",
+            "fr": "Début tranquille en famille, sans file d'attente au buffet.",
             "it": "Partenza lenta con tutta la famiglia, senza fila al buffet.",
             "de": "Gemächlicher Start mit der ganzen Familie, ohne Buffetschlange.",
             "es": "Un comienzo tranquilo con toda la familia, sin cola de bufé.",
@@ -2269,7 +2269,7 @@
           },
           "note": {
             "en": "The heated saltwater family pool while adults' pools stay calm.",
-            "fr": "La piscine familiale d'eau de mer chauffee pendant que les bassins adultes restent calmes.",
+            "fr": "La piscine familiale d'eau de mer chauffée pendant que les bassins adultes restent calmes.",
             "it": "La piscina di acqua salata riscaldata per famiglie mentre quelle per adulti restano tranquille.",
             "de": "Der beheizte Salzwasser-Familienpool, während die Pools für Erwachsene ruhig bleiben.",
             "es": "La piscina familiar de agua salada climatizada mientras las de adultos siguen tranquilas.",
@@ -2280,7 +2280,7 @@
           "time": "13:00",
           "title": {
             "en": "Lunch and nap",
-            "fr": "Dejeuner et sieste",
+            "fr": "Déjeuner et sieste",
             "it": "Pranzo e nanna",
             "de": "Mittagessen und Schläfchen",
             "es": "Almuerzo y siesta",
@@ -2288,7 +2288,7 @@
           },
           "note": {
             "en": "Back up to the suite for a proper rest.",
-            "fr": "Retour a la suite pour un vrai repos.",
+            "fr": "Retour à la suite pour un vrai repos.",
             "it": "Rientro in suite per un vero riposo.",
             "de": "Zurück in die Suite für eine richtige Ruhepause.",
             "es": "De vuelta a la suite para un descanso de verdad.",
@@ -2318,7 +2318,7 @@
           "time": "19:30",
           "title": {
             "en": "Dinner in La Caleta",
-            "fr": "Diner a La Caleta",
+            "fr": "Dîner à La Caleta",
             "it": "Cena a La Caleta",
             "de": "Abendessen in La Caleta",
             "es": "Cena en La Caleta",
@@ -2337,7 +2337,7 @@
       "ageNotes": {
         "baby": {
           "en": "A kitchen for bottles and purees plus quiet suites make this easy with a baby. Cots on request.",
-          "fr": "Une cuisine pour biberons et purees, plus des suites calmes, facilitent le sejour avec un bebe. Lits parapluie sur demande.",
+          "fr": "Une cuisine pour biberons et purées, plus des suites calmes, facilitent le séjour avec un bébé. Lits parapluie sur demande.",
           "it": "Una cucina per biberon e pappe più suite tranquille rendono tutto facile con un neonato. Culle su richiesta.",
           "de": "Eine Küche für Fläschchen und Breie sowie ruhige Suiten machen es mit einem Baby leicht. Reisebetten auf Anfrage.",
           "es": "Una cocina para biberones y purés y suites tranquilas lo hacen fácil con un bebé. Cunas bajo petición.",
@@ -2345,7 +2345,7 @@
         },
         "toddler": {
           "en": "Space to spread out and a calm family pool suit toddlers, though the beach is black sand.",
-          "fr": "De l'espace pour s'etaler et une piscine familiale calme conviennent aux tout-petits, meme si la plage est de sable noir.",
+          "fr": "De l'espace pour s'étaler et une piscine familiale calme conviennent aux tout-petits, même si la plage est de sable noir.",
           "it": "Spazio per allargarsi e una piscina per famiglie tranquilla si addicono ai più piccoli, anche se la spiaggia è di sabbia nera.",
           "de": "Platz zum Ausbreiten und ein ruhiger Familienpool passen zu Kleinkindern, auch wenn der Strand schwarzen Sand hat.",
           "es": "Espacio para moverse y una piscina familiar tranquila van bien con los peques, aunque la playa es de arena negra.",
@@ -2353,7 +2353,7 @@
         },
         "kid": {
           "en": "Barcy Club and apartment room to play make this comfortable for this age.",
-          "fr": "Le Barcy Club et l'espace de l'appartement pour jouer rendent le sejour agreable a cet age.",
+          "fr": "Le Barcy Club et l'espace de l'appartement pour jouer rendent le séjour agréable à cet âge.",
           "it": "Il Barcy Club e lo spazio dell'appartamento per giocare rendono il soggiorno comodo a questa età.",
           "de": "Barcy Club und Platz zum Spielen im Apartment machen es für dieses Alter angenehm.",
           "es": "El Barcy Club y el espacio del apartamento para jugar lo hacen cómodo para esta edad.",
@@ -2361,7 +2361,7 @@
         },
         "teen": {
           "en": "Teens get their own bedroom, a Teens Club and grown-up dining they will actually enjoy.",
-          "fr": "Les ados ont leur propre chambre, un Teens Club et une cuisine soignee qu'ils apprecieront vraiment.",
+          "fr": "Les ados ont leur propre chambre, un Teens Club et une cuisine soignée qu'ils apprécieront vraiment.",
           "it": "I ragazzi hanno la loro camera, un Teens Club e una cucina da grandi che apprezzeranno davvero.",
           "de": "Teenager bekommen ihr eigenes Schlafzimmer, einen Teens Club und Erwachsenenküche, die ihnen wirklich schmeckt.",
           "es": "Los adolescentes tienen su propio dormitorio, un Teens Club y una gastronomía de mayores que disfrutarán de verdad.",
@@ -2380,7 +2380,7 @@
           },
           "a": {
             "en": "Yes, every suite has a full modern kitchen, ideal for family self-catering.",
-            "fr": "Oui, chaque suite dispose d'une cuisine moderne complete, ideale pour cuisiner en famille.",
+            "fr": "Oui, chaque suite dispose d'une cuisine moderne complète, idéale pour cuisiner en famille.",
             "it": "Sì, ogni suite ha una cucina moderna completa, ideale per cucinare in famiglia.",
             "de": "Ja, jede Suite hat eine voll ausgestattete moderne Küche, ideal für die Selbstverpflegung der Familie.",
             "es": "Sí, cada suite tiene una cocina moderna completa, ideal para cocinar en familia.",
@@ -2398,7 +2398,7 @@
           },
           "a": {
             "en": "There is a heated family pool; two of the saltwater pools are reserved for adults.",
-            "fr": "Il y a une piscine familiale chauffee; deux des bassins d'eau de mer sont reserves aux adultes.",
+            "fr": "Il y a une piscine familiale chauffée; deux des bassins d'eau de mer sont réservés aux adultes.",
             "it": "C'è una piscina per famiglie riscaldata; due delle piscine di acqua salata sono riservate agli adulti.",
             "de": "Es gibt einen beheizten Familienpool; zwei der Salzwasserpools sind Erwachsenen vorbehalten.",
             "es": "Hay una piscina familiar climatizada; dos de las piscinas de agua salada están reservadas a adultos.",
@@ -2408,7 +2408,7 @@
         {
           "q": {
             "en": "Is it good for foodie parents?",
-            "fr": "Est-ce adapte aux parents gourmets?",
+            "fr": "Est-ce adapté aux parents gourmets?",
             "it": "È adatto ai genitori appassionati di cucina?",
             "de": "Ist es gut für genussfreudige Eltern?",
             "es": "¿Es bueno para padres amantes de la gastronomía?",
@@ -2416,7 +2416,7 @@
           },
           "a": {
             "en": "Very. The wider resort holds several Michelin-starred restaurants alongside casual options.",
-            "fr": "Tres. Le complexe compte plusieurs restaurants etoiles au Michelin a cote d'options plus decontractees.",
+            "fr": "Très. Le complexe compte plusieurs restaurants étoilés au Michelin à côté d'options plus décontractées.",
             "it": "Molto. Il resort nel complesso ospita diversi ristoranti stellati Michelin accanto a opzioni più informali.",
             "de": "Sehr. Das gesamte Resort beherbergt mehrere Michelin-Sterne-Restaurants neben legeren Optionen.",
             "es": "Mucho. El conjunto del resort alberga varios restaurantes con estrella Michelin junto a opciones informales.",
@@ -2473,7 +2473,7 @@
       },
       "roomsSummary": {
         "en": "Apartment-style rooms with kitchenettes and a separate sleeping area, roomy enough for a family and handy for keeping snacks and breakfast in. Decor is simple and practical.",
-        "fr": "Chambres de type appartement avec kitchenette et coin nuit separe, assez spacieuses pour une famille et pratiques pour garder snacks et petit-dejeuner. Deco simple et fonctionnelle.",
+        "fr": "Chambres de type appartement avec kitchenette et coin nuit séparé, assez spacieuses pour une famille et pratiques pour garder snacks et petit-déjeuner. Déco simple et fonctionnelle.",
         "it": "Camere in stile appartamento con angolo cottura e zona notte separata, abbastanza spaziose per una famiglia e comode per tenere snack e colazione in casa. Arredo semplice e pratico.",
         "de": "Apartmentähnliche Zimmer mit Kochnische und getrenntem Schlafbereich, geräumig genug für eine Familie und praktisch, um Snacks und Frühstück zu verstauen. Die Einrichtung ist schlicht und zweckmäßig.",
         "es": "Habitaciones tipo apartamento con cocina americana y zona de dormir separada, con espacio de sobra para una familia y prácticas para guardar snacks y el desayuno. Decoración sencilla y funcional.",
@@ -2481,7 +2481,7 @@
       },
       "intro": {
         "en": "Gran Oasis is a well-priced aparthotel built around Oasis Splash Island, its own little water park of slides, jets and games. With kitchenettes in the rooms and the buzz of Las Americas on the doorstep, it suits families who want water fun without the five-star bill.",
-        "fr": "Le Gran Oasis est un aparthotel au bon prix construit autour d'Oasis Splash Island, son propre petit parc aquatique de toboggans, jets et jeux. Avec des kitchenettes dans les chambres et l'animation de Las Americas au pied de l'hotel, il convient aux familles qui veulent des jeux d'eau sans la facture cinq etoiles.",
+        "fr": "Le Gran Oasis est un aparthotel au bon prix construit autour d'Oasis Splash Island, son propre petit parc aquatique de toboggans, jets et jeux. Avec des kitchenettes dans les chambres et l'animation de Las Americas au pied de l'hôtel, il convient aux familles qui veulent des jeux d'eau sans la facture cinq étoiles.",
         "it": "Il Gran Oasis è un aparthotel dal buon prezzo costruito attorno a Oasis Splash Island, il suo piccolo parco acquatico di scivoli, getti e giochi. Con gli angoli cottura nelle camere e il fermento di Las Americas a due passi, è adatto alle famiglie che vogliono divertimento in acqua senza il conto da cinque stelle.",
         "de": "Das Gran Oasis ist ein preisgünstiges Aparthotel rund um Oasis Splash Island, den eigenen kleinen Wasserpark mit Rutschen, Fontänen und Spielen. Mit Kochnischen in den Zimmern und dem Trubel von Las Americas vor der Tür passt es zu Familien, die Wasserspaß ohne Fünf-Sterne-Rechnung wollen.",
         "es": "El Gran Oasis es un aparthotel de buen precio construido en torno a Oasis Splash Island, su propio pequeño parque acuático de toboganes, chorros y juegos. Con cocinas americanas en las habitaciones y el bullicio de Las Americas a la puerta, va bien para familias que quieren diversión acuática sin la factura de cinco estrellas.",
@@ -2499,9 +2499,9 @@
         "fr": [
           "Parc aquatique Oasis Splash Island sur place",
           "Kitchenettes pour cuisiner en famille",
-          "Animations gratuites en journee et maquillage enfants",
-          "A pied des boutiques et plages de Las Americas",
-          "Tarifs d'aparthotel avantageux",
+          "Animations gratuites en journée et maquillage enfants",
+          "À pied des boutiques et plages de Las Americas",
+          "Tarifs d'aparthôtel avantageux",
           "Base centrale pour explorer le sud"
         ],
         "it": [
@@ -2544,9 +2544,9 @@
           "Very central for beaches, shops and trips"
         ],
         "fr": [
-          "Parc aquatique sur place a prix abordable",
-          "Kitchenettes qui reduisent le cout des repas dehors",
-          "Tres central pour plages, boutiques et excursions"
+          "Parc aquatique sur place à prix abordable",
+          "Kitchenettes qui réduisent le coût des repas dehors",
+          "Très central pour plages, boutiques et excursions"
         ],
         "it": [
           "Splash park in loco a prezzo accessibile",
@@ -2577,8 +2577,8 @@
         ],
         "fr": [
           "Chambres et espaces vieillissants par endroits",
-          "Las Americas est anime et parfois bruyant la nuit",
-          "Pas l'endroit pour des vacances tranquilles avec un bebe"
+          "Las Americas est animé et parfois bruyant la nuit",
+          "Pas l'endroit pour des vacances tranquilles avec un bébé"
         ],
         "it": [
           "Camere e spazi in parte datati",
@@ -2603,7 +2603,7 @@
       },
       "verdict": {
         "en": "A dependable value pick when the kids just want a splash park and you want a central, self-catering base.",
-        "fr": "Un choix fiable et economique quand les enfants veulent surtout un parc aquatique et que vous cherchez une base centrale pour cuisiner.",
+        "fr": "Un choix fiable et économique quand les enfants veulent surtout un parc aquatique et que vous cherchez une base centrale pour cuisiner.",
         "it": "Una scelta affidabile e conveniente quando i bambini vogliono solo uno splash park e voi una base centrale in cui cucinare.",
         "de": "Eine verlässliche, preiswerte Wahl, wenn die Kinder einfach einen Spritzpark wollen und Sie eine zentrale Basis mit Selbstverpflegung.",
         "es": "Una opción fiable y económica cuando los niños solo quieren un splash park y vosotros una base céntrica con cocina.",
@@ -2611,7 +2611,7 @@
       },
       "parentTip": {
         "en": "Rooms nearer the splash park are handy for tired legs but louder; ask for a quieter block if your kids sleep early.",
-        "fr": "Les chambres proches du parc aquatique sont pratiques pour les jambes fatiguees mais plus bruyantes; demandez un bloc plus calme si vos enfants se couchent tot.",
+        "fr": "Les chambres proches du parc aquatique sont pratiques pour les jambes fatiguées mais plus bruyantes; demandez un bloc plus calme si vos enfants se couchent tôt.",
         "it": "Le camere più vicine allo splash park sono comode per le gambe stanche ma più rumorose; chiedete un blocco più tranquillo se i bambini vanno a letto presto.",
         "de": "Zimmer näher am Spritzpark sind praktisch für müde Beine, aber lauter; bitten Sie um einen ruhigeren Block, wenn Ihre Kinder früh schlafen.",
         "es": "Las habitaciones más cerca del splash park van bien para las piernas cansadas pero son más ruidosas; pedid un bloque más tranquilo si vuestros hijos se acuestan pronto.",
@@ -2668,7 +2668,7 @@
           },
           "value": {
             "en": "Free daytime activities",
-            "fr": "Activites gratuites en journee",
+            "fr": "Activités gratuites en journée",
             "it": "Attività diurne gratuite",
             "de": "Kostenlose Tagesaktivitäten",
             "es": "Actividades diurnas gratuitas",
@@ -2698,7 +2698,7 @@
           "icon": "💶",
           "label": {
             "en": "Value",
-            "fr": "Rapport qualite-prix",
+            "fr": "Rapport qualité-prix",
             "it": "Rapporto qualità-prezzo",
             "de": "Preis-Leistung",
             "es": "Relación calidad-precio",
@@ -2706,7 +2706,7 @@
           },
           "value": {
             "en": "Budget-friendly aparthotel",
-            "fr": "Aparthotel economique",
+            "fr": "Aparthôtel économique",
             "it": "Aparthotel economico",
             "de": "Budgetfreundliches Aparthotel",
             "es": "Aparthotel económico",
@@ -2750,7 +2750,7 @@
           "emoji": "🎨",
           "name": {
             "en": "Treasure hunt",
-            "fr": "Chasse au tresor",
+            "fr": "Chasse au trésor",
             "it": "Caccia al tesoro",
             "de": "Schatzsuche",
             "es": "Búsqueda del tesoro",
@@ -2758,7 +2758,7 @@
           },
           "detail": {
             "en": "Face painting and treasure hunts run through the day.",
-            "fr": "Maquillage et chasses au tresor tout au long de la journee.",
+            "fr": "Maquillage et chasses au trésor tout au long de la journée.",
             "it": "Truccabimbi e cacce al tesoro per tutta la giornata.",
             "de": "Kinderschminken und Schatzsuchen über den ganzen Tag.",
             "es": "Pintacaras y búsquedas del tesoro a lo largo del día.",
@@ -2769,7 +2769,7 @@
           ],
           "time": {
             "en": "Afternoon",
-            "fr": "Apres-midi",
+            "fr": "Après-midi",
             "it": "Pomeriggio",
             "de": "Nachmittag",
             "es": "Tarde",
@@ -2788,7 +2788,7 @@
           },
           "detail": {
             "en": "A short walk to the main beach and promenade.",
-            "fr": "Courte marche jusqu'a la plage principale et la promenade.",
+            "fr": "Courte marche jusqu'à la plage principale et la promenade.",
             "it": "Una breve passeggiata fino alla spiaggia principale e alla passeggiata.",
             "de": "Ein kurzer Weg zum Hauptstrand und zur Promenade.",
             "es": "Un corto paseo hasta la playa principal y el paseo marítimo.",
@@ -2831,7 +2831,7 @@
           ],
           "time": {
             "en": "Half day",
-            "fr": "Demi-journee",
+            "fr": "Demi-journée",
             "it": "Mezza giornata",
             "de": "Halber Tag",
             "es": "Medio día",
@@ -2844,7 +2844,7 @@
           "time": "8:30",
           "title": {
             "en": "Breakfast in the room",
-            "fr": "Petit-dejeuner en chambre",
+            "fr": "Petit-déjeuner en chambre",
             "it": "Colazione in camera",
             "de": "Frühstück im Zimmer",
             "es": "Desayuno en la habitación",
@@ -2852,7 +2852,7 @@
           },
           "note": {
             "en": "Kitchenette breakfast, no rush.",
-            "fr": "Petit-dejeuner a la kitchenette, sans se presser.",
+            "fr": "Petit-déjeuner à la kitchenette, sans se presser.",
             "it": "Colazione all'angolo cottura, con calma.",
             "de": "Frühstück an der Kochnische, ohne Eile.",
             "es": "Desayuno en la cocina americana, sin prisas.",
@@ -2882,7 +2882,7 @@
           "time": "13:00",
           "title": {
             "en": "Lunch and downtime",
-            "fr": "Dejeuner et pause",
+            "fr": "Déjeuner et pause",
             "it": "Pranzo e pausa",
             "de": "Mittagessen und Pause",
             "es": "Almuerzo y pausa",
@@ -2890,7 +2890,7 @@
           },
           "note": {
             "en": "Cook a simple lunch and rest indoors.",
-            "fr": "Un dejeuner simple maison et repos a l'interieur.",
+            "fr": "Un déjeuner simple maison et repos à l'intérieur.",
             "it": "Preparate un pranzo semplice e riposate al chiuso.",
             "de": "Kochen Sie ein einfaches Mittagessen und ruhen Sie drinnen aus.",
             "es": "Preparad un almuerzo sencillo y descansad dentro.",
@@ -2920,7 +2920,7 @@
           "time": "19:00",
           "title": {
             "en": "Dinner out",
-            "fr": "Diner dehors",
+            "fr": "Dîner dehors",
             "it": "Cena fuori",
             "de": "Abendessen auswärts",
             "es": "Cena fuera",
@@ -2928,7 +2928,7 @@
           },
           "note": {
             "en": "Plenty of family restaurants within walking distance.",
-            "fr": "De nombreux restaurants familiaux a distance de marche.",
+            "fr": "De nombreux restaurants familiaux à distance de marche.",
             "it": "Tanti ristoranti per famiglie a distanza di passeggiata.",
             "de": "Viele Familienrestaurants in Gehweite.",
             "es": "Muchos restaurantes familiares a poca distancia a pie.",
@@ -2939,7 +2939,7 @@
       "ageNotes": {
         "toddler": {
           "en": "Shallow splash zones work for toddlers, but the lively resort location suits confident families.",
-          "fr": "Les zones peu profondes conviennent aux tout-petits, mais l'emplacement anime convient aux familles a l'aise.",
+          "fr": "Les zones peu profondes conviennent aux tout-petits, mais l'emplacement animé convient aux familles à l'aise.",
           "it": "Le zone basse vanno bene per i più piccoli, ma la posizione vivace si addice alle famiglie disinvolte.",
           "de": "Flache Spritzzonen eignen sich für Kleinkinder, doch die lebhafte Lage passt zu unbekümmerten Familien.",
           "es": "Las zonas poco profundas funcionan para los peques, pero la animada ubicación va mejor con familias desenvueltas.",
@@ -2947,7 +2947,7 @@
         },
         "kid": {
           "en": "The best fit: splash park, free activities and beaches all close by.",
-          "fr": "Le meilleur profil: parc aquatique, activites gratuites et plages tout pres.",
+          "fr": "Le meilleur profil: parc aquatique, activités gratuites et plages tout près.",
           "it": "L'ideale: splash park, attività gratuite e spiagge tutto vicino.",
           "de": "Die beste Wahl: Spritzpark, kostenlose Aktivitäten und Strände ganz in der Nähe.",
           "es": "Lo que mejor encaja: splash park, actividades gratuitas y playas todo cerca.",
@@ -2955,7 +2955,7 @@
         },
         "teen": {
           "en": "Teens like being central to Las Americas, with shops and the seafront on foot.",
-          "fr": "Les ados aiment etre au centre de Las Americas, boutiques et bord de mer a pied.",
+          "fr": "Les ados aiment être au centre de Las Americas, boutiques et bord de mer à pied.",
           "it": "Ai ragazzi piace essere nel cuore di Las Americas, con negozi e lungomare a piedi.",
           "de": "Teenager mögen die zentrale Lage in Las Americas, mit Geschäften und Strandpromenade zu Fuß.",
           "es": "A los adolescentes les gusta estar en pleno Las Americas, con tiendas y el frente marítimo a pie.",
@@ -2992,7 +2992,7 @@
           },
           "a": {
             "en": "Rooms have kitchenettes, so breakfasts and simple meals in are easy.",
-            "fr": "Les chambres ont des kitchenettes, donc petits-dejeuners et repas simples sont faciles.",
+            "fr": "Les chambres ont des kitchenettes, donc petits-déjeuners et repas simples sont faciles.",
             "it": "Le camere hanno angoli cottura, quindi colazioni e pasti semplici in casa sono facili.",
             "de": "Die Zimmer haben Kochnischen, sodass Frühstück und einfache Mahlzeiten drinnen leicht möglich sind.",
             "es": "Las habitaciones tienen cocina americana, así que desayunos y comidas sencillas en casa son fáciles.",
@@ -3010,7 +3010,7 @@
           },
           "a": {
             "en": "It is in lively Las Americas, so ask for a room away from the pool and street for quieter nights.",
-            "fr": "C'est dans le Las Americas anime, demandez une chambre eloignee de la piscine et de la rue pour des nuits plus calmes.",
+            "fr": "C'est dans le Las Americas animé, demandez une chambre éloignée de la piscine et de la rue pour des nuits plus calmes.",
             "it": "Si trova nella vivace Las Americas, quindi chiedete una camera lontana dalla piscina e dalla strada per notti più tranquille.",
             "de": "Es liegt im lebhaften Las Americas, bitten Sie also um ein Zimmer fern von Pool und Straße für ruhigere Nächte.",
             "es": "Está en el animado Las Americas, así que pedid una habitación alejada de la piscina y la calle para noches más tranquilas.",
@@ -3066,7 +3066,7 @@
       },
       "roomsSummary": {
         "en": "Bright apartments with a full kitchen, a separate bedroom and a living area with a sofa bed, so a young family has room and can cook. Simple, clean and practical rather than stylish.",
-        "fr": "Appartements lumineux avec cuisine equipee, chambre separee et coin salon avec canape-lit, pour qu'une jeune famille ait de la place et puisse cuisiner. Simple, propre et fonctionnel plutot que design.",
+        "fr": "Appartements lumineux avec cuisine équipée, chambre séparée et coin salon avec canapé-lit, pour qu'une jeune famille ait de la place et puisse cuisiner. Simple, propre et fonctionnel plutôt que design.",
         "it": "Appartamenti luminosi con cucina completa, camera separata e zona giorno con divano letto, così una giovane famiglia ha spazio e può cucinare. Semplici, puliti e pratici più che eleganti.",
         "de": "Helle Apartments mit voll ausgestatteter Küche, separatem Schlafzimmer und Wohnbereich mit Schlafsofa, sodass eine junge Familie Platz hat und kochen kann. Schlicht, sauber und praktisch statt stylish.",
         "es": "Apartamentos luminosos con cocina completa, dormitorio independiente y salón con sofá cama, así una familia joven tiene espacio y puede cocinar. Sencillos, limpios y prácticos más que elegantes.",
@@ -3074,7 +3074,7 @@
       },
       "intro": {
         "en": "Los Cristianos has the gentlest sheltered town beach in the south, ideal for babies and toddlers, and Coral Los Alisios puts you a short walk from it with a proper apartment and kitchen. It is a calm, walkable, self-catering base rather than an entertainment resort.",
-        "fr": "Los Cristianos possede la plage de ville la plus douce et la plus abritee du sud, ideale pour bebes et tout-petits, et le Coral Los Alisios vous en place a quelques minutes a pied avec un vrai appartement et une cuisine. C'est une base calme, accessible a pied et autonome, plutot qu'un complexe d'animation.",
+        "fr": "Los Cristianos possède la plage de ville la plus douce et la plus abritée du sud, idéale pour bébés et tout-petits, et le Coral Los Alisios vous en place à quelques minutes à pied avec un vrai appartement et une cuisine. C'est une base calme, accessible à pied et autonome, plutôt qu'un complexe d'animation.",
         "it": "Los Cristianos ha la spiaggia cittadina più dolce e riparata del sud, ideale per neonati e bambini piccoli, e il Coral Los Alisios vi mette a breve distanza a piedi con un vero appartamento e cucina. È una base tranquilla, comoda a piedi e con cucina propria, più che un resort di animazione.",
         "de": "Los Cristianos hat den sanftesten geschützten Stadtstrand im Süden, ideal für Babys und Kleinkinder, und das Coral Los Alisios bringt Sie mit einem echten Apartment samt Küche in Gehweite dazu. Es ist eine ruhige, fußläufige Basis mit Selbstverpflegung, kein Animationsresort.",
         "es": "Los Cristianos tiene la playa urbana más suave y resguardada del sur, ideal para bebés y niños pequeños, y el Coral Los Alisios te deja a un corto paseo de ella con un apartamento de verdad y cocina. Es una base tranquila, andable y con cocina propia, más que un resort de animación.",
@@ -3090,12 +3090,12 @@
           "Supermarkets and family restaurants nearby"
         ],
         "fr": [
-          "Appartements avec cuisine equipee pour jeunes familles",
-          "Courte marche jusqu'a la plage calme de Los Cristianos",
-          "Piscine avec bassin enfants separe",
-          "Ville balneaire calme et accessible a pied",
-          "Ferries vers La Gomera au depart du port",
-          "Supermarches et restaurants familiaux a proximite"
+          "Appartements avec cuisine équipée pour jeunes familles",
+          "Courte marche jusqu'à la plage calme de Los Cristianos",
+          "Piscine avec bassin enfants séparé",
+          "Ville balnéaire calme et accessible à pied",
+          "Ferries vers La Gomera au départ du port",
+          "Supermarchés et restaurants familiaux à proximité"
         ],
         "it": [
           "Appartamenti con cucina completa per giovani famiglie",
@@ -3138,8 +3138,8 @@
         ],
         "fr": [
           "Plage de ville calme et peu profonde, parfaite pour les petits",
-          "Vraie cuisine et espace a prix modeste",
-          "Ville tranquille facile a parcourir avec une poussette"
+          "Vraie cuisine et espace à prix modeste",
+          "Ville tranquille facile à parcourir avec une poussette"
         ],
         "it": [
           "La spiaggia cittadina tranquilla e bassa è perfetta per i più piccoli",
@@ -3169,8 +3169,8 @@
           "Quiet at night, which some teens find dull"
         ],
         "fr": [
-          "Pas de club enfants ni d'animation organisee",
-          "Piscine et interieurs vieillissants",
+          "Pas de club enfants ni d'animation organisée",
+          "Piscine et intérieurs vieillissants",
           "Calme le soir, ce que certains ados trouvent ennuyeux"
         ],
         "it": [
@@ -3196,7 +3196,7 @@
       },
       "verdict": {
         "en": "The pick for parents of babies and toddlers who value a calm beach and a kitchen over a big resort.",
-        "fr": "Le choix des parents de bebes et de tout-petits qui preferent une plage calme et une cuisine a un grand complexe.",
+        "fr": "Le choix des parents de bébés et de tout-petits qui préfèrent une plage calme et une cuisine à un grand complexe.",
         "it": "La scelta per i genitori di neonati e bambini piccoli che preferiscono una spiaggia tranquilla e una cucina a un grande resort.",
         "de": "Die Wahl für Eltern von Babys und Kleinkindern, denen ein ruhiger Strand und eine Küche wichtiger sind als ein großes Resort.",
         "es": "La elección para padres de bebés y niños pequeños que valoran una playa tranquila y una cocina más que un gran resort.",
@@ -3204,7 +3204,7 @@
       },
       "parentTip": {
         "en": "Los Cristianos beach shelves gently and stays calm, so it is one of the safest first-swim spots on the island; go early for shade and space.",
-        "fr": "La plage de Los Cristianos descend en pente douce et reste calme, c'est l'un des endroits les plus surs pour une premiere baignade sur l'ile; allez-y tot pour l'ombre et la place.",
+        "fr": "La plage de Los Cristianos descend en pente douce et reste calme, c'est l'un des endroits les plus sûrs pour une première baignade sur l'île; allez-y tôt pour l'ombre et la place.",
         "it": "La spiaggia di Los Cristianos digrada dolcemente e resta calma, quindi è uno dei posti più sicuri per il primo bagno sull'isola; andateci presto per ombra e spazio.",
         "de": "Der Strand von Los Cristianos fällt sanft ab und bleibt ruhig, also einer der sichersten Orte für die ersten Schwimmversuche auf der Insel; gehen Sie früh für Schatten und Platz.",
         "es": "La playa de Los Cristianos tiene una entrada suave y se mantiene tranquila, así que es uno de los sitios más seguros para el primer baño de la isla; id temprano por sombra y espacio.",
@@ -3223,7 +3223,7 @@
           },
           "value": {
             "en": "Full kitchen in every apartment",
-            "fr": "Cuisine equipee dans chaque appartement",
+            "fr": "Cuisine équipée dans chaque appartement",
             "it": "Cucina completa in ogni appartamento",
             "de": "Voll ausgestattete Küche in jedem Apartment",
             "es": "Cocina completa en cada apartamento",
@@ -3272,7 +3272,7 @@
           "icon": "👶",
           "label": {
             "en": "Best for",
-            "fr": "Ideal pour",
+            "fr": "Idéal pour",
             "it": "Ideale per",
             "de": "Am besten für",
             "es": "Ideal para",
@@ -3280,7 +3280,7 @@
           },
           "value": {
             "en": "Babies and toddlers",
-            "fr": "Bebes et tout-petits",
+            "fr": "Bébés et tout-petits",
             "it": "Neonati e bambini piccoli",
             "de": "Babys und Kleinkinder",
             "es": "Bebés y niños pequeños",
@@ -3299,7 +3299,7 @@
           },
           "value": {
             "en": "Ferry to La Gomera nearby",
-            "fr": "Ferry vers La Gomera tout pres",
+            "fr": "Ferry vers La Gomera tout près",
             "it": "Traghetto per La Gomera nelle vicinanze",
             "de": "Fähre nach La Gomera in der Nähe",
             "es": "Ferri a La Gomera cerca",
@@ -3312,7 +3312,7 @@
           "emoji": "🏖️",
           "name": {
             "en": "Town beach paddle",
-            "fr": "Baignade a la plage de ville",
+            "fr": "Baignade à la plage de ville",
             "it": "Bagnetto alla spiaggia cittadina",
             "de": "Planschen am Stadtstrand",
             "es": "Chapuzón en la playa urbana",
@@ -3320,7 +3320,7 @@
           },
           "detail": {
             "en": "Shallow, sheltered water perfect for a first swim.",
-            "fr": "Eau peu profonde et abritee, parfaite pour une premiere baignade.",
+            "fr": "Eau peu profonde et abritée, parfaite pour une première baignade.",
             "it": "Acqua bassa e riparata, perfetta per il primo bagno.",
             "de": "Flaches, geschütztes Wasser, perfekt für die ersten Schwimmversuche.",
             "es": "Agua poco profunda y resguardada, perfecta para el primer baño.",
@@ -3352,7 +3352,7 @@
           },
           "detail": {
             "en": "Ice cream and boat-watching along the promenade.",
-            "fr": "Glace et bateaux a regarder le long de la promenade.",
+            "fr": "Glace et bateaux à regarder le long de la promenade.",
             "it": "Gelato e barche da guardare lungo la passeggiata.",
             "de": "Eis und Bootegucken entlang der Promenade.",
             "es": "Helado y barcos que mirar por el paseo.",
@@ -3383,7 +3383,7 @@
           },
           "detail": {
             "en": "A short crossing for a day on the neighbouring island.",
-            "fr": "Une courte traversee pour une journee sur l'ile voisine.",
+            "fr": "Une courte traversée pour une journée sur l'île voisine.",
             "it": "Una breve traversata per una giornata sull'isola vicina.",
             "de": "Eine kurze Überfahrt für einen Tag auf der Nachbarinsel.",
             "es": "Una travesía corta para un día en la isla vecina.",
@@ -3394,7 +3394,7 @@
           ],
           "time": {
             "en": "Full day",
-            "fr": "Journee entiere",
+            "fr": "Journée entière",
             "it": "Giornata intera",
             "de": "Ganzer Tag",
             "es": "Día completo",
@@ -3413,7 +3413,7 @@
           },
           "detail": {
             "en": "Family boat trips to spot dolphins and pilot whales.",
-            "fr": "Sorties en bateau familiales pour observer dauphins et globicephales.",
+            "fr": "Sorties en bateau familiales pour observer dauphins et globicéphales.",
             "it": "Gite in barca per famiglie per avvistare delfini e globicefali.",
             "de": "Familien-Bootsausflüge, um Delfine und Grindwale zu sehen.",
             "es": "Excursiones en barco en familia para ver delfines y calderones.",
@@ -3424,7 +3424,7 @@
           ],
           "time": {
             "en": "Half day",
-            "fr": "Demi-journee",
+            "fr": "Demi-journée",
             "it": "Mezza giornata",
             "de": "Halber Tag",
             "es": "Medio día",
@@ -3437,7 +3437,7 @@
           "time": "8:30",
           "title": {
             "en": "Breakfast in the apartment",
-            "fr": "Petit-dejeuner dans l'appartement",
+            "fr": "Petit-déjeuner dans l'appartement",
             "it": "Colazione in appartamento",
             "de": "Frühstück im Apartment",
             "es": "Desayuno en el apartamento",
@@ -3445,7 +3445,7 @@
           },
           "note": {
             "en": "Cook what the little ones actually eat.",
-            "fr": "Preparez ce que les petits mangent vraiment.",
+            "fr": "Préparez ce que les petits mangent vraiment.",
             "it": "Cucinate quello che i piccoli mangiano davvero.",
             "de": "Kochen Sie, was die Kleinen wirklich essen.",
             "es": "Cocinad lo que los peques comen de verdad.",
@@ -3456,7 +3456,7 @@
           "time": "9:30",
           "title": {
             "en": "Beach morning",
-            "fr": "Matinee plage",
+            "fr": "Matinée plage",
             "it": "Mattina in spiaggia",
             "de": "Strandvormittag",
             "es": "Mañana de playa",
@@ -3475,7 +3475,7 @@
           "time": "13:00",
           "title": {
             "en": "Lunch and nap",
-            "fr": "Dejeuner et sieste",
+            "fr": "Déjeuner et sieste",
             "it": "Pranzo e nanna",
             "de": "Mittagessen und Schläfchen",
             "es": "Almuerzo y siesta",
@@ -3483,7 +3483,7 @@
           },
           "note": {
             "en": "Home for lunch and a proper nap.",
-            "fr": "Retour pour le dejeuner et une vraie sieste.",
+            "fr": "Retour pour le déjeuner et une vraie sieste.",
             "it": "A casa per il pranzo e una vera nanna.",
             "de": "Nach Hause zum Mittagessen und einem richtigen Schläfchen.",
             "es": "A casa para almorzar y una buena siesta.",
@@ -3502,7 +3502,7 @@
           },
           "note": {
             "en": "Children's pool as the afternoon cools.",
-            "fr": "Bassin enfants quand l'apres-midi se rafraichit.",
+            "fr": "Bassin enfants quand l'après-midi se rafraîchit.",
             "it": "Piscina per bambini quando il pomeriggio si rinfresca.",
             "de": "Kinderpool, wenn der Nachmittag kühler wird.",
             "es": "Piscina infantil cuando la tarde refresca.",
@@ -3513,7 +3513,7 @@
           "time": "18:30",
           "title": {
             "en": "Promenade and dinner",
-            "fr": "Promenade et diner",
+            "fr": "Promenade et dîner",
             "it": "Passeggiata e cena",
             "de": "Promenade und Abendessen",
             "es": "Paseo y cena",
@@ -3521,7 +3521,7 @@
           },
           "note": {
             "en": "Easy stroll to a family restaurant.",
-            "fr": "Balade facile jusqu'a un restaurant familial.",
+            "fr": "Balade facile jusqu'à un restaurant familial.",
             "it": "Facile passeggiata fino a un ristorante per famiglie.",
             "de": "Entspannter Spaziergang zu einem Familienrestaurant.",
             "es": "Un paseo fácil hasta un restaurante familiar.",
@@ -3532,7 +3532,7 @@
       "ageNotes": {
         "baby": {
           "en": "The kitchen and one of the island's calmest beaches make this a top baby base. Cots on request.",
-          "fr": "La cuisine et l'une des plages les plus calmes de l'ile en font une base ideale pour les bebes. Lits parapluie sur demande.",
+          "fr": "La cuisine et l'une des plages les plus calmes de l'île en font une base idéale pour les bébés. Lits parapluie sur demande.",
           "it": "La cucina e una delle spiagge più tranquille dell'isola ne fanno una base ideale per i neonati. Culle su richiesta.",
           "de": "Die Küche und einer der ruhigsten Strände der Insel machen es zur idealen Basis mit Baby. Reisebetten auf Anfrage.",
           "es": "La cocina y una de las playas más tranquilas de la isla lo hacen una base ideal con bebés. Cunas bajo petición.",
@@ -3540,7 +3540,7 @@
         },
         "toddler": {
           "en": "Gentle shallows and a children's pool are exactly right for toddlers.",
-          "fr": "Eaux peu profondes et bassin enfants parfaitement adaptes aux tout-petits.",
+          "fr": "Eaux peu profondes et bassin enfants parfaitement adaptés aux tout-petits.",
           "it": "Acque basse e dolci e una piscina per bambini sono perfette per i più piccoli.",
           "de": "Sanftes flaches Wasser und ein Kinderpool sind genau richtig für Kleinkinder.",
           "es": "Aguas someras y suaves y una piscina infantil son justo lo adecuado para los peques.",
@@ -3559,7 +3559,7 @@
         {
           "q": {
             "en": "Is the beach safe for young children?",
-            "fr": "La plage est-elle sure pour les jeunes enfants?",
+            "fr": "La plage est-elle sûre pour les jeunes enfants?",
             "it": "La spiaggia è sicura per i bambini piccoli?",
             "de": "Ist der Strand für kleine Kinder sicher?",
             "es": "¿La playa es segura para niños pequeños?",
@@ -3567,7 +3567,7 @@
           },
           "a": {
             "en": "Los Cristianos town beach is sheltered and shallow, among the calmest on the island.",
-            "fr": "La plage de ville de Los Cristianos est abritee et peu profonde, parmi les plus calmes de l'ile.",
+            "fr": "La plage de ville de Los Cristianos est abritée et peu profonde, parmi les plus calmes de l'île.",
             "it": "La spiaggia cittadina di Los Cristianos è riparata e bassa, tra le più tranquille dell'isola.",
             "de": "Der Stadtstrand von Los Cristianos ist geschützt und flach, einer der ruhigsten der Insel.",
             "es": "La playa urbana de Los Cristianos es resguardada y poco profunda, de las más tranquilas de la isla.",
@@ -3585,7 +3585,7 @@
           },
           "a": {
             "en": "No, this is a quiet self-catering aparthotel; you make your own plans from the town.",
-            "fr": "Non, c'est un aparthotel calme pour cuisiner soi-meme; vous organisez vos sorties depuis la ville.",
+            "fr": "Non, c'est un aparthôtel calme pour cuisiner soi-même; vous organisez vos sorties depuis la ville.",
             "it": "No, è un tranquillo aparthotel con cucina propria; organizzate voi le vostre attività partendo dalla cittadina.",
             "de": "Nein, das ist ein ruhiges Aparthotel mit Selbstverpflegung; Sie planen selbst von der Stadt aus.",
             "es": "No, es un tranquilo aparthotel con cocina; organizáis vuestros planes desde el pueblo.",
@@ -3603,7 +3603,7 @@
           },
           "a": {
             "en": "Yes, the beach, shops and harbour are all walkable, with buses for wider trips.",
-            "fr": "Oui, plage, boutiques et port sont accessibles a pied, avec des bus pour les excursions plus lointaines.",
+            "fr": "Oui, plage, boutiques et port sont accessibles à pied, avec des bus pour les excursions plus lointaines.",
             "it": "Sì, spiaggia, negozi e porto sono tutti raggiungibili a piedi, con gli autobus per le gite più lontane.",
             "de": "Ja, Strand, Geschäfte und Hafen sind alle zu Fuß erreichbar, mit Bussen für weitere Ausflüge.",
             "es": "Sí, la playa, las tiendas y el puerto están a pie, con autobuses para excursiones más lejanas.",
@@ -3658,7 +3658,7 @@
       },
       "roomsSummary": {
         "en": "Practical apartments with a kitchenette and a separate living area, many with sea or town views. Comfortable and functional, a good base for exploring the greener north.",
-        "fr": "Appartements pratiques avec kitchenette et coin salon separe, beaucoup avec vue mer ou ville. Confortables et fonctionnels, une bonne base pour explorer le nord plus verdoyant.",
+        "fr": "Appartements pratiques avec kitchenette et coin salon séparé, beaucoup avec vue mer ou ville. Confortables et fonctionnels, une bonne base pour explorer le nord plus verdoyant.",
         "it": "Appartamenti pratici con angolo cottura e zona giorno separata, molti con vista mare o città. Comodi e funzionali, una buona base per esplorare il nord più verde.",
         "de": "Praktische Apartments mit Kochnische und getrenntem Wohnbereich, viele mit Meer- oder Stadtblick. Bequem und funktional, eine gute Basis, um den grüneren Norden zu erkunden.",
         "es": "Apartamentos prácticos con cocina americana y salón independiente, muchos con vistas al mar o a la ciudad. Cómodos y funcionales, una buena base para explorar el norte más verde.",
@@ -3666,7 +3666,7 @@
       },
       "intro": {
         "en": "Puerto de la Cruz is the characterful north-coast town, cooler and greener than the south, with the huge Lago Martianez saltwater pool complex and Loro Parque nearby. La Carabela is a friendly self-catering aparthotel with indoor and outdoor pools, a smart base for families who want real Tenerife alongside the beach.",
-        "fr": "Puerto de la Cruz est la ville de caractere de la cote nord, plus fraiche et plus verte que le sud, avec l'immense complexe de piscines d'eau de mer Lago Martianez et le Loro Parque tout pres. La Carabela est un aparthotel convivial pour cuisiner soi-meme, avec piscines interieure et exterieure, une base maligne pour les familles qui veulent le vrai Tenerife en plus de la plage.",
+        "fr": "Puerto de la Cruz est la ville de caractère de la côte nord, plus fraîche et plus verte que le sud, avec l'immense complexe de piscines d'eau de mer Lago Martianez et le Loro Parque tout près. La Carabela est un aparthotel convivial pour cuisiner soi-même, avec piscines intérieure et extérieure, une base maligne pour les familles qui veulent le vrai Tenerife en plus de la plage.",
         "it": "Puerto de la Cruz è la cittadina piena di carattere della costa nord, più fresca e verde del sud, con l'enorme complesso di piscine di acqua salata Lago Martianez e il Loro Parque lì vicino. La Carabela è un aparthotel accogliente con cucina propria, con piscine interna ed esterna, una base intelligente per le famiglie che vogliono la vera Tenerife oltre alla spiaggia.",
         "de": "Puerto de la Cruz ist die charaktervolle Stadt an der Nordküste, kühler und grüner als der Süden, mit dem riesigen Salzwasser-Poolkomplex Lago Martianez und dem Loro Parque in der Nähe. La Carabela ist ein freundliches Aparthotel mit Selbstverpflegung, Innen- und Außenpool, eine kluge Basis für Familien, die neben dem Strand das echte Teneriffa wollen.",
         "es": "Puerto de la Cruz es el pueblo con carácter de la costa norte, más fresco y verde que el sur, con el enorme complejo de piscinas de agua salada Lago Martianez y Loro Parque cerca. La Carabela es un aparthotel acogedor con cocina, con piscinas interior y exterior, una base inteligente para familias que quieren el Tenerife auténtico además de la playa.",
@@ -3682,11 +3682,11 @@
           "Great base for Teide and the north's greenery"
         ],
         "fr": [
-          "Piscines interieure et exterieure, utiles dans le nord plus frais",
-          "Appartements avec kitchenette pour cuisiner soi-meme",
-          "A distance de marche du Loro Parque",
-          "Pres du complexe de piscines Lago Martianez",
-          "Ville de caractere a la vraie vie canarienne",
+          "Piscines intérieure et extérieure, utiles dans le nord plus frais",
+          "Appartements avec kitchenette pour cuisiner soi-même",
+          "À distance de marche du Loro Parque",
+          "Près du complexe de piscines Lago Martianez",
+          "Ville de caractère à la vraie vie canarienne",
           "Excellente base pour le Teide et la verdure du nord"
         ],
         "it": [
@@ -3730,8 +3730,8 @@
         ],
         "fr": [
           "Ville authentique, pas une zone touristique artificielle",
-          "La piscine interieure depanne quand les nuages arrivent",
-          "Loro Parque et Lago Martianez tous deux tout pres"
+          "La piscine intérieure dépanne quand les nuages arrivent",
+          "Loro Parque et Lago Martianez tous deux tout près"
         ],
         "it": [
           "Cittadina autentica, non una zona turistica costruita apposta",
@@ -3761,9 +3761,9 @@
           "No kids club or organised entertainment"
         ],
         "fr": [
-          "La cote nord est plus nuageuse et plus fraiche que le sud",
+          "La côte nord est plus nuageuse et plus fraîche que le sud",
           "Les plages locales sont de sable volcanique noir",
-          "Pas de club enfants ni d'animation organisee"
+          "Pas de club enfants ni d'animation organisée"
         ],
         "it": [
           "La costa nord è più nuvolosa e fresca del sud",
@@ -3788,7 +3788,7 @@
       },
       "verdict": {
         "en": "For families who want the greener, more authentic north with Loro Parque on the doorstep and a kitchen of their own.",
-        "fr": "Pour les familles qui veulent le nord plus vert et plus authentique, avec le Loro Parque au pied de l'hotel et une cuisine a soi.",
+        "fr": "Pour les familles qui veulent le nord plus vert et plus authentique, avec le Loro Parque au pied de l'hôtel et une cuisine à soi.",
         "it": "Per le famiglie che vogliono il nord più verde e autentico, con il Loro Parque a due passi e una cucina tutta loro.",
         "de": "Für Familien, die den grüneren, authentischeren Norden mit dem Loro Parque vor der Tür und einer eigenen Küche wollen.",
         "es": "Para familias que quieren el norte más verde y auténtico, con Loro Parque a la puerta y una cocina propia.",
@@ -3796,7 +3796,7 @@
       },
       "parentTip": {
         "en": "Pack a light jumper for evenings; the north is noticeably cooler and can cloud over even when the south is baking. The Lago Martianez pools are a great wet-weather backup.",
-        "fr": "Prevoyez un petit pull pour les soirees; le nord est nettement plus frais et peut se couvrir meme quand le sud est brulant. Les piscines du Lago Martianez sont un bon plan de repli par temps couvert.",
+        "fr": "Prévoyez un petit pull pour les soirées; le nord est nettement plus frais et peut se couvrir même quand le sud est brûlant. Les piscines du Lago Martianez sont un bon plan de repli par temps couvert.",
         "it": "Portate una felpa leggera per la sera; il nord è nettamente più fresco e può coprirsi anche quando il sud è rovente. Le piscine del Lago Martianez sono un'ottima alternativa per il maltempo.",
         "de": "Packen Sie für die Abende einen leichten Pullover ein; der Norden ist merklich kühler und kann sich bewölken, selbst wenn der Süden glüht. Die Pools des Lago Martianez sind eine tolle Ausweichlösung bei schlechtem Wetter.",
         "es": "Llevad un jersey ligero para las noches; el norte es notablemente más fresco y puede nublarse aunque el sur esté ardiendo. Las piscinas de Lago Martianez son un gran plan B con mal tiempo.",
@@ -3815,7 +3815,7 @@
           },
           "value": {
             "en": "Walking distance",
-            "fr": "A distance de marche",
+            "fr": "À distance de marche",
             "it": "A distanza di passeggiata",
             "de": "In Gehweite",
             "es": "A poca distancia a pie",
@@ -3834,7 +3834,7 @@
           },
           "value": {
             "en": "Indoor and outdoor",
-            "fr": "Interieure et exterieure",
+            "fr": "Intérieure et extérieure",
             "it": "Interna ed esterna",
             "de": "Innen und außen",
             "es": "Interior y exterior",
@@ -3912,7 +3912,7 @@
           },
           "detail": {
             "en": "One of Europe's best animal parks, an easy walk or bus away.",
-            "fr": "L'un des meilleurs parcs animaliers d'Europe, a pied ou en bus facilement.",
+            "fr": "L'un des meilleurs parcs animaliers d'Europe, à pied ou en bus facilement.",
             "it": "Uno dei migliori parchi animali d'Europa, raggiungibile facilmente a piedi o in bus.",
             "de": "Einer der besten Tierparks Europas, bequem zu Fuß oder mit dem Bus erreichbar.",
             "es": "Uno de los mejores parques de animales de Europa, a un paseo o un bus fácil.",
@@ -3925,7 +3925,7 @@
           ],
           "time": {
             "en": "Full day",
-            "fr": "Journee entiere",
+            "fr": "Journée entière",
             "it": "Giornata intera",
             "de": "Ganzer Tag",
             "es": "Día completo",
@@ -3944,7 +3944,7 @@
           },
           "detail": {
             "en": "A vast saltwater pool complex right by the sea.",
-            "fr": "Un vaste complexe de piscines d'eau de mer au bord de l'ocean.",
+            "fr": "Un vaste complexe de piscines d'eau de mer au bord de l'océan.",
             "it": "Un vasto complesso di piscine di acqua salata proprio in riva al mare.",
             "de": "Ein riesiger Salzwasser-Poolkomplex direkt am Meer.",
             "es": "Un vasto complejo de piscinas de agua salada junto al mar.",
@@ -3956,7 +3956,7 @@
           ],
           "time": {
             "en": "Half day",
-            "fr": "Demi-journee",
+            "fr": "Demi-journée",
             "it": "Mezza giornata",
             "de": "Halber Tag",
             "es": "Medio día",
@@ -3975,7 +3975,7 @@
           },
           "detail": {
             "en": "Drive up to Spain's highest peak and its cable car.",
-            "fr": "Montez au plus haut sommet d'Espagne et son telepherique.",
+            "fr": "Montez au plus haut sommet d'Espagne et son téléphérique.",
             "it": "Salite in auto alla vetta più alta di Spagna e alla sua funivia.",
             "de": "Fahren Sie zum höchsten Gipfel Spaniens und seiner Seilbahn hinauf.",
             "es": "Subid en coche al pico más alto de España y su teleférico.",
@@ -3987,7 +3987,7 @@
           ],
           "time": {
             "en": "Full day",
-            "fr": "Journee entiere",
+            "fr": "Journée entière",
             "it": "Giornata intera",
             "de": "Ganzer Tag",
             "es": "Día completo",
@@ -4006,7 +4006,7 @@
           },
           "detail": {
             "en": "A shady green wander for a cooler afternoon.",
-            "fr": "Une balade verte et ombragee pour un apres-midi plus frais.",
+            "fr": "Une balade verte et ombragée pour un après-midi plus frais.",
             "it": "Una passeggiata verde e ombrosa per un pomeriggio più fresco.",
             "de": "Ein schattiger grüner Spaziergang für einen kühleren Nachmittag.",
             "es": "Un paseo verde y sombreado para una tarde más fresca.",
@@ -4017,7 +4017,7 @@
           ],
           "time": {
             "en": "Afternoon",
-            "fr": "Apres-midi",
+            "fr": "Après-midi",
             "it": "Pomeriggio",
             "de": "Nachmittag",
             "es": "Tarde",
@@ -4030,7 +4030,7 @@
           "time": "8:30",
           "title": {
             "en": "Breakfast in the apartment",
-            "fr": "Petit-dejeuner dans l'appartement",
+            "fr": "Petit-déjeuner dans l'appartement",
             "it": "Colazione in appartamento",
             "de": "Frühstück im Apartment",
             "es": "Desayuno en el apartamento",
@@ -4038,7 +4038,7 @@
           },
           "note": {
             "en": "Kitchenette start before a big day out.",
-            "fr": "Depart a la kitchenette avant une grosse journee.",
+            "fr": "Départ à la kitchenette avant une grosse journée.",
             "it": "Partenza all'angolo cottura prima di una grande giornata fuori.",
             "de": "Start an der Kochnische vor einem großen Ausflugstag.",
             "es": "Un comienzo en la cocina americana antes de un gran día fuera.",
@@ -4068,7 +4068,7 @@
           "time": "14:00",
           "title": {
             "en": "Lunch and rest",
-            "fr": "Dejeuner et repos",
+            "fr": "Déjeuner et repos",
             "it": "Pranzo e riposo",
             "de": "Mittagessen und Ruhe",
             "es": "Almuerzo y descanso",
@@ -4076,7 +4076,7 @@
           },
           "note": {
             "en": "Back for lunch and a quieter hour.",
-            "fr": "Retour pour le dejeuner et une heure plus calme.",
+            "fr": "Retour pour le déjeuner et une heure plus calme.",
             "it": "Rientro per il pranzo e un'ora più tranquilla.",
             "de": "Zurück zum Mittagessen und einer ruhigeren Stunde.",
             "es": "De vuelta para almorzar y una hora más tranquila.",
@@ -4095,7 +4095,7 @@
           },
           "note": {
             "en": "Cool off in the seawater pools.",
-            "fr": "Se rafraichir dans les piscines d'eau de mer.",
+            "fr": "Se rafraîchir dans les piscines d'eau de mer.",
             "it": "Rinfrescatevi nelle piscine di acqua marina.",
             "de": "Abkühlung in den Meerwasserpools.",
             "es": "Refrescaos en las piscinas de agua de mar.",
@@ -4106,7 +4106,7 @@
           "time": "19:00",
           "title": {
             "en": "Old town dinner",
-            "fr": "Diner dans la vieille ville",
+            "fr": "Dîner dans la vieille ville",
             "it": "Cena nel centro storico",
             "de": "Abendessen in der Altstadt",
             "es": "Cena en el casco antiguo",
@@ -4114,7 +4114,7 @@
           },
           "note": {
             "en": "Eat where locals do in the harbour streets.",
-            "fr": "Mangez la ou vont les locaux, dans les rues du port.",
+            "fr": "Mangez là où vont les locaux, dans les rues du port.",
             "it": "Mangiate dove vanno i locali, nelle vie del porto.",
             "de": "Essen Sie, wo die Einheimischen essen, in den Hafengassen.",
             "es": "Comed donde comen los locales, en las calles del puerto.",
@@ -4125,7 +4125,7 @@
       "ageNotes": {
         "toddler": {
           "en": "Fine with a kitchen and the indoor pool, though the cooler, cloudier north suits active days over beach lounging.",
-          "fr": "Bien avec une cuisine et la piscine interieure, meme si le nord plus frais et nuageux convient mieux aux journees actives qu'au farniente sur la plage.",
+          "fr": "Bien avec une cuisine et la piscine intérieure, même si le nord plus frais et nuageux convient mieux aux journées actives qu'au farniente sur la plage.",
           "it": "Bene con una cucina e la piscina interna, anche se il nord più fresco e nuvoloso si presta più alle giornate attive che al relax in spiaggia.",
           "de": "Gut mit Küche und Innenpool, auch wenn der kühlere, wolkigere Norden eher zu aktiven Tagen als zum Strandfaulenzen passt.",
           "es": "Bien con cocina y la piscina interior, aunque el norte más fresco y nuboso va mejor con días activos que con tumbarse en la playa.",
@@ -4133,7 +4133,7 @@
         },
         "kid": {
           "en": "Great age for Loro Parque, Lago Martianez and Teide from this base.",
-          "fr": "Bel age pour le Loro Parque, le Lago Martianez et le Teide depuis cette base.",
+          "fr": "Bel âge pour le Loro Parque, le Lago Martianez et le Teide depuis cette base.",
           "it": "Bell'età per il Loro Parque, il Lago Martianez e il Teide da questa base.",
           "de": "Tolles Alter für Loro Parque, Lago Martianez und Teide von dieser Basis aus.",
           "es": "Gran edad para Loro Parque, Lago Martianez y el Teide desde esta base.",
@@ -4141,7 +4141,7 @@
         },
         "teen": {
           "en": "Teens enjoy the real-town feel, the seawater pools and exploring the greener north.",
-          "fr": "Les ados apprecient l'ambiance de vraie ville, les piscines d'eau de mer et l'exploration du nord plus vert.",
+          "fr": "Les ados apprécient l'ambiance de vraie ville, les piscines d'eau de mer et l'exploration du nord plus vert.",
           "it": "Ai ragazzi piacciono l'atmosfera di vera cittadina, le piscine di acqua marina e l'esplorazione del nord più verde.",
           "de": "Teenager mögen das Gefühl einer echten Stadt, die Meerwasserpools und das Erkunden des grüneren Nordens.",
           "es": "A los adolescentes les gusta el ambiente de pueblo de verdad, las piscinas de agua de mar y explorar el norte más verde.",
@@ -4178,7 +4178,7 @@
           },
           "a": {
             "en": "It is within walking distance, with a free little train linking it to the town centre.",
-            "fr": "Il est a distance de marche, avec un petit train gratuit qui le relie au centre-ville.",
+            "fr": "Il est à distance de marche, avec un petit train gratuit qui le relie au centre-ville.",
             "it": "È a distanza di passeggiata, con un piccolo trenino gratuito che lo collega al centro città.",
             "de": "Es liegt in Gehweite, mit einer kostenlosen kleinen Bahn zum Stadtzentrum.",
             "es": "Está a poca distancia a pie, con un trenecito gratuito que lo une al centro.",
@@ -4196,7 +4196,7 @@
           },
           "a": {
             "en": "Local beaches are black volcanic sand; many families prefer the Lago Martianez pool complex.",
-            "fr": "Les plages locales sont de sable volcanique noir; beaucoup de familles preferent le complexe de piscines Lago Martianez.",
+            "fr": "Les plages locales sont de sable volcanique noir; beaucoup de familles préfèrent le complexe de piscines Lago Martianez.",
             "it": "Le spiagge locali sono di sabbia vulcanica nera; molte famiglie preferiscono il complesso di piscine Lago Martianez.",
             "de": "Die örtlichen Strände haben schwarzen Vulkansand; viele Familien bevorzugen den Poolkomplex Lago Martianez.",
             "es": "Las playas locales son de arena volcánica negra; muchas familias prefieren el complejo de piscinas Lago Martianez.",
@@ -4252,7 +4252,7 @@
       },
       "roomsSummary": {
         "en": "Bungalow and apartment-style units with equipped kitchens, private terraces and a separate bedroom, set in green gardens. Calm, spacious and made for young families who cook.",
-        "fr": "Bungalows et appartements avec cuisine equipee, terrasses privees et chambre separee, dans des jardins verdoyants. Calmes, spacieux et penses pour les jeunes familles qui cuisinent.",
+        "fr": "Bungalows et appartements avec cuisine équipée, terrasses privées et chambre séparée, dans des jardins verdoyants. Calmes, spacieux et pensés pour les jeunes familles qui cuisinent.",
         "it": "Unità in stile bungalow e appartamento con cucine attrezzate, terrazze private e camera separata, immerse in giardini verdi. Tranquille, spaziose e pensate per le giovani famiglie che cucinano.",
         "de": "Bungalow- und apartmentähnliche Einheiten mit ausgestatteten Küchen, privaten Terrassen und separatem Schlafzimmer, in grüne Gärten eingebettet. Ruhig, geräumig und gemacht für junge Familien, die kochen.",
         "es": "Unidades tipo bungaló y apartamento con cocinas equipadas, terrazas privadas y dormitorio independiente, entre jardines verdes. Tranquilas, amplias y pensadas para familias jóvenes que cocinan.",
@@ -4260,7 +4260,7 @@
       },
       "intro": {
         "en": "Callao Salvaje is a quiet, low-rise resort tucked on the coast between Costa Adeje and Playa Paraiso, and Ona Sueno Azul is its garden aparthotel with heated pools and a small sheltered cove nearby. It is a calm, self-catering choice for families with babies and toddlers who want peace over party.",
-        "fr": "Callao Salvaje est une station calme et peu construite, nichee sur la cote entre Costa Adeje et Playa Paraiso, et l'Ona Sueno Azul en est l'aparthotel-jardin, avec piscines chauffees et une petite crique abritee tout pres. C'est un choix calme et autonome pour les familles avec bebes et tout-petits qui preferent la tranquillite a la fete.",
+        "fr": "Callao Salvaje est une station calme et peu construite, nichée sur la côte entre Costa Adeje et Playa Paraiso, et l'Ona Sueno Azul en est l'aparthôtel-jardin, avec piscines chauffées et une petite crique abritée tout près. C'est un choix calme et autonome pour les familles avec bébés et tout-petits qui préfèrent la tranquillité à la fête.",
         "it": "Callao Salvaje è una località tranquilla e a bassa densità nascosta sulla costa tra Costa Adeje e Playa Paraiso, e l'Ona Sueno Azul ne è l'aparthotel-giardino con piscine riscaldate e una piccola cala riparata lì vicino. È una scelta tranquilla, con cucina propria, per le famiglie con neonati e bambini piccoli che preferiscono la pace alla festa.",
         "de": "Callao Salvaje ist ein ruhiger, niedrig bebauter Ort an der Küste zwischen Costa Adeje und Playa Paraiso, und das Ona Sueno Azul ist sein Garten-Aparthotel mit beheizten Pools und einer kleinen geschützten Bucht in der Nähe. Eine ruhige Wahl mit Selbstverpflegung für Familien mit Babys und Kleinkindern, die Ruhe statt Party wollen.",
         "es": "Callao Salvaje es una zona tranquila y de baja altura escondida en la costa entre Costa Adeje y Playa Paraiso, y el Ona Sueno Azul es su aparthotel ajardinado con piscinas climatizadas y una pequeña cala resguardada cerca. Una opción tranquila y con cocina para familias con bebés y niños pequeños que prefieren la paz a la fiesta.",
@@ -4276,12 +4276,12 @@
           "Short drive to Costa Adeje and its parks"
         ],
         "fr": [
-          "Piscine chauffee ouverte toute l'annee, plus un bassin enfants",
-          "Cuisines equipees pour cuisiner en famille",
+          "Piscine chauffée ouverte toute l'année, plus un bassin enfants",
+          "Cuisines équipées pour cuisiner en famille",
           "Jardins verts et peu construits avec aire de jeux",
-          "Pres d'une petite crique abritee",
+          "Près d'une petite crique abritée",
           "Station calme, loin de la foule",
-          "Courte route jusqu'a Costa Adeje et ses parcs"
+          "Courte route jusqu'à Costa Adeje et ses parcs"
         ],
         "it": [
           "Piscina riscaldata aperta tutto l'anno, più una per bambini",
@@ -4323,9 +4323,9 @@
           "Kitchens and space at a fair price"
         ],
         "fr": [
-          "Vraiment calme et verdoyant, ideal pour les petits",
-          "Piscines chauffees meme en hiver",
-          "Cuisines et espace a prix juste"
+          "Vraiment calme et verdoyant, idéal pour les petits",
+          "Piscines chauffées même en hiver",
+          "Cuisines et espace à prix juste"
         ],
         "it": [
           "Davvero tranquillo e verde, ottimo per i più piccoli",
@@ -4357,7 +4357,7 @@
         "fr": [
           "La plage la plus proche est une petite crique de sable sombre et galets",
           "Station calme avec peu d'animation sur place",
-          "Une voiture est conseillee pour en profiter pleinement"
+          "Une voiture est conseillée pour en profiter pleinement"
         ],
         "it": [
           "La spiaggia più vicina è una piccola cala con sabbia scura e ciottoli",
@@ -4382,7 +4382,7 @@
       },
       "verdict": {
         "en": "A peaceful, green self-catering base for families with young children who want calm days and heated pools.",
-        "fr": "Une base verte et paisible pour cuisiner soi-meme, pour les familles avec jeunes enfants qui veulent des journees calmes et des piscines chauffees.",
+        "fr": "Une base verte et paisible pour cuisiner soi-même, pour les familles avec jeunes enfants qui veulent des journées calmes et des piscines chauffées.",
         "it": "Una base verde e tranquilla con cucina propria per le famiglie con bambini piccoli che vogliono giornate calme e piscine riscaldate.",
         "de": "Eine ruhige, grüne Basis mit Selbstverpflegung für Familien mit kleinen Kindern, die ruhige Tage und beheizte Pools wollen.",
         "es": "Una base verde y tranquila con cocina para familias con niños pequeños que quieren días de calma y piscinas climatizadas.",
@@ -4409,7 +4409,7 @@
           },
           "value": {
             "en": "Heated year round, kids pool too",
-            "fr": "Chauffee toute l'annee, bassin enfants aussi",
+            "fr": "Chauffée toute l'année, bassin enfants aussi",
             "it": "Riscaldata tutto l'anno, anche piscina per bambini",
             "de": "Ganzjährig beheizt, auch Kinderpool",
             "es": "Climatizada todo el año, también piscina infantil",
@@ -4428,7 +4428,7 @@
           },
           "value": {
             "en": "Equipped kitchen in every unit",
-            "fr": "Cuisine equipee dans chaque logement",
+            "fr": "Cuisine équipée dans chaque logement",
             "it": "Cucina attrezzata in ogni unità",
             "de": "Ausgestattete Küche in jeder Einheit",
             "es": "Cocina equipada en cada unidad",
@@ -4466,7 +4466,7 @@
           },
           "value": {
             "en": "Small sheltered cove nearby",
-            "fr": "Petite crique abritee tout pres",
+            "fr": "Petite crique abritée tout près",
             "it": "Piccola cala riparata nelle vicinanze",
             "de": "Kleine geschützte Bucht in der Nähe",
             "es": "Pequeña cala resguardada cerca",
@@ -4477,7 +4477,7 @@
           "icon": "🚗",
           "label": {
             "en": "Getting around",
-            "fr": "Deplacements",
+            "fr": "Déplacements",
             "it": "Spostamenti",
             "de": "Mobilität",
             "es": "Desplazamientos",
@@ -4485,7 +4485,7 @@
           },
           "value": {
             "en": "Car recommended",
-            "fr": "Voiture conseillee",
+            "fr": "Voiture conseillée",
             "it": "Auto consigliata",
             "de": "Auto empfohlen",
             "es": "Coche recomendado",
@@ -4498,7 +4498,7 @@
           "emoji": "🏊",
           "name": {
             "en": "Heated pool play",
-            "fr": "Baignade en piscine chauffee",
+            "fr": "Baignade en piscine chauffée",
             "it": "Giochi in piscina riscaldata",
             "de": "Spaß im beheizten Pool",
             "es": "Juegos en piscina climatizada",
@@ -4506,7 +4506,7 @@
           },
           "detail": {
             "en": "Warm water and a children's pool, good even in winter.",
-            "fr": "Eau chaude et bassin enfants, agreables meme en hiver.",
+            "fr": "Eau chaude et bassin enfants, agréables même en hiver.",
             "it": "Acqua calda e una piscina per bambini, piacevoli anche in inverno.",
             "de": "Warmes Wasser und ein Kinderpool, auch im Winter angenehm.",
             "es": "Agua cálida y una piscina infantil, agradables incluso en invierno.",
@@ -4530,7 +4530,7 @@
           "emoji": "🏖️",
           "name": {
             "en": "Cove morning",
-            "fr": "Matinee a la crique",
+            "fr": "Matinée à la crique",
             "it": "Mattina in cala",
             "de": "Vormittag in der Bucht",
             "es": "Mañana en la cala",
@@ -4538,7 +4538,7 @@
           },
           "detail": {
             "en": "A small, sheltered bay for a calm dip.",
-            "fr": "Une petite baie abritee pour une baignade tranquille.",
+            "fr": "Une petite baie abritée pour une baignade tranquille.",
             "it": "Una piccola baia riparata per un bagno tranquillo.",
             "de": "Eine kleine, geschützte Bucht für ein ruhiges Bad.",
             "es": "Una pequeña bahía resguardada para un baño tranquilo.",
@@ -4561,7 +4561,7 @@
           "emoji": "🐠",
           "name": {
             "en": "Siam Park day",
-            "fr": "Journee au Siam Park",
+            "fr": "Journée au Siam Park",
             "it": "Giornata al Siam Park",
             "de": "Tag im Siam Park",
             "es": "Día en el Siam Park",
@@ -4569,7 +4569,7 @@
           },
           "detail": {
             "en": "The famous water park is a 15 minute drive away.",
-            "fr": "Le celebre parc aquatique est a 15 minutes en voiture.",
+            "fr": "Le célèbre parc aquatique est à 15 minutes en voiture.",
             "it": "Il famoso parco acquatico è a 15 minuti in auto.",
             "de": "Der berühmte Wasserpark ist 15 Autominuten entfernt.",
             "es": "El famoso parque acuático está a 15 minutos en coche.",
@@ -4580,7 +4580,7 @@
           ],
           "time": {
             "en": "Full day",
-            "fr": "Journee entiere",
+            "fr": "Journée entière",
             "it": "Giornata intera",
             "de": "Ganzer Tag",
             "es": "Día completo",
@@ -4599,7 +4599,7 @@
           },
           "detail": {
             "en": "The coastal path west catches a lovely evening light.",
-            "fr": "Le sentier cotier vers l'ouest offre une belle lumiere du soir.",
+            "fr": "Le sentier côtier vers l'ouest offre une belle lumière du soir.",
             "it": "Il sentiero costiero verso ovest cattura una bella luce serale.",
             "de": "Der Küstenweg nach Westen fängt ein schönes Abendlicht ein.",
             "es": "El sendero costero hacia el oeste capta una bonita luz del atardecer.",
@@ -4624,7 +4624,7 @@
           "time": "8:30",
           "title": {
             "en": "Breakfast on the terrace",
-            "fr": "Petit-dejeuner sur la terrasse",
+            "fr": "Petit-déjeuner sur la terrasse",
             "it": "Colazione in terrazza",
             "de": "Frühstück auf der Terrasse",
             "es": "Desayuno en la terraza",
@@ -4632,7 +4632,7 @@
           },
           "note": {
             "en": "Quiet garden start with the little ones.",
-            "fr": "Debut tranquille au jardin avec les petits.",
+            "fr": "Début tranquille au jardin avec les petits.",
             "it": "Inizio tranquillo in giardino con i più piccoli.",
             "de": "Ruhiger Start im Garten mit den Kleinen.",
             "es": "Un comienzo tranquilo en el jardín con los peques.",
@@ -4643,7 +4643,7 @@
           "time": "10:00",
           "title": {
             "en": "Pool morning",
-            "fr": "Matinee piscine",
+            "fr": "Matinée piscine",
             "it": "Mattina in piscina",
             "de": "Vormittag am Pool",
             "es": "Mañana de piscina",
@@ -4651,7 +4651,7 @@
           },
           "note": {
             "en": "Heated water while the resort is calm.",
-            "fr": "Eau chauffee pendant que la station est calme.",
+            "fr": "Eau chauffée pendant que la station est calme.",
             "it": "Acqua riscaldata mentre la struttura è tranquilla.",
             "de": "Beheiztes Wasser, solange die Anlage ruhig ist.",
             "es": "Agua climatizada mientras el complejo está tranquilo.",
@@ -4662,7 +4662,7 @@
           "time": "13:00",
           "title": {
             "en": "Lunch and nap",
-            "fr": "Dejeuner et sieste",
+            "fr": "Déjeuner et sieste",
             "it": "Pranzo e nanna",
             "de": "Mittagessen und Schläfchen",
             "es": "Almuerzo y siesta",
@@ -4670,7 +4670,7 @@
           },
           "note": {
             "en": "Cook in and let the baby sleep properly.",
-            "fr": "Cuisiner sur place et laisser le bebe dormir vraiment.",
+            "fr": "Cuisiner sur place et laisser le bébé dormir vraiment.",
             "it": "Cucinate in casa e lasciate dormire bene il neonato.",
             "de": "Kochen Sie drinnen und lassen Sie das Baby richtig schlafen.",
             "es": "Cocinad en casa y dejad que el bebé duerma bien.",
@@ -4689,7 +4689,7 @@
           },
           "note": {
             "en": "The cove nearby or a beach in Costa Adeje.",
-            "fr": "La crique tout pres ou une plage a Costa Adeje.",
+            "fr": "La crique tout près ou une plage à Costa Adeje.",
             "it": "La cala lì vicino o una spiaggia a Costa Adeje.",
             "de": "Die nahe Bucht oder ein Strand in Costa Adeje.",
             "es": "La cala cercana o una playa en Costa Adeje.",
@@ -4700,7 +4700,7 @@
           "time": "19:00",
           "title": {
             "en": "Dinner in the gardens",
-            "fr": "Diner dans les jardins",
+            "fr": "Dîner dans les jardins",
             "it": "Cena nei giardini",
             "de": "Abendessen in den Gärten",
             "es": "Cena en los jardines",
@@ -4708,7 +4708,7 @@
           },
           "note": {
             "en": "Simple meal in or the on-site cafe.",
-            "fr": "Repas simple chez soi ou au cafe de la residence.",
+            "fr": "Repas simple chez soi ou au café de la résidence.",
             "it": "Pasto semplice in casa o al bar della struttura.",
             "de": "Einfaches Essen drinnen oder im Café der Anlage.",
             "es": "Comida sencilla en casa o en la cafetería del complejo.",
@@ -4719,7 +4719,7 @@
       "ageNotes": {
         "baby": {
           "en": "Calm gardens, a kitchen and heated pools make this genuinely baby-friendly. Cots on request.",
-          "fr": "Jardins calmes, cuisine et piscines chauffees le rendent vraiment adapte aux bebes. Lits parapluie sur demande.",
+          "fr": "Jardins calmes, cuisine et piscines chauffées le rendent vraiment adapté aux bébés. Lits parapluie sur demande.",
           "it": "Giardini tranquilli, una cucina e piscine riscaldate lo rendono davvero adatto ai neonati. Culle su richiesta.",
           "de": "Ruhige Gärten, eine Küche und beheizte Pools machen es wirklich babyfreundlich. Reisebetten auf Anfrage.",
           "es": "Jardines tranquilos, una cocina y piscinas climatizadas lo hacen de verdad apto para bebés. Cunas bajo petición.",
@@ -4727,7 +4727,7 @@
         },
         "toddler": {
           "en": "The children's pool and a sheltered cove suit toddlers, with a playground on site.",
-          "fr": "Le bassin enfants et une crique abritee conviennent aux tout-petits, avec une aire de jeux sur place.",
+          "fr": "Le bassin enfants et une crique abritée conviennent aux tout-petits, avec une aire de jeux sur place.",
           "it": "La piscina per bambini e una cala riparata si addicono ai più piccoli, con un'area giochi in loco.",
           "de": "Der Kinderpool und eine geschützte Bucht passen zu Kleinkindern, mit einem Spielplatz vor Ort.",
           "es": "La piscina infantil y una cala resguardada van bien con los peques, con zona de juegos en el complejo.",
@@ -4735,7 +4735,7 @@
         },
         "kid": {
           "en": "Fine for younger kids who like the pool; older ones may want more to do without a car.",
-          "fr": "Bien pour les jeunes enfants qui aiment la piscine; les plus grands voudront plus d'activites sans voiture.",
+          "fr": "Bien pour les jeunes enfants qui aiment la piscine; les plus grands voudront plus d'activités sans voiture.",
           "it": "Bene per i bambini più piccoli che amano la piscina; i più grandi vorranno più cose da fare senza un'auto.",
           "de": "Gut für jüngere Kinder, die den Pool mögen; Ältere wollen ohne Auto vielleicht mehr Programm.",
           "es": "Bien para niños más pequeños a los que les gusta la piscina; los mayores querrán más que hacer sin coche.",
@@ -4746,7 +4746,7 @@
         {
           "q": {
             "en": "Is the pool heated?",
-            "fr": "La piscine est-elle chauffee?",
+            "fr": "La piscine est-elle chauffée?",
             "it": "La piscina è riscaldata?",
             "de": "Ist der Pool beheizt?",
             "es": "¿La piscina está climatizada?",
@@ -4754,7 +4754,7 @@
           },
           "a": {
             "en": "Yes, there is a year-round heated pool plus a heated children's pool, useful in the cooler months.",
-            "fr": "Oui, il y a une piscine chauffee toute l'annee plus un bassin enfants chauffe, utile a la saison fraiche.",
+            "fr": "Oui, il y a une piscine chauffée toute l'année plus un bassin enfants chauffé, utile à la saison fraîche.",
             "it": "Sì, c'è una piscina riscaldata tutto l'anno più una piscina per bambini riscaldata, utile nei mesi più freschi.",
             "de": "Ja, es gibt einen ganzjährig beheizten Pool sowie einen beheizten Kinderpool, praktisch in den kühleren Monaten.",
             "es": "Sí, hay una piscina climatizada todo el año más una piscina infantil climatizada, útil en los meses más frescos.",
@@ -4772,7 +4772,7 @@
           },
           "a": {
             "en": "It is recommended; a car makes the bigger beaches, Siam Park and Costa Adeje easy in about 15 minutes.",
-            "fr": "Elle est conseillee; une voiture rend les grandes plages, le Siam Park et Costa Adeje accessibles en 15 minutes environ.",
+            "fr": "Elle est conseillée; une voiture rend les grandes plages, le Siam Park et Costa Adeje accessibles en 15 minutes environ.",
             "it": "È consigliata; un'auto rende facili le spiagge più grandi, il Siam Park e Costa Adeje in circa 15 minuti.",
             "de": "Es wird empfohlen; mit dem Auto sind die größeren Strände, der Siam Park und Costa Adeje in etwa 15 Minuten erreichbar.",
             "es": "Se recomienda; un coche hace fáciles las playas más grandes, el Siam Park y Costa Adeje en unos 15 minutos.",
@@ -4790,7 +4790,7 @@
           },
           "a": {
             "en": "The nearest is a small sheltered cove with darker sand and pebbles, calm but modest in size.",
-            "fr": "La plus proche est une petite crique abritee au sable plus sombre et aux galets, calme mais de taille modeste.",
+            "fr": "La plus proche est une petite crique abritée au sable plus sombre et aux galets, calme mais de taille modeste.",
             "it": "La più vicina è una piccola cala riparata con sabbia più scura e ciottoli, tranquilla ma di dimensioni modeste.",
             "de": "Der nächste ist eine kleine geschützte Bucht mit dunklerem Sand und Kieseln, ruhig, aber bescheiden in der Größe.",
             "es": "La más cercana es una pequeña cala resguardada con arena más oscura y guijarros, tranquila pero de tamaño modesto.",
@@ -4803,7 +4803,7 @@
   "destinationMeta": {
     "heroKicker": {
       "en": "Year-round sun, an hour from a volcano",
-      "fr": "Du soleil toute l'annee, a une heure d'un volcan",
+      "fr": "Du soleil toute l'année, à une heure d'un volcan",
       "it": "Sole tutto l'anno, a un'ora da un vulcano",
       "de": "Ganzjährig Sonne, eine Stunde von einem Vulkan",
       "es": "Sol todo el año, a una hora de un volcán",
@@ -4811,7 +4811,7 @@
     },
     "intro": {
       "en": "Tenerife is Europe's most reliable winter-sun island for families, warm even in January, with calm sandy beaches in the sheltered south and the snow-capped Mount Teide inland. Add Siam Park, whale watching offshore and Loro Parque in the north and you have a destination that works for babies through to teens. The short flight and gentle time difference make it a genuinely easy family trip.",
-      "fr": "Tenerife est l'ile europeenne la plus fiable pour le soleil d'hiver en famille, douce meme en janvier, avec des plages de sable calmes dans le sud abrite et le Teide enneige a l'interieur. Ajoutez le Siam Park, l'observation des baleines au large et le Loro Parque au nord, et vous avez une destination qui convient du bebe a l'adolescent. Le vol court et le decalage horaire minime en font des vacances familiales vraiment faciles.",
+      "fr": "Tenerife est l'île européenne la plus fiable pour le soleil d'hiver en famille, douce même en janvier, avec des plages de sable calmes dans le sud abrité et le Teide enneigé à l'intérieur. Ajoutez le Siam Park, l'observation des baleines au large et le Loro Parque au nord, et vous avez une destination qui convient du bébé à l'adolescent. Le vol court et le décalage horaire minime en font des vacances familiales vraiment faciles.",
       "it": "Tenerife è l'isola europea più affidabile per il sole invernale in famiglia, calda anche a gennaio, con spiagge di sabbia tranquille nel sud riparato e il Teide innevato all'interno. Aggiungete il Siam Park, l'avvistamento delle balene al largo e il Loro Parque a nord e avrete una destinazione che funziona dai neonati agli adolescenti. Il volo breve e il minimo fuso orario ne fanno una vacanza in famiglia davvero facile.",
       "de": "Teneriffa ist Europas verlässlichste Insel für Wintersonne mit Familie, warm sogar im Januar, mit ruhigen Sandstränden im geschützten Süden und dem schneebedeckten Teide im Landesinneren. Dazu der Siam Park, Walbeobachtung vor der Küste und der Loro Parque im Norden, und Sie haben ein Ziel, das vom Baby bis zum Teenager passt. Der kurze Flug und die geringe Zeitverschiebung machen es zu einer wirklich unkomplizierten Familienreise.",
       "es": "Tenerife es la isla europea más fiable para el sol de invierno en familia, cálida incluso en enero, con playas de arena tranquilas en el sur resguardado y el Teide nevado en el interior. Sumad el Siam Park, el avistamiento de ballenas mar adentro y Loro Parque en el norte y tenéis un destino que funciona desde bebés hasta adolescentes. El vuelo corto y la escasa diferencia horaria lo convierten en un viaje familiar de verdad fácil.",
@@ -4825,10 +4825,10 @@
         "Nature up close: whale and dolphin boat trips offshore, Loro Parque's animals in the north and the volcanic drama of Mount Teide."
       ],
       "fr": [
-        "Soleil toute l'annee: le sud reste chaud et sec meme au coeur de l'hiver, ideal pour une escapade aux vacances de fevrier.",
-        "Siam Park: regulierement elu meilleur parc aquatique du monde, avec des zones douces pour les tout-petits et des sensations pour les ados.",
-        "Plages du sud calmes: baies abritees a pente douce comme Los Cristianos et Fanabe, sures pour les premieres baignades.",
-        "La nature de pres: sorties en bateau pour voir baleines et dauphins, animaux du Loro Parque au nord et decor volcanique du Teide."
+        "Soleil toute l'année: le sud reste chaud et sec même au coeur de l'hiver, idéal pour une escapade aux vacances de février.",
+        "Siam Park: régulièrement élu meilleur parc aquatique du monde, avec des zones douces pour les tout-petits et des sensations pour les ados.",
+        "Plages du sud calmes: baies abritées à pente douce comme Los Cristianos et Fanabe, sûres pour les premières baignades.",
+        "La nature de près: sorties en bateau pour voir baleines et dauphins, animaux du Loro Parque au nord et décor volcanique du Teide."
       ],
       "it": [
         "Sole tutto l'anno: il sud resta caldo e asciutto anche nel cuore dell'inverno, ideale per una fuga alle vacanze di febbraio.",
@@ -4862,8 +4862,8 @@
         "Puerto de la Cruz: the greener, more authentic north, cooler but home to Loro Parque and the Lago Martianez pools."
       ],
       "fr": [
-        "Costa Adeje: le coeur familial soigne, avec les meilleurs complexes, les plages de sable les plus calmes et un acces facile au Siam Park.",
-        "Los Cristianos: une ville decontractee avec la plage abritee la plus douce du sud, ideale pour les bebes et pour cuisiner soi-meme.",
+        "Costa Adeje: le coeur familial soigné, avec les meilleurs complexes, les plages de sable les plus calmes et un accès facile au Siam Park.",
+        "Los Cristianos: une ville décontractée avec la plage abritée la plus douce du sud, idéale pour les bébés et pour cuisiner soi-même.",
         "Puerto de la Cruz: le nord plus vert et plus authentique, plus frais mais abritant le Loro Parque et les piscines du Lago Martianez."
       ],
       "it": [
@@ -4892,7 +4892,7 @@
         "value": "12",
         "label": {
           "en": "months of swimming weather",
-          "fr": "mois de temps propice a la baignade",
+          "fr": "mois de temps propice à la baignade",
           "it": "mesi di clima adatto al bagno",
           "de": "Monate mit Badewetter",
           "es": "meses de clima para bañarse",
@@ -4935,7 +4935,7 @@
         },
         "detail": {
           "en": "A Thai-themed water park with a wave pool, lazy river and toddler zone as well as big slides.",
-          "fr": "Un parc aquatique a theme thailandais avec piscine a vagues, riviere lente et zone tout-petits en plus des grands toboggans.",
+          "fr": "Un parc aquatique à thème thaïlandais avec piscine à vagues, rivière lente et zone tout-petits en plus des grands toboggans.",
           "it": "Un parco acquatico a tema thailandese con piscina a onde, fiume lento e zona per i più piccoli oltre ai grandi scivoli.",
           "de": "Ein thailändisch gestalteter Wasserpark mit Wellenbad, Strömungskanal und Kleinkindzone sowie großen Rutschen.",
           "es": "Un parque acuático de temática tailandesa con piscina de olas, río lento y zona infantil además de grandes toboganes.",
@@ -4948,7 +4948,7 @@
         ],
         "time": {
           "en": "Full day",
-          "fr": "Journee entiere",
+          "fr": "Journée entière",
           "it": "Giornata intera",
           "de": "Ganzer Tag",
           "es": "Día completo",
@@ -4967,7 +4967,7 @@
         },
         "detail": {
           "en": "Resident pilot whales and dolphins live year round off the south coast, an easy boat trip.",
-          "fr": "Globicephales et dauphins vivent toute l'annee au large de la cote sud, une sortie en bateau facile.",
+          "fr": "Globicéphales et dauphins vivent toute l'année au large de la côte sud, une sortie en bateau facile.",
           "it": "Globicefali e delfini stanziali vivono tutto l'anno al largo della costa sud, con una gita in barca facile.",
           "de": "Ansässige Grindwale und Delfine leben das ganze Jahr vor der Südküste, ein einfacher Bootsausflug.",
           "es": "Calderones y delfines residentes viven todo el año frente a la costa sur, con una excursión en barco fácil.",
@@ -4979,7 +4979,7 @@
         ],
         "time": {
           "en": "Half day",
-          "fr": "Demi-journee",
+          "fr": "Demi-journée",
           "it": "Mezza giornata",
           "de": "Halber Tag",
           "es": "Medio día",
@@ -4990,7 +4990,7 @@
         "emoji": "🌋",
         "name": {
           "en": "Teide cable car",
-          "fr": "Telepherique du Teide",
+          "fr": "Téléphérique du Teide",
           "it": "Funivia del Teide",
           "de": "Teide-Seilbahn",
           "es": "Teleférico del Teide",
@@ -4998,7 +4998,7 @@
         },
         "detail": {
           "en": "Ride up Spain's highest volcano through a lunar landscape of lava fields.",
-          "fr": "Montez le plus haut volcan d'Espagne a travers un paysage lunaire de champs de lave.",
+          "fr": "Montez le plus haut volcan d'Espagne à travers un paysage lunaire de champs de lave.",
           "it": "Salite sul vulcano più alto di Spagna attraverso un paesaggio lunare di campi di lava.",
           "de": "Fahren Sie auf Spaniens höchsten Vulkan durch eine Mondlandschaft aus Lavafeldern.",
           "es": "Subid al volcán más alto de España a través de un paisaje lunar de campos de lava.",
@@ -5010,7 +5010,7 @@
         ],
         "time": {
           "en": "Full day",
-          "fr": "Journee entiere",
+          "fr": "Journée entière",
           "it": "Giornata intera",
           "de": "Ganzer Tag",
           "es": "Día completo",
@@ -5042,7 +5042,7 @@
         ],
         "time": {
           "en": "Full day",
-          "fr": "Journee entiere",
+          "fr": "Journée entière",
           "it": "Giornata intera",
           "de": "Ganzer Tag",
           "es": "Día completo",
@@ -5054,7 +5054,7 @@
       {
         "q": {
           "en": "When is the best time to visit Tenerife with kids?",
-          "fr": "Quelle est la meilleure periode pour visiter Tenerife avec des enfants?",
+          "fr": "Quelle est la meilleure période pour visiter Tenerife avec des enfants?",
           "it": "Qual è il periodo migliore per visitare Tenerife con i bambini?",
           "de": "Wann besucht man Teneriffa am besten mit Kindern?",
           "es": "¿Cuál es la mejor época para visitar Tenerife con niños?",
@@ -5062,7 +5062,7 @@
         },
         "a": {
           "en": "Any time; the south is warm and dry year round. Winter is the standout, offering reliable sun when much of Europe is cold.",
-          "fr": "N'importe quand; le sud est chaud et sec toute l'annee. L'hiver est le grand atout, avec un soleil fiable quand une grande partie de l'Europe grelotte.",
+          "fr": "N'importe quand; le sud est chaud et sec toute l'année. L'hiver est le grand atout, avec un soleil fiable quand une grande partie de l'Europe grelotte.",
           "it": "In qualsiasi momento; il sud è caldo e asciutto tutto l'anno. L'inverno è il periodo clou, con sole affidabile quando gran parte dell'Europa è al freddo.",
           "de": "Jederzeit; der Süden ist ganzjährig warm und trocken. Der Winter sticht heraus, mit verlässlicher Sonne, wenn große Teile Europas frieren.",
           "es": "En cualquier momento; el sur es cálido y seco todo el año. El invierno destaca, con sol fiable cuando gran parte de Europa pasa frío.",
@@ -5072,7 +5072,7 @@
       {
         "q": {
           "en": "Are the beaches safe for young children?",
-          "fr": "Les plages sont-elles sures pour les jeunes enfants?",
+          "fr": "Les plages sont-elles sûres pour les jeunes enfants?",
           "it": "Le spiagge sono sicure per i bambini piccoli?",
           "de": "Sind die Strände für kleine Kinder sicher?",
           "es": "¿Las playas son seguras para niños pequeños?",
@@ -5080,7 +5080,7 @@
         },
         "a": {
           "en": "The sheltered southern beaches such as Los Cristianos and Fanabe are calm and gently shelving; note that many natural beaches have black volcanic sand.",
-          "fr": "Les plages abritees du sud comme Los Cristianos et Fanabe sont calmes et a pente douce; notez que beaucoup de plages naturelles ont du sable volcanique noir.",
+          "fr": "Les plages abritées du sud comme Los Cristianos et Fanabe sont calmes et à pente douce; notez que beaucoup de plages naturelles ont du sable volcanique noir.",
           "it": "Le spiagge riparate del sud come Los Cristianos e Fanabe sono tranquille e digradano dolcemente; tenete presente che molte spiagge naturali hanno sabbia vulcanica nera.",
           "de": "Die geschützten Strände im Süden wie Los Cristianos und Fanabe sind ruhig und fallen sanft ab; beachten Sie, dass viele Naturstrände schwarzen Vulkansand haben.",
           "es": "Las playas resguardadas del sur como Los Cristianos y Fanabe son tranquilas y de suave entrada; ten en cuenta que muchas playas naturales tienen arena volcánica negra.",
@@ -5098,7 +5098,7 @@
         },
         "a": {
           "en": "Not if you base yourself in a walkable resort town, but a car opens up Teide, the north and quieter beaches easily.",
-          "fr": "Pas si vous logez dans une station accessible a pied, mais une voiture ouvre facilement l'acces au Teide, au nord et aux plages plus calmes.",
+          "fr": "Pas si vous logez dans une station accessible à pied, mais une voiture ouvre facilement l'accès au Teide, au nord et aux plages plus calmes.",
           "it": "No se alloggiate in una cittadina turistica comoda a piedi, ma un'auto apre facilmente il Teide, il nord e le spiagge più tranquille.",
           "de": "Nicht, wenn Sie sich in einem fußläufigen Ferienort einquartieren, aber ein Auto erschließt Teide, den Norden und ruhigere Strände mühelos.",
           "es": "No si os alojáis en un pueblo turístico andable, pero un coche abre fácilmente el Teide, el norte y las playas más tranquilas.",
@@ -5108,7 +5108,7 @@
     ],
     "parentTip": {
       "en": "Base yourself in the sunny south for beach days, then hire a car for a day or two to see Teide and the green north; the island changes completely from coast to summit.",
-      "fr": "Installez-vous dans le sud ensoleille pour les journees plage, puis louez une voiture un jour ou deux pour voir le Teide et le nord verdoyant; l'ile change du tout au tout de la cote au sommet.",
+      "fr": "Installez-vous dans le sud ensoleillé pour les journées plage, puis louez une voiture un jour ou deux pour voir le Teide et le nord verdoyant; l'île change du tout au tout de la côte au sommet.",
       "it": "Alloggiate nel sud soleggiato per le giornate in spiaggia, poi noleggiate un'auto per un giorno o due per vedere il Teide e il nord verde; l'isola cambia completamente dalla costa alla vetta.",
       "de": "Quartieren Sie sich für Strandtage im sonnigen Süden ein und mieten Sie für ein oder zwei Tage ein Auto, um den Teide und den grünen Norden zu sehen; die Insel verändert sich von der Küste bis zum Gipfel völlig.",
       "es": "Alojaos en el soleado sur para los días de playa y luego alquilad un coche uno o dos días para ver el Teide y el norte verde; la isla cambia por completo de la costa a la cumbre.",
@@ -5116,7 +5116,7 @@
     },
     "goodToKnow": {
       "en": "Many of Tenerife's natural beaches are black volcanic sand, which gets hot underfoot, so pack water shoes; the golden-sand family beaches in Costa Adeje are largely imported. The south is reliably sunny while the north can be cloudier and cooler.",
-      "fr": "Beaucoup de plages naturelles de Tenerife sont de sable volcanique noir, qui chauffe sous les pieds, prevoyez donc des chaussures d'eau; les plages familiales de sable dore de Costa Adeje sont en grande partie rapportees. Le sud est ensoleille de facon fiable tandis que le nord peut etre plus nuageux et plus frais.",
+      "fr": "Beaucoup de plages naturelles de Tenerife sont de sable volcanique noir, qui chauffe sous les pieds, prévoyez donc des chaussures d'eau; les plages familiales de sable doré de Costa Adeje sont en grande partie rapportées. Le sud est ensoleillé de façon fiable tandis que le nord peut être plus nuageux et plus frais.",
       "it": "Molte spiagge naturali di Tenerife sono di sabbia vulcanica nera, che scotta sotto i piedi, quindi portate scarpette da scoglio; le spiagge familiari di sabbia dorata di Costa Adeje sono in gran parte riportate. Il sud è soleggiato in modo affidabile mentre il nord può essere più nuvoloso e fresco.",
       "de": "Viele Naturstrände Teneriffas haben schwarzen Vulkansand, der unter den Füßen heiß wird, packen Sie also Badeschuhe ein; die goldenen Familienstrände in Costa Adeje sind großteils aufgeschüttet. Der Süden ist verlässlich sonnig, während der Norden wolkiger und kühler sein kann.",
       "es": "Muchas playas naturales de Tenerife son de arena volcánica negra, que quema bajo los pies, así que llevad escarpines; las playas familiares de arena dorada de Costa Adeje son en gran parte de aporte. El sur es fiablemente soleado mientras que el norte puede ser más nuboso y fresco.",

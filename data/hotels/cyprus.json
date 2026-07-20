@@ -269,7 +269,7 @@
           "emoji": "🛝",
           "name": {
             "en": "Waterpark day",
-            "fr": "Journee parc aquatique",
+            "fr": "Journée parc aquatique",
             "it": "Giornata al parco acquatico",
             "de": "Wasserpark-Tag",
             "es": "Día de parque acuático",
@@ -290,7 +290,7 @@
           ],
           "time": {
             "en": "Daytime",
-            "fr": "En journee",
+            "fr": "En journée",
             "it": "Di giorno",
             "de": "Tagsüber",
             "es": "De día",
@@ -351,7 +351,7 @@
           ],
           "time": {
             "en": "Early evening",
-            "fr": "En debut de soiree",
+            "fr": "En début de soirée",
             "it": "Primo pomeriggio-sera",
             "de": "Früher Abend",
             "es": "Al caer la tarde",
@@ -364,7 +364,7 @@
           "time": "8:00",
           "title": {
             "en": "Breakfast buffet",
-            "fr": "Petit-dejeuner buffet",
+            "fr": "Petit-déjeuner buffet",
             "it": "Colazione a buffet",
             "de": "Frühstücksbuffet",
             "es": "Bufé de desayuno",
@@ -402,7 +402,7 @@
           "time": "13:00",
           "title": {
             "en": "Lunch and rest",
-            "fr": "Dejeuner et repos",
+            "fr": "Déjeuner et repos",
             "it": "Pranzo e riposo",
             "de": "Mittagessen und Ruhe",
             "es": "Comida y descanso",
@@ -800,7 +800,7 @@
           "emoji": "🏖️",
           "name": {
             "en": "Beach paddling",
-            "fr": "Baignade a la plage",
+            "fr": "Baignade à la plage",
             "it": "Sguazzare in spiaggia",
             "de": "Planschen am Strand",
             "es": "Chapoteo en la playa",
@@ -821,7 +821,7 @@
           ],
           "time": {
             "en": "Anytime",
-            "fr": "A tout moment",
+            "fr": "À tout moment",
             "it": "In qualsiasi momento",
             "de": "Jederzeit",
             "es": "En cualquier momento",
@@ -852,7 +852,7 @@
           ],
           "time": {
             "en": "Daytime",
-            "fr": "En journee",
+            "fr": "En journée",
             "it": "Di giorno",
             "de": "Tagsüber",
             "es": "De día",
@@ -883,7 +883,7 @@
           ],
           "time": {
             "en": "Afternoon",
-            "fr": "L'apres-midi",
+            "fr": "L'après-midi",
             "it": "Pomeriggio",
             "de": "Nachmittag",
             "es": "Tarde",
@@ -934,7 +934,7 @@
           "time": "13:30",
           "title": {
             "en": "Lunch and quiet time",
-            "fr": "Dejeuner et temps calme",
+            "fr": "Déjeuner et temps calme",
             "it": "Pranzo e momento di quiete",
             "de": "Mittagessen und Ruhezeit",
             "es": "Comida y rato de calma",
@@ -1351,7 +1351,7 @@
           ],
           "time": {
             "en": "Daytime",
-            "fr": "En journee",
+            "fr": "En journée",
             "it": "Di giorno",
             "de": "Tagsüber",
             "es": "De día",
@@ -1382,7 +1382,7 @@
           ],
           "time": {
             "en": "Evening",
-            "fr": "En soiree",
+            "fr": "En soirée",
             "it": "Sera",
             "de": "Abend",
             "es": "Noche",
@@ -1413,7 +1413,7 @@
           ],
           "time": {
             "en": "Late afternoon",
-            "fr": "En fin d'apres-midi",
+            "fr": "En fin d'après-midi",
             "it": "Tardo pomeriggio",
             "de": "Später Nachmittag",
             "es": "Al final de la tarde",
@@ -1426,7 +1426,7 @@
           "time": "8:00",
           "title": {
             "en": "All-inclusive breakfast",
-            "fr": "Petit-dejeuner tout compris",
+            "fr": "Petit-déjeuner tout compris",
             "it": "Colazione all-inclusive",
             "de": "All-inclusive-Frühstück",
             "es": "Desayuno todo incluido",
@@ -1464,7 +1464,7 @@
           "time": "13:00",
           "title": {
             "en": "Lunch and shade",
-            "fr": "Dejeuner et ombre",
+            "fr": "Déjeuner et ombre",
             "it": "Pranzo e ombra",
             "de": "Mittagessen und Schatten",
             "es": "Comida y sombra",
@@ -1840,7 +1840,7 @@
           "icon": "🎭",
           "label": {
             "en": "Evenings",
-            "fr": "Soirees",
+            "fr": "Soirées",
             "it": "Sere",
             "de": "Abends",
             "es": "Noches",
@@ -1913,7 +1913,7 @@
           ],
           "time": {
             "en": "Daytime",
-            "fr": "En journee",
+            "fr": "En journée",
             "it": "Di giorno",
             "de": "Tagsüber",
             "es": "De día",
@@ -1944,7 +1944,7 @@
           ],
           "time": {
             "en": "Evening",
-            "fr": "En soiree",
+            "fr": "En soirée",
             "it": "Sera",
             "de": "Abend",
             "es": "Noche",
@@ -1957,7 +1957,7 @@
           "time": "8:00",
           "title": {
             "en": "Buffet breakfast",
-            "fr": "Petit-dejeuner buffet",
+            "fr": "Petit-déjeuner buffet",
             "it": "Colazione a buffet",
             "de": "Frühstücksbuffet",
             "es": "Desayuno bufé",
@@ -1995,7 +1995,7 @@
           "time": "13:00",
           "title": {
             "en": "Lunch and downtime",
-            "fr": "Dejeuner et temps calme",
+            "fr": "Déjeuner et temps calme",
             "it": "Pranzo e pausa",
             "de": "Mittagessen und Auszeit",
             "es": "Comida y rato de calma",
@@ -2414,7 +2414,7 @@
           ],
           "time": {
             "en": "Anytime",
-            "fr": "A tout moment",
+            "fr": "À tout moment",
             "it": "In qualsiasi momento",
             "de": "Jederzeit",
             "es": "En cualquier momento",
@@ -2445,7 +2445,7 @@
           ],
           "time": {
             "en": "Daytime",
-            "fr": "En journee",
+            "fr": "En journée",
             "it": "Di giorno",
             "de": "Tagsüber",
             "es": "De día",
@@ -2476,7 +2476,7 @@
           ],
           "time": {
             "en": "Late afternoon",
-            "fr": "En fin d'apres-midi",
+            "fr": "En fin d'après-midi",
             "it": "Tardo pomeriggio",
             "de": "Später Nachmittag",
             "es": "Al final de la tarde",
@@ -2527,7 +2527,7 @@
           "time": "13:30",
           "title": {
             "en": "Lunch and shade",
-            "fr": "Dejeuner et ombre",
+            "fr": "Déjeuner et ombre",
             "it": "Pranzo e ombra",
             "de": "Mittagessen und Schatten",
             "es": "Comida y sombra",
@@ -2976,7 +2976,7 @@
           ],
           "time": {
             "en": "Anytime",
-            "fr": "A tout moment",
+            "fr": "À tout moment",
             "it": "In qualsiasi momento",
             "de": "Jederzeit",
             "es": "En cualquier momento",
@@ -3007,7 +3007,7 @@
           ],
           "time": {
             "en": "Early evening",
-            "fr": "En debut de soiree",
+            "fr": "En début de soirée",
             "it": "Primo pomeriggio-sera",
             "de": "Früher Abend",
             "es": "Al caer la tarde",
@@ -3020,7 +3020,7 @@
           "time": "8:00",
           "title": {
             "en": "Kitchen breakfast",
-            "fr": "Petit-dejeuner maison",
+            "fr": "Petit-déjeuner maison",
             "it": "Colazione in cucina",
             "de": "Frühstück aus der Küche",
             "es": "Desayuno en la cocina",
@@ -3477,7 +3477,7 @@
           ],
           "time": {
             "en": "Daytime",
-            "fr": "En journee",
+            "fr": "En journée",
             "it": "Di giorno",
             "de": "Tagsüber",
             "es": "De día",
@@ -3508,7 +3508,7 @@
           ],
           "time": {
             "en": "Daytime",
-            "fr": "En journee",
+            "fr": "En journée",
             "it": "Di giorno",
             "de": "Tagsüber",
             "es": "De día",
@@ -3536,7 +3536,7 @@
           "ages": [],
           "time": {
             "en": "Anytime",
-            "fr": "A tout moment",
+            "fr": "À tout moment",
             "it": "In qualsiasi momento",
             "de": "Jederzeit",
             "es": "En cualquier momento",
@@ -3549,7 +3549,7 @@
           "time": "8:00",
           "title": {
             "en": "Leisurely breakfast",
-            "fr": "Petit-dejeuner tranquille",
+            "fr": "Petit-déjeuner tranquille",
             "it": "Colazione con calma",
             "de": "Gemütliches Frühstück",
             "es": "Desayuno sin prisas",
@@ -3625,7 +3625,7 @@
           "time": "19:30",
           "title": {
             "en": "Family dinner",
-            "fr": "Diner en famille",
+            "fr": "Dîner en famille",
             "it": "Cena in famiglia",
             "de": "Familienabendessen",
             "es": "Cena en familia",
@@ -4006,7 +4006,7 @@
           ],
           "time": {
             "en": "Anytime",
-            "fr": "A tout moment",
+            "fr": "À tout moment",
             "it": "In qualsiasi momento",
             "de": "Jederzeit",
             "es": "En cualquier momento",
@@ -4038,7 +4038,7 @@
           ],
           "time": {
             "en": "Daytime",
-            "fr": "En journee",
+            "fr": "En journée",
             "it": "Di giorno",
             "de": "Tagsüber",
             "es": "De día",
@@ -4069,7 +4069,7 @@
           ],
           "time": {
             "en": "Half day",
-            "fr": "Demi-journee",
+            "fr": "Demi-journée",
             "it": "Mezza giornata",
             "de": "Halber Tag",
             "es": "Media jornada",
@@ -4082,7 +4082,7 @@
           "time": "8:30",
           "title": {
             "en": "Sea-view breakfast",
-            "fr": "Petit-dejeuner vue mer",
+            "fr": "Petit-déjeuner vue mer",
             "it": "Colazione vista mare",
             "de": "Frühstück mit Meerblick",
             "es": "Desayuno con vistas al mar",
@@ -4120,7 +4120,7 @@
           "time": "13:00",
           "title": {
             "en": "Lunch and rest",
-            "fr": "Dejeuner et repos",
+            "fr": "Déjeuner et repos",
             "it": "Pranzo e riposo",
             "de": "Mittagessen und Ruhe",
             "es": "Comida y descanso",
@@ -4158,7 +4158,7 @@
           "time": "19:30",
           "title": {
             "en": "Early family dinner",
-            "fr": "Diner familial tot",
+            "fr": "Dîner familial tôt",
             "it": "Cena in famiglia presto",
             "de": "Frühes Familienabendessen",
             "es": "Cena familiar temprana",
@@ -4230,7 +4230,7 @@
         {
           "q": {
             "en": "Is it good with babies?",
-            "fr": "Est-ce adapte aux bebes ?",
+            "fr": "Est-ce adapté aux bébés ?",
             "it": "Va bene con i neonati?",
             "de": "Ist es gut für Babys?",
             "es": "¿Está bien con bebés?",
@@ -4407,7 +4407,7 @@
         ],
         "time": {
           "en": "Full day",
-          "fr": "Journee entiere",
+          "fr": "Journée entière",
           "it": "Giornata intera",
           "de": "Ganzer Tag",
           "es": "Jornada completa",
@@ -4440,7 +4440,7 @@
         ],
         "time": {
           "en": "Anytime",
-          "fr": "A tout moment",
+          "fr": "À tout moment",
           "it": "In qualsiasi momento",
           "de": "Jederzeit",
           "es": "En cualquier momento",
@@ -4471,7 +4471,7 @@
         ],
         "time": {
           "en": "Half day",
-          "fr": "Demi-journee",
+          "fr": "Demi-journée",
           "it": "Mezza giornata",
           "de": "Halber Tag",
           "es": "Media jornada",
@@ -4502,7 +4502,7 @@
         ],
         "time": {
           "en": "Half day",
-          "fr": "Demi-journee",
+          "fr": "Demi-journée",
           "it": "Mezza giornata",
           "de": "Halber Tag",
           "es": "Media jornada",
@@ -4514,7 +4514,7 @@
       {
         "q": {
           "en": "When is the best time to go with children?",
-          "fr": "Quelle est la meilleure periode avec des enfants ?",
+          "fr": "Quelle est la meilleure période avec des enfants ?",
           "it": "Qual è il periodo migliore per andare con i bambini?",
           "de": "Wann ist die beste Reisezeit mit Kindern?",
           "es": "¿Cuál es la mejor época para ir con niños?",

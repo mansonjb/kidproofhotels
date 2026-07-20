@@ -197,7 +197,7 @@
           "icon": "🛏️",
           "label": {
             "en": "Sleeps",
-            "fr": "Capacite",
+            "fr": "Capacité",
             "it": "Posti letto",
             "de": "Belegung",
             "es": "Capacidad",
@@ -254,7 +254,7 @@
           "icon": "🚇",
           "label": {
             "en": "Metro",
-            "fr": "Metro",
+            "fr": "Métro",
             "it": "Metro",
             "de": "Metro",
             "es": "Metro",
@@ -273,7 +273,7 @@
           "icon": "🍼",
           "label": {
             "en": "Baby gear",
-            "fr": "Materiel bebe",
+            "fr": "Matériel bébé",
             "it": "Attrezzatura bebè",
             "de": "Baby-Ausstattung",
             "es": "Equipo para bebés",
@@ -281,7 +281,7 @@
           },
           "value": {
             "en": "Free cots, high chairs on request",
-            "fr": "Lits bebe gratuits, chaises hautes sur demande",
+            "fr": "Lits bébé gratuits, chaises hautes sur demande",
             "it": "Culle gratuite, seggioloni su richiesta",
             "de": "Babybetten kostenlos, Hochstühle auf Anfrage",
             "es": "Cunas gratuitas, tronas a petición",
@@ -347,7 +347,7 @@
           ],
           "time": {
             "en": "Half day",
-            "fr": "Demi-journee",
+            "fr": "Demi-journée",
             "it": "Mezza giornata",
             "de": "Halber Tag",
             "es": "Medio día",
@@ -380,7 +380,7 @@
           ],
           "time": {
             "en": "Half day",
-            "fr": "Demi-journee",
+            "fr": "Demi-journée",
             "it": "Mezza giornata",
             "de": "Halber Tag",
             "es": "Medio día",
@@ -424,7 +424,7 @@
           "time": "8:30",
           "title": {
             "en": "Breakfast with a sea view",
-            "fr": "Petit-dejeuner face a la mer",
+            "fr": "Petit-déjeuner face à la mer",
             "it": "Colazione con vista mare",
             "de": "Frühstück mit Meerblick",
             "es": "Desayuno con vistas al mar",
@@ -443,7 +443,7 @@
           "time": "10:00",
           "title": {
             "en": "Beach and sandcastles",
-            "fr": "Plage et chateaux de sable",
+            "fr": "Plage et châteaux de sable",
             "it": "Spiaggia e castelli di sabbia",
             "de": "Strand und Sandburgen",
             "es": "Playa y castillos de arena",
@@ -462,7 +462,7 @@
           "time": "13:00",
           "title": {
             "en": "Poolside lunch",
-            "fr": "Dejeuner au bord de la piscine",
+            "fr": "Déjeuner au bord de la piscine",
             "it": "Pranzo a bordo piscina",
             "de": "Mittagessen am Pool",
             "es": "Almuerzo junto a la piscina",
@@ -470,7 +470,7 @@
           },
           "note": {
             "en": "Sharing plates while the kids swim between courses.",
-            "fr": "Des plats a partager pendant que les enfants nagent entre deux services.",
+            "fr": "Des plats à partager pendant que les enfants nagent entre deux services.",
             "it": "Piatti da condividere mentre i bambini nuotano tra una portata e l'altra.",
             "de": "Gerichte zum Teilen, während die Kinder zwischen den Gängen schwimmen.",
             "es": "Platos para compartir mientras los niños nadan entre plato y plato.",
@@ -802,7 +802,7 @@
           "icon": "🛏️",
           "label": {
             "en": "Sleeps",
-            "fr": "Capacite",
+            "fr": "Capacité",
             "it": "Posti letto",
             "de": "Belegung",
             "es": "Capacidad",
@@ -878,7 +878,7 @@
           "icon": "🍼",
           "label": {
             "en": "Baby gear",
-            "fr": "Materiel bebe",
+            "fr": "Matériel bébé",
             "it": "Attrezzatura bebè",
             "de": "Baby-Ausstattung",
             "es": "Equipo para bebés",
@@ -921,7 +921,7 @@
           ],
           "time": {
             "en": "Half day",
-            "fr": "Demi-journee",
+            "fr": "Demi-journée",
             "it": "Mezza giornata",
             "de": "Halber Tag",
             "es": "Medio día",
@@ -1048,7 +1048,7 @@
           "time": "11:00",
           "title": {
             "en": "Beach morning",
-            "fr": "Matinee plage",
+            "fr": "Matinée plage",
             "it": "Mattinata in spiaggia",
             "de": "Strandvormittag",
             "es": "Mañana de playa",
@@ -1159,7 +1159,7 @@
         {
           "q": {
             "en": "Is it good for very young children?",
-            "fr": "Est-ce adapte aux tres jeunes enfants ?",
+            "fr": "Est-ce adapté aux très jeunes enfants ?",
             "it": "È adatto ai bambini molto piccoli?",
             "de": "Ist es für ganz kleine Kinder geeignet?",
             "es": "¿Es adecuado para niños muy pequeños?",
@@ -1408,7 +1408,7 @@
           "icon": "🛏️",
           "label": {
             "en": "Sleeps",
-            "fr": "Capacite",
+            "fr": "Capacité",
             "it": "Posti letto",
             "de": "Belegung",
             "es": "Capacidad",
@@ -1484,7 +1484,7 @@
           "icon": "🍼",
           "label": {
             "en": "Baby gear",
-            "fr": "Materiel bebe",
+            "fr": "Matériel bébé",
             "it": "Attrezzatura bebè",
             "de": "Baby-Ausstattung",
             "es": "Equipo para bebés",
@@ -1559,7 +1559,7 @@
           ],
           "time": {
             "en": "Half day",
-            "fr": "Demi-journee",
+            "fr": "Demi-journée",
             "it": "Mezza giornata",
             "de": "Halber Tag",
             "es": "Medio día",
@@ -1591,7 +1591,7 @@
           ],
           "time": {
             "en": "Half day",
-            "fr": "Demi-journee",
+            "fr": "Demi-journée",
             "it": "Mezza giornata",
             "de": "Halber Tag",
             "es": "Medio día",
@@ -1623,7 +1623,7 @@
           ],
           "time": {
             "en": "Half day",
-            "fr": "Demi-journee",
+            "fr": "Demi-journée",
             "it": "Mezza giornata",
             "de": "Halber Tag",
             "es": "Medio día",
@@ -1636,7 +1636,7 @@
           "time": "8:30",
           "title": {
             "en": "Buffet breakfast",
-            "fr": "Petit-dejeuner buffet",
+            "fr": "Petit-déjeuner buffet",
             "it": "Colazione a buffet",
             "de": "Frühstücksbuffet",
             "es": "Desayuno bufé",
@@ -2013,7 +2013,7 @@
           "icon": "🛏️",
           "label": {
             "en": "Sleeps",
-            "fr": "Capacite",
+            "fr": "Capacité",
             "it": "Posti letto",
             "de": "Belegung",
             "es": "Capacidad",
@@ -2070,7 +2070,7 @@
           "icon": "🚇",
           "label": {
             "en": "Metro",
-            "fr": "Metro",
+            "fr": "Métro",
             "it": "Metro",
             "de": "Metro",
             "es": "Metro",
@@ -2089,7 +2089,7 @@
           "icon": "🍼",
           "label": {
             "en": "Baby gear",
-            "fr": "Materiel bebe",
+            "fr": "Matériel bébé",
             "it": "Attrezzatura bebè",
             "de": "Baby-Ausstattung",
             "es": "Equipo para bebés",
@@ -2305,7 +2305,7 @@
           },
           "note": {
             "en": "Cool off during the hottest hours.",
-            "fr": "On se rafraichit aux heures les plus chaudes.",
+            "fr": "On se rafraîchit aux heures les plus chaudes.",
             "it": "Rinfrescatevi nelle ore più calde.",
             "de": "Kühlen Sie sich in den heißesten Stunden ab.",
             "es": "Refrescaos durante las horas de más calor.",
@@ -2619,7 +2619,7 @@
           "icon": "🛏️",
           "label": {
             "en": "Sleeps",
-            "fr": "Capacite",
+            "fr": "Capacité",
             "it": "Posti letto",
             "de": "Belegung",
             "es": "Capacidad",
@@ -2676,7 +2676,7 @@
           "icon": "🚇",
           "label": {
             "en": "Metro",
-            "fr": "Metro",
+            "fr": "Métro",
             "it": "Metro",
             "de": "Metro",
             "es": "Metro",
@@ -2695,7 +2695,7 @@
           "icon": "🍼",
           "label": {
             "en": "Baby gear",
-            "fr": "Materiel bebe",
+            "fr": "Matériel bébé",
             "it": "Attrezzatura bebè",
             "de": "Baby-Ausstattung",
             "es": "Equipo para bebés",
@@ -2738,7 +2738,7 @@
           ],
           "time": {
             "en": "Half day",
-            "fr": "Demi-journee",
+            "fr": "Demi-journée",
             "it": "Mezza giornata",
             "de": "Halber Tag",
             "es": "Medio día",
@@ -2770,7 +2770,7 @@
           ],
           "time": {
             "en": "Half day",
-            "fr": "Demi-journee",
+            "fr": "Demi-journée",
             "it": "Mezza giornata",
             "de": "Halber Tag",
             "es": "Medio día",
@@ -2846,7 +2846,7 @@
           "time": "8:30",
           "title": {
             "en": "Breakfast then beach",
-            "fr": "Petit-dejeuner puis plage",
+            "fr": "Petit-déjeuner puis plage",
             "it": "Prima colazione, poi spiaggia",
             "de": "Erst Frühstück, dann Strand",
             "es": "Primero desayuno, luego playa",
@@ -2976,7 +2976,7 @@
         {
           "q": {
             "en": "How close is the beach?",
-            "fr": "A quelle distance est la plage ?",
+            "fr": "À quelle distance est la plage ?",
             "it": "Quanto è vicina la spiaggia?",
             "de": "Wie nah ist der Strand?",
             "es": "¿A qué distancia está la playa?",
@@ -3012,7 +3012,7 @@
         {
           "q": {
             "en": "Is it good value?",
-            "fr": "Le rapport qualite-prix est-il bon ?",
+            "fr": "Le rapport qualité-prix est-il bon ?",
             "it": "Ha un buon rapporto qualità-prezzo?",
             "de": "Stimmt das Preis-Leistungs-Verhältnis?",
             "es": "¿Tiene buena relación calidad-precio?",
@@ -3226,7 +3226,7 @@
           "icon": "🛏️",
           "label": {
             "en": "Sleeps",
-            "fr": "Capacite",
+            "fr": "Capacité",
             "it": "Posti letto",
             "de": "Belegung",
             "es": "Capacidad",
@@ -3302,7 +3302,7 @@
           "icon": "🍼",
           "label": {
             "en": "Baby gear",
-            "fr": "Materiel bebe",
+            "fr": "Matériel bébé",
             "it": "Attrezzatura bebè",
             "de": "Baby-Ausstattung",
             "es": "Equipo para bebés",
@@ -3345,7 +3345,7 @@
           ],
           "time": {
             "en": "Half day",
-            "fr": "Demi-journee",
+            "fr": "Demi-journée",
             "it": "Mezza giornata",
             "de": "Halber Tag",
             "es": "Medio día",
@@ -3409,7 +3409,7 @@
           ],
           "time": {
             "en": "Half day",
-            "fr": "Demi-journee",
+            "fr": "Demi-journée",
             "it": "Mezza giornata",
             "de": "Halber Tag",
             "es": "Medio día",
@@ -3453,7 +3453,7 @@
           "time": "8:00",
           "title": {
             "en": "Breakfast in the apartment",
-            "fr": "Petit-dejeuner dans l'appartement",
+            "fr": "Petit-déjeuner dans l'appartement",
             "it": "Colazione in appartamento",
             "de": "Frühstück in der Wohnung",
             "es": "Desayuno en el apartamento",
@@ -3472,7 +3472,7 @@
           "time": "9:30",
           "title": {
             "en": "Beach morning",
-            "fr": "Matinee plage",
+            "fr": "Matinée plage",
             "it": "Mattinata in spiaggia",
             "de": "Strandvormittag",
             "es": "Mañana de playa",
@@ -3830,7 +3830,7 @@
           "icon": "🛏️",
           "label": {
             "en": "Sleeps",
-            "fr": "Capacite",
+            "fr": "Capacité",
             "it": "Posti letto",
             "de": "Belegung",
             "es": "Capacidad",
@@ -3906,7 +3906,7 @@
           "icon": "🍼",
           "label": {
             "en": "Baby gear",
-            "fr": "Materiel bebe",
+            "fr": "Matériel bébé",
             "it": "Attrezzatura bebè",
             "de": "Baby-Ausstattung",
             "es": "Equipo para bebés",
@@ -4056,7 +4056,7 @@
           "time": "8:30",
           "title": {
             "en": "Breakfast then walk out",
-            "fr": "Petit-dejeuner puis on sort",
+            "fr": "Petit-déjeuner puis on sort",
             "it": "Colazione e poi si esce a piedi",
             "de": "Frühstück und dann zu Fuß los",
             "es": "Desayuno y luego a salir a pie",
@@ -4433,7 +4433,7 @@
           "icon": "🛏️",
           "label": {
             "en": "Sleeps",
-            "fr": "Capacite",
+            "fr": "Capacité",
             "it": "Posti letto",
             "de": "Belegung",
             "es": "Capacidad",
@@ -4452,7 +4452,7 @@
           "icon": "🥐",
           "label": {
             "en": "Breakfast",
-            "fr": "Petit-dejeuner",
+            "fr": "Petit-déjeuner",
             "it": "Colazione",
             "de": "Frühstück",
             "es": "Desayuno",
@@ -4471,7 +4471,7 @@
           "icon": "🚇",
           "label": {
             "en": "Metro",
-            "fr": "Metro",
+            "fr": "Métro",
             "it": "Metro",
             "de": "Metro",
             "es": "Metro",
@@ -4509,7 +4509,7 @@
           "icon": "🍼",
           "label": {
             "en": "Baby gear",
-            "fr": "Materiel bebe",
+            "fr": "Matériel bébé",
             "it": "Attrezzatura bebè",
             "de": "Baby-Ausstattung",
             "es": "Equipo para bebés",
@@ -4552,7 +4552,7 @@
           ],
           "time": {
             "en": "Half day",
-            "fr": "Demi-journee",
+            "fr": "Demi-journée",
             "it": "Mezza giornata",
             "de": "Halber Tag",
             "es": "Medio día",
@@ -4584,7 +4584,7 @@
           ],
           "time": {
             "en": "Half day",
-            "fr": "Demi-journee",
+            "fr": "Demi-journée",
             "it": "Mezza giornata",
             "de": "Halber Tag",
             "es": "Medio día",
@@ -5117,7 +5117,7 @@
         ],
         "time": {
           "en": "Half day",
-          "fr": "Demi-journee",
+          "fr": "Demi-journée",
           "it": "Mezza giornata",
           "de": "Halber Tag",
           "es": "Medio día",
@@ -5180,7 +5180,7 @@
         ],
         "time": {
           "en": "Full day",
-          "fr": "Journee entiere",
+          "fr": "Journée entière",
           "it": "Giornata intera",
           "de": "Ganzer Tag",
           "es": "Día completo",
@@ -5210,7 +5210,7 @@
       {
         "q": {
           "en": "When is the best time to visit with kids?",
-          "fr": "Quelle est la meilleure periode pour venir en famille ?",
+          "fr": "Quelle est la meilleure période pour venir en famille ?",
           "it": "Qual è il periodo migliore per visitarla con i bambini?",
           "de": "Wann ist die beste Zeit für einen Besuch mit Kindern?",
           "es": "¿Cuál es la mejor época para visitarla con niños?",

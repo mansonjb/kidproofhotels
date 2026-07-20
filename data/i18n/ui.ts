@@ -122,6 +122,9 @@ export type Dict = {
     alsoGoodFor: string; // amenity chips heading
     ourPicksWith: string; // "Our picks with {name}"
     comboIntro: string; // combo page standfirst, {dest} placeholder
+    comboIntroFacts: string; // fact-rich standfirst, {count} {amenity} {dest} {top}
+    comboAreas: string; // "Most families base themselves near {area}", {area} placeholder
+    amenityFacts: string; // amenity hub sub-standfirst, {count} {amenity} {top}
     browseInDest: string; // "Browse {name} by amenity"
     sameElsewhere: string; // "The same, in other destinations"
     moreInDest: string; // "More family hotels {dest}"

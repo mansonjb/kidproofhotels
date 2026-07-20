@@ -220,7 +220,7 @@
           },
           "value": {
             "en": "Ages 4 to 12, included",
-            "fr": "4 a 12 ans, inclus",
+            "fr": "4 à 12 ans, inclus",
             "it": "Dai 4 ai 12 anni, incluso",
             "de": "4 bis 12 Jahre, inklusive",
             "es": "De 4 a 12 anos, incluido",
@@ -292,7 +292,7 @@
           ],
           "time": {
             "en": "Late afternoon",
-            "fr": "Fin d'apres-midi",
+            "fr": "Fin d'après-midi",
             "it": "Tardo pomeriggio",
             "de": "Spater Nachmittag",
             "es": "Media tarde",
@@ -351,7 +351,7 @@
           "ages": [],
           "time": {
             "en": "Anytime",
-            "fr": "A tout moment",
+            "fr": "À tout moment",
             "it": "In qualsiasi momento",
             "de": "Jederzeit",
             "es": "En cualquier momento",
@@ -383,7 +383,7 @@
           "time": "10:00",
           "title": {
             "en": "Kids club drop-off",
-            "fr": "Depose au club enfants",
+            "fr": "Dépose au club enfants",
             "it": "Accompagnamento al club per bambini",
             "de": "Abgabe im Kinderclub",
             "es": "Llevar a los ninos al club",
@@ -402,7 +402,7 @@
           "time": "13:00",
           "title": {
             "en": "Poolside lunch",
-            "fr": "Dejeuner au bord de la piscine",
+            "fr": "Déjeuner au bord de la piscine",
             "it": "Pranzo a bordo piscina",
             "de": "Mittagessen am Pool",
             "es": "Almuerzo junto a la piscina",
@@ -440,7 +440,7 @@
       "ageNotes": {
         "baby": {
           "en": "Cots available and quiet garden corners for naps, though the resort scale means some walking with the pram.",
-          "fr": "Lits bebe disponibles et coins de jardin calmes pour la sieste, meme si la taille du complexe implique de marcher un peu avec la poussette.",
+          "fr": "Lits bébé disponibles et coins de jardin calmes pour la sieste, même si la taille du complexe implique de marcher un peu avec la poussette.",
           "it": "Culle disponibili e angoli tranquilli del giardino per i pisolini, anche se le dimensioni del resort comportano qualche camminata con il passeggino.",
           "de": "Babybetten verfugbar und ruhige Gartenecken fur den Mittagsschlaf, wobei die Grosse des Resorts einige Wege mit dem Kinderwagen bedeutet.",
           "es": "Cunas disponibles y rincones tranquilos del jardin para las siestas, aunque el tamano del resort implica algo de caminata con el cochecito.",
@@ -895,7 +895,7 @@
           "time": "8:30",
           "title": {
             "en": "Buffet breakfast",
-            "fr": "Petit-dejeuner buffet",
+            "fr": "Petit-déjeuner buffet",
             "it": "Colazione a buffet",
             "de": "Fruhstucksbuffet",
             "es": "Desayuno buffet",
@@ -1024,7 +1024,7 @@
         {
           "q": {
             "en": "How far is the beach?",
-            "fr": "A quelle distance est la plage?",
+            "fr": "À quelle distance est la plage?",
             "it": "Quanto dista la spiaggia?",
             "de": "Wie weit ist der Strand entfernt?",
             "es": "A que distancia esta la playa?",
@@ -1413,7 +1413,7 @@
           ],
           "time": {
             "en": "Afternoon",
-            "fr": "Apres-midi",
+            "fr": "Après-midi",
             "it": "Pomeriggio",
             "de": "Nachmittag",
             "es": "Tarde",
@@ -1426,7 +1426,7 @@
           "time": "8:00",
           "title": {
             "en": "All-inclusive breakfast",
-            "fr": "Petit-dejeuner tout compris",
+            "fr": "Petit-déjeuner tout compris",
             "it": "Colazione all inclusive",
             "de": "All-inclusive-Fruhstuck",
             "es": "Desayuno todo incluido",
@@ -1944,7 +1944,7 @@
           ],
           "time": {
             "en": "Afternoon",
-            "fr": "Apres-midi",
+            "fr": "Après-midi",
             "it": "Pomeriggio",
             "de": "Nachmittag",
             "es": "Tarde",
@@ -1957,7 +1957,7 @@
           "time": "8:00",
           "title": {
             "en": "Breakfast in the gardens",
-            "fr": "Petit-dejeuner dans les jardins",
+            "fr": "Petit-déjeuner dans les jardins",
             "it": "Colazione nei giardini",
             "de": "Fruhstuck in den Garten",
             "es": "Desayuno en los jardines",
@@ -2068,7 +2068,7 @@
         {
           "q": {
             "en": "How far is the beach?",
-            "fr": "A quelle distance est la plage?",
+            "fr": "À quelle distance est la plage?",
             "it": "Quanto dista la spiaggia?",
             "de": "Wie weit ist der Strand entfernt?",
             "es": "A que distancia esta la playa?",
@@ -2391,7 +2391,7 @@
           "emoji": "🏖️",
           "name": {
             "en": "Beach morning",
-            "fr": "Matinee plage",
+            "fr": "Matinée plage",
             "it": "Mattinata in spiaggia",
             "de": "Vormittag am Strand",
             "es": "Manana de playa",
@@ -2443,7 +2443,7 @@
           ],
           "time": {
             "en": "Afternoon",
-            "fr": "Apres-midi",
+            "fr": "Après-midi",
             "it": "Pomeriggio",
             "de": "Nachmittag",
             "es": "Tarde",
@@ -2474,7 +2474,7 @@
           ],
           "time": {
             "en": "Afternoon",
-            "fr": "Apres-midi",
+            "fr": "Après-midi",
             "it": "Pomeriggio",
             "de": "Nachmittag",
             "es": "Tarde",
@@ -2487,7 +2487,7 @@
           "time": "8:30",
           "title": {
             "en": "Breakfast then beach",
-            "fr": "Petit-dejeuner puis plage",
+            "fr": "Petit-déjeuner puis plage",
             "it": "Prima colazione, poi spiaggia",
             "de": "Erst Fruhstuck, dann Strand",
             "es": "Desayuno y luego playa",
@@ -2506,7 +2506,7 @@
           "time": "12:30",
           "title": {
             "en": "Pool lunch",
-            "fr": "Dejeuner a la piscine",
+            "fr": "Déjeuner à la piscine",
             "it": "Pranzo in piscina",
             "de": "Mittagessen am Pool",
             "es": "Almuerzo en la piscina",
@@ -2953,7 +2953,7 @@
           "emoji": "♨️",
           "name": {
             "en": "Heated pool swim",
-            "fr": "Baignade en piscine chauffee",
+            "fr": "Baignade en piscine chauffée",
             "it": "Bagno in piscina riscaldata",
             "de": "Schwimmen im beheizten Pool",
             "es": "Bano en piscina climatizada",
@@ -2975,7 +2975,7 @@
           ],
           "time": {
             "en": "Anytime",
-            "fr": "A tout moment",
+            "fr": "À tout moment",
             "it": "In qualsiasi momento",
             "de": "Jederzeit",
             "es": "En cualquier momento",
@@ -3019,7 +3019,7 @@
           "time": "8:30",
           "title": {
             "en": "Breakfast",
-            "fr": "Petit-dejeuner",
+            "fr": "Petit-déjeuner",
             "it": "Colazione",
             "de": "Fruhstuck",
             "es": "Desayuno",
@@ -3057,7 +3057,7 @@
           "time": "13:30",
           "title": {
             "en": "Beach walk",
-            "fr": "Balade a la plage",
+            "fr": "Balade à la plage",
             "it": "Passeggiata in spiaggia",
             "de": "Strandspaziergang",
             "es": "Paseo por la playa",
@@ -3148,7 +3148,7 @@
         {
           "q": {
             "en": "Is the pool heated?",
-            "fr": "La piscine est-elle chauffee?",
+            "fr": "La piscine est-elle chauffée?",
             "it": "La piscina e riscaldata?",
             "de": "Ist der Pool beheizt?",
             "es": "La piscina esta climatizada?",
@@ -3166,7 +3166,7 @@
         {
           "q": {
             "en": "How far is the beach?",
-            "fr": "A quelle distance est la plage?",
+            "fr": "À quelle distance est la plage?",
             "it": "Quanto dista la spiaggia?",
             "de": "Wie weit ist der Strand entfernt?",
             "es": "A que distancia esta la playa?",
@@ -3476,7 +3476,7 @@
           ],
           "time": {
             "en": "All day",
-            "fr": "Toute la journee",
+            "fr": "Toute la journée",
             "it": "Tutto il giorno",
             "de": "Ganztags",
             "es": "Todo el dia",
@@ -3538,7 +3538,7 @@
           ],
           "time": {
             "en": "Afternoon",
-            "fr": "Apres-midi",
+            "fr": "Après-midi",
             "it": "Pomeriggio",
             "de": "Nachmittag",
             "es": "Tarde",
@@ -3551,7 +3551,7 @@
           "time": "8:00",
           "title": {
             "en": "Breakfast then beach",
-            "fr": "Petit-dejeuner puis plage",
+            "fr": "Petit-déjeuner puis plage",
             "it": "Prima colazione, poi spiaggia",
             "de": "Erst Fruhstuck, dann Strand",
             "es": "Desayuno y luego playa",
@@ -3972,7 +3972,7 @@
           },
           "value": {
             "en": "Hire car advised",
-            "fr": "Voiture conseillee",
+            "fr": "Voiture conseillée",
             "it": "Auto a noleggio consigliata",
             "de": "Mietwagen empfohlen",
             "es": "Se aconseja coche de alquiler",
@@ -4037,7 +4037,7 @@
           ],
           "time": {
             "en": "Afternoon",
-            "fr": "Apres-midi",
+            "fr": "Après-midi",
             "it": "Pomeriggio",
             "de": "Nachmittag",
             "es": "Tarde",
@@ -4406,7 +4406,7 @@
         ],
         "time": {
           "en": "Late afternoon",
-          "fr": "Fin d'apres-midi",
+          "fr": "Fin d'après-midi",
           "it": "Tardo pomeriggio",
           "de": "Spater Nachmittag",
           "es": "Media tarde",
@@ -4503,7 +4503,7 @@
         ],
         "time": {
           "en": "All day",
-          "fr": "Toute la journee",
+          "fr": "Toute la journée",
           "it": "Tutto il giorno",
           "de": "Ganztags",
           "es": "Todo el dia",
@@ -4515,7 +4515,7 @@
       {
         "q": {
           "en": "When is the best time to visit with kids?",
-          "fr": "Quelle est la meilleure periode pour venir avec des enfants?",
+          "fr": "Quelle est la meilleure période pour venir avec des enfants?",
           "it": "Qual e il periodo migliore per venire con i bambini?",
           "de": "Wann ist die beste Reisezeit mit Kindern?",
           "es": "Cual es la mejor epoca para visitarla con ninos?",
