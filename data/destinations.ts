@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -43,6 +43,8 @@ const VLC = (VALENCIA_META ?? {}) as any;
 const MT = (MALTA_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const ZK = (ZAKYNTHOS_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const MD = (MADEIRA_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -938,6 +940,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: ZK.faqs,
     parentTip: ZK.parentTip,
     goodToKnow: ZK.goodToKnow,
+  },
+  {
+    key: "madeira",
+    name: { en: "Madeira", fr: "Madère" },
+    country: { en: "Portugal", fr: "Portugal", it: "Portogallo", de: "Portugal", es: "Portugal", pt: "Portugal" },
+    inPhrase: { en: "in Madeira", fr: "a Madere" },
+    slug: {
+      en: "family-hotels-madeira",
+      fr: "hotels-famille-madere",
+    },
+    geo: { lat: 32.74, lng: -16.97, zoom: 10 },
+    heroKicker: MD.heroKicker ?? {
+      en: "Whale watching, easy levada walks and year-round spring for families",
+      fr: "Baleines, levadas faciles et printemps toute l'annee pour les familles",
+    },
+    intro: MD.intro ?? {
+      en: "Madeira is the Atlantic island that stays green and mild all year: whale and dolphin boats leave from Calheta and Funchal, easy levada walks work with a baby carrier, and the big resort pools face the ocean. These are the hotels that make it simple with kids.",
+      fr: "Madere, c'est l'ile de l'Atlantique qui reste verte et douce toute l'annee : les bateaux d'observation des baleines et dauphins partent de Calheta et Funchal, les levadas faciles se font avec un porte-bebe, et les grandes piscines de resort donnent sur l'ocean. Voici les hotels qui simplifient tout avec des enfants.",
+    },
+    whyKids: MD.whyKids ?? { en: [], fr: [] },
+    bestAreas: MD.bestAreas ?? { en: [], fr: [] },
+    emoji: MD.emoji ?? "🐬",
+    accent: "2c8c6e",
+    hotelKeys: [], // populated below
+    related: ["tenerife", "lisbon", "guide-kids-club-free"],
+    photos: MD.photos,
+    stats: MD.stats,
+    activities: MD.activities,
+    faqs: MD.faqs,
+    parentTip: MD.parentTip,
+    goodToKnow: MD.goodToKnow,
   },
 ]);
 
