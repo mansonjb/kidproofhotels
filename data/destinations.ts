@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -45,6 +45,8 @@ const MT = (MALTA_META ?? {}) as any;
 const ZK = (ZAKYNTHOS_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const MD = (MADEIRA_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const CD = (COSTA_DORADA_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -971,6 +973,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: MD.faqs,
     parentTip: MD.parentTip,
     goodToKnow: MD.goodToKnow,
+  },
+  {
+    key: "costa-dorada",
+    name: { en: "Costa Dorada", fr: "Costa Dorada" },
+    country: { en: "Spain", fr: "Espagne", it: "Spagna", de: "Spanien", es: "Espana", pt: "Espanha" },
+    inPhrase: { en: "on the Costa Dorada", fr: "sur la Costa Dorada" },
+    slug: {
+      en: "family-hotels-costa-dorada",
+      fr: "hotels-famille-costa-dorada",
+    },
+    geo: { lat: 41.08, lng: 1.14, zoom: 11 },
+    heroKicker: CD.heroKicker ?? {
+      en: "PortAventura on the doorstep, gentle golden beaches and easy family resorts",
+      fr: "PortAventura a deux pas, plages dorees en pente douce et resorts faciles en famille",
+    },
+    intro: CD.intro ?? {
+      en: "The Costa Dorada is the family coast south of Barcelona: long shallow beaches at Salou, La Pineda and Cambrils, PortAventura World and Ferrari Land a shuttle ride away, and big resort pools built for kids. These are the hotels that make it simple with children.",
+      fr: "La Costa Dorada, c'est la cote des familles au sud de Barcelone : longues plages peu profondes a Salou, La Pineda et Cambrils, PortAventura World et Ferrari Land accessibles en navette, et grandes piscines de resort pensees pour les enfants. Voici les hotels qui simplifient tout avec des enfants.",
+    },
+    whyKids: CD.whyKids ?? { en: [], fr: [] },
+    bestAreas: CD.bestAreas ?? { en: [], fr: [] },
+    emoji: CD.emoji ?? "🎢",
+    accent: "d98a3d",
+    hotelKeys: [], // populated below
+    related: ["barcelona", "costa-blanca", "guide-waterslide-hotels"],
+    photos: CD.photos,
+    stats: CD.stats,
+    activities: CD.activities,
+    faqs: CD.faqs,
+    parentTip: CD.parentTip,
+    goodToKnow: CD.goodToKnow,
   },
 ]);
 
