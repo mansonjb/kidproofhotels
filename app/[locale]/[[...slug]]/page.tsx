@@ -44,16 +44,15 @@ function amenityFromKey(key: string) {
   return AMENITY_BY_ID.get(key.replace(/^amenity-/, "") as never);
 }
 
-export const dynamicParams = false;
+// On-demand ISR: single catch-all route was rebuilding every page (2,398
+// pages: all destinations/guides/hotels/collections/amenities x 6 locales)
+// on every deploy, for the daily kidproof-ship-destination cron's 1 new
+// destination. Pages render on first request and cache for `revalidate`.
+export const dynamicParams = true;
+export const revalidate = 86400;
 
 export function generateStaticParams() {
-  const params: { locale: string; slug: string[] }[] = [];
-  for (const e of allPages()) {
-    for (const l of LOCALES) {
-      params.push({ locale: l, slug: e.slug[l] ? e.slug[l].split("/") : [] });
-    }
-  }
-  return params;
+  return [];
 }
 
 function metaFor(
