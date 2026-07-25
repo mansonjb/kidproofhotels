@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -53,6 +53,8 @@ const SV = (SEVILLE_META ?? {}) as any;
 const HK = (HALKIDIKI_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const PU = (PUGLIA_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const HG = (HURGHADA_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -1103,6 +1105,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: PU.faqs,
     parentTip: PU.parentTip,
     goodToKnow: PU.goodToKnow,
+  },
+  {
+    key: "hurghada",
+    name: { en: "Hurghada", fr: "Hurghada", it: "Hurghada", de: "Hurghada", es: "Hurghada", pt: "Hurghada" },
+    country: { en: "Egypt", fr: "\u00c9gypte", it: "Egitto", de: "\u00c4gypten", es: "Egipto", pt: "Egito" },
+    inPhrase: { en: "in Hurghada", fr: "\u00e0 Hurghada" },
+    slug: {
+      en: "family-hotels-hurghada",
+      fr: "hotels-famille-hurghada",
+    },
+    geo: { lat: 27.05, lng: 33.87, zoom: 9 },
+    heroKicker: HG.heroKicker ?? {
+      en: "Winter sun, coral reefs and waterparks the size of a village",
+      fr: "Soleil d'hiver, r\u00e9cifs de corail et parcs aquatiques grands comme un village",
+    },
+    intro: HG.intro ?? {
+      en: "Hurghada is the Red Sea coast that stays warm when Europe does not: four to five hours from most of western Europe, twenty-something degrees in January, and a sea calm enough that a five-year-old can snorkel over live coral straight off the beach. The resorts are enormous and almost all all-inclusive, which makes the maths easy, and several of them run waterparks big enough to fill a whole holiday. These are the ones that get families right.",
+      fr: "Hurghada, c'est la c\u00f4te de la mer Rouge qui reste chaude quand l'Europe ne l'est plus : quatre \u00e0 cinq heures de vol, une vingtaine de degr\u00e9s en janvier, et une mer assez calme pour qu'un enfant de cinq ans fasse du masque et tuba au-dessus du corail vivant depuis la plage. Les h\u00f4tels sont immenses et presque tous en tout compris, ce qui simplifie le budget, et plusieurs abritent des parcs aquatiques capables de remplir un s\u00e9jour entier. Voici ceux qui savent recevoir les familles.",
+    },
+    whyKids: HG.whyKids ?? { en: [], fr: [] },
+    bestAreas: HG.bestAreas ?? { en: [], fr: [] },
+    emoji: HG.emoji ?? "\ud83d\udc20",
+    accent: "1f8fa3",
+    hotelKeys: [], // populated below
+    related: ["antalya", "cyprus", "guide-waterslide-hotels"],
+    photos: HG.photos,
+    stats: HG.stats,
+    activities: HG.activities,
+    faqs: HG.faqs,
+    parentTip: HG.parentTip,
+    goodToKnow: HG.goodToKnow,
   },
 ]);
 
