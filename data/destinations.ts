@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -51,6 +51,8 @@ const CD = (COSTA_DORADA_META ?? {}) as any;
 const SV = (SEVILLE_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const HK = (HALKIDIKI_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const PU = (PUGLIA_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -1070,6 +1072,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: HK.faqs,
     parentTip: HK.parentTip,
     goodToKnow: HK.goodToKnow,
+  },
+  {
+    key: "puglia",
+    name: { en: "Puglia", fr: "Pouilles", it: "Puglia", de: "Apulien", es: "Apulia", pt: "Puglia" },
+    country: { en: "Italy", fr: "Italie", it: "Italia", de: "Italien", es: "Italia", pt: "Itália" },
+    inPhrase: { en: "in Puglia", fr: "dans les Pouilles" },
+    slug: {
+      en: "family-hotels-puglia",
+      fr: "hotels-famille-pouilles",
+    },
+    geo: { lat: 40.5, lng: 17.5, zoom: 8 },
+    heroKicker: PU.heroKicker ?? {
+      en: "White towns, trulli and Maldives-clear shallows",
+      fr: "Villes blanches, trulli et eaux peu profondes dignes des Maldives",
+    },
+    intro: PU.intro ?? {
+      en: "Puglia is the heel of Italy and one of its easiest regions with kids: whitewashed towns and cone-roofed trulli houses that look drawn by a child, masseria farm-resorts with pools and kids clubs, and the shallow white-sand beaches of the Salento that get called the Maldives of Italy for good reason. Add orecchiette and gelato and it plans itself. These are the hotels that get it right.",
+      fr: "Les Pouilles, c'est le talon de l'Italie et l'une de ses régions les plus faciles avec des enfants : villes blanchies à la chaux et maisons trulli à toit conique qu'on dirait dessinées par un enfant, resorts-fermes (masseria) avec piscines et clubs enfants, et les plages de sable blanc peu profondes du Salento, surnommées les Maldives d'Italie à juste titre. Ajoutez orecchiette et gelato, et tout s'organise seul. Voici les hôtels qui réussissent.",
+    },
+    whyKids: PU.whyKids ?? { en: [], fr: [] },
+    bestAreas: PU.bestAreas ?? { en: [], fr: [] },
+    emoji: PU.emoji ?? "\ud83e\uded2",
+    accent: "9c8f3e",
+    hotelKeys: [], // populated below
+    related: ["sicily", "sardinia", "guide-allinclusive-europe"],
+    photos: PU.photos,
+    stats: PU.stats,
+    activities: PU.activities,
+    faqs: PU.faqs,
+    parentTip: PU.parentTip,
+    goodToKnow: PU.goodToKnow,
   },
 ]);
 
