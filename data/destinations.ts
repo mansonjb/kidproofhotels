@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -49,6 +49,8 @@ const MD = (MADEIRA_META ?? {}) as any;
 const CD = (COSTA_DORADA_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const SV = (SEVILLE_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const HK = (HALKIDIKI_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -1037,6 +1039,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: SV.faqs,
     parentTip: SV.parentTip,
     goodToKnow: SV.goodToKnow,
+  },
+  {
+    key: "halkidiki",
+    name: { en: "Halkidiki", fr: "Halkidiki" },
+    country: { en: "Greece", fr: "Grèce", it: "Grecia", de: "Griechenland", es: "Grecia", pt: "Grécia" },
+    inPhrase: { en: "in Halkidiki", fr: "en Halkidiki" },
+    slug: {
+      en: "family-hotels-halkidiki",
+      fr: "hotels-famille-halkidiki",
+    },
+    geo: { lat: 40.2, lng: 23.5, zoom: 9 },
+    heroKicker: HK.heroKicker ?? {
+      en: "Pine forests, calm blue-flag bays and Greece's best family resorts",
+      fr: "Forêts de pins, baies calmes pavillon bleu et les meilleurs resorts famille de Grèce",
+    },
+    intro: HK.intro ?? {
+      en: "Halkidiki is where Greeks take their own children: three green peninsulas of pine forest running down to calm, shallow Blue Flag bays, and some of the best family resorts in the country (Sani, Ikos). Kassandra and Sithonia are the two family fingers, both an easy transfer from Thessaloniki. It is laid-back, safe and swimmable all summer. These are the hotels that get it right.",
+      fr: "Halkidiki, c'est là où les Grecs emmènent leurs propres enfants : trois péninsules vertes de pinèdes qui descendent vers des baies calmes et peu profondes pavillon bleu, et quelques-uns des meilleurs resorts famille du pays (Sani, Ikos). Kassandra et Sithonia sont les deux doigts familiaux, à courte distance de Thessalonique. C'est tranquille, sûr et baignable tout l'été. Voici les hôtels qui réussissent.",
+    },
+    whyKids: HK.whyKids ?? { en: [], fr: [] },
+    bestAreas: HK.bestAreas ?? { en: [], fr: [] },
+    emoji: HK.emoji ?? "\ud83c\udf32",
+    accent: "2f80a8",
+    hotelKeys: [], // populated below
+    related: ["crete", "corfu", "guide-allinclusive-europe"],
+    photos: HK.photos,
+    stats: HK.stats,
+    activities: HK.activities,
+    faqs: HK.faqs,
+    parentTip: HK.parentTip,
+    goodToKnow: HK.goodToKnow,
   },
 ]);
 
