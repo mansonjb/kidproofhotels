@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -47,6 +47,8 @@ const ZK = (ZAKYNTHOS_META ?? {}) as any;
 const MD = (MADEIRA_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const CD = (COSTA_DORADA_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const SV = (SEVILLE_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -1004,6 +1006,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: CD.faqs,
     parentTip: CD.parentTip,
     goodToKnow: CD.goodToKnow,
+  },
+  {
+    key: "seville",
+    name: { en: "Seville", fr: "Séville" },
+    country: { en: "Spain", fr: "Espagne", it: "Spagna", de: "Spanien", es: "España", pt: "Espanha" },
+    inPhrase: { en: "in Seville", fr: "à Séville" },
+    slug: {
+      en: "family-hotels-seville",
+      fr: "hotels-famille-seville",
+    },
+    geo: { lat: 37.3891, lng: -5.9845, zoom: 12 },
+    heroKicker: SV.heroKicker ?? {
+      en: "Palaces, plazas and a theme park, all walkable",
+      fr: "Palais, places et un parc d'attractions, tout à pied",
+    },
+    intro: SV.intro ?? {
+      en: "Seville is a storybook city for kids: a real palace with peacock gardens at the Alcazar, boat rides on the Plaza de Espana, a proper theme park at Isla Magica, and horse-drawn carriages between the tapas. It is flat and walkable, the catch is the summer heat, so a rooftop pool and a spring or autumn trip make all the difference. These are the hotels that get it right.",
+      fr: "Séville est une ville de conte pour les enfants : un vrai palais aux jardins à paons à l'Alcazar, des barques sur la Plaza de Espana, un vrai parc d'attractions à Isla Magica, et des calèches entre les tapas. C'est plat et facile à pied ; le hic, c'est la chaleur de l'été, donc une piscine sur le toit et un séjour au printemps ou à l'automne changent tout. Voici les hôtels qui réussissent.",
+    },
+    whyKids: SV.whyKids ?? { en: [], fr: [] },
+    bestAreas: SV.bestAreas ?? { en: [], fr: [] },
+    emoji: SV.emoji ?? "\ud83d\udc83",
+    accent: "cf6b3f",
+    hotelKeys: [], // populated below
+    related: ["barcelona", "valencia", "guide-connecting-rooms"],
+    photos: SV.photos,
+    stats: SV.stats,
+    activities: SV.activities,
+    faqs: SV.faqs,
+    parentTip: SV.parentTip,
+    goodToKnow: SV.goodToKnow,
   },
 ]);
 
