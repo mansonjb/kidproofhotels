@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -71,6 +71,8 @@ const SM = (SAINT_MARTIN_META ?? {}) as any;
 const DXB = (DUBAI_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const MQ = (MARTINIQUE_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const GP = (GUADELOUPE_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -1400,6 +1402,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: MQ.faqs,
     parentTip: MQ.parentTip,
     goodToKnow: MQ.goodToKnow,
+  },
+  {
+    key: "guadeloupe",
+    name: { en: "Guadeloupe", fr: "Guadeloupe", it: "Guadalupa", de: "Guadeloupe", es: "Guadalupe", pt: "Guadalupe" },
+    country: { en: "France", fr: "France", it: "Francia", de: "Frankreich", es: "Francia", pt: "França" },
+    inPhrase: { en: "in Guadeloupe", fr: "en Guadeloupe" },
+    slug: {
+      en: "family-hotels-guadeloupe",
+      fr: "hotels-famille-guadeloupe",
+    },
+    geo: { lat: 16.25, lng: -61.55, zoom: 9 },
+    heroKicker: GP.heroKicker ?? {
+      en: "Shallow Blue-Flag lagoons, rainforest and winter sun",
+      fr: "Lagons pavillon bleu peu profonds, forêt tropicale et soleil d'hiver",
+    },
+    intro: GP.intro ?? {
+      en: "Guadeloupe, the butterfly island, splits neatly for families: Grande-Terre gives you calm shallow Blue-Flag lagoons (Sainte-Anne, Bois Jolan) and the resorts, while Basse-Terre brings rainforest, waterfalls and the Soufriere volcano for older kids. It is a French department, so euros and French all the way, warm all winter, snorkelling turtles at Malendure. These are the hotels that get the family details right.",
+      fr: "La Guadeloupe, l'île papillon, se partage bien en famille : la Grande-Terre offre des lagons calmes et peu profonds pavillon bleu (Sainte-Anne, Bois Jolan) et les resorts, tandis que la Basse-Terre apporte forêt tropicale, cascades et le volcan de la Soufrière pour les plus grands. C'est un département français, donc euros et français partout, chaud tout l'hiver, avec les tortues en snorkeling à Malendure. Voici les hôtels qui soignent les détails famille.",
+    },
+    whyKids: GP.whyKids ?? { en: [], fr: [] },
+    bestAreas: GP.bestAreas ?? { en: [], fr: [] },
+    emoji: GP.emoji ?? "\ud83e\udd8b",
+    accent: "e08a4a",
+    hotelKeys: [], // populated below
+    related: ["martinique", "saint-martin", "guide-connecting-rooms"],
+    photos: GP.photos,
+    stats: GP.stats,
+    activities: GP.activities,
+    faqs: GP.faqs,
+    parentTip: GP.parentTip,
+    goodToKnow: GP.goodToKnow,
   },
 ]);
 
