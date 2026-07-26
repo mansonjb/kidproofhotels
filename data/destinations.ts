@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -61,6 +61,8 @@ const SO = (SOUSSE_META ?? {}) as any;
 const SH = (SHARM_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const BO = (BODRUM_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const SL = (SAL_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -1235,6 +1237,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: BO.faqs,
     parentTip: BO.parentTip,
     goodToKnow: BO.goodToKnow,
+  },
+  {
+    key: "sal",
+    name: { en: "Sal", fr: "Sal", it: "Sal", de: "Sal", es: "Sal", pt: "Sal" },
+    country: { en: "Cape Verde", fr: "Cap-Vert", it: "Capo Verde", de: "Kap Verde", es: "Cabo Verde", pt: "Cabo Verde" },
+    inPhrase: { en: "in Sal", fr: "à Sal" },
+    slug: {
+      en: "family-hotels-sal-cape-verde",
+      fr: "hotels-famille-sal-cap-vert",
+    },
+    geo: { lat: 16.6, lng: -22.92, zoom: 11 },
+    heroKicker: SL.heroKicker ?? {
+      en: "Guaranteed winter sun and a long shallow beach",
+      fr: "Soleil d'hiver garanti et une longue plage peu profonde",
+    },
+    intro: SL.intro ?? {
+      en: "Sal is the safest winter-sun bet in the Atlantic: 25 to 28C even in January, a long golden beach at Santa Maria with warm shallow water, and all-inclusive resorts with real kids clubs. Add turtle season, catamaran trips and a walkable little town, and a winter week feels like summer. The trade wind means shade matters. These are the hotels that get the family details right.",
+      fr: "Sal, c'est le pari soleil d'hiver le plus sûr de l'Atlantique : 25 à 28°C même en janvier, une longue plage dorée à Santa Maria avec une eau chaude et peu profonde, et des resorts tout inclus avec de vrais clubs enfants. Ajoutez la saison des tortues, les sorties en catamaran et une petite ville où tout se fait à pied, et une semaine d'hiver a un goût d'été. Le vent alizé oblige à penser à l'ombre. Voici les hôtels qui soignent les détails famille.",
+    },
+    whyKids: SL.whyKids ?? { en: [], fr: [] },
+    bestAreas: SL.bestAreas ?? { en: [], fr: [] },
+    emoji: SL.emoji ?? "\ud83c\udfdd\ufe0f",
+    accent: "cf9a3a",
+    hotelKeys: [], // populated below
+    related: ["fuerteventura", "hurghada", "guide-allinclusive-europe"],
+    photos: SL.photos,
+    stats: SL.stats,
+    activities: SL.activities,
+    faqs: SL.faqs,
+    parentTip: SL.parentTip,
+    goodToKnow: SL.goodToKnow,
   },
 ]);
 

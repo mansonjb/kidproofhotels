@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import { Fraunces, Plus_Jakarta_Sans } from "next/font/google";
 import { HTML_LANG, LOCALES, isLocale } from "@/lib/i18n";
 import { orgNode, websiteNode } from "@/lib/schema";
+import Script from "next/script";
 import { JsonLd } from "@/components/JsonLd";
 import { Stay22Script } from "@/components/Stay22Script";
 
@@ -56,6 +57,17 @@ export default async function LocaleLayout({
           }}
         />
         <Stay22Script lmaId={process.env.NEXT_PUBLIC_STAY22_LMA_ID} />
+        {/* Google Analytics (gtag.js) */}
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-YJGFFQ3XS0"
+          strategy="afterInteractive"
+        />
+        <Script id="ga-gtag" strategy="afterInteractive">
+          {`window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-YJGFFQ3XS0');`}
+        </Script>
         {children}
       </body>
     </html>
