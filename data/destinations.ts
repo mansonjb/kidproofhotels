@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -73,6 +73,8 @@ const DXB = (DUBAI_META ?? {}) as any;
 const MQ = (MARTINIQUE_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const GP = (GUADELOUPE_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const IB = (IBIZA_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -1433,6 +1435,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: GP.faqs,
     parentTip: GP.parentTip,
     goodToKnow: GP.goodToKnow,
+  },
+  {
+    key: "ibiza",
+    name: { en: "Ibiza", fr: "Ibiza", it: "Ibiza", de: "Ibiza", es: "Ibiza", pt: "Ibiza" },
+    country: { en: "Spain", fr: "Espagne", it: "Spagna", de: "Spanien", es: "España", pt: "Espanha" },
+    inPhrase: { en: "in Ibiza", fr: "à Ibiza" },
+    slug: {
+      en: "family-hotels-ibiza",
+      fr: "hotels-famille-ibiza",
+    },
+    geo: { lat: 38.98, lng: 1.43, zoom: 11 },
+    heroKicker: IB.heroKicker ?? {
+      en: "The quiet, family side of Ibiza (yes, it exists)",
+      fr: "Le côté calme et famille d'Ibiza (oui, ça existe)",
+    },
+    intro: IB.intro ?? {
+      en: "Ibiza is far more than clubbing: base on the calm north and east (Santa Eulalia's promenade, Portinatx's three sheltered shallow bays, Cala Llonga) and it is a gentle, pretty family island with warm clear coves and a easy boat trip to Formentera's turquoise shallows. Just stay away from the Playa d'en Bossa and San Antonio nightlife. These are the hotels that get the family side right.",
+      fr: "Ibiza, c'est bien plus que la fête : posez-vous sur le nord et l'est calmes (la promenade de Santa Eulalia, les trois baies abritées et peu profondes de Portinatx, Cala Llonga) et c'est une île famille douce et jolie, aux criques chaudes et claires, avec une sortie facile en bateau vers les eaux turquoise de Formentera. Il suffit d'éviter la vie nocturne de Playa d'en Bossa et San Antonio. Voici les hôtels qui réussissent le côté famille.",
+    },
+    whyKids: IB.whyKids ?? { en: [], fr: [] },
+    bestAreas: IB.bestAreas ?? { en: [], fr: [] },
+    emoji: IB.emoji ?? "\ud83c\udf05",
+    accent: "e0954a",
+    hotelKeys: [], // populated below
+    related: ["menorca", "mallorca", "guide-connecting-rooms"],
+    photos: IB.photos,
+    stats: IB.stats,
+    activities: IB.activities,
+    faqs: IB.faqs,
+    parentTip: IB.parentTip,
+    goodToKnow: IB.goodToKnow,
   },
 ]);
 
