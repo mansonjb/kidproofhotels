@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -69,6 +69,8 @@ const RE = (REUNION_META ?? {}) as any;
 const SM = (SAINT_MARTIN_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const DXB = (DUBAI_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const MQ = (MARTINIQUE_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -1367,6 +1369,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: DXB.faqs,
     parentTip: DXB.parentTip,
     goodToKnow: DXB.goodToKnow,
+  },
+  {
+    key: "martinique",
+    name: { en: "Martinique", fr: "Martinique", it: "Martinica", de: "Martinique", es: "Martinica", pt: "Martinica" },
+    country: { en: "France", fr: "France", it: "Francia", de: "Frankreich", es: "Francia", pt: "França" },
+    inPhrase: { en: "in Martinique", fr: "en Martinique" },
+    slug: {
+      en: "family-hotels-martinique",
+      fr: "hotels-famille-martinique",
+    },
+    geo: { lat: 14.64, lng: -61.02, zoom: 10 },
+    heroKicker: MQ.heroKicker ?? {
+      en: "Calm southern beaches, rainforest and winter sun",
+      fr: "Plages calmes du sud, forêt tropicale et soleil d'hiver",
+    },
+    intro: MQ.intro ?? {
+      en: "Martinique, the island of flowers, is an easy French Caribbean week with kids: the calm shallow south beaches (Les Salines, Anse Mitan) are made for toddlers, while the rainforest, Mount Pelee and catamaran trips to the white sandbanks keep older kids busy. It is a French department, so euros and French all the way, warm all winter. These are the hotels that get the family details right.",
+      fr: "La Martinique, l'île aux fleurs, c'est une semaine antillaise facile en famille : les plages calmes et peu profondes du sud (Les Salines, l'Anse Mitan) sont faites pour les tout-petits, tandis que la forêt tropicale, la Montagne Pelée et les sorties en catamaran vers les fonds blancs occupent les plus grands. C'est un département français, donc euros et français partout, et chaud tout l'hiver. Voici les hôtels qui soignent les détails famille.",
+    },
+    whyKids: MQ.whyKids ?? { en: [], fr: [] },
+    bestAreas: MQ.bestAreas ?? { en: [], fr: [] },
+    emoji: MQ.emoji ?? "\ud83c\udf3a",
+    accent: "d0604a",
+    hotelKeys: [], // populated below
+    related: ["saint-martin", "reunion", "guide-connecting-rooms"],
+    photos: MQ.photos,
+    stats: MQ.stats,
+    activities: MQ.activities,
+    faqs: MQ.faqs,
+    parentTip: MQ.parentTip,
+    goodToKnow: MQ.goodToKnow,
   },
 ]);
 
