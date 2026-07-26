@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -65,6 +65,10 @@ const BO = (BODRUM_META ?? {}) as any;
 const SL = (SAL_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const RE = (REUNION_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const SM = (SAINT_MARTIN_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const DXB = (DUBAI_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -1301,6 +1305,68 @@ export const DESTINATIONS: Destination[] = src([
     faqs: RE.faqs,
     parentTip: RE.parentTip,
     goodToKnow: RE.goodToKnow,
+  },
+  {
+    key: "saint-martin",
+    name: { en: "Saint-Martin", fr: "Saint-Martin", it: "Saint-Martin", de: "Saint-Martin", es: "Saint-Martin", pt: "Saint-Martin" },
+    country: { en: "France", fr: "France", it: "Francia", de: "Frankreich", es: "Francia", pt: "França" },
+    inPhrase: { en: "on Saint-Martin", fr: "à Saint-Martin" },
+    slug: {
+      en: "family-hotels-saint-martin",
+      fr: "hotels-famille-saint-martin",
+    },
+    geo: { lat: 18.07, lng: -63.05, zoom: 12 },
+    heroKicker: SM.heroKicker ?? {
+      en: "Calm Orient Bay, gourmet Grand-Case and winter sun",
+      fr: "La baie Orientale calme, Grand-Case gourmand et le soleil d'hiver",
+    },
+    intro: SM.intro ?? {
+      en: "Saint-Martin is the French half of a two-nation Caribbean island, and its calm shallow Orient Bay has a family section that toddlers love. Base near the beach, take the little boat to Pinel Island for waist-deep snorkelling, and eat on the sand at Grand-Case in the evening. It is euro and French but warm all winter. Note some of the island is still rebuilding from 2017. These are the hotels that get the family details right.",
+      fr: "Saint-Martin, c'est la moitié française d'une île caribéenne à deux nations, et sa baie Orientale, calme et peu profonde, a une partie famille que les tout-petits adorent. Posez-vous près de la plage, prenez la petite barque pour l'îlet Pinel et son snorkeling à hauteur de taille, et dînez les pieds dans le sable à Grand-Case le soir. C'est euro et français, mais chaud tout l'hiver. À noter : une partie de l'île se reconstruit encore depuis 2017. Voici les hôtels qui soignent les détails famille.",
+    },
+    whyKids: SM.whyKids ?? { en: [], fr: [] },
+    bestAreas: SM.bestAreas ?? { en: [], fr: [] },
+    emoji: SM.emoji ?? "\ud83c\udfdd\ufe0f",
+    accent: "cf7a4a",
+    hotelKeys: [], // populated below
+    related: ["reunion", "madeira", "guide-connecting-rooms"],
+    photos: SM.photos,
+    stats: SM.stats,
+    activities: SM.activities,
+    faqs: SM.faqs,
+    parentTip: SM.parentTip,
+    goodToKnow: SM.goodToKnow,
+  },
+  {
+    key: "dubai",
+    name: { en: "Dubai", fr: "Dubaï", it: "Dubai", de: "Dubai", es: "Dubái", pt: "Dubai" },
+    country: { en: "United Arab Emirates", fr: "Émirats arabes unis", it: "Emirati Arabi Uniti", de: "Vereinigte Arabische Emirate", es: "Emiratos Árabes Unidos", pt: "Emirados Árabes Unidos" },
+    inPhrase: { en: "in Dubai", fr: "à Dubaï" },
+    slug: {
+      en: "family-hotels-dubai",
+      fr: "hotels-famille-dubai",
+    },
+    geo: { lat: 25.09, lng: 55.16, zoom: 11 },
+    heroKicker: DXB.heroKicker ?? {
+      en: "Waterparks, air conditioning and a warm sea in winter",
+      fr: "Parcs aquatiques, climatisation et mer chaude en hiver",
+    },
+    intro: DXB.intro ?? {
+      en: "Dubai is the rare winter destination where the sea is still warm, the flight is short enough to survive with a toddler, and the whole city is built to move indoors the moment the heat or the rain says so. Aquaventure and Wild Wadi handle the big kids, the beach hotels along Jumeirah and JBR handle the small ones, and taxis and the metro make it all cheap to reach. Come between October and May, skip July and August, and pick your area before your hotel. These are the hotels that get the family details right.",
+      fr: "Dubaï est cette destination d'hiver rare où la mer est encore chaude, où le vol est assez court pour tenir avec un tout-petit, et où toute la ville est pensée pour basculer en intérieur dès que la chaleur l'impose. Aquaventure et Wild Wadi occupent les grands, les hôtels de plage de Jumeirah et de JBR s'occupent des petits, et les taxis et le métro rendent tout accessible sans se ruiner. Venez entre octobre et mai, évitez juillet et août, et choisissez votre quartier avant votre hôtel. Voici les hôtels qui soignent les détails famille.",
+    },
+    whyKids: DXB.whyKids ?? { en: [], fr: [] },
+    bestAreas: DXB.bestAreas ?? { en: [], fr: [] },
+    emoji: DXB.emoji ?? "🏙️",
+    accent: "c9a227",
+    hotelKeys: [], // populated below
+    related: ["hurghada", "sharm", "guide-waterslide-hotels"],
+    photos: DXB.photos,
+    stats: DXB.stats,
+    activities: DXB.activities,
+    faqs: DXB.faqs,
+    parentTip: DXB.parentTip,
+    goodToKnow: DXB.goodToKnow,
   },
 ]);
 

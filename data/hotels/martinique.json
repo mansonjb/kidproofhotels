@@ -1,0 +1,2631 @@
+{
+  "hotels": [
+    {
+      "key": "martinique-club-med-buccaneers-creek",
+      "destinationKey": "martinique",
+      "name": "Club Med Buccaneer's Creek",
+      "area": {
+        "en": "Sainte-Anne",
+        "fr": "Sainte-Anne"
+      },
+      "lat": 14.4344,
+      "lng": -60.8871,
+      "zoom": 13,
+      "address": "Club Med Buccaneer's Creek, Pointe du Marin, 97227 Sainte-Anne, Martinique",
+      "priceTier": 4,
+      "priceFrom": 260,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolPalms",
+        "beachSunset",
+        "deckLoungersSea"
+      ],
+      "scores": {
+        "rooms": 93,
+        "baby": 78,
+        "pool": 88,
+        "dining": 89,
+        "safety": 86,
+        "convenience": 84,
+        "location": 88,
+        "extras": 92
+      },
+      "roomsSummary": {
+        "en": "Bright Creole-style rooms spread through low buildings in tropical gardens, most a short stroll from the beach. Family rooms and connecting rooms sleep four to five, and the all-inclusive setup means no bill-watching at dinner with hungry kids.",
+        "fr": "Chambres lumineuses de style créole réparties dans des bâtiments bas au milieu de jardins tropicaux, la plupart à quelques pas de la plage. Les chambres familiales et communicantes accueillent quatre à cinq personnes, et la formule tout compris évite de surveiller l'addition au dîner avec des enfants affamés."
+      },
+      "intro": {
+        "en": "This is the most complete family resort on the island, a full all-inclusive Club Med sitting on its own white-sand peninsula at Pointe du Marin, one of Martinique's calmest swimming beaches. Kids clubs run from age two up to the teen years, the food is generous and included, and the flat, walkable layout means little legs and prams cope well. You barely need to leave, which is exactly the point after a long flight.",
+        "fr": "C'est le complexe familial le plus complet de l'île, un vrai Club Med tout compris posé sur sa propre presqu'île de sable blanc à la Pointe du Marin, l'une des plages les plus calmes de Martinique pour la baignade. Les clubs enfants vont de deux ans jusqu'à l'adolescence, la table est généreuse et incluse, et le site plat et facile à parcourir convient aux petites jambes comme aux poussettes. On n'a presque pas besoin de sortir, et c'est justement l'idée après un long vol."
+      },
+      "highlights": {
+        "en": [
+          "Kids clubs from age 2 to 17, included",
+          "Calm white-sand beach on its own peninsula",
+          "All-inclusive food, drinks and activities",
+          "Sailing, snorkelling and tennis on site"
+        ],
+        "fr": [
+          "Clubs enfants de 2 à 17 ans, inclus",
+          "Plage de sable blanc calme sur sa propre presqu'île",
+          "Repas, boissons et activités en tout compris",
+          "Voile, masque et tuba et tennis sur place"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Genuinely all ages covered, from toddlers to teens",
+          "One of the safest, shallowest swimming beaches around",
+          "No wallet out all day, everything is included",
+          "Sailing base and watersports right on the sand"
+        ],
+        "fr": [
+          "Tous les âges vraiment couverts, des tout-petits aux ados",
+          "Une des plages les plus sûres et peu profondes du coin",
+          "Pas de portefeuille de la journée, tout est inclus",
+          "Base nautique et sports de mer directement sur le sable"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Premium all-inclusive price, especially in high season",
+          "The baby-and-toddler club has limited hours and can cost extra",
+          "About 50 minutes by car from the airport"
+        ],
+        "fr": [
+          "Tarif tout compris élevé, surtout en haute saison",
+          "Le club des tout-petits a des horaires limités et peut être en supplément",
+          "Environ 50 minutes de voiture depuis l'aéroport"
+        ]
+      },
+      "verdict": {
+        "en": "If you want a one-and-done family base where the kids are looked after and the beach is calm, this is Martinique's benchmark. Book connecting rooms and let the club programme carry the week.",
+        "fr": "Si vous cherchez une base familiale clé en main, où les enfants sont encadrés et la plage reste calme, c'est la référence de la Martinique. Réservez des chambres communicantes et laissez le programme du club rythmer la semaine."
+      },
+      "parentTip": {
+        "en": "Sign the kids up for the sailing sessions early in the week, the beginner catamaran outings on the calm bay are the memory they talk about on the flight home.",
+        "fr": "Inscrivez les enfants aux séances de voile en début de semaine: les sorties catamaran pour débutants sur la baie calme sont le souvenir dont ils parlent dans l'avion du retour."
+      },
+      "atAGlance": [
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids clubs",
+            "fr": "Clubs enfants"
+          },
+          "value": {
+            "en": "Ages 2 to 17, included",
+            "fr": "De 2 à 17 ans, inclus"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "All-inclusive",
+            "fr": "Tout compris"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Calm white sand, on site",
+            "fr": "Sable blanc calme, sur place"
+          }
+        },
+        {
+          "icon": "⛵",
+          "label": {
+            "en": "Watersports",
+            "fr": "Sports nautiques"
+          },
+          "value": {
+            "en": "Sailing and snorkelling included",
+            "fr": "Voile et snorkeling inclus"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "⛵",
+          "name": {
+            "en": "Learn-to-sail session",
+            "fr": "Séance d'initiation à la voile"
+          },
+          "detail": {
+            "en": "The on-site sailing base takes kids and parents out on the sheltered bay, calm enough for a first go on a catamaran or dinghy.",
+            "fr": "La base nautique emmène enfants et parents sur la baie abritée, assez calme pour une première fois en catamaran ou en dériveur."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🐠",
+          "name": {
+            "en": "Snorkel off the beach",
+            "fr": "Masque et tuba depuis la plage"
+          },
+          "detail": {
+            "en": "The clear shallows in front of the resort are a gentle first snorkel, with fish to spot just past the swim ropes.",
+            "fr": "Les eaux claires et peu profondes devant le complexe sont idéales pour un premier snorkeling, avec des poissons à observer juste au-delà des lignes de baignade."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        },
+        {
+          "emoji": "🌅",
+          "name": {
+            "en": "Sunset walk to Pointe Marin",
+            "fr": "Balade au coucher du soleil vers la Pointe Marin"
+          },
+          "detail": {
+            "en": "A flat stroll along the sand to the public beach next door, coconut palms and a proper Caribbean sunset to end the day.",
+            "fr": "Une balade plate le long du sable jusqu'à la plage publique voisine, cocotiers et vrai coucher de soleil des Caraïbes pour clore la journée."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Late afternoon",
+            "fr": "Fin d'après-midi"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Buffet breakfast",
+            "fr": "Petit-déjeuner buffet"
+          },
+          "note": {
+            "en": "Fuel up together before the clubs open, plenty of fruit and pancakes.",
+            "fr": "On fait le plein tous ensemble avant l'ouverture des clubs, fruits et pancakes à volonté."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Kids club drop-off",
+            "fr": "Dépose aux clubs enfants"
+          },
+          "note": {
+            "en": "Each age group has its own base and programme, from crafts to sport.",
+            "fr": "Chaque tranche d'âge a sa base et son programme, du bricolage au sport."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Family lunch and beach",
+            "fr": "Déjeuner en famille et plage"
+          },
+          "note": {
+            "en": "Regroup for lunch, then a lazy afternoon on the calm sand.",
+            "fr": "On se retrouve pour déjeuner, puis après-midi tranquille sur le sable calme."
+          }
+        },
+        {
+          "time": "18:30",
+          "title": {
+            "en": "Mini club show",
+            "fr": "Spectacle du mini club"
+          },
+          "note": {
+            "en": "The little ones love being on stage before the evening buffet.",
+            "fr": "Les petits adorent monter sur scène avant le buffet du soir."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Babies are welcome and cots are available, but the dedicated baby-and-toddler club has shorter hours and can carry a supplement, so check before you book.",
+          "fr": "Les bébés sont les bienvenus et des lits parapluie sont disponibles, mais le club des tout-petits a des horaires plus courts et peut être en supplément: vérifiez avant de réserver."
+        },
+        "toddler": {
+          "en": "The shallow beach and flat, walkable grounds suit toddlers well, with the Petit Club taking over from age two.",
+          "fr": "La plage peu profonde et le site plat et facile à parcourir conviennent bien aux tout-petits, le Petit Club prenant le relais à partir de deux ans."
+        },
+        "kid": {
+          "en": "This is the sweet spot: the Mini Club, sailing, tennis and snorkelling keep this age busy from morning to night.",
+          "fr": "C'est l'âge idéal: le Mini Club, la voile, le tennis et le snorkeling occupent cette tranche du matin au soir."
+        },
+        "teen": {
+          "en": "Teens get their own space and activities, plus watersports and evening entertainment, so they rarely tag along reluctantly.",
+          "fr": "Les ados ont leur propre espace et leurs activités, plus les sports nautiques et les animations du soir, ils suivent donc rarement à contrecoeur."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "From what age are the kids clubs free?",
+            "fr": "À partir de quel âge les clubs enfants sont-ils gratuits?"
+          },
+          "a": {
+            "en": "The Mini Club from age four and the teen programme are included. The Petit Club from age two runs shorter hours and the baby-and-toddler care can carry a supplement, so confirm the details for your dates.",
+            "fr": "Le Mini Club à partir de quatre ans et le programme ados sont inclus. Le Petit Club dès deux ans a des horaires plus courts et l'accueil des tout-petits peut être en supplément: confirmez les détails pour vos dates."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the beach safe for young swimmers?",
+            "fr": "La plage est-elle sûre pour les jeunes nageurs?"
+          },
+          "a": {
+            "en": "Yes, Pointe du Marin is one of the calmest, most gently shelving beaches in the south, with clear shallow water ideal for first swims.",
+            "fr": "Oui, la Pointe du Marin est l'une des plages les plus calmes et en pente douce du sud, avec une eau claire et peu profonde idéale pour les premières baignades."
+          }
+        },
+        {
+          "q": {
+            "en": "Do we need a hire car?",
+            "fr": "Faut-il une voiture de location?"
+          },
+          "a": {
+            "en": "Not for the resort itself, as everything is on site. A car helps only if you want to explore the island on quieter club days.",
+            "fr": "Pas pour le complexe lui-même, tout est sur place. Une voiture n'est utile que si vous voulez explorer l'île les jours plus calmes au club."
+          }
+        }
+      ]
+    },
+    {
+      "key": "martinique-cap-est-lagoon-resort",
+      "destinationKey": "martinique",
+      "name": "Le Cap Est Lagoon Resort & Spa",
+      "area": {
+        "en": "Le Francois",
+        "fr": "Le François"
+      },
+      "lat": 14.629,
+      "lng": -60.8347,
+      "zoom": 13,
+      "address": "Le Cap Est Lagoon Resort & Spa, Quartier Cap Est, 97240 Le Francois, Martinique",
+      "priceTier": 4,
+      "priceFrom": 320,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "baby-friendly",
+        "beach-access",
+        "family-suites"
+      ],
+      "clubFree": false,
+      "photos": [
+        "infinityPoolSea",
+        "overwater",
+        "villaInterior"
+      ],
+      "scores": {
+        "rooms": 92,
+        "baby": 74,
+        "pool": 86,
+        "dining": 88,
+        "safety": 85,
+        "convenience": 70,
+        "location": 82,
+        "extras": 84
+      },
+      "roomsSummary": {
+        "en": "Large suites grouped in colourful Creole villas, each with a private terrace and many with a plunge pool, set around a calm turquoise lagoon on the east coast. The suite layouts give families real space, and the biggest villas suit two adults plus children comfortably.",
+        "fr": "Grandes suites regroupées dans des villas créoles colorées, chacune avec terrasse privée et beaucoup avec bassin de nage, autour d'un lagon turquoise et calme de la côte est. L'agencement en suites offre un vrai espace aux familles, et les plus grandes villas accueillent confortablement deux adultes et des enfants."
+      },
+      "intro": {
+        "en": "A refined lagoon resort on Martinique's quieter Atlantic side, where a coral reef tames the ocean into a warm, shallow, wade-in lagoon that is a gift with young children. It leans upscale and calm rather than kids-club busy, so it suits families who want space, good food and gentle water over a packed activity programme. The trade-off is the remote east-coast setting, so a hire car is essentially a must.",
+        "fr": "Un resort raffiné au bord du lagon, sur le versant atlantique plus tranquille de la Martinique, où une barrière de corail apaise l'océan en un lagon chaud, peu profond et facile d'accès, un vrai cadeau avec de jeunes enfants. L'ambiance est haut de gamme et calme plutôt que club enfants animé: il convient aux familles qui préfèrent l'espace, la bonne cuisine et l'eau douce à un programme d'activités chargé. En contrepartie, l'emplacement isolé de la côte est rend la voiture de location quasi indispensable."
+      },
+      "highlights": {
+        "en": [
+          "Warm, shallow reef-protected lagoon to wade in",
+          "Spacious suites, many with a private plunge pool",
+          "Excellent Creole and French dining on site",
+          "Kayaks and paddleboards on the calm water"
+        ],
+        "fr": [
+          "Lagon chaud et peu profond protégé par le récif, où l'on entre facilement",
+          "Suites spacieuses, beaucoup avec bassin de nage privé",
+          "Excellente cuisine créole et française sur place",
+          "Kayaks et paddles sur l'eau calme"
+        ]
+      },
+      "pros": {
+        "en": [
+          "The lagoon is about as gentle as sea water gets for toddlers",
+          "Generous suite space for a family to spread out",
+          "Quiet, grown-up feel away from the resort strip",
+          "Standout food and a lovely spa for parents"
+        ],
+        "fr": [
+          "Le lagon est à peu près ce que l'eau de mer offre de plus doux pour les tout-petits",
+          "Espace généreux en suite pour qu'une famille respire",
+          "Ambiance calme et adulte, loin des zones touristiques",
+          "Cuisine remarquable et joli spa pour les parents"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No year-round kids club, only some animation in high season",
+          "Remote east-coast location, a hire car is essential",
+          "Quiet evenings may feel flat for older teens"
+        ],
+        "fr": [
+          "Pas de club enfants toute l'année, seulement un peu d'animation en haute saison",
+          "Emplacement isolé sur la côte est, la voiture de location est indispensable",
+          "Soirées calmes, parfois un peu ternes pour les grands ados"
+        ]
+      },
+      "verdict": {
+        "en": "The pick for families with little ones who value a gentle lagoon, space and good food over a club timetable. Rent a car, book a plunge-pool suite and settle into the slow east-coast pace.",
+        "fr": "Le choix des familles avec de jeunes enfants qui préfèrent un lagon doux, l'espace et la bonne table à un emploi du temps de club. Louez une voiture, réservez une suite avec bassin de nage et laissez-vous porter par le rythme lent de la côte est."
+      },
+      "parentTip": {
+        "en": "Ask for a suite on the lagoon side so the kids can paddle a few steps from the terrace while you keep an eye from the shade.",
+        "fr": "Demandez une suite côté lagon: les enfants peuvent barboter à quelques pas de la terrasse pendant que vous gardez un oeil depuis l'ombre."
+      },
+      "atAGlance": [
+        {
+          "icon": "🌊",
+          "label": {
+            "en": "Water",
+            "fr": "Baignade"
+          },
+          "value": {
+            "en": "Warm shallow lagoon",
+            "fr": "Lagon chaud et peu profond"
+          }
+        },
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Rooms",
+            "fr": "Chambres"
+          },
+          "value": {
+            "en": "Suites, many with plunge pool",
+            "fr": "Suites, beaucoup avec bassin"
+          }
+        },
+        {
+          "icon": "🚗",
+          "label": {
+            "en": "Getting around",
+            "fr": "Déplacements"
+          },
+          "value": {
+            "en": "Hire car needed",
+            "fr": "Voiture nécessaire"
+          }
+        },
+        {
+          "icon": "💆",
+          "label": {
+            "en": "Spa",
+            "fr": "Spa"
+          },
+          "value": {
+            "en": "Guerlain spa on site",
+            "fr": "Spa Guerlain sur place"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛶",
+          "name": {
+            "en": "Kayak on the lagoon",
+            "fr": "Kayak sur le lagon"
+          },
+          "detail": {
+            "en": "Flat, protected water makes an easy family paddle, with the resort's kayaks and paddleboards free to borrow.",
+            "fr": "L'eau plate et protégée se prête à une sortie familiale facile, avec les kayaks et paddles du resort à emprunter gratuitement."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "⛵",
+          "name": {
+            "en": "Boat to the fonds blancs",
+            "fr": "Bateau vers les fonds blancs"
+          },
+          "detail": {
+            "en": "Local boats head out to the shallow white sandbanks off Le Francois, where you can stand waist-deep in the middle of the sea.",
+            "fr": "Des bateaux locaux rejoignent les bancs de sable blanc peu profonds au large du François, où l'on a pied en pleine mer, l'eau à la taille."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🐢",
+          "name": {
+            "en": "Lagoon snorkel",
+            "fr": "Snorkeling dans le lagon"
+          },
+          "detail": {
+            "en": "The calm reef edge is a gentle place to spot fish, warm and shallow enough for cautious first-timers.",
+            "fr": "Le bord du récif, calme, est un endroit doux pour observer les poissons, assez chaud et peu profond pour les débutants prudents."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast by the lagoon",
+            "fr": "Petit-déjeuner au bord du lagon"
+          },
+          "note": {
+            "en": "Slow start with a view over the turquoise water.",
+            "fr": "Démarrage tranquille avec vue sur l'eau turquoise."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Lagoon paddle",
+            "fr": "Baignade dans le lagon"
+          },
+          "note": {
+            "en": "Wade-in water right by the villas for the little ones.",
+            "fr": "Eau accessible juste devant les villas pour les petits."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and nap",
+            "fr": "Déjeuner et sieste"
+          },
+          "note": {
+            "en": "Shady terrace lunch, then quiet time in the suite.",
+            "fr": "Déjeuner sur la terrasse ombragée, puis temps calme en suite."
+          }
+        },
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Kayak or pool",
+            "fr": "Kayak ou piscine"
+          },
+          "note": {
+            "en": "Borrow a kayak or cool off in the big pool.",
+            "fr": "On emprunte un kayak ou on se rafraîchit dans la grande piscine."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "The shallow lagoon and roomy suites work well for babies, though there is no baby club and you will want your own kit and a car for supplies.",
+          "fr": "Le lagon peu profond et les suites spacieuses conviennent bien aux bébés, même s'il n'y a pas de club bébé: prévoyez votre propre matériel et une voiture pour les courses."
+        },
+        "toddler": {
+          "en": "Toddlers love the wade-in lagoon, some of the gentlest sea water on the island, with a hand held on the reef edge.",
+          "fr": "Les tout-petits adorent le lagon où l'on entre à pied, parmi les eaux de mer les plus douces de l'île, une main tenue au bord du récif."
+        },
+        "kid": {
+          "en": "Kayaks, snorkelling and boat trips to the sandbanks keep this age happy, but they will need you to organise the day.",
+          "fr": "Kayaks, snorkeling et sorties bateau vers les bancs de sable ravissent cette tranche d'âge, mais il faudra organiser la journée pour eux."
+        },
+        "teen": {
+          "en": "Active teens will like the watersports and boat outings, though quiet evenings mean this suits calmer trips.",
+          "fr": "Les ados actifs apprécieront les sports nautiques et les sorties bateau, mais les soirées calmes en font plutôt un séjour posé."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is there a kids club?",
+            "fr": "Y a-t-il un club enfants?"
+          },
+          "a": {
+            "en": "There is no year-round kids club. Some children's animation runs in high season only, so this resort suits families who prefer independent, gentle days over a club programme.",
+            "fr": "Il n'y a pas de club enfants à l'année. Une animation pour enfants n'a lieu qu'en haute saison, ce resort convient donc aux familles qui préfèrent des journées douces et autonomes à un programme de club."
+          }
+        },
+        {
+          "q": {
+            "en": "How calm is the lagoon really?",
+            "fr": "Le lagon est-il vraiment calme?"
+          },
+          "a": {
+            "en": "Very. A coral reef offshore keeps the water flat, warm and shallow close in, which is why it is such a good spot with toddlers.",
+            "fr": "Très. Une barrière de corail au large maintient l'eau plate, chaude et peu profonde près du bord, ce qui en fait un excellent spot avec des tout-petits."
+          }
+        },
+        {
+          "q": {
+            "en": "Do we really need a car?",
+            "fr": "A-t-on vraiment besoin d'une voiture?"
+          },
+          "a": {
+            "en": "Yes. The resort sits on the remote east coast about 40 minutes from the airport, with little within walking distance, so a hire car is essential.",
+            "fr": "Oui. Le resort se trouve sur la côte est isolée, à environ 40 minutes de l'aéroport, avec peu de choses à distance de marche: la voiture de location est indispensable."
+          }
+        }
+      ]
+    },
+    {
+      "key": "martinique-hotel-bakoua",
+      "destinationKey": "martinique",
+      "name": "Hôtel Bakoua",
+      "area": {
+        "en": "Les Trois-Ilets",
+        "fr": "Les Trois-Îlets"
+      },
+      "lat": 14.5478,
+      "lng": -61.049,
+      "zoom": 13,
+      "address": "Hotel Bakoua, Pointe du Bout, 97229 Les Trois-Ilets, Martinique",
+      "priceTier": 3,
+      "priceFrom": 180,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "beachSunset",
+        "resortLoungers",
+        "poolPalms"
+      ],
+      "scores": {
+        "rooms": 88,
+        "baby": 76,
+        "pool": 80,
+        "dining": 82,
+        "safety": 84,
+        "convenience": 85,
+        "location": 86,
+        "extras": 79
+      },
+      "roomsSummary": {
+        "en": "A classic Creole beachfront hotel at Pointe du Bout, with comfortable rooms in colourful low buildings and gardens running down to a small sandy cove. Family and connecting options exist, and the flat seaside setting keeps things easy with a pram.",
+        "fr": "Un hôtel créole classique en bord de plage à la Pointe du Bout, avec des chambres confortables dans des bâtiments bas et colorés et des jardins qui descendent vers une petite crique de sable. Il existe des chambres familiales et communicantes, et le cadre plat au bord de mer reste facile avec une poussette."
+      },
+      "intro": {
+        "en": "One of Martinique's best-known beachfront hotels, sitting right on the Pointe du Bout marina where the ferry crosses to Fort-de-France in twenty minutes. It pairs a proper little sandy beach and a seafront pool with a walkable strip of restaurants, so you get the ease of a resort with a real village feel just outside the gate. It is a comfortable three-star rather than a lavish resort, which is part of its easy, unfussy charm.",
+        "fr": "L'un des hôtels de bord de plage les plus connus de la Martinique, posé sur la marina de la Pointe du Bout d'où la navette rejoint Fort-de-France en vingt minutes. Il associe une vraie petite plage de sable et une piscine face à la mer à une rue de restaurants accessible à pied: on a la facilité d'un resort avec l'ambiance d'un vrai village juste devant la porte. C'est un trois-étoiles confortable plutôt qu'un complexe fastueux, et c'est aussi son charme simple et sans chichi."
+      },
+      "highlights": {
+        "en": [
+          "Right on the sand at Pointe du Bout",
+          "Ferry to Fort-de-France from the marina next door",
+          "Seafront pool and gardens",
+          "Walkable strip of restaurants and shops"
+        ],
+        "fr": [
+          "Directement sur le sable à la Pointe du Bout",
+          "Navette pour Fort-de-France depuis la marina voisine",
+          "Piscine et jardins face à la mer",
+          "Rue de restaurants et boutiques accessible à pied"
+        ]
+      },
+      "pros": {
+        "en": [
+          "True beachfront with a calm little cove",
+          "Easy ferry days into the capital, no driving",
+          "Plenty of restaurants a short walk away",
+          "Relaxed, friendly Creole atmosphere"
+        ],
+        "fr": [
+          "Vrai bord de plage avec une petite crique calme",
+          "Sorties faciles en navette vers la capitale, sans voiture",
+          "De nombreux restaurants à courte distance à pied",
+          "Ambiance créole détendue et accueillante"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Comfortable rather than luxurious, some rooms feel dated",
+          "No kids club, so you set the pace yourselves",
+          "The cove beach is small and can get busy"
+        ],
+        "fr": [
+          "Confortable plutôt que luxueux, certaines chambres font datées",
+          "Pas de club enfants, vous donnez le rythme vous-mêmes",
+          "La crique est petite et peut être fréquentée"
+        ]
+      },
+      "verdict": {
+        "en": "A well-placed, easygoing beachfront base for families who want to explore by ferry and on foot rather than stay put in a resort. Great for a first trip that mixes beach and island days.",
+        "fr": "Une base de bord de plage bien située et décontractée, pour les familles qui préfèrent explorer en navette et à pied plutôt que rester dans un complexe. Idéal pour un premier séjour qui mêle plage et journées d'île."
+      },
+      "parentTip": {
+        "en": "Take the ferry across to Fort-de-France mid-morning, kids love the boat ride and it saves the stress of parking in town.",
+        "fr": "Prenez la navette pour Fort-de-France en milieu de matinée: les enfants adorent la traversée et cela évite le stress du stationnement en ville."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "On site, small sandy cove",
+            "fr": "Sur place, petite crique de sable"
+          }
+        },
+        {
+          "icon": "⛴️",
+          "label": {
+            "en": "Ferry",
+            "fr": "Navette"
+          },
+          "value": {
+            "en": "20 min to Fort-de-France",
+            "fr": "20 min de Fort-de-France"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Restaurants",
+            "fr": "Restaurants"
+          },
+          "value": {
+            "en": "Walkable village strip",
+            "fr": "Rue du village à pied"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "Seafront pool",
+            "fr": "Piscine face à la mer"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "⛴️",
+          "name": {
+            "en": "Ferry to Fort-de-France",
+            "fr": "Navette pour Fort-de-France"
+          },
+          "detail": {
+            "en": "The little passenger ferry crosses the bay in about twenty minutes, a fun outing and the easy way into the capital's market and fort.",
+            "fr": "La petite navette traverse la baie en une vingtaine de minutes, une sortie amusante et le moyen simple de rejoindre le marché et le fort de la capitale."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Anse Mitan beach day",
+            "fr": "Journée plage à l'Anse Mitan"
+          },
+          "detail": {
+            "en": "The calm, shallow beach at Anse Mitan is a short walk along the front, sheltered and good for young paddlers.",
+            "fr": "La plage calme et peu profonde de l'Anse Mitan est à quelques minutes à pied le long du front de mer, abritée et adaptée aux jeunes baigneurs."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        },
+        {
+          "emoji": "🍧",
+          "name": {
+            "en": "Marina stroll for sorbet",
+            "fr": "Balade à la marina pour un sorbet"
+          },
+          "detail": {
+            "en": "An easy evening wander around the marina, with sorbet and boat-watching to end the day.",
+            "fr": "Une balade tranquille du soir autour de la marina, avec un sorbet et les bateaux à regarder pour finir la journée."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soir"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast on the terrace",
+            "fr": "Petit-déjeuner en terrasse"
+          },
+          "note": {
+            "en": "Sea view and fresh tropical fruit to start.",
+            "fr": "Vue mer et fruits tropicaux frais pour commencer."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Ferry into town",
+            "fr": "Navette pour la ville"
+          },
+          "note": {
+            "en": "Cross to Fort-de-France for the market and fort.",
+            "fr": "On traverse vers Fort-de-France pour le marché et le fort."
+          }
+        },
+        {
+          "time": "14:00",
+          "title": {
+            "en": "Pool and cove",
+            "fr": "Piscine et crique"
+          },
+          "note": {
+            "en": "Back for a swim in the calm cove and the pool.",
+            "fr": "Retour pour une baignade dans la crique calme et la piscine."
+          }
+        },
+        {
+          "time": "18:30",
+          "title": {
+            "en": "Dinner on the strip",
+            "fr": "Dîner dans la rue du village"
+          },
+          "note": {
+            "en": "Pick a Creole spot a short walk from the gate.",
+            "fr": "On choisit une table créole à deux pas de l'hôtel."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Cots are available and the flat seafront is pram-friendly, though rooms and beach are compact rather than sprawling.",
+          "fr": "Des lits parapluie sont disponibles et le front de mer plat se prête à la poussette, même si chambres et plage sont plutôt compactes qu'étendues."
+        },
+        "toddler": {
+          "en": "The small calm cove and nearby Anse Mitan are gentle for toddlers, with shade close to the water.",
+          "fr": "La petite crique calme et l'Anse Mitan voisine sont douces pour les tout-petits, avec de l'ombre près de l'eau."
+        },
+        "kid": {
+          "en": "Ferry rides, beach and easy watersports nearby give this age plenty to do, even without a club.",
+          "fr": "Traversées en navette, plage et sports nautiques faciles à proximité donnent de quoi faire à cet âge, même sans club."
+        },
+        "teen": {
+          "en": "The walkable village, marina and boat trips from the harbour suit teens who like a bit of independence.",
+          "fr": "Le village à pied, la marina et les sorties bateau depuis le port conviennent aux ados qui aiment un peu d'autonomie."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is it really on the beach?",
+            "fr": "Est-il vraiment sur la plage?"
+          },
+          "a": {
+            "en": "Yes, the hotel sits right on a small sandy cove at Pointe du Bout, with the larger calm beach of Anse Mitan a short walk away.",
+            "fr": "Oui, l'hôtel est posé sur une petite crique de sable à la Pointe du Bout, la plus grande plage calme de l'Anse Mitan étant à courte distance à pied."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we manage without a car?",
+            "fr": "Peut-on se passer de voiture?"
+          },
+          "a": {
+            "en": "For a beach-and-ferry trip, yes. Restaurants are walkable and the ferry reaches Fort-de-France, though a car helps for exploring the wider island.",
+            "fr": "Pour un séjour plage et navette, oui. Les restaurants sont accessibles à pied et la navette dessert Fort-de-France, mais une voiture aide pour explorer le reste de l'île."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a kids club?",
+            "fr": "Y a-t-il un club enfants?"
+          },
+          "a": {
+            "en": "No, there is no regular kids club here. The appeal is the beachfront location and easy days out rather than an organised children's programme.",
+            "fr": "Non, il n'y a pas de club enfants régulier ici. L'atout, c'est l'emplacement en bord de plage et les sorties faciles plutôt qu'un programme organisé pour enfants."
+          }
+        }
+      ]
+    },
+    {
+      "key": "martinique-la-suite-villa",
+      "destinationKey": "martinique",
+      "name": "La Suite Villa",
+      "area": {
+        "en": "Les Trois-Ilets",
+        "fr": "Les Trois-Îlets"
+      },
+      "lat": 14.5445,
+      "lng": -61.0432,
+      "zoom": 13,
+      "address": "La Suite Villa, Route du Fort d'Alet, Anse Mitan, 97229 Les Trois-Ilets, Martinique",
+      "priceTier": 3,
+      "priceFrom": 210,
+      "ages": [
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "family-suites",
+        "self-catering",
+        "beach-access"
+      ],
+      "clubFree": false,
+      "photos": [
+        "villaPink",
+        "villaPoolGreen",
+        "villaModern"
+      ],
+      "scores": {
+        "rooms": 90,
+        "baby": 70,
+        "pool": 82,
+        "dining": 80,
+        "safety": 79,
+        "convenience": 80,
+        "location": 82,
+        "extras": 81
+      },
+      "roomsSummary": {
+        "en": "A design-led boutique hotel of colourful suites and private villas on a hillside above Anse Mitan, many with their own plunge pool and a big bay view. The villas have kitchen space and room for a family, giving you self-catering flexibility with a stylish base.",
+        "fr": "Un hôtel-boutique au design soigné, fait de suites colorées et de villas privées sur une colline au-dessus de l'Anse Mitan, beaucoup avec leur propre bassin de nage et une large vue sur la baie. Les villas disposent d'un coin cuisine et de place pour une famille, alliant la souplesse du logement autonome à une base élégante."
+      },
+      "intro": {
+        "en": "A stylish, colourful boutique hotel just above Anse Mitan, made for families who want their own villa with a plunge pool and a bit of design flair rather than a big resort. The private villas sleep a family and have kitchen space, so you can keep toddler routines and eat in when you want, while the beach and the ferry are a short drive down the hill. It is calm and grown-up in feel, best with children who are past the constant-supervision stage.",
+        "fr": "Un hôtel-boutique élégant et coloré juste au-dessus de l'Anse Mitan, pensé pour les familles qui veulent leur propre villa avec bassin de nage et une touche de design plutôt qu'un grand complexe. Les villas privées accueillent une famille et disposent d'un coin cuisine: on garde le rythme des tout-petits et on dîne à la villa quand on veut, la plage et la navette étant à quelques minutes en bas de la colline. L'ambiance est calme et adulte, idéale avec des enfants qui ne réclament plus une surveillance de tous les instants."
+      },
+      "highlights": {
+        "en": [
+          "Private villas, many with a plunge pool",
+          "Colourful, design-led rooms and big bay views",
+          "Kitchen space for family self-catering",
+          "Short drive to Anse Mitan beach and the ferry"
+        ],
+        "fr": [
+          "Villas privées, beaucoup avec bassin de nage",
+          "Chambres au design coloré et larges vues sur la baie",
+          "Coin cuisine pour cuisiner en famille",
+          "À quelques minutes de la plage de l'Anse Mitan et de la navette"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Your own villa and plunge pool for privacy",
+          "Self-catering flexibility for fussy eaters and naps",
+          "Genuinely beautiful design and views",
+          "Quiet hillside setting, still close to the action"
+        ],
+        "fr": [
+          "Votre propre villa et bassin de nage pour l'intimité",
+          "Souplesse du logement autonome pour repas difficiles et siestes",
+          "Design et vues vraiment magnifiques",
+          "Cadre calme sur la colline, tout en restant proche de l'animation"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Hillside steps and pools mean constant watching with babies",
+          "Not on the beach, you drive or walk down",
+          "No kids club or big resort facilities"
+        ],
+        "fr": [
+          "Marches sur la colline et bassins imposent une surveillance constante avec un bébé",
+          "Pas sur la plage, il faut descendre en voiture ou à pied",
+          "Pas de club enfants ni de grandes installations de complexe"
+        ]
+      },
+      "verdict": {
+        "en": "The choice for design-minded families with kids past the toddler-proofing stage who want their own villa and pool. Rent a car, cook when you like, and use it as a calm, pretty base.",
+        "fr": "Le choix des familles sensibles au design, avec des enfants qui ne sont plus au stade du tout-sécuriser, et qui veulent leur propre villa et piscine. Louez une voiture, cuisinez quand vous voulez, et faites-en une base calme et jolie."
+      },
+      "parentTip": {
+        "en": "Book a villa with its own plunge pool so nap-time and pool-time can happen at your villa without hauling everyone down to the beach.",
+        "fr": "Réservez une villa avec son propre bassin: la sieste et la baignade peuvent se faire chez vous, sans devoir descendre tout le monde à la plage."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏡",
+          "label": {
+            "en": "Rooms",
+            "fr": "Hébergement"
+          },
+          "value": {
+            "en": "Villas and suites",
+            "fr": "Villas et suites"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Many with private plunge pool",
+            "fr": "Beaucoup avec bassin privé"
+          }
+        },
+        {
+          "icon": "🍳",
+          "label": {
+            "en": "Self-catering",
+            "fr": "Cuisine"
+          },
+          "value": {
+            "en": "Kitchen space in villas",
+            "fr": "Coin cuisine dans les villas"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Short drive to Anse Mitan",
+            "fr": "Anse Mitan à quelques minutes"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Villa plunge-pool morning",
+            "fr": "Matinée au bassin de la villa"
+          },
+          "detail": {
+            "en": "With your own pool on the terrace, mornings can be slow and private before you head out.",
+            "fr": "Avec votre propre bassin sur la terrasse, les matinées peuvent être lentes et intimes avant de sortir."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Down to Anse Mitan",
+            "fr": "Descente à l'Anse Mitan"
+          },
+          "detail": {
+            "en": "The calm, shallow bay beach is a few minutes downhill, sheltered and easy for a family swim.",
+            "fr": "La plage calme et peu profonde de la baie est à quelques minutes en contrebas, abritée et facile pour une baignade en famille."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        },
+        {
+          "emoji": "🌿",
+          "name": {
+            "en": "Jardin de Balata day trip",
+            "fr": "Excursion au Jardin de Balata"
+          },
+          "detail": {
+            "en": "A short drive reaches the famous rainforest garden with its treetop rope bridges, a hit with older kids.",
+            "fr": "Un court trajet mène au célèbre jardin de forêt tropicale et à ses ponts suspendus dans les arbres, un succès auprès des plus grands."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Slow villa breakfast",
+            "fr": "Petit-déjeuner tranquille à la villa"
+          },
+          "note": {
+            "en": "Eat in on the terrace with the bay view.",
+            "fr": "On mange sur la terrasse avec vue sur la baie."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Plunge pool play",
+            "fr": "Jeux au bassin"
+          },
+          "note": {
+            "en": "The private pool keeps the kids happy at home.",
+            "fr": "Le bassin privé occupe les enfants sur place."
+          }
+        },
+        {
+          "time": "13:30",
+          "title": {
+            "en": "Beach afternoon",
+            "fr": "Après-midi plage"
+          },
+          "note": {
+            "en": "Drive down to Anse Mitan for a calm swim.",
+            "fr": "On descend à l'Anse Mitan pour une baignade calme."
+          }
+        },
+        {
+          "time": "19:00",
+          "title": {
+            "en": "Cook-in or dine out",
+            "fr": "Cuisine à la villa ou restaurant"
+          },
+          "note": {
+            "en": "Use the kitchen or walk to a nearby table.",
+            "fr": "On utilise la cuisine ou on rejoint une table voisine."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "The hillside steps and open plunge pools make this a watch-every-second choice with babies, so it suits older children better.",
+          "fr": "Les marches de la colline et les bassins ouverts imposent une vigilance de chaque instant avec un bébé, cet hôtel convient donc mieux aux enfants plus grands."
+        },
+        "toddler": {
+          "en": "Toddlers love a private pool, but it must be supervised at all times as there are no fences or shallow steps.",
+          "fr": "Les tout-petits adorent un bassin privé, mais il faut le surveiller en permanence: pas de barrières ni de marches peu profondes."
+        },
+        "kid": {
+          "en": "This is the sweet spot, with a private pool, beach nearby and rainforest day trips within reach.",
+          "fr": "C'est l'âge idéal, avec un bassin privé, la plage à proximité et des excursions en forêt tropicale accessibles."
+        },
+        "teen": {
+          "en": "Teens appreciate the design, privacy and a base for exploring by car with a bit of independence.",
+          "fr": "Les ados apprécient le design, l'intimité et une base pour explorer en voiture avec un peu d'autonomie."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Are the villas good for a family of four?",
+            "fr": "Les villas conviennent-elles à une famille de quatre?"
+          },
+          "a": {
+            "en": "Yes, the larger villas sleep a family and have kitchen space, giving you room and self-catering flexibility that a standard room does not.",
+            "fr": "Oui, les plus grandes villas accueillent une famille et disposent d'un coin cuisine, offrant l'espace et la souplesse du logement autonome qu'une chambre classique n'a pas."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it walkable to the beach?",
+            "fr": "La plage est-elle accessible à pied?"
+          },
+          "a": {
+            "en": "Anse Mitan is a short way downhill, walkable for older kids but easier by car with little ones and beach gear.",
+            "fr": "L'Anse Mitan est un peu plus bas sur la colline, accessible à pied pour les plus grands mais plus simple en voiture avec des petits et le matériel de plage."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it suitable for babies?",
+            "fr": "Est-ce adapté aux bébés?"
+          },
+          "a": {
+            "en": "It can work, but the steps and unfenced plunge pools mean constant supervision, so most families find it easier from toddler age up.",
+            "fr": "C'est possible, mais les marches et les bassins non clôturés imposent une surveillance constante: la plupart des familles le trouvent plus simple à partir de l'âge des tout-petits."
+          }
+        }
+      ]
+    },
+    {
+      "key": "martinique-la-pagerie",
+      "destinationKey": "martinique",
+      "name": "La Pagerie",
+      "area": {
+        "en": "Les Trois-Ilets",
+        "fr": "Les Trois-Îlets"
+      },
+      "lat": 14.547,
+      "lng": -61.0472,
+      "zoom": 13,
+      "address": "La Pagerie Hotel, Pointe du Bout, 97229 Les Trois-Ilets, Martinique",
+      "priceTier": 2,
+      "priceFrom": 150,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "baby-friendly",
+        "beach-access",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "poolCabanas",
+        "poolDuskPalms",
+        "coastTown"
+      ],
+      "scores": {
+        "rooms": 84,
+        "baby": 74,
+        "pool": 78,
+        "dining": 76,
+        "safety": 80,
+        "convenience": 82,
+        "location": 82,
+        "extras": 77
+      },
+      "roomsSummary": {
+        "en": "Comfortable, freshly updated rooms set around a pool and tropical garden in the heart of Pointe du Bout, a two-minute walk from the marina and the ferry. Some rooms connect or take an extra bed, which works for a family of four.",
+        "fr": "Chambres confortables et récemment rénovées, disposées autour d'une piscine et d'un jardin tropical au coeur de la Pointe du Bout, à deux minutes à pied de la marina et de la navette. Certaines chambres communiquent ou acceptent un lit d'appoint, ce qui convient à une famille de quatre."
+      },
+      "intro": {
+        "en": "A friendly, good-value hotel bang in the middle of Pointe du Bout, the little resort village on the bay across from Fort-de-France. You are steps from the marina, the ferry, the beach at Anse Mitan and a cluster of restaurants, with a pretty pool and garden to come back to. It is not a full resort, but for a family that wants an affordable, walkable base with the ferry on the doorstep, it hits the mark.",
+        "fr": "Un hôtel accueillant et d'un bon rapport qualité-prix, en plein coeur de la Pointe du Bout, le petit village balnéaire de la baie face à Fort-de-France. On est à deux pas de la marina, de la navette, de la plage de l'Anse Mitan et d'un ensemble de restaurants, avec une jolie piscine et un jardin où revenir. Ce n'est pas un complexe complet, mais pour une famille qui veut une base abordable et accessible à pied, avec la navette à la porte, il fait mouche."
+      },
+      "highlights": {
+        "en": [
+          "Central Pointe du Bout, everything on foot",
+          "Two minutes from the ferry to Fort-de-France",
+          "Pretty pool and tropical garden",
+          "Anse Mitan beach a short walk away"
+        ],
+        "fr": [
+          "En plein centre de la Pointe du Bout, tout à pied",
+          "À deux minutes de la navette pour Fort-de-France",
+          "Jolie piscine et jardin tropical",
+          "Plage de l'Anse Mitan à courte distance à pied"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Great value for the location",
+          "Walk everywhere, no car needed for a beach trip",
+          "Ferry outings into the capital are effortless",
+          "Relaxed, unpretentious and family-friendly"
+        ],
+        "fr": [
+          "Excellent rapport qualité-prix pour l'emplacement",
+          "Tout à pied, pas besoin de voiture pour un séjour plage",
+          "Sorties en navette vers la capitale sans effort",
+          "Détendu, sans prétention et accueillant pour les familles"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Not directly on the beach, though it is a short walk",
+          "No kids club or big resort facilities",
+          "Village setting can be lively in the evening"
+        ],
+        "fr": [
+          "Pas directement sur la plage, même si elle est à quelques pas",
+          "Pas de club enfants ni de grandes installations de complexe",
+          "Le cadre du village peut être animé le soir"
+        ]
+      },
+      "verdict": {
+        "en": "The smart budget-conscious pick for a walkable, ferry-friendly family base in Pointe du Bout. You trade resort extras for a great location and a fair price.",
+        "fr": "Le choix malin et raisonnable pour une base familiale accessible à pied et bien reliée par la navette à la Pointe du Bout. On échange les extras d'un complexe contre un excellent emplacement et un prix juste."
+      },
+      "parentTip": {
+        "en": "Grab a connecting room or one that takes an extra bed, and use the pool for the hot afternoon lull before an early ferry the next morning.",
+        "fr": "Prenez une chambre communicante ou avec lit d'appoint, et profitez de la piscine pour l'accalmie de l'après-midi chaud avant une navette matinale le lendemain."
+      },
+      "atAGlance": [
+        {
+          "icon": "📍",
+          "label": {
+            "en": "Location",
+            "fr": "Emplacement"
+          },
+          "value": {
+            "en": "Central Pointe du Bout",
+            "fr": "Centre de la Pointe du Bout"
+          }
+        },
+        {
+          "icon": "⛴️",
+          "label": {
+            "en": "Ferry",
+            "fr": "Navette"
+          },
+          "value": {
+            "en": "2 min walk",
+            "fr": "À 2 min à pied"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "Garden pool on site",
+            "fr": "Piscine jardin sur place"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Anse Mitan, short walk",
+            "fr": "Anse Mitan, à pied"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "⛴️",
+          "name": {
+            "en": "Ferry day to the capital",
+            "fr": "Journée navette vers la capitale"
+          },
+          "detail": {
+            "en": "Walk to the jetty and cross the bay to Fort-de-France for the market, the fort and lunch out.",
+            "fr": "On rejoint l'embarcadère à pied et on traverse la baie vers Fort-de-France pour le marché, le fort et un déjeuner en ville."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Anse Mitan swim",
+            "fr": "Baignade à l'Anse Mitan"
+          },
+          "detail": {
+            "en": "The sheltered, shallow beach is a short walk along the front, calm enough for young children.",
+            "fr": "La plage abritée et peu profonde est à courte distance à pied le long du front de mer, assez calme pour les jeunes enfants."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        },
+        {
+          "emoji": "🐢",
+          "name": {
+            "en": "Turtle spotting at Anse Dufour",
+            "fr": "Observation des tortues à l'Anse Dufour"
+          },
+          "detail": {
+            "en": "A short drive reaches the calm cove where sea turtles graze close to shore, a snorkel highlight for kids.",
+            "fr": "Un court trajet mène à la crique calme où les tortues de mer broutent près du bord, un temps fort du snorkeling pour les enfants."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Breakfast by the pool",
+            "fr": "Petit-déjeuner au bord de la piscine"
+          },
+          "note": {
+            "en": "Easy start before the day warms up.",
+            "fr": "Départ tranquille avant que la journée chauffe."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Ferry across the bay",
+            "fr": "Navette à travers la baie"
+          },
+          "note": {
+            "en": "Walk to the jetty and cross to Fort-de-France.",
+            "fr": "On rejoint l'embarcadère et on traverse vers Fort-de-France."
+          }
+        },
+        {
+          "time": "14:00",
+          "title": {
+            "en": "Pool cool-down",
+            "fr": "Pause fraîcheur à la piscine"
+          },
+          "note": {
+            "en": "Back for a swim in the hottest part of the day.",
+            "fr": "Retour pour une baignade au plus chaud de la journée."
+          }
+        },
+        {
+          "time": "18:00",
+          "title": {
+            "en": "Dinner in the village",
+            "fr": "Dîner au village"
+          },
+          "note": {
+            "en": "Plenty of Creole tables a few steps away.",
+            "fr": "De nombreuses tables créoles à deux pas."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Cots are available and the flat village layout is pram-friendly, with the pool handy for warm afternoons.",
+          "fr": "Des lits parapluie sont disponibles et le village plat se prête à la poussette, la piscine étant pratique pour les après-midi chauds."
+        },
+        "toddler": {
+          "en": "The shallow pool and nearby calm beach at Anse Mitan suit toddlers, with everything a short flat walk away.",
+          "fr": "La piscine peu profonde et la plage calme voisine de l'Anse Mitan conviennent aux tout-petits, tout étant accessible par une courte balade plate."
+        },
+        "kid": {
+          "en": "Ferry rides, beaches and turtle snorkelling nearby keep this age busy without needing a club.",
+          "fr": "Traversées en navette, plages et snorkeling avec les tortues à proximité occupent cet âge sans besoin de club."
+        },
+        "teen": {
+          "en": "The walkable village and easy trips out give teens a bit of freedom on a modest budget.",
+          "fr": "Le village accessible à pied et les sorties faciles offrent aux ados un peu de liberté sans budget démesuré."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is it on the beach?",
+            "fr": "Est-il sur la plage?"
+          },
+          "a": {
+            "en": "Not directly. The hotel is in the centre of Pointe du Bout, with the calm Anse Mitan beach a short walk away.",
+            "fr": "Pas directement. L'hôtel est au centre de la Pointe du Bout, la plage calme de l'Anse Mitan étant à quelques minutes à pied."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we visit Fort-de-France easily?",
+            "fr": "Peut-on visiter Fort-de-France facilement?"
+          },
+          "a": {
+            "en": "Yes, the passenger ferry is a two-minute walk and crosses the bay in about twenty minutes, no driving or parking needed.",
+            "fr": "Oui, la navette est à deux minutes à pied et traverse la baie en une vingtaine de minutes, sans voiture ni stationnement."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it good value?",
+            "fr": "Le rapport qualité-prix est-il bon?"
+          },
+          "a": {
+            "en": "For the central location and walkable everything, yes. You save on the resort extras you may not use with young children.",
+            "fr": "Pour l'emplacement central et tout à pied, oui. On économise sur les extras de complexe que l'on n'utilise pas forcément avec de jeunes enfants."
+          }
+        }
+      ]
+    },
+    {
+      "key": "martinique-karibea-amyris",
+      "destinationKey": "martinique",
+      "name": "Karibea Amyris",
+      "area": {
+        "en": "Sainte-Luce",
+        "fr": "Sainte-Luce"
+      },
+      "lat": 14.4695,
+      "lng": -60.926,
+      "zoom": 13,
+      "address": "Karibea Resort Sainte-Luce Amyris, Quartier Desert, 97228 Sainte-Luce, Martinique",
+      "priceTier": 2,
+      "priceFrom": 130,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "self-catering",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "whiteResortPool",
+        "poolOrange",
+        "resortLoungers"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 76,
+        "pool": 78,
+        "dining": 72,
+        "safety": 78,
+        "convenience": 79,
+        "location": 78,
+        "extras": 74
+      },
+      "roomsSummary": {
+        "en": "Apartment-style rooms and studios with kitchenettes, part of the Karibea resort village at Sainte-Luce, set in gardens with pools and close to a string of calm south-coast beaches. The self-catering setup and family units make it practical and easy on the budget.",
+        "fr": "Chambres et studios de type appartement avec kitchenette, au sein du village Karibea de Sainte-Luce, dans des jardins avec piscines et proches d'un chapelet de plages calmes de la côte sud. La formule avec cuisine et les unités familiales le rendent pratique et léger pour le budget."
+      },
+      "intro": {
+        "en": "Part of the Karibea resort village in Sainte-Luce, a laid-back south-coast town lined with calm, shallow beaches that are some of the friendliest on the island for young swimmers. The rooms come with kitchenettes, so you get self-catering flexibility at a fair price, and there are pools in the gardens for lazy afternoons. It is more practical village than polished resort, but for value and gentle beaches, it earns its place.",
+        "fr": "Fait partie du village Karibea de Sainte-Luce, une ville décontractée de la côte sud bordée de plages calmes et peu profondes, parmi les plus accueillantes de l'île pour les jeunes nageurs. Les chambres disposent d'une kitchenette: on a la souplesse du logement autonome à un prix juste, avec des piscines dans les jardins pour les après-midi paresseux. C'est plus un village pratique qu'un complexe raffiné, mais pour le budget et les plages douces, il mérite sa place."
+      },
+      "highlights": {
+        "en": [
+          "Kitchenettes for easy self-catering",
+          "Pools in tropical gardens",
+          "Calm, shallow Sainte-Luce beaches nearby",
+          "Good value for a family week"
+        ],
+        "fr": [
+          "Kitchenettes pour cuisiner facilement",
+          "Piscines dans des jardins tropicaux",
+          "Plages calmes et peu profondes de Sainte-Luce à proximité",
+          "Bon rapport qualité-prix pour une semaine en famille"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Affordable base with self-catering flexibility",
+          "Some of the island's gentlest beaches close by",
+          "Family units and connecting options",
+          "Relaxed local south-coast atmosphere"
+        ],
+        "fr": [
+          "Base abordable avec la souplesse de la cuisine",
+          "Parmi les plages les plus douces de l'île à proximité",
+          "Unités familiales et chambres communicantes",
+          "Ambiance locale et détendue de la côte sud"
+        ]
+      },
+      "cons": {
+        "en": [
+          "More functional village than polished resort",
+          "Dining on site is basic, a car helps for eating out",
+          "No full kids club programme"
+        ],
+        "fr": [
+          "Plus village fonctionnel que complexe raffiné",
+          "Restauration basique sur place, une voiture aide pour dîner dehors",
+          "Pas de vrai programme de club enfants"
+        ]
+      },
+      "verdict": {
+        "en": "The value pick for a longer family stay near the calm Sainte-Luce beaches, with a kitchenette to keep costs and routines under control. Rent a car and treat the town as your low-key base.",
+        "fr": "Le choix économique pour un séjour familial plus long près des plages calmes de Sainte-Luce, avec une kitchenette pour maîtriser coûts et routines. Louez une voiture et faites de la ville votre base tranquille."
+      },
+      "parentTip": {
+        "en": "Stock the kitchenette on arrival and do beach mornings at Anse Corps de Garde, the shallow, sheltered sand is ideal for little paddlers.",
+        "fr": "Remplissez la kitchenette dès l'arrivée et faites vos matinées plage à l'Anse Corps de Garde: le sable peu profond et abrité est idéal pour les petits baigneurs."
+      },
+      "atAGlance": [
+        {
+          "icon": "🍳",
+          "label": {
+            "en": "Kitchenette",
+            "fr": "Kitchenette"
+          },
+          "value": {
+            "en": "In most units",
+            "fr": "Dans la plupart des unités"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Garden pools on site",
+            "fr": "Piscines jardin sur place"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beaches",
+            "fr": "Plages"
+          },
+          "value": {
+            "en": "Calm shallow Sainte-Luce sands",
+            "fr": "Sable calme et peu profond de Sainte-Luce"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Value",
+            "fr": "Budget"
+          },
+          "value": {
+            "en": "Budget-friendly",
+            "fr": "Abordable"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Anse Corps de Garde beach",
+            "fr": "Plage de l'Anse Corps de Garde"
+          },
+          "detail": {
+            "en": "One of the calmest, most gently shelving beaches on the south coast, a short drive from the hotel.",
+            "fr": "L'une des plages les plus calmes et en pente douce de la côte sud, à quelques minutes en voiture de l'hôtel."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🥥",
+          "name": {
+            "en": "Rum distillery grounds",
+            "fr": "Domaine d'une distillerie de rhum"
+          },
+          "detail": {
+            "en": "The nearby distilleries have leafy grounds and old machinery to wander, an easy, shady half-day with kids.",
+            "fr": "Les distilleries voisines ont des domaines verdoyants et d'anciennes machines à découvrir, une demi-journée facile et ombragée avec les enfants."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        },
+        {
+          "emoji": "🐟",
+          "name": {
+            "en": "Snorkel at Anse Mabouya",
+            "fr": "Snorkeling à l'Anse Mabouya"
+          },
+          "detail": {
+            "en": "A sheltered local cove with clear shallows, good for an easy family snorkel close to town.",
+            "fr": "Une crique locale abritée aux eaux claires et peu profondes, parfaite pour un snorkeling familial facile près de la ville."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Breakfast in the apartment",
+            "fr": "Petit-déjeuner à l'appartement"
+          },
+          "note": {
+            "en": "Use the kitchenette, save the cost of eating out.",
+            "fr": "On utilise la kitchenette, on économise le restaurant."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Beach morning",
+            "fr": "Matinée plage"
+          },
+          "note": {
+            "en": "Head to a calm Sainte-Luce beach for a swim.",
+            "fr": "Direction une plage calme de Sainte-Luce pour se baigner."
+          }
+        },
+        {
+          "time": "13:30",
+          "title": {
+            "en": "Pool and rest",
+            "fr": "Piscine et repos"
+          },
+          "note": {
+            "en": "Back to the garden pool for the hot hours.",
+            "fr": "Retour à la piscine du jardin pour les heures chaudes."
+          }
+        },
+        {
+          "time": "18:00",
+          "title": {
+            "en": "Cook-in dinner",
+            "fr": "Dîner à l'appartement"
+          },
+          "note": {
+            "en": "Simple supper in the apartment or a local table.",
+            "fr": "Repas simple à l'appartement ou table locale."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "The kitchenette makes bottles and baby food easy, and the calm shallow beaches nearby are gentle for first paddles.",
+          "fr": "La kitchenette simplifie biberons et petits pots, et les plages calmes et peu profondes voisines sont douces pour les premières baignades."
+        },
+        "toddler": {
+          "en": "Shallow pools and the sheltered Sainte-Luce sands suit toddlers, with self-catering keeping routines simple.",
+          "fr": "Les piscines peu profondes et le sable abrité de Sainte-Luce conviennent aux tout-petits, la cuisine sur place gardant les routines simples."
+        },
+        "kid": {
+          "en": "Beaches, snorkelling and distillery grounds give this age plenty to do on a modest budget.",
+          "fr": "Plages, snorkeling et domaines de distilleries donnent de quoi faire à cet âge sans budget démesuré."
+        },
+        "teen": {
+          "en": "Teens will want a car for beach-hopping and outings, as the on-site scene is quiet.",
+          "fr": "Les ados voudront une voiture pour enchaîner les plages et les sorties, l'animation sur place étant calme."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Do the rooms have a kitchen?",
+            "fr": "Les chambres ont-elles une cuisine?"
+          },
+          "a": {
+            "en": "Most units have a kitchenette, which is a big help for baby food, fussy eaters and keeping the budget down over a week.",
+            "fr": "La plupart des unités ont une kitchenette, une vraie aide pour les petits pots, les repas difficiles et pour maîtriser le budget sur une semaine."
+          }
+        },
+        {
+          "q": {
+            "en": "Are the beaches good for young children?",
+            "fr": "Les plages sont-elles bonnes pour les jeunes enfants?"
+          },
+          "a": {
+            "en": "Yes, Sainte-Luce has some of the calmest, shallowest beaches on the island, ideal for first swims and sandcastles.",
+            "fr": "Oui, Sainte-Luce compte parmi les plages les plus calmes et peu profondes de l'île, idéales pour les premières baignades et les châteaux de sable."
+          }
+        },
+        {
+          "q": {
+            "en": "Do we need a car?",
+            "fr": "Faut-il une voiture?"
+          },
+          "a": {
+            "en": "A car is recommended here, both for reaching the different beaches and for eating out, as on-site dining is limited.",
+            "fr": "Une voiture est recommandée ici, à la fois pour rejoindre les différentes plages et pour dîner dehors, la restauration sur place étant limitée."
+          }
+        }
+      ]
+    },
+    {
+      "key": "martinique-pierre-vacances-sainte-luce",
+      "destinationKey": "martinique",
+      "name": "Pierre & Vacances Sainte-Luce",
+      "area": {
+        "en": "Sainte-Luce",
+        "fr": "Sainte-Luce"
+      },
+      "lat": 14.471,
+      "lng": -60.9205,
+      "zoom": 13,
+      "address": "Pierre & Vacances Sainte-Luce, Pointe Philippeau, 97228 Sainte-Luce, Martinique",
+      "priceTier": 1,
+      "priceFrom": 95,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "baby-friendly",
+        "beach-access",
+        "self-catering",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "poolPalms",
+        "whiteResortPool",
+        "livingRoom"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 78,
+        "pool": 76,
+        "dining": 68,
+        "safety": 79,
+        "convenience": 78,
+        "location": 78,
+        "extras": 72
+      },
+      "roomsSummary": {
+        "en": "A self-catering apartment village on a hillside at Sainte-Luce, with studios and one and two-bedroom apartments, most with a kitchen and terrace, set around pools and gardens with sea views. The two-bedroom units give a family real separate space at a low price.",
+        "fr": "Un village d'appartements en location autonome sur une colline de Sainte-Luce, avec studios et appartements d'une à deux chambres, la plupart avec cuisine et terrasse, autour de piscines et de jardins avec vue mer. Les deux-pièces offrent à une famille un vrai espace séparé à petit prix."
+      },
+      "intro": {
+        "en": "A budget-friendly self-catering apartment village on the calm south coast, ideal for families who want their own kitchen, separate bedrooms and a low nightly rate over a resort package. You get pools, gardens and sea views on a quiet hillside, with the gentle Sainte-Luce beaches a short drive down. It is simple and independent rather than pampering, but for a fuss-free, affordable family week in the sun it works hard.",
+        "fr": "Un village d'appartements en location autonome, économique, sur la côte sud calme, idéal pour les familles qui veulent leur propre cuisine, des chambres séparées et un tarif à la nuit modéré plutôt qu'un forfait de complexe. On profite de piscines, de jardins et de vues mer sur une colline tranquille, les plages douces de Sainte-Luce étant à quelques minutes en contrebas. C'est simple et autonome plutôt que cocooning, mais pour une semaine familiale abordable et sans souci au soleil, il fait le travail."
+      },
+      "highlights": {
+        "en": [
+          "Self-catering apartments with separate bedrooms",
+          "Pools and gardens with sea views",
+          "Low nightly rates for a family",
+          "Calm Sainte-Luce beaches a short drive away"
+        ],
+        "fr": [
+          "Appartements autonomes avec chambres séparées",
+          "Piscines et jardins avec vue mer",
+          "Tarifs à la nuit modérés pour une famille",
+          "Plages calmes de Sainte-Luce à quelques minutes"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Genuinely affordable, especially for longer stays",
+          "Own kitchen and separate rooms for family space",
+          "Quiet, green setting with sea views",
+          "Close to the island's gentlest beaches"
+        ],
+        "fr": [
+          "Vraiment abordable, surtout pour les longs séjours",
+          "Cuisine et chambres séparées pour l'espace familial",
+          "Cadre calme et verdoyant avec vue mer",
+          "Proche des plages les plus douces de l'île"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Basic, functional apartments rather than plush",
+          "Hillside layout means steps and a walk to the pool",
+          "Little on-site dining, a car is needed"
+        ],
+        "fr": [
+          "Appartements basiques et fonctionnels plutôt que cossus",
+          "L'agencement en colline implique marches et marche jusqu'à la piscine",
+          "Peu de restauration sur place, une voiture est nécessaire"
+        ]
+      },
+      "verdict": {
+        "en": "The best-value family base on the south coast if you are happy to self-cater and rent a car. Book a two-bedroom apartment and let the calm Sainte-Luce beaches do the rest.",
+        "fr": "La meilleure base familiale de la côte sud côté budget, si vous acceptez de cuisiner et de louer une voiture. Réservez un deux-pièces et laissez les plages calmes de Sainte-Luce faire le reste."
+      },
+      "parentTip": {
+        "en": "Choose a two-bedroom apartment so babies and older kids get their own room, and shop for groceries on the way in from the airport.",
+        "fr": "Choisissez un deux-pièces pour que bébés et grands enfants aient chacun leur chambre, et faites les courses en venant de l'aéroport."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏡",
+          "label": {
+            "en": "Rooms",
+            "fr": "Hébergement"
+          },
+          "value": {
+            "en": "Self-catering apartments",
+            "fr": "Appartements autonomes"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Pools with sea views",
+            "fr": "Piscines avec vue mer"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Value",
+            "fr": "Budget"
+          },
+          "value": {
+            "en": "Lowest nightly rates",
+            "fr": "Tarifs les plus bas"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Short drive to calm sands",
+            "fr": "Sable calme à quelques minutes"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Pool morning with a view",
+            "fr": "Matinée piscine avec vue"
+          },
+          "detail": {
+            "en": "The hillside pools look out to sea, an easy base for a lazy start before the beach.",
+            "fr": "Les piscines de la colline donnent sur la mer, une base facile pour un départ tranquille avant la plage."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Sainte-Luce beach afternoon",
+            "fr": "Après-midi plage à Sainte-Luce"
+          },
+          "detail": {
+            "en": "Drive down to one of the calm, shallow local beaches for a sheltered family swim.",
+            "fr": "On descend vers l'une des plages locales calmes et peu profondes pour une baignade familiale abritée."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        },
+        {
+          "emoji": "⛵",
+          "name": {
+            "en": "Boat trip to the sandbanks",
+            "fr": "Sortie bateau vers les fonds blancs"
+          },
+          "detail": {
+            "en": "Local boats run out to the shallow white-sand fonds blancs, a magical stand-in-the-sea outing for kids.",
+            "fr": "Des bateaux locaux rejoignent les fonds blancs de sable peu profonds, une sortie magique où l'on a pied en pleine mer, adorée des enfants."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Breakfast on the terrace",
+            "fr": "Petit-déjeuner en terrasse"
+          },
+          "note": {
+            "en": "Own kitchen, own pace, sea view included.",
+            "fr": "Sa cuisine, son rythme, vue mer comprise."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Pool time",
+            "fr": "Piscine"
+          },
+          "note": {
+            "en": "Splash in the garden pool before it gets hot.",
+            "fr": "On barbote dans la piscine du jardin avant la chaleur."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Beach and picnic",
+            "fr": "Plage et pique-nique"
+          },
+          "note": {
+            "en": "Drive to a calm beach with a packed lunch.",
+            "fr": "On rejoint une plage calme avec un pique-nique."
+          }
+        },
+        {
+          "time": "18:30",
+          "title": {
+            "en": "Supper in the apartment",
+            "fr": "Dîner à l'appartement"
+          },
+          "note": {
+            "en": "Simple family meal in your own space.",
+            "fr": "Repas familial simple chez soi."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "The kitchen and separate bedrooms are a real help with a baby, though the hillside steps mean the pram stays parked a lot.",
+          "fr": "La cuisine et les chambres séparées aident vraiment avec un bébé, même si les marches de la colline obligent à laisser souvent la poussette."
+        },
+        "toddler": {
+          "en": "Shallow pools and calm nearby beaches suit toddlers, with self-catering keeping meals and naps on track.",
+          "fr": "Les piscines peu profondes et les plages calmes voisines conviennent aux tout-petits, la cuisine sur place gardant repas et siestes en place."
+        },
+        "kid": {
+          "en": "Pools, beaches and boat trips to the sandbanks keep this age happy on a small budget.",
+          "fr": "Piscines, plages et sorties bateau vers les fonds blancs ravissent cet âge avec un petit budget."
+        },
+        "teen": {
+          "en": "Teens will want a car and their own room, both of which this setup provides at a low price.",
+          "fr": "Les ados voudront une voiture et leur propre chambre, deux choses que cette formule offre à petit prix."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is it fully self-catering?",
+            "fr": "Est-ce entièrement en location autonome?"
+          },
+          "a": {
+            "en": "Yes, apartments come with a kitchen and there is limited dining on site, so plan to shop for groceries and cook, which keeps costs low.",
+            "fr": "Oui, les appartements disposent d'une cuisine et la restauration sur place est limitée: prévoyez de faire les courses et de cuisiner, ce qui maintient les coûts bas."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it suitable for a family of four or five?",
+            "fr": "Convient-il à une famille de quatre ou cinq?"
+          },
+          "a": {
+            "en": "Yes, the two-bedroom apartments give separate sleeping space and a living area, which works well for a family over a week.",
+            "fr": "Oui, les appartements de deux chambres offrent des espaces nuit séparés et un séjour, ce qui fonctionne bien pour une famille sur une semaine."
+          }
+        },
+        {
+          "q": {
+            "en": "How far is the beach?",
+            "fr": "À quelle distance est la plage?"
+          },
+          "a": {
+            "en": "The calm Sainte-Luce beaches are a short drive down the hill, so a hire car makes daily beach trips much easier.",
+            "fr": "Les plages calmes de Sainte-Luce sont à quelques minutes en voiture en bas de la colline, une voiture de location facilite donc les sorties plage quotidiennes."
+          }
+        }
+      ]
+    },
+    {
+      "key": "martinique-french-coco",
+      "destinationKey": "martinique",
+      "name": "French Coco",
+      "area": {
+        "en": "Tartane / La Trinite",
+        "fr": "Tartane / La Trinité"
+      },
+      "lat": 14.7566,
+      "lng": -60.9156,
+      "zoom": 13,
+      "address": "Hotel French Coco, Anse l'Etang, Tartane, 97220 La Trinite, Martinique",
+      "priceTier": 4,
+      "priceFrom": 340,
+      "ages": [
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "family-suites",
+        "beach-access"
+      ],
+      "clubFree": false,
+      "photos": [
+        "villaPoolGreen",
+        "poolTropicalMtn",
+        "villaInterior"
+      ],
+      "scores": {
+        "rooms": 94,
+        "baby": 55,
+        "pool": 72,
+        "dining": 90,
+        "safety": 80,
+        "convenience": 66,
+        "location": 84,
+        "extras": 78
+      },
+      "roomsSummary": {
+        "en": "Elegant suites surrounded by greenery near the Caravelle peninsula, most with their own private pool opening onto an intimate garden. The suites are spacious and beautifully done, more design retreat than family resort, and best suited to families with older, calmer children.",
+        "fr": "Suites élégantes entourées de verdure près de la presqu'île de la Caravelle, la plupart avec leur propre piscine privée ouvrant sur un jardin intime. Les suites sont spacieuses et magnifiquement aménagées, plus refuge design que complexe familial, et conviennent surtout aux familles avec des enfants plus grands et posés."
+      },
+      "intro": {
+        "en": "A small, beautiful design hotel in the fishing village of Tartane on the wilder Atlantic north, near the green Caravelle peninsula. This is a boutique retreat rather than a splash-pool resort: think seventeen elegant suites, most with a private pool, and standout Creole cooking. It suits families with older or calmer children who want a stylish base for hiking, surfing beaches and exploring the north, not toddlers who need a kids club and shallow paddling.",
+        "fr": "Un petit hôtel de design superbe, dans le village de pêcheurs de Tartane, sur le nord atlantique plus sauvage, près de la presqu'île verdoyante de la Caravelle. C'est un refuge boutique plutôt qu'un complexe à piscine à bulles: dix-sept suites élégantes, la plupart avec piscine privée, et une cuisine créole remarquable. Il convient aux familles avec des enfants plus grands ou posés, en quête d'une base élégante pour la randonnée, les plages de surf et l'exploration du nord, pas aux tout-petits qui réclament un club enfants et une eau peu profonde."
+      },
+      "highlights": {
+        "en": [
+          "Elegant suites, most with a private pool",
+          "Standout Creole and French cuisine on site",
+          "Gateway to the green Caravelle peninsula",
+          "A calm, design-led adults-and-older-kids base"
+        ],
+        "fr": [
+          "Suites élégantes, la plupart avec piscine privée",
+          "Cuisine créole et française remarquable sur place",
+          "Porte d'entrée de la presqu'île verdoyante de la Caravelle",
+          "Une base design, calme, pour adultes et grands enfants"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Genuinely beautiful rooms and a private pool",
+          "Some of the best food on the island",
+          "Great base for hiking and exploring the north",
+          "Quiet, grown-up and away from the crowds"
+        ],
+        "fr": [
+          "Chambres vraiment magnifiques et piscine privée",
+          "Parmi les meilleures tables de l'île",
+          "Excellente base pour randonner et explorer le nord",
+          "Calme, adulte et loin de la foule"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Not set up for babies or toddlers, no kids club or shallow pool",
+          "Atlantic beaches nearby are for surf and walks, not calm paddling",
+          "Remote north-coast setting, a hire car is essential"
+        ],
+        "fr": [
+          "Pas pensé pour bébés ou tout-petits, ni club enfants ni piscine peu profonde",
+          "Les plages atlantiques voisines sont pour le surf et la balade, pas la baignade calme",
+          "Emplacement isolé sur la côte nord, la voiture de location est indispensable"
+        ]
+      },
+      "verdict": {
+        "en": "A stylish, food-led hideaway for families with older children who want to explore the wild north rather than park on a calm beach. Rent a car, book a suite with a private pool and lean into the slow pace.",
+        "fr": "Un refuge élégant et gourmand pour les familles avec de grands enfants, qui veulent explorer le nord sauvage plutôt que s'installer sur une plage calme. Louez une voiture, réservez une suite avec piscine privée et savourez le rythme lent."
+      },
+      "parentTip": {
+        "en": "Pair a night or two here with the Caravelle peninsula hike and the surf beach at Anse Bonneville, then move south for calm-water beach days with younger kids.",
+        "fr": "Associez une ou deux nuits ici à la randonnée de la presqu'île de la Caravelle et à la plage de surf de l'Anse Bonneville, puis descendez au sud pour des journées de plage en eau calme avec les plus jeunes."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Rooms",
+            "fr": "Chambres"
+          },
+          "value": {
+            "en": "Suites, most with private pool",
+            "fr": "Suites, la plupart avec piscine privée"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Dining",
+            "fr": "Restauration"
+          },
+          "value": {
+            "en": "Acclaimed Creole kitchen",
+            "fr": "Cuisine créole reconnue"
+          }
+        },
+        {
+          "icon": "🥾",
+          "label": {
+            "en": "Nearby",
+            "fr": "À proximité"
+          },
+          "value": {
+            "en": "Caravelle peninsula trails",
+            "fr": "Sentiers de la Caravelle"
+          }
+        },
+        {
+          "icon": "🚗",
+          "label": {
+            "en": "Getting around",
+            "fr": "Déplacements"
+          },
+          "value": {
+            "en": "Hire car essential",
+            "fr": "Voiture indispensable"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🥾",
+          "name": {
+            "en": "Caravelle peninsula walk",
+            "fr": "Randonnée de la presqu'île de la Caravelle"
+          },
+          "detail": {
+            "en": "The nature reserve has marked trails past a ruined chateau, mangroves and cliff views, a proper adventure for older kids.",
+            "fr": "La réserve naturelle offre des sentiers balisés le long d'un château en ruine, de mangroves et de vues sur les falaises, une vraie aventure pour les plus grands."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🏄",
+          "name": {
+            "en": "Surf lesson at Tartane",
+            "fr": "Cours de surf à Tartane"
+          },
+          "detail": {
+            "en": "The Atlantic beaches here have gentle learner waves and local schools, a fun first surf for confident older children.",
+            "fr": "Les plages atlantiques ont ici des vagues douces pour débuter et des écoles locales, un premier surf amusant pour les grands enfants à l'aise dans l'eau."
+          },
+          "ages": [
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🍽️",
+          "name": {
+            "en": "Long lunch in the garden",
+            "fr": "Long déjeuner au jardin"
+          },
+          "detail": {
+            "en": "The kitchen turns local fish and produce into a memorable meal, a highlight for families who love to eat well.",
+            "fr": "La cuisine transforme poisson et produits locaux en un repas mémorable, un temps fort pour les familles qui aiment bien manger."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast in the greenery",
+            "fr": "Petit-déjeuner dans la verdure"
+          },
+          "note": {
+            "en": "Quiet start surrounded by tropical garden.",
+            "fr": "Départ calme entouré de jardin tropical."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Caravelle hike",
+            "fr": "Randonnée de la Caravelle"
+          },
+          "note": {
+            "en": "Drive to the trailhead before the day heats up.",
+            "fr": "On rejoint le départ du sentier avant la chaleur."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and private pool",
+            "fr": "Déjeuner et piscine privée"
+          },
+          "note": {
+            "en": "Back for a long lunch and a swim at the suite.",
+            "fr": "Retour pour un long déjeuner et une baignade à la suite."
+          }
+        },
+        {
+          "time": "17:00",
+          "title": {
+            "en": "Sunset at the beach",
+            "fr": "Coucher de soleil à la plage"
+          },
+          "note": {
+            "en": "Wander down to the Atlantic shore for the light.",
+            "fr": "On descend vers le rivage atlantique pour la lumière."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Not a natural fit for babies, with no baby facilities, unfenced private pools and rough Atlantic beaches nearby.",
+          "fr": "Peu adapté aux bébés, sans équipements pour tout-petits, avec des piscines privées non clôturées et des plages atlantiques agitées à proximité."
+        },
+        "toddler": {
+          "en": "Also better avoided with toddlers, as the setting and water are geared to older, steadier children.",
+          "fr": "À éviter aussi avec des tout-petits: le cadre et l'eau s'adressent à des enfants plus grands et plus sûrs."
+        },
+        "kid": {
+          "en": "Confident older kids will love the private pool, the hikes and the sense of adventure in the wild north.",
+          "fr": "Les grands enfants à l'aise adoreront la piscine privée, les randonnées et le sentiment d'aventure du nord sauvage."
+        },
+        "teen": {
+          "en": "This is the ideal age here, with surfing, hiking and a stylish, calm base for exploring by car.",
+          "fr": "C'est l'âge idéal ici, avec surf, randonnée et une base élégante et calme pour explorer en voiture."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is it suitable for young children?",
+            "fr": "Est-ce adapté aux jeunes enfants?"
+          },
+          "a": {
+            "en": "It is best for older children and teens. There is no kids club, the private pools are unfenced, and the Atlantic beaches are for surf and walks rather than calm paddling.",
+            "fr": "Il convient surtout aux grands enfants et aux ados. Il n'y a pas de club enfants, les piscines privées ne sont pas clôturées et les plages atlantiques sont pour le surf et la balade plutôt que la baignade calme."
+          }
+        },
+        {
+          "q": {
+            "en": "What is the food like?",
+            "fr": "Comment est la cuisine?"
+          },
+          "a": {
+            "en": "It is one of the hotel's biggest draws, with an acclaimed Creole and French kitchen using local fish and garden produce.",
+            "fr": "C'est l'un des plus grands atouts de l'hôtel, avec une cuisine créole et française reconnue, à base de poisson local et de produits du jardin."
+          }
+        },
+        {
+          "q": {
+            "en": "Do we need a car?",
+            "fr": "Faut-il une voiture?"
+          },
+          "a": {
+            "en": "Yes, definitely. The hotel sits on the remote north coast, so a hire car is essential for beaches, hikes and getting around.",
+            "fr": "Oui, absolument. L'hôtel se trouve sur la côte nord isolée, une voiture de location est donc indispensable pour les plages, les randonnées et les déplacements."
+          }
+        }
+      ]
+    }
+  ],
+  "destinationMeta": {
+    "heroKicker": {
+      "en": "Winter sun, calm shallow beaches and rainforest, all in euros",
+      "fr": "Soleil d'hiver, plages calmes et peu profondes, forêt tropicale, le tout en euros"
+    },
+    "intro": {
+      "en": "Martinique is the French Caribbean's island of flowers, a lush volcanic slice of France where the euro is the currency and everyone speaks French, yet the water is warm and turquoise. The calm south, around Sainte-Anne, Les Trois-Ilets and Sainte-Luce, has gentle, shallow, gently shelving beaches that are a gift for toddlers, while the wilder Atlantic north brings Mount Pelee, rainforest gardens and dramatic surf coast. Add catamaran trips to white sandbanks where you stand waist-deep in the open sea, sea turtles at Anse Dufour and family-friendly rum distilleries, and you have a proper adventure. The catch is the flight: it is a long 8 to 9 hours from mainland France.",
+      "fr": "La Martinique est l'île aux fleurs des Antilles françaises, une tranche de France volcanique et luxuriante où l'euro est la monnaie et où tout le monde parle français, et pourtant l'eau y est chaude et turquoise. Le sud calme, autour de Sainte-Anne, des Trois-Îlets et de Sainte-Luce, offre des plages douces, peu profondes et en pente légère, un cadeau pour les tout-petits, tandis que le nord atlantique plus sauvage apporte la montagne Pelée, des jardins de forêt tropicale et une côte de surf spectaculaire. Ajoutez les sorties catamaran vers les fonds blancs où l'on a pied en pleine mer, les tortues de l'Anse Dufour et des distilleries de rhum accueillantes pour les familles, et vous tenez une vraie aventure. Le bémol, c'est le vol: 8 à 9 heures depuis la France métropolitaine."
+    },
+    "whyKids": {
+      "en": [
+        "Warm winter sun year round, around 26 to 30C and driest from December to April",
+        "Calm, shallow south beaches like Les Salines and Anse Mitan, ideal for toddlers",
+        "Catamaran trips to the fonds blancs, shallow white sandbanks in the open sea",
+        "Sea turtles you can snorkel with at Anse Dufour, plus rainforest and a volcano to explore"
+      ],
+      "fr": [
+        "Soleil d'hiver toute l'année, autour de 26 à 30C et plus sec de décembre à avril",
+        "Plages du sud calmes et peu profondes comme Les Salines et l'Anse Mitan, idéales pour les tout-petits",
+        "Sorties catamaran vers les fonds blancs, bancs de sable blanc peu profonds en pleine mer",
+        "Tortues de mer à observer en snorkeling à l'Anse Dufour, plus la forêt tropicale et un volcan à explorer"
+      ]
+    },
+    "bestAreas": {
+      "en": [
+        "Les Trois-Ilets and Pointe du Bout: the handy resort base on the bay, with the ferry across to Fort-de-France",
+        "Sainte-Anne: the calmest white-sand beaches in the far south, home to Les Salines",
+        "Sainte-Luce: laid-back south-coast town with sheltered beaches and good-value self-catering",
+        "Tartane and the north: wilder Atlantic coast for rainforest, hikes and older-kid adventures"
+      ],
+      "fr": [
+        "Les Trois-Îlets et la Pointe du Bout: la base balnéaire pratique sur la baie, avec la navette pour Fort-de-France",
+        "Sainte-Anne: les plages de sable blanc les plus calmes de l'extrême sud, dont Les Salines",
+        "Sainte-Luce: ville décontractée de la côte sud, avec plages abritées et logements autonomes au bon rapport qualité-prix",
+        "Tartane et le nord: côte atlantique plus sauvage pour la forêt tropicale, les randonnées et les aventures des plus grands"
+      ]
+    },
+    "stats": [
+      {
+        "value": "26 to 30C",
+        "label": {
+          "en": "Typical day highs, year round",
+          "fr": "Maximums typiques, toute l'année"
+        }
+      },
+      {
+        "value": "8 to 9h",
+        "label": {
+          "en": "Direct flight from mainland France",
+          "fr": "Vol direct depuis la France métropolitaine"
+        }
+      },
+      {
+        "value": "EUR",
+        "label": {
+          "en": "Euro currency, French spoken",
+          "fr": "Monnaie en euros, on parle français"
+        }
+      },
+      {
+        "value": "Dec to Apr",
+        "label": {
+          "en": "Driest, sunniest season",
+          "fr": "Saison la plus sèche et ensoleillée"
+        }
+      }
+    ],
+    "activities": [
+      {
+        "emoji": "⛵",
+        "name": {
+          "en": "Catamaran to the fonds blancs",
+          "fr": "Catamaran vers les fonds blancs"
+        },
+        "detail": {
+          "en": "Boats from Le Francois and the south sail out to shallow white sandbanks where the whole family can stand waist-deep in the middle of the sea.",
+          "fr": "Des bateaux du François et du sud rejoignent des bancs de sable blanc peu profonds où toute la famille a pied en pleine mer, l'eau à la taille."
+        },
+        "ages": [
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Morning",
+          "fr": "Matin"
+        }
+      },
+      {
+        "emoji": "🐢",
+        "name": {
+          "en": "Snorkel with turtles at Anse Dufour",
+          "fr": "Snorkeling avec les tortues à l'Anse Dufour"
+        },
+        "detail": {
+          "en": "This calm cove is one of the most reliable places in the Caribbean to snorkel over grazing sea turtles close to shore.",
+          "fr": "Cette crique calme est l'un des endroits les plus fiables des Caraïbes pour observer en snorkeling les tortues de mer qui broutent près du bord."
+        },
+        "ages": [
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Morning",
+          "fr": "Matin"
+        }
+      },
+      {
+        "emoji": "🌿",
+        "name": {
+          "en": "Jardin de Balata rainforest garden",
+          "fr": "Jardin de Balata, jardin de forêt tropicale"
+        },
+        "detail": {
+          "en": "A gorgeous botanical garden in the hills above Fort-de-France, with treetop rope bridges that kids love.",
+          "fr": "Un magnifique jardin botanique dans les hauteurs au-dessus de Fort-de-France, avec des ponts suspendus dans les arbres que les enfants adorent."
+        },
+        "ages": [
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Morning",
+          "fr": "Matin"
+        }
+      },
+      {
+        "emoji": "⛴️",
+        "name": {
+          "en": "Ferry across the bay",
+          "fr": "Navette à travers la baie"
+        },
+        "detail": {
+          "en": "The little passenger ferry from Pointe du Bout to Fort-de-France is a fun, stress-free way into the capital's market and fort.",
+          "fr": "La petite navette de la Pointe du Bout à Fort-de-France est un moyen amusant et sans stress de rejoindre le marché et le fort de la capitale."
+        },
+        "ages": [
+          "baby",
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Anytime",
+          "fr": "À tout moment"
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "q": {
+          "en": "When is the best time to visit with kids?",
+          "fr": "Quelle est la meilleure période pour venir avec des enfants?"
+        },
+        "a": {
+          "en": "December to April is the sweet spot: warm, sunny and driest, and a welcome escape from the European winter. May and June are still good and quieter, while late summer and autumn are wetter and fall in the hurricane season.",
+          "fr": "De décembre à avril, c'est la période idéale: chaud, ensoleillé et plus sec, une belle échappée à l'hiver européen. Mai et juin restent agréables et plus calmes, tandis que la fin d'été et l'automne sont plus pluvieux et tombent dans la saison des ouragans."
+        }
+      },
+      {
+        "q": {
+          "en": "Which area is best for toddlers?",
+          "fr": "Quelle zone est la meilleure pour les tout-petits?"
+        },
+        "a": {
+          "en": "The calm south. Sainte-Anne, Anse Mitan at Les Trois-Ilets and the sheltered beaches of Sainte-Luce all have shallow, gently shelving water ideal for first swims, unlike the wilder Atlantic north.",
+          "fr": "Le sud calme. Sainte-Anne, l'Anse Mitan aux Trois-Îlets et les plages abritées de Sainte-Luce ont toutes une eau peu profonde et en pente douce, idéale pour les premières baignades, contrairement au nord atlantique plus sauvage."
+        }
+      },
+      {
+        "q": {
+          "en": "Do we need a hire car?",
+          "fr": "Faut-il une voiture de location?"
+        },
+        "a": {
+          "en": "For most stays, yes. A car makes the beaches, rainforest, distilleries and turtle spots easy to reach. You can manage without one at an all-inclusive like Club Med or a walkable base like Pointe du Bout with its ferry.",
+          "fr": "Pour la plupart des séjours, oui. Une voiture rend les plages, la forêt tropicale, les distilleries et les spots à tortues faciles d'accès. On peut s'en passer dans un tout compris comme le Club Med ou une base accessible à pied comme la Pointe du Bout et sa navette."
+        }
+      },
+      {
+        "q": {
+          "en": "Is it easy for a French-speaking family?",
+          "fr": "Est-ce simple pour une famille francophone?"
+        },
+        "a": {
+          "en": "Very. Martinique is a French department, so the currency is the euro, French is spoken everywhere, healthcare and roads are French, and there is no foreign-country paperwork for French travellers.",
+          "fr": "Très. La Martinique est un département français: la monnaie est l'euro, on parle français partout, la santé et les routes sont françaises, et il n'y a aucune formalité d'étranger pour les voyageurs français."
+        }
+      }
+    ],
+    "parentTip": {
+      "en": "Split your stay: a few nights in the calm south for shallow-water beach days with little ones, then a night or two up north for the rainforest, Mount Pelee and the Caravelle peninsula. It turns one island into two very different holidays.",
+      "fr": "Fractionnez votre séjour: quelques nuits dans le sud calme pour les journées de plage en eau peu profonde avec les petits, puis une ou deux nuits au nord pour la forêt tropicale, la montagne Pelée et la presqu'île de la Caravelle. Une seule île devient deux vacances très différentes."
+    },
+    "goodToKnow": {
+      "en": "Martinique's airport, Aime Cesaire, is near Le Lamentin in the centre. The southern family bases of Les Trois-Ilets, Sainte-Luce and Sainte-Anne are around 30 to 50 minutes away, while the northern coast is over an hour, so factor in transfer time with young children. The flight from mainland France is long at 8 to 9 hours, so plan the first day as a gentle one.",
+      "fr": "L'aéroport de la Martinique, Aimé Césaire, est près du Lamentin, au centre. Les bases familiales du sud, Les Trois-Îlets, Sainte-Luce et Sainte-Anne, sont à environ 30 à 50 minutes, tandis que la côte nord est à plus d'une heure: tenez compte du temps de trajet avec de jeunes enfants. Le vol depuis la France métropolitaine est long, 8 à 9 heures, prévoyez donc une première journée tranquille."
+    },
+    "emoji": "🌺",
+    "photos": [
+      "beachSunset",
+      "poolTropicalMtn",
+      "infinityPoolSea"
+    ]
+  }
+}

@@ -1,0 +1,2621 @@
+{
+  "hotels": [
+    {
+      "key": "guadeloupe-club-med-la-caravelle",
+      "destinationKey": "guadeloupe",
+      "name": "Club Med La Caravelle",
+      "area": {
+        "en": "Sainte-Anne",
+        "fr": "Sainte-Anne"
+      },
+      "lat": 16.2208,
+      "lng": -61.396,
+      "zoom": 13,
+      "address": "Club Med La Caravelle, Quartier Caravelle, 97180 Sainte-Anne, Guadeloupe",
+      "priceTier": 4,
+      "priceFrom": 240,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "infinityPoolSea",
+        "poolPalms",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 94,
+        "baby": 90,
+        "pool": 86,
+        "dining": 91,
+        "safety": 90,
+        "convenience": 84,
+        "location": 92,
+        "extras": 93
+      },
+      "roomsSummary": {
+        "en": "Rooms and family rooms set in low-rise buildings across tropical gardens, most a short walk from the beach. Family rooms and connecting rooms give parents and children a bit of separate space, and cots are free for babies.",
+        "fr": "Chambres et chambres familiales réparties dans des bâtiments bas au milieu de jardins tropicaux, la plupart à quelques pas de la plage. Les chambres familiales et communicantes offrent aux parents et aux enfants un peu d'espace séparé, et les lits bébé sont gratuits."
+      },
+      "intro": {
+        "en": "This is the family heavyweight of Guadeloupe: an all-inclusive resort on a long calm beach in Sainte-Anne, with kids clubs split by age from babies right up to teens. Meals, snacks, drinks and most activities are covered, so once you land you barely need your wallet, which is exactly what tired parents want after the long flight from France.",
+        "fr": "C'est la valeur sûre des familles en Guadeloupe: un resort tout compris sur une longue plage calme à Sainte-Anne, avec des clubs enfants répartis par âge, des bébés jusqu'aux ados. Repas, goûters, boissons et la plupart des activités sont inclus, donc une fois posé vous n'avez presque plus besoin de votre portefeuille, exactement ce que veulent des parents fatigués après le long vol depuis la métropole."
+      },
+      "highlights": {
+        "en": [
+          "Kids clubs from 4 months to 17 years, included",
+          "All-inclusive: meals, snacks, drinks and activities",
+          "Long calm white-sand beach with a swimming lagoon",
+          "Circus and flying trapeze school for older kids"
+        ],
+        "fr": [
+          "Clubs enfants de 4 mois à 17 ans, inclus",
+          "Formule tout compris: repas, goûters, boissons et activités",
+          "Longue plage de sable blanc calme avec lagon de baignade",
+          "École de cirque et trapèze volant pour les plus grands"
+        ]
+      },
+      "pros": {
+        "en": [
+          "True all-inclusive, minimal daily spend",
+          "Excellent age-split kids clubs including a baby club",
+          "Calm, shallow beach ideal for young swimmers",
+          "Lots included for teens, from sport to trapeze"
+        ],
+        "fr": [
+          "Vrai tout compris, très peu de dépenses sur place",
+          "Excellents clubs par tranche d'âge, dont un club bébé",
+          "Plage calme et peu profonde, idéale pour les jeunes nageurs",
+          "Beaucoup d'activités incluses pour les ados, du sport au trapèze"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Premium all-inclusive price, especially in high season",
+          "Baby club has limited hours, book childcare extras ahead",
+          "Buffet-heavy dining can feel repetitive over a long stay"
+        ],
+        "fr": [
+          "Tarif tout compris élevé, surtout en haute saison",
+          "Le club bébé a des horaires limités, réservez la garde en supplément à l'avance",
+          "La restauration très axée buffet peut lasser sur un long séjour"
+        ]
+      },
+      "verdict": {
+        "en": "If you want to switch off completely and let the kids roam safe clubs while you enjoy the beach, this is the easiest family week in Guadeloupe. Book connecting rooms and lean on the age-split clubs.",
+        "fr": "Si vous voulez tout déconnecter et laisser les enfants profiter de clubs encadrés pendant que vous savourez la plage, c'est la semaine en famille la plus simple de Guadeloupe. Réservez des chambres communicantes et appuyez-vous sur les clubs par âge."
+      },
+      "parentTip": {
+        "en": "Sign babies and toddlers up for their club slots on arrival day, the popular morning sessions fill first and booking early locks in your beach time.",
+        "fr": "Inscrivez bébés et tout-petits à leurs créneaux de club dès le jour d'arrivée, les sessions du matin partent en premier et réserver tôt vous garantit votre temps plage."
+      },
+      "atAGlance": [
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids clubs",
+            "fr": "Clubs enfants"
+          },
+          "value": {
+            "en": "4 months to 17 years",
+            "fr": "De 4 mois à 17 ans"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Dining",
+            "fr": "Restauration"
+          },
+          "value": {
+            "en": "All-inclusive buffet and bars",
+            "fr": "Tout compris, buffet et bars"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Calm white-sand bay",
+            "fr": "Baie de sable blanc calme"
+          }
+        },
+        {
+          "icon": "🎪",
+          "label": {
+            "en": "Activities",
+            "fr": "Activités"
+          },
+          "value": {
+            "en": "Trapeze, sport, watersports",
+            "fr": "Trapèze, sport, sports nautiques"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🎪",
+          "name": {
+            "en": "Flying trapeze try-out",
+            "fr": "Essai de trapèze volant"
+          },
+          "detail": {
+            "en": "The resort's circus school lets kids and teens have a go on the trapeze with instructors and safety nets.",
+            "fr": "L'école de cirque du resort permet aux enfants et ados de s'essayer au trapèze avec moniteurs et filets de sécurité."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Lagoon swim",
+            "fr": "Baignade dans le lagon"
+          },
+          "detail": {
+            "en": "The sheltered bay stays shallow and calm a long way out, perfect for first proper swims.",
+            "fr": "La baie abritée reste peu profonde et calme loin du bord, parfaite pour les premières vraies baignades."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "⛵",
+          "name": {
+            "en": "Sailing and kayaking",
+            "fr": "Voile et kayak"
+          },
+          "detail": {
+            "en": "Included watersports from the beach base, with lessons for older children and teens.",
+            "fr": "Sports nautiques inclus depuis la base plage, avec cours pour les plus grands et les ados."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Breakfast buffet",
+            "fr": "Petit-déjeuner buffet"
+          },
+          "note": {
+            "en": "Fuel up before the clubs open, tropical fruit galore.",
+            "fr": "On fait le plein avant l'ouverture des clubs, fruits tropicaux à volonté."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Kids club drop-off",
+            "fr": "Dépose au club enfants"
+          },
+          "note": {
+            "en": "Each age group has its own space and team.",
+            "fr": "Chaque tranche d'âge a son espace et son équipe."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Family lunch by the beach",
+            "fr": "Déjeuner en famille près de la plage"
+          },
+          "note": {
+            "en": "Regroup for lunch, then a shady rest.",
+            "fr": "On se retrouve pour déjeuner, puis un temps calme à l'ombre."
+          }
+        },
+        {
+          "time": "16:30",
+          "title": {
+            "en": "Trapeze or beach games",
+            "fr": "Trapèze ou jeux de plage"
+          },
+          "note": {
+            "en": "Older kids try the circus school while little ones build sandcastles.",
+            "fr": "Les grands testent l'école de cirque pendant que les petits font des châteaux de sable."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "A dedicated baby club from 4 months, plus free cots and quiet garden rooms for naps.",
+          "fr": "Un club bébé dès 4 mois, avec lits bébé gratuits et chambres calmes côté jardin pour la sieste."
+        },
+        "toddler": {
+          "en": "The Petit Club and the shallow beach lagoon suit toddlers, with soft play and pool time built into the day.",
+          "fr": "Le Petit Club et le lagon peu profond conviennent aux tout-petits, avec espaces de jeu doux et temps piscine dans la journée."
+        },
+        "kid": {
+          "en": "This is the sweet spot: the Mini Club, trapeze school and watersports keep this age busy from morning to night.",
+          "fr": "C'est l'âge idéal: le Mini Club, l'école de trapèze et les sports nautiques les occupent du matin au soir."
+        },
+        "teen": {
+          "en": "A teen club, sport tournaments and evening shows give older ones independence while staying on site.",
+          "fr": "Un club ados, des tournois sportifs et des spectacles en soirée offrent de l'autonomie aux grands tout en restant sur le site."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is everything really included?",
+            "fr": "Est-ce que tout est vraiment inclus?"
+          },
+          "a": {
+            "en": "Meals, snacks, most drinks, kids clubs and many activities are included. Baby childcare, spa and some excursions cost extra.",
+            "fr": "Repas, goûters, la plupart des boissons, les clubs enfants et de nombreuses activités sont inclus. La garde des bébés, le spa et certaines excursions sont en supplément."
+          }
+        },
+        {
+          "q": {
+            "en": "From what age is the kids club?",
+            "fr": "À partir de quel âge le club enfants?"
+          },
+          "a": {
+            "en": "The baby club starts from 4 months and clubs run in age bands right up to a teen club for 11 to 17s.",
+            "fr": "Le club bébé démarre à 4 mois et les clubs se déclinent par âge jusqu'au club ados pour les 11 à 17 ans."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the beach safe for young children?",
+            "fr": "La plage est-elle sûre pour les jeunes enfants?"
+          },
+          "a": {
+            "en": "Yes, the Sainte-Anne bay is calm and shallow with lifeguard cover in club hours, one of the gentlest in Guadeloupe.",
+            "fr": "Oui, la baie de Sainte-Anne est calme et peu profonde avec surveillance pendant les heures de club, l'une des plus douces de Guadeloupe."
+          }
+        }
+      ]
+    },
+    {
+      "key": "guadeloupe-la-creole-beach",
+      "destinationKey": "guadeloupe",
+      "name": "La Creole Beach Hotel & Spa",
+      "area": {
+        "en": "Le Gosier",
+        "fr": "Le Gosier"
+      },
+      "lat": 16.2075,
+      "lng": -61.503,
+      "zoom": 13,
+      "address": "La Creole Beach Hotel & Spa, Pointe de la Verdure, 97190 Le Gosier, Guadeloupe",
+      "priceTier": 3,
+      "priceFrom": 160,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly",
+        "baby-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "poolTropicalMtn",
+        "deckLoungersSea",
+        "resortLoungers"
+      ],
+      "scores": {
+        "rooms": 90,
+        "baby": 82,
+        "pool": 86,
+        "dining": 85,
+        "safety": 85,
+        "convenience": 86,
+        "location": 88,
+        "extras": 84
+      },
+      "roomsSummary": {
+        "en": "Comfortable rooms and family rooms spread across a garden estate on Pointe de la Verdure, many with balconies over the tropical grounds or the sea. Family and connecting options work well for four.",
+        "fr": "Chambres et chambres familiales confortables réparties sur un parc arboré à la Pointe de la Verdure, beaucoup avec balcon sur les jardins tropicaux ou la mer. Les chambres familiales et communicantes conviennent bien à quatre."
+      },
+      "intro": {
+        "en": "A relaxed four-star garden resort right on a Gosier beach, close enough to town for restaurants and shops but green and calm inside its own grounds. There is a big pool, direct beach access and a spa for parents, and it works as a comfortable, well-located base for a first family trip to Guadeloupe.",
+        "fr": "Un resort quatre étoiles décontracté, en pleine verdure, directement sur une plage du Gosier, assez proche du bourg pour les restaurants et les boutiques mais vert et calme dans son propre parc. Grande piscine, accès direct à la plage et spa pour les parents: une base confortable et bien située pour un premier voyage en famille en Guadeloupe."
+      },
+      "highlights": {
+        "en": [
+          "Direct access to a calm Gosier beach",
+          "Large pool set in tropical gardens",
+          "Family and connecting rooms for four",
+          "Spa and watersports base on site"
+        ],
+        "fr": [
+          "Accès direct à une plage calme du Gosier",
+          "Grande piscine au milieu de jardins tropicaux",
+          "Chambres familiales et communicantes pour quatre",
+          "Spa et base nautique sur place"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Great location near Gosier town and the islet ferry",
+          "Green, spacious grounds for kids to roam",
+          "Calm swimming beach right in front",
+          "Good spa for a parent break"
+        ],
+        "fr": [
+          "Très bien situé, près du bourg du Gosier et de la navette pour l'îlet",
+          "Parc vert et spacieux où les enfants peuvent gambader",
+          "Plage de baignade calme juste devant",
+          "Bon spa pour souffler entre parents"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No free kids club, entertainment is limited",
+          "Some rooms are dated and vary in standard",
+          "Not all-inclusive, meals add up over a week"
+        ],
+        "fr": [
+          "Pas de club enfants gratuit, animation limitée",
+          "Certaines chambres sont un peu datées et de standing inégal",
+          "Pas de tout compris, les repas s'additionnent sur une semaine"
+        ]
+      },
+      "verdict": {
+        "en": "A dependable, well-placed garden resort for families who want beach and pool with the freedom to explore Gosier and Grande-Terre. Ask for a renovated family room near the pool.",
+        "fr": "Un resort de jardin fiable et bien placé pour les familles qui veulent plage et piscine tout en pouvant explorer le Gosier et la Grande-Terre. Demandez une chambre familiale rénovée près de la piscine."
+      },
+      "parentTip": {
+        "en": "The little ferry to Ilet du Gosier leaves from the beach nearby, an easy half-day with a bucket and spade for the kids.",
+        "fr": "La petite navette pour l'Îlet du Gosier part de la plage voisine, une demi-journée facile avec seau et pelle pour les enfants."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "Large garden pool",
+            "fr": "Grande piscine de jardin"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Calm bay, direct access",
+            "fr": "Baie calme, accès direct"
+          }
+        },
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Rooms",
+            "fr": "Chambres"
+          },
+          "value": {
+            "en": "Family and connecting rooms",
+            "fr": "Chambres familiales et communicantes"
+          }
+        },
+        {
+          "icon": "💆",
+          "label": {
+            "en": "Spa",
+            "fr": "Spa"
+          },
+          "value": {
+            "en": "Spa and gym on site",
+            "fr": "Spa et salle de sport sur place"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛶",
+          "name": {
+            "en": "Ferry to Ilet du Gosier",
+            "fr": "Navette vers l'Îlet du Gosier"
+          },
+          "detail": {
+            "en": "Hop on the short boat to the little offshore islet for shallow swimming and a picnic.",
+            "fr": "Prenez le petit bateau vers l'îlet au large pour une baignade peu profonde et un pique-nique."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🐠",
+          "name": {
+            "en": "Snorkelling off the beach",
+            "fr": "Masque et tuba depuis la plage"
+          },
+          "detail": {
+            "en": "Calm water in front of the hotel is good for a first look at reef fish with a parent.",
+            "fr": "L'eau calme devant l'hôtel est idéale pour observer les premiers poissons avec un parent."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "💆",
+          "name": {
+            "en": "Spa hour for parents",
+            "fr": "Heure spa pour les parents"
+          },
+          "detail": {
+            "en": "Book a massage while older kids read by the pool.",
+            "fr": "Réservez un massage pendant que les grands lisent au bord de la piscine."
+          },
+          "ages": [],
+          "time": {
+            "en": "Anytime",
+            "fr": "À tout moment"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast in the garden",
+            "fr": "Petit-déjeuner dans le jardin"
+          },
+          "note": {
+            "en": "Tropical fruit and pastries under the palms.",
+            "fr": "Fruits tropicaux et viennoiseries sous les palmiers."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Beach and snorkelling",
+            "fr": "Plage et masque-tuba"
+          },
+          "note": {
+            "en": "Calm water right in front for a morning dip.",
+            "fr": "Eau calme juste devant pour une baignade matinale."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Poolside lunch",
+            "fr": "Déjeuner au bord de la piscine"
+          },
+          "note": {
+            "en": "Light plates, then a shady rest.",
+            "fr": "Assiettes légères, puis un temps calme à l'ombre."
+          }
+        },
+        {
+          "time": "15:30",
+          "title": {
+            "en": "Ferry to the islet",
+            "fr": "Navette vers l'îlet"
+          },
+          "note": {
+            "en": "Short crossing to shallow turquoise water.",
+            "fr": "Courte traversée vers une eau turquoise peu profonde."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Cots on request and quiet garden rooms, though there is no baby club so you handle care yourselves.",
+          "fr": "Lits bébé sur demande et chambres calmes côté jardin, mais pas de club bébé: la garde est à votre charge."
+        },
+        "toddler": {
+          "en": "The shallow beach and gentle pool suit toddlers, keep a hand close as there is no dedicated splash zone.",
+          "fr": "La plage peu profonde et la piscine douce conviennent aux tout-petits, gardez une main à proximité car il n'y a pas de pataugeoire dédiée."
+        },
+        "kid": {
+          "en": "Snorkelling, the islet ferry and space to roam the gardens keep this age happy.",
+          "fr": "Masque et tuba, la navette pour l'îlet et l'espace des jardins occupent bien cet âge."
+        },
+        "teen": {
+          "en": "Watersports, the nearby town and easy day trips around Grande-Terre suit teens.",
+          "fr": "Les sports nautiques, le bourg voisin et les excursions faciles en Grande-Terre plaisent aux ados."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is there a kids club?",
+            "fr": "Y a-t-il un club enfants?"
+          },
+          "a": {
+            "en": "There is no free daily kids club, but the calm beach, pool and easy excursions keep families busy.",
+            "fr": "Il n'y a pas de club enfants gratuit quotidien, mais la plage calme, la piscine et les excursions faciles occupent les familles."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it walkable to Gosier town?",
+            "fr": "Le bourg du Gosier est-il accessible à pied?"
+          },
+          "a": {
+            "en": "Gosier centre with its restaurants and shops is a short walk or a few minutes by car.",
+            "fr": "Le centre du Gosier, avec ses restaurants et boutiques, est à courte distance à pied ou à quelques minutes en voiture."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the beach sandy and calm?",
+            "fr": "La plage est-elle de sable et calme?"
+          },
+          "a": {
+            "en": "Yes, the Pointe de la Verdure beach is sandy and sheltered, one of the calmer spots on this coast.",
+            "fr": "Oui, la plage de la Pointe de la Verdure est sablonneuse et abritée, l'un des coins les plus calmes de cette côte."
+          }
+        }
+      ]
+    },
+    {
+      "key": "guadeloupe-langley-fort-royal",
+      "destinationKey": "guadeloupe",
+      "name": "Langley Resort Fort Royal",
+      "area": {
+        "en": "Deshaies, Basse-Terre",
+        "fr": "Deshaies, Basse-Terre"
+      },
+      "lat": 16.323,
+      "lng": -61.799,
+      "zoom": 13,
+      "address": "Langley Resort Fort Royal, Anse du Petit Bas Vent, 97126 Deshaies, Guadeloupe",
+      "priceTier": 3,
+      "priceFrom": 150,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "beach-access",
+        "baby-friendly",
+        "toddler-friendly",
+        "family-suites"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolTropicalMtn",
+        "beachSunset",
+        "poolPalms"
+      ],
+      "scores": {
+        "rooms": 88,
+        "baby": 82,
+        "pool": 84,
+        "dining": 82,
+        "safety": 85,
+        "convenience": 80,
+        "location": 87,
+        "extras": 83
+      },
+      "roomsSummary": {
+        "en": "Rooms in the main building plus beachfront bungalows dotted along the bay, many steps from the sand. Bungalows suit families who want a bit more space and a terrace by the sea.",
+        "fr": "Chambres dans le bâtiment principal et bungalows en bord de plage répartis le long de la baie, à quelques pas du sable. Les bungalows conviennent aux familles qui veulent plus d'espace et une terrasse face à la mer."
+      },
+      "intro": {
+        "en": "A laid-back resort on a pretty double bay near Deshaies, on the green Basse-Terre side of the island. It has a seasonal kids club, a children's pool and a calm beach, plus the rainforest, Grande Anse beach and the Deshaies botanical garden all close by, so it pairs beach days with proper nature outings.",
+        "fr": "Un resort décontracté sur une jolie double baie près de Deshaies, du côté vert de Basse-Terre. Il propose un club enfants saisonnier, une piscine pour enfants et une plage calme, avec la forêt tropicale, la plage de Grande Anse et le jardin botanique de Deshaies tout près: parfait pour alterner journées plage et vraies sorties nature."
+      },
+      "highlights": {
+        "en": [
+          "Seasonal kids club, roughly December to April",
+          "Children's pool and calm swimming bay",
+          "Beachfront bungalows steps from the sand",
+          "Close to the rainforest and Deshaies botanical garden"
+        ],
+        "fr": [
+          "Club enfants saisonnier, environ de décembre à avril",
+          "Piscine enfants et baie de baignade calme",
+          "Bungalows en bord de plage à quelques pas du sable",
+          "Proche de la forêt tropicale et du jardin botanique de Deshaies"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Green Basse-Terre setting with nature on the doorstep",
+          "Calm, sheltered bay for young swimmers",
+          "Free kids club in the winter season",
+          "Bungalow options for more family space"
+        ],
+        "fr": [
+          "Cadre vert de Basse-Terre, la nature à la porte",
+          "Baie abritée et calme pour les jeunes nageurs",
+          "Club enfants gratuit en saison d'hiver",
+          "Bungalows pour plus d'espace en famille"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Kids club runs only in the winter season",
+          "Far from the airport, a longer transfer",
+          "A hire car is really needed to explore Basse-Terre"
+        ],
+        "fr": [
+          "Le club enfants ne fonctionne qu'en saison d'hiver",
+          "Loin de l'aéroport, transfert plus long",
+          "Une voiture de location est quasi indispensable pour explorer Basse-Terre"
+        ]
+      },
+      "verdict": {
+        "en": "Pick this if you want beach plus rainforest and do not mind a longer transfer. It is at its best in winter when the kids club runs. Book a beachfront bungalow.",
+        "fr": "À choisir si vous voulez plage et forêt tropicale et que le transfert plus long ne vous dérange pas. Il donne le meilleur en hiver, quand le club enfants tourne. Réservez un bungalow en bord de plage."
+      },
+      "parentTip": {
+        "en": "Grande Anse, one of Guadeloupe's prettiest sand beaches, is a short drive away, go early before the afternoon swell picks up.",
+        "fr": "Grande Anse, l'une des plus belles plages de sable de Guadeloupe, est à quelques minutes en voiture, allez-y tôt avant que la houle de l'après-midi ne se lève."
+      },
+      "atAGlance": [
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Ages 3 to 12, winter season",
+            "fr": "3 à 12 ans, saison d'hiver"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "Main pool plus kids pool",
+            "fr": "Piscine principale et bassin enfants"
+          }
+        },
+        {
+          "icon": "🌴",
+          "label": {
+            "en": "Nature",
+            "fr": "Nature"
+          },
+          "value": {
+            "en": "Rainforest and botanical garden nearby",
+            "fr": "Forêt et jardin botanique tout près"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Calm sheltered bay",
+            "fr": "Baie abritée et calme"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🌺",
+          "name": {
+            "en": "Deshaies botanical garden",
+            "fr": "Jardin botanique de Deshaies"
+          },
+          "detail": {
+            "en": "Colourful gardens with koi ponds and lorikeets kids can feed, an easy morning out.",
+            "fr": "Jardins colorés avec bassins de carpes koï et loriquets que les enfants peuvent nourrir, une matinée facile."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🏝️",
+          "name": {
+            "en": "Grande Anse beach",
+            "fr": "Plage de Grande Anse"
+          },
+          "detail": {
+            "en": "A long golden beach a short drive away, best in the morning for calmer water.",
+            "fr": "Une longue plage dorée à quelques minutes en voiture, idéale le matin pour une eau plus calme."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🐢",
+          "name": {
+            "en": "Snorkelling at Malendure",
+            "fr": "Masque et tuba à Malendure"
+          },
+          "detail": {
+            "en": "Drive south to the Pigeon islands reserve to snorkel with turtles, boats take families out too.",
+            "fr": "Descendez vers la réserve des îlets Pigeon pour nager avec les tortues, des bateaux emmènent aussi les familles."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast by the bay",
+            "fr": "Petit-déjeuner face à la baie"
+          },
+          "note": {
+            "en": "Sea view and fresh fruit to start the day.",
+            "fr": "Vue mer et fruits frais pour démarrer."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Botanical garden",
+            "fr": "Jardin botanique"
+          },
+          "note": {
+            "en": "Feed the lorikeets and wander the ponds.",
+            "fr": "On nourrit les loriquets et on flâne autour des bassins."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and pool",
+            "fr": "Déjeuner et piscine"
+          },
+          "note": {
+            "en": "Kids pool while parents relax.",
+            "fr": "Bassin enfants pendant que les parents se détendent."
+          }
+        },
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Bay swim",
+            "fr": "Baignade dans la baie"
+          },
+          "note": {
+            "en": "Calm evening water off the beach.",
+            "fr": "Eau calme en fin de journée depuis la plage."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Cots on request and calm bungalows by the sea, though the winter-only club means you plan care around the season.",
+          "fr": "Lits bébé sur demande et bungalows calmes en bord de mer, mais le club uniquement hivernal impose d'organiser la garde selon la saison."
+        },
+        "toddler": {
+          "en": "The children's pool and shallow bay are gentle for toddlers, with the seasonal club for the winter months.",
+          "fr": "Le bassin enfants et la baie peu profonde sont doux pour les tout-petits, avec le club saisonnier en hiver."
+        },
+        "kid": {
+          "en": "Nature outings, snorkelling and the winter kids club make this a great age here.",
+          "fr": "Sorties nature, masque-tuba et club enfants d'hiver: un très bon âge ici."
+        },
+        "teen": {
+          "en": "Turtle snorkelling, hikes to waterfalls and the wild Basse-Terre coast suit adventurous teens.",
+          "fr": "Nage avec les tortues, randonnées vers les cascades et côte sauvage de Basse-Terre: parfait pour les ados aventureux."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "When does the kids club run?",
+            "fr": "Quand le club enfants fonctionne-t-il?"
+          },
+          "a": {
+            "en": "The free kids club for roughly ages 3 to 12 generally runs in the winter high season, about December to April. Confirm dates when booking.",
+            "fr": "Le club enfants gratuit, pour environ 3 à 12 ans, fonctionne en général en haute saison d'hiver, à peu près de décembre à avril. Confirmez les dates à la réservation."
+          }
+        },
+        {
+          "q": {
+            "en": "Do we need a car?",
+            "fr": "Faut-il une voiture?"
+          },
+          "a": {
+            "en": "Yes, on the Basse-Terre side a hire car is really useful to reach beaches, waterfalls and the rainforest.",
+            "fr": "Oui, du côté Basse-Terre une voiture de location est vraiment utile pour rejoindre plages, cascades et forêt tropicale."
+          }
+        },
+        {
+          "q": {
+            "en": "How far is the airport?",
+            "fr": "L'aéroport est-il loin?"
+          },
+          "a": {
+            "en": "Deshaies is around an hour and a quarter from Pointe-a-Pitre airport, longer than the Grande-Terre resorts.",
+            "fr": "Deshaies est à environ une heure et quart de l'aéroport de Pointe-à-Pitre, plus loin que les resorts de Grande-Terre."
+          }
+        }
+      ]
+    },
+    {
+      "key": "guadeloupe-karibea-beach-gosier",
+      "destinationKey": "guadeloupe",
+      "name": "Karibea Beach Resort Gosier",
+      "area": {
+        "en": "Le Gosier",
+        "fr": "Le Gosier"
+      },
+      "lat": 16.2072,
+      "lng": -61.5015,
+      "zoom": 13,
+      "address": "Karibea Beach Resort Gosier (Hotel Salako), Pointe de la Verdure, 97190 Le Gosier, Guadeloupe",
+      "priceTier": 1,
+      "priceFrom": 95,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "beach-access",
+        "toddler-friendly",
+        "city-base"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolCabanas",
+        "whiteResortPool",
+        "coastTown"
+      ],
+      "scores": {
+        "rooms": 84,
+        "baby": 78,
+        "pool": 80,
+        "dining": 78,
+        "safety": 80,
+        "convenience": 82,
+        "location": 82,
+        "extras": 78
+      },
+      "roomsSummary": {
+        "en": "Simple, good-value air-conditioned rooms over several floors, many with sea or garden views. The wider Karibea resort has a few properties on the same beach, so room styles and prices vary.",
+        "fr": "Chambres climatisées simples et d'un bon rapport qualité-prix sur plusieurs étages, beaucoup avec vue mer ou jardin. Le resort Karibea regroupe plusieurs établissements sur la même plage, donc les styles et les prix des chambres varient."
+      },
+      "intro": {
+        "en": "The budget-friendly beach pick in Gosier: a straightforward three-star resort right on the sand at Pointe de la Verdure, with two pools, a children's paddling pool and a small kids club. It is not fancy, but it puts you on a good beach, walking distance to Gosier town, at a price that leaves room in the budget for excursions.",
+        "fr": "Le choix plage économique du Gosier: un resort trois étoiles sans chichi directement sur le sable de la Pointe de la Verdure, avec deux piscines, une pataugeoire et un petit club enfants. Ce n'est pas luxueux, mais vous êtes sur une bonne plage, à distance de marche du bourg du Gosier, à un prix qui laisse de la marge pour les excursions."
+      },
+      "highlights": {
+        "en": [
+          "Right on a sandy Gosier beach",
+          "Two pools plus a children's paddling pool",
+          "Small kids club during busy periods",
+          "Walking distance to Gosier town and its restaurants"
+        ],
+        "fr": [
+          "Directement sur une plage de sable du Gosier",
+          "Deux piscines et une pataugeoire pour enfants",
+          "Petit club enfants en période chargée",
+          "À distance de marche du bourg du Gosier et de ses restaurants"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Great value on the beach",
+          "Paddling pool for toddlers",
+          "Handy base for exploring Grande-Terre",
+          "Walkable town with shops and eateries"
+        ],
+        "fr": [
+          "Excellent rapport qualité-prix les pieds dans l'eau",
+          "Pataugeoire pour les tout-petits",
+          "Base pratique pour explorer la Grande-Terre",
+          "Bourg accessible à pied, boutiques et restaurants"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Dated in places, standards vary by building",
+          "Kids club is small and seasonal",
+          "Buffet dining is basic rather than special"
+        ],
+        "fr": [
+          "Un peu daté par endroits, le standing varie selon les bâtiments",
+          "Le club enfants est petit et saisonnier",
+          "La restauration buffet est simple plutôt que remarquable"
+        ]
+      },
+      "verdict": {
+        "en": "The sensible value choice for families who want beach, pools and a walkable town without paying resort prices. Confirm which Karibea building you are booking.",
+        "fr": "Le choix malin pour les familles qui veulent plage, piscines et un bourg accessible à pied sans payer le prix fort. Vérifiez dans quel bâtiment Karibea vous réservez."
+      },
+      "parentTip": {
+        "en": "The paddling pool is the toddler favourite, and the beach out front is calm, an easy combination for a low-stress day with little ones.",
+        "fr": "La pataugeoire est la préférée des tout-petits, et la plage devant est calme: une combinaison facile pour une journée sans stress avec les petits."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Two pools plus paddling pool",
+            "fr": "Deux piscines et une pataugeoire"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "On the sand at Pointe de la Verdure",
+            "fr": "Sur le sable de la Pointe de la Verdure"
+          }
+        },
+        {
+          "icon": "🏙️",
+          "label": {
+            "en": "Location",
+            "fr": "Emplacement"
+          },
+          "value": {
+            "en": "Walk to Gosier town",
+            "fr": "Bourg du Gosier à pied"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Value",
+            "fr": "Rapport qualité-prix"
+          },
+          "value": {
+            "en": "Budget-friendly beach base",
+            "fr": "Base plage économique"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🩴",
+          "name": {
+            "en": "Paddling pool play",
+            "fr": "Jeux à la pataugeoire"
+          },
+          "detail": {
+            "en": "The shallow children's pool is the easy default for toddlers each morning.",
+            "fr": "Le petit bassin peu profond est le repère facile des tout-petits chaque matin."
+          },
+          "ages": [
+            "baby",
+            "toddler"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🛥️",
+          "name": {
+            "en": "Boat trip to Petite Terre",
+            "fr": "Sortie bateau vers Petite Terre"
+          },
+          "detail": {
+            "en": "Day boats from Gosier reach the Petite Terre nature reserve, iguanas and shallow lagoon included.",
+            "fr": "Des bateaux à la journée depuis le Gosier rejoignent la réserve de Petite Terre, iguanes et lagon peu profond au programme."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🍨",
+          "name": {
+            "en": "Evening stroll into Gosier",
+            "fr": "Balade du soir au Gosier"
+          },
+          "detail": {
+            "en": "Walk into town for ice cream and a look at the little marina.",
+            "fr": "Marchez jusqu'au bourg pour une glace et un tour de la petite marina."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soir"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Buffet breakfast",
+            "fr": "Petit-déjeuner buffet"
+          },
+          "note": {
+            "en": "Simple spread, get in early.",
+            "fr": "Buffet simple, arrivez tôt."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Beach and paddling pool",
+            "fr": "Plage et pataugeoire"
+          },
+          "note": {
+            "en": "Sand in the morning, shallow pool for the little ones.",
+            "fr": "Sable le matin, petit bassin pour les plus jeunes."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and rest",
+            "fr": "Déjeuner et sieste"
+          },
+          "note": {
+            "en": "Shady spot for the after-lunch quiet hour.",
+            "fr": "Coin ombragé pour l'heure calme d'après le repas."
+          }
+        },
+        {
+          "time": "17:00",
+          "title": {
+            "en": "Walk into town",
+            "fr": "Balade au bourg"
+          },
+          "note": {
+            "en": "Ice cream and the marina at golden hour.",
+            "fr": "Glace et marina à l'heure dorée."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Cots on request and the paddling pool nearby, though facilities are basic and there is no baby club.",
+          "fr": "Lits bébé sur demande et pataugeoire à proximité, mais les équipements sont simples et il n'y a pas de club bébé."
+        },
+        "toddler": {
+          "en": "The paddling pool and calm beach are the toddler sweet spot here.",
+          "fr": "La pataugeoire et la plage calme sont le point fort pour les tout-petits ici."
+        },
+        "kid": {
+          "en": "Pools, beach and boat trips to nearby islets keep this age happy on a budget.",
+          "fr": "Piscines, plage et sorties bateau vers les îlets voisins occupent bien cet âge sans se ruiner."
+        },
+        "teen": {
+          "en": "Teens may want more buzz, but Gosier's cafes and watersports are a short walk away.",
+          "fr": "Les ados voudront peut-être plus d'animation, mais les cafés et sports nautiques du Gosier sont à courte distance à pied."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is it good value?",
+            "fr": "Est-ce un bon rapport qualité-prix?"
+          },
+          "a": {
+            "en": "Yes, it is one of the more affordable beachfront options in Gosier, ideal if you want to spend on excursions rather than the room.",
+            "fr": "Oui, c'est l'une des options les plus abordables en bord de plage au Gosier, idéal si vous préférez dépenser en excursions plutôt qu'en chambre."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a kids club?",
+            "fr": "Y a-t-il un club enfants?"
+          },
+          "a": {
+            "en": "A small kids club runs in busier periods, but it is modest, so plan family activities around the pools and beach.",
+            "fr": "Un petit club enfants fonctionne en période chargée, mais il reste modeste, prévoyez donc des activités en famille autour des piscines et de la plage."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we walk to restaurants?",
+            "fr": "Peut-on aller aux restaurants à pied?"
+          },
+          "a": {
+            "en": "Yes, Gosier town with its restaurants, shops and casino is a short, flat walk away.",
+            "fr": "Oui, le bourg du Gosier, avec ses restaurants, boutiques et casino, est à courte distance à pied, sur du plat."
+          }
+        }
+      ]
+    },
+    {
+      "key": "guadeloupe-la-toubana",
+      "destinationKey": "guadeloupe",
+      "name": "La Toubana Hotel & Spa",
+      "area": {
+        "en": "Sainte-Anne",
+        "fr": "Sainte-Anne"
+      },
+      "lat": 16.2165,
+      "lng": -61.3925,
+      "zoom": 13,
+      "address": "La Toubana Hotel & Spa, Fonds Thezan, 97180 Sainte-Anne, Guadeloupe",
+      "priceTier": 4,
+      "priceFrom": 300,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid"
+      ],
+      "amenities": [
+        "pool",
+        "beach-access",
+        "family-suites",
+        "baby-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "infinityPoolSea",
+        "villaPoolGreen",
+        "deckLoungersSea"
+      ],
+      "scores": {
+        "rooms": 93,
+        "baby": 80,
+        "pool": 90,
+        "dining": 88,
+        "safety": 84,
+        "convenience": 78,
+        "location": 92,
+        "extras": 88
+      },
+      "roomsSummary": {
+        "en": "Garden bungalows, suites and private villas set on a clifftop with sweeping sea views, some with their own plunge pool. Bungalows take two adults and a young child, so this suits couples and small families more than big groups.",
+        "fr": "Bungalows de jardin, suites et villas privées perchés sur une falaise avec vue mer panoramique, certains avec bassin privatif. Les bungalows accueillent deux adultes et un jeune enfant: cela convient plus aux couples et petites familles qu'aux grands groupes."
+      },
+      "intro": {
+        "en": "The only five-star address on Grande-Terre, perched above the sea near Sainte-Anne with a clifftop infinity pool and a small private beach in the cove below. It is more romantic and refined than a big kids resort, but it welcomes younger families into its bungalows and villas, and the calm Sainte-Anne lagoon is minutes away.",
+        "fr": "La seule adresse cinq étoiles de Grande-Terre, perchée au-dessus de la mer près de Sainte-Anne, avec une piscine à débordement en haut de la falaise et une petite plage privée dans la crique en contrebas. Plus romantique et raffinée qu'un grand resort familial, elle accueille néanmoins les jeunes familles dans ses bungalows et villas, et le lagon calme de Sainte-Anne est à quelques minutes."
+      },
+      "highlights": {
+        "en": [
+          "Clifftop infinity pool with sweeping sea views",
+          "Small private cove beach below the hotel",
+          "Villas and bungalows with private plunge pools",
+          "Excellent spa and Creole fine dining"
+        ],
+        "fr": [
+          "Piscine à débordement en haut de la falaise, vue mer panoramique",
+          "Petite plage privée dans la crique sous l'hôtel",
+          "Villas et bungalows avec bassin privatif",
+          "Excellent spa et belle table créole"
+        ]
+      },
+      "pros": {
+        "en": [
+          "The most refined stay on Grande-Terre",
+          "Stunning views and a beautiful pool",
+          "Private-pool villas are great for small families",
+          "Minutes from the calm Sainte-Anne lagoon"
+        ],
+        "fr": [
+          "Le séjour le plus raffiné de Grande-Terre",
+          "Vues superbes et très belle piscine",
+          "Les villas avec bassin privatif sont parfaites pour les petites familles",
+          "À quelques minutes du lagon calme de Sainte-Anne"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No kids club and a grown-up, quiet atmosphere",
+          "Bungalows are sized for two adults and one child",
+          "Clifftop site with steps, harder with a pram"
+        ],
+        "fr": [
+          "Pas de club enfants et une ambiance calme, plutôt adulte",
+          "Les bungalows sont dimensionnés pour deux adultes et un enfant",
+          "Site en falaise avec des marches, moins pratique avec une poussette"
+        ]
+      },
+      "verdict": {
+        "en": "For parents of one or two young children who want a beautiful, calm, upscale base and do not need a kids club, this is the special-occasion choice. Book a villa with a private pool.",
+        "fr": "Pour des parents d'un ou deux jeunes enfants qui cherchent une base magnifique, calme et haut de gamme sans besoin de club enfants, c'est le choix des grandes occasions. Réservez une villa avec bassin privatif."
+      },
+      "parentTip": {
+        "en": "The clifftop steps down to the cove are steep, a soft carrier beats a pram for the beach with a baby.",
+        "fr": "Les marches de la falaise vers la crique sont raides, un porte-bébé souple vaut mieux qu'une poussette pour rejoindre la plage avec un bébé."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "Clifftop infinity pool",
+            "fr": "Piscine à débordement sur la falaise"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Small private cove",
+            "fr": "Petite crique privée"
+          }
+        },
+        {
+          "icon": "🏡",
+          "label": {
+            "en": "Rooms",
+            "fr": "Hébergements"
+          },
+          "value": {
+            "en": "Bungalows and private-pool villas",
+            "fr": "Bungalows et villas avec bassin"
+          }
+        },
+        {
+          "icon": "💆",
+          "label": {
+            "en": "Spa",
+            "fr": "Spa"
+          },
+          "value": {
+            "en": "Ocean spa on site",
+            "fr": "Spa face à l'océan"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Infinity pool morning",
+            "fr": "Matinée à la piscine à débordement"
+          },
+          "detail": {
+            "en": "The view over the sea makes the pool the easy centre of a slow morning.",
+            "fr": "La vue sur la mer fait de la piscine le centre idéal d'une matinée tranquille."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🏝️",
+          "name": {
+            "en": "Sainte-Anne lagoon",
+            "fr": "Lagon de Sainte-Anne"
+          },
+          "detail": {
+            "en": "Drive a few minutes to the Blue Flag lagoon, shallow and calm for the smallest swimmers.",
+            "fr": "Quelques minutes en voiture jusqu'au lagon Pavillon Bleu, peu profond et calme pour les plus petits nageurs."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "💆",
+          "name": {
+            "en": "Spa and quiet time",
+            "fr": "Spa et temps calme"
+          },
+          "detail": {
+            "en": "Book a treatment at the ocean spa while a grandparent or partner takes pool duty.",
+            "fr": "Réservez un soin au spa face à l'océan pendant que l'autre parent ou un grand-parent surveille la piscine."
+          },
+          "ages": [],
+          "time": {
+            "en": "Anytime",
+            "fr": "À tout moment"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast with a view",
+            "fr": "Petit-déjeuner avec vue"
+          },
+          "note": {
+            "en": "Terrace tables over the sea.",
+            "fr": "Tables en terrasse au-dessus de la mer."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Sainte-Anne lagoon",
+            "fr": "Lagon de Sainte-Anne"
+          },
+          "note": {
+            "en": "Shallow calm water for the little ones.",
+            "fr": "Eau calme et peu profonde pour les petits."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and rest",
+            "fr": "Déjeuner et repos"
+          },
+          "note": {
+            "en": "Back for lunch and a shady nap.",
+            "fr": "Retour pour déjeuner et une sieste à l'ombre."
+          }
+        },
+        {
+          "time": "16:30",
+          "title": {
+            "en": "Infinity pool",
+            "fr": "Piscine à débordement"
+          },
+          "note": {
+            "en": "Golden-hour swim with the sea view.",
+            "fr": "Baignade à l'heure dorée face à la mer."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Cots available and calm bungalows, but the clifftop steps and grown-up feel mean it suits confident parents of one baby.",
+          "fr": "Lits bébé disponibles et bungalows calmes, mais les marches de la falaise et l'ambiance adulte le réservent aux parents sereins d'un seul bébé."
+        },
+        "toddler": {
+          "en": "A private-pool villa is ideal for toddlers, with the calm Sainte-Anne lagoon a short drive away.",
+          "fr": "Une villa avec bassin privatif est idéale pour les tout-petits, avec le lagon calme de Sainte-Anne à quelques minutes en voiture."
+        },
+        "kid": {
+          "en": "One or two children love the pool and cove, though there is no club or organised entertainment.",
+          "fr": "Un ou deux enfants adorent la piscine et la crique, même s'il n'y a ni club ni animation organisée."
+        },
+        "teen": {
+          "en": "Teens enjoy the pool, snorkelling in the cove and day trips, but may find the vibe quiet.",
+          "fr": "Les ados apprécient la piscine, le masque-tuba dans la crique et les excursions, mais peuvent trouver l'ambiance calme."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is it suitable for families?",
+            "fr": "Est-ce adapté aux familles?"
+          },
+          "a": {
+            "en": "Yes for small families, especially with one or two younger children. Bungalows take two adults and a child, and there is no kids club, so it suits parents wanting calm over entertainment.",
+            "fr": "Oui pour les petites familles, surtout avec un ou deux jeunes enfants. Les bungalows accueillent deux adultes et un enfant, et il n'y a pas de club enfants: idéal pour des parents qui préfèrent le calme à l'animation."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a good beach?",
+            "fr": "Y a-t-il une belle plage?"
+          },
+          "a": {
+            "en": "There is a small private cove below the hotel, and the famous calm Sainte-Anne lagoon beaches are a short drive away.",
+            "fr": "Il y a une petite crique privée sous l'hôtel, et les célèbres plages du lagon calme de Sainte-Anne sont à quelques minutes en voiture."
+          }
+        },
+        {
+          "q": {
+            "en": "Are the villas worth it with kids?",
+            "fr": "Les villas valent-elles le coup avec des enfants?"
+          },
+          "a": {
+            "en": "For families, a villa or bungalow with a private plunge pool is the pick, giving safe splashing right outside your door.",
+            "fr": "Pour les familles, une villa ou un bungalow avec bassin privatif est le meilleur choix, avec une baignade sécurisée juste devant la porte."
+          }
+        }
+      ]
+    },
+    {
+      "key": "guadeloupe-bwa-chik",
+      "destinationKey": "guadeloupe",
+      "name": "Bwa Chik Hotel & Golf",
+      "area": {
+        "en": "Saint-Francois",
+        "fr": "Saint-François"
+      },
+      "lat": 16.251,
+      "lng": -61.279,
+      "zoom": 13,
+      "address": "Bwa Chik Hotel & Golf, Avenue de l'Europe, 97118 Saint-Francois, Guadeloupe",
+      "priceTier": 2,
+      "priceFrom": 120,
+      "ages": [
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "self-catering",
+        "city-base",
+        "family-suites"
+      ],
+      "clubFree": false,
+      "photos": [
+        "poolDuskPalms",
+        "poolOrange",
+        "coastTown"
+      ],
+      "scores": {
+        "rooms": 88,
+        "baby": 74,
+        "pool": 78,
+        "dining": 80,
+        "safety": 82,
+        "convenience": 86,
+        "location": 84,
+        "extras": 80
+      },
+      "roomsSummary": {
+        "en": "Bright, understated rooms and duplexes in a low-key hotel by the marina, some with mezzanine sleeping and kitchenettes. Duplex rooms with a sofa bed and a small kitchen suit families who like to self-cater a little.",
+        "fr": "Chambres et duplex clairs et sobres dans un hôtel tranquille près de la marina, certains avec couchage en mezzanine et kitchenette. Les duplex avec canapé-lit et petite cuisine conviennent aux familles qui aiment cuisiner un peu."
+      },
+      "intro": {
+        "en": "A relaxed, good-value hotel in the heart of Saint-Francois, a short walk from the marina, the market, the beach and Guadeloupe's only golf course. It is low-key rather than resort-like, with one pool and no kids club, but the walkable town setting makes it easy for families who want restaurants and the lagoon on the doorstep.",
+        "fr": "Un hôtel décontracté et abordable au coeur de Saint-François, à quelques pas de la marina, du marché, de la plage et de l'unique golf de Guadeloupe. Plus tranquille qu'un resort, avec une piscine et sans club enfants, mais son emplacement de bourg accessible à pied le rend facile pour les familles qui veulent restaurants et lagon à la porte."
+      },
+      "highlights": {
+        "en": [
+          "Heart of Saint-Francois, walk everywhere",
+          "Duplex rooms with kitchenettes for families",
+          "Steps from the marina, market and beach",
+          "Next to Guadeloupe's only golf course"
+        ],
+        "fr": [
+          "Coeur de Saint-François, tout à pied",
+          "Duplex avec kitchenette pour les familles",
+          "À deux pas de la marina, du marché et de la plage",
+          "À côté de l'unique golf de Guadeloupe"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Very walkable, good without a hire car",
+          "Kitchenette duplexes help with young children",
+          "Great value in a lively little town",
+          "Close to the calm Saint-Francois lagoon"
+        ],
+        "fr": [
+          "Très accessible à pied, pratique sans voiture",
+          "Duplex avec kitchenette bien utiles avec de jeunes enfants",
+          "Bon rapport qualité-prix dans un bourg animé",
+          "Proche du lagon calme de Saint-François"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Small pool area and no kids club",
+          "Not on the beach, though it is a short walk",
+          "Simple hotel rather than a full resort"
+        ],
+        "fr": [
+          "Espace piscine réduit et pas de club enfants",
+          "Pas sur la plage, mais à courte distance à pied",
+          "Hôtel simple plutôt qu'un resort complet"
+        ]
+      },
+      "verdict": {
+        "en": "A smart, affordable base for families who want to explore Saint-Francois and the east of Grande-Terre on foot. Book a duplex and use the town's restaurants and lagoon.",
+        "fr": "Une base maligne et abordable pour les familles qui veulent découvrir Saint-François et l'est de la Grande-Terre à pied. Réservez un duplex et profitez des restaurants et du lagon du bourg."
+      },
+      "parentTip": {
+        "en": "The Saint-Francois lagoon a short walk away is one of the calmest swimming spots on the island, ideal at the start of the day.",
+        "fr": "Le lagon de Saint-François, à courte distance à pied, est l'un des coins de baignade les plus calmes de l'île, idéal en début de journée."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏙️",
+          "label": {
+            "en": "Location",
+            "fr": "Emplacement"
+          },
+          "value": {
+            "en": "Central Saint-Francois",
+            "fr": "Centre de Saint-François"
+          }
+        },
+        {
+          "icon": "🍳",
+          "label": {
+            "en": "Rooms",
+            "fr": "Chambres"
+          },
+          "value": {
+            "en": "Duplexes with kitchenettes",
+            "fr": "Duplex avec kitchenette"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Short walk to the lagoon",
+            "fr": "Lagon à quelques pas"
+          }
+        },
+        {
+          "icon": "⛳",
+          "label": {
+            "en": "Nearby",
+            "fr": "À côté"
+          },
+          "value": {
+            "en": "Marina and golf course",
+            "fr": "Marina et golf"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏝️",
+          "name": {
+            "en": "Saint-Francois lagoon",
+            "fr": "Lagon de Saint-François"
+          },
+          "detail": {
+            "en": "The town's protected lagoon is shallow and calm, a short walk from the hotel.",
+            "fr": "Le lagon protégé du bourg est peu profond et calme, à quelques pas de l'hôtel."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🚤",
+          "name": {
+            "en": "Boat to La Desirade",
+            "fr": "Bateau vers La Désirade"
+          },
+          "detail": {
+            "en": "Day boats and the ferry leave the marina for the quiet island of La Desirade.",
+            "fr": "Des bateaux à la journée et le ferry partent de la marina vers l'île tranquille de La Désirade."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🍧",
+          "name": {
+            "en": "Market and marina stroll",
+            "fr": "Balade au marché et à la marina"
+          },
+          "detail": {
+            "en": "Wander the colourful market and the marina cafes in the cool of the evening.",
+            "fr": "Flânez au marché coloré et aux cafés de la marina à la fraîche du soir."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soir"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast in town",
+            "fr": "Petit-déjeuner en ville"
+          },
+          "note": {
+            "en": "Grab pastries and head to the lagoon early.",
+            "fr": "Prenez des viennoiseries et filez au lagon tôt."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Lagoon swim",
+            "fr": "Baignade au lagon"
+          },
+          "note": {
+            "en": "Calm shallow water for all ages.",
+            "fr": "Eau calme et peu profonde pour tous les âges."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Kitchenette lunch",
+            "fr": "Déjeuner en kitchenette"
+          },
+          "note": {
+            "en": "Easy lunch in the room during the hot hours.",
+            "fr": "Déjeuner simple en chambre aux heures chaudes."
+          }
+        },
+        {
+          "time": "17:30",
+          "title": {
+            "en": "Marina and market",
+            "fr": "Marina et marché"
+          },
+          "note": {
+            "en": "Ice cream and a look at the boats.",
+            "fr": "Glace et tour des bateaux."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Kitchenette duplexes help with bottles and meals, but the small pool and lack of a club mean facilities are basic for babies.",
+          "fr": "Les duplex avec kitchenette facilitent biberons et repas, mais la petite piscine et l'absence de club rendent les équipements sommaires pour les bébés."
+        },
+        "toddler": {
+          "en": "The calm town lagoon nearby is the toddler highlight, the pool is small so plan lagoon mornings.",
+          "fr": "Le lagon calme du bourg, tout près, est le point fort pour les tout-petits, la piscine étant petite, prévoyez des matinées au lagon."
+        },
+        "kid": {
+          "en": "Walkable town, boat trips and the lagoon keep this age busy without a car.",
+          "fr": "Bourg accessible à pied, sorties bateau et lagon occupent bien cet âge sans voiture."
+        },
+        "teen": {
+          "en": "Teens like the marina buzz, watersports and boat trips to nearby islands.",
+          "fr": "Les ados aiment l'animation de la marina, les sports nautiques et les sorties bateau vers les îles voisines."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Do we need a car here?",
+            "fr": "Faut-il une voiture ici?"
+          },
+          "a": {
+            "en": "Not for the town itself, everything from the beach to restaurants is walkable, but a car helps for day trips further afield.",
+            "fr": "Pas pour le bourg lui-même, de la plage aux restaurants tout est accessible à pied, mais une voiture aide pour les excursions plus lointaines."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a kids club?",
+            "fr": "Y a-t-il un club enfants?"
+          },
+          "a": {
+            "en": "No, this is a simple town hotel, so family days revolve around the lagoon, the pool and the marina.",
+            "fr": "Non, c'est un hôtel de bourg tout simple, les journées en famille s'organisent donc autour du lagon, de la piscine et de la marina."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it on the beach?",
+            "fr": "Est-il sur la plage?"
+          },
+          "a": {
+            "en": "It is set back a little in town, about a five-minute walk to the beach and lagoon.",
+            "fr": "Il est un peu en retrait dans le bourg, à environ cinq minutes à pied de la plage et du lagon."
+          }
+        }
+      ]
+    },
+    {
+      "key": "guadeloupe-auberge-vieille-tour",
+      "destinationKey": "guadeloupe",
+      "name": "Auberge de la Vieille Tour",
+      "area": {
+        "en": "Le Gosier",
+        "fr": "Le Gosier"
+      },
+      "lat": 16.206,
+      "lng": -61.483,
+      "zoom": 13,
+      "address": "Auberge de la Vieille Tour, Montauban, 97190 Le Gosier, Guadeloupe",
+      "priceTier": 3,
+      "priceFrom": 170,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "poolDusk",
+        "resortLoungers",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 89,
+        "baby": 80,
+        "pool": 84,
+        "dining": 87,
+        "safety": 84,
+        "convenience": 85,
+        "location": 88,
+        "extras": 83
+      },
+      "roomsSummary": {
+        "en": "Rooms and suites around an old stone windmill and a tropical garden that runs down to the sea, all with ocean views. Ten connecting Superior rooms are set aside for families travelling with children.",
+        "fr": "Chambres et suites autour d'un ancien moulin en pierre et d'un jardin tropical qui descend vers la mer, toutes avec vue océan. Dix chambres Supérieures communicantes sont réservées aux familles qui voyagent avec des enfants."
+      },
+      "intro": {
+        "en": "A characterful four-star hotel built around an 18th-century windmill in Gosier, with a lush tropical garden, a pool and a small beach below. It leans charming and calm rather than kid-focused, but the connecting family rooms, the garden to roam and the Aquarium de Guadeloupe ten minutes away make it a comfortable, characterful family base.",
+        "fr": "Un hôtel quatre étoiles plein de caractère bâti autour d'un moulin du XVIIIe siècle au Gosier, avec un jardin tropical luxuriant, une piscine et une petite plage en contrebas. Plutôt charmant et calme que centré sur les enfants, mais ses chambres familiales communicantes, son jardin où gambader et l'Aquarium de Guadeloupe à dix minutes en font une base familiale confortable et pleine de cachet."
+      },
+      "highlights": {
+        "en": [
+          "Historic windmill setting in a big tropical garden",
+          "Connecting family rooms with ocean views",
+          "Pool and a small beach below the hotel",
+          "Ten minutes from the Aquarium de Guadeloupe"
+        ],
+        "fr": [
+          "Cadre de moulin historique dans un grand jardin tropical",
+          "Chambres familiales communicantes avec vue océan",
+          "Piscine et petite plage en contrebas de l'hôtel",
+          "À dix minutes de l'Aquarium de Guadeloupe"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Charming, characterful grounds with sea views",
+          "Family connecting rooms for two children",
+          "Good Creole dining on site",
+          "Handy for Gosier, the aquarium and the islet ferry"
+        ],
+        "fr": [
+          "Parc charmant et plein de caractère avec vue mer",
+          "Chambres familiales communicantes pour deux enfants",
+          "Bonne table créole sur place",
+          "Pratique pour le Gosier, l'aquarium et la navette de l'îlet"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No kids club or organised entertainment",
+          "Small beach, better for a dip than a beach day",
+          "Garden slopes and steps, trickier with a pram"
+        ],
+        "fr": [
+          "Pas de club enfants ni d'animation organisée",
+          "Petite plage, plus pour une baignade que pour une journée plage",
+          "Jardin en pente et marches, moins pratique avec une poussette"
+        ]
+      },
+      "verdict": {
+        "en": "A charming, well-located choice for families who value character and calm over a big kids programme. Book connecting Superior rooms and pair it with the aquarium.",
+        "fr": "Un choix charmant et bien situé pour les familles qui privilégient le cachet et le calme à un grand programme enfants. Réservez des chambres Supérieures communicantes et associez le séjour à l'aquarium."
+      },
+      "parentTip": {
+        "en": "The Aquarium de Guadeloupe is a ten-minute drive and a perfect rainy-morning or too-hot-afternoon backup with young kids.",
+        "fr": "L'Aquarium de Guadeloupe est à dix minutes en voiture, une parfaite solution de repli pour une matinée pluvieuse ou un après-midi trop chaud avec de jeunes enfants."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏛️",
+          "label": {
+            "en": "Setting",
+            "fr": "Cadre"
+          },
+          "value": {
+            "en": "18th-century windmill and garden",
+            "fr": "Moulin du XVIIIe et jardin"
+          }
+        },
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Rooms",
+            "fr": "Chambres"
+          },
+          "value": {
+            "en": "Connecting family rooms",
+            "fr": "Chambres familiales communicantes"
+          }
+        },
+        {
+          "icon": "🐠",
+          "label": {
+            "en": "Nearby",
+            "fr": "À proximité"
+          },
+          "value": {
+            "en": "Aquarium 10 minutes away",
+            "fr": "Aquarium à 10 minutes"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Small cove below",
+            "fr": "Petite crique en contrebas"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🐠",
+          "name": {
+            "en": "Aquarium de Guadeloupe",
+            "fr": "Aquarium de Guadeloupe"
+          },
+          "detail": {
+            "en": "A short drive to the island's aquarium, with sharks, turtles and a touch pool for little hands.",
+            "fr": "Quelques minutes en voiture jusqu'à l'aquarium de l'île, avec requins, tortues et bassin tactile pour les petites mains."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🛶",
+          "name": {
+            "en": "Ferry to Ilet du Gosier",
+            "fr": "Navette vers l'Îlet du Gosier"
+          },
+          "detail": {
+            "en": "The nearby beach has boats to the little islet for shallow swimming and a picnic.",
+            "fr": "La plage voisine propose des bateaux vers le petit îlet pour une baignade peu profonde et un pique-nique."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🍽️",
+          "name": {
+            "en": "Creole dinner in the garden",
+            "fr": "Dîner créole dans le jardin"
+          },
+          "detail": {
+            "en": "The hotel restaurant serves Creole dishes with sea views, some evenings with music.",
+            "fr": "Le restaurant de l'hôtel sert une cuisine créole avec vue mer, certains soirs en musique."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soir"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast over the sea",
+            "fr": "Petit-déjeuner face à la mer"
+          },
+          "note": {
+            "en": "Garden terrace with an ocean view.",
+            "fr": "Terrasse de jardin avec vue océan."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Aquarium visit",
+            "fr": "Visite de l'aquarium"
+          },
+          "note": {
+            "en": "Sharks, turtles and the touch pool.",
+            "fr": "Requins, tortues et bassin tactile."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Pool and lunch",
+            "fr": "Piscine et déjeuner"
+          },
+          "note": {
+            "en": "Cool off in the pool after the outing.",
+            "fr": "On se rafraîchit à la piscine après la sortie."
+          }
+        },
+        {
+          "time": "17:00",
+          "title": {
+            "en": "Garden and cove",
+            "fr": "Jardin et crique"
+          },
+          "note": {
+            "en": "Wander the grounds down to the little beach.",
+            "fr": "Balade dans le parc jusqu'à la petite plage."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Cots on request and connecting rooms help, though the sloping garden and steps mean some pram-lifting.",
+          "fr": "Lits bébé sur demande et chambres communicantes bien utiles, même si le jardin en pente et les marches obligent à porter un peu la poussette."
+        },
+        "toddler": {
+          "en": "The pool and the calm little cove suit toddlers, with the aquarium as an easy backup outing.",
+          "fr": "La piscine et la petite crique calme conviennent aux tout-petits, avec l'aquarium comme sortie de repli facile."
+        },
+        "kid": {
+          "en": "The garden to explore, the aquarium and the islet ferry keep this age content.",
+          "fr": "Le jardin à explorer, l'aquarium et la navette pour l'îlet comblent bien cet âge."
+        },
+        "teen": {
+          "en": "Teens enjoy the setting, the nearby town and day trips, though there is no dedicated teen offer.",
+          "fr": "Les ados apprécient le cadre, le bourg voisin et les excursions, même s'il n'y a pas d'offre dédiée aux ados."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is it good for families with young children?",
+            "fr": "Est-ce bien pour les familles avec de jeunes enfants?"
+          },
+          "a": {
+            "en": "Yes, especially with the connecting Superior rooms, though it has no kids club, so plan around the pool, garden and nearby aquarium.",
+            "fr": "Oui, surtout avec les chambres Supérieures communicantes, mais sans club enfants: prévoyez piscine, jardin et aquarium voisin."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the beach big?",
+            "fr": "La plage est-elle grande?"
+          },
+          "a": {
+            "en": "It is a small cove below the hotel, fine for a dip. For a bigger beach day, the Gosier beaches are a short drive.",
+            "fr": "C'est une petite crique sous l'hôtel, parfaite pour une baignade. Pour une vraie journée plage, les plages du Gosier sont à quelques minutes en voiture."
+          }
+        },
+        {
+          "q": {
+            "en": "How far is the aquarium?",
+            "fr": "L'aquarium est-il loin?"
+          },
+          "a": {
+            "en": "The Aquarium de Guadeloupe is about a ten-minute drive, an easy and popular family outing.",
+            "fr": "L'Aquarium de Guadeloupe est à environ dix minutes en voiture, une sortie familiale facile et appréciée."
+          }
+        }
+      ]
+    },
+    {
+      "key": "guadeloupe-canella-beach",
+      "destinationKey": "guadeloupe",
+      "name": "Canella Beach Hotel",
+      "area": {
+        "en": "Le Gosier",
+        "fr": "Le Gosier"
+      },
+      "lat": 16.2068,
+      "lng": -61.5,
+      "zoom": 13,
+      "address": "Canella Beach Hotel, Pointe de la Verdure, 97190 Le Gosier, Guadeloupe",
+      "priceTier": 2,
+      "priceFrom": 110,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "beach-access",
+        "self-catering",
+        "family-suites",
+        "city-base"
+      ],
+      "clubFree": false,
+      "photos": [
+        "poolPalms",
+        "poolCabanas",
+        "swimmer"
+      ],
+      "scores": {
+        "rooms": 85,
+        "baby": 82,
+        "pool": 82,
+        "dining": 79,
+        "safety": 82,
+        "convenience": 84,
+        "location": 84,
+        "extras": 80
+      },
+      "roomsSummary": {
+        "en": "Creole-style studios, suites and apartments on the Gosier beachfront, most with a kitchenette, a balcony or terrace and a separate living area. The apartments sleep families comfortably and make self-catering easy.",
+        "fr": "Studios, suites et appartements de style créole en bord de plage au Gosier, la plupart avec kitchenette, balcon ou terrasse et coin salon séparé. Les appartements accueillent confortablement les familles et facilitent la cuisine en autonomie."
+      },
+      "intro": {
+        "en": "A friendly three-star aparthotel right on the Pointe de la Verdure beach in Gosier, where the rooms are really studios and apartments with kitchenettes. That makes it a practical pick for families who want beach and pool but also the flexibility to prepare bottles, breakfasts and simple meals in the room, all a short walk from Gosier town.",
+        "fr": "Un aparthôtel trois étoiles convivial directement sur la plage de la Pointe de la Verdure au Gosier, où les chambres sont en réalité des studios et appartements avec kitchenette. Un choix pratique pour les familles qui veulent plage et piscine mais aussi la liberté de préparer biberons, petits-déjeuners et repas simples en chambre, à courte distance du bourg du Gosier."
+      },
+      "highlights": {
+        "en": [
+          "Beachfront studios and apartments with kitchenettes",
+          "Two pool areas including a hot tub",
+          "Right on a calm Gosier beach",
+          "Short walk to Gosier town and restaurants"
+        ],
+        "fr": [
+          "Studios et appartements en bord de plage avec kitchenette",
+          "Deux espaces piscine dont un bain à remous",
+          "Directement sur une plage calme du Gosier",
+          "À courte distance du bourg du Gosier et des restaurants"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Self-catering is a big help with babies and toddlers",
+          "On the sand with a calm swimming beach",
+          "Good value for families of four",
+          "Walkable town with shops and restaurants"
+        ],
+        "fr": [
+          "La cuisine en autonomie aide beaucoup avec bébés et tout-petits",
+          "Sur le sable, plage de baignade calme",
+          "Bon rapport qualité-prix pour une famille de quatre",
+          "Bourg accessible à pied, boutiques et restaurants"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No kids club or organised entertainment",
+          "Some units are dated and vary in standard",
+          "On-site dining is limited, plan to self-cater"
+        ],
+        "fr": [
+          "Pas de club enfants ni d'animation organisée",
+          "Certains logements sont datés et de standing variable",
+          "Restauration sur place limitée, prévoyez de cuisiner"
+        ]
+      },
+      "verdict": {
+        "en": "The practical, good-value beachfront choice for families who like the freedom of a kitchenette. Book an apartment and lean on the calm beach and nearby town.",
+        "fr": "Le choix pratique et abordable en bord de plage pour les familles qui aiment la liberté d'une kitchenette. Réservez un appartement et profitez de la plage calme et du bourg voisin."
+      },
+      "parentTip": {
+        "en": "Having a kitchenette means you can do an easy in-room breakfast and hit the calm beach before it warms up and fills up.",
+        "fr": "Avoir une kitchenette permet de prendre un petit-déjeuner tranquille en chambre et de gagner la plage calme avant qu'elle ne chauffe et ne se remplisse."
+      },
+      "atAGlance": [
+        {
+          "icon": "🍳",
+          "label": {
+            "en": "Rooms",
+            "fr": "Logements"
+          },
+          "value": {
+            "en": "Studios and apartments with kitchenettes",
+            "fr": "Studios et appartements avec kitchenette"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Two pool areas plus hot tub",
+            "fr": "Deux espaces piscine et bain à remous"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "On the sand at Gosier",
+            "fr": "Sur le sable au Gosier"
+          }
+        },
+        {
+          "icon": "🏙️",
+          "label": {
+            "en": "Location",
+            "fr": "Emplacement"
+          },
+          "value": {
+            "en": "Walk to Gosier town",
+            "fr": "Bourg du Gosier à pied"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Beach morning",
+            "fr": "Matinée plage"
+          },
+          "detail": {
+            "en": "The calm Pointe de la Verdure sand is right outside for an easy paddle.",
+            "fr": "Le sable calme de la Pointe de la Verdure est juste devant pour barboter facilement."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🛶",
+          "name": {
+            "en": "Ferry to Ilet du Gosier",
+            "fr": "Navette vers l'Îlet du Gosier"
+          },
+          "detail": {
+            "en": "Boats from the beach reach the little islet for shallow swimming and snorkelling.",
+            "fr": "Des bateaux depuis la plage rejoignent le petit îlet pour une baignade peu profonde et du masque-tuba."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🍨",
+          "name": {
+            "en": "Evening in Gosier",
+            "fr": "Soirée au Gosier"
+          },
+          "detail": {
+            "en": "Stroll into town for dinner, ice cream and a look at the marina.",
+            "fr": "Balade jusqu'au bourg pour dîner, une glace et un tour de la marina."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soir"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Kitchenette breakfast",
+            "fr": "Petit-déjeuner en kitchenette"
+          },
+          "note": {
+            "en": "Easy breakfast on the balcony before the beach.",
+            "fr": "Petit-déjeuner tranquille au balcon avant la plage."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Beach and pool",
+            "fr": "Plage et piscine"
+          },
+          "note": {
+            "en": "Sand first, then the pool for shade.",
+            "fr": "Sable d'abord, puis la piscine pour l'ombre."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch in the room",
+            "fr": "Déjeuner en chambre"
+          },
+          "note": {
+            "en": "Simple lunch and a rest in the heat.",
+            "fr": "Déjeuner simple et repos à la chaleur."
+          }
+        },
+        {
+          "time": "17:30",
+          "title": {
+            "en": "Walk into Gosier",
+            "fr": "Balade au Gosier"
+          },
+          "note": {
+            "en": "Dinner and ice cream in town.",
+            "fr": "Dîner et glace au bourg."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "The kitchenette is a real plus for bottles and baby food, with cots on request and a calm beach outside.",
+          "fr": "La kitchenette est un vrai plus pour les biberons et les petits pots, avec lits bébé sur demande et plage calme devant."
+        },
+        "toddler": {
+          "en": "Shallow beach, gentle pools and self-catering make toddler days low-stress here.",
+          "fr": "Plage peu profonde, piscines douces et cuisine en autonomie rendent les journées avec tout-petits peu stressantes ici."
+        },
+        "kid": {
+          "en": "Beach, pools and islet boat trips keep this age busy, with town a short walk away.",
+          "fr": "Plage, piscines et sorties bateau vers l'îlet occupent bien cet âge, le bourg étant à courte distance à pied."
+        },
+        "teen": {
+          "en": "Teens have watersports, the walkable town and boat trips, though there is no teen programme.",
+          "fr": "Les ados ont les sports nautiques, le bourg accessible à pied et les sorties bateau, même sans programme dédié."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Are the rooms self-catering?",
+            "fr": "Les logements sont-ils équipés pour cuisiner?"
+          },
+          "a": {
+            "en": "Yes, most units are studios or apartments with a kitchenette, ideal for breakfasts, bottles and simple family meals.",
+            "fr": "Oui, la plupart des logements sont des studios ou appartements avec kitchenette, parfaits pour les petits-déjeuners, les biberons et les repas simples en famille."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it on the beach?",
+            "fr": "Est-il sur la plage?"
+          },
+          "a": {
+            "en": "Yes, it sits right on the calm Pointe de la Verdure beach, with Gosier town a short walk away.",
+            "fr": "Oui, il est directement sur la plage calme de la Pointe de la Verdure, avec le bourg du Gosier à courte distance à pied."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a kids club?",
+            "fr": "Y a-t-il un club enfants?"
+          },
+          "a": {
+            "en": "No kids club, but the beach, two pools and easy town make it straightforward for families.",
+            "fr": "Pas de club enfants, mais la plage, les deux piscines et le bourg facile rendent le séjour simple pour les familles."
+          }
+        }
+      ]
+    }
+  ],
+  "destinationMeta": {
+    "heroKicker": {
+      "en": "Winter sun, calm turquoise lagoons and rainforest adventures",
+      "fr": "Soleil d'hiver, lagons turquoise calmes et aventures en forêt tropicale"
+    },
+    "intro": {
+      "en": "Guadeloupe is a butterfly-shaped French island in the Caribbean, and a rare thing for families: full-on tropical warmth where the euro is the currency, everyone speaks French and there is no visa to sort from mainland France. Grande-Terre, the eastern wing, has the calm shallow lagoons and the family resorts around Le Gosier, Sainte-Anne and Saint-Francois. Basse-Terre, the western wing, is all rainforest, waterfalls and the Soufriere volcano. Add warm winters, Creole food and turtles you can snorkel with, and it is one of the Caribbean's easiest islands with children, once you have done the long flight.",
+      "fr": "La Guadeloupe est une île française des Caraïbes en forme de papillon, et une chose rare pour les familles: une vraie chaleur tropicale où l'euro est la monnaie, où tout le monde parle français et où il n'y a aucun visa à gérer depuis la métropole. La Grande-Terre, l'aile est, réunit les lagons calmes et peu profonds et les resorts familiaux autour du Gosier, de Sainte-Anne et de Saint-François. La Basse-Terre, l'aile ouest, n'est que forêt tropicale, cascades et volcan de la Soufrière. Ajoutez des hivers doux, la cuisine créole et des tortues avec lesquelles nager: c'est l'une des îles les plus faciles des Caraïbes avec des enfants, une fois le long vol passé."
+    },
+    "whyKids": {
+      "en": [
+        "Calm, shallow Blue Flag lagoons like Sainte-Anne and Bois Jolan, made for toddlers",
+        "Warm winter sun around 26 to 30C, driest and sunniest December to April",
+        "Snorkel with sea turtles at Malendure and the Pigeon islands",
+        "Euro currency, French spoken and French standards, reassuring with kids"
+      ],
+      "fr": [
+        "Lagons Pavillon Bleu calmes et peu profonds comme Sainte-Anne et Bois Jolan, faits pour les tout-petits",
+        "Soleil d'hiver doux, autour de 26 à 30C, le plus sec et ensoleillé de décembre à avril",
+        "Nager avec les tortues marines à Malendure et aux îlets Pigeon",
+        "Monnaie en euros, français parlé et normes françaises, rassurant avec des enfants"
+      ]
+    },
+    "bestAreas": {
+      "en": [
+        "Le Gosier: the handiest family base, beaches, resorts and a lively town near Pointe-a-Pitre",
+        "Sainte-Anne: the calmest, shallowest lagoons on the island, ideal with toddlers",
+        "Saint-Francois: a walkable marina town with a protected lagoon and easy boat trips",
+        "Deshaies and Basse-Terre: rainforest, waterfalls and Grande Anse beach, greener and wilder"
+      ],
+      "fr": [
+        "Le Gosier: la base familiale la plus pratique, plages, resorts et un bourg animé près de Pointe-à-Pitre",
+        "Sainte-Anne: les lagons les plus calmes et peu profonds de l'île, idéals avec des tout-petits",
+        "Saint-François: un bourg-marina accessible à pied, avec lagon protégé et sorties bateau faciles",
+        "Deshaies et la Basse-Terre: forêt tropicale, cascades et plage de Grande Anse, plus vert et plus sauvage"
+      ]
+    },
+    "stats": [
+      {
+        "value": "26 to 30C",
+        "label": {
+          "en": "Typical winter day highs",
+          "fr": "Maximums typiques en hiver"
+        }
+      },
+      {
+        "value": "8h",
+        "label": {
+          "en": "Direct flight from Paris",
+          "fr": "Vol direct depuis Paris"
+        }
+      },
+      {
+        "value": "5 to 6h",
+        "label": {
+          "en": "Time difference from mainland France",
+          "fr": "Décalage horaire avec la métropole"
+        }
+      },
+      {
+        "value": "0",
+        "label": {
+          "en": "Visas or jabs for EU families",
+          "fr": "Visa ou vaccin pour les familles de l'UE"
+        }
+      }
+    ],
+    "activities": [
+      {
+        "emoji": "🐢",
+        "name": {
+          "en": "Turtle snorkelling at Malendure",
+          "fr": "Masque-tuba avec les tortues à Malendure"
+        },
+        "detail": {
+          "en": "Off Malendure beach and the Pigeon islands reserve you can snorkel with green sea turtles, boats take families out.",
+          "fr": "Au large de la plage de Malendure et de la réserve des îlets Pigeon, on nage avec les tortues vertes, des bateaux emmènent les familles."
+        },
+        "ages": [
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Morning",
+          "fr": "Matin"
+        }
+      },
+      {
+        "emoji": "🐠",
+        "name": {
+          "en": "Aquarium de Guadeloupe",
+          "fr": "Aquarium de Guadeloupe"
+        },
+        "detail": {
+          "en": "Near Gosier, the island aquarium has sharks, turtles and a touch pool, a great too-hot-afternoon plan.",
+          "fr": "Près du Gosier, l'aquarium de l'île abrite requins, tortues et un bassin tactile, parfait pour un après-midi trop chaud."
+        },
+        "ages": [
+          "baby",
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "All day",
+          "fr": "Toute la journée"
+        }
+      },
+      {
+        "emoji": "⛵",
+        "name": {
+          "en": "Glass-bottom boat to Ilet du Gosier",
+          "fr": "Bateau à fond de verre vers l'Îlet du Gosier"
+        },
+        "detail": {
+          "en": "A short crossing to a tiny islet with shallow turquoise water, easy even with toddlers.",
+          "fr": "Une courte traversée vers un minuscule îlet à l'eau turquoise peu profonde, facile même avec des tout-petits."
+        },
+        "ages": [
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Morning",
+          "fr": "Matin"
+        }
+      },
+      {
+        "emoji": "💦",
+        "name": {
+          "en": "Carbet Falls and the rainforest",
+          "fr": "Chutes du Carbet et forêt tropicale"
+        },
+        "detail": {
+          "en": "On Basse-Terre, walk to the Carbet waterfalls, the lower falls are the easiest with children.",
+          "fr": "En Basse-Terre, marchez vers les chutes du Carbet, la chute la plus basse est la plus facile avec des enfants."
+        },
+        "ages": [
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Morning",
+          "fr": "Matin"
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "q": {
+          "en": "When is the best time to visit with kids?",
+          "fr": "Quelle est la meilleure période avec des enfants?"
+        },
+        "a": {
+          "en": "The dry, sunny season from December to April is best, with warm days and less rain. Avoid the wetter, more humid August to October hurricane season.",
+          "fr": "La saison sèche et ensoleillée de décembre à avril est la meilleure, avec des journées chaudes et moins de pluie. Évitez la saison humide et cyclonique d'août à octobre."
+        }
+      },
+      {
+        "q": {
+          "en": "How long is the flight and is there jet lag?",
+          "fr": "Combien dure le vol et y a-t-il du décalage?"
+        },
+        "a": {
+          "en": "It is about 8 hours direct from Paris, with a 5 to 6 hour time difference from mainland France, so allow a day or two for young children to adjust.",
+          "fr": "Le vol direct depuis Paris dure environ 8 heures, avec 5 à 6 heures de décalage avec la métropole, prévoyez donc un jour ou deux pour que les jeunes enfants s'adaptent."
+        }
+      },
+      {
+        "q": {
+          "en": "Which side of the island for young children?",
+          "fr": "Quelle aile de l'île pour de jeunes enfants?"
+        },
+        "a": {
+          "en": "Grande-Terre, around Sainte-Anne, Le Gosier and Saint-Francois, has the calmest shallow lagoons and most family hotels. Basse-Terre is for rainforest and waterfalls.",
+          "fr": "La Grande-Terre, autour de Sainte-Anne, du Gosier et de Saint-François, réunit les lagons les plus calmes et la plupart des hôtels familiaux. La Basse-Terre, c'est la forêt tropicale et les cascades."
+        }
+      },
+      {
+        "q": {
+          "en": "Do we need a hire car?",
+          "fr": "Faut-il une voiture de location?"
+        },
+        "a": {
+          "en": "In a walkable town like Saint-Francois or Gosier you can manage, but a car is really useful for the lagoons, the aquarium and exploring Basse-Terre.",
+          "fr": "Dans un bourg accessible à pied comme Saint-François ou le Gosier, on peut s'en passer, mais une voiture est vraiment utile pour les lagons, l'aquarium et la découverte de la Basse-Terre."
+        }
+      }
+    ],
+    "parentTip": {
+      "en": "Base yourself on Grande-Terre for the calm lagoons and easy beaches, then hire a car for a day or two to see the Basse-Terre rainforest, Carbet Falls and the turtles at Malendure.",
+      "fr": "Installez-vous en Grande-Terre pour les lagons calmes et les plages faciles, puis louez une voiture un jour ou deux pour voir la forêt de Basse-Terre, les chutes du Carbet et les tortues de Malendure."
+    },
+    "goodToKnow": {
+      "en": "Flights land at Pointe-a-Pitre (Guadeloupe Pole Caraibes) in the centre of the butterfly. The Grande-Terre family bases of Gosier, Sainte-Anne and Saint-Francois are around 20 to 50 minutes away, while Deshaies on Basse-Terre is over an hour. The euro is used, French is spoken and EU visitors need no visa or special vaccinations. The driest, sunniest months are December to April, and the wetter hurricane season runs roughly August to October.",
+      "fr": "Les vols atterrissent à Pointe-à-Pitre (Guadeloupe Pôle Caraïbes), au centre du papillon. Les bases familiales de Grande-Terre, le Gosier, Sainte-Anne et Saint-François, sont à environ 20 à 50 minutes, tandis que Deshaies, en Basse-Terre, est à plus d'une heure. On y paie en euros, on y parle français et les visiteurs de l'UE n'ont besoin ni de visa ni de vaccins particuliers. Les mois les plus secs et ensoleillés vont de décembre à avril, et la saison cyclonique plus humide s'étend à peu près d'août à octobre."
+    },
+    "emoji": "🦋",
+    "photos": [
+      "poolTropicalMtn",
+      "beachSunset",
+      "infinityPoolSea"
+    ]
+  }
+}
