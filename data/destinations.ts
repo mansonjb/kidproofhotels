@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -59,6 +59,8 @@ const HG = (HURGHADA_META ?? {}) as any;
 const SO = (SOUSSE_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const SH = (SHARM_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const BO = (BODRUM_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -1202,6 +1204,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: SH.faqs,
     parentTip: SH.parentTip,
     goodToKnow: SH.goodToKnow,
+  },
+  {
+    key: "bodrum",
+    name: { en: "Bodrum", fr: "Bodrum", it: "Bodrum", de: "Bodrum", es: "Bodrum", pt: "Bodrum" },
+    country: { en: "Turkey", fr: "Turquie", it: "Turchia", de: "Türkei", es: "Turquía", pt: "Turquia" },
+    inPhrase: { en: "in Bodrum", fr: "à Bodrum" },
+    slug: {
+      en: "family-hotels-bodrum",
+      fr: "hotels-famille-bodrum",
+    },
+    geo: { lat: 37.04, lng: 27.43, zoom: 10 },
+    heroKicker: BO.heroKicker ?? {
+      en: "Aegean bays, big aquapark resorts and gulet days",
+      fr: "Baies égéennes, resorts à parc aquatique et journées en goélette",
+    },
+    intro: BO.intro ?? {
+      en: "Bodrum is Turkey's whitewashed Aegean peninsula, where big all-inclusive resorts with water slides and free kids clubs sit above a coastline of sheltered bays. Base near a calm shallow cove like Bitez or Torba for toddlers, spend a day on a gulet boat around the bays, and let the aquapark do the rest. It is warm into October and cheaper than the western Med. These are the hotels that get the family details right.",
+      fr: "Bodrum, c'est la péninsule égéenne blanchie à la chaux de la Turquie, où de grands resorts tout inclus avec toboggans et clubs enfants gratuits dominent un littoral de baies abritées. Posez-vous près d'une crique calme et peu profonde comme Bitez ou Torba pour les tout-petits, passez une journée en goélette autour des baies, et laissez le parc aquatique faire le reste. Il fait chaud jusqu'en octobre, et c'est moins cher que la Méditerranée occidentale. Voici les hôtels qui soignent les détails famille.",
+    },
+    whyKids: BO.whyKids ?? { en: [], fr: [] },
+    bestAreas: BO.bestAreas ?? { en: [], fr: [] },
+    emoji: BO.emoji ?? "\u26f5",
+    accent: "3a7ca8",
+    hotelKeys: [], // populated below
+    related: ["antalya", "kos", "guide-allinclusive-europe"],
+    photos: BO.photos,
+    stats: BO.stats,
+    activities: BO.activities,
+    faqs: BO.faqs,
+    parentTip: BO.parentTip,
+    goodToKnow: BO.goodToKnow,
   },
 ]);
 
