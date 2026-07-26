@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -57,6 +57,8 @@ const PU = (PUGLIA_META ?? {}) as any;
 const HG = (HURGHADA_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const SO = (SOUSSE_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const SH = (SHARM_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -1169,6 +1171,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: SO.faqs,
     parentTip: SO.parentTip,
     goodToKnow: SO.goodToKnow,
+  },
+  {
+    key: "sharm",
+    name: { en: "Sharm El Sheikh", fr: "Charm el-Cheikh", it: "Sharm el-Sheikh", de: "Sharm El-Scheich", es: "Sharm el-Sheij", pt: "Sharm el-Sheikh" },
+    country: { en: "Egypt", fr: "Égypte", it: "Egitto", de: "Ägypten", es: "Egipto", pt: "Egito" },
+    inPhrase: { en: "in Sharm El Sheikh", fr: "à Charm el-Cheikh" },
+    slug: {
+      en: "family-hotels-sharm-el-sheikh",
+      fr: "hotels-famille-charm-el-cheikh",
+    },
+    geo: { lat: 27.91, lng: 34.33, zoom: 11 },
+    heroKicker: SH.heroKicker ?? {
+      en: "Winter sun, a house reef and a water park off the beach",
+      fr: "Soleil d'hiver, un récif maison et un parc aquatique au bord de la plage",
+    },
+    intro: SH.intro ?? {
+      en: "Sharm El Sheikh is where Europe goes for guaranteed winter sun and Red Sea snorkelling straight off the beach: big all-inclusive resorts with water parks and free kids clubs, warm shallow pools, and coral reefs the whole family can float over with a mask. The airport is minutes away and the flights are shorter than you think. These are the hotels that get the family details right.",
+      fr: "Charm el-Cheikh, c'est là que l'Europe va chercher le soleil d'hiver garanti et le snorkeling en mer Rouge directement depuis la plage : grands resorts tout inclus avec parcs aquatiques et clubs enfants gratuits, piscines chaudes à fond plat, et des récifs de corail que toute la famille survole avec un masque. L'aéroport est à quelques minutes et les vols plus courts qu'on ne croit. Voici les hôtels qui soignent les détails famille.",
+    },
+    whyKids: SH.whyKids ?? { en: [], fr: [] },
+    bestAreas: SH.bestAreas ?? { en: [], fr: [] },
+    emoji: SH.emoji ?? "\ud83d\udc20",
+    accent: "2f9ea6",
+    hotelKeys: [], // populated below
+    related: ["hurghada", "antalya", "guide-allinclusive-europe"],
+    photos: SH.photos,
+    stats: SH.stats,
+    activities: SH.activities,
+    faqs: SH.faqs,
+    parentTip: SH.parentTip,
+    goodToKnow: SH.goodToKnow,
   },
 ]);
 

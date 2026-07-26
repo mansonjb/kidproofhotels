@@ -31,6 +31,7 @@ import halkidiki from "./halkidiki.json";
 import puglia from "./puglia.json";
 import hurghada from "./hurghada.json";
 import sousse from "./sousse.json";
+import sharm from "./sharm.json";
 
 // Hotels are authored as JSON seeds (researched + drafted) and mapped to the
 // Hotel shape here: geo assembled, a clean unique slug generated per property,
@@ -41,7 +42,7 @@ type SeedFile = {
   destinationMeta?: Record<string, unknown>;
 };
 
-const FILES = [lisbon, algarve, costa, mallorca, tenerife, crete, antalya, sardinia, costaBlanca, rhodes, granCanaria, cyprus, sicily, corfu, fuerteventura, barcelona, lanzarote, menorca, kos, valencia, malta, zakynthos, madeira, costaDorada, seville, halkidiki, puglia, hurghada, sousse] as unknown as SeedFile[];
+const FILES = [lisbon, algarve, costa, mallorca, tenerife, crete, antalya, sardinia, costaBlanca, rhodes, granCanaria, cyprus, sicily, corfu, fuerteventura, barcelona, lanzarote, menorca, kos, valencia, malta, zakynthos, madeira, costaDorada, seville, halkidiki, puglia, hurghada, sousse, sharm] as unknown as SeedFile[];
 
 /** Loosely-typed per-destination meta (used to build newer Destinations). */
 export const MALLORCA_META = (mallorca as unknown as SeedFile).destinationMeta as
@@ -120,6 +121,9 @@ export const HURGHADA_META = (hurghada as unknown as SeedFile).destinationMeta a
   | Record<string, unknown>
   | undefined;
 export const SOUSSE_META = (sousse as unknown as SeedFile).destinationMeta as
+  | Record<string, unknown>
+  | undefined;
+export const SHARM_META = (sharm as unknown as SeedFile).destinationMeta as
   | Record<string, unknown>
   | undefined;
 
