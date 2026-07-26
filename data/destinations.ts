@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -63,6 +63,8 @@ const SH = (SHARM_META ?? {}) as any;
 const BO = (BODRUM_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const SL = (SAL_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const RE = (REUNION_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -1268,6 +1270,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: SL.faqs,
     parentTip: SL.parentTip,
     goodToKnow: SL.goodToKnow,
+  },
+  {
+    key: "reunion",
+    name: { en: "La Reunion", fr: "La Réunion", it: "Riunione", de: "La Réunion", es: "Reunión", pt: "Reunião" },
+    country: { en: "France", fr: "France", it: "Francia", de: "Frankreich", es: "Francia", pt: "França" },
+    inPhrase: { en: "on La Reunion", fr: "à La Réunion" },
+    slug: {
+      en: "family-hotels-reunion",
+      fr: "hotels-famille-la-reunion",
+    },
+    geo: { lat: -21.11, lng: 55.53, zoom: 9 },
+    heroKicker: RE.heroKicker ?? {
+      en: "A reef lagoon for toddlers and a volcano for the big kids",
+      fr: "Un lagon de récif pour les tout-petits et un volcan pour les grands",
+    },
+    intro: RE.intro ?? {
+      en: "La Reunion packs a whole holiday into one French island: the west-coast reef lagoon at L'Hermitage and Saint-Gilles gives you calm, shallow, safe water for toddlers, while the Piton de la Fournaise volcano and the cirques give older kids real adventure. It is a French department, so euros and French all the way, but note the southern-hemisphere seasons and swim only in the lagoon. These are the hotels that get the family details right.",
+      fr: "La Réunion condense des vacances entières sur une seule île française : le lagon de récif de la côte ouest, à L'Hermitage et Saint-Gilles, offre une eau calme, peu profonde et sûre pour les tout-petits, tandis que le Piton de la Fournaise et les cirques offrent une vraie aventure aux plus grands. C'est un département français, donc euros et français partout, mais attention aux saisons de l'hémisphère sud et on ne se baigne que dans le lagon. Voici les hôtels qui soignent les détails famille.",
+    },
+    whyKids: RE.whyKids ?? { en: [], fr: [] },
+    bestAreas: RE.bestAreas ?? { en: [], fr: [] },
+    emoji: RE.emoji ?? "\ud83c\udf0b",
+    accent: "5a8f6a",
+    hotelKeys: [], // populated below
+    related: ["tenerife", "madeira", "guide-baby-checklist"],
+    photos: RE.photos,
+    stats: RE.stats,
+    activities: RE.activities,
+    faqs: RE.faqs,
+    parentTip: RE.parentTip,
+    goodToKnow: RE.goodToKnow,
   },
 ]);
 
