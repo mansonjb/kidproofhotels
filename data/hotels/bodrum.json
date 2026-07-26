@@ -1,0 +1,2635 @@
+{
+  "hotels": [
+    {
+      "key": "bodrum-kefaluka-resort",
+      "destinationKey": "bodrum",
+      "name": "Kefaluka Resort",
+      "area": {
+        "en": "Turgutreis",
+        "fr": "Turgutreis"
+      },
+      "lat": 37.0086,
+      "lng": 27.2536,
+      "zoom": 13,
+      "address": "Kefaluka Resort, Bahce Mevkii, Akyarlar, Turgutreis, Bodrum, Mugla, Turkey",
+      "priceTier": 3,
+      "priceFrom": 190,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "water-slides",
+        "free-kids-club",
+        "beach-access",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolPalms",
+        "poolCabanas",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 90,
+        "baby": 82,
+        "pool": 88,
+        "dining": 83,
+        "safety": 85,
+        "convenience": 70,
+        "location": 78,
+        "extras": 87
+      },
+      "roomsSummary": {
+        "en": "Large rooms and family rooms spread across low blocks in green gardens, most with a balcony and many with sea views. Family rooms and duplex options sleep four to five, so a family of four is not squeezed into one space.",
+        "fr": "Grandes chambres et chambres familiales réparties dans des bâtiments bas au milieu de jardins verdoyants, la plupart avec balcon et beaucoup avec vue mer. Les chambres familiales et les duplex logent quatre à cinq personnes, une famille de quatre n'est donc pas tassée dans une seule pièce."
+      },
+      "intro": {
+        "en": "Kefaluka sits right on the water near Akyarlar, at the calm western tip of the peninsula, and it is built around one thing families care about: a proper aquapark with real slides plus a supervised mini club. Four outdoor pools, a long sand-and-shingle beach and a big evening entertainment programme mean the kids run out of energy before you do. It is a fair drive from Bodrum town, but once you are in you rarely need to leave.",
+        "fr": "Le Kefaluka est posé au bord de l'eau près d'Akyarlar, à la pointe ouest tranquille de la péninsule, et il est pensé autour de ce qui compte pour les familles: un vrai parc aquatique avec de vrais toboggans et un mini club encadré. Quatre piscines extérieures, une longue plage de sable et galets et un gros programme d'animation le soir font que les enfants s'épuisent avant vous. C'est un peu loin du centre de Bodrum, mais une fois sur place on n'a guère besoin de ressortir."
+      },
+      "highlights": {
+        "en": [
+          "Aquapark with slides beside the kids pool",
+          "Free mini club for ages 4 to 12, plus teen activities",
+          "Four outdoor pools in green gardens",
+          "Calm west-coast bay for gentle swims"
+        ],
+        "fr": [
+          "Parc aquatique avec toboggans à côté de la piscine enfants",
+          "Mini club gratuit 4 à 12 ans, plus activités ados",
+          "Quatre piscines extérieures dans des jardins verdoyants",
+          "Baie calme de la côte ouest pour des baignades douces"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Aquapark and kids pool right next to the mini club",
+          "Genuinely calm, shallow water for younger children",
+          "Roomy family rooms and duplexes",
+          "Everything you need on site, ultra all-inclusive"
+        ],
+        "fr": [
+          "Parc aquatique et piscine enfants juste à côté du mini club",
+          "Eau vraiment calme et peu profonde pour les plus jeunes",
+          "Chambres familiales et duplex spacieux",
+          "Tout sur place, en ultra tout compris"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Far from Bodrum town, around 25km, so plan a taxi for outings",
+          "The beach mixes sand and shingle, water shoes help",
+          "Large and spread out, some walking with a pram"
+        ],
+        "fr": [
+          "Loin du centre de Bodrum, environ 25 km, prévoyez un taxi pour les sorties",
+          "La plage mêle sable et galets, des chaussures d'eau sont utiles",
+          "Grand et étendu, un peu de marche avec une poussette"
+        ]
+      },
+      "verdict": {
+        "en": "A dependable aquapark resort for families who want to settle in, let the kids loose on the slides and barely touch the car. Book a family room near the pools.",
+        "fr": "Un complexe à parc aquatique fiable pour les familles qui veulent poser leurs valises, lâcher les enfants sur les toboggans et à peine toucher à la voiture. Réservez une chambre familiale près des piscines."
+      },
+      "parentTip": {
+        "en": "The aquapark slides usually run to set hours, check the daily board at breakfast so you can plan the morning around them.",
+        "fr": "Les toboggans du parc aquatique fonctionnent en général à horaires fixes, regardez le panneau du jour au petit-déjeuner pour caler la matinée dessus."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Aquapark",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "Slides plus kids pool",
+            "fr": "Toboggans et piscine enfants"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free, ages 4 to 12",
+            "fr": "Gratuit, 4 à 12 ans"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Calm bay, sand and shingle",
+            "fr": "Baie calme, sable et galets"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "Ultra all-inclusive",
+            "fr": "Ultra tout compris"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "Aquapark morning",
+            "fr": "Matinée au parc aquatique"
+          },
+          "detail": {
+            "en": "The slides and splash zone next to the kids pool are the whole holiday for most under-tens.",
+            "fr": "Les toboggans et la zone de jeux d'eau à côté de la piscine enfants, c'est tout le séjour pour la plupart des moins de dix ans."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🎨",
+          "name": {
+            "en": "Mini club crafts",
+            "fr": "Bricolages au mini club"
+          },
+          "detail": {
+            "en": "Drop-in games, art and a mini disco run by the animation team for ages 4 to 12.",
+            "fr": "Jeux en accès libre, activités créatives et une mini disco animés par l'équipe pour les 4 à 12 ans."
+          },
+          "ages": [
+            "kid"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        },
+        {
+          "emoji": "🐟",
+          "name": {
+            "en": "Shallow-bay paddle",
+            "fr": "Barbotage dans la baie peu profonde"
+          },
+          "detail": {
+            "en": "The sheltered water off Akyarlar stays calm and clear, good for a first proper swim with a parent close by.",
+            "fr": "L'eau abritée d'Akyarlar reste calme et claire, idéale pour une première vraie baignade avec un parent tout près."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Late afternoon",
+            "fr": "Fin d'après-midi"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Buffet breakfast",
+            "fr": "Petit-déjeuner buffet"
+          },
+          "note": {
+            "en": "Wide spread with plenty for fussy eaters, get in before the pool rush.",
+            "fr": "Large buffet avec de quoi contenter les difficiles, arrivez avant la ruée vers la piscine."
+          }
+        },
+        {
+          "time": "10:30",
+          "title": {
+            "en": "Aquapark slides",
+            "fr": "Toboggans du parc aquatique"
+          },
+          "note": {
+            "en": "Shade a lounger near the shallow end for the little ones.",
+            "fr": "Réservez un transat à l'ombre près du petit bassin pour les petits."
+          }
+        },
+        {
+          "time": "15:00",
+          "title": {
+            "en": "Mini club",
+            "fr": "Mini club"
+          },
+          "note": {
+            "en": "Crafts session while parents take a quiet swim in the main pool.",
+            "fr": "Atelier créatif pendant que les parents nagent au calme dans la piscine principale."
+          }
+        },
+        {
+          "time": "18:00",
+          "title": {
+            "en": "Beach sunset",
+            "fr": "Coucher de soleil sur la plage"
+          },
+          "note": {
+            "en": "The western tip catches a lovely sunset, ideal for a pre-dinner wander.",
+            "fr": "La pointe ouest offre un joli coucher de soleil, parfait pour une balade avant le dîner."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Cots on request and calm shallow water, though the resort scale means walking with the pram.",
+          "fr": "Lits bébé sur demande et eau calme peu profonde, même si la taille du complexe implique de marcher avec la poussette."
+        },
+        "toddler": {
+          "en": "The shallow kids pool and gentle bay are ideal, keep a hand close on the shingle patches.",
+          "fr": "La piscine enfants peu profonde et la baie douce sont idéales, gardez une main à proximité sur les zones de galets."
+        },
+        "kid": {
+          "en": "This is the sweet spot, aquapark plus mini club keep this age going all day.",
+          "fr": "C'est l'âge idéal, parc aquatique et mini club les occupent toute la journée."
+        },
+        "teen": {
+          "en": "Separate teen activities, watersports and the slides keep older ones happy, though nightlife is a drive away.",
+          "fr": "Activités ados dédiées, sports nautiques et toboggans occupent les plus grands, mais la vie nocturne est à distance en voiture."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the aquapark included?",
+            "fr": "Le parc aquatique est-il inclus?"
+          },
+          "a": {
+            "en": "Yes, the pools and aquapark slides are free for guests. Slides typically run to set hours and to a minimum height, posted daily.",
+            "fr": "Oui, les piscines et les toboggans du parc aquatique sont gratuits pour les clients. Les toboggans fonctionnent en général à horaires fixes et selon une taille minimale, affichés chaque jour."
+          }
+        },
+        {
+          "q": {
+            "en": "How far is Bodrum town?",
+            "fr": "À quelle distance se trouve le centre de Bodrum?"
+          },
+          "a": {
+            "en": "Around 25km, roughly 35 to 40 minutes by taxi. Turgutreis centre is closer at about 10km for shops and the marina.",
+            "fr": "Environ 25 km, soit à peu près 35 à 40 minutes en taxi. Le centre de Turgutreis est plus proche, à environ 10 km pour les boutiques et la marina."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the beach sandy?",
+            "fr": "La plage est-elle de sable?"
+          },
+          "a": {
+            "en": "It is a mix of sand and shingle with calm, clear water. Water shoes make it more comfortable for small feet.",
+            "fr": "C'est un mélange de sable et de galets avec une eau calme et claire. Des chaussures d'eau la rendent plus confortable pour les petits pieds."
+          }
+        }
+      ]
+    },
+    {
+      "key": "bodrum-la-blanche-resort",
+      "destinationKey": "bodrum",
+      "name": "La Blanche Resort & Spa",
+      "area": {
+        "en": "Turgutreis",
+        "fr": "Turgutreis"
+      },
+      "lat": 37.03,
+      "lng": 27.256,
+      "zoom": 13,
+      "address": "La Blanche Resort & Spa, Bahceli Mevkii, Turgutreis, Bodrum, Mugla, Turkey",
+      "priceTier": 3,
+      "priceFrom": 185,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "water-slides",
+        "free-kids-club",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "infinityPoolSea",
+        "deckLoungersSea",
+        "whiteResortPool"
+      ],
+      "scores": {
+        "rooms": 91,
+        "baby": 84,
+        "pool": 88,
+        "dining": 86,
+        "safety": 86,
+        "convenience": 74,
+        "location": 82,
+        "extras": 85
+      },
+      "roomsSummary": {
+        "en": "Bright, well-kept rooms and family rooms in a crisp white resort on the western tip, many with sea views and a balcony. Family rooms comfortably sleep four and connecting options are worth asking for with older kids.",
+        "fr": "Chambres claires et bien tenues, chambres familiales dans un complexe d'un blanc net sur la pointe ouest, beaucoup avec vue mer et balcon. Les chambres familiales logent confortablement quatre personnes et les chambres communicantes valent la peine d'être demandées avec de grands enfants."
+      },
+      "intro": {
+        "en": "La Blanche is the polished, all-white option in Turgutreis, with a big free-form pool, a kids pool with three waterslides and a 1,600 square metre saltwater lagoon that older kids love. The mini club, direct golden-sand beach and five restaurants make it an easy ultra all-inclusive base, and the food gets a better name than most in the area. Sunsets from this side of the peninsula are the extra you did not book for.",
+        "fr": "Le La Blanche est l'option soignée tout en blanc de Turgutreis, avec une grande piscine à forme libre, une piscine enfants à trois toboggans et un lagon d'eau salée de 1 600 mètres carrés que les plus grands adorent. Le mini club, la plage de sable doré en accès direct et les cinq restaurants en font une base ultra tout compris facile, et la cuisine y a meilleure réputation que la plupart dans le secteur. Les couchers de soleil de ce côté de la péninsule sont le petit plus que vous n'aviez pas réservé."
+      },
+      "highlights": {
+        "en": [
+          "Kids pool with three waterslides",
+          "Big saltwater lagoon and free-form main pool",
+          "Free mini club for ages 4 to 12",
+          "Direct golden-sand beach with Aegean sunsets"
+        ],
+        "fr": [
+          "Piscine enfants avec trois toboggans",
+          "Grand lagon d'eau salée et piscine principale à forme libre",
+          "Mini club gratuit pour les 4 à 12 ans",
+          "Plage de sable doré en accès direct, couchers de soleil sur la mer Égée"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Well-regarded food for the area",
+          "Good mix of pools including a slide pool",
+          "Direct sandy beach with calm water",
+          "Smart, clean look kept up well"
+        ],
+        "fr": [
+          "Cuisine bien notée pour le secteur",
+          "Bon éventail de piscines dont un bassin à toboggans",
+          "Plage de sable en accès direct, eau calme",
+          "Allure nette et propre, bien entretenue"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Far west, so about 30 to 40 minutes from Bodrum town",
+          "Popular in peak summer, book sunbeds early",
+          "Some rooms are a walk from the beach and slides"
+        ],
+        "fr": [
+          "Tout à l'ouest, soit environ 30 à 40 minutes du centre de Bodrum",
+          "Prisé en plein été, réservez les transats tôt",
+          "Certaines chambres sont à distance de marche de la plage et des toboggans"
+        ]
+      },
+      "verdict": {
+        "en": "The tidy, good-value pick in Turgutreis for families who want slides, a real beach and food they will not moan about. A safe, comfortable week.",
+        "fr": "Le choix soigné et au bon rapport qualité-prix de Turgutreis pour les familles qui veulent des toboggans, une vraie plage et une cuisine sans reproche. Une semaine sûre et confortable."
+      },
+      "parentTip": {
+        "en": "The lagoon warms up nicely by late morning, save it for after the shadier kids pool so little ones do not get cold early.",
+        "fr": "Le lagon se réchauffe bien en fin de matinée, gardez-le pour après la piscine enfants plus ombragée afin que les petits ne prennent pas froid trop tôt."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Kids pool",
+            "fr": "Piscine enfants"
+          },
+          "value": {
+            "en": "Three waterslides",
+            "fr": "Trois toboggans"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free, ages 4 to 12",
+            "fr": "Gratuit, 4 à 12 ans"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Direct golden sand",
+            "fr": "Sable doré en accès direct"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Dining",
+            "fr": "Restauration"
+          },
+          "value": {
+            "en": "5 restaurants, ultra AI",
+            "fr": "5 restaurants, ultra tout compris"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "Three-slide kids pool",
+            "fr": "Piscine enfants à trois toboggans"
+          },
+          "detail": {
+            "en": "The dedicated slide pool is shallow and supervised at busy times, ideal for confident paddlers.",
+            "fr": "Le bassin à toboggans est peu profond et surveillé aux heures d'affluence, idéal pour les enfants qui barbotent avec assurance."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Lagoon swim",
+            "fr": "Baignade dans le lagon"
+          },
+          "detail": {
+            "en": "The big saltwater lagoon is calm and gently deep, a favourite with older kids and teens.",
+            "fr": "Le grand lagon d'eau salée est calme et de profondeur douce, un favori des grands enfants et des ados."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Midday",
+            "fr": "Midi"
+          }
+        },
+        {
+          "emoji": "🌅",
+          "name": {
+            "en": "Sunset on the beach",
+            "fr": "Coucher de soleil sur la plage"
+          },
+          "detail": {
+            "en": "Turgutreis is famous for its sunsets, walk to the shore with an ice cream before dinner.",
+            "fr": "Turgutreis est réputé pour ses couchers de soleil, marchez jusqu'au rivage avec une glace avant le dîner."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soir"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast by the pool",
+            "fr": "Petit-déjeuner au bord de la piscine"
+          },
+          "note": {
+            "en": "Sit on the sea side for the morning light.",
+            "fr": "Installez-vous côté mer pour la lumière du matin."
+          }
+        },
+        {
+          "time": "10:30",
+          "title": {
+            "en": "Slide pool",
+            "fr": "Bassin à toboggans"
+          },
+          "note": {
+            "en": "Three slides and a shallow area for the smaller ones.",
+            "fr": "Trois toboggans et une zone peu profonde pour les plus petits."
+          }
+        },
+        {
+          "time": "14:00",
+          "title": {
+            "en": "Lagoon and mini club",
+            "fr": "Lagon et mini club"
+          },
+          "note": {
+            "en": "Older kids swim, younger ones head to the club.",
+            "fr": "Les grands nagent, les plus jeunes vont au club."
+          }
+        },
+        {
+          "time": "19:00",
+          "title": {
+            "en": "A la carte dinner",
+            "fr": "Dîner à la carte"
+          },
+          "note": {
+            "en": "Book the Turkish or Italian table a day ahead in peak season.",
+            "fr": "Réservez la table turque ou italienne un jour à l'avance en haute saison."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Cots on request and a calm beach, with quiet garden corners for a nap.",
+          "fr": "Lits bébé sur demande et une plage calme, avec des coins de jardin tranquilles pour la sieste."
+        },
+        "toddler": {
+          "en": "The shallow slide pool and gentle sand suit toddlers well.",
+          "fr": "Le bassin à toboggans peu profond et le sable doux conviennent bien aux tout-petits."
+        },
+        "kid": {
+          "en": "Slides, lagoon and mini club cover this age all day.",
+          "fr": "Toboggans, lagon et mini club couvrent cet âge toute la journée."
+        },
+        "teen": {
+          "en": "The lagoon and beach watersports suit teens, though evenings are quiet and family-focused.",
+          "fr": "Le lagon et les sports nautiques de la plage plaisent aux ados, même si les soirées sont calmes et familiales."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the kids club free?",
+            "fr": "Le club enfants est-il gratuit?"
+          },
+          "a": {
+            "en": "Yes, the mini club for ages 4 to 12 is included, with daily activities and a mini disco.",
+            "fr": "Oui, le mini club pour les 4 à 12 ans est inclus, avec des activités quotidiennes et une mini disco."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the water calm for children?",
+            "fr": "L'eau est-elle calme pour les enfants?"
+          },
+          "a": {
+            "en": "The beach here is sheltered and mostly calm, though afternoon breeze on the west coast can pick up. Mornings are usually flattest.",
+            "fr": "La plage est ici abritée et généralement calme, même si la brise de l'après-midi sur la côte ouest peut se lever. Les matinées sont souvent les plus plates."
+          }
+        },
+        {
+          "q": {
+            "en": "How is the food?",
+            "fr": "Comment est la cuisine?"
+          },
+          "a": {
+            "en": "It is well regarded for the area, with a broad buffet plus Turkish, Italian and Greek a la carte options on the ultra all-inclusive plan.",
+            "fr": "Elle est bien notée pour le secteur, avec un large buffet et des options à la carte turque, italienne et grecque en formule ultra tout compris."
+          }
+        }
+      ]
+    },
+    {
+      "key": "bodrum-yasmin-resort",
+      "destinationKey": "bodrum",
+      "name": "Yasmin Bodrum Resort",
+      "area": {
+        "en": "Turgutreis",
+        "fr": "Turgutreis"
+      },
+      "lat": 37.043,
+      "lng": 27.262,
+      "zoom": 13,
+      "address": "Yasmin Bodrum Resort, Kadikalesi, Turgutreis, Bodrum, Mugla, Turkey",
+      "priceTier": 3,
+      "priceFrom": 175,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "water-slides",
+        "free-kids-club",
+        "beach-access",
+        "family-suites",
+        "baby-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolTropicalMtn",
+        "poolCabanas",
+        "swimmer"
+      ],
+      "scores": {
+        "rooms": 88,
+        "baby": 83,
+        "pool": 85,
+        "dining": 82,
+        "safety": 84,
+        "convenience": 76,
+        "location": 80,
+        "extras": 84
+      },
+      "roomsSummary": {
+        "en": "Comfortable rooms and family rooms across garden buildings, most with a balcony or terrace. Family rooms sleep four, and the private-beach setting means you are never far from the sand.",
+        "fr": "Chambres et chambres familiales confortables réparties dans des bâtiments au milieu des jardins, la plupart avec balcon ou terrasse. Les chambres familiales logent quatre personnes, et l'emplacement en bord de plage privée fait que le sable n'est jamais loin."
+      },
+      "intro": {
+        "en": "Yasmin is a large, easygoing family resort at Kadikalesi near Turgutreis, with five pools including an activity pool with waterslides, two heated Thalasso seawater pools and a private beach. There is a free mini club for ages 4 to 12, a long list of sports from archery to mini golf, and enough restaurants to keep a week varied. It is a solid, unfussy all-inclusive that does the family basics reliably.",
+        "fr": "Le Yasmin est un grand complexe familial décontracté à Kadikalesi près de Turgutreis, avec cinq piscines dont un bassin d'activités à toboggans, deux piscines Thalasso d'eau de mer chauffées et une plage privée. On y trouve un mini club gratuit pour les 4 à 12 ans, une longue liste de sports du tir à l'arc au mini golf, et assez de restaurants pour varier la semaine. C'est un tout compris solide et sans chichi qui assure les fondamentaux familiaux."
+      },
+      "highlights": {
+        "en": [
+          "Activity pool with waterslides",
+          "Free mini club for ages 4 to 12",
+          "Private beach and heated seawater pools",
+          "Long sports list, from archery to mini golf"
+        ],
+        "fr": [
+          "Bassin d'activités avec toboggans",
+          "Mini club gratuit pour les 4 à 12 ans",
+          "Plage privée et piscines d'eau de mer chauffées",
+          "Longue liste de sports, du tir à l'arc au mini golf"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Plenty of pools, including slides and heated options",
+          "Good range of daytime sports and activities",
+          "Private beach with calm water",
+          "Reliable value for families"
+        ],
+        "fr": [
+          "De nombreuses piscines, dont des toboggans et des bassins chauffés",
+          "Bon éventail de sports et d'activités en journée",
+          "Plage privée à l'eau calme",
+          "Bon rapport qualité-prix fiable pour les familles"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Comfortable rather than luxurious, showing its age in places",
+          "Far from Bodrum town, plan taxis for outings",
+          "Big site, some walking between areas"
+        ],
+        "fr": [
+          "Confortable plutôt que luxueux, l'âge se voit par endroits",
+          "Loin du centre de Bodrum, prévoyez des taxis pour les sorties",
+          "Grand domaine, un peu de marche entre les zones"
+        ]
+      },
+      "verdict": {
+        "en": "A well-rounded, good-value family resort for a straightforward beach and pool week. Best for families who value variety of activities over polish.",
+        "fr": "Un complexe familial complet et au bon rapport qualité-prix pour une semaine plage et piscine sans complication. Idéal pour les familles qui privilégient la variété des activités au raffinement."
+      },
+      "parentTip": {
+        "en": "The heated seawater pools are a lifesaver in the shoulder season when the sea is still cool for little ones.",
+        "fr": "Les piscines d'eau de mer chauffées sauvent la mise en aile de saison, quand la mer est encore fraîche pour les petits."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "5, including a slide pool",
+            "fr": "5, dont un bassin à toboggans"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free, ages 4 to 12",
+            "fr": "Gratuit, 4 à 12 ans"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Private, calm water",
+            "fr": "Privée, eau calme"
+          }
+        },
+        {
+          "icon": "🏸",
+          "label": {
+            "en": "Sports",
+            "fr": "Sports"
+          },
+          "value": {
+            "en": "Tennis, archery, mini golf",
+            "fr": "Tennis, tir à l'arc, mini golf"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "Slide pool splash",
+            "fr": "Toboggans et jeux d'eau"
+          },
+          "detail": {
+            "en": "The activity pool with slides is the daily headline for younger kids.",
+            "fr": "Le bassin d'activités à toboggans est le rendez-vous quotidien des plus jeunes."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🎯",
+          "name": {
+            "en": "Try archery",
+            "fr": "Essayer le tir à l'arc"
+          },
+          "detail": {
+            "en": "The sports team runs archery, tennis and mini golf that older kids enjoy having a go at.",
+            "fr": "L'équipe sportive propose tir à l'arc, tennis et mini golf que les plus grands aiment essayer."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        },
+        {
+          "emoji": "🌊",
+          "name": {
+            "en": "Beach paddle",
+            "fr": "Barbotage à la plage"
+          },
+          "detail": {
+            "en": "The private beach has calm, gently shelving water for a supervised dip.",
+            "fr": "La plage privée offre une eau calme en pente douce pour une baignade surveillée."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Late afternoon",
+            "fr": "Fin d'après-midi"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast buffet",
+            "fr": "Buffet du petit-déjeuner"
+          },
+          "note": {
+            "en": "Big spread, plenty for early risers.",
+            "fr": "Large buffet, de quoi contenter les lève-tôt."
+          }
+        },
+        {
+          "time": "10:30",
+          "title": {
+            "en": "Slide pool",
+            "fr": "Bassin à toboggans"
+          },
+          "note": {
+            "en": "Claim shade near the shallow end first.",
+            "fr": "Assurez-vous d'abord de l'ombre près du petit bassin."
+          }
+        },
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Sports and mini club",
+            "fr": "Sports et mini club"
+          },
+          "note": {
+            "en": "Archery or tennis for the big ones, club for the little ones.",
+            "fr": "Tir à l'arc ou tennis pour les grands, club pour les petits."
+          }
+        },
+        {
+          "time": "18:30",
+          "title": {
+            "en": "Beach stroll",
+            "fr": "Balade sur la plage"
+          },
+          "note": {
+            "en": "Flat, calm sand for a pre-dinner wander.",
+            "fr": "Sable plat et calme pour une balade avant le dîner."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Cots on request, heated pools and a calm beach make the early years manageable.",
+          "fr": "Lits bébé sur demande, piscines chauffées et plage calme rendent les premières années gérables."
+        },
+        "toddler": {
+          "en": "The shallow slide pool and gentle beach suit toddlers, with plenty of shade.",
+          "fr": "Le bassin à toboggans peu profond et la plage douce conviennent aux tout-petits, avec beaucoup d'ombre."
+        },
+        "kid": {
+          "en": "Slides, sports and mini club give this age a full day.",
+          "fr": "Toboggans, sports et mini club offrent à cet âge une journée bien remplie."
+        },
+        "teen": {
+          "en": "Sports and watersports suit teens, though the resort is family-quiet in the evenings.",
+          "fr": "Sports et activités nautiques plaisent aux ados, même si le complexe est calme et familial le soir."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Are the pools heated?",
+            "fr": "Les piscines sont-elles chauffées?"
+          },
+          "a": {
+            "en": "Two Thalasso seawater pools are heated, which helps a lot in spring and autumn when the sea is still cool.",
+            "fr": "Deux piscines Thalasso d'eau de mer sont chauffées, ce qui aide beaucoup au printemps et en automne, quand la mer est encore fraîche."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a lot for kids to do?",
+            "fr": "Y a-t-il beaucoup d'activités pour les enfants?"
+          },
+          "a": {
+            "en": "Yes, between the slide pool, free mini club and the sports programme, there is plenty to fill a week without leaving.",
+            "fr": "Oui, entre le bassin à toboggans, le mini club gratuit et le programme sportif, il y a de quoi remplir une semaine sans ressortir."
+          }
+        },
+        {
+          "q": {
+            "en": "How far is the resort from the airport?",
+            "fr": "À quelle distance le complexe est-il de l'aéroport?"
+          },
+          "a": {
+            "en": "Milas-Bodrum airport is about 45 to 55 minutes away by car, as Turgutreis sits on the far west of the peninsula.",
+            "fr": "L'aéroport de Milas-Bodrum est à environ 45 à 55 minutes en voiture, Turgutreis se trouvant tout à l'ouest de la péninsule."
+          }
+        }
+      ]
+    },
+    {
+      "key": "bodrum-vogue-supreme",
+      "destinationKey": "bodrum",
+      "name": "Vogue Hotel Supreme Bodrum",
+      "area": {
+        "en": "Torba",
+        "fr": "Torba"
+      },
+      "lat": 37.079,
+      "lng": 27.411,
+      "zoom": 13,
+      "address": "Vogue Hotel Supreme Bodrum, Kizilburun Mevkii, Torba, Bodrum, Mugla, Turkey",
+      "priceTier": 3,
+      "priceFrom": 210,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "water-slides",
+        "free-kids-club",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolOrange",
+        "poolCabanas",
+        "kidsFootball"
+      ],
+      "scores": {
+        "rooms": 90,
+        "baby": 85,
+        "pool": 88,
+        "dining": 84,
+        "safety": 86,
+        "convenience": 80,
+        "location": 82,
+        "extras": 89
+      },
+      "roomsSummary": {
+        "en": "Modern, well-equipped rooms and family rooms in a large beachfront resort, most with a balcony. Family rooms and larger suites sleep four to five, handy given how much there is to do on site.",
+        "fr": "Chambres et chambres familiales modernes et bien équipées dans un grand complexe en bord de mer, la plupart avec balcon. Les chambres familiales et les suites plus grandes logent quatre à cinq personnes, pratique vu tout ce qu'il y a à faire sur place."
+      },
+      "intro": {
+        "en": "Vogue Supreme is the water-park heavyweight of Torba, with a huge Candyland aquapark, a wave pool and a family coaster among a long list of slides, all free with your stay. Add a free kids club with themed workshops, two beaches and ultra all-inclusive dining and you have a resort children genuinely do not want to leave. Torba's calm, shallow bay just north of Bodrum town makes it an easy base for younger families too.",
+        "fr": "Le Vogue Supreme est le poids lourd des parcs aquatiques de Torba, avec un immense parc Candyland, une piscine à vagues et un family coaster parmi une longue liste de toboggans, tout inclus dans le séjour. Ajoutez un club enfants gratuit avec des ateliers à thème, deux plages et une restauration ultra tout compris, et vous obtenez un complexe que les enfants ne veulent vraiment pas quitter. La baie de Torba, calme et peu profonde juste au nord du centre de Bodrum, en fait aussi une base facile pour les familles avec de jeunes enfants."
+      },
+      "highlights": {
+        "en": [
+          "Huge Candyland aquapark with a wave pool",
+          "Family coaster and a long list of slides, all free",
+          "Free kids club with themed workshops",
+          "Calm, shallow Torba bay with two beaches"
+        ],
+        "fr": [
+          "Immense parc aquatique Candyland avec piscine à vagues",
+          "Family coaster et une longue liste de toboggans, tout gratuit",
+          "Club enfants gratuit avec ateliers à thème",
+          "Baie de Torba calme et peu profonde avec deux plages"
+        ]
+      },
+      "pros": {
+        "en": [
+          "One of the biggest aquaparks on the peninsula",
+          "Genuinely family-first, high energy",
+          "Calm, shallow bay close to Bodrum town",
+          "Everything included, from slides to activities"
+        ],
+        "fr": [
+          "L'un des plus grands parcs aquatiques de la péninsule",
+          "Vraiment tourné vers les familles, plein d'énergie",
+          "Baie calme et peu profonde proche du centre de Bodrum",
+          "Tout inclus, des toboggans aux activités"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Big and busy, less of a quiet-week choice",
+          "Aquapark noise is part of the deal near the pools",
+          "Slides run to set hours and heights, worth checking"
+        ],
+        "fr": [
+          "Grand et animé, pas le choix d'une semaine tranquille",
+          "Le bruit du parc aquatique fait partie du décor près des piscines",
+          "Les toboggans fonctionnent à horaires et tailles fixes, à vérifier"
+        ]
+      },
+      "verdict": {
+        "en": "If the aquapark is the whole point of the holiday, this is the Bodrum pick. Endless slides, a free kids club and a calm bay just north of town.",
+        "fr": "Si le parc aquatique est le coeur des vacances, c'est le choix à Bodrum. Toboggans à volonté, club enfants gratuit et une baie calme juste au nord de la ville."
+      },
+      "parentTip": {
+        "en": "Do the wave pool and coaster first thing, then move the little ones to the shallow bay for a calmer, cooler afternoon.",
+        "fr": "Faites la piscine à vagues et le coaster dès l'ouverture, puis emmenez les petits dans la baie peu profonde pour un après-midi plus calme et plus frais."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Aquapark",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "Candyland, wave pool, coaster",
+            "fr": "Candyland, piscine à vagues, coaster"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free, themed workshops",
+            "fr": "Gratuit, ateliers à thème"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Two beaches, calm bay",
+            "fr": "Deux plages, baie calme"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "Ultra all-inclusive",
+            "fr": "Ultra tout compris"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🌊",
+          "name": {
+            "en": "Wave pool and coaster",
+            "fr": "Piscine à vagues et coaster"
+          },
+          "detail": {
+            "en": "The Candyland wave pool and family coaster are the big-ticket thrills, best done early before the crowds.",
+            "fr": "La piscine à vagues Candyland et le family coaster sont les grandes sensations, à faire tôt avant la foule."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🎓",
+          "name": {
+            "en": "Candytown workshops",
+            "fr": "Ateliers de Candytown"
+          },
+          "detail": {
+            "en": "The kids club runs role-play workshops where children earn a little certificate, a hit with younger ones.",
+            "fr": "Le club enfants propose des ateliers de jeux de rôle où les enfants gagnent un petit diplôme, un succès chez les plus jeunes."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        },
+        {
+          "emoji": "🏝️",
+          "name": {
+            "en": "Torba bay paddle",
+            "fr": "Barbotage dans la baie de Torba"
+          },
+          "detail": {
+            "en": "The sheltered bay is shallow and calm, a gentle change of pace from the aquapark for toddlers.",
+            "fr": "La baie abritée est peu profonde et calme, un changement de rythme tout doux après le parc aquatique pour les tout-petits."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Late afternoon",
+            "fr": "Fin d'après-midi"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast",
+            "fr": "Petit-déjeuner"
+          },
+          "note": {
+            "en": "Fuel up before the aquapark opens.",
+            "fr": "Faites le plein avant l'ouverture du parc aquatique."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Aquapark",
+            "fr": "Parc aquatique"
+          },
+          "note": {
+            "en": "Slides and wave pool while it is quieter.",
+            "fr": "Toboggans et piscine à vagues tant que c'est calme."
+          }
+        },
+        {
+          "time": "15:00",
+          "title": {
+            "en": "Kids club and bay",
+            "fr": "Club enfants et baie"
+          },
+          "note": {
+            "en": "Workshop for the little ones, calm swim in the bay.",
+            "fr": "Atelier pour les petits, baignade calme dans la baie."
+          }
+        },
+        {
+          "time": "20:30",
+          "title": {
+            "en": "Mini disco",
+            "fr": "Mini disco"
+          },
+          "note": {
+            "en": "The evening show and mini disco round off the day.",
+            "fr": "Le spectacle du soir et la mini disco clôturent la journée."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Cots on request and a calm shallow bay, though the aquapark buzz is not a quiet-nap setting.",
+          "fr": "Lits bébé sur demande et une baie calme et peu profonde, même si l'animation du parc aquatique n'est pas idéale pour la sieste."
+        },
+        "toddler": {
+          "en": "Splash zones, the shallow bay and Candytown workshops keep toddlers busy and safe.",
+          "fr": "Zones de jeux d'eau, baie peu profonde et ateliers Candytown occupent les tout-petits en toute sécurité."
+        },
+        "kid": {
+          "en": "This is the dream age here, slides and the coaster fill every day.",
+          "fr": "C'est l'âge de rêve ici, toboggans et coaster remplissent chaque journée."
+        },
+        "teen": {
+          "en": "The bigger slides, wave pool and sports keep teens entertained on site.",
+          "fr": "Les grands toboggans, la piscine à vagues et les sports occupent les ados sur place."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the aquapark free?",
+            "fr": "Le parc aquatique est-il gratuit?"
+          },
+          "a": {
+            "en": "Yes, entry to the Candyland aquapark and its slides is free and unlimited during your stay, subject to daily hours and height limits.",
+            "fr": "Oui, l'accès au parc aquatique Candyland et à ses toboggans est gratuit et illimité pendant votre séjour, selon les horaires du jour et les tailles minimales."
+          }
+        },
+        {
+          "q": {
+            "en": "Is Torba good for toddlers?",
+            "fr": "Torba convient-il aux tout-petits?"
+          },
+          "a": {
+            "en": "Yes, Torba's bay is shallow and sheltered, one of the calmer spots on the peninsula for first swims.",
+            "fr": "Oui, la baie de Torba est peu profonde et abritée, l'un des endroits les plus calmes de la péninsule pour les premières baignades."
+          }
+        },
+        {
+          "q": {
+            "en": "How close is Bodrum town?",
+            "fr": "À quelle distance se trouve le centre de Bodrum?"
+          },
+          "a": {
+            "en": "Torba is just north of Bodrum town, around 15 minutes by taxi, so the castle and marina are an easy half-day out.",
+            "fr": "Torba est juste au nord du centre de Bodrum, à environ 15 minutes en taxi, le château et la marina se visitent donc facilement en demi-journée."
+          }
+        }
+      ]
+    },
+    {
+      "key": "bodrum-rixos-premium",
+      "destinationKey": "bodrum",
+      "name": "Rixos Premium Bodrum",
+      "area": {
+        "en": "Torba",
+        "fr": "Torba"
+      },
+      "lat": 37.093,
+      "lng": 27.423,
+      "zoom": 13,
+      "address": "Rixos Premium Bodrum, Zeytinlikahve Mevkii, Torba, Bodrum, Mugla, Turkey",
+      "priceTier": 4,
+      "priceFrom": 300,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "water-slides",
+        "free-kids-club",
+        "beach-access",
+        "family-suites"
+      ],
+      "clubFree": true,
+      "photos": [
+        "infinityPoolSea",
+        "deckLoungersSea",
+        "poolDusk"
+      ],
+      "scores": {
+        "rooms": 93,
+        "baby": 84,
+        "pool": 90,
+        "dining": 90,
+        "safety": 87,
+        "convenience": 78,
+        "location": 84,
+        "extras": 92
+      },
+      "roomsSummary": {
+        "en": "Polished, spacious rooms and suites in a premium hillside-to-sea resort, most with sea views and a balcony. Larger suites and family layouts sleep four comfortably, with generous bathrooms.",
+        "fr": "Chambres et suites soignées et spacieuses dans un complexe premium qui descend de la colline vers la mer, la plupart avec vue mer et balcon. Les suites plus grandes et les configurations familiales logent confortablement quatre personnes, avec de belles salles de bain."
+      },
+      "intro": {
+        "en": "Rixos Premium is the peninsula's big, glossy all-inclusive, and while it has a lively, upscale side, it backs it with a serious kids offering: the Rixy Kids Club, a water park and a dedicated children's restaurant. The food and drink range is a cut above, the beach and pools are extensive, and the entertainment is polished. Note that children aged 12 and over are charged as adults, so it suits families with younger kids or a bigger budget.",
+        "fr": "Le Rixos Premium est le grand tout compris chic de la péninsule, et s'il a un côté animé et haut de gamme, il l'accompagne d'une vraie offre enfants: le Rixy Kids Club, un parc aquatique et un restaurant dédié aux enfants. Le choix de plats et de boissons est un cran au-dessus, la plage et les piscines sont vastes, et l'animation est soignée. À noter que les enfants de 12 ans et plus sont facturés au tarif adulte, ce qui convient donc aux familles avec de jeunes enfants ou au budget plus large."
+      },
+      "highlights": {
+        "en": [
+          "Rixy Kids Club and a water park",
+          "Dedicated children's restaurant",
+          "Premium food and drink range",
+          "Extensive beach and pools with sea views"
+        ],
+        "fr": [
+          "Rixy Kids Club et un parc aquatique",
+          "Restaurant dédié aux enfants",
+          "Offre premium de plats et de boissons",
+          "Plage et piscines étendues avec vue mer"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Standout dining and drinks for an all-inclusive",
+          "Strong kids club and dedicated kids restaurant",
+          "Big, well-kept grounds down to the sea",
+          "Polished evening entertainment"
+        ],
+        "fr": [
+          "Restauration et boissons remarquables pour un tout compris",
+          "Club enfants solide et restaurant enfants dédié",
+          "Grand domaine soigné qui descend vers la mer",
+          "Animation du soir soignée"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Children aged 12 and over are charged as adults",
+          "Lively and upscale, not the quietest family choice",
+          "Premium prices across the board"
+        ],
+        "fr": [
+          "Les enfants de 12 ans et plus sont facturés au tarif adulte",
+          "Animé et haut de gamme, pas le choix familial le plus calme",
+          "Tarifs premium sur toute la ligne"
+        ]
+      },
+      "verdict": {
+        "en": "The premium, high-energy option for families with younger kids who want top food and a strong kids club, and do not mind a lively resort. Best value with under-twelves.",
+        "fr": "L'option premium et pleine d'énergie pour les familles avec de jeunes enfants qui veulent une excellente table et un club enfants solide, sans craindre un complexe animé. Meilleur rapport avec des moins de douze ans."
+      },
+      "parentTip": {
+        "en": "The dedicated kids restaurant means earlier, calmer dinners for little ones, use it and enjoy a slower adult meal after.",
+        "fr": "Le restaurant enfants dédié permet des dîners plus tôt et plus calmes pour les petits, profitez-en pour prendre ensuite un repas d'adulte plus tranquille."
+      },
+      "atAGlance": [
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Rixy Kids Club, included",
+            "fr": "Rixy Kids Club, inclus"
+          }
+        },
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "Slides on site",
+            "fr": "Toboggans sur place"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Dining",
+            "fr": "Restauration"
+          },
+          "value": {
+            "en": "Premium, plus a kids restaurant",
+            "fr": "Premium, avec un restaurant enfants"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Extensive, sea-view setting",
+            "fr": "Étendue, cadre avec vue mer"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "Water park slides",
+            "fr": "Toboggans du parc aquatique"
+          },
+          "detail": {
+            "en": "The on-site water park keeps kids busy, with the Rixy team running the mini club alongside.",
+            "fr": "Le parc aquatique sur place occupe les enfants, avec l'équipe Rixy qui anime le mini club à côté."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🎪",
+          "name": {
+            "en": "Rixy Kids Club",
+            "fr": "Rixy Kids Club"
+          },
+          "detail": {
+            "en": "A big, well-run club with games, crafts and trampolines that younger children love.",
+            "fr": "Un grand club bien tenu avec jeux, activités créatives et trampolines que les jeunes enfants adorent."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        },
+        {
+          "emoji": "🍽️",
+          "name": {
+            "en": "Kids restaurant dinner",
+            "fr": "Dîner au restaurant enfants"
+          },
+          "detail": {
+            "en": "An earlier, child-friendly dinner in the dedicated kids restaurant takes the stress out of the evening.",
+            "fr": "Un dîner plus tôt et adapté aux enfants dans le restaurant enfants dédié enlève le stress de la soirée."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Early evening",
+            "fr": "Début de soirée"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast",
+            "fr": "Petit-déjeuner"
+          },
+          "note": {
+            "en": "The buffet is a highlight, take your time.",
+            "fr": "Le buffet est un point fort, prenez votre temps."
+          }
+        },
+        {
+          "time": "10:30",
+          "title": {
+            "en": "Water park",
+            "fr": "Parc aquatique"
+          },
+          "note": {
+            "en": "Slides and pools before the midday sun.",
+            "fr": "Toboggans et piscines avant le soleil de midi."
+          }
+        },
+        {
+          "time": "15:30",
+          "title": {
+            "en": "Rixy Kids Club",
+            "fr": "Rixy Kids Club"
+          },
+          "note": {
+            "en": "Trampolines and crafts while parents relax by the sea.",
+            "fr": "Trampolines et bricolages pendant que les parents se détendent au bord de la mer."
+          }
+        },
+        {
+          "time": "18:00",
+          "title": {
+            "en": "Kids restaurant",
+            "fr": "Restaurant enfants"
+          },
+          "note": {
+            "en": "Early dinner for the little ones, adult meal to follow.",
+            "fr": "Dîner tôt pour les petits, repas d'adulte ensuite."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Cots on request and premium comforts, though the resort is large and lively.",
+          "fr": "Lits bébé sur demande et confort premium, même si le complexe est grand et animé."
+        },
+        "toddler": {
+          "en": "The kids club, kids restaurant and splash areas make toddler days easy.",
+          "fr": "Le club enfants, le restaurant enfants et les zones de jeux d'eau rendent les journées des tout-petits faciles."
+        },
+        "kid": {
+          "en": "Under-twelves get the best value and the fullest programme here.",
+          "fr": "Les moins de douze ans profitent du meilleur rapport et du programme le plus complet ici."
+        },
+        "teen": {
+          "en": "Teens have the water park and buzz, but from 12 they are charged as adults, so weigh the cost.",
+          "fr": "Les ados ont le parc aquatique et l'ambiance, mais dès 12 ans ils sont facturés au tarif adulte, pesez donc le coût."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is it really family-friendly if it is a Rixos?",
+            "fr": "Est-ce vraiment familial pour un Rixos?"
+          },
+          "a": {
+            "en": "Yes, it runs a full Rixy Kids Club, a water park and a dedicated kids restaurant, though it is livelier and more upscale than a classic family resort.",
+            "fr": "Oui, il propose un Rixy Kids Club complet, un parc aquatique et un restaurant enfants dédié, même s'il est plus animé et plus haut de gamme qu'un complexe familial classique."
+          }
+        },
+        {
+          "q": {
+            "en": "At what age do children pay adult rates?",
+            "fr": "À partir de quel âge les enfants paient-ils le tarif adulte?"
+          },
+          "a": {
+            "en": "Children aged 12 and over are charged as adults here, so the value is strongest for families with younger children.",
+            "fr": "Les enfants de 12 ans et plus sont facturés au tarif adulte ici, l'intérêt est donc le plus fort pour les familles avec de jeunes enfants."
+          }
+        },
+        {
+          "q": {
+            "en": "How is the food?",
+            "fr": "Comment est la cuisine?"
+          },
+          "a": {
+            "en": "The all-inclusive food and drink range is a clear step above most in the area, one of the main reasons families pay the premium.",
+            "fr": "L'offre de plats et de boissons en tout compris est nettement au-dessus de la plupart dans le secteur, l'une des principales raisons pour lesquelles les familles paient le supplément."
+          }
+        }
+      ]
+    },
+    {
+      "key": "bodrum-isis-hotel-gumbet",
+      "destinationKey": "bodrum",
+      "name": "Isis Hotel & Spa",
+      "area": {
+        "en": "Gumbet",
+        "fr": "Gumbet"
+      },
+      "lat": 37.0335,
+      "lng": 27.411,
+      "zoom": 13,
+      "address": "Isis Hotel & Spa, Gumbet, Bodrum, Mugla, Turkey",
+      "priceTier": 2,
+      "priceFrom": 130,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "beach-access",
+        "family-suites",
+        "baby-friendly",
+        "city-base"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolDusk",
+        "beachSunset",
+        "coastTown"
+      ],
+      "scores": {
+        "rooms": 86,
+        "baby": 79,
+        "pool": 78,
+        "dining": 79,
+        "safety": 83,
+        "convenience": 84,
+        "location": 85,
+        "extras": 76
+      },
+      "roomsSummary": {
+        "en": "Comfortable modern rooms and family rooms in a low-rise beachfront hotel, many with balconies. Family rooms sleep four, and the walkable Gumbet setting means you can pop out easily.",
+        "fr": "Chambres et chambres familiales modernes et confortables dans un hôtel de plain-pied en bord de mer, beaucoup avec balcon. Les chambres familiales logent quatre personnes, et l'emplacement de Gumbet, accessible à pied, permet de sortir facilement."
+      },
+      "intro": {
+        "en": "Isis sits on a Blue Flag beach in lively Gumbet, only about 3km from Bodrum town, which makes it a rare family resort you can actually walk out of to shops, cafes and the seafront. It has multiple pools, a children's pool and playground and a free kids club, all on an ultra all-inclusive plan. Gumbet has a busier, more social feel than the quiet western bays, which suits families who like a bit of life on the doorstep.",
+        "fr": "L'Isis est posé sur une plage Pavillon Bleu dans l'animée Gumbet, à seulement 3 km environ du centre de Bodrum, ce qui en fait un rare complexe familial d'où l'on peut vraiment sortir à pied vers les boutiques, les cafés et le front de mer. Il dispose de plusieurs piscines, d'une piscine enfants avec aire de jeux et d'un club enfants gratuit, le tout en formule ultra tout compris. Gumbet a une ambiance plus animée et plus sociable que les baies tranquilles de l'ouest, ce qui convient aux familles qui aiment un peu de vie à leur porte."
+      },
+      "highlights": {
+        "en": [
+          "Blue Flag beach right in front",
+          "Free kids club and children's pool",
+          "Walkable to Gumbet and near Bodrum town",
+          "Good value ultra all-inclusive"
+        ],
+        "fr": [
+          "Plage Pavillon Bleu juste devant",
+          "Club enfants gratuit et piscine enfants",
+          "Accessible à pied à Gumbet, proche du centre de Bodrum",
+          "Ultra tout compris au bon rapport qualité-prix"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Central, walkable location near town",
+          "Clean Blue Flag beach on the doorstep",
+          "Free kids club and playground",
+          "Sensible price for the peninsula"
+        ],
+        "fr": [
+          "Emplacement central et accessible à pied, proche de la ville",
+          "Plage Pavillon Bleu propre juste devant",
+          "Club enfants gratuit et aire de jeux",
+          "Prix raisonnable pour la péninsule"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Gumbet gets lively at night, quieter families may prefer the west",
+          "No big aquapark, pools rather than slides",
+          "Comfortable rather than luxurious"
+        ],
+        "fr": [
+          "Gumbet s'anime le soir, les familles au calme préféreront l'ouest",
+          "Pas de grand parc aquatique, des piscines plutôt que des toboggans",
+          "Confortable plutôt que luxueux"
+        ]
+      },
+      "verdict": {
+        "en": "The easy, well-located value pick for families who want a real beach and town within walking distance rather than a big slide park. Handy with a stroller.",
+        "fr": "Le choix pratique et bien situé au bon rapport qualité-prix pour les familles qui veulent une vraie plage et la ville à distance de marche plutôt qu'un grand parc à toboggans. Pratique avec une poussette."
+      },
+      "parentTip": {
+        "en": "Ask for a room on the far side from the beach bar if you have early sleepers, Gumbet's evenings carry a little sound.",
+        "fr": "Demandez une chambre du côté opposé au bar de plage si vos enfants se couchent tôt, les soirées de Gumbet portent un peu le son."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Blue Flag, in front",
+            "fr": "Pavillon Bleu, juste devant"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free, plus playground",
+            "fr": "Gratuit, avec aire de jeux"
+          }
+        },
+        {
+          "icon": "🏙️",
+          "label": {
+            "en": "Location",
+            "fr": "Emplacement"
+          },
+          "value": {
+            "en": "Walkable Gumbet, near town",
+            "fr": "Gumbet à pied, proche de la ville"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "Ultra all-inclusive",
+            "fr": "Ultra tout compris"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Blue Flag beach morning",
+            "fr": "Matinée sur la plage Pavillon Bleu"
+          },
+          "detail": {
+            "en": "The clean beach in front has calm water and easy access straight from the loungers.",
+            "fr": "La plage propre juste devant offre une eau calme et un accès facile directement depuis les transats."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🚶",
+          "name": {
+            "en": "Walk into Gumbet",
+            "fr": "Balade jusqu'à Gumbet"
+          },
+          "detail": {
+            "en": "Stroll the seafront to shops and cafes, an easy outing without a taxi.",
+            "fr": "Flânez sur le front de mer jusqu'aux boutiques et aux cafés, une sortie facile sans taxi."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soir"
+          }
+        },
+        {
+          "emoji": "🏰",
+          "name": {
+            "en": "Bodrum Castle day",
+            "fr": "Journée au château de Bodrum"
+          },
+          "detail": {
+            "en": "Bodrum town and its castle are only about 3km away, a short taxi or a longer seafront walk.",
+            "fr": "Le centre de Bodrum et son château ne sont qu'à environ 3 km, un court taxi ou une plus longue balade sur le front de mer."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journée"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast",
+            "fr": "Petit-déjeuner"
+          },
+          "note": {
+            "en": "Simple, reliable buffet to start the day.",
+            "fr": "Buffet simple et fiable pour commencer la journée."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Beach and pool",
+            "fr": "Plage et piscine"
+          },
+          "note": {
+            "en": "Beach in the morning, kids pool when the sun is high.",
+            "fr": "Plage le matin, piscine enfants quand le soleil est haut."
+          }
+        },
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "note": {
+            "en": "Free club and playground while parents have a coffee.",
+            "fr": "Club gratuit et aire de jeux pendant que les parents prennent un café."
+          }
+        },
+        {
+          "time": "18:30",
+          "title": {
+            "en": "Seafront stroll",
+            "fr": "Balade sur le front de mer"
+          },
+          "note": {
+            "en": "Walk into Gumbet for ice cream before dinner.",
+            "fr": "Marchez jusqu'à Gumbet pour une glace avant le dîner."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Cots on request and a flat, walkable seafront good for pram naps.",
+          "fr": "Lits bébé sur demande et un front de mer plat et accessible, idéal pour les siestes en poussette."
+        },
+        "toddler": {
+          "en": "The children's pool and calm beach suit toddlers, with town close for essentials.",
+          "fr": "La piscine enfants et la plage calme conviennent aux tout-petits, avec la ville proche pour l'essentiel."
+        },
+        "kid": {
+          "en": "Free kids club, beach and easy outings to Bodrum town keep this age content.",
+          "fr": "Club enfants gratuit, plage et sorties faciles vers le centre de Bodrum contentent cet âge."
+        },
+        "teen": {
+          "en": "Gumbet's watersports and social buzz, plus town nearby, suit teens well.",
+          "fr": "Les sports nautiques et l'ambiance sociable de Gumbet, avec la ville tout près, plaisent bien aux ados."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is Gumbet too lively for families?",
+            "fr": "Gumbet est-il trop animé pour les familles?"
+          },
+          "a": {
+            "en": "Gumbet is more social than the western bays, but the hotel itself is family-focused. Choose a room away from the beach bar if you have early sleepers.",
+            "fr": "Gumbet est plus sociable que les baies de l'ouest, mais l'hôtel lui-même est tourné vers les familles. Choisissez une chambre éloignée du bar de plage si vos enfants se couchent tôt."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we walk to Bodrum town?",
+            "fr": "Peut-on rejoindre le centre de Bodrum à pied?"
+          },
+          "a": {
+            "en": "It is about 3km, walkable for older kids along the seafront, or a short, cheap taxi with little ones.",
+            "fr": "C'est à environ 3 km, faisable à pied pour les grands le long du front de mer, ou un court taxi bon marché avec les petits."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a water park?",
+            "fr": "Y a-t-il un parc aquatique?"
+          },
+          "a": {
+            "en": "No big aquapark here, it is pools and a children's pool rather than slides. For slides, look at the Torba or Turgutreis resorts.",
+            "fr": "Pas de grand parc aquatique ici, ce sont des piscines et une piscine enfants plutôt que des toboggans. Pour les toboggans, regardez les complexes de Torba ou de Turgutreis."
+          }
+        }
+      ]
+    },
+    {
+      "key": "bodrum-holiday-resort",
+      "destinationKey": "bodrum",
+      "name": "Bodrum Holiday Resort & Spa",
+      "area": {
+        "en": "Bodrum town",
+        "fr": "Bodrum ville"
+      },
+      "lat": 37.027,
+      "lng": 27.408,
+      "zoom": 13,
+      "address": "Bodrum Holiday Resort & Spa, Icmeler Koyu, Kizilagac Mevkii, Bodrum, Mugla, Turkey",
+      "priceTier": 2,
+      "priceFrom": 120,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "water-slides",
+        "free-kids-club",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolPalms",
+        "poolDuskPalms",
+        "coastTown"
+      ],
+      "scores": {
+        "rooms": 84,
+        "baby": 80,
+        "pool": 82,
+        "dining": 78,
+        "safety": 81,
+        "convenience": 75,
+        "location": 79,
+        "extras": 80
+      },
+      "roomsSummary": {
+        "en": "Simple, comfortable rooms and family rooms terraced on a hillside above the bay, many with sea-view balconies. Family rooms sleep four, with a short internal shuttle or walk down to the beach and pools.",
+        "fr": "Chambres et chambres familiales simples et confortables, en terrasses sur une colline au-dessus de la baie, beaucoup avec balcon vue mer. Les chambres familiales logent quatre personnes, avec une courte navette interne ou une descente à pied vers la plage et les piscines."
+      },
+      "intro": {
+        "en": "Bodrum Holiday Resort is the affordable water-park option close to town, spread over a green hillside above Icmeler bay just a few kilometres from Bodrum centre. Its colourful water slides, four pools including kids sections, a free mini club and a games room make it an easy-going family base that does not cost the earth. The hillside layout means some steps and a shuttle, but the sea views and value make up for it.",
+        "fr": "Le Bodrum Holiday Resort est l'option parc aquatique abordable proche de la ville, étalée sur une colline verdoyante au-dessus de la baie d'Icmeler, à quelques kilomètres seulement du centre de Bodrum. Ses toboggans colorés, ses quatre piscines dont des bassins enfants, son mini club gratuit et sa salle de jeux en font une base familiale décontractée qui ne ruine pas. La disposition en pente implique quelques marches et une navette, mais les vues sur la mer et le rapport qualité-prix compensent."
+      },
+      "highlights": {
+        "en": [
+          "Colourful water slides at a friendly price",
+          "Four pools including kids sections",
+          "Free mini club and games room",
+          "Only a few kilometres from Bodrum town"
+        ],
+        "fr": [
+          "Toboggans colorés à un prix abordable",
+          "Quatre piscines dont des bassins enfants",
+          "Mini club gratuit et salle de jeux",
+          "À quelques kilomètres seulement du centre de Bodrum"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Water park and slides at a low price",
+          "Close to Bodrum town and the castle",
+          "Free mini club plus indoor games room",
+          "Sea views from the terraced rooms"
+        ],
+        "fr": [
+          "Parc aquatique et toboggans à petit prix",
+          "Proche du centre de Bodrum et du château",
+          "Mini club gratuit et salle de jeux intérieure",
+          "Vues sur la mer depuis les chambres en terrasses"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Hillside layout with steps and a shuttle to the beach",
+          "Dining is functional rather than a highlight",
+          "Older, simpler rooms, this is a value choice"
+        ],
+        "fr": [
+          "Disposition en pente avec des marches et une navette vers la plage",
+          "La restauration est fonctionnelle plutôt qu'un point fort",
+          "Chambres plus anciennes et simples, c'est un choix économique"
+        ]
+      },
+      "verdict": {
+        "en": "The budget-friendly slide resort near town, best for families who want a water park and Bodrum's sights close by without paying peninsula-premium prices.",
+        "fr": "Le complexe à toboggans économique proche de la ville, idéal pour les familles qui veulent un parc aquatique et les sites de Bodrum à proximité sans payer les tarifs premium de la péninsule."
+      },
+      "parentTip": {
+        "en": "Ask for a room on a lower terrace to cut the number of steps with a pram and to shorten the walk to the pools.",
+        "fr": "Demandez une chambre sur une terrasse basse pour réduire le nombre de marches avec une poussette et raccourcir le trajet vers les piscines."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "Colourful slides",
+            "fr": "Toboggans colorés"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free, plus games room",
+            "fr": "Gratuit, avec salle de jeux"
+          }
+        },
+        {
+          "icon": "🏙️",
+          "label": {
+            "en": "Location",
+            "fr": "Emplacement"
+          },
+          "value": {
+            "en": "A few km from Bodrum town",
+            "fr": "À quelques km de Bodrum ville"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Value",
+            "fr": "Rapport qualité-prix"
+          },
+          "value": {
+            "en": "Budget-friendly AI",
+            "fr": "Tout compris économique"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "Water slide session",
+            "fr": "Séance de toboggans"
+          },
+          "detail": {
+            "en": "The colourful slides and kids pool sections are the daily draw for younger children.",
+            "fr": "Les toboggans colorés et les bassins enfants sont l'attraction quotidienne des plus jeunes."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🎮",
+          "name": {
+            "en": "Games room and mini club",
+            "fr": "Salle de jeux et mini club"
+          },
+          "detail": {
+            "en": "An indoor games room and free mini club are handy for the hottest part of the day.",
+            "fr": "Une salle de jeux intérieure et un mini club gratuit sont pratiques pour les heures les plus chaudes."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        },
+        {
+          "emoji": "🏰",
+          "name": {
+            "en": "Bodrum town and castle",
+            "fr": "Bodrum ville et château"
+          },
+          "detail": {
+            "en": "The castle, marina and bazaar are a short taxi away for an easy half-day out.",
+            "fr": "Le château, la marina et le bazar sont à un court taxi pour une demi-journée facile."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Half day",
+            "fr": "Demi-journée"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast with a view",
+            "fr": "Petit-déjeuner avec vue"
+          },
+          "note": {
+            "en": "The terraces catch a lovely bay view early.",
+            "fr": "Les terrasses offrent une jolie vue sur la baie tôt le matin."
+          }
+        },
+        {
+          "time": "10:30",
+          "title": {
+            "en": "Water slides",
+            "fr": "Toboggans"
+          },
+          "note": {
+            "en": "Slides and kids pool before it gets too hot.",
+            "fr": "Toboggans et piscine enfants avant qu'il ne fasse trop chaud."
+          }
+        },
+        {
+          "time": "15:00",
+          "title": {
+            "en": "Games room",
+            "fr": "Salle de jeux"
+          },
+          "note": {
+            "en": "Cool indoor break for the little ones.",
+            "fr": "Pause intérieure au frais pour les petits."
+          }
+        },
+        {
+          "time": "17:30",
+          "title": {
+            "en": "Beach dip",
+            "fr": "Baignade à la plage"
+          },
+          "note": {
+            "en": "Shuttle or walk down for a late swim.",
+            "fr": "Navette ou descente à pied pour une baignade en fin de journée."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Cots on request, though the hillside steps mean a pram takes some planning.",
+          "fr": "Lits bébé sur demande, même si les marches de la colline demandent d'organiser un peu la poussette."
+        },
+        "toddler": {
+          "en": "The kids pool sections and shallow slides suit toddlers, ask for a low terrace room.",
+          "fr": "Les bassins enfants et les toboggans peu profonds conviennent aux tout-petits, demandez une chambre en terrasse basse."
+        },
+        "kid": {
+          "en": "Slides, games room and easy town trips make this age happy on a budget.",
+          "fr": "Toboggans, salle de jeux et sorties faciles en ville rendent cet âge heureux sans se ruiner."
+        },
+        "teen": {
+          "en": "Teens have the slides and the pull of nearby Bodrum town for a change of scene.",
+          "fr": "Les ados ont les toboggans et l'attrait du centre de Bodrum tout proche pour changer d'air."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the hillside a problem with a pram?",
+            "fr": "La colline pose-t-elle problème avec une poussette?"
+          },
+          "a": {
+            "en": "There are steps and a shuttle between levels. Ask for a lower terrace room to keep the walk to the pools and beach short.",
+            "fr": "Il y a des marches et une navette entre les niveaux. Demandez une chambre en terrasse basse pour garder un trajet court vers les piscines et la plage."
+          }
+        },
+        {
+          "q": {
+            "en": "How far is Bodrum town?",
+            "fr": "À quelle distance se trouve le centre de Bodrum?"
+          },
+          "a": {
+            "en": "Only about 5km, a short taxi to the castle, marina and bazaar, which is a big plus for sightseeing families.",
+            "fr": "À peine 5 km, un court taxi jusqu'au château, à la marina et au bazar, un vrai plus pour les familles qui aiment visiter."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it good value?",
+            "fr": "Est-ce un bon rapport qualité-prix?"
+          },
+          "a": {
+            "en": "Yes, it is one of the cheaper ways to get a water park and free kids club close to town, as long as you accept simpler rooms and dining.",
+            "fr": "Oui, c'est l'un des moyens les plus économiques d'avoir un parc aquatique et un club enfants gratuit près de la ville, à condition d'accepter des chambres et une restauration plus simples."
+          }
+        }
+      ]
+    },
+    {
+      "key": "bodrum-hilton-turkbuku",
+      "destinationKey": "bodrum",
+      "name": "Hilton Bodrum Turkbuku Resort & Spa",
+      "area": {
+        "en": "Golturkbuku",
+        "fr": "Golturkbuku"
+      },
+      "lat": 37.125,
+      "lng": 27.355,
+      "zoom": 13,
+      "address": "Hilton Bodrum Turkbuku Resort & Spa, Golturkbuku, Bodrum, Mugla, Turkey",
+      "priceTier": 4,
+      "priceFrom": 330,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "water-slides",
+        "free-kids-club",
+        "beach-access",
+        "family-suites",
+        "baby-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "infinityPoolSea",
+        "deckLoungersSea",
+        "coastTown"
+      ],
+      "scores": {
+        "rooms": 92,
+        "baby": 82,
+        "pool": 88,
+        "dining": 88,
+        "safety": 87,
+        "convenience": 74,
+        "location": 86,
+        "extras": 88
+      },
+      "roomsSummary": {
+        "en": "Smart, spacious rooms and suites terraced down a green hillside to the sea, most with a balcony and sea view. Family rooms and connecting options sleep four, and the calmer upper terraces suit families with a baby.",
+        "fr": "Chambres et suites élégantes et spacieuses, en terrasses qui descendent d'une colline verdoyante vers la mer, la plupart avec balcon et vue mer. Les chambres familiales et communicantes logent quatre personnes, et les terrasses supérieures plus calmes conviennent aux familles avec un bébé."
+      },
+      "intro": {
+        "en": "The Hilton at Turkbuku is the upscale family option on the northern peninsula, a big 490-room resort cascading down landscaped terraces to a sheltered, shallow bay that is genuinely good for young children. It pairs polish, four outdoor pools including one with water slides and a strong kids club with a family buffet section and a quieter adults area. Golturkbuku is chic and calm, a smarter, gentler alternative to the busier southern resorts.",
+        "fr": "Le Hilton de Turkbuku est l'option familiale haut de gamme du nord de la péninsule, un grand complexe de 490 chambres qui dévale des terrasses paysagées vers une baie abritée et peu profonde, vraiment adaptée aux jeunes enfants. Il associe le raffinement, quatre piscines extérieures dont une à toboggans et un club enfants solide, avec un espace buffet famille et une zone adultes plus calme. Golturkbuku est chic et paisible, une alternative plus élégante et plus douce aux complexes plus animés du sud."
+      },
+      "highlights": {
+        "en": [
+          "Sheltered, shallow bay ideal for young kids",
+          "Pool with water slides and a kids pool",
+          "Strong kids club and family buffet section",
+          "Upscale, calm Golturkbuku setting"
+        ],
+        "fr": [
+          "Baie abritée et peu profonde, idéale pour les jeunes enfants",
+          "Piscine à toboggans et bassin enfants",
+          "Club enfants solide et espace buffet famille",
+          "Cadre haut de gamme et calme de Golturkbuku"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Polished service and dining for the peninsula",
+          "Shallow, safe bay for little ones",
+          "Water slides plus a good kids club",
+          "Beautiful terraced grounds and sea views"
+        ],
+        "fr": [
+          "Service et restauration soignés pour la péninsule",
+          "Baie peu profonde et sûre pour les petits",
+          "Toboggans et un bon club enfants",
+          "Beaux jardins en terrasses et vues sur la mer"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Premium prices",
+          "Steep terraces mean lots of steps and lifts with a pram",
+          "Farther from the airport and Bodrum town, around 45 minutes"
+        ],
+        "fr": [
+          "Tarifs premium",
+          "Les terrasses pentues impliquent beaucoup de marches et d'ascenseurs avec une poussette",
+          "Plus loin de l'aéroport et du centre de Bodrum, environ 45 minutes"
+        ]
+      },
+      "verdict": {
+        "en": "The pick for families who want a smarter, calmer resort with a genuinely safe shallow bay, and will pay for polish. Great with babies and young children if you do not mind the terraces.",
+        "fr": "Le choix des familles qui veulent un complexe plus élégant et plus calme avec une baie peu profonde vraiment sûre, et acceptent de payer le raffinement. Parfait avec des bébés et de jeunes enfants si les terrasses ne vous dérangent pas."
+      },
+      "parentTip": {
+        "en": "Rooms on the lower terraces cut the walk to the beach and slides, worth requesting if anyone tires easily or you have a pram.",
+        "fr": "Les chambres des terrasses basses raccourcissent le trajet vers la plage et les toboggans, à demander si quelqu'un se fatigue vite ou si vous avez une poussette."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Sheltered, shallow bay",
+            "fr": "Baie abritée et peu profonde"
+          }
+        },
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "4 outdoor, one with slides",
+            "fr": "4 extérieures, une à toboggans"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Kids club and playground",
+            "fr": "Club enfants et aire de jeux"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Dining",
+            "fr": "Restauration"
+          },
+          "value": {
+            "en": "Family and adults sections",
+            "fr": "Espaces famille et adultes"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🐚",
+          "name": {
+            "en": "Shallow-bay swim",
+            "fr": "Baignade dans la baie peu profonde"
+          },
+          "detail": {
+            "en": "Wooden terraces lead to a shallow, sheltered bay that is one of the safest first-swim spots around.",
+            "fr": "Des pontons en bois mènent à une baie peu profonde et abritée, l'un des endroits les plus sûrs pour une première baignade."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "Slide pool",
+            "fr": "Bassin à toboggans"
+          },
+          "detail": {
+            "en": "One of the four outdoor pools has water slides for the older, more confident swimmers.",
+            "fr": "L'une des quatre piscines extérieures dispose de toboggans pour les nageurs plus grands et plus sûrs d'eux."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Midday",
+            "fr": "Midi"
+          }
+        },
+        {
+          "emoji": "🧒",
+          "name": {
+            "en": "Kids club and playground",
+            "fr": "Club enfants et aire de jeux"
+          },
+          "detail": {
+            "en": "The supervised club and outdoor playground give parents a calm hour by the sea.",
+            "fr": "Le club encadré et l'aire de jeux extérieure offrent aux parents une heure tranquille au bord de la mer."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast on the terrace",
+            "fr": "Petit-déjeuner en terrasse"
+          },
+          "note": {
+            "en": "Beautiful sea views to start the day.",
+            "fr": "De belles vues sur la mer pour commencer la journée."
+          }
+        },
+        {
+          "time": "10:30",
+          "title": {
+            "en": "Shallow bay",
+            "fr": "Baie peu profonde"
+          },
+          "note": {
+            "en": "Safe, calm water for the little ones.",
+            "fr": "Eau sûre et calme pour les petits."
+          }
+        },
+        {
+          "time": "15:00",
+          "title": {
+            "en": "Slide pool and kids club",
+            "fr": "Bassin à toboggans et club enfants"
+          },
+          "note": {
+            "en": "Slides for the big ones, club for the small ones.",
+            "fr": "Toboggans pour les grands, club pour les petits."
+          }
+        },
+        {
+          "time": "19:30",
+          "title": {
+            "en": "Family dinner",
+            "fr": "Dîner en famille"
+          },
+          "note": {
+            "en": "Use the family buffet section for an easier meal.",
+            "fr": "Utilisez l'espace buffet famille pour un repas plus tranquille."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "The shallow, sheltered bay and quiet upper terraces suit babies well, though the slopes mean planning with a pram.",
+          "fr": "La baie peu profonde et abritée et les terrasses supérieures calmes conviennent bien aux bébés, même si les pentes demandent d'organiser la poussette."
+        },
+        "toddler": {
+          "en": "Calm shallow water and a kids pool make this a strong toddler choice.",
+          "fr": "Eau calme et peu profonde et une piscine enfants en font un bon choix pour les tout-petits."
+        },
+        "kid": {
+          "en": "The slide pool, kids club and playground fill the day for this age.",
+          "fr": "Le bassin à toboggans, le club enfants et l'aire de jeux remplissent la journée de cet âge."
+        },
+        "teen": {
+          "en": "Teens have the slides, watersports and stylish Golturkbuku nearby, though it is calmer than Gumbet.",
+          "fr": "Les ados ont les toboggans, les sports nautiques et l'élégante Golturkbuku tout près, même si c'est plus calme que Gumbet."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the bay really safe for young children?",
+            "fr": "La baie est-elle vraiment sûre pour les jeunes enfants?"
+          },
+          "a": {
+            "en": "Yes, it is sheltered and shallow with wooden entry terraces, one of the gentler spots on the peninsula for first swims.",
+            "fr": "Oui, elle est abritée et peu profonde, avec des pontons d'accès en bois, l'un des endroits les plus doux de la péninsule pour les premières baignades."
+          }
+        },
+        {
+          "q": {
+            "en": "Are the terraces hard work with a pram?",
+            "fr": "Les terrasses sont-elles difficiles avec une poussette?"
+          },
+          "a": {
+            "en": "The resort is built down a steep hillside with steps and lifts. Request a lower terrace room to shorten the walk to the beach and pools.",
+            "fr": "Le complexe est bâti à flanc de colline avec des marches et des ascenseurs. Demandez une chambre en terrasse basse pour raccourcir le trajet vers la plage et les piscines."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there an adults-only area?",
+            "fr": "Y a-t-il un espace réservé aux adultes?"
+          },
+          "a": {
+            "en": "There is a quieter adults section alongside the family areas and a family buffet, so you get both calm and kid-friendly spaces.",
+            "fr": "Il y a un espace adultes plus calme à côté des zones familiales et un buffet famille, vous avez donc à la fois du calme et des espaces adaptés aux enfants."
+          }
+        }
+      ]
+    }
+  ],
+  "destinationMeta": {
+    "heroKicker": {
+      "en": "Whitewashed Aegean bays, big family water parks and gulet days",
+      "fr": "Baies blanches de la mer Égée, grands parcs aquatiques familiaux et journées en gulet"
+    },
+    "intro": {
+      "en": "Bodrum is Turkey's stylish Aegean peninsula, a run of whitewashed villages and sheltered bays that happens to be brilliant for a family all-inclusive. Big resorts here come with proper water parks, free kids clubs and calm, shallow spots like Bitez and Torba that are made for toddlers, while livelier Gumbet and the smart Yalikavak marina add variety. In between the slides you get the Bodrum Castle, gulet boat trips around the coves and hot, dry summers that stretch warm into October. It is usually cheaper than the western Mediterranean for the same kind of family week, with the Milas-Bodrum airport around 40 minutes from most resorts.",
+      "fr": "Bodrum est l'élégante péninsule égéenne de la Turquie, une enfilade de villages blanchis à la chaux et de baies abritées qui se trouve être formidable pour un séjour familial en tout compris. Les grands complexes y proposent de vrais parcs aquatiques, des clubs enfants gratuits et des coins calmes et peu profonds comme Bitez et Torba, faits pour les tout-petits, tandis que la plus animée Gumbet et l'élégante marina de Yalikavak apportent de la variété. Entre deux toboggans, vous avez le château de Bodrum, les sorties en gulet autour des criques et des étés chauds et secs qui restent doux jusqu'en octobre. C'est en général moins cher que la Méditerranée occidentale pour le même type de semaine en famille, avec l'aéroport de Milas-Bodrum à environ 40 minutes de la plupart des complexes."
+    },
+    "whyKids": {
+      "en": [
+        "Big all-inclusive resorts with real water parks, slides and free kids clubs",
+        "Calm, shallow bays at Bitez and Torba that are made for toddlers and first swims",
+        "Gulet boat trips around the coves, a proper adventure for older kids",
+        "The Bodrum Castle and harbour make an easy, memorable half-day out"
+      ],
+      "fr": [
+        "Grands complexes en tout compris avec de vrais parcs aquatiques, toboggans et clubs enfants gratuits",
+        "Baies calmes et peu profondes à Bitez et Torba, faites pour les tout-petits et les premières baignades",
+        "Sorties en gulet autour des criques, une vraie aventure pour les plus grands",
+        "Le château de Bodrum et le port font une demi-journée facile et mémorable"
+      ]
+    },
+    "bestAreas": {
+      "en": [
+        "Turgutreis: the western resort strip with the big aquapark hotels and famous sunsets, but a longer transfer",
+        "Torba and Golturkbuku: calm, sheltered northern bays with water parks and upscale resorts, great for younger families",
+        "Gumbet: lively and walkable, right next to Bodrum town for families who like life on the doorstep",
+        "Bitez: a laid-back, shallow bay favourite for toddlers, quieter than Gumbet but close to town"
+      ],
+      "fr": [
+        "Turgutreis: la bande de complexes de l'ouest avec les grands hôtels à parc aquatique et les célèbres couchers de soleil, mais un transfert plus long",
+        "Torba et Golturkbuku: baies du nord calmes et abritées, avec parcs aquatiques et complexes haut de gamme, parfaites pour les familles avec de jeunes enfants",
+        "Gumbet: animé et accessible à pied, juste à côté du centre de Bodrum pour les familles qui aiment l'animation à leur porte",
+        "Bitez: baie peu profonde et décontractée, favorite des tout-petits, plus calme que Gumbet mais proche de la ville"
+      ]
+    },
+    "stats": [
+      {
+        "value": "28 to 34C",
+        "label": {
+          "en": "Typical summer day highs",
+          "fr": "Maximums typiques en été"
+        }
+      },
+      {
+        "value": "35 to 45min",
+        "label": {
+          "en": "Airport transfer to most resorts",
+          "fr": "Transfert aéroport vers la plupart des complexes"
+        }
+      },
+      {
+        "value": "3.5 to 4h",
+        "label": {
+          "en": "Flight from northern Europe",
+          "fr": "Vol depuis l'Europe du Nord"
+        }
+      },
+      {
+        "value": "May to Oct",
+        "label": {
+          "en": "Warm family beach season",
+          "fr": "Saison plage en famille au chaud"
+        }
+      }
+    ],
+    "activities": [
+      {
+        "emoji": "🏰",
+        "name": {
+          "en": "Bodrum Castle",
+          "fr": "Château de Bodrum"
+        },
+        "detail": {
+          "en": "The waterfront Castle of St Peter guards the harbour and houses a museum, an easy and atmospheric family visit.",
+          "fr": "Le château Saint-Pierre, en bord de mer, veille sur le port et abrite un musée, une visite familiale facile et pleine d'atmosphère."
+        },
+        "ages": [
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Half day",
+          "fr": "Demi-journée"
+        }
+      },
+      {
+        "emoji": "⛵",
+        "name": {
+          "en": "Gulet boat trip",
+          "fr": "Sortie en gulet"
+        },
+        "detail": {
+          "en": "Traditional wooden gulets cruise the bays with swim stops in clear coves, a highlight for the whole family.",
+          "fr": "Les gulets traditionnels en bois sillonnent les baies avec des arrêts baignade dans des criques limpides, un moment fort pour toute la famille."
+        },
+        "ages": [
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Full day",
+          "fr": "Journée entière"
+        }
+      },
+      {
+        "emoji": "🛝",
+        "name": {
+          "en": "Resort water park day",
+          "fr": "Journée au parc aquatique du complexe"
+        },
+        "detail": {
+          "en": "Several resorts have their own aquaparks with slides and splash zones, free for guests all day.",
+          "fr": "Plusieurs complexes ont leur propre parc aquatique avec toboggans et zones de jeux d'eau, gratuit pour les clients toute la journée."
+        },
+        "ages": [
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "All day",
+          "fr": "Toute la journée"
+        }
+      },
+      {
+        "emoji": "🏖️",
+        "name": {
+          "en": "Calm bay at Bitez or Torba",
+          "fr": "Baie calme à Bitez ou Torba"
+        },
+        "detail": {
+          "en": "Sheltered, shallow bays with gently shelving water are ideal for toddlers and a slower beach day.",
+          "fr": "Des baies abritées et peu profondes, à l'eau en pente douce, sont idéales pour les tout-petits et une journée de plage plus tranquille."
+        },
+        "ages": [
+          "baby",
+          "toddler",
+          "kid"
+        ],
+        "time": {
+          "en": "Morning",
+          "fr": "Matin"
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "q": {
+          "en": "When is the best time to visit Bodrum with kids?",
+          "fr": "Quelle est la meilleure période pour venir à Bodrum avec des enfants?"
+        },
+        "a": {
+          "en": "June and September are the sweet spots: hot, dry and sea-warm without the peak heat of July and August. May and October are warm enough for pools and gentle beach days too.",
+          "fr": "Juin et septembre sont les moments idéaux: chauds, secs et mer chaude, sans la canicule de juillet et août. Mai et octobre sont aussi assez doux pour les piscines et des journées de plage tranquilles."
+        }
+      },
+      {
+        "q": {
+          "en": "Which area is best for toddlers?",
+          "fr": "Quelle zone est la meilleure pour les tout-petits?"
+        },
+        "a": {
+          "en": "Bitez and Torba have the calmest, shallowest bays, and Golturkbuku's sheltered coves are gentle too. These beat the busier, shingly Gumbet for first swims.",
+          "fr": "Bitez et Torba ont les baies les plus calmes et les plus peu profondes, et les criques abritées de Golturkbuku sont douces aussi. Elles valent mieux que la plus animée Gumbet, aux galets, pour les premières baignades."
+        }
+      },
+      {
+        "q": {
+          "en": "Is Bodrum cheaper than western Mediterranean resorts?",
+          "fr": "Bodrum est-il moins cher que les stations de la Méditerranée occidentale?"
+        },
+        "a": {
+          "en": "Usually yes. For an all-inclusive week with a water park and kids club, Bodrum often works out cheaper than comparable resorts in Spain, France or Italy, especially outside peak August.",
+          "fr": "En général oui. Pour une semaine en tout compris avec parc aquatique et club enfants, Bodrum revient souvent moins cher que des complexes comparables en Espagne, en France ou en Italie, surtout hors du pic d'août."
+        }
+      },
+      {
+        "q": {
+          "en": "Do we need a hire car?",
+          "fr": "Faut-il une voiture de location?"
+        },
+        "a": {
+          "en": "Not usually, as resorts are all-inclusive and taxis or transfers cover outings. A car helps if you want to roam between bays, but the winding peninsula roads and hot days make many families skip it.",
+          "fr": "Pas vraiment, les complexes étant en tout compris et les taxis ou transferts couvrant les sorties. Une voiture aide si vous voulez explorer les baies, mais les routes sinueuses de la péninsule et les journées chaudes font que beaucoup de familles s'en passent."
+        }
+      }
+    ],
+    "parentTip": {
+      "en": "Pick your bay before your hotel. Toddlers do best on the calm, shallow water of Bitez, Torba or Golturkbuku, while older kids who want life and watersports are happier around Gumbet. The right bay matters more than the star rating.",
+      "fr": "Choisissez votre baie avant votre hôtel. Les tout-petits sont plus à l'aise dans l'eau calme et peu profonde de Bitez, Torba ou Golturkbuku, tandis que les plus grands qui veulent de l'animation et des sports nautiques sont plus heureux du côté de Gumbet. La bonne baie compte plus que le nombre d'étoiles."
+    },
+    "goodToKnow": {
+      "en": "Milas-Bodrum airport (BJV) sits inland, around 40 minutes from most resorts, though the far-western Turgutreis hotels can be 45 to 55 minutes. Book a transfer in advance, pack for hot, dry summers with strong sun, and note that the peninsula's roads are winding, so factor a little extra time for outings with young children.",
+      "fr": "L'aéroport de Milas-Bodrum (BJV) se trouve dans les terres, à environ 40 minutes de la plupart des complexes, même si les hôtels de Turgutreis, tout à l'ouest, peuvent être à 45 à 55 minutes. Réservez un transfert à l'avance, prévoyez des étés chauds et secs au soleil intense, et gardez à l'esprit que les routes de la péninsule sont sinueuses, comptez donc un peu de temps en plus pour les sorties avec de jeunes enfants."
+    },
+    "emoji": "⛵",
+    "photos": [
+      "coastTown",
+      "poolPalms",
+      "beachSunset"
+    ]
+  }
+}

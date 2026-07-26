@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -55,6 +55,8 @@ const HK = (HALKIDIKI_META ?? {}) as any;
 const PU = (PUGLIA_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const HG = (HURGHADA_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const SO = (SOUSSE_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -1136,6 +1138,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: HG.faqs,
     parentTip: HG.parentTip,
     goodToKnow: HG.goodToKnow,
+  },
+  {
+    key: "sousse",
+    name: { en: "Sousse", fr: "Sousse", it: "Sousse", de: "Sousse", es: "Sousse", pt: "Sousse" },
+    country: { en: "Tunisia", fr: "Tunisie", it: "Tunisia", de: "Tunesien", es: "Túnez", pt: "Tunísia" },
+    inPhrase: { en: "in Sousse", fr: "à Sousse" },
+    slug: {
+      en: "family-hotels-sousse",
+      fr: "hotels-famille-sousse",
+    },
+    geo: { lat: 35.83, lng: 10.6, zoom: 11 },
+    heroKicker: SO.heroKicker ?? {
+      en: "Europe's best-value family all-inclusive, an easy flight away",
+      fr: "Le meilleur rapport qualité-prix du tout inclus en famille, à un vol court",
+    },
+    intro: SO.intro ?? {
+      en: "Sousse and its purpose-built marina village of Port El Kantaoui are where a family all-inclusive week costs a fraction of the Med and still delivers: big free kids clubs, resort water parks, and long sandy Blue Flag beaches, all a two to three hour flight from Europe. Add camel rides, a tourist train and a UNESCO medina to explore, and the week fills itself. These are the hotels that get the family details right.",
+      fr: "Sousse et son village-marina de Port El Kantaoui, c'est là qu'une semaine tout inclus en famille coûte une fraction du reste de la Méditerranée sans rien sacrifier : grands clubs enfants gratuits, parcs aquatiques de resort, et longues plages de sable pavillon bleu, le tout à deux ou trois heures de vol de l'Europe. Ajoutez balades à dos de chameau, petit train touristique et une médina UNESCO à explorer, et la semaine se remplit toute seule. Voici les hôtels qui soignent les détails famille.",
+    },
+    whyKids: SO.whyKids ?? { en: [], fr: [] },
+    bestAreas: SO.bestAreas ?? { en: [], fr: [] },
+    emoji: SO.emoji ?? "\ud83d\udd4c",
+    accent: "d08b3a",
+    hotelKeys: [], // populated below
+    related: ["antalya", "malta", "guide-allinclusive-europe"],
+    photos: SO.photos,
+    stats: SO.stats,
+    activities: SO.activities,
+    faqs: SO.faqs,
+    parentTip: SO.parentTip,
+    goodToKnow: SO.goodToKnow,
   },
 ]);
 

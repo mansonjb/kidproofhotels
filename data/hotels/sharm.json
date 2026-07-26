@@ -1,0 +1,2626 @@
+{
+  "hotels": [
+    {
+      "key": "sharm-rixos-premium-seagate",
+      "destinationKey": "sharm",
+      "name": "Rixos Premium Seagate",
+      "area": {
+        "en": "Nabq Bay",
+        "fr": "Nabq Bay"
+      },
+      "lat": 27.9722,
+      "lng": 34.4136,
+      "zoom": 13,
+      "address": "Rixos Premium Seagate, Nabq Bay, Sharm El Sheikh, Egypt",
+      "priceTier": 4,
+      "priceFrom": 185,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "water-slides",
+        "free-kids-club",
+        "beach-access",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolTropicalMtn",
+        "infinityPoolSea",
+        "resortLoungers"
+      ],
+      "scores": {
+        "rooms": 93,
+        "baby": 84,
+        "pool": 96,
+        "dining": 92,
+        "safety": 88,
+        "convenience": 90,
+        "location": 86,
+        "extras": 95
+      },
+      "roomsSummary": {
+        "en": "Large, contemporary rooms and family rooms, most with a balcony and pool or garden views. Family rooms sleep four to five and connecting-room options make it easy to give teens their own space next door.",
+        "fr": "Grandes chambres contemporaines et chambres familiales, la plupart avec balcon et vue piscine ou jardin. Les chambres familiales accueillent quatre à cinq personnes, et les chambres communicantes permettent facilement de donner aux ados leur propre espace juste à côté."
+      },
+      "intro": {
+        "en": "This is Sharm's headline family address: an ultra all-inclusive with a genuinely huge water park, seven freshwater pools and the well-run Rixy kids club. Everything a child could want is on site and included, from 23 slides to daily shows, so parents can relax knowing the day plans itself. It sits ten minutes from the airport, which is gold with tired little ones after a flight.",
+        "fr": "Voici l'adresse familiale phare de Sharm: un ultra tout compris avec un parc aquatique vraiment immense, sept piscines d'eau douce et le club enfants Rixy bien encadré. Tout ce dont un enfant peut rêver est sur place et inclus, des 23 toboggans aux spectacles quotidiens, si bien que les parents peuvent souffler en sachant que la journée s'organise toute seule. L'hôtel est à dix minutes de l'aéroport, un vrai atout avec des petits fatigués après le vol."
+      },
+      "highlights": {
+        "en": [
+          "Aquaventure water park with 23 slides, a wave pool and a lazy river",
+          "Seven freshwater pools across the grounds",
+          "Rixy kids club with daily activities, included",
+          "Ultra all-inclusive with wide dining choice"
+        ],
+        "fr": [
+          "Parc aquatique Aquaventure avec 23 toboggans, une piscine à vagues et une rivière lente",
+          "Sept piscines d'eau douce réparties dans le domaine",
+          "Club enfants Rixy avec activités quotidiennes, inclus",
+          "Ultra tout compris avec un large choix de restaurants"
+        ]
+      },
+      "pros": {
+        "en": [
+          "One of the best water parks of any Sharm resort",
+          "Ten minutes from the airport",
+          "Generous ultra all-inclusive that genuinely includes almost everything",
+          "Sheltered private beach a short stroll away"
+        ],
+        "fr": [
+          "L'un des meilleurs parcs aquatiques parmi les complexes de Sharm",
+          "À dix minutes de l'aéroport",
+          "Ultra tout compris généreux qui inclut vraiment presque tout",
+          "Plage privée abritée à quelques pas"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Premium prices for Sharm",
+          "Very big and busy, so it can feel bustling in peak weeks",
+          "The reef beach means water shoes for little feet"
+        ],
+        "fr": [
+          "Tarifs élevés pour Sharm",
+          "Très grand et animé, l'ambiance peut être dense en haute saison",
+          "La plage sur récif impose des chaussures d'eau pour les petits pieds"
+        ]
+      },
+      "verdict": {
+        "en": "If you want the biggest all-in-one family package in Sharm and your budget stretches, this is the benchmark. Book a family room and let the water park do the entertaining.",
+        "fr": "Si vous cherchez le package familial tout-en-un le plus complet de Sharm et que le budget suit, c'est la référence. Réservez une chambre familiale et laissez le parc aquatique s'occuper de l'animation."
+      },
+      "parentTip": {
+        "en": "Grab a shaded lounger near the kids splash zone early, then rotate to the quieter garden pools for the after-lunch nap window.",
+        "fr": "Attrapez tôt un transat ombragé près de la zone de jeux d'eau pour enfants, puis basculez vers les piscines de jardin plus calmes pour la sieste de l'après-midi."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "23 slides, wave pool, lazy river",
+            "fr": "23 toboggans, piscine à vagues, rivière lente"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "7 freshwater pools",
+            "fr": "7 piscines d'eau douce"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Rixy club, included",
+            "fr": "Club Rixy, inclus"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport",
+            "fr": "Aéroport"
+          },
+          "value": {
+            "en": "About 10 minutes",
+            "fr": "Environ 10 minutes"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "Water park morning",
+            "fr": "Matinée au parc aquatique"
+          },
+          "detail": {
+            "en": "Start at the splash zone and lazy river for little ones, then the big slides for confident swimmers and teens.",
+            "fr": "Commencez par la zone de jeux d'eau et la rivière lente pour les petits, puis les grands toboggans pour les nageurs confirmés et les ados."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🐠",
+          "name": {
+            "en": "House reef snorkel",
+            "fr": "Snorkeling sur le récif maison"
+          },
+          "detail": {
+            "en": "Slip on reef shoes and a mask to spot Red Sea fish just off the resort jetty with a parent alongside.",
+            "fr": "Enfilez chaussures de récif et masque pour observer les poissons de la mer Rouge juste au bord du ponton, un parent à côté."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🎭",
+          "name": {
+            "en": "Evening show and mini disco",
+            "fr": "Spectacle du soir et mini disco"
+          },
+          "detail": {
+            "en": "The nightly entertainment and kids mini disco give everyone an easy after-dinner wind-down on site.",
+            "fr": "L'animation du soir et la mini disco des enfants offrent à tous une fin de soirée tranquille sur place après le dîner."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soir"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Buffet breakfast",
+            "fr": "Petit-déjeuner buffet"
+          },
+          "note": {
+            "en": "Huge spread with a kids corner, arrive early for a shaded terrace table.",
+            "fr": "Buffet immense avec un coin enfants, arrivez tôt pour une table en terrasse à l'ombre."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Water park",
+            "fr": "Parc aquatique"
+          },
+          "note": {
+            "en": "Splash zone first, then slides as the day warms up.",
+            "fr": "Zone de jeux d'eau d'abord, puis les toboggans quand la journée se réchauffe."
+          }
+        },
+        {
+          "time": "15:00",
+          "title": {
+            "en": "Rixy kids club",
+            "fr": "Club enfants Rixy"
+          },
+          "note": {
+            "en": "Crafts and games while parents take the spa or a quiet pool.",
+            "fr": "Bricolages et jeux pendant que les parents profitent du spa ou d'une piscine calme."
+          }
+        },
+        {
+          "time": "20:30",
+          "title": {
+            "en": "Mini disco",
+            "fr": "Mini disco"
+          },
+          "note": {
+            "en": "The kids burn off the last of the day before bed.",
+            "fr": "Les enfants dépensent leur dernière énergie avant le coucher."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Cots and high chairs on request and shallow pool steps, though the resort scale means some walking with the pram.",
+          "fr": "Lits bébé et chaises hautes sur demande et marches de piscine peu profondes, même si la taille du complexe implique de marcher un peu avec la poussette."
+        },
+        "toddler": {
+          "en": "The dedicated splash zone and shallow pools are ideal, just keep water shoes on near the reef beach.",
+          "fr": "La zone de jeux d'eau dédiée et les piscines peu profondes sont idéales, gardez simplement des chaussures d'eau près de la plage sur récif."
+        },
+        "kid": {
+          "en": "This is the sweet spot: slides, kids club and the pools keep this age going from breakfast to bedtime.",
+          "fr": "C'est l'âge idéal: toboggans, club enfants et piscines les occupent du petit-déjeuner au coucher."
+        },
+        "teen": {
+          "en": "The bigger flumes, wave pool and watersports suit teens well, with connecting rooms for a bit of independence.",
+          "fr": "Les grands toboggans, la piscine à vagues et les sports nautiques conviennent bien aux ados, avec des chambres communicantes pour un peu d'autonomie."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the water park included in the price?",
+            "fr": "Le parc aquatique est-il inclus dans le prix?"
+          },
+          "a": {
+            "en": "Yes, the Aquaventure water park and all seven pools are included in the all-inclusive rate, with no extra charge for the slides.",
+            "fr": "Oui, le parc aquatique Aquaventure et les sept piscines sont inclus dans le forfait tout compris, sans supplément pour les toboggans."
+          }
+        },
+        {
+          "q": {
+            "en": "How far is the airport?",
+            "fr": "À quelle distance se trouve l'aéroport?"
+          },
+          "a": {
+            "en": "Sharm El Sheikh airport is around a ten-minute drive, one of the shortest transfers of any family resort here.",
+            "fr": "L'aéroport de Sharm El Sheikh est à environ dix minutes en voiture, l'un des transferts les plus courts parmi les complexes familiaux d'ici."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the beach sandy or reef?",
+            "fr": "La plage est-elle de sable ou sur récif?"
+          },
+          "a": {
+            "en": "There is soft sand to relax on, but the swimming is over a house reef, so bring reef shoes for children and enjoy the excellent snorkelling.",
+            "fr": "Il y a du sable fin pour se détendre, mais la baignade se fait au-dessus d'un récif maison, prévoyez donc des chaussures de récif pour les enfants et profitez de l'excellent snorkeling."
+          }
+        }
+      ]
+    },
+    {
+      "key": "sharm-savoy",
+      "destinationKey": "sharm",
+      "name": "Savoy Sharm El Sheikh",
+      "area": {
+        "en": "Sharks Bay",
+        "fr": "Sharks Bay"
+      },
+      "lat": 27.9128,
+      "lng": 34.3345,
+      "zoom": 13,
+      "address": "Savoy Sharm El Sheikh, Soho Square, Sharks Bay, Sharm El Sheikh, Egypt",
+      "priceTier": 3,
+      "priceFrom": 135,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "beach-access",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolCabanas",
+        "deckLoungersSea",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 88,
+        "baby": 80,
+        "pool": 82,
+        "dining": 88,
+        "safety": 85,
+        "convenience": 84,
+        "location": 90,
+        "extras": 89
+      },
+      "roomsSummary": {
+        "en": "Smart, spacious rooms and family rooms spread through low-rise garden buildings, many steps from a pool. Family rooms comfortably sleep four, with interconnecting options for larger groups.",
+        "fr": "Chambres et chambres familiales élégantes et spacieuses, réparties dans des bâtiments de jardin de faible hauteur, souvent à quelques pas d'une piscine. Les chambres familiales accueillent confortablement quatre personnes, avec des options communicantes pour les groupes plus nombreux."
+      },
+      "intro": {
+        "en": "The Savoy is the polished pick right on Soho Square, Sharm's buzzy pedestrian promenade of restaurants, shops, an ice rink and a bowling alley. You get a proper five-star resort with a kids club and pools, plus an evening out on your doorstep without a taxi. It is one of the easiest bases for families who want resort calm by day and a little sparkle after dinner.",
+        "fr": "Le Savoy est le choix raffiné directement sur Soho Square, la promenade piétonne animée de Sharm avec restaurants, boutiques, patinoire et bowling. Vous profitez d'un vrai complexe cinq étoiles avec club enfants et piscines, et d'une sortie en soirée à votre porte, sans taxi. C'est l'une des bases les plus faciles pour les familles qui veulent le calme du complexe le jour et un peu d'animation après le dîner."
+      },
+      "highlights": {
+        "en": [
+          "On Soho Square, with an ice rink, bowling and dozens of restaurants",
+          "Five pools, two set aside for children",
+          "Kids club for ages 4 to 12, included",
+          "Long sandy beach with a gentle entry roped area"
+        ],
+        "fr": [
+          "Sur Soho Square, avec patinoire, bowling et des dizaines de restaurants",
+          "Cinq piscines, dont deux réservées aux enfants",
+          "Club enfants de 4 à 12 ans, inclus",
+          "Longue plage de sable avec une zone d'entrée douce délimitée"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Evening entertainment right outside the gate",
+          "Genuinely good five-star food and service",
+          "Relaxed low-rise layout, easy with a pram",
+          "Good sandy beach for the area"
+        ],
+        "fr": [
+          "Animation du soir juste devant l'entrée",
+          "Cuisine et service cinq étoiles réellement soignés",
+          "Configuration basse et détendue, facile avec une poussette",
+          "Belle plage de sable pour le secteur"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No big water park, so slide-mad kids may want more",
+          "Soho Square can be lively late into the evening",
+          "Dining is spread between sister hotels, a short walk"
+        ],
+        "fr": [
+          "Pas de grand parc aquatique, les enfants fans de toboggans en voudront peut-être plus",
+          "Soho Square peut être animée tard le soir",
+          "La restauration est répartie entre les hôtels voisins, à courte distance à pied"
+        ]
+      },
+      "verdict": {
+        "en": "The best choice if you want a smart family resort plus a walkable night out. Not the pick for slide fanatics, but hard to beat for easy evenings.",
+        "fr": "Le meilleur choix si vous voulez un complexe familial soigné et une sortie du soir accessible à pied. Pas l'idéal pour les mordus de toboggans, mais difficile à battre pour des soirées faciles."
+      },
+      "parentTip": {
+        "en": "The ice rink on Soho Square is a fun cool-down on a hot afternoon, and skates go small enough for young children.",
+        "fr": "La patinoire de Soho Square est une pause fraîcheur amusante par après-midi chaud, et les patins existent en très petites tailles pour les jeunes enfants."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏙️",
+          "label": {
+            "en": "Location",
+            "fr": "Emplacement"
+          },
+          "value": {
+            "en": "On Soho Square",
+            "fr": "Sur Soho Square"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "5 pools, 2 for kids",
+            "fr": "5 piscines, 2 pour enfants"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Ages 4 to 12, included",
+            "fr": "4 à 12 ans, inclus"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Sandy, gentle entry area",
+            "fr": "Sable, zone d'entrée douce"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "⛸️",
+          "name": {
+            "en": "Ice rink on Soho Square",
+            "fr": "Patinoire de Soho Square"
+          },
+          "detail": {
+            "en": "A rare indoor cool-down, fun for kids who fancy something different from the pool.",
+            "fr": "Une rare pause fraîcheur en intérieur, amusante pour les enfants qui veulent changer de la piscine."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        },
+        {
+          "emoji": "🐠",
+          "name": {
+            "en": "Beach snorkel",
+            "fr": "Snorkeling à la plage"
+          },
+          "detail": {
+            "en": "Calm roped swimming area for a first mask-and-fins try, reef shoes recommended.",
+            "fr": "Zone de baignade délimitée et calme pour un premier essai masque et palmes, chaussures de récif recommandées."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🍨",
+          "name": {
+            "en": "Evening stroll and dessert",
+            "fr": "Balade du soir et dessert"
+          },
+          "detail": {
+            "en": "Wander the square after dinner for gelato, lights and people watching, all a minute from your room.",
+            "fr": "Flânez sur la place après le dîner pour une glace, les lumières et l'ambiance, à une minute de votre chambre."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soir"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast in the garden",
+            "fr": "Petit-déjeuner au jardin"
+          },
+          "note": {
+            "en": "Relaxed buffet with shaded terrace seating.",
+            "fr": "Buffet détendu avec places en terrasse ombragée."
+          }
+        },
+        {
+          "time": "10:30",
+          "title": {
+            "en": "Pool and beach",
+            "fr": "Piscine et plage"
+          },
+          "note": {
+            "en": "Kids pool in the morning, then a paddle at the roped beach area.",
+            "fr": "Piscine enfants le matin, puis barbotage dans la zone de plage délimitée."
+          }
+        },
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "note": {
+            "en": "Crafts and games while parents enjoy a quiet coffee.",
+            "fr": "Bricolages et jeux pendant que les parents prennent un café au calme."
+          }
+        },
+        {
+          "time": "19:30",
+          "title": {
+            "en": "Dinner then Soho Square",
+            "fr": "Dîner puis Soho Square"
+          },
+          "note": {
+            "en": "Eat in, then walk out for the lights and a treat.",
+            "fr": "Dînez sur place, puis sortez pour les lumières et une gourmandise."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Cots and high chairs on request, and the low-rise garden layout is easy with a pram.",
+          "fr": "Lits bébé et chaises hautes sur demande, et la configuration basse et paysagée est facile avec une poussette."
+        },
+        "toddler": {
+          "en": "Shallow kids pools and the roped beach entry suit toddlers, with plenty of shaded lawn for a break.",
+          "fr": "Les piscines enfants peu profondes et l'entrée de plage délimitée conviennent aux tout-petits, avec beaucoup de pelouse ombragée pour une pause."
+        },
+        "kid": {
+          "en": "Kids club plus the square's rink and bowling keep this age busy morning and evening.",
+          "fr": "Le club enfants et la patinoire et le bowling de la place occupent cet âge matin et soir."
+        },
+        "teen": {
+          "en": "The promenade, watersports and shops give teens a bit of freedom without leaving the area.",
+          "fr": "La promenade, les sports nautiques et les boutiques offrent aux ados un peu de liberté sans quitter le secteur."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is Soho Square noisy at night?",
+            "fr": "Soho Square est-elle bruyante la nuit?"
+          },
+          "a": {
+            "en": "The square is lively into the evening but the resort's garden rooms are set back, so ask for a room away from the promenade if you want quiet.",
+            "fr": "La place est animée jusqu'en soirée, mais les chambres jardin du complexe sont en retrait, demandez donc une chambre éloignée de la promenade si vous voulez le calme."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a water park?",
+            "fr": "Y a-t-il un parc aquatique?"
+          },
+          "a": {
+            "en": "There is no big slide park here. You get five pools with two kids pools, so it suits families who prioritise a smart base and evening entertainment over flumes.",
+            "fr": "Il n'y a pas de grand parc de toboggans ici. Vous avez cinq piscines dont deux pour enfants, cela convient donc aux familles qui privilégient une base soignée et l'animation du soir plutôt que les toboggans."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the kids club included?",
+            "fr": "Le club enfants est-il inclus?"
+          },
+          "a": {
+            "en": "Yes, the kids club for ages 4 to 12 is included and runs a daily programme of activities.",
+            "fr": "Oui, le club enfants de 4 à 12 ans est inclus et propose un programme d'activités quotidien."
+          }
+        }
+      ]
+    },
+    {
+      "key": "sharm-coral-sea-aqua-park",
+      "destinationKey": "sharm",
+      "name": "Coral Sea Holiday Resort and Aqua Park",
+      "area": {
+        "en": "Nabq Bay",
+        "fr": "Nabq Bay"
+      },
+      "lat": 27.9605,
+      "lng": 34.409,
+      "zoom": 13,
+      "address": "Coral Sea Holiday Resort and Aqua Park, Nabq Bay, Sharm El Sheikh, Egypt",
+      "priceTier": 2,
+      "priceFrom": 85,
+      "ages": [
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "water-slides",
+        "free-kids-club",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolOrange",
+        "poolDusk",
+        "swimmer"
+      ],
+      "scores": {
+        "rooms": 78,
+        "baby": 74,
+        "pool": 92,
+        "dining": 76,
+        "safety": 80,
+        "convenience": 82,
+        "location": 79,
+        "extras": 88
+      },
+      "roomsSummary": {
+        "en": "Comfortable, straightforward rooms and family rooms in garden buildings, most with a balcony or terrace. Family rooms sleep up to four, plenty for a slide-focused week.",
+        "fr": "Chambres et chambres familiales confortables et sans chichi dans des bâtiments de jardin, la plupart avec balcon ou terrasse. Les chambres familiales accueillent jusqu'à quatre personnes, largement de quoi passer une semaine axée toboggans."
+      },
+      "intro": {
+        "en": "This is the value water park pick: a big aqua park with a tangle of slides, a lazy river and a children's aqua tower, all for a friendly all-inclusive price. It will not win design awards, but it nails what young families actually want, which is hours of splashing without a second thought about the bill. The heated winter pools are a real bonus for a Christmas or February trip.",
+        "fr": "Voici le choix parc aquatique bon rapport qualité-prix: un grand parc aquatique avec une multitude de toboggans, une rivière lente et une tour aquatique pour enfants, le tout à un prix tout compris raisonnable. Il ne gagnera pas de prix de design, mais il vise juste sur ce que les jeunes familles veulent vraiment, à savoir des heures d'éclaboussures sans penser à la facture. Les piscines chauffées en hiver sont un vrai plus pour un séjour à Noël ou en février."
+      },
+      "highlights": {
+        "en": [
+          "Large aqua park with slides and a lazy river",
+          "Children's pool with an aqua tower",
+          "Two of the four pools heated in winter",
+          "Great all-inclusive value for the facilities"
+        ],
+        "fr": [
+          "Grand parc aquatique avec toboggans et rivière lente",
+          "Piscine enfants avec tour aquatique",
+          "Deux des quatre piscines chauffées en hiver",
+          "Excellent rapport qualité-prix tout compris pour les équipements"
+        ]
+      },
+      "pros": {
+        "en": [
+          "A lot of water park for the money",
+          "Well-supervised slide area",
+          "Heated pools make winter trips work",
+          "Easy, unfussy family atmosphere"
+        ],
+        "fr": [
+          "Beaucoup de parc aquatique pour le prix",
+          "Zone de toboggans bien surveillée",
+          "Piscines chauffées qui rendent les séjours d'hiver agréables",
+          "Ambiance familiale simple et décontractée"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Decor and dining are functional rather than fancy",
+          "Big and busy in peak weeks",
+          "Reef beach needs water shoes, sandy stretches are limited"
+        ],
+        "fr": [
+          "Décor et restauration fonctionnels plutôt que raffinés",
+          "Grand et fréquenté en haute saison",
+          "La plage sur récif nécessite des chaussures d'eau, les zones de sable sont limitées"
+        ]
+      },
+      "verdict": {
+        "en": "If the water park is the whole point of the trip and you want value, this is the smart buy. Manage expectations on polish and let the slides deliver.",
+        "fr": "Si le parc aquatique est tout l'intérêt du voyage et que vous cherchez le bon prix, c'est l'achat malin. Tempérez vos attentes sur le raffinement et laissez les toboggans faire le travail."
+      },
+      "parentTip": {
+        "en": "In winter, confirm which pools are heated when you check in and base yourselves there, the sea can feel cool for little ones in January.",
+        "fr": "En hiver, vérifiez à l'arrivée quelles piscines sont chauffées et installez-vous à côté, la mer peut sembler fraîche pour les petits en janvier."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Aqua park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "Slides and lazy river",
+            "fr": "Toboggans et rivière lente"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "4 pools, 2 heated in winter",
+            "fr": "4 piscines, 2 chauffées en hiver"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Included daily programme",
+            "fr": "Programme quotidien inclus"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Value",
+            "fr": "Rapport qualité-prix"
+          },
+          "value": {
+            "en": "Strong for the facilities",
+            "fr": "Élevé pour les équipements"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "Aqua park session",
+            "fr": "Session parc aquatique"
+          },
+          "detail": {
+            "en": "The aqua tower and lazy river for younger children, the bigger slides for older ones.",
+            "fr": "La tour aquatique et la rivière lente pour les plus jeunes, les grands toboggans pour les plus grands."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "All day",
+            "fr": "Toute la journée"
+          }
+        },
+        {
+          "emoji": "🐠",
+          "name": {
+            "en": "Reef snorkel off the jetty",
+            "fr": "Snorkeling sur le récif au ponton"
+          },
+          "detail": {
+            "en": "Nabq Bay's coral is right off the beach, put reef shoes on and follow the marked entry.",
+            "fr": "Le corail de Nabq Bay est juste au bord de la plage, mettez des chaussures de récif et suivez l'entrée balisée."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🎯",
+          "name": {
+            "en": "Kids club games",
+            "fr": "Jeux du club enfants"
+          },
+          "detail": {
+            "en": "Daytime activities and a mini disco give parents a break between slide runs.",
+            "fr": "Activités en journée et mini disco offrent une pause aux parents entre deux descentes de toboggan."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Buffet breakfast",
+            "fr": "Petit-déjeuner buffet"
+          },
+          "note": {
+            "en": "Fuel up before the aqua park opens.",
+            "fr": "Faites le plein avant l'ouverture du parc aquatique."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Aqua park",
+            "fr": "Parc aquatique"
+          },
+          "note": {
+            "en": "Grab shade near the aqua tower for the toddlers.",
+            "fr": "Prenez de l'ombre près de la tour aquatique pour les tout-petits."
+          }
+        },
+        {
+          "time": "14:00",
+          "title": {
+            "en": "Heated pool downtime",
+            "fr": "Temps calme à la piscine chauffée"
+          },
+          "note": {
+            "en": "Quieter swim and a snack while the slides reset.",
+            "fr": "Baignade plus calme et goûter pendant que les toboggans se vident."
+          }
+        },
+        {
+          "time": "16:30",
+          "title": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "note": {
+            "en": "Games and crafts before dinner.",
+            "fr": "Jeux et bricolages avant le dîner."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Workable with a baby but there is no dedicated baby zone, and the focus is firmly on slides, so it suits toddlers up better.",
+          "fr": "Faisable avec un bébé mais il n'y a pas de zone bébé dédiée, et l'accent est clairement mis sur les toboggans, cela convient donc mieux à partir des tout-petits."
+        },
+        "toddler": {
+          "en": "The aqua tower and lazy river are perfect, just keep a hand close in the busier splash zones.",
+          "fr": "La tour aquatique et la rivière lente sont parfaites, gardez simplement une main à proximité dans les zones de jeux d'eau plus fréquentées."
+        },
+        "kid": {
+          "en": "This is the ideal age here, with slides for every confidence level and a kids club to break up the day.",
+          "fr": "C'est l'âge idéal ici, avec des toboggans pour tous les niveaux et un club enfants pour rythmer la journée."
+        },
+        "teen": {
+          "en": "The bigger flumes and the Nabq reef snorkelling keep teens happy for a slide-led week.",
+          "fr": "Les grands toboggans et le snorkeling sur le récif de Nabq contentent les ados pour une semaine axée toboggans."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Are the pools heated in winter?",
+            "fr": "Les piscines sont-elles chauffées en hiver?"
+          },
+          "a": {
+            "en": "Two of the four pools are heated during the winter months, which makes December to February trips much more comfortable for children.",
+            "fr": "Deux des quatre piscines sont chauffées pendant les mois d'hiver, ce qui rend les séjours de décembre à février bien plus confortables pour les enfants."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the aqua park suitable for small children?",
+            "fr": "Le parc aquatique convient-il aux petits enfants?"
+          },
+          "a": {
+            "en": "Yes, there is a children's aqua tower and a lazy river alongside the bigger slides, so all ages find a level that suits them.",
+            "fr": "Oui, il y a une tour aquatique pour enfants et une rivière lente à côté des grands toboggans, chaque âge trouve donc un niveau adapté."
+          }
+        },
+        {
+          "q": {
+            "en": "How far is the airport?",
+            "fr": "À quelle distance se trouve l'aéroport?"
+          },
+          "a": {
+            "en": "Nabq Bay is about a ten to fifteen minute drive from Sharm El Sheikh airport, a short transfer after the flight.",
+            "fr": "Nabq Bay est à environ dix à quinze minutes en voiture de l'aéroport de Sharm El Sheikh, un transfert court après le vol."
+          }
+        }
+      ]
+    },
+    {
+      "key": "sharm-jaz-mirabel-beach",
+      "destinationKey": "sharm",
+      "name": "Jaz Mirabel Beach",
+      "area": {
+        "en": "Nabq Bay",
+        "fr": "Nabq Bay"
+      },
+      "lat": 27.9508,
+      "lng": 34.4045,
+      "zoom": 13,
+      "address": "Jaz Mirabel Beach, Nabq Bay, Sharm El Sheikh, Egypt",
+      "priceTier": 2,
+      "priceFrom": 90,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "water-slides",
+        "free-kids-club",
+        "beach-access",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolPalms",
+        "whiteResortPool",
+        "resortLoungers"
+      ],
+      "scores": {
+        "rooms": 82,
+        "baby": 82,
+        "pool": 90,
+        "dining": 82,
+        "safety": 84,
+        "convenience": 80,
+        "location": 81,
+        "extras": 86
+      },
+      "roomsSummary": {
+        "en": "Bright rooms and family rooms across landscaped gardens, part of the larger Jaz Mirabel complex. Family rooms sleep four and sit within easy reach of the kids pools.",
+        "fr": "Chambres et chambres familiales lumineuses réparties dans des jardins paysagers, au sein du grand complexe Jaz Mirabel. Les chambres familiales accueillent quatre personnes et se trouvent à proximité immédiate des piscines enfants."
+      },
+      "intro": {
+        "en": "Jaz Mirabel Beach is a longtime family favourite in quieter Nabq Bay, part of a big three-hotel complex sharing a water park, twelve pools and a free kids club. The scale means there is always a pool with space and a slide for every age, while the gardens and playgrounds give little ones room to roam. It is dependable, good value and squarely aimed at families rather than party crowds.",
+        "fr": "Jaz Mirabel Beach est un favori familial de longue date dans le secteur plus calme de Nabq Bay, au sein d'un grand complexe de trois hôtels partageant un parc aquatique, douze piscines et un club enfants gratuit. Sa taille garantit toujours une piscine avec de la place et un toboggan pour chaque âge, tandis que les jardins et les aires de jeux offrent de l'espace aux petits. C'est fiable, bon marché et clairement pensé pour les familles plutôt que pour les fêtards."
+      },
+      "highlights": {
+        "en": [
+          "Shared water park with a dedicated slide pool",
+          "Twelve pools across the complex, two for kids",
+          "Free kids club and supervised activities",
+          "Gardens and playgrounds for younger children"
+        ],
+        "fr": [
+          "Parc aquatique partagé avec une piscine à toboggans dédiée",
+          "Douze piscines dans le complexe, dont deux pour enfants",
+          "Club enfants gratuit et activités encadrées",
+          "Jardins et aires de jeux pour les plus jeunes"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Loads of pool space, rarely crowded",
+          "Free kids club is genuinely included",
+          "Quiet Nabq Bay setting, good for young families",
+          "Solid all-inclusive value"
+        ],
+        "fr": [
+          "Beaucoup d'espace piscine, rarement bondé",
+          "Le club enfants gratuit est vraiment inclus",
+          "Cadre calme de Nabq Bay, idéal pour les jeunes familles",
+          "Bon rapport qualité-prix tout compris"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Sprawling complex means some walking to facilities",
+          "Rooms are comfortable rather than luxurious",
+          "Reef beach, so water shoes are a must"
+        ],
+        "fr": [
+          "Complexe étendu, donc un peu de marche jusqu'aux équipements",
+          "Chambres confortables plutôt que luxueuses",
+          "Plage sur récif, les chaussures d'eau sont indispensables"
+        ]
+      },
+      "verdict": {
+        "en": "A safe, sensible all-rounder for a first family trip to Sharm. You get the water park and free kids club without paying premium money.",
+        "fr": "Un choix polyvalent sûr et raisonnable pour un premier voyage en famille à Sharm. Vous avez le parc aquatique et le club enfants gratuit sans payer le prix fort."
+      },
+      "parentTip": {
+        "en": "The complex is large, so on day one work out the nearest pool and the walk to the kids club before you settle into a routine.",
+        "fr": "Le complexe est vaste, alors le premier jour repérez la piscine la plus proche et le trajet jusqu'au club enfants avant de prendre vos habitudes."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "Shared, with a slide pool",
+            "fr": "Partagé, avec piscine à toboggans"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "12 across the complex",
+            "fr": "12 dans le complexe"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free, supervised",
+            "fr": "Gratuit, encadré"
+          }
+        },
+        {
+          "icon": "🌴",
+          "label": {
+            "en": "Setting",
+            "fr": "Cadre"
+          },
+          "value": {
+            "en": "Quiet Nabq Bay gardens",
+            "fr": "Jardins calmes de Nabq Bay"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "Slide pool morning",
+            "fr": "Matinée à la piscine à toboggans"
+          },
+          "detail": {
+            "en": "The shared water park has slides sized for different ages, an easy first stop each day.",
+            "fr": "Le parc aquatique partagé propose des toboggans adaptés à chaque âge, une première étape facile chaque jour."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🐠",
+          "name": {
+            "en": "Nabq reef snorkel",
+            "fr": "Snorkeling sur le récif de Nabq"
+          },
+          "detail": {
+            "en": "The house reef is a highlight of Nabq Bay, calm and full of fish with reef shoes and a parent close.",
+            "fr": "Le récif maison est un point fort de Nabq Bay, calme et plein de poissons avec des chaussures de récif et un parent à proximité."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🎨",
+          "name": {
+            "en": "Kids club crafts",
+            "fr": "Bricolages au club enfants"
+          },
+          "detail": {
+            "en": "Drop-in crafts, games and a mini disco run by the free kids club team.",
+            "fr": "Bricolages en accès libre, jeux et mini disco animés par l'équipe du club enfants gratuit."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Buffet breakfast",
+            "fr": "Petit-déjeuner buffet"
+          },
+          "note": {
+            "en": "Plenty of choice, a good moment to plan the day's pool.",
+            "fr": "Beaucoup de choix, un bon moment pour choisir la piscine du jour."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Water park",
+            "fr": "Parc aquatique"
+          },
+          "note": {
+            "en": "Slides while it is quiet and cooler.",
+            "fr": "Toboggans tant que c'est calme et plus frais."
+          }
+        },
+        {
+          "time": "13:30",
+          "title": {
+            "en": "Garden pool and lunch",
+            "fr": "Piscine de jardin et déjeuner"
+          },
+          "note": {
+            "en": "Find a shady spot away from the slide crowd.",
+            "fr": "Trouvez un coin ombragé loin de la foule des toboggans."
+          }
+        },
+        {
+          "time": "16:30",
+          "title": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "note": {
+            "en": "Games and a mini disco while parents relax.",
+            "fr": "Jeux et mini disco pendant que les parents se détendent."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Cots and high chairs on request and quiet garden corners for naps, though the size means some pram walking.",
+          "fr": "Lits bébé et chaises hautes sur demande et coins de jardin calmes pour la sieste, même si la taille implique de marcher un peu avec la poussette."
+        },
+        "toddler": {
+          "en": "Shallow kids pools, playgrounds and gentle gardens suit toddlers well.",
+          "fr": "Piscines enfants peu profondes, aires de jeux et jardins doux conviennent bien aux tout-petits."
+        },
+        "kid": {
+          "en": "This is the sweet spot, with the water park and free kids club keeping this age busy all day.",
+          "fr": "C'est l'âge idéal, avec le parc aquatique et le club enfants gratuit qui occupent cet âge toute la journée."
+        },
+        "teen": {
+          "en": "Bigger slides and the excellent Nabq reef snorkelling keep teens engaged.",
+          "fr": "Les grands toboggans et l'excellent snorkeling sur le récif de Nabq gardent les ados occupés."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the kids club really free?",
+            "fr": "Le club enfants est-il vraiment gratuit?"
+          },
+          "a": {
+            "en": "Yes, the kids club and its supervised activities are included at no extra cost, alongside a children's pool and playground.",
+            "fr": "Oui, le club enfants et ses activités encadrées sont inclus sans supplément, avec une piscine enfants et une aire de jeux."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we use facilities across the complex?",
+            "fr": "Peut-on utiliser les équipements de tout le complexe?"
+          },
+          "a": {
+            "en": "Guests can use the shared pools and water park across the Jaz Mirabel complex, which is why there is so much pool space.",
+            "fr": "Les clients peuvent utiliser les piscines partagées et le parc aquatique de l'ensemble du complexe Jaz Mirabel, d'où l'abondance d'espace piscine."
+          }
+        },
+        {
+          "q": {
+            "en": "Is Nabq Bay good for snorkelling?",
+            "fr": "Nabq Bay est-il bon pour le snorkeling?"
+          },
+          "a": {
+            "en": "Yes, Nabq's house reefs are among the best off-the-beach snorkelling in Sharm, though the shore is coral so reef shoes are essential.",
+            "fr": "Oui, les récifs maison de Nabq comptent parmi les meilleurs spots de snorkeling depuis la plage à Sharm, mais le rivage est corallien, les chaussures de récif sont donc indispensables."
+          }
+        }
+      ]
+    },
+    {
+      "key": "sharm-cleopatra-luxury",
+      "destinationKey": "sharm",
+      "name": "Cleopatra Luxury Resort Sharm El Sheikh",
+      "area": {
+        "en": "Nabq Bay",
+        "fr": "Nabq Bay"
+      },
+      "lat": 27.9668,
+      "lng": 34.411,
+      "zoom": 13,
+      "address": "Cleopatra Luxury Resort Sharm El Sheikh, Nabq Bay, Sharm El Sheikh, Egypt",
+      "priceTier": 3,
+      "priceFrom": 115,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "beach-access",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "infinityPoolSea",
+        "poolDuskPalms",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 86,
+        "baby": 85,
+        "pool": 88,
+        "dining": 84,
+        "safety": 86,
+        "convenience": 82,
+        "location": 83,
+        "extras": 82
+      },
+      "roomsSummary": {
+        "en": "Stylish, recently updated rooms and family rooms, several with direct pool access. There are dedicated family sections, so you can be near the kids pool and club without the buzz of the main areas.",
+        "fr": "Chambres et chambres familiales élégantes et récemment rénovées, plusieurs avec accès direct à la piscine. Des sections familiales dédiées permettent d'être près de la piscine enfants et du club sans l'agitation des zones principales."
+      },
+      "intro": {
+        "en": "Cleopatra Luxury is the smarter-looking mid-range option in Nabq Bay, with photogenic infinity pools, a tidy private beach and exclusive family areas that keep little ones close to what they need. The shallow shoreline at Nabq is a genuine plus for young children, and the resort feels calmer and more design-led than the big slide parks nearby. A good middle ground between value and polish.",
+        "fr": "Cleopatra Luxury est l'option milieu de gamme la plus soignée de Nabq Bay, avec des piscines à débordement photogéniques, une plage privée bien tenue et des zones familiales exclusives qui gardent les petits près de l'essentiel. Le rivage peu profond de Nabq est un vrai atout pour les jeunes enfants, et le complexe paraît plus calme et plus travaillé côté design que les grands parcs de toboggans voisins. Un bon compromis entre prix et raffinement."
+      },
+      "highlights": {
+        "en": [
+          "Photogenic infinity pools and a neat private beach",
+          "Exclusive family areas near the kids facilities",
+          "Shallow Nabq shoreline, good for young children",
+          "Kids club with a daily programme, included"
+        ],
+        "fr": [
+          "Piscines à débordement photogéniques et jolie plage privée",
+          "Zones familiales exclusives près des équipements enfants",
+          "Rivage peu profond de Nabq, idéal pour les jeunes enfants",
+          "Club enfants avec programme quotidien, inclus"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Looks and feels a notch above its price",
+          "Calmer, more design-led atmosphere",
+          "Family sections keep young kids close",
+          "Good Nabq reef snorkelling off the beach"
+        ],
+        "fr": [
+          "Un cran au-dessus de son prix côté allure et ambiance",
+          "Atmosphère plus calme et plus soignée",
+          "Sections familiales qui gardent les jeunes enfants à proximité",
+          "Bon snorkeling sur le récif de Nabq depuis la plage"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No large water park, slides are limited",
+          "There is a separate adults-only sister property, so check you booked the family resort",
+          "Reef beach needs water shoes"
+        ],
+        "fr": [
+          "Pas de grand parc aquatique, les toboggans sont limités",
+          "Il existe une propriété voisine réservée aux adultes, vérifiez donc que vous avez réservé le complexe familial",
+          "La plage sur récif nécessite des chaussures d'eau"
+        ]
+      },
+      "verdict": {
+        "en": "The pick for families who want something a bit smarter and calmer than a slide megaresort, with the shallow Nabq shore for toddlers. Choose it for looks and relaxation over flumes.",
+        "fr": "Le choix des familles qui veulent un peu plus de raffinement et de calme qu'un mégacomplexe à toboggans, avec le rivage peu profond de Nabq pour les tout-petits. À privilégier pour l'allure et la détente plutôt que pour les toboggans."
+      },
+      "parentTip": {
+        "en": "Book a room in a family section rather than the main resort, so the kids pool and club are a short walk from your door.",
+        "fr": "Réservez une chambre dans une section familiale plutôt que dans le complexe principal, pour que la piscine enfants et le club soient à quelques pas de votre porte."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Infinity pools plus kids pool",
+            "fr": "Piscines à débordement et piscine enfants"
+          }
+        },
+        {
+          "icon": "👨‍👩‍👧",
+          "label": {
+            "en": "Family areas",
+            "fr": "Zones familiales"
+          },
+          "value": {
+            "en": "Exclusive family sections",
+            "fr": "Sections familiales exclusives"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Shallow Nabq shoreline",
+            "fr": "Rivage peu profond de Nabq"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Included daily programme",
+            "fr": "Programme quotidien inclus"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🐠",
+          "name": {
+            "en": "Shallow-shore snorkel",
+            "fr": "Snorkeling en eau peu profonde"
+          },
+          "detail": {
+            "en": "Nabq's shallow, calm shore is one of the gentler spots for a child's first snorkel, reef shoes on.",
+            "fr": "Le rivage calme et peu profond de Nabq est l'un des endroits les plus doux pour un premier snorkeling d'enfant, chaussures de récif aux pieds."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Infinity pool afternoon",
+            "fr": "Après-midi à la piscine à débordement"
+          },
+          "detail": {
+            "en": "Photogenic pools with shallow ledges for toddlers and loungers close by for parents.",
+            "fr": "Piscines photogéniques avec rebords peu profonds pour les tout-petits et transats à proximité pour les parents."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        },
+        {
+          "emoji": "🎨",
+          "name": {
+            "en": "Kids club time",
+            "fr": "Temps au club enfants"
+          },
+          "detail": {
+            "en": "Supervised crafts and games give parents a calm hour by the pool.",
+            "fr": "Bricolages et jeux encadrés offrent aux parents une heure tranquille au bord de la piscine."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast by the pool",
+            "fr": "Petit-déjeuner au bord de la piscine"
+          },
+          "note": {
+            "en": "The infinity pool looks its best in the morning light.",
+            "fr": "La piscine à débordement est superbe dans la lumière du matin."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Beach and snorkel",
+            "fr": "Plage et snorkeling"
+          },
+          "note": {
+            "en": "Calm shallow water for a first look at the fish.",
+            "fr": "Eau calme et peu profonde pour une première observation des poissons."
+          }
+        },
+        {
+          "time": "14:00",
+          "title": {
+            "en": "Family pool",
+            "fr": "Piscine familiale"
+          },
+          "note": {
+            "en": "Shallow ledges and shade near the family section.",
+            "fr": "Rebords peu profonds et ombre près de la section familiale."
+          }
+        },
+        {
+          "time": "16:30",
+          "title": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "note": {
+            "en": "Crafts while parents enjoy the quieter pool.",
+            "fr": "Bricolages pendant que les parents profitent de la piscine plus calme."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Family sections keep everything close, with cots and high chairs on request and calm shallow water at the shore.",
+          "fr": "Les sections familiales gardent tout à proximité, avec lits bébé et chaises hautes sur demande et une eau calme et peu profonde au rivage."
+        },
+        "toddler": {
+          "en": "The shallow Nabq shore and shallow pool ledges are a real strength for this age.",
+          "fr": "Le rivage peu profond de Nabq et les rebords de piscine peu profonds sont un vrai atout pour cet âge."
+        },
+        "kid": {
+          "en": "Kids club, pools and easy snorkelling keep this age happy, though slide fans may miss a big water park.",
+          "fr": "Club enfants, piscines et snorkeling facile contentent cet âge, même si les fans de toboggans regretteront un grand parc aquatique."
+        },
+        "teen": {
+          "en": "Photogenic pools, the reef and watersports nearby suit teens who are past the slide phase.",
+          "fr": "Piscines photogéniques, récif et sports nautiques à proximité conviennent aux ados qui ont passé l'âge des toboggans."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is this the family resort or the adults-only one?",
+            "fr": "S'agit-il du complexe familial ou de celui réservé aux adultes?"
+          },
+          "a": {
+            "en": "There is a separate adults-only Cleopatra property in Nabq Bay, so make sure you book the main family resort with the kids club and family areas.",
+            "fr": "Il existe une propriété Cleopatra séparée réservée aux adultes à Nabq Bay, assurez-vous donc de réserver le complexe familial principal avec club enfants et zones familiales."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the beach good for toddlers?",
+            "fr": "La plage est-elle adaptée aux tout-petits?"
+          },
+          "a": {
+            "en": "The Nabq shoreline stays shallow near the shore, which suits toddlers, but it is coral rather than open sand so reef shoes are needed.",
+            "fr": "Le rivage de Nabq reste peu profond près du bord, ce qui convient aux tout-petits, mais c'est du corail plutôt que du sable dégagé, des chaussures de récif sont donc nécessaires."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a water park?",
+            "fr": "Y a-t-il un parc aquatique?"
+          },
+          "a": {
+            "en": "This resort focuses on pools and beach rather than a large slide park. For a big water park in the same bay, look at Rixos Premium Seagate or Coral Sea.",
+            "fr": "Ce complexe mise sur les piscines et la plage plutôt que sur un grand parc de toboggans. Pour un grand parc aquatique dans la même baie, regardez le Rixos Premium Seagate ou le Coral Sea."
+          }
+        }
+      ]
+    },
+    {
+      "key": "sharm-sultan-gardens",
+      "destinationKey": "sharm",
+      "name": "Sultan Gardens Resort",
+      "area": {
+        "en": "Sharks Bay",
+        "fr": "Sharks Bay"
+      },
+      "lat": 27.9075,
+      "lng": 34.332,
+      "zoom": 13,
+      "address": "Sultan Gardens Resort, Sharks Bay, Sharm El Sheikh, Egypt",
+      "priceTier": 2,
+      "priceFrom": 80,
+      "ages": [
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolDusk",
+        "poolCabanas",
+        "resortLoungers"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 82,
+        "pool": 84,
+        "dining": 78,
+        "safety": 83,
+        "convenience": 85,
+        "location": 84,
+        "extras": 80
+      },
+      "roomsSummary": {
+        "en": "Comfortable rooms and family rooms in mature tropical gardens, most with a balcony or terrace. Family rooms sleep up to four, with several a short stroll from the kids pool.",
+        "fr": "Chambres et chambres familiales confortables dans des jardins tropicaux matures, la plupart avec balcon ou terrasse. Les chambres familiales accueillent jusqu'à quatre personnes, plusieurs à quelques pas de la piscine enfants."
+      },
+      "intro": {
+        "en": "Sultan Gardens is the reliable value all-inclusive in Sharks Bay, a five-star with lush gardens, several pools and heated children's pools that make winter swims work. It is not flashy, but it is well kept, friendly and close to the airport, and the heated kids pool is exactly the detail young families appreciate on a December trip. A dependable choice when you want easy and affordable.",
+        "fr": "Sultan Gardens est le tout compris fiable et bon marché de Sharks Bay, un cinq étoiles aux jardins luxuriants, avec plusieurs piscines et des piscines enfants chauffées qui rendent les baignades d'hiver agréables. Il n'est pas tape-à-l'oeil, mais bien entretenu, accueillant et proche de l'aéroport, et la piscine enfants chauffée est exactement le détail que les jeunes familles apprécient lors d'un séjour en décembre. Un choix sûr quand on veut du simple et de l'abordable."
+      },
+      "highlights": {
+        "en": [
+          "Heated children's pools for winter trips",
+          "Lush, mature tropical gardens",
+          "Kids club with a daily programme, included",
+          "Close to the airport in Sharks Bay"
+        ],
+        "fr": [
+          "Piscines enfants chauffées pour les séjours d'hiver",
+          "Jardins tropicaux luxuriants et matures",
+          "Club enfants avec programme quotidien, inclus",
+          "Proche de l'aéroport à Sharks Bay"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Strong all-inclusive value",
+          "Heated kids pool is a winter winner",
+          "Green, shady grounds for hot days",
+          "Short airport transfer"
+        ],
+        "fr": [
+          "Bon rapport qualité-prix tout compris",
+          "La piscine enfants chauffée est un atout en hiver",
+          "Domaine vert et ombragé pour les journées chaudes",
+          "Transfert court depuis l'aéroport"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Rooms and dining are traditional rather than modern",
+          "No big water park",
+          "Reef beach with a jetty entry, water shoes needed"
+        ],
+        "fr": [
+          "Chambres et restauration classiques plutôt que modernes",
+          "Pas de grand parc aquatique",
+          "Plage sur récif avec entrée par ponton, chaussures d'eau nécessaires"
+        ]
+      },
+      "verdict": {
+        "en": "A sensible, good-value base in Sharks Bay, especially in winter thanks to the heated kids pool. Choose it for easy affordability over slides and gloss.",
+        "fr": "Une base raisonnable et de bon rapport qualité-prix à Sharks Bay, surtout en hiver grâce à la piscine enfants chauffée. À choisir pour la simplicité abordable plutôt que pour les toboggans et le clinquant."
+      },
+      "parentTip": {
+        "en": "Ask for a garden room near the heated kids pool in winter, it saves a chilly walk back after a swim.",
+        "fr": "En hiver, demandez une chambre jardin près de la piscine enfants chauffée, cela évite un retour frileux après la baignade."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Kids pool",
+            "fr": "Piscine enfants"
+          },
+          "value": {
+            "en": "Heated in winter",
+            "fr": "Chauffée en hiver"
+          }
+        },
+        {
+          "icon": "🌴",
+          "label": {
+            "en": "Grounds",
+            "fr": "Domaine"
+          },
+          "value": {
+            "en": "Lush tropical gardens",
+            "fr": "Jardins tropicaux luxuriants"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Included daily programme",
+            "fr": "Programme quotidien inclus"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport",
+            "fr": "Aéroport"
+          },
+          "value": {
+            "en": "Short Sharks Bay transfer",
+            "fr": "Transfert court vers Sharks Bay"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Heated pool splash",
+            "fr": "Barbotage à la piscine chauffée"
+          },
+          "detail": {
+            "en": "The heated kids pool means warm swims even on a cooler winter day.",
+            "fr": "La piscine enfants chauffée permet des baignades tièdes même par journée d'hiver plus fraîche."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🐠",
+          "name": {
+            "en": "Jetty snorkel",
+            "fr": "Snorkeling au ponton"
+          },
+          "detail": {
+            "en": "The Sharks Bay reef drops off near the jetty, good for older kids with a parent and reef shoes.",
+            "fr": "Le récif de Sharks Bay plonge près du ponton, bien pour les plus grands avec un parent et des chaussures de récif."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🌳",
+          "name": {
+            "en": "Garden explore",
+            "fr": "Exploration des jardins"
+          },
+          "detail": {
+            "en": "The shady grounds are a pleasant, cool wander for little legs in the afternoon heat.",
+            "fr": "Le domaine ombragé offre une balade agréable et fraîche pour les petites jambes dans la chaleur de l'après-midi."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Buffet breakfast",
+            "fr": "Petit-déjeuner buffet"
+          },
+          "note": {
+            "en": "Traditional spread with a kids corner.",
+            "fr": "Buffet classique avec un coin enfants."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Heated kids pool",
+            "fr": "Piscine enfants chauffée"
+          },
+          "note": {
+            "en": "Warm morning swim before the sun peaks.",
+            "fr": "Baignade tiède le matin avant le pic de soleil."
+          }
+        },
+        {
+          "time": "14:00",
+          "title": {
+            "en": "Garden shade time",
+            "fr": "Pause à l'ombre des jardins"
+          },
+          "note": {
+            "en": "Cool down under the palms with a snack.",
+            "fr": "Rafraîchissez-vous sous les palmiers avec un goûter."
+          }
+        },
+        {
+          "time": "16:30",
+          "title": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "note": {
+            "en": "Games and crafts before dinner.",
+            "fr": "Jeux et bricolages avant le dîner."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Workable with a baby thanks to the heated pool and shady gardens, with cots on request, though there is no dedicated baby zone.",
+          "fr": "Faisable avec un bébé grâce à la piscine chauffée et aux jardins ombragés, avec lits bébé sur demande, même s'il n'y a pas de zone bébé dédiée."
+        },
+        "toddler": {
+          "en": "The heated shallow kids pool is a real plus for toddlers, especially in winter.",
+          "fr": "La piscine enfants chauffée et peu profonde est un vrai plus pour les tout-petits, surtout en hiver."
+        },
+        "kid": {
+          "en": "Kids club, pools and the gardens keep this age happy, though there are no big slides.",
+          "fr": "Club enfants, piscines et jardins contentent cet âge, même s'il n'y a pas de grands toboggans."
+        },
+        "teen": {
+          "en": "The Sharks Bay reef and watersports nearby suit teens, though they may want more evening buzz than the resort offers.",
+          "fr": "Le récif de Sharks Bay et les sports nautiques à proximité conviennent aux ados, même s'ils voudront peut-être plus d'animation le soir que le complexe n'en propose."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the kids pool heated in winter?",
+            "fr": "La piscine enfants est-elle chauffée en hiver?"
+          },
+          "a": {
+            "en": "Yes, the resort heats children's pools in the winter months, which makes December to February swims far more comfortable for little ones.",
+            "fr": "Oui, le complexe chauffe les piscines enfants pendant les mois d'hiver, ce qui rend les baignades de décembre à février bien plus confortables pour les petits."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it good value?",
+            "fr": "Est-ce un bon rapport qualité-prix?"
+          },
+          "a": {
+            "en": "Yes, it is one of the more affordable all-inclusive family options in Sharks Bay, trading modern gloss for solid facilities and green grounds.",
+            "fr": "Oui, c'est l'une des options familiales tout compris les plus abordables de Sharks Bay, qui échange le clinquant moderne contre des équipements solides et un domaine verdoyant."
+          }
+        },
+        {
+          "q": {
+            "en": "What is the beach like?",
+            "fr": "À quoi ressemble la plage?"
+          },
+          "a": {
+            "en": "It is a reef beach with a jetty for swimming access and good snorkelling, so pack reef shoes and expect coral rather than a long sandy shore.",
+            "fr": "C'est une plage sur récif avec un ponton pour accéder à la baignade et un bon snorkeling, prévoyez donc des chaussures de récif et attendez-vous à du corail plutôt qu'à une longue étendue de sable."
+          }
+        }
+      ]
+    },
+    {
+      "key": "sharm-sunrise-arabian-beach",
+      "destinationKey": "sharm",
+      "name": "Sunrise Arabian Beach Resort",
+      "area": {
+        "en": "Sharks Bay",
+        "fr": "Sharks Bay"
+      },
+      "lat": 27.902,
+      "lng": 34.329,
+      "zoom": 13,
+      "address": "Sunrise Arabian Beach Resort, Sharks Bay, Sharm El Sheikh, Egypt",
+      "priceTier": 3,
+      "priceFrom": 120,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "beach-access",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolPalms",
+        "deckLoungersSea",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 85,
+        "baby": 83,
+        "pool": 82,
+        "dining": 86,
+        "safety": 85,
+        "convenience": 82,
+        "location": 82,
+        "extras": 83
+      },
+      "roomsSummary": {
+        "en": "Arabian-styled rooms and family rooms terraced through gardens down toward the sea, most with a balcony. Family rooms sleep four, and the layout gives a calm, low-key feel.",
+        "fr": "Chambres et chambres familiales de style arabisant, disposées en terrasses à travers les jardins jusqu'à la mer, la plupart avec balcon. Les chambres familiales accueillent quatre personnes, et l'agencement offre une ambiance calme et discrète."
+      },
+      "intro": {
+        "en": "Sunrise Arabian Beach is the more grown-up, good-food family resort in Sharks Bay, with pretty terraced gardens, a house reef right off the beach and a genuinely strong all-inclusive kitchen. It leans calmer than the big slide parks, which suits families who want quality dining and easy days over non-stop flumes. The reef here is excellent, so it earns its keep with snorkel-loving kids and parents.",
+        "fr": "Sunrise Arabian Beach est le complexe familial plus posé et à la bonne table de Sharks Bay, avec de jolis jardins en terrasses, un récif maison juste au bord de la plage et une cuisine tout compris vraiment solide. Il penche vers le calme plutôt que vers les grands parcs de toboggans, ce qui convient aux familles qui préfèrent une restauration de qualité et des journées faciles aux toboggans non-stop. Le récif ici est excellent, il fait donc mouche auprès des enfants et parents amateurs de snorkeling."
+      },
+      "highlights": {
+        "en": [
+          "Excellent house reef right off the beach",
+          "Strong all-inclusive dining reputation",
+          "Pretty terraced gardens down to the sea",
+          "Kids club with a daily programme, included"
+        ],
+        "fr": [
+          "Excellent récif maison juste au bord de la plage",
+          "Solide réputation de la restauration tout compris",
+          "Jolis jardins en terrasses jusqu'à la mer",
+          "Club enfants avec programme quotidien, inclus"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Some of the best snorkelling from any Sharm beach",
+          "Above-average all-inclusive food",
+          "Calm, well-kept, family-friendly feel",
+          "Good for a mix of ages"
+        ],
+        "fr": [
+          "Un des meilleurs snorkelings depuis une plage de Sharm",
+          "Cuisine tout compris au-dessus de la moyenne",
+          "Ambiance calme, bien tenue et familiale",
+          "Adapté à un mélange d'âges"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Terraced layout means steps and slopes with a pram",
+          "No big water park",
+          "Reef entry, so water shoes and a bit of care with toddlers"
+        ],
+        "fr": [
+          "L'agencement en terrasses implique marches et pentes avec une poussette",
+          "Pas de grand parc aquatique",
+          "Entrée sur récif, donc chaussures d'eau et un peu de vigilance avec les tout-petits"
+        ]
+      },
+      "verdict": {
+        "en": "The pick for families who care about good food and great snorkelling more than slides. Calm, pretty and well run, with the reef as the star.",
+        "fr": "Le choix des familles qui tiennent plus à la bonne cuisine et au super snorkeling qu'aux toboggans. Calme, joli et bien géré, avec le récif en vedette."
+      },
+      "parentTip": {
+        "en": "The terraces are lovely but hilly, so if you are travelling with a baby ask for a room on the lower levels near the beach and main pool.",
+        "fr": "Les terrasses sont charmantes mais vallonnées, alors si vous voyagez avec un bébé, demandez une chambre aux niveaux inférieurs près de la plage et de la piscine principale."
+      },
+      "atAGlance": [
+        {
+          "icon": "🐠",
+          "label": {
+            "en": "House reef",
+            "fr": "Récif maison"
+          },
+          "value": {
+            "en": "Excellent, off the beach",
+            "fr": "Excellent, au bord de la plage"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Dining",
+            "fr": "Restauration"
+          },
+          "value": {
+            "en": "Strong all-inclusive food",
+            "fr": "Cuisine tout compris solide"
+          }
+        },
+        {
+          "icon": "🌴",
+          "label": {
+            "en": "Setting",
+            "fr": "Cadre"
+          },
+          "value": {
+            "en": "Terraced gardens to the sea",
+            "fr": "Jardins en terrasses jusqu'à la mer"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Included daily programme",
+            "fr": "Programme quotidien inclus"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🐠",
+          "name": {
+            "en": "House reef snorkel",
+            "fr": "Snorkeling sur le récif maison"
+          },
+          "detail": {
+            "en": "One of the best beach reefs in Sharm, colourful and busy with fish, reef shoes and a parent alongside.",
+            "fr": "Un des meilleurs récifs de plage de Sharm, coloré et grouillant de poissons, chaussures de récif et un parent à côté."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Pool afternoon",
+            "fr": "Après-midi piscine"
+          },
+          "detail": {
+            "en": "Shallow areas for toddlers and shaded loungers close by for parents.",
+            "fr": "Zones peu profondes pour les tout-petits et transats ombragés à proximité pour les parents."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        },
+        {
+          "emoji": "🎨",
+          "name": {
+            "en": "Kids club activities",
+            "fr": "Activités du club enfants"
+          },
+          "detail": {
+            "en": "Supervised crafts and games give parents time for a longer, quieter dinner.",
+            "fr": "Bricolages et jeux encadrés laissent aux parents le temps d'un dîner plus long et plus calme."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast with a sea view",
+            "fr": "Petit-déjeuner avec vue mer"
+          },
+          "note": {
+            "en": "The terraced setting gives lovely morning views.",
+            "fr": "Le cadre en terrasses offre de jolies vues le matin."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Snorkel the reef",
+            "fr": "Snorkeling sur le récif"
+          },
+          "note": {
+            "en": "Calmer water in the morning, best for younger snorkellers.",
+            "fr": "Eau plus calme le matin, idéale pour les jeunes en snorkeling."
+          }
+        },
+        {
+          "time": "13:30",
+          "title": {
+            "en": "Pool and lunch",
+            "fr": "Piscine et déjeuner"
+          },
+          "note": {
+            "en": "Shady loungers near the shallow pool end.",
+            "fr": "Transats ombragés près de la partie peu profonde de la piscine."
+          }
+        },
+        {
+          "time": "16:30",
+          "title": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "note": {
+            "en": "Games while parents plan a longer dinner.",
+            "fr": "Jeux pendant que les parents prévoient un dîner plus long."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Fine with a baby if you take a lower-level room, with cots on request, though the terraces mean some slopes with a pram.",
+          "fr": "Sans souci avec un bébé si vous prenez une chambre en niveau bas, avec lits bébé sur demande, même si les terrasses impliquent quelques pentes avec la poussette."
+        },
+        "toddler": {
+          "en": "Shallow pool areas suit toddlers, and keep a hand close at the reef entry.",
+          "fr": "Les zones de piscine peu profondes conviennent aux tout-petits, et gardez une main à proximité à l'entrée du récif."
+        },
+        "kid": {
+          "en": "Kids club plus the standout reef make this a great age here, even without a slide park.",
+          "fr": "Le club enfants et le récif remarquable en font un très bon âge ici, même sans parc de toboggans."
+        },
+        "teen": {
+          "en": "The excellent snorkelling and diving on the doorstep are a big draw for teens.",
+          "fr": "L'excellent snorkeling et la plongée juste à côté sont un grand attrait pour les ados."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the snorkelling really that good?",
+            "fr": "Le snorkeling est-il vraiment si bon?"
+          },
+          "a": {
+            "en": "Yes, the house reef here is a genuine highlight, with colourful coral and plenty of fish right off the beach, so bring reef shoes and masks.",
+            "fr": "Oui, le récif maison ici est un vrai point fort, avec du corail coloré et beaucoup de poissons juste au bord de la plage, apportez donc des chaussures de récif et des masques."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it suitable with a pram?",
+            "fr": "Est-ce adapté avec une poussette?"
+          },
+          "a": {
+            "en": "The terraced gardens have steps and slopes, so ask for a lower-level room near the beach and main pool if you have a baby or toddler.",
+            "fr": "Les jardins en terrasses comportent marches et pentes, demandez donc une chambre en niveau bas près de la plage et de la piscine principale si vous avez un bébé ou un tout-petit."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a water park?",
+            "fr": "Y a-t-il un parc aquatique?"
+          },
+          "a": {
+            "en": "No large slide park here, the resort focuses on the reef, pools and good dining. For big slides in Sharm, look at the Nabq Bay water park resorts.",
+            "fr": "Pas de grand parc de toboggans ici, le complexe mise sur le récif, les piscines et la bonne table. Pour de grands toboggans à Sharm, regardez les complexes à parc aquatique de Nabq Bay."
+          }
+        }
+      ]
+    },
+    {
+      "key": "sharm-baron-resort",
+      "destinationKey": "sharm",
+      "name": "Baron Resort Sharm El Sheikh",
+      "area": {
+        "en": "Sharks Bay",
+        "fr": "Sharks Bay"
+      },
+      "lat": 27.943,
+      "lng": 34.386,
+      "zoom": 13,
+      "address": "Baron Resort Sharm El Sheikh, Ras Nasrani, Sharks Bay, Sharm El Sheikh, Egypt",
+      "priceTier": 3,
+      "priceFrom": 125,
+      "ages": [
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolTropicalMtn",
+        "infinityPoolSea",
+        "swimmer"
+      ],
+      "scores": {
+        "rooms": 84,
+        "baby": 79,
+        "pool": 80,
+        "dining": 83,
+        "safety": 85,
+        "convenience": 80,
+        "location": 88,
+        "extras": 84
+      },
+      "roomsSummary": {
+        "en": "Elegant, generously sized rooms and family rooms, many with sea or garden views. Family rooms sleep four comfortably and the calm setting suits a mix of couples and families.",
+        "fr": "Chambres et chambres familiales élégantes et de belle taille, beaucoup avec vue mer ou jardin. Les chambres familiales accueillent confortablement quatre personnes et le cadre paisible convient à un mélange de couples et de familles."
+      },
+      "intro": {
+        "en": "The Baron Resort sits on a quiet stretch at Ras Nasrani with one of Sharm's best house reefs on its doorstep and an on-site dive centre. It is a stylish, calmer resort that works well for families who dive or snorkel and want a more refined atmosphere than a big slide megaresort. Older kids and teens who love the water get the most out of it, with the reef and dive school as the real draw.",
+        "fr": "Le Baron Resort occupe une portion tranquille à Ras Nasrani, avec l'un des meilleurs récifs maison de Sharm juste devant et un centre de plongée sur place. C'est un complexe élégant et plus calme qui convient bien aux familles qui plongent ou font du snorkeling et veulent une atmosphère plus raffinée qu'un mégacomplexe à toboggans. Les grands enfants et les ados qui adorent l'eau en profitent le plus, avec le récif et l'école de plongée comme véritable attrait."
+      },
+      "highlights": {
+        "en": [
+          "One of Sharm's best house reefs on the doorstep",
+          "On-site dive centre for lessons and trips",
+          "Elegant, calmer resort atmosphere",
+          "Kids club with a daily programme, included"
+        ],
+        "fr": [
+          "L'un des meilleurs récifs maison de Sharm juste devant",
+          "Centre de plongée sur place pour cours et sorties",
+          "Atmosphère de complexe élégante et plus calme",
+          "Club enfants avec programme quotidien, inclus"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Superb snorkelling and diving from the beach",
+          "Spacious, elegant rooms",
+          "Quieter, more refined feel",
+          "Great location for water lovers"
+        ],
+        "fr": [
+          "Snorkeling et plongée superbes depuis la plage",
+          "Chambres spacieuses et élégantes",
+          "Ambiance plus calme et plus raffinée",
+          "Excellent emplacement pour les amoureux de l'eau"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No big water park, so slide-focused kids may be bored",
+          "Quieter evenings, less on-site kids entertainment",
+          "Reef beach with a jetty, careful entry with toddlers"
+        ],
+        "fr": [
+          "Pas de grand parc aquatique, les enfants axés toboggans pourraient s'ennuyer",
+          "Soirées plus calmes, moins d'animation enfants sur place",
+          "Plage sur récif avec ponton, entrée prudente avec les tout-petits"
+        ]
+      },
+      "verdict": {
+        "en": "Best for families with older, water-loving kids who want great snorkelling, diving and a calmer, more elegant base. Not the one for a slide-mad toddler week.",
+        "fr": "Idéal pour les familles avec de grands enfants amateurs d'eau qui veulent un super snorkeling, de la plongée et une base plus calme et élégante. Pas le choix pour une semaine de tout-petits fous de toboggans."
+      },
+      "parentTip": {
+        "en": "Book a snorkelling taster with the dive centre early in the week, then let confident kids return to the reef on their own with a parent watching.",
+        "fr": "Réservez une initiation au snorkeling avec le centre de plongée en début de semaine, puis laissez les enfants à l'aise revenir au récif, un parent surveillant."
+      },
+      "atAGlance": [
+        {
+          "icon": "🐠",
+          "label": {
+            "en": "House reef",
+            "fr": "Récif maison"
+          },
+          "value": {
+            "en": "Among Sharm's best",
+            "fr": "Parmi les meilleurs de Sharm"
+          }
+        },
+        {
+          "icon": "🤿",
+          "label": {
+            "en": "Dive centre",
+            "fr": "Centre de plongée"
+          },
+          "value": {
+            "en": "On site",
+            "fr": "Sur place"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Included daily programme",
+            "fr": "Programme quotidien inclus"
+          }
+        },
+        {
+          "icon": "🌅",
+          "label": {
+            "en": "Setting",
+            "fr": "Cadre"
+          },
+          "value": {
+            "en": "Quiet Ras Nasrani",
+            "fr": "Ras Nasrani tranquille"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🤿",
+          "name": {
+            "en": "Snorkel or dive taster",
+            "fr": "Initiation snorkeling ou plongée"
+          },
+          "detail": {
+            "en": "The on-site dive centre runs family-friendly snorkel trips and first dives for older children.",
+            "fr": "Le centre de plongée sur place propose des sorties snorkeling familiales et des baptêmes pour les plus grands."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🐠",
+          "name": {
+            "en": "House reef explore",
+            "fr": "Exploration du récif maison"
+          },
+          "detail": {
+            "en": "Colourful coral and fish right off the jetty, reef shoes and a parent close for younger swimmers.",
+            "fr": "Corail et poissons colorés juste au bord du ponton, chaussures de récif et un parent à proximité pour les jeunes nageurs."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Pool downtime",
+            "fr": "Temps calme à la piscine"
+          },
+          "detail": {
+            "en": "Calm pools and shaded loungers for a relaxed afternoon between reef sessions.",
+            "fr": "Piscines calmes et transats ombragés pour un après-midi détendu entre deux sessions de récif."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast",
+            "fr": "Petit-déjeuner"
+          },
+          "note": {
+            "en": "Relaxed start before the reef warms up.",
+            "fr": "Départ tranquille avant que le récif se réchauffe."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Reef snorkel",
+            "fr": "Snorkeling sur le récif"
+          },
+          "note": {
+            "en": "The house reef is at its calmest and clearest in the morning.",
+            "fr": "Le récif maison est le plus calme et le plus clair le matin."
+          }
+        },
+        {
+          "time": "14:00",
+          "title": {
+            "en": "Pool and rest",
+            "fr": "Piscine et repos"
+          },
+          "note": {
+            "en": "Shady loungers for the hot part of the day.",
+            "fr": "Transats ombragés pour la partie chaude de la journée."
+          }
+        },
+        {
+          "time": "16:30",
+          "title": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "note": {
+            "en": "Games while parents unwind before dinner.",
+            "fr": "Jeux pendant que les parents décompressent avant le dîner."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Doable with a baby thanks to spacious rooms and calm grounds, cots on request, but there is little dedicated baby provision and the beach is reef.",
+          "fr": "Faisable avec un bébé grâce aux chambres spacieuses et au domaine calme, lits bébé sur demande, mais l'offre dédiée bébé est limitée et la plage est sur récif."
+        },
+        "toddler": {
+          "en": "Calm pools suit toddlers, though the reef entry means careful supervision at the beach.",
+          "fr": "Les piscines calmes conviennent aux tout-petits, même si l'entrée sur récif demande une surveillance attentive à la plage."
+        },
+        "kid": {
+          "en": "Water-confident kids love the reef and snorkel trips, though there are no big slides to fall back on.",
+          "fr": "Les enfants à l'aise dans l'eau adorent le récif et les sorties snorkeling, même s'il n'y a pas de grands toboggans en repli."
+        },
+        "teen": {
+          "en": "This is a great pick for teens who dive or snorkel, with the reef and dive centre as the highlight.",
+          "fr": "C'est un excellent choix pour les ados qui plongent ou font du snorkeling, avec le récif et le centre de plongée en point fort."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is there a kids club?",
+            "fr": "Y a-t-il un club enfants?"
+          },
+          "a": {
+            "en": "Yes, there is an included kids club with a daily programme, though the resort is calmer and more reef-focused than the big entertainment megaresorts.",
+            "fr": "Oui, il y a un club enfants inclus avec un programme quotidien, même si le complexe est plus calme et plus axé récif que les grands mégacomplexes d'animation."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it good for diving families?",
+            "fr": "Est-ce adapté aux familles qui plongent?"
+          },
+          "a": {
+            "en": "Very much so. The on-site dive centre and the excellent Ras Nasrani reefs make it one of the best family bases for snorkelling and diving in Sharm.",
+            "fr": "Tout à fait. Le centre de plongée sur place et les excellents récifs de Ras Nasrani en font l'une des meilleures bases familiales pour le snorkeling et la plongée à Sharm."
+          }
+        },
+        {
+          "q": {
+            "en": "Would young slide-loving kids be bored?",
+            "fr": "Les jeunes enfants fans de toboggans s'ennuieraient-ils?"
+          },
+          "a": {
+            "en": "Possibly, as there is no large water park. If slides are the priority, a Nabq Bay water park resort will suit better than the Baron.",
+            "fr": "Peut-être, car il n'y a pas de grand parc aquatique. Si les toboggans sont la priorité, un complexe à parc aquatique de Nabq Bay conviendra mieux que le Baron."
+          }
+        }
+      ]
+    }
+  ],
+  "destinationMeta": {
+    "heroKicker": {
+      "en": "Year-round winter sun, Red Sea reefs and giant water parks",
+      "fr": "Soleil d'hiver toute l'année, récifs de la mer Rouge et grands parcs aquatiques"
+    },
+    "intro": {
+      "en": "Sharm El Sheikh is one of Europe's most dependable winter-sun escapes for families, with warm, dry days right through December to February when much of Europe is grey. The draw is the combination: enormous all-inclusive resorts with free kids clubs and huge water parks, a warm Red Sea full of coral reefs you can snorkel straight off the beach, and flights of only four to five hours. It is outstanding value too, so a smart all-inclusive week here often costs less than a simpler trip closer to home.",
+      "fr": "Sharm El Sheikh est l'une des escapades soleil d'hiver les plus fiables d'Europe pour les familles, avec des journées chaudes et sèches de décembre à février, quand une grande partie de l'Europe est grise. L'attrait tient à la combinaison: d'immenses complexes tout compris avec clubs enfants gratuits et grands parcs aquatiques, une mer Rouge chaude pleine de récifs coralliens que l'on peut explorer en snorkeling directement depuis la plage, et des vols de seulement quatre à cinq heures. Le rapport qualité-prix est en plus remarquable, si bien qu'une belle semaine tout compris ici coûte souvent moins qu'un séjour plus simple près de chez soi."
+    },
+    "whyKids": {
+      "en": [
+        "Reliable winter sun, warm and dry from December through February",
+        "Huge resort water parks and free kids clubs at all-inclusive prices",
+        "Colourful coral reefs you can snorkel straight off the beach, reef shoes on",
+        "Short-ish flights of four to five hours and an airport minutes from the resorts"
+      ],
+      "fr": [
+        "Soleil d'hiver fiable, chaud et sec de décembre à février",
+        "Grands parcs aquatiques de complexe et clubs enfants gratuits à des prix tout compris",
+        "Récifs coralliens colorés à explorer en snorkeling directement depuis la plage, chaussures de récif aux pieds",
+        "Vols assez courts de quatre à cinq heures et un aéroport à quelques minutes des complexes"
+      ]
+    },
+    "bestAreas": {
+      "en": [
+        "Nabq Bay: the big family-resort zone with the largest water parks and excellent house reefs, closest to the airport",
+        "Sharks Bay: smart resorts, good reefs and Soho Square's ice rink, bowling and restaurants for easy evenings",
+        "Naama Bay, Ras Um Sid and Hadaba: more central, walkable areas with a promenade and older-town buzz"
+      ],
+      "fr": [
+        "Nabq Bay: la grande zone de complexes familiaux avec les plus grands parcs aquatiques et d'excellents récifs maison, la plus proche de l'aéroport",
+        "Sharks Bay: complexes soignés, bons récifs et la patinoire, le bowling et les restaurants de Soho Square pour des soirées faciles",
+        "Naama Bay, Ras Um Sid et Hadaba: zones plus centrales et accessibles à pied, avec promenade et ambiance de vieille ville"
+      ]
+    },
+    "stats": [
+      {
+        "value": "20 to 24C",
+        "label": {
+          "en": "Typical winter day highs",
+          "fr": "Maximums typiques en hiver"
+        }
+      },
+      {
+        "value": "4 to 5h",
+        "label": {
+          "en": "Flight from much of Europe",
+          "fr": "Vol depuis une grande partie de l'Europe"
+        }
+      },
+      {
+        "value": "10 min",
+        "label": {
+          "en": "Airport to Nabq Bay resorts",
+          "fr": "Aéroport aux complexes de Nabq Bay"
+        }
+      },
+      {
+        "value": "Year-round",
+        "label": {
+          "en": "Snorkelling off the beach",
+          "fr": "Snorkeling depuis la plage"
+        }
+      }
+    ],
+    "activities": [
+      {
+        "emoji": "🐠",
+        "name": {
+          "en": "Snorkel the house reefs",
+          "fr": "Snorkeling sur les récifs maison"
+        },
+        "detail": {
+          "en": "Sharm's biggest treat is coral reefs alive with fish just off the resort beaches, gentle enough for a child's first mask-and-fins with reef shoes on.",
+          "fr": "Le plus grand plaisir de Sharm, ce sont les récifs coralliens grouillant de poissons juste au bord des plages des complexes, assez doux pour un premier masque et palmes d'enfant, chaussures de récif aux pieds."
+        },
+        "ages": [
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Morning",
+          "fr": "Matin"
+        }
+      },
+      {
+        "emoji": "⛵",
+        "name": {
+          "en": "Glass-bottom boat and Ras Mohammed",
+          "fr": "Bateau à fond de verre et Ras Mohammed"
+        },
+        "detail": {
+          "en": "Boat trips let kids spot fish without getting wet, and family excursions to Ras Mohammed National Park reach some of the Red Sea's best snorkelling.",
+          "fr": "Les sorties en bateau permettent aux enfants de repérer les poissons sans se mouiller, et les excursions familiales au parc national de Ras Mohammed atteignent certains des meilleurs spots de snorkeling de la mer Rouge."
+        },
+        "ages": [
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Morning",
+          "fr": "Matin"
+        }
+      },
+      {
+        "emoji": "🐪",
+        "name": {
+          "en": "Desert camel or quad trip",
+          "fr": "Sortie chameau ou quad dans le désert"
+        },
+        "detail": {
+          "en": "Short desert excursions with camel rides and quad bikes, often finishing with a Bedouin tea and a spectacular sunset.",
+          "fr": "Courtes excursions dans le désert avec balades à dos de chameau et quads, souvent conclues par un thé bédouin et un coucher de soleil spectaculaire."
+        },
+        "ages": [
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Late afternoon",
+          "fr": "Fin d'après-midi"
+        }
+      },
+      {
+        "emoji": "🛝",
+        "name": {
+          "en": "Resort water parks",
+          "fr": "Parcs aquatiques des complexes"
+        },
+        "detail": {
+          "en": "Many Nabq Bay resorts have huge water parks with slides, wave pools and lazy rivers, all included in the all-inclusive price.",
+          "fr": "De nombreux complexes de Nabq Bay disposent de grands parcs aquatiques avec toboggans, piscines à vagues et rivières lentes, le tout inclus dans le forfait tout compris."
+        },
+        "ages": [
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "All day",
+          "fr": "Toute la journée"
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "q": {
+          "en": "When is the best time to visit with kids?",
+          "fr": "Quelle est la meilleure période pour venir avec des enfants?"
+        },
+        "a": {
+          "en": "Sharm is a year-round destination, but its standout season is winter, when it delivers reliable warm sun as Europe turns cold. Spring and autumn are lovely too, while high summer is very hot, so favour pool and shade in the middle of the day.",
+          "fr": "Sharm est une destination praticable toute l'année, mais sa saison phare est l'hiver, quand elle offre un soleil chaud et fiable pendant que l'Europe se refroidit. Le printemps et l'automne sont agréables aussi, tandis que le plein été est très chaud, privilégiez donc piscine et ombre au milieu de la journée."
+        }
+      },
+      {
+        "q": {
+          "en": "Is the sea safe and warm for children?",
+          "fr": "La mer est-elle sûre et chaude pour les enfants?"
+        },
+        "a": {
+          "en": "The Red Sea is warm and calm, ideal for children, but most beaches front a coral reef rather than open sand, so pack reef shoes and choose a resort with a gentle marked entry or a shallow bay for toddlers.",
+          "fr": "La mer Rouge est chaude et calme, idéale pour les enfants, mais la plupart des plages bordent un récif corallien plutôt qu'une étendue de sable, prévoyez donc des chaussures de récif et choisissez un complexe avec une entrée douce balisée ou une baie peu profonde pour les tout-petits."
+        }
+      },
+      {
+        "q": {
+          "en": "Which area is best for a family?",
+          "fr": "Quelle zone est la meilleure pour une famille?"
+        },
+        "a": {
+          "en": "Nabq Bay has the biggest water-park resorts and the shortest airport transfer, while Sharks Bay adds smart hotels and Soho Square's evening entertainment. Both have excellent reefs right off the beach.",
+          "fr": "Nabq Bay possède les plus grands complexes à parc aquatique et le transfert aéroport le plus court, tandis que Sharks Bay ajoute des hôtels soignés et l'animation du soir de Soho Square. Les deux offrent d'excellents récifs juste au bord de la plage."
+        }
+      },
+      {
+        "q": {
+          "en": "How long is the flight and transfer?",
+          "fr": "Combien de temps durent le vol et le transfert?"
+        },
+        "a": {
+          "en": "Flights from much of Europe run around four to five hours, and Sharm El Sheikh airport is only minutes from the Nabq and Sharks Bay resorts, so the transfer is quick with tired children.",
+          "fr": "Les vols depuis une grande partie de l'Europe durent environ quatre à cinq heures, et l'aéroport de Sharm El Sheikh est à quelques minutes seulement des complexes de Nabq et Sharks Bay, le transfert est donc rapide avec des enfants fatigués."
+        }
+      }
+    ],
+    "parentTip": {
+      "en": "Pack reef shoes for the whole family. Almost every Sharm beach fronts coral, and a cheap pair of reef shoes turns a rocky, careful entry into easy paddling and snorkelling for children.",
+      "fr": "Emportez des chaussures de récif pour toute la famille. Presque chaque plage de Sharm borde du corail, et une paire de chaussures de récif bon marché transforme une entrée rocailleuse et délicate en barbotage et snorkeling faciles pour les enfants."
+    },
+    "goodToKnow": {
+      "en": "Sharm El Sheikh airport sits between the main resort bays, so transfers to Nabq Bay and Sharks Bay are typically only ten to twenty minutes. Resorts are almost all all-inclusive, the local currency is the Egyptian pound but euros and cards are widely accepted, and it is worth carrying small notes for tipping, which is customary. Most beaches are coral reef, so reef shoes and a resort with a gentle marked swimming area make life much easier with young children.",
+      "fr": "L'aéroport de Sharm El Sheikh se trouve entre les principales baies touristiques, si bien que les transferts vers Nabq Bay et Sharks Bay ne prennent en général que dix à vingt minutes. Les complexes sont presque tous en tout compris, la monnaie locale est la livre égyptienne mais les euros et les cartes sont largement acceptés, et il est utile d'avoir de petites coupures pour les pourboires, qui sont d'usage. La plupart des plages sont sur récif corallien, des chaussures de récif et un complexe avec une zone de baignade douce et balisée facilitent donc beaucoup la vie avec de jeunes enfants."
+    },
+    "emoji": "🐠",
+    "photos": [
+      "infinityPoolSea",
+      "beachSunset",
+      "poolPalms"
+    ]
+  }
+}
