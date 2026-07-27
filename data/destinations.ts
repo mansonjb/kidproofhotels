@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -75,6 +75,8 @@ const MQ = (MARTINIQUE_META ?? {}) as any;
 const GP = (GUADELOUPE_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const IB = (IBIZA_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const LP = (LA_PALMA_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -1466,6 +1468,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: IB.faqs,
     parentTip: IB.parentTip,
     goodToKnow: IB.goodToKnow,
+  },
+  {
+    key: "la-palma",
+    name: { en: "La Palma", fr: "La Palma", it: "La Palma", de: "La Palma", es: "La Palma", pt: "La Palma" },
+    country: { en: "Spain", fr: "Espagne", it: "Spagna", de: "Spanien", es: "España", pt: "Espanha" },
+    inPhrase: { en: "on La Palma", fr: "à La Palma" },
+    slug: {
+      en: "family-hotels-la-palma",
+      fr: "hotels-famille-la-palma",
+    },
+    geo: { lat: 28.68, lng: -17.85, zoom: 10 },
+    heroKicker: LP.heroKicker ?? {
+      en: "The quiet, green Canary: black-sand beaches and the best night sky",
+      fr: "La Canarie calme et verte : plages de sable noir et le plus beau ciel étoilé",
+    },
+    intro: LP.intro ?? {
+      en: "La Palma is the Canaries at their gentlest and greenest: black-sand family beaches at Los Cancajos and Puerto Naos, a UNESCO Biosphere of laurel forests and a giant volcanic crater to walk, and a Starlight Reserve with some of the world's clearest night skies (kids love the observatories). It is quieter and cooler than Tenerife south, and honest about the 2021 eruption recovery. These are the hotels that get the family details right.",
+      fr: "La Palma, ce sont les Canaries dans leur version la plus douce et la plus verte : plages familiales de sable noir à Los Cancajos et Puerto Naos, une réserve de biosphère UNESCO de forêts de lauriers et un immense cratère volcanique à parcourir, et une réserve Starlight au ciel nocturne parmi les plus purs du monde (les enfants adorent les observatoires). Plus calme et plus fraîche que le sud de Tenerife, et honnête sur la reconstruction après l'éruption de 2021. Voici les hôtels qui soignent les détails famille.",
+    },
+    whyKids: LP.whyKids ?? { en: [], fr: [] },
+    bestAreas: LP.bestAreas ?? { en: [], fr: [] },
+    emoji: LP.emoji ?? "\u2b50",
+    accent: "5a8f5a",
+    hotelKeys: [], // populated below
+    related: ["tenerife", "gran-canaria", "guide-baby-checklist"],
+    photos: LP.photos,
+    stats: LP.stats,
+    activities: LP.activities,
+    faqs: LP.faqs,
+    parentTip: LP.parentTip,
+    goodToKnow: LP.goodToKnow,
   },
 ]);
 
