@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -79,6 +79,8 @@ const IB = (IBIZA_META ?? {}) as any;
 const LP = (LA_PALMA_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const AG = (AGADIR_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const LG = (LAKE_GARDA_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -1532,6 +1534,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: AG.faqs,
     parentTip: AG.parentTip,
     goodToKnow: AG.goodToKnow,
+  },
+  {
+    key: "lake-garda",
+    name: { en: "Lake Garda", fr: "Lac de Garde", it: "Lago di Garda", de: "Gardasee", es: "Lago de Garda", pt: "Lago de Garda" },
+    country: { en: "Italy", fr: "Italie", it: "Italia", de: "Italien", es: "Italia", pt: "Itália" },
+    inPhrase: { en: "on Lake Garda", fr: "au lac de Garde" },
+    slug: {
+      en: "family-hotels-lake-garda",
+      fr: "hotels-famille-lac-de-garde",
+    },
+    geo: { lat: 45.62, lng: 10.66, zoom: 10 },
+    heroKicker: LG.heroKicker ?? {
+      en: "Theme parks, ferries and Italy's friendliest big lake",
+      fr: "Parcs d'attractions, bateaux et le plus accueillant des grands lacs italiens",
+    },
+    intro: LG.intro ?? {
+      en: "Lake Garda is the rare destination that works for a three-year-old and a fifteen-year-old in the same week: Italy's biggest theme park, a water park, a safari park and an aquarium all within half an hour of the southern shore, warm shallow water, walled towns you explore on foot, and a wilder north of cliffs, windsurf schools and bike trails for teens. Ferries turn transport into an outing and Verona is thirty minutes away. These are the hotels that get the family details right.",
+      fr: "Le lac de Garde est cette destination rare qui convient à un enfant de trois ans et à un ado de quinze ans la même semaine : le plus grand parc d'attractions d'Italie, un parc aquatique, un parc safari et un aquarium à moins d'une demi-heure de la rive sud, une eau tiède et peu profonde, des villages fortifiés à parcourir à pied, et un nord plus sauvage fait de falaises, d'écoles de planche à voile et de pistes cyclables pour les ados. Les bateaux transforment le trajet en excursion et Vérone est à trente minutes. Voici les hôtels qui soignent les détails famille.",
+    },
+    whyKids: LG.whyKids ?? { en: [], fr: [] },
+    bestAreas: LG.bestAreas ?? { en: [], fr: [] },
+    emoji: LG.emoji ?? "⛵",
+    accent: "2f7d8e",
+    hotelKeys: [], // populated below
+    related: ["puglia", "sardinia", "guide-waterslide-hotels"],
+    photos: LG.photos,
+    stats: LG.stats,
+    activities: LG.activities,
+    faqs: LG.faqs,
+    parentTip: LG.parentTip,
+    goodToKnow: LG.goodToKnow,
   },
 ]);
 
