@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -77,6 +77,8 @@ const GP = (GUADELOUPE_META ?? {}) as any;
 const IB = (IBIZA_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const LP = (LA_PALMA_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const AG = (AGADIR_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -1499,6 +1501,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: LP.faqs,
     parentTip: LP.parentTip,
     goodToKnow: LP.goodToKnow,
+  },
+  {
+    key: "agadir",
+    name: { en: "Agadir", fr: "Agadir", it: "Agadir", de: "Agadir", es: "Agadir", pt: "Agadir" },
+    country: { en: "Morocco", fr: "Maroc", it: "Marocco", de: "Marokko", es: "Marruecos", pt: "Marrocos" },
+    inPhrase: { en: "in Agadir", fr: "à Agadir" },
+    slug: {
+      en: "family-hotels-agadir",
+      fr: "hotels-famille-agadir",
+    },
+    geo: { lat: 30.42, lng: -9.6, zoom: 11 },
+    heroKicker: AG.heroKicker ?? {
+      en: "10 km of flat golden sand, sun all year, all-inclusive value",
+      fr: "10 km de sable doré et plat, du soleil toute l'année, le tout inclus au bon prix",
+    },
+    intro: AG.intro ?? {
+      en: "Agadir is Morocco's easy family beach city: a 10 km crescent of flat, gently shelving, lifeguarded golden sand, mild sun all year, and big all-inclusive resorts with water parks and free kids clubs at a fraction of the Med. The rebuilt modern town means wide flat promenades (buggy heaven), and camel rides on the beach seal the deal. A 3 hour flight away. These are the hotels that get the family details right.",
+      fr: "Agadir, c'est la ville-plage famille facile du Maroc : un croissant de 10 km de sable doré, plat, à pente douce et surveillé, du soleil doux toute l'année, et de grands resorts tout inclus avec parcs aquatiques et clubs enfants gratuits pour une fraction du prix méditerranéen. La ville moderne reconstruite offre de larges promenades plates (paradis des poussettes), et les balades à dos de chameau sur la plage finissent de convaincre. À 3 heures de vol. Voici les hôtels qui soignent les détails famille.",
+    },
+    whyKids: AG.whyKids ?? { en: [], fr: [] },
+    bestAreas: AG.bestAreas ?? { en: [], fr: [] },
+    emoji: AG.emoji ?? "\ud83c\udf05",
+    accent: "cf7a3a",
+    hotelKeys: [], // populated below
+    related: ["sousse", "hurghada", "guide-allinclusive-europe"],
+    photos: AG.photos,
+    stats: AG.stats,
+    activities: AG.activities,
+    faqs: AG.faqs,
+    parentTip: AG.parentTip,
+    goodToKnow: AG.goodToKnow,
   },
 ]);
 
