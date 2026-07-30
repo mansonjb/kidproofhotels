@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -83,6 +83,8 @@ const AG = (AGADIR_META ?? {}) as any;
 const LG = (LAKE_GARDA_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const RIV = (FRENCH_RIVIERA_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const CB = (COSTA_BRAVA_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -1598,6 +1600,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: RIV.faqs,
     parentTip: RIV.parentTip,
     goodToKnow: RIV.goodToKnow,
+  },
+  {
+    key: "costa-brava",
+    name: { en: "Costa Brava", fr: "Costa Brava", it: "Costa Brava", de: "Costa Brava", es: "Costa Brava", pt: "Costa Brava" },
+    country: { en: "Spain", fr: "Espagne", it: "Spagna", de: "Spanien", es: "España", pt: "Espanha" },
+    inPhrase: { en: "on the Costa Brava", fr: "sur la Costa Brava" },
+    slug: {
+      en: "family-hotels-costa-brava",
+      fr: "hotels-famille-costa-brava",
+    },
+    geo: { lat: 41.83, lng: 3.03, zoom: 9 },
+    heroKicker: CB.heroKicker ?? {
+      en: "Pine-backed coves, big water parks and short flights",
+      fr: "Criques bordées de pins, grands parcs aquatiques et vols courts",
+    },
+    intro: CB.intro ?? {
+      en: "The Costa Brava is the coast a lot of European families learn to swim on. Girona airport puts you an hour from the sand, Barcelona airport not much further, and the drive from France is short enough to do in a day. Lloret de Mar and Santa Susanna deliver the big aquapark resorts with free kids clubs and slides the eight-year-olds will not leave. Head north to Roses and the beach gets wide and shallow, which is exactly what you want with a toddler. Head to Calella de Palafrugell or Tossa de Mar and you swap the water slides for pine-backed coves, snorkelling and boat trips. These are the hotels that get the family details right.",
+      fr: "La Costa Brava, c'est la côte où beaucoup d'enfants européens apprennent à nager. L'aéroport de Gérone vous met à une heure du sable, Barcelone à peine plus loin, et la route depuis la France se fait dans la journée. Lloret de Mar et Santa Susanna alignent les grands resorts avec parc aquatique, club enfants gratuit et toboggans dont les 8 ans ne veulent plus sortir. Plus au nord, à Roses, la plage devient large et peu profonde, exactement ce qu'il faut avec un tout-petit. À Calella de Palafrugell ou Tossa de Mar, on troque les toboggans contre des criques bordées de pins, du snorkeling et des sorties en bateau. Voici les hôtels qui soignent les détails famille.",
+    },
+    whyKids: CB.whyKids ?? { en: [], fr: [] },
+    bestAreas: CB.bestAreas ?? { en: [], fr: [] },
+    emoji: CB.emoji ?? "🛶",
+    accent: "1f7a5c",
+    hotelKeys: [], // populated below
+    related: ["barcelona", "costa-dorada", "guide-waterslide-hotels"],
+    photos: CB.photos,
+    stats: CB.stats,
+    activities: CB.activities,
+    faqs: CB.faqs,
+    parentTip: CB.parentTip,
+    goodToKnow: CB.goodToKnow,
   },
 ]);
 
