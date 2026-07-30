@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -81,6 +81,8 @@ const LP = (LA_PALMA_META ?? {}) as any;
 const AG = (AGADIR_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const LG = (LAKE_GARDA_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const RIV = (FRENCH_RIVIERA_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -1565,6 +1567,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: LG.faqs,
     parentTip: LG.parentTip,
     goodToKnow: LG.goodToKnow,
+  },
+  {
+    key: "french-riviera",
+    name: { en: "French Riviera", fr: "Côte d'Azur", it: "Costa Azzurra", de: "Côte d'Azur", es: "Costa Azul", pt: "Riviera Francesa" },
+    country: { en: "France", fr: "France", it: "Francia", de: "Frankreich", es: "Francia", pt: "França" },
+    inPhrase: { en: "on the French Riviera", fr: "sur la Côte d'Azur" },
+    slug: {
+      en: "family-hotels-french-riviera",
+      fr: "hotels-famille-cote-azur",
+    },
+    geo: { lat: 43.55, lng: 7.07, zoom: 9 },
+    heroKicker: RIV.heroKicker ?? {
+      en: "Trams, sea forts and glamour that still works with a pushchair",
+      fr: "Tramway, forts en bord de mer et glamour compatible poussette",
+    },
+    intro: RIV.intro ?? {
+      en: "The Riviera has a reputation for grown-up glamour, and it does not deserve to keep it all to itself. Nice gives you a tram, a flat seafront cycle path and self-catering apartments a family can actually afford. Antibes and Cannes hand you sandy beaches, private beach clubs and boat trips to the Lerins islands. Push west to Saint-Raphael and you find pine-forest holiday villages with free kids clubs and water slides. Push east to Menton and it goes quiet, warm and lemon-scented. Trains link almost all of it, which means one base and a fortnight of day trips. These are the hotels that get the family details right.",
+      fr: "La Côte d'Azur a une réputation de glamour pour adultes, et elle n'a aucune raison de la garder pour elle. Nice offre un tram, une piste cyclable plate en front de mer et des appartements avec cuisine que l'on peut vraiment se payer en famille. Antibes et Cannes ajoutent des plages de sable, des plages privées et les bateaux vers les îles de Lérins. Vers l'ouest, à Saint-Raphaël, on trouve des villages vacances sous les pins avec clubs enfants gratuits et toboggans. Vers l'est, à Menton, tout devient calme, doux et parfumé au citron. Le train relie presque tout, donc une seule base suffit pour deux semaines d'excursions. Voici les hôtels qui soignent les détails famille.",
+    },
+    whyKids: RIV.whyKids ?? { en: [], fr: [] },
+    bestAreas: RIV.bestAreas ?? { en: [], fr: [] },
+    emoji: RIV.emoji ?? "🛥️",
+    accent: "3d84b8",
+    hotelKeys: [], // populated below
+    related: ["lake-garda", "barcelona", "guide-connecting-rooms"],
+    photos: RIV.photos,
+    stats: RIV.stats,
+    activities: RIV.activities,
+    faqs: RIV.faqs,
+    parentTip: RIV.parentTip,
+    goodToKnow: RIV.goodToKnow,
   },
 ]);
 
