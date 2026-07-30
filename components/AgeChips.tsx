@@ -48,14 +48,15 @@ export function PriceTag({
   dict: Dict;
 }) {
   return (
-    <span className="inline-flex items-baseline gap-1.5 text-sm text-ink">
-      <span className="font-mono tracking-tight text-sun-deep">
+    <span className="inline-flex items-baseline gap-2 text-ink">
+      <span className="font-mono text-sm tracking-tight text-sun-deep">
         {"€".repeat(tier)}
         <span className="text-line-2">{"€".repeat(4 - tier)}</span>
       </span>
       {from && (
-        <span className="text-muted">
-          {dict.common.fromPrice} <b className="text-ink">{from}€</b>{" "}
+        <span className="text-xs text-muted">
+          {dict.common.fromPrice}{" "}
+          <b className="text-lg font-bold text-ink">{from}€</b>{" "}
           {dict.common.perNight}
         </span>
       )}
