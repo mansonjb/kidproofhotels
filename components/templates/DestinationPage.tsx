@@ -22,6 +22,7 @@ import { StatStrip } from "@/components/blocks/StatStrip";
 import { Activities } from "@/components/blocks/Activities";
 import { ComparisonTable } from "@/components/blocks/ComparisonTable";
 import { Faq } from "@/components/blocks/Faq";
+import { cityBreakHref, CITY_BREAK_COPY } from "@/data/city-break-links";
 
 function CheckList({ items, accent }: { items: string[]; accent: string }) {
   return (
@@ -203,6 +204,30 @@ export function DestinationPage({
           />
         </div>
       )}
+
+      {/* Sister-site cross-link: the city-break side of a city destination */}
+      {(() => {
+        const href = cityBreakHref(dest.key, locale);
+        if (!href) return null;
+        const name = dest.name[locale];
+        return (
+          <section className="mt-12 rounded-[var(--radius-xl2)] border border-line bg-cloud p-6 sm:p-7">
+            <h2 className="font-display text-2xl text-ink">
+              {fill(CITY_BREAK_COPY.title[locale], { name })}
+            </h2>
+            <p className="mt-2 max-w-2xl text-sm leading-relaxed text-ink-soft">
+              {fill(CITY_BREAK_COPY.body[locale], { name })}
+            </p>
+            <a
+              href={href}
+              className="mt-3 inline-flex items-center gap-2 text-sm font-semibold text-sky-deep hover:underline"
+            >
+              {fill(CITY_BREAK_COPY.cta[locale], { name })}
+              <span aria-hidden>→</span>
+            </a>
+          </section>
+        );
+      })()}
 
       {dest.faqs && (
         <div className="mt-12">
