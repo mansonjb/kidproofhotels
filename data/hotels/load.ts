@@ -46,6 +46,7 @@ import lakeGarda from "./lake-garda.json";
 import frenchRiviera from "./french-riviera.json";
 import costaBrava from "./costa-brava.json";
 import djerba from "./djerba.json";
+import marrakech from "./marrakech.json";
 
 // Hotels are authored as JSON seeds (researched + drafted) and mapped to the
 // Hotel shape here: geo assembled, a clean unique slug generated per property,
@@ -56,7 +57,7 @@ type SeedFile = {
   destinationMeta?: Record<string, unknown>;
 };
 
-const FILES = [lisbon, algarve, costa, mallorca, tenerife, crete, antalya, sardinia, costaBlanca, rhodes, granCanaria, cyprus, sicily, corfu, fuerteventura, barcelona, lanzarote, menorca, kos, valencia, malta, zakynthos, madeira, costaDorada, seville, halkidiki, puglia, hurghada, sousse, sharm, bodrum, sal, reunion, saintMartin, dubai, martinique, guadeloupe, ibiza, laPalma, agadir, lakeGarda, frenchRiviera, costaBrava, djerba] as unknown as SeedFile[];
+const FILES = [lisbon, algarve, costa, mallorca, tenerife, crete, antalya, sardinia, costaBlanca, rhodes, granCanaria, cyprus, sicily, corfu, fuerteventura, barcelona, lanzarote, menorca, kos, valencia, malta, zakynthos, madeira, costaDorada, seville, halkidiki, puglia, hurghada, sousse, sharm, bodrum, sal, reunion, saintMartin, dubai, martinique, guadeloupe, ibiza, laPalma, agadir, lakeGarda, frenchRiviera, costaBrava, djerba, marrakech] as unknown as SeedFile[];
 
 /** Loosely-typed per-destination meta (used to build newer Destinations). */
 export const MALLORCA_META = (mallorca as unknown as SeedFile).destinationMeta as
@@ -180,6 +181,9 @@ export const COSTA_BRAVA_META = (costaBrava as unknown as SeedFile).destinationM
   | Record<string, unknown>
   | undefined;
 export const DJERBA_META = (djerba as unknown as SeedFile).destinationMeta as
+  | Record<string, unknown>
+  | undefined;
+export const MARRAKECH_META = (marrakech as unknown as SeedFile).destinationMeta as
   | Record<string, unknown>
   | undefined;
 

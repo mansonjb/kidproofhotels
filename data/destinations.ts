@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -87,6 +87,8 @@ const RIV = (FRENCH_RIVIERA_META ?? {}) as any;
 const CB = (COSTA_BRAVA_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const DJ = (DJERBA_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const MK = (MARRAKECH_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -1664,6 +1666,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: DJ.faqs,
     parentTip: DJ.parentTip,
     goodToKnow: DJ.goodToKnow,
+  },
+  {
+    key: "marrakech",
+    name: { en: "Marrakech", fr: "Marrakech", it: "Marrakech", de: "Marrakesch", es: "Marrakech", pt: "Marraquexe" },
+    country: { en: "Morocco", fr: "Maroc", it: "Marocco", de: "Marokko", es: "Marruecos", pt: "Marrocos" },
+    inPhrase: { en: "in Marrakech", fr: "à Marrakech" },
+    slug: {
+      en: "family-hotels-marrakech",
+      fr: "hotels-famille-marrakech",
+    },
+    geo: { lat: 31.63, lng: -8.0, zoom: 12 },
+    heroKicker: MK.heroKicker ?? {
+      en: "The red city: a pool by day, the souks and snake charmers by night",
+      fr: "La ville rouge : la piscine le jour, les souks et les charmeurs de serpents le soir",
+    },
+    intro: MK.intro ?? {
+      en: "Marrakech is a sensory family adventure with a pool to cool off in: the Jemaa el-Fna square with its storytellers and orange-juice stalls, the maze of souks, Jardin Majorelle and caleche rides, then camels in the Palmeraie and the Atlas mountains a short drive away. It gets hot, so base at a resort with a proper pool and visit October to April. A 3 hour flight. These are the hotels that get the family details right.",
+      fr: "Marrakech, c'est une aventure sensorielle en famille avec une piscine pour se rafraîchir : la place Jemaa el-Fna et ses conteurs et marchands de jus d'orange, le labyrinthe des souks, le Jardin Majorelle et les balades en calèche, puis les chameaux de la Palmeraie et les montagnes de l'Atlas à deux pas. Il fait chaud, alors posez-vous dans un resort avec une vraie piscine et venez d'octobre à avril. À 3 heures de vol. Voici les hôtels qui soignent les détails famille.",
+    },
+    whyKids: MK.whyKids ?? { en: [], fr: [] },
+    bestAreas: MK.bestAreas ?? { en: [], fr: [] },
+    emoji: MK.emoji ?? "\ud83d\udd4c",
+    accent: "c96a3a",
+    hotelKeys: [], // populated below
+    related: ["agadir", "sousse", "guide-connecting-rooms"],
+    photos: MK.photos,
+    stats: MK.stats,
+    activities: MK.activities,
+    faqs: MK.faqs,
+    parentTip: MK.parentTip,
+    goodToKnow: MK.goodToKnow,
   },
 ]);
 
