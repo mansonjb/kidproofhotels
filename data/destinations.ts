@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -85,6 +85,8 @@ const LG = (LAKE_GARDA_META ?? {}) as any;
 const RIV = (FRENCH_RIVIERA_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const CB = (COSTA_BRAVA_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const DJ = (DJERBA_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -1631,6 +1633,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: CB.faqs,
     parentTip: CB.parentTip,
     goodToKnow: CB.goodToKnow,
+  },
+  {
+    key: "djerba",
+    name: { en: "Djerba", fr: "Djerba", it: "Djerba", de: "Djerba", es: "Yerba", pt: "Djerba" },
+    country: { en: "Tunisia", fr: "Tunisie", it: "Tunisia", de: "Tunesien", es: "Túnez", pt: "Tunísia" },
+    inPhrase: { en: "in Djerba", fr: "à Djerba" },
+    slug: {
+      en: "family-hotels-djerba",
+      fr: "hotels-famille-djerba",
+    },
+    geo: { lat: 33.8, lng: 10.86, zoom: 10 },
+    heroKicker: DJ.heroKicker ?? {
+      en: "Long shallow sand, all-inclusive value, sun in winter",
+      fr: "Longues plages peu profondes, tout inclus au bon prix, du soleil en hiver",
+    },
+    intro: DJ.intro ?? {
+      en: "Djerba is Tunisia's easy family island: flat and sunny, with long, gently shelving shallow beaches at Sidi Mahrez that toddlers love, and all-inclusive resorts with water parks and free kids clubs at a fraction of the Med. Add flamingos, a crocodile farm, camel rides and the Djerbahood street-art village, and a week fills itself. Under 3 hours from Europe. These are the hotels that get the family details right.",
+      fr: "Djerba, c'est l'île famille facile de la Tunisie : plate et ensoleillée, avec de longues plages peu profondes à pente douce à Sidi Mahrez que les tout-petits adorent, et des resorts tout inclus avec parcs aquatiques et clubs enfants gratuits pour une fraction du prix méditerranéen. Ajoutez les flamants roses, une ferme aux crocodiles, les balades à dos de chameau et le village street-art de Djerbahood, et une semaine se remplit toute seule. À moins de 3 heures de l'Europe. Voici les hôtels qui soignent les détails famille.",
+    },
+    whyKids: DJ.whyKids ?? { en: [], fr: [] },
+    bestAreas: DJ.bestAreas ?? { en: [], fr: [] },
+    emoji: DJ.emoji ?? "\ud83c\udf34",
+    accent: "d19a4a",
+    hotelKeys: [], // populated below
+    related: ["sousse", "agadir", "guide-allinclusive-europe"],
+    photos: DJ.photos,
+    stats: DJ.stats,
+    activities: DJ.activities,
+    faqs: DJ.faqs,
+    parentTip: DJ.parentTip,
+    goodToKnow: DJ.goodToKnow,
   },
 ]);
 
