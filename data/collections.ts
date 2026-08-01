@@ -90,7 +90,7 @@ export const COLLECTIONS: Collection[] = src([
       en: "For late October. Book by August for the best family rooms.",
       fr: "Pour fin octobre. Réservez avant août pour les meilleures chambres familiales.",
     },
-    select: { destinationKeys: ["tenerife", "gran-canaria", "fuerteventura", "lanzarote", "algarve", "costa-del-sol", "crete", "cyprus", "malta", "madeira", "hurghada", "sousse", "sharm", "bodrum", "sal", "saint-martin", "dubai", "martinique", "guadeloupe", "la-palma", "agadir", "djerba", "costa-de-la-luz"], limit: 12 },
+    select: { destinationKeys: ["tenerife", "gran-canaria", "fuerteventura", "lanzarote", "algarve", "costa-del-sol", "crete", "cyprus", "malta", "madeira", "hurghada", "sousse", "sharm", "bodrum", "sal", "saint-martin", "dubai", "martinique", "guadeloupe", "la-palma", "agadir", "djerba", "costa-de-la-luz", "mauritius"], limit: 12 },
     faqs: [
       {
         q: { en: "Where is warm at October half term?", fr: "Où fait-il chaud aux vacances de la Toussaint ?" },

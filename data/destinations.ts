@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -91,6 +91,8 @@ const DJ = (DJERBA_META ?? {}) as any;
 const MK = (MARRAKECH_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const CL = (COSTA_LUZ_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const MU = (MAURITIUS_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -1730,6 +1732,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: CL.faqs,
     parentTip: CL.parentTip,
     goodToKnow: CL.goodToKnow,
+  },
+  {
+    key: "mauritius",
+    name: { en: "Mauritius", fr: "Île Maurice", it: "Mauritius", de: "Mauritius", es: "Isla Mauricio", pt: "Maurícia" },
+    country: { en: "Mauritius", fr: "Maurice", it: "Mauritius", de: "Mauritius", es: "Mauricio", pt: "Maurícia" },
+    inPhrase: { en: "in Mauritius", fr: "à l'île Maurice" },
+    slug: {
+      en: "family-hotels-mauritius",
+      fr: "hotels-famille-ile-maurice",
+    },
+    geo: { lat: -20.28, lng: 57.57, zoom: 9 },
+    heroKicker: MU.heroKicker ?? {
+      en: "Reef-calm lagoons, included kids clubs and almost no jet lag",
+      fr: "Des lagons calmes protégés par le récif, des clubs enfants inclus et presque aucun décalage horaire",
+    },
+    intro: MU.intro ?? {
+      en: "Mauritius is the rare long-haul island that behaves like a family destination: a coral reef rings almost the whole coast, so the lagoon is waist-deep, clear and flat, and kids clubs are included as standard rather than sold as an extra. Add glass-bottom boats, dolphins off Tamarin, the coloured earth at Chamarel and giant tortoises at La Vanille, and there is more to do than pool days. It is 11 hours from Paris but only two to three hours off European time, so nobody arrives jet-lagged. These are the hotels that get the family details right.",
+      fr: "Maurice est cette île long-courrier rare qui se comporte comme une destination famille : un récif corallien ceinture presque toute la côte, donc le lagon reste peu profond, clair et plat, et les clubs enfants sont inclus par défaut plutôt que vendus en supplément. Ajoutez les bateaux à fond de verre, les dauphins au large de Tamarin, la terre des sept couleurs de Chamarel et les tortues géantes de La Vanille : il y a bien plus à faire que des journées piscine. C'est à 11 heures de Paris mais seulement deux à trois heures de décalage, donc personne n'arrive décalé. Voici les hôtels qui soignent les détails famille.",
+    },
+    whyKids: MU.whyKids ?? { en: [], fr: [] },
+    bestAreas: MU.bestAreas ?? { en: [], fr: [] },
+    emoji: MU.emoji ?? "🌴",
+    accent: "1f9e8a",
+    hotelKeys: [], // populated below
+    related: ["reunion", "martinique", "guide-kids-club-free"],
+    photos: MU.photos,
+    stats: MU.stats,
+    activities: MU.activities,
+    faqs: MU.faqs,
+    parentTip: MU.parentTip,
+    goodToKnow: MU.goodToKnow,
   },
 ]);
 
