@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -89,6 +89,8 @@ const CB = (COSTA_BRAVA_META ?? {}) as any;
 const DJ = (DJERBA_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const MK = (MARRAKECH_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const CL = (COSTA_LUZ_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -1697,6 +1699,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: MK.faqs,
     parentTip: MK.parentTip,
     goodToKnow: MK.goodToKnow,
+  },
+  {
+    key: "costa-de-la-luz",
+    name: { en: "Costa de la Luz", fr: "Costa de la Luz", it: "Costa de la Luz", de: "Costa de la Luz", es: "Costa de la Luz", pt: "Costa de la Luz" },
+    country: { en: "Spain", fr: "Espagne", it: "Spagna", de: "Spanien", es: "España", pt: "Espanha" },
+    inPhrase: { en: "on the Costa de la Luz", fr: "sur la Costa de la Luz" },
+    slug: {
+      en: "family-hotels-costa-de-la-luz",
+      fr: "hotels-famille-costa-de-la-luz",
+    },
+    geo: { lat: 36.36, lng: -6.15, zoom: 9 },
+    heroKicker: CL.heroKicker ?? {
+      en: "Huge golden Atlantic beaches and all-inclusive resorts",
+      fr: "D'immenses plages atlantiques dorées et des resorts tout inclus",
+    },
+    intro: CL.intro ?? {
+      en: "The Costa de la Luz is Andalusia's Atlantic coast: enormous wide golden beaches backed by pine dunes, a cluster of big all-inclusive family resorts at Novo Sancti Petri with kids clubs and pools, and whitewashed towns like Conil and Vejer just inland. The Atlantic is breezier and cooler than the Med, so shade and a heated pool help, but the space and the light are unbeatable. Cadiz and Seville are an easy day out. These are the hotels that get the family details right.",
+      fr: "La Costa de la Luz, c'est la côte atlantique de l'Andalousie : d'immenses plages dorées adossées à des dunes de pins, un ensemble de grands resorts tout inclus à Novo Sancti Petri avec clubs enfants et piscines, et des villages blancs comme Conil et Vejer à l'intérieur. L'Atlantique est plus venté et plus frais que la Méditerranée, donc l'ombre et une piscine chauffée aident, mais l'espace et la lumière sont imbattables. Cadix et Séville se font en excursion. Voici les hôtels qui soignent les détails famille.",
+    },
+    whyKids: CL.whyKids ?? { en: [], fr: [] },
+    bestAreas: CL.bestAreas ?? { en: [], fr: [] },
+    emoji: CL.emoji ?? "\ud83c\udfd6\ufe0f",
+    accent: "d9a24a",
+    hotelKeys: [], // populated below
+    related: ["costa-del-sol", "seville", "guide-allinclusive-europe"],
+    photos: CL.photos,
+    stats: CL.stats,
+    activities: CL.activities,
+    faqs: CL.faqs,
+    parentTip: CL.parentTip,
+    goodToKnow: CL.goodToKnow,
   },
 ]);
 
