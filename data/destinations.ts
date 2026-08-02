@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -93,6 +93,8 @@ const MK = (MARRAKECH_META ?? {}) as any;
 const CL = (COSTA_LUZ_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const MU = (MAURITIUS_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const IS = (ISTRIA_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -1763,6 +1765,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: MU.faqs,
     parentTip: MU.parentTip,
     goodToKnow: MU.goodToKnow,
+  },
+  {
+    key: "istria",
+    name: { en: "Istria", fr: "Istrie", it: "Istria", de: "Istrien", es: "Istria", pt: "Ístria" },
+    country: { en: "Croatia", fr: "Croatie", it: "Croazia", de: "Kroatien", es: "Croacia", pt: "Croácia" },
+    inPhrase: { en: "in Istria", fr: "en Istrie" },
+    slug: {
+      en: "family-hotels-istria",
+      fr: "hotels-famille-istrie",
+    },
+    geo: { lat: 45.24, lng: 13.75, zoom: 9 },
+    heroKicker: IS.heroKicker ?? {
+      en: "Pine shaded coves, huge resort waterparks and a two hour flight",
+      fr: "Des criques ombragées de pins, d'immenses parcs aquatiques et deux heures de vol",
+    },
+    intro: IS.intro ?? {
+      en: "Istria is the heart shaped peninsula at the top of Croatia, and it is one of the easiest short haul family coasts in Europe. The resorts are enormous, green and purpose built for families: free kids clubs, big waterparks, family apartments with kitchens, and pine forest that comes right down to the sea so there is real shade at 2pm. The catch is the beaches, which are mostly pebble, rock and concrete platform rather than sand, so water shoes are not optional. In exchange you get clear calm water, safe walkable resorts and Venetian old towns like Rovinj half an hour away. These are the hotels that get the family details right.",
+      fr: "L'Istrie, c'est cette péninsule en forme de coeur au nord de la Croatie, et c'est l'une des côtes famille les plus simples d'Europe en vol court. Les resorts y sont immenses, verts et pensés pour les familles : clubs enfants gratuits, grands parcs aquatiques, appartements familiaux avec cuisine, et une pinède qui descend jusqu'à la mer, donc de la vraie ombre à 14h. Le bémol, ce sont les plages, surtout en galets, en rochers et en plateformes bétonnées plutôt qu'en sable : les chaussons d'eau ne sont pas une option. En échange, une eau claire et calme, des resorts sûrs où tout se fait à pied, et des vieilles villes vénitiennes comme Rovinj à une demi-heure. Voici les hôtels qui soignent les détails famille.",
+    },
+    whyKids: IS.whyKids ?? { en: [], fr: [] },
+    bestAreas: IS.bestAreas ?? { en: [], fr: [] },
+    emoji: IS.emoji ?? "\ud83c\udf32",
+    accent: "2f7d6e",
+    hotelKeys: [], // populated below
+    related: ["lake-garda", "puglia", "guide-kids-club-free"],
+    photos: IS.photos,
+    stats: IS.stats,
+    activities: IS.activities,
+    faqs: IS.faqs,
+    parentTip: IS.parentTip,
+    goodToKnow: IS.goodToKnow,
   },
 ]);
 
