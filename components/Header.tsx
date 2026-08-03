@@ -10,6 +10,7 @@ function navLinks(locale: Locale, dict: Dict) {
     { key: "collections-index", label: dict.collections.nav },
     { key: "amenities-index", label: dict.nav.amenities },
     { key: "destinations-index", label: dict.nav.destinations },
+    { key: "destinations-ranking", label: dict.ranking.nav },
     { key: "guides-index", label: dict.nav.guides },
     { key: "method", label: dict.nav.method },
   ]

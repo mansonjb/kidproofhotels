@@ -82,6 +82,7 @@ export type Dict = {
     from: string;
     seeHotels: string;
     cta: string;
+    nav: string; // short header label
   };
   blocks: {
     atAGlance: string;
@@ -127,6 +128,7 @@ export type Dict = {
     amenityFacts: string; // amenity hub sub-standfirst, {count} {amenity} {top}
     browseInDest: string; // "Browse {name} by amenity"
     sameElsewhere: string; // "The same, in other destinations"
+    amenityByDest: string; // "{name}, by destination" (amenity hub -> combos)
     moreInDest: string; // "More family hotels {dest}"
     howKicker: string;
     howTitle: string;

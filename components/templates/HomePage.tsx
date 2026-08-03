@@ -119,9 +119,14 @@ export function HomePage({ locale, dict }: { locale: Locale; dict: Dict }) {
           title={h.featuredDest}
           sub={h.featuredDestSub}
           action={
-            <Link href={href("destinations-index", locale)} className="text-sm font-semibold text-sky-deep hover:text-ink">
-              {dict.destination.allDestinations} →
-            </Link>
+            <span className="flex flex-wrap items-center gap-x-4 gap-y-1">
+              <Link href={href("destinations-ranking", locale)} className="text-sm font-semibold text-sky-deep hover:text-ink">
+                🏆 {dict.ranking.cta} →
+              </Link>
+              <Link href={href("destinations-index", locale)} className="text-sm font-semibold text-sky-deep hover:text-ink">
+                {dict.destination.allDestinations} →
+              </Link>
+            </span>
           }
         />
         <div className="grid auto-rows-fr gap-4 sm:grid-cols-2 lg:grid-cols-3">

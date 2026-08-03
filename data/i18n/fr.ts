@@ -130,6 +130,7 @@ export const UI_FR: Dict = {
     from: "dès",
     seeHotels: "Voir les hôtels",
     cta: "Voir le classement",
+    nav: "Meilleures destinations",
   },
   blocks: {
     atAGlance: "En un coup d'oeil",
@@ -175,6 +176,7 @@ export const UI_FR: Dict = {
     amenityFacts: "Nous avons noté {count} hôtels famille dans nos destinations sur le critère {amenity}, et {top} est en tête du classement pour le moment.",
     browseInDest: "Explorer {name} par ce qui compte",
     sameElsewhere: "La même chose, dans d'autres destinations",
+    amenityByDest: "{name}, par destination",
     moreInDest: "Plus d'hôtels famille {dest}",
     howKicker: "Comment ça marche",
     howTitle: "D'une supposition fatiguée à une réservation confiante",

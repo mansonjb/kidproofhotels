@@ -1,9 +1,12 @@
 import type { Dict } from "@/data/i18n/ui";
 import type { Locale } from "@/lib/i18n";
 import { fill } from "@/lib/i18n";
+import Link from "next/link";
 import type { Amenity } from "@/data/amenities";
 import { AMENITIES } from "@/data/amenities";
 import { hotelsWithAmenity } from "@/data/hotels";
+import { combosForAmenity } from "@/lib/combos";
+import { DEST_BY_KEY } from "@/data/destinations";
 import { getByKey, pageHref } from "@/lib/registry";
 import { localeHref } from "@/lib/i18n";
 import { scoreOf } from "@/lib/score";
@@ -88,6 +91,38 @@ export function AmenityPage({
           locale={locale}
         />
       </div>
+
+      {/* This amenity across destinations: gives the combo pages a home-linked
+          parent so they stop depending on (not-yet-indexed) destination pages. */}
+      {(() => {
+        const combos = combosForAmenity(amenity.id);
+        if (combos.length === 0) return null;
+        return (
+          <section className="mt-14">
+            <h2 className="mb-4 font-display text-2xl text-ink">
+              {fill(dict.browse.amenityByDest, { name: amenity.label[locale] })}
+            </h2>
+            <ul className="flex flex-wrap gap-2">
+              {combos.map((c) => {
+                const entry = getByKey(c.key);
+                const d = DEST_BY_KEY.get(c.destKey);
+                if (!entry || !d) return null;
+                return (
+                  <li key={c.key}>
+                    <Link
+                      href={pageHref(entry, locale)}
+                      className="inline-flex items-center gap-1.5 rounded-full border border-line bg-cloud px-4 py-2 text-sm font-semibold text-ink transition-colors hover:border-line-2 hover:bg-paper-2"
+                    >
+                      <span aria-hidden>{d.emoji}</span>
+                      {d.name[locale]}
+                    </Link>
+                  </li>
+                );
+              })}
+            </ul>
+          </section>
+        );
+      })()}
 
       <section className="mt-14">
         <h2 className="mb-5 font-display text-2xl text-ink">{dict.browse.amenitiesTitle}</h2>
