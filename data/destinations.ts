@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META, COSTA_ALMERIA_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -95,6 +95,8 @@ const CL = (COSTA_LUZ_META ?? {}) as any;
 const MU = (MAURITIUS_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const IS = (ISTRIA_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const CA = (COSTA_ALMERIA_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -1796,6 +1798,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: IS.faqs,
     parentTip: IS.parentTip,
     goodToKnow: IS.goodToKnow,
+  },
+  {
+    key: "costa-almeria",
+    name: { en: "Costa Almeria", fr: "Costa de Almería", it: "Costa de Almería", de: "Costa de Almería", es: "Costa de Almería", pt: "Costa de Almería" },
+    country: { en: "Spain", fr: "Espagne", it: "Spagna", de: "Spanien", es: "España", pt: "Espanha" },
+    inPhrase: { en: "on the Costa Almeria", fr: "sur la Costa de Almería" },
+    slug: {
+      en: "family-hotels-costa-almeria",
+      fr: "hotels-famille-costa-almeria",
+    },
+    geo: { lat: 36.9, lng: -2.2, zoom: 9 },
+    heroKicker: CA.heroKicker ?? {
+      en: "The driest, sunniest corner of Spain, with resorts that stay open when the rest of the coast closes",
+      fr: "Le coin le plus sec et le plus ensoleillé d'Espagne, avec des resorts ouverts quand le reste de la côte ferme",
+    },
+    intro: CA.intro ?? {
+      en: "Almeria is the quiet end of the Andalusian coast: fewer crowds than the Costa del Sol, more sun than anywhere else in Europe, and family resorts strung between Roquetas de Mar, Mojacar and Vera Playa. For parents that means calm shallow water, big pool complexes with real shade, and prices that stay sane in August. Sand quality varies (some beaches are grey and coarse rather than golden), and you will usually want a car to reach the pueblo, the waterpark and the Cabo de Gata beaches. These are the hotels that handle the family details properly.",
+      fr: "L'Almería, c'est le bout tranquille de la côte andalouse : moins de monde que sur la Costa del Sol, plus de soleil que partout ailleurs en Europe, et des resorts famille égrenés entre Roquetas de Mar, Mojácar et Vera Playa. Pour les parents, cela veut dire une eau calme et peu profonde, de grands complexes de piscines avec de vraies zones d'ombre, et des tarifs qui restent raisonnables en août. La qualité du sable varie (certaines plages sont grises et grossières plutôt que dorées), et une voiture est souvent utile pour rejoindre le village perché, le parc aquatique et les plages du Cabo de Gata. Voici les hôtels qui soignent vraiment les détails famille.",
+    },
+    whyKids: CA.whyKids ?? { en: [], fr: [] },
+    bestAreas: CA.bestAreas ?? { en: [], fr: [] },
+    emoji: CA.emoji ?? "🌵",
+    accent: "d9822b",
+    hotelKeys: [], // populated below
+    related: ["costa-del-sol", "costa-blanca", "guide-allinclusive-europe"],
+    photos: CA.photos,
+    stats: CA.stats,
+    activities: CA.activities,
+    faqs: CA.faqs,
+    parentTip: CA.parentTip,
+    goodToKnow: CA.goodToKnow,
   },
 ]);
 

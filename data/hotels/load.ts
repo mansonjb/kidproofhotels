@@ -50,6 +50,7 @@ import marrakech from "./marrakech.json";
 import costaLuz from "./costa-de-la-luz.json";
 import mauritius from "./mauritius.json";
 import istria from "./istria.json";
+import costaAlmeria from "./costa-almeria.json";
 
 // Hotels are authored as JSON seeds (researched + drafted) and mapped to the
 // Hotel shape here: geo assembled, a clean unique slug generated per property,
@@ -60,7 +61,7 @@ type SeedFile = {
   destinationMeta?: Record<string, unknown>;
 };
 
-const FILES = [lisbon, algarve, costa, mallorca, tenerife, crete, antalya, sardinia, costaBlanca, rhodes, granCanaria, cyprus, sicily, corfu, fuerteventura, barcelona, lanzarote, menorca, kos, valencia, malta, zakynthos, madeira, costaDorada, seville, halkidiki, puglia, hurghada, sousse, sharm, bodrum, sal, reunion, saintMartin, dubai, martinique, guadeloupe, ibiza, laPalma, agadir, lakeGarda, frenchRiviera, costaBrava, djerba, marrakech, costaLuz, mauritius, istria] as unknown as SeedFile[];
+const FILES = [lisbon, algarve, costa, mallorca, tenerife, crete, antalya, sardinia, costaBlanca, rhodes, granCanaria, cyprus, sicily, corfu, fuerteventura, barcelona, lanzarote, menorca, kos, valencia, malta, zakynthos, madeira, costaDorada, seville, halkidiki, puglia, hurghada, sousse, sharm, bodrum, sal, reunion, saintMartin, dubai, martinique, guadeloupe, ibiza, laPalma, agadir, lakeGarda, frenchRiviera, costaBrava, djerba, marrakech, costaLuz, mauritius, istria, costaAlmeria] as unknown as SeedFile[];
 
 /** Loosely-typed per-destination meta (used to build newer Destinations). */
 export const MALLORCA_META = (mallorca as unknown as SeedFile).destinationMeta as
@@ -196,6 +197,9 @@ export const MAURITIUS_META = (mauritius as unknown as SeedFile).destinationMeta
   | Record<string, unknown>
   | undefined;
 export const ISTRIA_META = (istria as unknown as SeedFile).destinationMeta as
+  | Record<string, unknown>
+  | undefined;
+export const COSTA_ALMERIA_META = (costaAlmeria as unknown as SeedFile).destinationMeta as
   | Record<string, unknown>
   | undefined;
 
