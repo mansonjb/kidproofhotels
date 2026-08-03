@@ -50,7 +50,7 @@ export function PhotoGallery({ srcs, alt }: { srcs: string[]; alt: string }) {
   const [lead, ...rest] = srcs;
   if (!lead) return null;
   return (
-    <div className="grid gap-2 sm:grid-cols-[1.6fr_1fr]">
+    <div className="grid gap-2 sm:grid-cols-[2fr_1fr]">
       <div className="relative aspect-[3/2] overflow-hidden rounded-[var(--radius-xl2)]">
         <Image
           src={lead}
@@ -62,9 +62,9 @@ export function PhotoGallery({ srcs, alt }: { srcs: string[]; alt: string }) {
         />
       </div>
       {rest.length > 0 && (
-        <div className="grid gap-2">
+        <div className="grid gap-2 sm:grid-rows-2">
           {rest.slice(0, 2).map((src, i) => (
-            <div key={i} className="relative aspect-[16/9] overflow-hidden rounded-[var(--radius-xl2)] sm:aspect-auto sm:h-[calc(50%-4px)]">
+            <div key={i} className="relative aspect-[3/2] overflow-hidden rounded-[var(--radius-xl2)] sm:aspect-auto sm:min-h-0">
               <Image
                 src={src}
                 alt={`${alt} (${i + 2})`}
