@@ -53,7 +53,7 @@ export const COLLECTIONS: Collection[] = src([
       en: "Best from November to March. Book 2 to 4 months ahead for the best rooms.",
       fr: "Idéal de novembre à mars. Réservez 2 à 4 mois à l'avance pour les meilleures chambres.",
     },
-    select: { destinationKeys: ["tenerife", "gran-canaria", "fuerteventura", "lanzarote", "costa-del-sol", "madeira", "hurghada", "sharm", "sal", "saint-martin", "dubai", "martinique", "guadeloupe", "la-palma", "agadir", "djerba", "costa-almeria"], limit: 12 },
+    select: { destinationKeys: ["tenerife", "gran-canaria", "fuerteventura", "lanzarote", "costa-del-sol", "madeira", "hurghada", "sharm", "sal", "saint-martin", "dubai", "martinique", "guadeloupe", "la-palma", "agadir", "djerba", "costa-almeria", "punta-cana"], limit: 12 },
     faqs: [
       {
         q: { en: "Where is warmest in Europe in winter?", fr: "Où fait-il le plus chaud en Europe en hiver ?" },

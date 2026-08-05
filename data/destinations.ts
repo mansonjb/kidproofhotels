@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META, COSTA_ALMERIA_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META, COSTA_ALMERIA_META, PUNTA_CANA_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -97,6 +97,8 @@ const MU = (MAURITIUS_META ?? {}) as any;
 const IS = (ISTRIA_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const CA = (COSTA_ALMERIA_META ?? {}) as any;
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const PC = (PUNTA_CANA_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -1829,6 +1831,37 @@ export const DESTINATIONS: Destination[] = src([
     faqs: CA.faqs,
     parentTip: CA.parentTip,
     goodToKnow: CA.goodToKnow,
+  },
+  {
+    key: "punta-cana",
+    name: { en: "Punta Cana", fr: "Punta Cana", it: "Punta Cana", de: "Punta Cana", es: "Punta Cana", pt: "Punta Cana" },
+    country: { en: "Dominican Republic", fr: "République dominicaine", it: "Repubblica Dominicana", de: "Dominikanische Republik", es: "República Dominicana", pt: "República Dominicana" },
+    inPhrase: { en: "in Punta Cana", fr: "à Punta Cana" },
+    slug: {
+      en: "family-hotels-punta-cana",
+      fr: "hotels-famille-punta-cana",
+    },
+    geo: { lat: 18.62, lng: -68.42, zoom: 10 },
+    heroKicker: PC.heroKicker ?? {
+      en: "Warm turquoise sea, giant waterparks and all inclusive that actually covers everything",
+      fr: "Une mer turquoise et tiède, d'énormes parcs aquatiques et un all inclusive qui couvre vraiment tout",
+    },
+    intro: PC.intro ?? {
+      en: "Punta Cana is the eastern tip of the Dominican Republic, and it is the place European families go when they want a long stretch of warm shallow Caribbean sea and a resort that handles everything else. The beaches at Bavaro and Uvero Alto are wide, pale and protected by a reef, so the water stays calm and bath warm all year. The resorts are enormous and genuinely built for children: free kids clubs, waterparks inside the grounds, family suites with bunk rooms, and all inclusive that includes the ice creams and the kids menus. The trade-offs are real: it is a long flight from Europe, sargassum seaweed can wash up between April and August, and September and October are hurricane season. These are the hotels that get the family details right.",
+      fr: "Punta Cana, c'est la pointe est de la République dominicaine, et c'est là que vont les familles européennes qui veulent une longue plage de mer caraïbe tiède et peu profonde, avec un resort qui s'occupe du reste. Les plages de Bavaro et d'Uvero Alto sont larges, claires et protégées par un récif : l'eau reste calme et à température de bain toute l'année. Les resorts sont immenses et vraiment pensés pour les enfants : clubs enfants gratuits, parcs aquatiques dans l'enceinte, suites familiales avec coin lits superposés, et un all inclusive qui comprend les glaces et les menus enfants. Les contreparties sont réelles : c'est un long vol depuis l'Europe, les sargasses peuvent s'échouer entre avril et août, et septembre-octobre reste la saison des ouragans. Voici les hôtels qui soignent vraiment les détails famille.",
+    },
+    whyKids: PC.whyKids ?? { en: [], fr: [] },
+    bestAreas: PC.bestAreas ?? { en: [], fr: [] },
+    emoji: PC.emoji ?? "\ud83c\udf34",
+    accent: "1f9bb5",
+    hotelKeys: [], // populated below
+    related: ["saint-martin", "martinique", "guide-waterslide-hotels"],
+    photos: PC.photos,
+    stats: PC.stats,
+    activities: PC.activities,
+    faqs: PC.faqs,
+    parentTip: PC.parentTip,
+    goodToKnow: PC.goodToKnow,
   },
 ]);
 
