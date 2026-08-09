@@ -119,6 +119,9 @@ export type Guide = {
   /** Optional booking-intent MAP anchored on this guide. */
   geo?: Geo;
   geoLabel?: L10n;
+  /** Curated hotel line-up (keys). When set, the guide renders scored picks +
+   *  a comparison table, turning an editorial guide into a money page. */
+  hotelKeys?: string[];
 };
 
 export type PageKind =

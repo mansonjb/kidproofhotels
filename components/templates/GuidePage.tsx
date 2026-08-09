@@ -7,12 +7,15 @@ import { getByKey, pageHref } from "@/lib/registry";
 import { localeHref } from "@/lib/i18n";
 import { imgUrl } from "@/lib/images";
 import { JsonLd } from "@/components/JsonLd";
-import { breadcrumbNode, articleNode } from "@/lib/schema";
+import { breadcrumbNode, articleNode, itemListNode } from "@/lib/schema";
 import { Breadcrumb } from "@/components/Breadcrumb";
 import { AgeChips } from "@/components/AgeChips";
 import { Stay22Map } from "@/components/Stay22Map";
 import { RelatedPages } from "@/components/RelatedPages";
 import { Photo } from "@/components/Photo";
+import { HOTEL_BY_KEY } from "@/data/hotels";
+import { HotelCard } from "@/components/HotelCard";
+import { ComparisonTable } from "@/components/blocks/ComparisonTable";
 
 export function GuidePage({
   guide,
@@ -32,6 +35,9 @@ export function GuidePage({
     locale === "fr" ? "fr-FR" : "en-GB",
     { year: "numeric", month: "long", day: "numeric" },
   );
+  const picks = (guide.hotelKeys ?? [])
+    .map((k) => HOTEL_BY_KEY.get(k))
+    .filter((h): h is NonNullable<typeof h> => Boolean(h));
 
   return (
     <article className="mx-auto max-w-3xl px-5 py-10">
@@ -71,6 +77,26 @@ export function GuidePage({
 
       <div className="longform mt-10">{Body ? <Body /> : null}</div>
 
+      {picks.length > 0 && (
+        <section className="mt-14">
+          <h2 className="font-display text-3xl text-ink">{dict.destination.ourPicks}</h2>
+          <p className="mt-1 text-base text-muted">{dict.destination.picksNote}</p>
+          <div className="mt-6 grid gap-5 sm:grid-cols-2">
+            {picks.map((hotel) => (
+              <HotelCard key={hotel.key} hotel={hotel} locale={locale} dict={dict} />
+            ))}
+          </div>
+          <div className="mt-12">
+            <ComparisonTable
+              hotels={picks}
+              title={guide.title[locale]}
+              dict={dict}
+              locale={locale}
+            />
+          </div>
+        </section>
+      )}
+
       {guide.geo && (
         <Stay22Map
           geo={guide.geo}
@@ -104,6 +130,18 @@ export function GuidePage({
           image: guide.hero ? imgUrl(guide.hero, { w: 1200, h: 630 }) : undefined,
         })}
       />
+
+      {picks.length > 0 && (
+        <JsonLd
+          data={itemListNode({
+            name: guide.title[locale],
+            items: picks.map((hotel) => ({
+              name: hotel.name,
+              path: localeHref(locale, hotel.slug[locale]),
+            })),
+          })}
+        />
+      )}
     </article>
   );
 }
