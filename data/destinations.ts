@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META, COSTA_ALMERIA_META, PUNTA_CANA_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META, COSTA_ALMERIA_META, PUNTA_CANA_META, FRENCH_ALPS_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -99,6 +99,7 @@ const IS = (ISTRIA_META ?? {}) as any;
 const CA = (COSTA_ALMERIA_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const PC = (PUNTA_CANA_META ?? {}) as any;
+const FA = (FRENCH_ALPS_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -1862,6 +1863,34 @@ export const DESTINATIONS: Destination[] = src([
     faqs: PC.faqs,
     parentTip: PC.parentTip,
     goodToKnow: PC.goodToKnow,
+  },
+  {
+    key: "french-alps",
+    name: FA.name ?? { en: "French Alps", fr: "Alpes françaises" },
+    country: FA.country ?? { en: "France", fr: "France" },
+    inPhrase: { en: "in the French Alps", fr: "dans les Alpes françaises" },
+    slug: {
+      en: "family-ski-hotels-french-alps",
+      fr: "hotels-ski-famille-alpes",
+    },
+    geo: FA.geo ?? { lat: 45.6, lng: 6.8, zoom: 8 },
+    heroKicker: FA.heroKicker ?? {
+      en: "All-inclusive family skiing with lessons, childcare and lift passes sorted",
+      fr: "Ski en famille tout compris, cours, garde et forfaits déjà réglés",
+    },
+    intro: FA.intro ?? { en: "", fr: "" },
+    whyKids: FA.whyKids ?? { en: [], fr: [] },
+    bestAreas: FA.bestAreas ?? { en: [], fr: [] },
+    emoji: FA.emoji ?? "⛷️",
+    accent: "185fa5",
+    hotelKeys: [], // populated below
+    related: ["guide-allinclusive-europe", "guide-winter-sun-2027"],
+    photos: FA.photos,
+    stats: FA.stats,
+    activities: FA.activities,
+    faqs: FA.faqs,
+    parentTip: FA.parentTip,
+    goodToKnow: FA.goodToKnow,
   },
 ]);
 

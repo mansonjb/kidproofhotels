@@ -706,6 +706,37 @@ export const GUIDES: Guide[] = src([
       "tenerife-royal-hideaway-corales-suites",
     ],
   },
+  {
+    key: "guide-family-ski-allinclusive-2027",
+    slug: {
+      en: "best-all-inclusive-family-ski-resorts",
+      fr: "meilleurs-resorts-ski-famille-tout-compris",
+    },
+    title: {
+      en: "Best all-inclusive family ski resorts for 2027",
+      fr: "Les meilleurs resorts de ski tout compris en famille pour 2027",
+    },
+    dek: {
+      en: "Ski holidays where lessons, childcare and lift passes are already sorted: six Club Med family villages in the French Alps, scored and mapped for 2027.",
+      fr: "Le ski où les cours, la garde et les forfaits sont déjà réglés : six villages Club Med famille dans les Alpes françaises, notés et cartographiés pour 2027.",
+    },
+    emoji: "⛷️",
+    accent: "185fa5",
+    ages: ["baby", "toddler", "kid", "teen"],
+    updated: "2026-08-11",
+    readMinutes: 8,
+    related: ["french-alps", "guide-allinclusive-europe", "guide-winter-sun-2027"],
+    geo: { lat: 45.6, lng: 6.8, zoom: 8 },
+    geoLabel: { en: "the French Alps", fr: "les Alpes françaises" },
+    hotelKeys: [
+      "french-alps-club-med-arcs-panorama",
+      "french-alps-club-med-peisey-vallandry",
+      "french-alps-club-med-tignes",
+      "french-alps-club-med-la-rosiere",
+      "french-alps-club-med-grand-massif-samoens-morillon",
+      "french-alps-club-med-alpe-dhuez",
+    ],
+  },
 ]);
 
 backfillDeep(GUIDES);

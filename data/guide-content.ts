@@ -70,6 +70,8 @@ import EnOct from "@/content/guides/en/guide-family-oct-half-term-2027.mdx";
 import FrOct from "@/content/guides/fr/guide-family-oct-half-term-2027.mdx";
 import EnNewYear from "@/content/guides/en/guide-family-new-year-sun-2027.mdx";
 import FrNewYear from "@/content/guides/fr/guide-family-new-year-sun-2027.mdx";
+import EnSki from "@/content/guides/en/guide-family-ski-allinclusive-2027.mdx";
+import FrSki from "@/content/guides/fr/guide-family-ski-allinclusive-2027.mdx";
 
 const CONTENT: Record<string, ComponentType> = {
   "en:guide-connecting-rooms": EnConnecting,
@@ -130,6 +132,8 @@ const CONTENT: Record<string, ComponentType> = {
   "fr:guide-family-oct-half-term-2027": FrOct,
   "en:guide-family-new-year-sun-2027": EnNewYear,
   "fr:guide-family-new-year-sun-2027": FrNewYear,
+  "en:guide-family-ski-allinclusive-2027": EnSki,
+  "fr:guide-family-ski-allinclusive-2027": FrSki,
 };
 
 export function guideBody(

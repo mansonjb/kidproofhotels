@@ -1,0 +1,1153 @@
+{
+  "hotels": [
+    {
+      "key": "french-alps-club-med-arcs-panorama",
+      "destinationKey": "french-alps",
+      "name": "Club Med Arcs Panorama",
+      "area": {
+        "en": "Les Arcs",
+        "fr": "Les Arcs"
+      },
+      "lat": 45.5962801,
+      "lng": 6.8009425,
+      "zoom": 12,
+      "address": "520 Route des Arcs, 73700 Bourg-Saint-Maurice, France",
+      "priceTier": 4,
+      "priceFrom": 125,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "scores": {
+        "rooms": 88,
+        "baby": 83,
+        "pool": 86,
+        "dining": 86,
+        "safety": 85,
+        "convenience": 91,
+        "location": 88,
+        "extras": 90
+      },
+      "roomsSummary": {
+        "en": "This flagship is the newest of Club Med's Alpine villages, with wide family rooms and connecting configurations that sleep four or five, most facing the mountains. Cots, bottle warmers and space for a pram come as standard, and the design keeps ski gear, boots and buggies out of the sleeping area.",
+        "fr": "Ce village phare est le plus récent des villages alpins du Club Med : chambres familiales spacieuses et configurations communicantes pour quatre ou cinq personnes, la plupart face à la montagne. Lit bébé, chauffe-biberon et place pour la poussette sont prévus, et l'agencement garde le matériel de ski, les chaussures et la poussette hors de l'espace nuit."
+      },
+      "intro": {
+        "en": "Arcs Panorama is Club Med's polished do-it-all ski village, dropped straight onto the snow at Arc 1600 with the lifts a few strides from the door. The whole week is bundled: lift passes, kids' group ski school with ESF, all meals with wine, and the Mini Club that keeps 4 to 10s busy while parents ski. After the last run there is an indoor pool and spa to thaw everyone out.",
+        "fr": "Arcs Panorama, c'est le village de ski tout compris du Club Med, posé directement sur la neige à Arc 1600, remontées à quelques pas de la porte. La semaine entière est incluse : forfaits, cours de ski collectifs des enfants avec l'ESF, tous les repas avec le vin, et le Mini Club qui occupe les 4 à 10 ans pendant que les parents skient. Après la dernière descente, la piscine intérieure et le spa réchauffent tout le monde."
+      },
+      "highlights": {
+        "en": [
+          "True ski-in, ski-out at Arc 1600 with lifts by the door",
+          "Kids' group ski lessons with ESF included in the price",
+          "Mini Club Med (4 to 10) included while you ski",
+          "Indoor pool and spa for aching legs after skiing",
+          "Newest and most modern of the Alpine villages"
+        ],
+        "fr": [
+          "Vrai ski aux pieds à Arc 1600, remontées devant la porte",
+          "Cours de ski collectifs des enfants avec l'ESF inclus",
+          "Mini Club Med (4 à 10 ans) inclus pendant que vous skiez",
+          "Piscine intérieure et spa pour les jambes fatiguées après le ski",
+          "Le plus récent et le plus moderne des villages alpins"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Skis on, worries off: lifts, lessons and childcare all handled",
+          "Ski-in, ski-out means no cold shuttle with tired toddlers",
+          "All-inclusive covers meals, snacks and drinks all day",
+          "Panoramic mountain views from most family rooms"
+        ],
+        "fr": [
+          "Skis aux pieds, l'esprit tranquille : remontées, cours et garde d'enfants gérés",
+          "Le ski aux pieds évite la navette glacée avec des tout-petits fatigués",
+          "Le tout compris couvre repas, goûters et boissons toute la journée",
+          "Vue panoramique sur la montagne depuis la plupart des chambres familiales"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Premium pricing, the most expensive way to ski Les Arcs",
+          "Arc 1600 is functional rather than a picture-book village",
+          "Very busy in French and UK school holidays"
+        ],
+        "fr": [
+          "Tarif premium, la façon la plus chère de skier aux Arcs",
+          "Arc 1600 est fonctionnel plutôt qu'un village de carte postale",
+          "Très fréquenté pendant les vacances scolaires françaises et britanniques"
+        ]
+      },
+      "verdict": {
+        "en": "If you want to ski hard while the children are taught, fed and entertained without a single logistics headache, this is the most complete family ski week Club Med runs in France.",
+        "fr": "Si vous voulez skier à fond pendant que les enfants sont encadrés, nourris et occupés sans le moindre casse-tête logistique, c'est la semaine de ski en famille la plus complète que le Club Med propose en France."
+      },
+      "parentTip": {
+        "en": "Book the kids into ESF ski school for the first morning slot: they start fresh, and you get a clear run on empty pistes before the lifts fill up.",
+        "fr": "Inscrivez les enfants au premier créneau de l'ESF le matin : ils démarrent en forme, et vous profitez de pistes vides avant l'affluence sur les remontées."
+      },
+      "atAGlance": [
+        {
+          "icon": "⛷️",
+          "label": {
+            "en": "Ski access",
+            "fr": "Accès au ski"
+          },
+          "value": {
+            "en": "Ski-in, ski-out at Arc 1600",
+            "fr": "Ski aux pieds à Arc 1600"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Mini Club (4 to 10) and ski school included",
+            "fr": "Mini Club (4 à 10 ans) et école de ski inclus"
+          }
+        },
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Little ones",
+            "fr": "Tout-petits"
+          },
+          "value": {
+            "en": "Baby and Petit Club from 4 months, extra cost",
+            "fr": "Baby et Petit Club dès 4 mois, en supplément"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "After ski",
+            "fr": "Après-ski"
+          },
+          "value": {
+            "en": "Indoor pool and spa",
+            "fr": "Piscine intérieure et spa"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Are children's ski lessons included?",
+            "fr": "Les cours de ski des enfants sont-ils inclus?"
+          },
+          "a": {
+            "en": "Yes. Group ski lessons with ESF instructors for children aged 4 and up are part of the all-inclusive package, along with lift passes for the whole family.",
+            "fr": "Oui. Les cours de ski collectifs avec les moniteurs de l'ESF pour les enfants dès 4 ans font partie de la formule tout compris, avec les forfaits pour toute la famille."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there childcare for babies and toddlers?",
+            "fr": "Y a-t-il une garde pour les bébés et les tout-petits?"
+          },
+          "a": {
+            "en": "Yes. Baby Club Med takes little ones from 4 to 23 months and Petit Club Med covers 2 to 3 year olds. Both are supervised by trained staff and available at an extra charge, so it is worth booking ahead.",
+            "fr": "Oui. Le Baby Club Med accueille les petits de 4 à 23 mois et le Petit Club Med les 2 à 3 ans. Les deux sont encadrés par du personnel formé et proposés en supplément, mieux vaut donc réserver à l'avance."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it really ski-in, ski-out?",
+            "fr": "Est-ce vraiment du ski aux pieds?"
+          },
+          "a": {
+            "en": "Yes. The village sits on the snow at Arc 1600 with lifts a few steps from the ski room, so you clip in at the door rather than walking or shuttling to the slopes.",
+            "fr": "Oui. Le village est posé sur la neige à Arc 1600, remontées à quelques pas du local à skis : vous chaussez devant la porte au lieu de marcher ou de prendre une navette jusqu'aux pistes."
+          }
+        }
+      ]
+    },
+    {
+      "key": "french-alps-club-med-tignes",
+      "destinationKey": "french-alps",
+      "name": "Club Med Tignes",
+      "area": {
+        "en": "Tignes",
+        "fr": "Tignes"
+      },
+      "lat": 45.4553833,
+      "lng": 6.8978877,
+      "zoom": 12,
+      "address": "Av. de la Grande Motte, 73320 Tignes, France",
+      "priceTier": 4,
+      "priceFrom": 130,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "scores": {
+        "rooms": 83,
+        "baby": 80,
+        "pool": 84,
+        "dining": 84,
+        "safety": 83,
+        "convenience": 84,
+        "location": 89,
+        "extras": 85
+      },
+      "roomsSummary": {
+        "en": "Family rooms and connecting suites sleep four to five, many looking straight onto the Grande Motte glacier. Cots, bottle warmers and quiet corners for an early bedtime are standard, and there is dry storage so wet gloves and boots never end up in the room.",
+        "fr": "Chambres familiales et suites communicantes pour quatre à cinq personnes, beaucoup avec vue directe sur le glacier de la Grande Motte. Lit bébé, chauffe-biberon et coins calmes pour un coucher tôt sont prévus, avec un séchage pour que gants et chaussures mouillés ne finissent jamais dans la chambre."
+      },
+      "intro": {
+        "en": "Tignes sits high and snow-sure, wired to the Grande Motte glacier so the season runs long and the pistes stay reliable. Club Med's village puts you in the middle of it with lift passes, ESF ski school for the children, all meals and drinks, and a Mini Club for 4 to 10s. It is the pick for families who want guaranteed snow and a lot of skiing.",
+        "fr": "Tignes est haute et sûre côté neige, reliée au glacier de la Grande Motte : la saison est longue et les pistes restent fiables. Le village Club Med vous installe au cœur de la station avec les forfaits, l'école de ski ESF pour les enfants, tous les repas et boissons, et un Mini Club pour les 4 à 10 ans. C'est le choix des familles qui veulent de la neige garantie et beaucoup de ski."
+      },
+      "highlights": {
+        "en": [
+          "High altitude and a glacier, the most snow-sure choice",
+          "ESF group ski lessons for kids included",
+          "Mini Club Med (4 to 10) included during ski hours",
+          "Long season thanks to the Grande Motte glacier",
+          "Full all-inclusive with meals, wine and snacks"
+        ],
+        "fr": [
+          "Haute altitude et glacier, le choix le plus sûr côté neige",
+          "Cours de ski collectifs ESF pour les enfants inclus",
+          "Mini Club Med (4 à 10 ans) inclus pendant les heures de ski",
+          "Saison longue grâce au glacier de la Grande Motte",
+          "Tout compris complet avec repas, vin et goûters"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Reliable snow even in a warm winter",
+          "Big linked ski area for parents who want mileage",
+          "Everything paid up front, no daily lift-queue admin",
+          "Glacier views from many family rooms"
+        ],
+        "fr": [
+          "Neige fiable même lors d'un hiver doux",
+          "Grand domaine relié pour les parents qui veulent avaler du kilomètre",
+          "Tout réglé d'avance, pas de gestion quotidienne des forfaits",
+          "Vue sur le glacier depuis de nombreuses chambres familiales"
+        ]
+      },
+      "cons": {
+        "en": [
+          "High-altitude resort feels stark, not a chocolate-box village",
+          "Weather at altitude can turn quickly, plan indoor backups",
+          "Premium price in peak school holidays"
+        ],
+        "fr": [
+          "Station d'altitude à l'ambiance minérale, pas un village pittoresque",
+          "Le temps en altitude peut vite tourner, prévoyez des plans en intérieur",
+          "Tarif premium en pleines vacances scolaires"
+        ]
+      },
+      "verdict": {
+        "en": "For families who care most about guaranteed snow and serious ski terrain, Tignes is the safe bet, with the childcare and lessons sorted so parents actually get to ski.",
+        "fr": "Pour les familles qui privilégient la neige garantie et un vrai terrain de ski, Tignes est la valeur sûre, avec la garde et les cours réglés pour que les parents skient vraiment."
+      },
+      "parentTip": {
+        "en": "At this altitude the sun is fierce even when it is cold, so slather the kids in high-factor cream and pack lip balm before every Mini Club drop-off.",
+        "fr": "À cette altitude le soleil tape fort même par temps froid : tartinez les enfants de crème haute protection et glissez un stick à lèvres avant chaque dépose au Mini Club."
+      },
+      "atAGlance": [
+        {
+          "icon": "⛷️",
+          "label": {
+            "en": "Ski access",
+            "fr": "Accès au ski"
+          },
+          "value": {
+            "en": "In-resort at Tignes, glacier-linked",
+            "fr": "Dans la station de Tignes, relié au glacier"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Mini Club (4 to 10) and ESF lessons included",
+            "fr": "Mini Club (4 à 10 ans) et cours ESF inclus"
+          }
+        },
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Little ones",
+            "fr": "Tout-petits"
+          },
+          "value": {
+            "en": "Baby and Petit Club from 4 months, extra cost",
+            "fr": "Baby et Petit Club dès 4 mois, en supplément"
+          }
+        },
+        {
+          "icon": "❄️",
+          "label": {
+            "en": "Snow",
+            "fr": "Neige"
+          },
+          "value": {
+            "en": "High altitude and glacier, snow-sure",
+            "fr": "Haute altitude et glacier, neige assurée"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the snow reliable at Tignes?",
+            "fr": "La neige est-elle fiable à Tignes?"
+          },
+          "a": {
+            "en": "Very. Tignes is one of France's highest resorts and is linked to the Grande Motte glacier, so it holds snow long into spring and rarely disappoints even in a mild winter.",
+            "fr": "Très. Tignes est l'une des stations les plus hautes de France et est reliée au glacier de la Grande Motte : elle garde la neige jusqu'au printemps et déçoit rarement, même par hiver doux."
+          }
+        },
+        {
+          "q": {
+            "en": "Are kids' lessons and childcare covered?",
+            "fr": "Les cours des enfants et la garde sont-ils couverts?"
+          },
+          "a": {
+            "en": "Group ski lessons with ESF and the Mini Club Med for 4 to 10s are included. Baby Club Med (4 to 23 months) and Petit Club Med (2 to 3 years) are available for an extra charge and should be reserved ahead.",
+            "fr": "Les cours de ski collectifs ESF et le Mini Club Med pour les 4 à 10 ans sont inclus. Le Baby Club Med (4 à 23 mois) et le Petit Club Med (2 à 3 ans) sont proposés en supplément et à réserver à l'avance."
+          }
+        },
+        {
+          "q": {
+            "en": "Is Tignes good for young children given the altitude?",
+            "fr": "Tignes convient-elle aux jeunes enfants vu l'altitude?"
+          },
+          "a": {
+            "en": "Yes, but give little ones a gentle first day to adjust, keep them hydrated, and use the indoor pool and clubs on very cold or windy afternoons.",
+            "fr": "Oui, mais accordez aux plus petits une première journée tranquille pour s'acclimater, veillez à bien les hydrater, et profitez de la piscine intérieure et des clubs les après-midis très froids ou venteux."
+          }
+        }
+      ]
+    },
+    {
+      "key": "french-alps-club-med-alpe-dhuez",
+      "destinationKey": "french-alps",
+      "name": "Club Med Alpe d'Huez",
+      "area": {
+        "en": "Alpe d'Huez",
+        "fr": "Alpe d'Huez"
+      },
+      "lat": 45.0889511,
+      "lng": 6.08152,
+      "zoom": 12,
+      "address": "Rte de l'Altiport, 38750 Huez, France",
+      "priceTier": 3,
+      "priceFrom": 100,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "scores": {
+        "rooms": 80,
+        "baby": 80,
+        "pool": 86,
+        "dining": 83,
+        "safety": 83,
+        "convenience": 82,
+        "location": 85,
+        "extras": 84
+      },
+      "roomsSummary": {
+        "en": "Bright family rooms and connecting options sleep four to five, with the sunny south-facing aspect Alpe d'Huez is known for. Cots and bottle warmers are on hand, and the layout keeps a sleeping baby separate from parents winding down after a day on the snow.",
+        "fr": "Chambres familiales lumineuses et options communicantes pour quatre à cinq personnes, avec l'exposition sud ensoleillée qui fait la réputation de l'Alpe d'Huez. Lit bébé et chauffe-biberon sont disponibles, et l'agencement sépare le bébé qui dort des parents qui décompressent après une journée sur la neige."
+      },
+      "intro": {
+        "en": "Alpe d'Huez is the big, sunny, wide-open ski area, nicknamed the Island in the Sun, with long gentle runs that suit families learning together. Club Med's village bundles lift passes, ESF ski school for the children, all meals and drinks and the Mini Club, plus one of the best indoor pools of the Alpine line-up for the end of the day.",
+        "fr": "L'Alpe d'Huez, c'est le grand domaine ensoleillé et dégagé, surnommé l'Île au Soleil, avec de longues pistes douces parfaites pour apprendre en famille. Le village Club Med regroupe les forfaits, l'école de ski ESF pour les enfants, tous les repas et boissons et le Mini Club, avec l'une des plus belles piscines intérieures des villages alpins pour la fin de journée."
+      },
+      "highlights": {
+        "en": [
+          "Sunny, wide slopes that suit beginners and families",
+          "ESF group ski lessons for kids included",
+          "Mini Club Med (4 to 10) included while you ski",
+          "One of the best indoor pools in the Alpine villages",
+          "Often the best-value Club Med ski week in France"
+        ],
+        "fr": [
+          "Pistes larges et ensoleillées, parfaites pour débutants et familles",
+          "Cours de ski collectifs ESF pour les enfants inclus",
+          "Mini Club Med (4 à 10 ans) inclus pendant que vous skiez",
+          "L'une des plus belles piscines intérieures des villages alpins",
+          "Souvent la semaine de ski Club Med la plus abordable de France"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Lots of sun and gentle runs, gentle on nervous first-timers",
+          "Strong value compared with the higher-altitude villages",
+          "Big, warm indoor pool for tired legs after skiing",
+          "All meals, wine and snacks included all day"
+        ],
+        "fr": [
+          "Beaucoup de soleil et des pistes douces, rassurantes pour les débutants",
+          "Bon rapport qualité-prix face aux villages de plus haute altitude",
+          "Grande piscine intérieure chauffée pour les jambes fatiguées",
+          "Tous les repas, le vin et les goûters inclus toute la journée"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Lower and sunnier, so snow can soften on warm afternoons",
+          "The resort itself is sprawling rather than pretty",
+          "Popular, so book the school holidays early"
+        ],
+        "fr": [
+          "Plus basse et plus ensoleillée, la neige peut ramollir l'après-midi",
+          "La station elle-même est étendue plutôt que jolie",
+          "Prisée, réservez tôt pour les vacances scolaires"
+        ]
+      },
+      "verdict": {
+        "en": "The friendliest Club Med Alpine week for a first family ski trip: sunshine, easy slopes and a great pool, with lessons and childcare that let everyone find their feet.",
+        "fr": "La semaine alpine Club Med la plus accueillante pour un premier séjour ski en famille : soleil, pistes faciles et belle piscine, avec des cours et une garde qui laissent à chacun le temps de prendre ses marques."
+      },
+      "parentTip": {
+        "en": "Because it faces the sun, ski the higher runs in the morning while the snow is firm and save the pool and Mini Club for the softer, warmer afternoons.",
+        "fr": "Comme la station est exposée au sud, skiez les pistes hautes le matin quand la neige est ferme et gardez la piscine et le Mini Club pour les après-midis plus doux."
+      },
+      "atAGlance": [
+        {
+          "icon": "⛷️",
+          "label": {
+            "en": "Ski access",
+            "fr": "Accès au ski"
+          },
+          "value": {
+            "en": "In-resort at Alpe d'Huez",
+            "fr": "Dans la station de l'Alpe d'Huez"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Mini Club (4 to 10) and ESF lessons included",
+            "fr": "Mini Club (4 à 10 ans) et cours ESF inclus"
+          }
+        },
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Little ones",
+            "fr": "Tout-petits"
+          },
+          "value": {
+            "en": "Baby and Petit Club from 4 months, extra cost",
+            "fr": "Baby et Petit Club dès 4 mois, en supplément"
+          }
+        },
+        {
+          "icon": "☀️",
+          "label": {
+            "en": "Aspect",
+            "fr": "Exposition"
+          },
+          "value": {
+            "en": "Sunny, gentle beginner slopes",
+            "fr": "Ensoleillée, pistes douces pour débuter"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is Alpe d'Huez good for beginners and children?",
+            "fr": "L'Alpe d'Huez convient-elle aux débutants et aux enfants?"
+          },
+          "a": {
+            "en": "Very. It has plenty of wide, sunny, gentle runs and a big beginner area, which makes it one of the easier places for children and nervous parents to learn together.",
+            "fr": "Très. Elle offre de nombreuses pistes larges, ensoleillées et douces et un grand espace débutant, ce qui en fait l'un des endroits les plus faciles pour apprendre ensemble, enfants comme parents peu assurés."
+          }
+        },
+        {
+          "q": {
+            "en": "What is included for the children?",
+            "fr": "Qu'est-ce qui est inclus pour les enfants?"
+          },
+          "a": {
+            "en": "ESF group ski lessons and the Mini Club Med for ages 4 to 10 are included with the package. Baby Club Med (4 to 23 months) and Petit Club Med (2 to 3 years) are supervised childcare at an extra charge.",
+            "fr": "Les cours de ski collectifs ESF et le Mini Club Med pour les 4 à 10 ans sont inclus dans la formule. Le Baby Club Med (4 à 23 mois) et le Petit Club Med (2 à 3 ans) sont une garde encadrée proposée en supplément."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there anything to do beyond skiing?",
+            "fr": "Y a-t-il autre chose à faire que le ski?"
+          },
+          "a": {
+            "en": "Yes. The village has a large indoor pool and spa, evening entertainment and clubs for every age, so non-skiing days and tired afternoons are easy to fill.",
+            "fr": "Oui. Le village dispose d'une grande piscine intérieure et d'un spa, d'animations en soirée et de clubs pour tous les âges : les jours sans ski et les après-midis fatigués se remplissent facilement."
+          }
+        }
+      ]
+    },
+    {
+      "key": "french-alps-club-med-la-rosiere",
+      "destinationKey": "french-alps",
+      "name": "Club Med La Rosière",
+      "area": {
+        "en": "La Rosière",
+        "fr": "La Rosière"
+      },
+      "lat": 45.6298103,
+      "lng": 6.8571944,
+      "zoom": 12,
+      "address": "1400 Rte du Golf, 73700 Montvalezan, France",
+      "priceTier": 3,
+      "priceFrom": 120,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "scores": {
+        "rooms": 84,
+        "baby": 83,
+        "pool": 82,
+        "dining": 84,
+        "safety": 87,
+        "convenience": 86,
+        "location": 82,
+        "extras": 83
+      },
+      "roomsSummary": {
+        "en": "Warm, chalet-style family rooms and connecting suites sleep four to five, with plenty facing the valley and the sun. Cots, bottle warmers and a boot room mean the practical side of skiing with small children is handled without cluttering the bedroom.",
+        "fr": "Chambres familiales chaleureuses façon chalet et suites communicantes pour quatre à cinq personnes, beaucoup tournées vers la vallée et le soleil. Lit bébé, chauffe-biberon et local à chaussures : l'intendance du ski avec de jeunes enfants est réglée sans encombrer la chambre."
+      },
+      "intro": {
+        "en": "La Rosière is the sunny, gentle, family-first side of the Espace San Bernardo, with easy slopes on the doorstep and the novelty of skiing across to La Thuile in Italy for lunch. Club Med's village is ski-in, ski-out with lift passes, ESF ski school for the children, all meals and drinks and the Mini Club, making it one of the softest landings for a young family.",
+        "fr": "La Rosière, c'est le versant ensoleillé, doux et tourné vers les familles de l'Espace San Bernardo, avec des pistes faciles au pied du village et le plaisir de skier jusqu'à La Thuile en Italie pour déjeuner. Le village Club Med est skis aux pieds, avec forfaits, école de ski ESF pour les enfants, tous les repas et boissons et le Mini Club : l'un des atterrissages les plus doux pour une jeune famille."
+      },
+      "highlights": {
+        "en": [
+          "Ski-in, ski-out with gentle, sunny beginner slopes",
+          "Ski across to La Thuile in Italy for a lunch adventure",
+          "ESF group ski lessons for kids included",
+          "Mini Club Med (4 to 10) included while you ski",
+          "Calm, family-focused resort rather than a party town"
+        ],
+        "fr": [
+          "Ski aux pieds avec des pistes débutantes douces et ensoleillées",
+          "Skiez jusqu'à La Thuile en Italie pour une aventure déjeuner",
+          "Cours de ski collectifs ESF pour les enfants inclus",
+          "Mini Club Med (4 à 10 ans) inclus pendant que vous skiez",
+          "Station calme et familiale plutôt que festive"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Some of the gentlest learner slopes in the Alps",
+          "Ski-in, ski-out saves cold walks with little legs",
+          "Cross-border skiing into Italy is a memorable day out",
+          "Relaxed, low-key village that suits young families"
+        ],
+        "fr": [
+          "Parmi les pistes d'apprentissage les plus douces des Alpes",
+          "Le ski aux pieds évite les marches glacées avec de petites jambes",
+          "Le ski transfrontalier vers l'Italie fait une journée mémorable",
+          "Village tranquille et discret, idéal pour les jeunes familles"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Sunny aspect means afternoon snow can get slushy",
+          "Quieter resort with less off-slope buzz for teens",
+          "Exposed slopes can be windy in bad weather"
+        ],
+        "fr": [
+          "L'exposition ensoleillée peut rendre la neige lourde l'après-midi",
+          "Station plus calme, moins d'animation hors piste pour les ados",
+          "Pistes exposées, parfois ventées par mauvais temps"
+        ]
+      },
+      "verdict": {
+        "en": "A gentle, sunny, ski-in ski-out week built for young families finding their ski legs, with the bonus of a lunchtime hop into Italy.",
+        "fr": "Une semaine douce, ensoleillée et skis aux pieds pensée pour les jeunes familles qui trouvent leurs marques, avec en prime une escapade déjeuner en Italie."
+      },
+      "parentTip": {
+        "en": "The ski across to La Thuile is a lovely half-day with confident young skiers, but check the last lift home carefully so you are not caught on the Italian side at closing.",
+        "fr": "Le ski jusqu'à La Thuile fait une jolie demi-journée avec de jeunes skieurs à l'aise, mais vérifiez bien l'horaire de la dernière remontée pour ne pas rester bloqués côté italien à la fermeture."
+      },
+      "atAGlance": [
+        {
+          "icon": "⛷️",
+          "label": {
+            "en": "Ski access",
+            "fr": "Accès au ski"
+          },
+          "value": {
+            "en": "Ski-in, ski-out at La Rosière",
+            "fr": "Ski aux pieds à La Rosière"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Mini Club (4 to 10) and ESF lessons included",
+            "fr": "Mini Club (4 à 10 ans) et cours ESF inclus"
+          }
+        },
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Little ones",
+            "fr": "Tout-petits"
+          },
+          "value": {
+            "en": "Baby and Petit Club from 4 months, extra cost",
+            "fr": "Baby et Petit Club dès 4 mois, en supplément"
+          }
+        },
+        {
+          "icon": "🇮🇹",
+          "label": {
+            "en": "Bonus",
+            "fr": "Petit plus"
+          },
+          "value": {
+            "en": "Ski across to Italy and back",
+            "fr": "Ski vers l'Italie et retour"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is La Rosière a good choice for first-time skiers?",
+            "fr": "La Rosière est-elle un bon choix pour skier la première fois?"
+          },
+          "a": {
+            "en": "Yes. It has wide, gentle, sunny beginner runs right by the village and a calm, family atmosphere, which makes it one of the easier resorts for children and nervous parents to start on.",
+            "fr": "Oui. Elle offre des pistes débutantes larges, douces et ensoleillées au pied du village et une ambiance calme et familiale, ce qui en fait l'une des stations les plus faciles pour débuter, enfants comme parents peu rassurés."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we really ski to Italy?",
+            "fr": "Peut-on vraiment skier jusqu'en Italie?"
+          },
+          "a": {
+            "en": "Yes. La Rosière links over the ridge to La Thuile in Italy via the Espace San Bernardo, so confident skiers can ski across for an Italian lunch and back, all on one lift pass.",
+            "fr": "Oui. La Rosière est reliée par-dessus la crête à La Thuile en Italie via l'Espace San Bernardo : les skieurs à l'aise peuvent y aller pour un déjeuner italien et revenir, le tout sur un seul forfait."
+          }
+        },
+        {
+          "q": {
+            "en": "What childcare is available for the youngest?",
+            "fr": "Quelle garde est disponible pour les plus petits?"
+          },
+          "a": {
+            "en": "Baby Club Med welcomes babies from 4 to 23 months and Petit Club Med covers 2 to 3 year olds, both supervised by trained staff at an extra charge. From age 4, the Mini Club Med and ski lessons are included.",
+            "fr": "Le Baby Club Med accueille les bébés de 4 à 23 mois et le Petit Club Med les 2 à 3 ans, encadrés par du personnel formé et proposés en supplément. Dès 4 ans, le Mini Club Med et les cours de ski sont inclus."
+          }
+        }
+      ]
+    },
+    {
+      "key": "french-alps-club-med-grand-massif-samoens-morillon",
+      "destinationKey": "french-alps",
+      "name": "Club Med Grand Massif Samoëns Morillon",
+      "area": {
+        "en": "Samoëns",
+        "fr": "Samoëns"
+      },
+      "lat": 46.0558929,
+      "lng": 6.7038602,
+      "zoom": 12,
+      "address": "3868 Route du plateau des Saix, 74340 Samoëns, France",
+      "priceTier": 4,
+      "priceFrom": 110,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "scores": {
+        "rooms": 90,
+        "baby": 84,
+        "pool": 88,
+        "dining": 87,
+        "safety": 85,
+        "convenience": 78,
+        "location": 80,
+        "extras": 89
+      },
+      "roomsSummary": {
+        "en": "One of the newest and most stylish Alpine villages, with generous eco-designed family rooms and connecting suites sleeping four to five, most opening onto the Grand Massif. Cots, bottle warmers and a proper drying room come as standard, and the modern layout gives babies a quiet corner of their own.",
+        "fr": "L'un des villages alpins les plus récents et les plus élégants, avec de grandes chambres familiales éco-conçues et des suites communicantes pour quatre à cinq personnes, la plupart ouvertes sur le Grand Massif. Lit bébé, chauffe-biberon et vrai local de séchage sont prévus, et l'agencement moderne offre aux bébés un coin calme rien qu'à eux."
+      },
+      "intro": {
+        "en": "This is Club Med's showpiece modern village on the plateau des Saix above Samoëns, opening onto the vast Grand Massif ski area. The week covers lift passes, ESF ski school for the children, all meals and drinks, a spa and a beautiful indoor pool, plus the Mini Club. A gondola links the plateau to the valley, so it works like a self-contained mountain base for families.",
+        "fr": "C'est le village moderne vitrine du Club Med, sur le plateau des Saix au-dessus de Samoëns, ouvert sur l'immense domaine du Grand Massif. La semaine couvre les forfaits, l'école de ski ESF pour les enfants, tous les repas et boissons, un spa et une superbe piscine intérieure, ainsi que le Mini Club. Une télécabine relie le plateau à la vallée : c'est une base de montagne autonome pour les familles."
+      },
+      "highlights": {
+        "en": [
+          "Brand-new, design-led village with a standout spa and pool",
+          "Opens onto the huge Grand Massif ski area",
+          "ESF group ski lessons for kids included",
+          "Mini Club Med (4 to 10) included while you ski",
+          "Eco-designed and quieter than the big-name resorts"
+        ],
+        "fr": [
+          "Village tout neuf et design, avec un spa et une piscine remarquables",
+          "Ouvert sur l'immense domaine du Grand Massif",
+          "Cours de ski collectifs ESF pour les enfants inclus",
+          "Mini Club Med (4 à 10 ans) inclus pendant que vous skiez",
+          "Éco-conçu et plus calme que les stations très courues"
+        ]
+      },
+      "pros": {
+        "en": [
+          "The most modern and comfortable Alpine village",
+          "Excellent spa and indoor pool for after-ski recovery",
+          "Big ski area with lots of tree-lined, sheltered runs",
+          "Quieter, plateau setting away from resort crowds"
+        ],
+        "fr": [
+          "Le village alpin le plus moderne et le plus confortable",
+          "Excellent spa et piscine intérieure pour récupérer après le ski",
+          "Grand domaine avec beaucoup de pistes boisées et abritées",
+          "Cadre calme sur le plateau, à l'écart de la foule des stations"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The plateau links to the wider area by gondola, not fully ski-in on every run",
+          "Lower altitude than Tignes, so watch late-season snow",
+          "Premium price for the newest village"
+        ],
+        "fr": [
+          "Le plateau est relié au grand domaine par télécabine, pas skis aux pieds sur chaque piste",
+          "Altitude plus basse que Tignes, surveillez la neige en fin de saison",
+          "Tarif premium pour le village le plus récent"
+        ]
+      },
+      "verdict": {
+        "en": "The most modern and comfortable Club Med ski village, with a knockout spa and pool, ideal for families who want a smart base and a big ski area without the resort bustle.",
+        "fr": "Le village de ski Club Med le plus moderne et le plus confortable, avec un spa et une piscine bluffants, idéal pour les familles qui veulent une base soignée et un grand domaine sans l'agitation d'une station."
+      },
+      "parentTip": {
+        "en": "The spa and pool here are genuinely worth using, so book a treatment slot for yourself during a Mini Club afternoon rather than squeezing in one more chilly run.",
+        "fr": "Le spa et la piscine valent vraiment le détour : réservez-vous un soin pendant un après-midi de Mini Club plutôt que de caser une descente de plus dans le froid."
+      },
+      "atAGlance": [
+        {
+          "icon": "⛷️",
+          "label": {
+            "en": "Ski access",
+            "fr": "Accès au ski"
+          },
+          "value": {
+            "en": "On the plateau des Saix, Grand Massif",
+            "fr": "Sur le plateau des Saix, Grand Massif"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Mini Club (4 to 10) and ESF lessons included",
+            "fr": "Mini Club (4 à 10 ans) et cours ESF inclus"
+          }
+        },
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Little ones",
+            "fr": "Tout-petits"
+          },
+          "value": {
+            "en": "Baby and Petit Club from 4 months, extra cost",
+            "fr": "Baby et Petit Club dès 4 mois, en supplément"
+          }
+        },
+        {
+          "icon": "🧖",
+          "label": {
+            "en": "After ski",
+            "fr": "Après-ski"
+          },
+          "value": {
+            "en": "Standout spa and indoor pool",
+            "fr": "Spa et piscine intérieure remarquables"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is this village ski-in, ski-out?",
+            "fr": "Ce village est-il skis aux pieds?"
+          },
+          "a": {
+            "en": "It sits on the plateau des Saix with direct access to Grand Massif pistes, and a gondola links down to Samoëns village. You ski from the door onto the local slopes, with the gondola handy for reaching the rest of the area and the valley.",
+            "fr": "Il est situé sur le plateau des Saix avec accès direct aux pistes du Grand Massif, et une télécabine descend jusqu'au village de Samoëns. Vous skiez depuis la porte sur les pistes locales, la télécabine restant pratique pour rejoindre le reste du domaine et la vallée."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it a good choice with a baby or toddler?",
+            "fr": "Est-ce un bon choix avec un bébé ou un tout-petit?"
+          },
+          "a": {
+            "en": "Yes. It is the newest and most comfortable village, with Baby Club Med from 4 to 23 months and Petit Club Med for 2 to 3 year olds, both at an extra charge, plus spacious modern rooms that suit little ones.",
+            "fr": "Oui. C'est le village le plus récent et le plus confortable, avec le Baby Club Med de 4 à 23 mois et le Petit Club Med pour les 2 à 3 ans, tous deux en supplément, ainsi que des chambres modernes et spacieuses adaptées aux petits."
+          }
+        },
+        {
+          "q": {
+            "en": "What is included for older children?",
+            "fr": "Qu'est-ce qui est inclus pour les plus grands?"
+          },
+          "a": {
+            "en": "From age 4, ESF group ski lessons and the Mini Club Med are included, and there are supervised clubs and activities for teens too, all within the all-inclusive package.",
+            "fr": "Dès 4 ans, les cours de ski collectifs ESF et le Mini Club Med sont inclus, et il existe aussi des clubs et activités encadrés pour les ados, le tout dans la formule tout compris."
+          }
+        }
+      ]
+    },
+    {
+      "key": "french-alps-club-med-peisey-vallandry",
+      "destinationKey": "french-alps",
+      "name": "Club Med Peisey-Vallandry",
+      "area": {
+        "en": "Peisey-Vallandry",
+        "fr": "Peisey-Vallandry"
+      },
+      "lat": 45.5516046,
+      "lng": 6.7637599,
+      "zoom": 12,
+      "address": "Lieu Dit Plan Peisey, 73210 Peisey-Nancroix, France",
+      "priceTier": 3,
+      "priceFrom": 120,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "scores": {
+        "rooms": 79,
+        "baby": 82,
+        "pool": 80,
+        "dining": 82,
+        "safety": 86,
+        "convenience": 84,
+        "location": 86,
+        "extras": 81
+      },
+      "roomsSummary": {
+        "en": "Cosy chalet-style family rooms and connecting suites sleep four to five, tucked among the pines with mountain or forest views. Cots, bottle warmers and a boot room keep the practical side of a ski week tidy, and the sheltered setting is calm at bedtime.",
+        "fr": "Chambres familiales douillettes façon chalet et suites communicantes pour quatre à cinq personnes, nichées au milieu des sapins avec vue montagne ou forêt. Lit bébé, chauffe-biberon et local à chaussures gardent l'intendance de la semaine de ski bien rangée, et le cadre abrité reste calme à l'heure du coucher."
+      },
+      "intro": {
+        "en": "Peisey-Vallandry is the wooded, sheltered gateway into Paradiski, one of the largest linked ski areas in the world, yet it keeps a gentle, low-key village feel. Club Med sits ski-in, ski-out among the trees with lift passes, ESF ski school for the children, all meals and drinks and the Mini Club, giving families a huge ski area from a calm, forested base.",
+        "fr": "Peisey-Vallandry, c'est la porte d'entrée boisée et abritée du Paradiski, l'un des plus grands domaines reliés au monde, tout en gardant une ambiance de village douce et discrète. Le Club Med y est skis aux pieds au milieu des arbres, avec forfaits, école de ski ESF pour les enfants, tous les repas et boissons et le Mini Club : un domaine immense depuis une base calme et forestière."
+      },
+      "highlights": {
+        "en": [
+          "Ski-in, ski-out gateway to the vast Paradiski area",
+          "Sheltered, tree-lined runs that are kind in bad weather",
+          "ESF group ski lessons for kids included",
+          "Mini Club Med (4 to 10) included while you ski",
+          "Calm, forested village with a gentle family feel"
+        ],
+        "fr": [
+          "Porte d'entrée skis aux pieds vers l'immense domaine Paradiski",
+          "Pistes abritées et boisées, agréables par mauvais temps",
+          "Cours de ski collectifs ESF pour les enfants inclus",
+          "Mini Club Med (4 à 10 ans) inclus pendant que vous skiez",
+          "Village calme et forestier à l'ambiance familiale douce"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Access to a giant ski area from a quiet base",
+          "Tree-lined pistes give better visibility on snowy days",
+          "Ski-in, ski-out cuts out cold walks with children",
+          "Relaxed village, not a loud party resort"
+        ],
+        "fr": [
+          "Accès à un domaine géant depuis une base tranquille",
+          "Pistes boisées offrant une meilleure visibilité les jours de neige",
+          "Ski aux pieds pour éviter les marches glacées avec les enfants",
+          "Village paisible, loin des stations bruyantes et festives"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Fewer shops and nightlife than the big-name resorts",
+          "The classic village is cosy rather than lavish",
+          "The full Paradiski loop is a long day with young skiers"
+        ],
+        "fr": [
+          "Moins de commerces et de vie nocturne que les grandes stations",
+          "Le village classique est douillet plutôt que luxueux",
+          "La grande boucle Paradiski fait une longue journée avec de jeunes skieurs"
+        ]
+      },
+      "verdict": {
+        "en": "A calm, forested, ski-in ski-out base that quietly opens onto one of the world's biggest ski areas, ideal for families who want big skiing without a big, noisy resort.",
+        "fr": "Une base calme, forestière et skis aux pieds qui ouvre discrètement sur l'un des plus grands domaines du monde, idéale pour les familles qui veulent du grand ski sans une grande station bruyante."
+      },
+      "parentTip": {
+        "en": "The Vanoise Express cable car links Peisey across to Les Arcs, but it is a big outing for little legs, so save the full Paradiski crossing for a day when the children are skiing confidently.",
+        "fr": "Le téléphérique Vanoise Express relie Peisey aux Arcs, mais c'est une grande sortie pour de petites jambes : gardez la traversée complète du Paradiski pour un jour où les enfants skient avec assurance."
+      },
+      "atAGlance": [
+        {
+          "icon": "⛷️",
+          "label": {
+            "en": "Ski access",
+            "fr": "Accès au ski"
+          },
+          "value": {
+            "en": "Ski-in, ski-out, gateway to Paradiski",
+            "fr": "Ski aux pieds, porte du Paradiski"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Mini Club (4 to 10) and ESF lessons included",
+            "fr": "Mini Club (4 à 10 ans) et cours ESF inclus"
+          }
+        },
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Little ones",
+            "fr": "Tout-petits"
+          },
+          "value": {
+            "en": "Baby and Petit Club from 4 months, extra cost",
+            "fr": "Baby et Petit Club dès 4 mois, en supplément"
+          }
+        },
+        {
+          "icon": "🌲",
+          "label": {
+            "en": "Setting",
+            "fr": "Cadre"
+          },
+          "value": {
+            "en": "Sheltered, tree-lined and calm",
+            "fr": "Abrité, boisé et calme"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "How big is the ski area from Peisey-Vallandry?",
+            "fr": "Quelle est la taille du domaine depuis Peisey-Vallandry?"
+          },
+          "a": {
+            "en": "Huge. Peisey-Vallandry is part of Paradiski, which links to Les Arcs and La Plagne via the Vanoise Express cable car, giving access to one of the largest connected ski areas in the world.",
+            "fr": "Immense. Peisey-Vallandry fait partie du Paradiski, relié aux Arcs et à La Plagne par le téléphérique Vanoise Express, ce qui donne accès à l'un des plus grands domaines reliés au monde."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it suitable for babies and toddlers?",
+            "fr": "Convient-il aux bébés et aux tout-petits?"
+          },
+          "a": {
+            "en": "Yes. Baby Club Med takes children from 4 to 23 months and Petit Club Med covers 2 to 3 year olds, both supervised and available at an extra charge. The calm, sheltered village suits young families well.",
+            "fr": "Oui. Le Baby Club Med accueille les enfants de 4 à 23 mois et le Petit Club Med les 2 à 3 ans, tous deux encadrés et proposés en supplément. Le village calme et abrité convient bien aux jeunes familles."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it too quiet for families who want some buzz?",
+            "fr": "Est-ce trop calme pour des familles qui veulent un peu d'animation?"
+          },
+          "a": {
+            "en": "It is a laid-back, forested village rather than a lively resort. Evenings centre on the Club Med village entertainment and clubs, which suits families happy to stay in after a day on the snow.",
+            "fr": "C'est un village tranquille et boisé plutôt qu'une station animée. Les soirées tournent autour des animations et des clubs du village Club Med, ce qui convient aux familles qui aiment rester sur place après une journée de neige."
+          }
+        }
+      ]
+    }
+  ],
+  "destinationMeta": {
+    "name": {
+      "en": "French Alps",
+      "fr": "Alpes françaises"
+    },
+    "country": {
+      "en": "France",
+      "fr": "France"
+    },
+    "emoji": "⛷️",
+    "accent": "185fa5",
+    "geo": {
+      "lat": 45.6,
+      "lng": 6.8,
+      "zoom": 8
+    },
+    "heroKicker": {
+      "en": "All-inclusive family skiing where lessons, childcare and lift passes come sorted",
+      "fr": "Ski en famille tout compris, cours, garde d'enfants et forfaits déjà réglés"
+    },
+    "intro": {
+      "en": "The French Alps are the classic first family ski trip, and Club Med has quietly made them the easiest. Instead of juggling ski school bookings, lift passes, boot hire, lunches and childcare separately, a Club Med village bundles the lot into one price: kids' group ski lessons with ESF, the free Mini Club for 4 to 10 year olds while you ski, all meals with wine, and an indoor pool and spa to thaw everyone out at the end of the day. Most of these villages are ski-in, ski-out, so there is no cold morning shuffle to the lifts with tired toddlers. Pick your resort by what your family needs: guaranteed snow, gentle beginner slopes, a giant ski area or a brand-new spa village.",
+      "fr": "Les Alpes françaises sont le grand classique du premier séjour ski en famille, et le Club Med les a discrètement rendues plus simples que jamais. Au lieu de jongler séparément avec l'école de ski, les forfaits, la location de chaussures, les déjeuners et la garde d'enfants, un village Club Med réunit le tout dans un seul prix : cours de ski collectifs des enfants avec l'ESF, Mini Club gratuit pour les 4 à 10 ans pendant que vous skiez, tous les repas avec le vin, et une piscine intérieure et un spa pour réchauffer tout le monde en fin de journée. La plupart de ces villages sont skis aux pieds : plus de marche glacée jusqu'aux remontées avec des tout-petits fatigués. Choisissez votre station selon les besoins de la famille : neige garantie, pistes douces pour débuter, domaine géant ou village spa tout neuf."
+    },
+    "whyKids": {
+      "en": [
+        "Kids' group ski lessons with ESF are included in the price, not an add-on",
+        "The Mini Club Med (4 to 10) is free and runs while parents ski",
+        "Most villages are ski-in, ski-out, so no cold shuttle with little legs",
+        "Baby Club Med (4 to 23 months) and Petit Club Med (2 to 3) at select villages, for an extra charge",
+        "All-inclusive meals, snacks and drinks mean no daily budgeting or lunch queues",
+        "An indoor pool and spa at every village for the end of a cold day"
+      ],
+      "fr": [
+        "Les cours de ski collectifs des enfants avec l'ESF sont inclus, pas en option",
+        "Le Mini Club Med (4 à 10 ans) est gratuit et fonctionne pendant que les parents skient",
+        "La plupart des villages sont skis aux pieds : pas de navette glacée avec de petites jambes",
+        "Baby Club Med (4 à 23 mois) et Petit Club Med (2 à 3 ans) dans certains villages, en supplément",
+        "Repas, goûters et boissons tout compris : plus de budget quotidien ni de file d'attente au déjeuner",
+        "Une piscine intérieure et un spa dans chaque village pour la fin d'une journée froide"
+      ]
+    },
+    "bestAreas": {
+      "en": [
+        "Les Arcs: the newest flagship village, true ski-in ski-out at Arc 1600, best for families who want polish and convenience",
+        "Tignes: high altitude and a glacier, the most snow-sure choice for a big ski area",
+        "Alpe d'Huez: sunny, wide beginner slopes and a great pool, often the best value for a first trip",
+        "La Rosière: gentle, sunny, ski-in ski-out slopes with the novelty of skiing across to Italy",
+        "Samoëns Morillon: the newest, most stylish spa village, opening onto the vast Grand Massif",
+        "Peisey-Vallandry: a calm, forested, ski-in ski-out gateway to the giant Paradiski area"
+      ],
+      "fr": [
+        "Les Arcs : le village phare le plus récent, vrai ski aux pieds à Arc 1600, idéal pour les familles qui veulent confort et praticité",
+        "Tignes : haute altitude et glacier, le choix le plus sûr côté neige pour un grand domaine",
+        "Alpe d'Huez : pistes débutantes larges et ensoleillées et belle piscine, souvent le meilleur rapport qualité-prix pour un premier séjour",
+        "La Rosière : pistes douces, ensoleillées et skis aux pieds, avec le plaisir de skier jusqu'en Italie",
+        "Samoëns Morillon : le village spa le plus récent et le plus élégant, ouvert sur l'immense Grand Massif",
+        "Peisey-Vallandry : porte d'entrée calme et forestière, skis aux pieds, vers l'immense domaine Paradiski"
+      ]
+    },
+    "stats": [
+      {
+        "value": "1 price",
+        "label": {
+          "en": "Lessons, lift pass, meals and childcare bundled",
+          "fr": "Cours, forfait, repas et garde réunis"
+        }
+      },
+      {
+        "value": "4 to 10",
+        "label": {
+          "en": "Ages covered by the free Mini Club Med",
+          "fr": "Âges couverts par le Mini Club Med gratuit"
+        }
+      },
+      {
+        "value": "From 4 mo",
+        "label": {
+          "en": "Baby childcare at select villages, extra cost",
+          "fr": "Garde des bébés dans certains villages, en supplément"
+        }
+      },
+      {
+        "value": "Dec to Apr",
+        "label": {
+          "en": "Typical Alpine ski season",
+          "fr": "Saison de ski alpine habituelle"
+        }
+      }
+    ],
+    "goodToKnow": {
+      "en": "Kids' group ski lessons with ESF and the Mini Club Med for 4 to 10 year olds are included in the all-inclusive price, along with lift passes, meals and drinks. Baby Club Med (4 to 23 months) and Petit Club Med (2 to 3 years) run at these villages but cost extra and fill up fast, so reserve them when you book. Most villages are ski-in, ski-out, though at Samoëns Morillon a gondola links the plateau base to the wider area. Higher resorts like Tignes are the most snow-sure, while sunnier, lower ones like Alpe d'Huez and La Rosière suit beginners but can soften in the afternoon. School holidays in France and the UK are the busiest and priciest weeks, so book early.",
+      "fr": "Les cours de ski collectifs des enfants avec l'ESF et le Mini Club Med pour les 4 à 10 ans sont inclus dans le prix tout compris, avec les forfaits, les repas et les boissons. Le Baby Club Med (4 à 23 mois) et le Petit Club Med (2 à 3 ans) existent dans ces villages mais coûtent un supplément et se remplissent vite, réservez-les dès l'inscription. La plupart des villages sont skis aux pieds, même si à Samoëns Morillon une télécabine relie la base du plateau au reste du domaine. Les stations hautes comme Tignes sont les plus sûres côté neige, tandis que les plus basses et ensoleillées comme l'Alpe d'Huez et La Rosière conviennent aux débutants mais peuvent ramollir l'après-midi. Les vacances scolaires en France et au Royaume-Uni sont les semaines les plus fréquentées et les plus chères, réservez tôt."
+    },
+    "parentTip": {
+      "en": "Book the children into ESF ski school and, if you have a baby or toddler, reserve Baby or Petit Club the moment you book the holiday: the included Mini Club is easy, but the under-4 childcare places are limited and go early.",
+      "fr": "Inscrivez les enfants à l'école de ski ESF et, si vous avez un bébé ou un tout-petit, réservez le Baby ou le Petit Club dès la réservation du séjour : le Mini Club inclus est facile, mais les places de garde des moins de 4 ans sont limitées et partent tôt."
+    }
+  }
+}
