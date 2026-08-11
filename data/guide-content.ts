@@ -57,6 +57,20 @@ import FrSpainBeach from "@/content/guides/fr/guide-spain-beach-family.mdx";
 import EnToddler from "@/content/guides/en/guide-toddler-hotels-europe.mdx";
 import FrToddler from "@/content/guides/fr/guide-toddler-hotels-europe.mdx";
 
+// Seasonal 2027 window guides.
+import EnWinter from "@/content/guides/en/guide-winter-sun-2027.mdx";
+import FrWinter from "@/content/guides/fr/guide-winter-sun-2027.mdx";
+import EnFeb from "@/content/guides/en/guide-family-feb-half-term-2027.mdx";
+import FrFeb from "@/content/guides/fr/guide-family-feb-half-term-2027.mdx";
+import EnEaster from "@/content/guides/en/guide-family-easter-2027.mdx";
+import FrEaster from "@/content/guides/fr/guide-family-easter-2027.mdx";
+import EnSummer from "@/content/guides/en/guide-family-summer-2027.mdx";
+import FrSummer from "@/content/guides/fr/guide-family-summer-2027.mdx";
+import EnOct from "@/content/guides/en/guide-family-oct-half-term-2027.mdx";
+import FrOct from "@/content/guides/fr/guide-family-oct-half-term-2027.mdx";
+import EnNewYear from "@/content/guides/en/guide-family-new-year-sun-2027.mdx";
+import FrNewYear from "@/content/guides/fr/guide-family-new-year-sun-2027.mdx";
+
 const CONTENT: Record<string, ComponentType> = {
   "en:guide-connecting-rooms": EnConnecting,
   "fr:guide-connecting-rooms": FrConnecting,
@@ -104,6 +118,18 @@ const CONTENT: Record<string, ComponentType> = {
   "fr:guide-spain-beach-family": FrSpainBeach,
   "en:guide-toddler-hotels-europe": EnToddler,
   "fr:guide-toddler-hotels-europe": FrToddler,
+  "en:guide-winter-sun-2027": EnWinter,
+  "fr:guide-winter-sun-2027": FrWinter,
+  "en:guide-family-feb-half-term-2027": EnFeb,
+  "fr:guide-family-feb-half-term-2027": FrFeb,
+  "en:guide-family-easter-2027": EnEaster,
+  "fr:guide-family-easter-2027": FrEaster,
+  "en:guide-family-summer-2027": EnSummer,
+  "fr:guide-family-summer-2027": FrSummer,
+  "en:guide-family-oct-half-term-2027": EnOct,
+  "fr:guide-family-oct-half-term-2027": FrOct,
+  "en:guide-family-new-year-sun-2027": EnNewYear,
+  "fr:guide-family-new-year-sun-2027": FrNewYear,
 };
 
 export function guideBody(
