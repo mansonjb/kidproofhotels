@@ -49,7 +49,7 @@ function amenityFromKey(key: string) {
 // on every deploy, for the daily kidproof-ship-destination cron's 1 new
 // destination. Pages render on first request and cache for `revalidate`.
 export const dynamicParams = true;
-export const revalidate = 86400;
+export const revalidate = 2592000; // 30j : contenu statique, un deploy invalide deja le cache
 
 export function generateStaticParams() {
   return [];
