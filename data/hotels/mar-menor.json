@@ -1,0 +1,1348 @@
+{
+  "hotels": [
+    {
+      "key": "mar-menor-hotel-izan-cavanna",
+      "destinationKey": "mar-menor",
+      "name": "Hotel Izán Cavanna",
+      "area": {
+        "en": "La Manga del Mar Menor",
+        "fr": "La Manga del Mar Menor"
+      },
+      "lat": 37.629,
+      "lng": -0.746,
+      "zoom": 12,
+      "address": "Hotel Izán Cavanna, Plaza Cavanna s/n, 30380 La Manga del Mar Menor, Murcia, Spain",
+      "priceTier": 3,
+      "priceFrom": 130,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "beachSunset",
+        "deckLoungersSea",
+        "babyHand"
+      ],
+      "scores": {
+        "rooms": 78,
+        "baby": 88,
+        "pool": 80,
+        "dining": 76,
+        "safety": 89,
+        "convenience": 82,
+        "location": 90,
+        "extras": 79
+      },
+      "roomsSummary": {
+        "en": "Simple, bright rooms, most with a balcony and a view over the lagoon or the pool. Family rooms sleep up to four, and the hotel sits on the narrow strip of land with the calm Mar Menor on one side and the open sea on the other, so you are never more than a couple of minutes from shallow water.",
+        "fr": "Chambres simples et lumineuses, la plupart avec balcon et vue sur le lagon ou la piscine. Les chambres familiales accueillent jusqu'à quatre personnes, et l'hôtel se trouve sur la mince bande de terre avec le Mar Menor tout calme d'un côté et la mer ouverte de l'autre : vous n'êtes jamais à plus de deux minutes d'une eau peu profonde."
+      },
+      "intro": {
+        "en": "This is the classic Mar Menor family hotel: a big, friendly, no-frills place right on the calm lagoon side of La Manga. The water in front is warm, clear and so shallow you can walk a toddler out a long way with the surface still around their knees. There is a children's pool, a kids club and evening shows in the main hall, and the sandy Mediterranean beach is a two-minute stroll across the strip when you fancy a change. It is not luxurious, it is easy, and for parents of very young children that is exactly the point.",
+        "fr": "Voici l'hôtel familial classique du Mar Menor : un grand établissement sympathique et sans chichis, posé juste sur le côté lagon tout calme de La Manga. L'eau devant est chaude, claire et si peu profonde que vous pouvez faire marcher un tout-petit très loin, la surface encore au niveau de ses genoux. Il y a une pataugeoire, un club enfants et des spectacles le soir dans la grande salle, et la plage de sable côté Méditerranée est à deux minutes à pied de l'autre côté de la bande quand vous voulez changer. Ce n'est pas luxueux, c'est facile, et pour des parents de tout-petits, c'est précisément l'essentiel."
+      },
+      "highlights": {
+        "en": [
+          "Directly on the calm, shallow Mar Menor lagoon",
+          "Children's pool and a free kids club",
+          "Sandy sea beach a two-minute walk across the strip",
+          "Family rooms for up to four"
+        ],
+        "fr": [
+          "Directement sur le lagon calme et peu profond du Mar Menor",
+          "Pataugeoire et club enfants gratuit",
+          "Plage de sable côté mer à deux minutes à pied",
+          "Chambres familiales jusqu'à quatre personnes"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Warm, waist-deep lagoon water perfect for first paddles",
+          "Two seas within a two-minute walk of each other",
+          "Relaxed, well-priced family base",
+          "Kids club and evening entertainment included"
+        ],
+        "fr": [
+          "Eau du lagon chaude, à hauteur de taille, idéale pour les premières baignades",
+          "Deux mers à deux minutes de marche l'une de l'autre",
+          "Base familiale détendue et au bon prix",
+          "Club enfants et animations en soirée compris"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Rooms and decor are dated rather than stylish",
+          "Busy and lively in July and August",
+          "The lagoon can carry seaweed or algae at times"
+        ],
+        "fr": [
+          "Chambres et déco datées plutôt que stylées",
+          "Animé et bondé en juillet et août",
+          "Le lagon peut charrier des algues par moments"
+        ]
+      },
+      "verdict": {
+        "en": "For a first beach holiday with a baby or toddler, few spots in Europe beat wading into knee-deep, bath-warm water straight in front of your hotel. Cavanna trades polish for exactly that.",
+        "fr": "Pour de premières vacances plage avec un bébé ou un tout-petit, peu d'endroits en Europe valent le fait de patauger dans une eau tiède aux genoux juste devant votre hôtel. Le Cavanna troque le raffinement contre précisément cela."
+      },
+      "parentTip": {
+        "en": "Set up on the lagoon side in the morning when the water is glassy and calm, and cross to the sea beach in the afternoon if the little ones want proper sand to dig.",
+        "fr": "Installez-vous côté lagon le matin quand l'eau est lisse et calme, et passez sur la plage côté mer l'après-midi si les petits veulent du vrai sable à creuser."
+      },
+      "atAGlance": [
+        {
+          "icon": "🌊",
+          "label": {
+            "en": "Lagoon",
+            "fr": "Lagon"
+          },
+          "value": {
+            "en": "Shallow, warm water right in front",
+            "fr": "Eau peu profonde et chaude juste devant"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free, plus evening shows",
+            "fr": "Gratuit, avec spectacles en soirée"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Two seas",
+            "fr": "Deux mers"
+          },
+          "value": {
+            "en": "Sea beach a two-minute walk away",
+            "fr": "Plage côté mer à deux minutes à pied"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "Outdoor pool plus a children's pool",
+            "fr": "Piscine extérieure et pataugeoire"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "How shallow is the lagoon in front of the hotel?",
+            "fr": "Le lagon devant l'hôtel est-il très peu profond?"
+          },
+          "a": {
+            "en": "Very. The Mar Menor is famously shallow and calm, so you can walk a small child a long way out with the water still around their knees or waist, and there are no waves to knock them over.",
+            "fr": "Très. Le Mar Menor est réputé peu profond et calme, vous pouvez faire avancer un petit enfant très loin avec l'eau encore aux genoux ou à la taille, et il n'y a pas de vagues pour le faire tomber."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there sand or is it a rocky shore?",
+            "fr": "Est-ce du sable ou une rive rocheuse?"
+          },
+          "a": {
+            "en": "Both seas here are sandy. The lagoon shore is gentle and soft for paddling, and the open-sea beach on the other side of the strip has proper sand for digging.",
+            "fr": "Les deux mers ici sont de sable. La rive du lagon est douce et souple pour barboter, et la plage côté mer ouverte, de l'autre côté de la bande, a du vrai sable à creuser."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the kids club really free?",
+            "fr": "Le club enfants est-il vraiment gratuit?"
+          },
+          "a": {
+            "en": "Yes, the mini club and the evening entertainment are included for guests during the main season, with a playground on site too.",
+            "fr": "Oui, le mini club et les animations du soir sont compris pour les clients en pleine saison, avec une aire de jeux sur place également."
+          }
+        }
+      ]
+    },
+    {
+      "key": "mar-menor-aluasun-doblemar",
+      "destinationKey": "mar-menor",
+      "name": "AluaSun Doblemar",
+      "area": {
+        "en": "La Manga del Mar Menor",
+        "fr": "La Manga del Mar Menor"
+      },
+      "lat": 37.647,
+      "lng": -0.72,
+      "zoom": 12,
+      "address": "AluaSun Doblemar, Gran Vía de La Manga s/n, 30380 La Manga del Mar Menor, Murcia, Spain",
+      "priceTier": 3,
+      "priceFrom": 120,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "whiteResortPool",
+        "beachSunset",
+        "poolCabanas"
+      ],
+      "scores": {
+        "rooms": 76,
+        "baby": 87,
+        "pool": 82,
+        "dining": 78,
+        "safety": 88,
+        "convenience": 83,
+        "location": 89,
+        "extras": 84
+      },
+      "roomsSummary": {
+        "en": "The biggest resort in La Manga, with plenty of family rooms, many looking straight over the lagoon. Rooms are comfortable and practical rather than boutique, and half-board or all-inclusive boards make it an easy, budget-friendly base for a week with young children.",
+        "fr": "Le plus grand complexe de La Manga, avec de nombreuses chambres familiales, beaucoup donnant droit sur le lagon. Les chambres sont confortables et pratiques plutôt que boutique, et les formules demi-pension ou tout inclus en font une base facile et économique pour une semaine avec de jeunes enfants."
+      },
+      "intro": {
+        "en": "Doblemar is the big beachfront machine of La Manga, sitting right on the calm Mar Menor with its own stretch of shallow, warm lagoon. The Astro mini club keeps four to twelve year olds busy morning and afternoon, there is a children's pool alongside the main ones, and the whole place is geared to families who want to step out of their room and be on gentle sand in a minute. It is large and can feel busy, but for toddler-safe swimming with everything on tap, it delivers.",
+        "fr": "Le Doblemar est la grande machine en front de mer de La Manga, posée juste sur le Mar Menor tout calme avec sa portion de lagon peu profond et chaud. Le mini club Astro occupe les quatre à douze ans matin et après-midi, il y a une pataugeoire à côté des piscines principales, et tout est pensé pour les familles qui veulent sortir de leur chambre et se retrouver sur du sable doux en une minute. C'est grand et parfois animé, mais pour une baignade sûre pour les tout-petits avec tout à portée de main, il tient ses promesses."
+      },
+      "highlights": {
+        "en": [
+          "Right on the shallow, calm Mar Menor beachfront",
+          "Astro mini club for ages four to twelve",
+          "Children's pool beside the main pools",
+          "Half-board and all-inclusive options"
+        ],
+        "fr": [
+          "Directement sur le front de mer peu profond et calme du Mar Menor",
+          "Mini club Astro pour les quatre à douze ans",
+          "Pataugeoire à côté des piscines principales",
+          "Formules demi-pension et tout inclus"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Step from the room onto gentle lagoon sand",
+          "Genuinely toddler-safe, waveless water",
+          "Good value with boards included",
+          "Big pool complex with a kids' section"
+        ],
+        "fr": [
+          "De la chambre directement au sable doux du lagon",
+          "Une eau vraiment sûre pour les tout-petits, sans vagues",
+          "Bon rapport qualité-prix, formules comprises",
+          "Grand complexe de piscines avec une partie enfants"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Large and impersonal in peak weeks",
+          "Rooms are functional, not stylish",
+          "Buffet food is plentiful rather than refined"
+        ],
+        "fr": [
+          "Grand et impersonnel en semaines de pointe",
+          "Chambres fonctionnelles, pas stylées",
+          "La cuisine du buffet est abondante plutôt que raffinée"
+        ]
+      },
+      "verdict": {
+        "en": "If you want the reassurance of shallow, calm water a few steps from a big all-in resort, Doblemar is La Manga's most complete family option on the lagoon.",
+        "fr": "Si vous voulez la tranquillité d'une eau calme et peu profonde à quelques pas d'un grand complexe tout compris, le Doblemar est l'option familiale la plus complète de La Manga sur le lagon."
+      },
+      "parentTip": {
+        "en": "Ask for a room on the Mar Menor side: the lagoon water is calmest first thing, and you can be paddling before the pool loungers fill up.",
+        "fr": "Demandez une chambre côté Mar Menor : l'eau du lagon est plus calme au petit matin, et vous pouvez barboter avant que les transats de la piscine ne se remplissent."
+      },
+      "atAGlance": [
+        {
+          "icon": "🌊",
+          "label": {
+            "en": "Beachfront",
+            "fr": "Front de mer"
+          },
+          "value": {
+            "en": "Directly on the shallow lagoon",
+            "fr": "Directement sur le lagon peu profond"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Mini club",
+            "fr": "Mini club"
+          },
+          "value": {
+            "en": "Astro club, ages four to twelve",
+            "fr": "Club Astro, quatre à douze ans"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Two pool areas plus a children's pool",
+            "fr": "Deux zones de piscine et une pataugeoire"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "Half-board or all-inclusive",
+            "fr": "Demi-pension ou tout inclus"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the hotel right on the beach?",
+            "fr": "L'hôtel est-il juste sur la plage?"
+          },
+          "a": {
+            "en": "Yes, it is the big beachfront resort on the lagoon side of La Manga, so you step out onto shallow, calm Mar Menor sand within a minute of the room.",
+            "fr": "Oui, c'est le grand complexe en front de mer côté lagon de La Manga, vous rejoignez le sable peu profond et calme du Mar Menor en une minute depuis la chambre."
+          }
+        },
+        {
+          "q": {
+            "en": "What ages is the kids club for?",
+            "fr": "Le club enfants est-il pour quels âges?"
+          },
+          "a": {
+            "en": "The Astro mini club runs for children aged four to twelve, roughly late morning and again in the afternoon, with games, crafts and water play.",
+            "fr": "Le mini club Astro accueille les enfants de quatre à douze ans, en fin de matinée puis l'après-midi, avec jeux, activités manuelles et jeux d'eau."
+          }
+        },
+        {
+          "q": {
+            "en": "Is all-inclusive available?",
+            "fr": "Le tout inclus est-il disponible?"
+          },
+          "a": {
+            "en": "Yes, you can book half-board or all-inclusive, which keeps meals and snacks simple when you are staying on site with young children.",
+            "fr": "Oui, vous pouvez réserver en demi-pension ou en tout inclus, ce qui simplifie repas et goûters quand vous restez sur place avec de jeunes enfants."
+          }
+        }
+      ]
+    },
+    {
+      "key": "mar-menor-hotel-525",
+      "destinationKey": "mar-menor",
+      "name": "525 Hotel",
+      "area": {
+        "en": "Los Alcázares",
+        "fr": "Los Alcázares"
+      },
+      "lat": 37.742,
+      "lng": -0.85,
+      "zoom": 12,
+      "address": "525 Hotel, Avenida de la Libertad 279, 30710 Los Alcázares, Murcia, Spain",
+      "priceTier": 3,
+      "priceFrom": 135,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolDusk",
+        "coastTown",
+        "resortLoungers"
+      ],
+      "scores": {
+        "rooms": 84,
+        "baby": 85,
+        "pool": 80,
+        "dining": 82,
+        "safety": 88,
+        "convenience": 84,
+        "location": 86,
+        "extras": 80
+      },
+      "roomsSummary": {
+        "en": "A smart, modern four-star in the heart of Los Alcázares with well-appointed rooms, some with connecting options for families. A short walk brings you to the wide, shallow Los Narejos beach, one of the gentlest stretches on the whole lagoon for small children.",
+        "fr": "Un quatre étoiles élégant et moderne au coeur de Los Alcázares, avec des chambres bien aménagées, certaines communicantes pour les familles. Une courte marche vous mène à la large plage peu profonde de Los Narejos, l'une des plus douces de tout le lagon pour les petits enfants."
+      },
+      "intro": {
+        "en": "The 525 is the polished choice on this part of the Mar Menor: a contemporary hotel with a lovely rooftop pool, a proper spa for the grown-ups and a complimentary children's club for the little ones. It sits in walkable Los Alcázares, a town built around family holidays, a few minutes from the blue-flag Los Narejos beach where the lagoon shelves so gently that toddlers can wade out safely for metres. You get town convenience, real comfort and shallow water close by, a rare combination.",
+        "fr": "Le 525 est le choix soigné de cette partie du Mar Menor : un hôtel contemporain avec une belle piscine sur le toit, un vrai spa pour les grands et un club enfants gratuit pour les petits. Il se trouve dans Los Alcázares, ville accessible à pied et construite autour des vacances en famille, à quelques minutes de la plage pavillon bleu de Los Narejos où le lagon descend si doucement que les tout-petits peuvent avancer sans risque sur plusieurs mètres. Vous avez la commodité de la ville, un vrai confort et l'eau peu profonde tout près, une combinaison rare."
+      },
+      "highlights": {
+        "en": [
+          "Walkable Los Alcázares, minutes from Los Narejos beach",
+          "Rooftop pool and a full spa",
+          "Complimentary children's club and playground",
+          "One of the gentlest lagoon beaches for toddlers"
+        ],
+        "fr": [
+          "Los Alcázares à pied, à quelques minutes de la plage de Los Narejos",
+          "Piscine sur le toit et spa complet",
+          "Club enfants gratuit et aire de jeux",
+          "L'une des plages du lagon les plus douces pour les tout-petits"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Modern, comfortable rooms in a lively town",
+          "Blue-flag shallow beach a short walk away",
+          "Free kids club plus a spa for parents",
+          "Cafes, shops and restaurants on the doorstep"
+        ],
+        "fr": [
+          "Chambres modernes et confortables dans une ville animée",
+          "Plage pavillon bleu peu profonde à courte distance à pied",
+          "Club enfants gratuit et spa pour les parents",
+          "Cafés, boutiques et restaurants juste devant"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Not directly on the sand, a short walk to the beach",
+          "Rooftop pool can get busy on hot afternoons",
+          "Town setting means some street noise in summer"
+        ],
+        "fr": [
+          "Pas directement sur le sable, une courte marche jusqu'à la plage",
+          "La piscine sur le toit se remplit les après-midis chauds",
+          "En ville, un peu de bruit de rue l'été"
+        ]
+      },
+      "verdict": {
+        "en": "The most comfortable base near the Mar Menor's best toddler beach. Walkable, well run, with a rooftop pool for the kids and a spa for you.",
+        "fr": "La base la plus confortable près de la meilleure plage pour tout-petits du Mar Menor. Accessible à pied, bien tenue, avec une piscine sur le toit pour les enfants et un spa pour vous."
+      },
+      "parentTip": {
+        "en": "Los Narejos beach has a shaded playground right by the sand, so pack the buckets and let the little ones alternate between paddling and the swings.",
+        "fr": "La plage de Los Narejos a une aire de jeux ombragée juste à côté du sable, emportez les seaux et laissez les petits alterner entre baignade et balançoires."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Shallow Los Narejos, a short walk",
+            "fr": "Los Narejos peu profonde, à courte marche"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Complimentary, with a playground",
+            "fr": "Gratuit, avec aire de jeux"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "Rooftop pool and terrace",
+            "fr": "Piscine et terrasse sur le toit"
+          }
+        },
+        {
+          "icon": "💆",
+          "label": {
+            "en": "Spa",
+            "fr": "Spa"
+          },
+          "value": {
+            "en": "Full spa for parents",
+            "fr": "Spa complet pour les parents"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "How far is the beach from the hotel?",
+            "fr": "La plage est-elle loin de l'hôtel?"
+          },
+          "a": {
+            "en": "Los Narejos beach is a short walk, roughly five to ten minutes on the flat, and it is one of the widest, shallowest and calmest beaches on the Mar Menor.",
+            "fr": "La plage de Los Narejos est à courte marche, environ cinq à dix minutes à plat, et c'est l'une des plages les plus larges, les moins profondes et les plus calmes du Mar Menor."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it suitable for a baby or is it more of an adult hotel?",
+            "fr": "Convient-il à un bébé ou est-ce plutôt un hôtel pour adultes?"
+          },
+          "a": {
+            "en": "It works for both. There is a free children's club and playground for the little ones, while the spa and rooftop pool give parents somewhere calm, and cots can be arranged.",
+            "fr": "Il convient aux deux. Il y a un club enfants gratuit et une aire de jeux pour les petits, tandis que le spa et la piscine sur le toit offrent aux parents un endroit calme, et un lit bébé peut être prévu."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we walk to restaurants and shops?",
+            "fr": "Peut-on rejoindre restaurants et boutiques à pied?"
+          },
+          "a": {
+            "en": "Yes, the hotel is in the centre of Los Alcázares, so cafes, ice cream, supermarkets and family restaurants are all within a few minutes on foot.",
+            "fr": "Oui, l'hôtel est au centre de Los Alcázares, cafés, glaces, supermarchés et restaurants familiaux sont tous à quelques minutes à pied."
+          }
+        }
+      ]
+    },
+    {
+      "key": "mar-menor-hotel-monarque-costa-narejos",
+      "destinationKey": "mar-menor",
+      "name": "Hotel Monarque Costa Narejos",
+      "area": {
+        "en": "Los Alcázares",
+        "fr": "Los Alcázares"
+      },
+      "lat": 37.764,
+      "lng": -0.834,
+      "zoom": 12,
+      "address": "Hotel Monarque Costa Narejos, Avenida Río Nalón s/n, Los Narejos, 30710 Los Alcázares, Murcia, Spain",
+      "priceTier": 2,
+      "priceFrom": 95,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "resortLoungers",
+        "beachSunset",
+        "swimmer"
+      ],
+      "scores": {
+        "rooms": 74,
+        "baby": 86,
+        "pool": 78,
+        "dining": 74,
+        "safety": 90,
+        "convenience": 82,
+        "location": 88,
+        "extras": 72
+      },
+      "roomsSummary": {
+        "en": "A large, good-value four-star a hundred metres from the beach, with 193 rooms, most with a balcony or terrace. Rooms are straightforward and roomy enough for a family, and half-board keeps a week with children affordable and simple.",
+        "fr": "Un grand quatre étoiles au bon rapport qualité-prix à cent mètres de la plage, avec 193 chambres, la plupart avec balcon ou terrasse. Les chambres sont sobres et assez spacieuses pour une famille, et la demi-pension rend une semaine avec enfants abordable et simple."
+      },
+      "intro": {
+        "en": "Costa Narejos is the dependable value pick right by the gentlest toddler beach on the Mar Menor. It faces the beachfront a hundred metres from the shallow Los Narejos sand, has a children's pool alongside the main one, a kids club and a little spa for the grown-ups. Nothing here is fancy, but it is spacious, friendly and genuinely close to warm, waist-deep water, which for a family with a baby or toddler is what actually matters.",
+        "fr": "Le Costa Narejos est le choix fiable et abordable, juste à côté de la plage la plus douce pour tout-petits du Mar Menor. Il fait face au front de mer, à cent mètres du sable peu profond de Los Narejos, dispose d'une pataugeoire à côté de la piscine principale, d'un club enfants et d'un petit spa pour les grands. Rien ici n'est chic, mais c'est spacieux, chaleureux et vraiment proche d'une eau chaude à hauteur de taille, ce qui, pour une famille avec un bébé ou un tout-petit, est l'essentiel."
+      },
+      "highlights": {
+        "en": [
+          "A hundred metres from the shallow Los Narejos beach",
+          "Children's pool and a free kids club",
+          "Spacious, well-priced family rooms",
+          "Small spa for parents"
+        ],
+        "fr": [
+          "À cent mètres de la plage peu profonde de Los Narejos",
+          "Pataugeoire et club enfants gratuit",
+          "Chambres familiales spacieuses et au bon prix",
+          "Petit spa pour les parents"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Excellent value for a beachfront four-star",
+          "Steps from the calmest, shallowest lagoon sand",
+          "Roomy family rooms with balconies",
+          "Kids club and children's pool included"
+        ],
+        "fr": [
+          "Excellent rapport qualité-prix pour un quatre étoiles en front de mer",
+          "À deux pas du sable de lagon le plus calme et le moins profond",
+          "Chambres familiales spacieuses avec balcon",
+          "Club enfants et pataugeoire compris"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Decor and rooms feel a little dated",
+          "Big and busy in high summer",
+          "Half-board food is basic rather than memorable"
+        ],
+        "fr": [
+          "Déco et chambres un peu datées",
+          "Grand et fréquenté en plein été",
+          "La cuisine en demi-pension est basique plutôt que mémorable"
+        ]
+      },
+      "verdict": {
+        "en": "The value champion for toddler beach days: warm, shallow Los Narejos is a hundred metres away and the price leaves room in the budget for ice creams all week.",
+        "fr": "Le champion du rapport qualité-prix pour les journées plage avec tout-petits : Los Narejos, chaude et peu profonde, est à cent mètres et le prix laisse de la marge pour les glaces toute la semaine."
+      },
+      "parentTip": {
+        "en": "The lagoon here warms up like a bath by late morning, so do a first paddle before lunch and keep the shaded pool for the fierce afternoon sun.",
+        "fr": "Le lagon ici se réchauffe comme un bain en fin de matinée, faites une première baignade avant le déjeuner et gardez la piscine ombragée pour le soleil brûlant de l'après-midi."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Shallow Los Narejos, a hundred metres",
+            "fr": "Los Narejos peu profonde, à cent mètres"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Included, with a children's pool",
+            "fr": "Compris, avec pataugeoire"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Value",
+            "fr": "Budget"
+          },
+          "value": {
+            "en": "Strong price for a beachfront hotel",
+            "fr": "Bon prix pour un hôtel en front de mer"
+          }
+        },
+        {
+          "icon": "💆",
+          "label": {
+            "en": "Spa",
+            "fr": "Spa"
+          },
+          "value": {
+            "en": "Small spa with sauna and hot tub",
+            "fr": "Petit spa avec sauna et jacuzzi"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the beach safe for a toddler?",
+            "fr": "La plage est-elle sûre pour un tout-petit?"
+          },
+          "a": {
+            "en": "Very. Los Narejos is a blue-flag beach with warm, shallow, waveless water, so a small child can wade out several metres with the surface still low, under your eye.",
+            "fr": "Très. Los Narejos est une plage pavillon bleu à l'eau chaude, peu profonde et sans vagues, un petit enfant peut avancer de plusieurs mètres avec la surface encore basse, sous votre surveillance."
+          }
+        },
+        {
+          "q": {
+            "en": "Are the rooms big enough for a family?",
+            "fr": "Les chambres sont-elles assez grandes pour une famille?"
+          },
+          "a": {
+            "en": "Yes, the rooms are roomy and most have a balcony or terrace, and a cot can be added for a baby on request.",
+            "fr": "Oui, les chambres sont spacieuses et la plupart ont un balcon ou une terrasse, et un lit bébé peut être ajouté sur demande."
+          }
+        },
+        {
+          "q": {
+            "en": "What board options are there?",
+            "fr": "Quelles formules de repas propose-t-il?"
+          },
+          "a": {
+            "en": "Bed and breakfast or half-board are the usual choices, and there are plenty of family restaurants along the front if you prefer to eat out.",
+            "fr": "Petit-déjeuner ou demi-pension sont les choix habituels, et il y a de nombreux restaurants familiaux le long du front de mer si vous préférez manger dehors."
+          }
+        }
+      ]
+    },
+    {
+      "key": "mar-menor-hotel-spa-entremares",
+      "destinationKey": "mar-menor",
+      "name": "Hotel & Spa Entremares",
+      "area": {
+        "en": "La Manga del Mar Menor",
+        "fr": "La Manga del Mar Menor"
+      },
+      "lat": 37.628,
+      "lng": -0.75,
+      "zoom": 12,
+      "address": "Hotel & Spa Entremares, Gran Vía km 1, 30380 La Manga del Mar Menor, Murcia, Spain",
+      "priceTier": 3,
+      "priceFrom": 140,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "infinityPoolSea",
+        "poolDuskPalms",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 78,
+        "pool": 83,
+        "dining": 79,
+        "safety": 80,
+        "convenience": 78,
+        "location": 82,
+        "extras": 85
+      },
+      "roomsSummary": {
+        "en": "A comfortable four-star at the quieter southern tip of La Manga, most rooms with a balcony and sea view. Family rooms sleep up to four, and the standout is the large marine spa, seawater pools and thermal circuits that make this a favourite for parents who want a little pampering.",
+        "fr": "Un quatre étoiles confortable à la pointe sud plus calme de La Manga, la plupart des chambres avec balcon et vue mer. Les chambres familiales accueillent jusqu'à quatre personnes, et le point fort est le grand spa marin, avec ses piscines d'eau de mer et ses circuits thermaux qui en font un favori des parents en quête d'un peu de détente."
+      },
+      "intro": {
+        "en": "Entremares sits at kilometre one of La Manga, the calmer southern end near Cabo de Palos, twenty metres from a sandy sea beach with the shallow lagoon just behind. It pairs proper family basics, a children's pool, age-based animation and playground, with one of the best spas in the region, four thermal seawater pools and a full wellness circuit. The sea side here has gentle waves, but the Mar Menor lagoon and its warm, waveless water are a two-minute walk over the strip whenever the little ones want the calmest possible paddle.",
+        "fr": "L'Entremares se trouve au kilomètre un de La Manga, l'extrémité sud plus calme près de Cabo de Palos, à vingt mètres d'une plage de sable côté mer avec le lagon peu profond juste derrière. Il associe de vraies bases familiales, pataugeoire, animation par âge et aire de jeux, à l'un des meilleurs spas de la région, quatre piscines thermales d'eau de mer et un circuit bien-être complet. Le côté mer a de légères vagues, mais le lagon du Mar Menor et son eau chaude sans vagues sont à deux minutes à pied de l'autre côté de la bande, dès que les petits veulent la baignade la plus calme possible."
+      },
+      "highlights": {
+        "en": [
+          "Twenty metres from a sandy sea beach",
+          "Calm Mar Menor lagoon a two-minute walk over the strip",
+          "One of the region's best marine spas",
+          "Children's pool and age-based animation"
+        ],
+        "fr": [
+          "À vingt mètres d'une plage de sable côté mer",
+          "Lagon calme du Mar Menor à deux minutes de l'autre côté de la bande",
+          "L'un des meilleurs spas marins de la région",
+          "Pataugeoire et animation par âge"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Two seas and two moods within a short walk",
+          "Standout thermal seawater spa for parents",
+          "Quieter, southern end of La Manga",
+          "Sea views from most family rooms"
+        ],
+        "fr": [
+          "Deux mers et deux ambiances à courte distance à pied",
+          "Spa thermal d'eau de mer remarquable pour les parents",
+          "Extrémité sud de La Manga, plus calme",
+          "Vue mer depuis la plupart des chambres familiales"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The sea-side beach has small waves, less baby-proof than the lagoon",
+          "Spa focus means a calmer, less kid-loud vibe",
+          "Southern location is a drive from the northern towns"
+        ],
+        "fr": [
+          "La plage côté mer a de petites vagues, moins adaptée aux bébés que le lagon",
+          "L'accent sur le spa donne une ambiance plus calme, moins bruyante côté enfants",
+          "La position sud est à quelques minutes en voiture des villes du nord"
+        ]
+      },
+      "verdict": {
+        "en": "Book it for the best of both worlds: a proper family hotel with the lagoon a two-minute walk away, and a marine spa that turns naptime into your time.",
+        "fr": "Réservez-le pour le meilleur des deux mondes : un vrai hôtel familial avec le lagon à deux minutes à pied, et un spa marin qui transforme la sieste des enfants en temps pour vous."
+      },
+      "parentTip": {
+        "en": "For the calmest water with a baby, cross to the Mar Menor lagoon side rather than the open-sea beach, where even small waves can unsettle a first-timer.",
+        "fr": "Pour l'eau la plus calme avec un bébé, passez côté lagon du Mar Menor plutôt que sur la plage côté mer ouverte, où même de petites vagues peuvent déstabiliser un débutant."
+      },
+      "atAGlance": [
+        {
+          "icon": "🌊",
+          "label": {
+            "en": "Two seas",
+            "fr": "Deux mers"
+          },
+          "value": {
+            "en": "Sea beach at the door, lagoon behind",
+            "fr": "Plage côté mer devant, lagon derrière"
+          }
+        },
+        {
+          "icon": "💆",
+          "label": {
+            "en": "Spa",
+            "fr": "Spa"
+          },
+          "value": {
+            "en": "Four thermal seawater pools",
+            "fr": "Quatre piscines thermales d'eau de mer"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "For kids",
+            "fr": "Pour les enfants"
+          },
+          "value": {
+            "en": "Children's pool, animation, playground",
+            "fr": "Pataugeoire, animation, aire de jeux"
+          }
+        },
+        {
+          "icon": "🌅",
+          "label": {
+            "en": "Setting",
+            "fr": "Cadre"
+          },
+          "value": {
+            "en": "Quieter southern tip of La Manga",
+            "fr": "Pointe sud plus calme de La Manga"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the water in front safe for a toddler?",
+            "fr": "L'eau devant est-elle sûre pour un tout-petit?"
+          },
+          "a": {
+            "en": "The beach at the door is on the open-sea side with gentle waves. For the calmest, shallowest paddling, cross the strip to the Mar Menor lagoon, a two-minute walk, where there are no waves at all.",
+            "fr": "La plage devant est côté mer ouverte, avec de légères vagues. Pour la baignade la plus calme et la moins profonde, traversez la bande jusqu'au lagon du Mar Menor, à deux minutes à pied, où il n'y a aucune vague."
+          }
+        },
+        {
+          "q": {
+            "en": "Can children use the spa?",
+            "fr": "Les enfants peuvent-ils utiliser le spa?"
+          },
+          "a": {
+            "en": "The thermal spa circuit is aimed at adults and has age limits, but there is a separate outdoor pool and a children's pool for the family, so parents take turns to enjoy the wellness area.",
+            "fr": "Le circuit thermal du spa est destiné aux adultes et a des limites d'âge, mais il y a une piscine extérieure séparée et une pataugeoire pour la famille, les parents peuvent donc profiter chacun leur tour de l'espace bien-être."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it a quiet or lively hotel?",
+            "fr": "Est-ce un hôtel calme ou animé?"
+          },
+          "a": {
+            "en": "It is on the calmer southern end of La Manga and leans a little more relaxed than the big northern resorts, which suits families who want animation for the kids without a party atmosphere.",
+            "fr": "Il est à l'extrémité sud plus calme de La Manga et penche un peu plus vers la détente que les grands complexes du nord, ce qui convient aux familles qui veulent de l'animation pour les enfants sans ambiance de fête."
+          }
+        }
+      ]
+    },
+    {
+      "key": "mar-menor-hotel-lodomar-spa-talasoterapia",
+      "destinationKey": "mar-menor",
+      "name": "Hotel Lodomar Spa & Talasoterapia",
+      "area": {
+        "en": "San Pedro del Pinatar",
+        "fr": "San Pedro del Pinatar"
+      },
+      "lat": 37.825,
+      "lng": -0.783,
+      "zoom": 12,
+      "address": "Hotel Lodomar Spa & Talasoterapia, Calle Río Bidasoa 1, 30740 San Pedro del Pinatar, Murcia, Spain",
+      "priceTier": 3,
+      "priceFrom": 115,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "self-catering",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolPalms",
+        "resortLoungers",
+        "coastTown"
+      ],
+      "scores": {
+        "rooms": 78,
+        "baby": 82,
+        "pool": 81,
+        "dining": 76,
+        "safety": 87,
+        "convenience": 79,
+        "location": 80,
+        "extras": 86
+      },
+      "roomsSummary": {
+        "en": "A relaxed four-star spa hotel at the quiet northern tip of the lagoon, with double rooms, junior suites and a block of self-catering apartments handy for families who want a kitchen. Two outdoor pools and a children's pool sit at the heart of it, and connecting rooms make family stays easy.",
+        "fr": "Un quatre étoiles spa détendu à la pointe nord tranquille du lagon, avec chambres doubles, junior suites et un bâtiment d'appartements en location libre, pratique pour les familles qui veulent une cuisine. Deux piscines extérieures et une pataugeoire en forment le coeur, et les chambres communicantes facilitent les séjours en famille."
+      },
+      "intro": {
+        "en": "Lodomar sits in San Pedro del Pinatar at the calm northern end of the Mar Menor, next to the regional salt-marsh park famous for its therapeutic mud. It is a proper spa hotel, and the standout is a marine thalasso circuit filled with warm salt water drawn from the lagoon marshes. For families there are two outdoor pools, a children's pool, a summer kids programme for four to twelve year olds and the option of a self-catering apartment. The shallow lagoon beaches and the natural mud baths are a short drive or cycle away through the salt flats.",
+        "fr": "Le Lodomar se trouve à San Pedro del Pinatar, à l'extrémité nord calme du Mar Menor, à côté du parc régional des salines réputé pour sa boue thérapeutique. C'est un vrai hôtel spa, et le point fort est un circuit de thalasso marine rempli d'eau salée chaude puisée dans les marais du lagon. Pour les familles, il y a deux piscines extérieures, une pataugeoire, un programme enfants l'été pour les quatre à douze ans et la possibilité d'un appartement en location libre. Les plages peu profondes du lagon et les bains de boue naturels sont à quelques minutes en voiture ou à vélo à travers les salines."
+      },
+      "highlights": {
+        "en": [
+          "Marine thalasso spa with warm lagoon salt water",
+          "Two outdoor pools plus a children's pool",
+          "Self-catering apartments as well as rooms",
+          "Summer kids programme for ages four to twelve"
+        ],
+        "fr": [
+          "Spa de thalasso marine à l'eau salée chaude du lagon",
+          "Deux piscines extérieures et une pataugeoire",
+          "Appartements en location libre en plus des chambres",
+          "Programme enfants l'été pour les quatre à douze ans"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Warm saltwater thalasso circuit for parents",
+          "Kitchen option ideal with a baby",
+          "Calm, uncrowded northern end of the lagoon",
+          "Near the famous natural mud baths"
+        ],
+        "fr": [
+          "Circuit de thalasso à l'eau salée chaude pour les parents",
+          "Option cuisine idéale avec un bébé",
+          "Extrémité nord du lagon, calme et peu fréquentée",
+          "Près des célèbres bains de boue naturels"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Not on the beach itself, a short drive or cycle away",
+          "Quieter town with less on the doorstep in the evening",
+          "The kids programme runs mainly in July and August"
+        ],
+        "fr": [
+          "Pas sur la plage même, à quelques minutes en voiture ou à vélo",
+          "Ville plus tranquille, moins d'animation le soir juste devant",
+          "Le programme enfants tourne surtout en juillet et août"
+        ]
+      },
+      "verdict": {
+        "en": "The pick for a calmer, wellness-leaning family week: a warm saltwater spa for you, pools and a kids club for them, and an apartment kitchen when a baby makes room service tiresome.",
+        "fr": "Le choix pour une semaine en famille plus calme et orientée bien-être : un spa d'eau salée chaude pour vous, des piscines et un club enfants pour eux, et une cuisine d'appartement quand un bébé rend le room service pénible."
+      },
+      "parentTip": {
+        "en": "Rent bikes and roll through the salt flats to the Lo Pagán mud beach: the little ones love the flamingos, and the shallow lagoon there is another gentle paddling spot.",
+        "fr": "Louez des vélos et roulez à travers les salines jusqu'à la plage de boue de Lo Pagán : les petits adorent les flamants roses, et le lagon peu profond y est un autre coin de baignade tout doux."
+      },
+      "atAGlance": [
+        {
+          "icon": "💧",
+          "label": {
+            "en": "Thalasso",
+            "fr": "Thalasso"
+          },
+          "value": {
+            "en": "Warm saltwater spa circuit",
+            "fr": "Circuit spa à l'eau salée chaude"
+          }
+        },
+        {
+          "icon": "🍳",
+          "label": {
+            "en": "Apartments",
+            "fr": "Appartements"
+          },
+          "value": {
+            "en": "Self-catering option with a kitchen",
+            "fr": "Option location libre avec cuisine"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Two outdoor pools plus a children's pool",
+            "fr": "Deux piscines extérieures et une pataugeoire"
+          }
+        },
+        {
+          "icon": "🦩",
+          "label": {
+            "en": "Nature",
+            "fr": "Nature"
+          },
+          "value": {
+            "en": "Salt-marsh park and flamingos nearby",
+            "fr": "Parc des salines et flamants tout près"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the hotel on the beach?",
+            "fr": "L'hôtel est-il sur la plage?"
+          },
+          "a": {
+            "en": "Not directly. It sits inland by the salt-marsh park, with the shallow lagoon beaches and the Lo Pagán mud baths a short drive or a flat bike ride away.",
+            "fr": "Pas directement. Il est en retrait, près du parc des salines, avec les plages peu profondes du lagon et les bains de boue de Lo Pagán à quelques minutes en voiture ou à vélo sur le plat."
+          }
+        },
+        {
+          "q": {
+            "en": "Are there apartments with a kitchen?",
+            "fr": "Y a-t-il des appartements avec cuisine?"
+          },
+          "a": {
+            "en": "Yes, alongside the hotel rooms and junior suites there is a set of self-catering apartments, which many parents prefer for warming bottles and preparing simple meals for a baby.",
+            "fr": "Oui, à côté des chambres et des junior suites, il y a un ensemble d'appartements en location libre, que beaucoup de parents préfèrent pour réchauffer les biberons et préparer des repas simples pour un bébé."
+          }
+        },
+        {
+          "q": {
+            "en": "Does it have activities for children?",
+            "fr": "Propose-t-il des activités pour les enfants?"
+          },
+          "a": {
+            "en": "There is a children's pool year-round and a supervised kids programme for four to twelve year olds during July and August, plus children's menus at mealtimes.",
+            "fr": "Il y a une pataugeoire toute l'année et un programme enfants encadré pour les quatre à douze ans en juillet et août, ainsi que des menus enfants aux repas."
+          }
+        }
+      ]
+    },
+    {
+      "key": "mar-menor-la-manga-club",
+      "destinationKey": "mar-menor",
+      "name": "La Manga Club",
+      "area": {
+        "en": "Los Belones (Cartagena)",
+        "fr": "Los Belones (Cartagena)"
+      },
+      "lat": 37.626,
+      "lng": -0.735,
+      "zoom": 12,
+      "address": "La Manga Club, Urbanización La Manga Club s/n, 30385 Los Belones, Cartagena, Murcia, Spain",
+      "priceTier": 4,
+      "priceFrom": 220,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "self-catering",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "poolPalms",
+        "kidsFootball",
+        "resortLoungers"
+      ],
+      "scores": {
+        "rooms": 86,
+        "baby": 70,
+        "pool": 88,
+        "dining": 84,
+        "safety": 82,
+        "convenience": 74,
+        "location": 78,
+        "extras": 92
+      },
+      "roomsSummary": {
+        "en": "A vast resort estate above the Mar Menor with hotel rooms, apartments and villas, many with their own kitchen and pool. Family accommodation is generous and the self-catering options suit longer stays, though the layout is spread out and a car or the resort shuttle helps.",
+        "fr": "Un immense domaine au-dessus du Mar Menor avec chambres d'hôtel, appartements et villas, beaucoup avec cuisine et piscine privées. L'hébergement familial est généreux et les options en location libre conviennent aux longs séjours, même si le domaine est étendu et qu'une voiture ou la navette du resort est bien utile."
+      },
+      "intro": {
+        "en": "La Manga Club is the region's big premium resort, a huge estate of golf, tennis, football pitches and pools set in the hills just above the lagoon. For families it is a proper activity playground: supervised kids clubs, junior academies in golf, tennis and football, a climbing wall, crazy golf and go-karts, ideal for energetic kids and teens. It is not a toddler-on-the-beach hotel, the shallow lagoon beaches are a short drive or shuttle away, but for a sporty family holiday with facilities for every age, nothing else here comes close.",
+        "fr": "La Manga Club est le grand resort haut de gamme de la région, un immense domaine de golf, tennis, terrains de football et piscines niché dans les collines juste au-dessus du lagon. Pour les familles, c'est un vrai terrain de jeu : clubs enfants encadrés, académies juniors de golf, tennis et football, mur d'escalade, mini golf et karting, idéal pour les enfants pleins d'énergie et les ados. Ce n'est pas un hôtel de tout-petits au bord de l'eau, les plages peu profondes du lagon sont à quelques minutes en voiture ou en navette, mais pour des vacances familiales sportives avec des équipements pour tous les âges, rien d'autre ici n'approche."
+      },
+      "highlights": {
+        "en": [
+          "Kids clubs plus junior golf, tennis and football academies",
+          "Huge choice of pools, sports and activities",
+          "Villas and apartments with kitchens for longer stays",
+          "Something for every age, toddlers to teens"
+        ],
+        "fr": [
+          "Clubs enfants et académies juniors de golf, tennis et football",
+          "Immense choix de piscines, sports et activités",
+          "Villas et appartements avec cuisine pour les longs séjours",
+          "De quoi occuper tous les âges, des tout-petits aux ados"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Unmatched range of sport and activities for kids and teens",
+          "Spacious self-catering options across the estate",
+          "High standard of accommodation and dining",
+          "Great for families with a wide age spread"
+        ],
+        "fr": [
+          "Éventail inégalé de sports et d'activités pour enfants et ados",
+          "Options en location libre spacieuses sur tout le domaine",
+          "Hébergement et restauration de bon niveau",
+          "Idéal pour les familles avec des âges très différents"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Not on the beach, the lagoon is a drive or shuttle away",
+          "Spread-out estate, easier with a hire car",
+          "Kids academies and many activities cost extra",
+          "Pricier than the lagoon-front town hotels"
+        ],
+        "fr": [
+          "Pas au bord de la plage, le lagon est à quelques minutes en voiture ou en navette",
+          "Domaine étendu, plus facile avec une voiture de location",
+          "Les académies enfants et beaucoup d'activités sont en supplément",
+          "Plus cher que les hôtels de ville en front de lagon"
+        ]
+      },
+      "verdict": {
+        "en": "The one for active families with older kids or a broad age range. Less about toddler paddling, all about filling busy days with sport and space, then driving down to the shallow lagoon when you want the beach.",
+        "fr": "Celui des familles actives avec de grands enfants ou des âges très variés. Moins pour la baignade des tout-petits, tout pour remplir des journées bien occupées de sport et d'espace, avant de descendre au lagon peu profond quand vous voulez la plage."
+      },
+      "parentTip": {
+        "en": "Book an apartment or villa with a kitchen and its own pool: with a baby or toddler in the mix, having your own splash pool on site beats trekking to the beach every day.",
+        "fr": "Réservez un appartement ou une villa avec cuisine et piscine privée : avec un bébé ou un tout-petit dans l'équation, avoir sa propre petite piscine sur place vaut mieux que d'aller à la plage chaque jour."
+      },
+      "atAGlance": [
+        {
+          "icon": "⚽",
+          "label": {
+            "en": "Activities",
+            "fr": "Activités"
+          },
+          "value": {
+            "en": "Golf, tennis, football, go-karts and more",
+            "fr": "Golf, tennis, football, karting et plus"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids clubs",
+            "fr": "Clubs enfants"
+          },
+          "value": {
+            "en": "Supervised clubs and junior academies",
+            "fr": "Clubs encadrés et académies juniors"
+          }
+        },
+        {
+          "icon": "🏡",
+          "label": {
+            "en": "Stay",
+            "fr": "Hébergement"
+          },
+          "value": {
+            "en": "Rooms, apartments and villas with pools",
+            "fr": "Chambres, appartements et villas avec piscine"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Shallow lagoon a short drive or shuttle",
+            "fr": "Lagon peu profond en voiture ou navette"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is La Manga Club on the beach?",
+            "fr": "La Manga Club est-il au bord de la plage?"
+          },
+          "a": {
+            "en": "No, the resort sits in the hills above the coast. It runs a shuttle and has its own beach club, and the shallow Mar Menor lagoon beaches are a short drive down, so a hire car is handy.",
+            "fr": "Non, le resort est dans les collines au-dessus de la côte. Il propose une navette et dispose de son propre beach club, et les plages peu profondes du lagon du Mar Menor sont à quelques minutes en voiture, une voiture de location est donc pratique."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it worth it with very young children?",
+            "fr": "Cela vaut-il le coup avec de très jeunes enfants?"
+          },
+          "a": {
+            "en": "It can be, especially if you book an apartment or villa with its own pool, but toddlers get less from the sports facilities, so families chasing shallow-beach days often prefer a lagoon-front town hotel.",
+            "fr": "Cela peut valoir le coup, surtout en réservant un appartement ou une villa avec piscine privée, mais les tout-petits profitent moins des équipements sportifs, les familles en quête de journées plage peu profonde préfèrent souvent un hôtel de ville en front de lagon."
+          }
+        },
+        {
+          "q": {
+            "en": "Are the kids clubs included?",
+            "fr": "Les clubs enfants sont-ils compris?"
+          },
+          "a": {
+            "en": "Some supervised club sessions are included at times, but the junior golf, tennis and football academies and many activities are paid extras, so budget for them if the kids want to join in.",
+            "fr": "Certaines séances de club encadrées sont parfois comprises, mais les académies juniors de golf, tennis et football et beaucoup d'activités sont en supplément, prévoyez un budget si les enfants veulent y participer."
+          }
+        }
+      ]
+    }
+  ],
+  "destinationMeta": {
+    "name": {
+      "en": "Mar Menor",
+      "fr": "Mar Menor"
+    },
+    "country": {
+      "en": "Spain",
+      "fr": "Espagne"
+    },
+    "emoji": "🏖️",
+    "accent": "e8934a",
+    "geo": {
+      "lat": 37.75,
+      "lng": -0.8,
+      "zoom": 10
+    },
+    "heroKicker": {
+      "en": "Europe's warmest, shallowest lagoon, made for first beach days with a baby",
+      "fr": "Le lagon le plus chaud et le moins profond d'Europe, fait pour les premières journées plage avec un bébé"
+    },
+    "intro": {
+      "en": "The Mar Menor is a huge, shallow, warm saltwater lagoon on Spain's Costa Cálida, cut off from the open Mediterranean by a thin strip of land called La Manga. Because it is so shallow, the water is bath-warm and, crucially for parents, there are no waves: you can walk a toddler out a long way with the surface still around their knees. That makes it one of the very best places in Europe for a first beach holiday with a baby or a nervous small swimmer. Add mild winter sun, gentle sandy shores and family-focused resort towns, and the case for the Mar Menor with little ones almost writes itself. It is not a glamorous coast, it is a practical, reassuring one, which is exactly what you want when the swimmers are three years old.",
+      "fr": "Le Mar Menor est un immense lagon d'eau salée peu profond et chaud, sur la Costa Cálida espagnole, séparé de la Méditerranée ouverte par une mince bande de terre appelée La Manga. Comme il est si peu profond, l'eau est tiède comme un bain et, essentiel pour les parents, il n'y a pas de vagues : vous pouvez faire avancer un tout-petit très loin avec la surface encore aux genoux. Cela en fait l'un des tout meilleurs endroits d'Europe pour de premières vacances plage avec un bébé ou un petit nageur peu rassuré. Ajoutez un doux soleil d'hiver, des rives de sable douces et des villes balnéaires tournées vers les familles, et l'évidence du Mar Menor avec des petits s'impose presque d'elle-même. Ce n'est pas une côte glamour, c'est une côte pratique et rassurante, précisément ce que l'on veut quand les nageurs ont trois ans."
+    },
+    "whyKids": {
+      "en": [
+        "The lagoon is so shallow you can wade out metres with the water still knee to waist deep",
+        "No waves at all, the calmest, safest paddling in Europe for babies and toddlers",
+        "Water warms up like a bath, gentle even for the most cautious first swim",
+        "Los Narejos and other blue-flag beaches have soft, gradual sand for little feet",
+        "Mild winter sun makes it a rare off-season beach break for young families"
+      ],
+      "fr": [
+        "Le lagon est si peu profond que vous avancez sur des mètres avec l'eau encore aux genoux ou à la taille",
+        "Aucune vague, la baignade la plus calme et la plus sûre d'Europe pour bébés et tout-petits",
+        "L'eau se réchauffe comme un bain, douce même pour la première baignade la plus prudente",
+        "Los Narejos et d'autres plages pavillon bleu ont un sable doux et en pente douce pour les petits pieds",
+        "Le doux soleil d'hiver en fait une rare escapade plage hors saison pour les jeunes familles"
+      ]
+    },
+    "bestAreas": {
+      "en": [
+        "Los Alcázares: the family capital of the lagoon, walkable, with the wide, shallow Los Narejos beach and a promenade of cafes",
+        "Santiago de la Ribera: a laid-back seaside town with a long sandy beach and an easygoing local feel",
+        "La Manga del Mar Menor: the narrow strip with two seas, lagoon on one side and open Mediterranean on the other, and the biggest resorts",
+        "San Pedro del Pinatar: the quiet northern tip, home to the salt-marsh park, flamingos and the famous natural mud baths"
+      ],
+      "fr": [
+        "Los Alcázares : la capitale familiale du lagon, accessible à pied, avec la large plage peu profonde de Los Narejos et une promenade de cafés",
+        "Santiago de la Ribera : une ville balnéaire tranquille avec une longue plage de sable et une ambiance locale décontractée",
+        "La Manga del Mar Menor : la bande étroite aux deux mers, lagon d'un côté et Méditerranée ouverte de l'autre, avec les plus grands complexes",
+        "San Pedro del Pinatar : la pointe nord tranquille, avec le parc des salines, les flamants roses et les célèbres bains de boue naturels"
+      ]
+    },
+    "goodToKnow": {
+      "en": "The Mar Menor is a delicate lagoon and its ecology has had a hard time in recent years: at certain times, especially after heavy rain or in late summer, the water can carry seaweed, algae or a green tinge, and the odd beach can close briefly. It is usually clear and inviting, but check local conditions for the week you travel and be ready to switch to the open-sea side of La Manga or to the pool. Some of the towns, particularly Santiago de la Ribera and San Pedro del Pinatar, are quiet and low-key, lovely for a calm week but light on big-resort buzz and nightlife. The nearest airports are Murcia (Corvera) and Alicante, both an easy transfer, and a hire car makes hopping between the lagoon towns much simpler.",
+      "fr": "Le Mar Menor est un lagon fragile et son écologie a connu des années difficiles : à certains moments, surtout après de fortes pluies ou en fin d'été, l'eau peut charrier des algues ou prendre une teinte verte, et une plage peut fermer brièvement. Elle est le plus souvent claire et engageante, mais renseignez-vous sur les conditions locales pour la semaine de votre voyage et soyez prêts à passer côté mer ouverte de La Manga ou à la piscine. Certaines villes, en particulier Santiago de la Ribera et San Pedro del Pinatar, sont calmes et sans prétention, parfaites pour une semaine tranquille mais légères en animation de grand resort et en vie nocturne. Les aéroports les plus proches sont Murcie (Corvera) et Alicante, tous deux à transfert facile, et une voiture de location simplifie beaucoup les allers-retours entre les villes du lagon."
+    },
+    "parentTip": {
+      "en": "Base yourself in Los Alcázares for the gentlest toddler beach and everything within a pram push, and pick a hotel with a good pool so you always have a clean, reliable back-up if the lagoon looks weedy on the day.",
+      "fr": "Installez-vous à Los Alcázares pour la plage la plus douce pour tout-petits et tout à distance de poussette, et choisissez un hôtel avec une bonne piscine pour toujours avoir une solution de repli propre et fiable si le lagon paraît chargé d'algues ce jour-là."
+    },
+    "stats": [
+      {
+        "value": "Under 2m",
+        "label": {
+          "en": "Typical lagoon depth, shallow for miles",
+          "fr": "Profondeur typique du lagon, peu profond sur des kilomètres"
+        }
+      },
+      {
+        "value": "No waves",
+        "label": {
+          "en": "Calm, sheltered water year-round",
+          "fr": "Eau calme et abritée toute l'année"
+        }
+      },
+      {
+        "value": "Mild winters",
+        "label": {
+          "en": "Rare off-season sun for young families",
+          "fr": "Rare soleil hors saison pour les jeunes familles"
+        }
+      },
+      {
+        "value": "45 min",
+        "label": {
+          "en": "Transfer from Murcia or Alicante airports",
+          "fr": "Transfert depuis les aéroports de Murcie ou Alicante"
+        }
+      }
+    ]
+  }
+}

@@ -53,6 +53,10 @@ import istria from "./istria.json";
 import costaAlmeria from "./costa-almeria.json";
 import puntaCana from "./punta-cana.json";
 import frenchAlps from "./french-alps.json";
+import marMenor from "./mar-menor.json";
+import naxosParos from "./naxos-paros.json";
+import costaNavarino from "./costa-navarino.json";
+import marsaAlam from "./marsa-alam.json";
 
 // Hotels are authored as JSON seeds (researched + drafted) and mapped to the
 // Hotel shape here: geo assembled, a clean unique slug generated per property,
@@ -63,7 +67,7 @@ type SeedFile = {
   destinationMeta?: Record<string, unknown>;
 };
 
-const FILES = [lisbon, algarve, costa, mallorca, tenerife, crete, antalya, sardinia, costaBlanca, rhodes, granCanaria, cyprus, sicily, corfu, fuerteventura, barcelona, lanzarote, menorca, kos, valencia, malta, zakynthos, madeira, costaDorada, seville, halkidiki, puglia, hurghada, sousse, sharm, bodrum, sal, reunion, saintMartin, dubai, martinique, guadeloupe, ibiza, laPalma, agadir, lakeGarda, frenchRiviera, costaBrava, djerba, marrakech, costaLuz, mauritius, istria, costaAlmeria, puntaCana, frenchAlps] as unknown as SeedFile[];
+const FILES = [lisbon, algarve, costa, mallorca, tenerife, crete, antalya, sardinia, costaBlanca, rhodes, granCanaria, cyprus, sicily, corfu, fuerteventura, barcelona, lanzarote, menorca, kos, valencia, malta, zakynthos, madeira, costaDorada, seville, halkidiki, puglia, hurghada, sousse, sharm, bodrum, sal, reunion, saintMartin, dubai, martinique, guadeloupe, ibiza, laPalma, agadir, lakeGarda, frenchRiviera, costaBrava, djerba, marrakech, costaLuz, mauritius, istria, costaAlmeria, puntaCana, frenchAlps, marMenor, naxosParos, costaNavarino, marsaAlam] as unknown as SeedFile[];
 
 /** Loosely-typed per-destination meta (used to build newer Destinations). */
 export const MALLORCA_META = (mallorca as unknown as SeedFile).destinationMeta as
@@ -208,6 +212,18 @@ export const PUNTA_CANA_META = (puntaCana as unknown as SeedFile).destinationMet
   | Record<string, unknown>
   | undefined;
 export const FRENCH_ALPS_META = (frenchAlps as unknown as SeedFile).destinationMeta as
+  | Record<string, unknown>
+  | undefined;
+export const MAR_MENOR_META = (marMenor as unknown as SeedFile).destinationMeta as
+  | Record<string, unknown>
+  | undefined;
+export const NAXOS_PAROS_META = (naxosParos as unknown as SeedFile).destinationMeta as
+  | Record<string, unknown>
+  | undefined;
+export const COSTA_NAVARINO_META = (costaNavarino as unknown as SeedFile).destinationMeta as
+  | Record<string, unknown>
+  | undefined;
+export const MARSA_ALAM_META = (marsaAlam as unknown as SeedFile).destinationMeta as
   | Record<string, unknown>
   | undefined;
 

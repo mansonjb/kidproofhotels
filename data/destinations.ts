@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META, COSTA_ALMERIA_META, PUNTA_CANA_META, FRENCH_ALPS_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META, COSTA_ALMERIA_META, PUNTA_CANA_META, FRENCH_ALPS_META, MAR_MENOR_META, NAXOS_PAROS_META, COSTA_NAVARINO_META, MARSA_ALAM_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -100,6 +100,10 @@ const CA = (COSTA_ALMERIA_META ?? {}) as any;
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const PC = (PUNTA_CANA_META ?? {}) as any;
 const FA = (FRENCH_ALPS_META ?? {}) as any;
+const MMN = (MAR_MENOR_META ?? {}) as any;
+const NXP = (NAXOS_PAROS_META ?? {}) as any;
+const CNV = (COSTA_NAVARINO_META ?? {}) as any;
+const MSA = (MARSA_ALAM_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -1891,6 +1895,118 @@ export const DESTINATIONS: Destination[] = src([
     faqs: FA.faqs,
     parentTip: FA.parentTip,
     goodToKnow: FA.goodToKnow,
+  },
+  {
+    key: "mar-menor",
+    name: MMN.name ?? { en: "Mar Menor", fr: "Mar Menor" },
+    country: MMN.country ?? { en: "Spain", fr: "Espagne" },
+    inPhrase: { en: "on the Mar Menor", fr: "au Mar Menor" },
+    slug: {
+      en: "family-hotels-mar-menor",
+      fr: "hotels-famille-mar-menor",
+    },
+    geo: MMN.geo ?? { lat: 37.75, lng: -0.8, zoom: 10 },
+    heroKicker: MMN.heroKicker ?? {
+      en: "A shallow, warm, waveless lagoon, one of Europe's best toddler beaches",
+      fr: "Une lagune peu profonde, chaude et sans vagues, l'une des meilleures plages tout-petits d'Europe",
+    },
+    intro: MMN.intro ?? { en: "", fr: "" },
+    whyKids: MMN.whyKids ?? { en: [], fr: [] },
+    bestAreas: MMN.bestAreas ?? { en: [], fr: [] },
+    emoji: MMN.emoji ?? "🏖️",
+    accent: MMN.accent ?? "e8934a",
+    hotelKeys: [], // populated below
+    related: ["costa-blanca", "costa-almeria", "guide-winter-sun-2027"],
+    photos: MMN.photos,
+    stats: MMN.stats,
+    activities: MMN.activities,
+    faqs: MMN.faqs,
+    parentTip: MMN.parentTip,
+    goodToKnow: MMN.goodToKnow,
+  },
+  {
+    key: "naxos-paros",
+    name: NXP.name ?? { en: "Naxos & Paros", fr: "Naxos et Paros" },
+    country: NXP.country ?? { en: "Greece", fr: "Grèce" },
+    inPhrase: { en: "in Naxos & Paros", fr: "à Naxos et Paros" },
+    slug: {
+      en: "family-hotels-naxos-paros",
+      fr: "hotels-famille-naxos-paros",
+    },
+    geo: NXP.geo ?? { lat: 37.05, lng: 25.3, zoom: 9 },
+    heroKicker: NXP.heroKicker ?? {
+      en: "Long shallow sandy beaches, calmer and gentler than the party islands",
+      fr: "De longues plages de sable peu profondes, plus calmes que les îles festives",
+    },
+    intro: NXP.intro ?? { en: "", fr: "" },
+    whyKids: NXP.whyKids ?? { en: [], fr: [] },
+    bestAreas: NXP.bestAreas ?? { en: [], fr: [] },
+    emoji: NXP.emoji ?? "🏝️",
+    accent: NXP.accent ?? "2bb3c0",
+    hotelKeys: [], // populated below
+    related: ["guide-greece-family", "crete", "guide-allinclusive-europe"],
+    photos: NXP.photos,
+    stats: NXP.stats,
+    activities: NXP.activities,
+    faqs: NXP.faqs,
+    parentTip: NXP.parentTip,
+    goodToKnow: NXP.goodToKnow,
+  },
+  {
+    key: "costa-navarino",
+    name: CNV.name ?? { en: "Costa Navarino", fr: "Costa Navarino" },
+    country: CNV.country ?? { en: "Greece", fr: "Grèce" },
+    inPhrase: { en: "in Costa Navarino", fr: "à Costa Navarino" },
+    slug: {
+      en: "family-hotels-costa-navarino",
+      fr: "hotels-famille-costa-navarino",
+    },
+    geo: CNV.geo ?? { lat: 36.96, lng: 21.68, zoom: 10 },
+    heroKicker: CNV.heroKicker ?? {
+      en: "Premium Peloponnese: world-class kids clubs, an aqua park and sandy dunes",
+      fr: "Péloponnèse haut de gamme : clubs enfants de classe mondiale, parc aquatique et dunes de sable",
+    },
+    intro: CNV.intro ?? { en: "", fr: "" },
+    whyKids: CNV.whyKids ?? { en: [], fr: [] },
+    bestAreas: CNV.bestAreas ?? { en: [], fr: [] },
+    emoji: CNV.emoji ?? "🏖️",
+    accent: CNV.accent ?? "2bb3c0",
+    hotelKeys: [], // populated below
+    related: ["guide-greece-family", "guide-allinclusive-europe", "naxos-paros"],
+    photos: CNV.photos,
+    stats: CNV.stats,
+    activities: CNV.activities,
+    faqs: CNV.faqs,
+    parentTip: CNV.parentTip,
+    goodToKnow: CNV.goodToKnow,
+  },
+  {
+    key: "marsa-alam",
+    name: MSA.name ?? { en: "Marsa Alam", fr: "Marsa Alam" },
+    country: MSA.country ?? { en: "Egypt", fr: "Égypte" },
+    inPhrase: { en: "in Marsa Alam", fr: "à Marsa Alam" },
+    slug: {
+      en: "family-hotels-marsa-alam",
+      fr: "hotels-famille-marsa-alam",
+    },
+    geo: MSA.geo ?? { lat: 25.07, lng: 34.9, zoom: 9 },
+    heroKicker: MSA.heroKicker ?? {
+      en: "A calmer Red Sea than Hurghada, winter sun and house reefs for young snorkellers",
+      fr: "Une mer Rouge plus calme qu'Hurghada, soleil d'hiver et récifs maison pour jeunes plongeurs",
+    },
+    intro: MSA.intro ?? { en: "", fr: "" },
+    whyKids: MSA.whyKids ?? { en: [], fr: [] },
+    bestAreas: MSA.bestAreas ?? { en: [], fr: [] },
+    emoji: MSA.emoji ?? "🐠",
+    accent: MSA.accent ?? "1baf7a",
+    hotelKeys: [], // populated below
+    related: ["hurghada", "sharm", "guide-winter-sun-2027"],
+    photos: MSA.photos,
+    stats: MSA.stats,
+    activities: MSA.activities,
+    faqs: MSA.faqs,
+    parentTip: MSA.parentTip,
+    goodToKnow: MSA.goodToKnow,
   },
 ]);
 

@@ -1,0 +1,1361 @@
+{
+  "hotels": [
+    {
+      "key": "naxos-paros-naxos-resort-beach-hotel",
+      "destinationKey": "naxos-paros",
+      "name": "Naxos Resort Beach Hotel",
+      "area": {
+        "en": "Naxos (Agios Georgios)",
+        "fr": "Naxos (Agios Georgios)"
+      },
+      "lat": 37.101,
+      "lng": 25.369,
+      "zoom": 12,
+      "address": "Naxos Resort Beach Hotel, Agios Georgios Beach, Naxos Town 84300, Greece",
+      "priceTier": 3,
+      "priceFrom": 150,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "whiteResortPool",
+        "beachSunset",
+        "poolPalms"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 85,
+        "pool": 82,
+        "dining": 74,
+        "safety": 86,
+        "convenience": 88,
+        "location": 89,
+        "extras": 72
+      },
+      "roomsSummary": {
+        "en": "Cycladic-style rooms and family rooms that sleep up to four, most with a balcony or terrace over the gardens, pool or sea. Ground-floor units near the pool make life with a pram and a nap-timer much easier.",
+        "fr": "Chambres et chambres familiales de style cycladique jusqu'à quatre personnes, la plupart avec balcon ou terrasse sur les jardins, la piscine ou la mer. Les unités en rez-de-chaussée près de la piscine simplifient la vie avec une poussette et un rythme de siestes."
+      },
+      "intro": {
+        "en": "This is the easy choice for a first trip to Naxos with little ones: a proper beachfront hotel just 30 metres from the long, shallow sands of Agios Georgios, and only a ten-minute stroll from the shops and tavernas of Naxos Town. There is a big pool plus a separate children's pool, family rooms that genuinely fit four, and a beach where a toddler can wade out a long way and the water still only reaches their knees. You can leave the hire car at home and do the whole holiday on foot.",
+        "fr": "C'est le choix facile pour un premier séjour à Naxos avec des tout-petits : un vrai hôtel les pieds dans l'eau, à 30 mètres seulement du long sable peu profond d'Agios Georgios, et à dix minutes à pied des boutiques et tavernes de la ville de Naxos. Il y a une grande piscine et un bassin séparé pour enfants, des chambres familiales qui accueillent vraiment quatre personnes, et une plage où un tout-petit peut s'éloigner longtemps du bord avec de l'eau à hauteur de genoux. Vous pouvez laisser la voiture de location et faire toutes vos vacances à pied."
+      },
+      "highlights": {
+        "en": [
+          "Thirty metres from shallow, sandy Agios Georgios beach",
+          "Big pool plus a separate children's pool",
+          "Family rooms that really sleep four",
+          "Ten-minute flat walk into Naxos Town"
+        ],
+        "fr": [
+          "À trente mètres de la plage de sable peu profonde d'Agios Georgios",
+          "Grande piscine et bassin séparé pour enfants",
+          "Chambres familiales qui accueillent vraiment quatre personnes",
+          "Dix minutes de marche à plat jusqu'à la ville de Naxos"
+        ]
+      },
+      "pros": {
+        "en": [
+          "One of the safest, shallowest beaches on the island right outside",
+          "No car needed, town and beach both on foot",
+          "Children's pool separate from the main one",
+          "Cycladic charm without a boutique price"
+        ],
+        "fr": [
+          "L'une des plages les plus sûres et peu profondes de l'île juste devant",
+          "Aucune voiture nécessaire, ville et plage à pied",
+          "Bassin enfants séparé de la piscine principale",
+          "Le charme cycladique sans le prix d'une boutique"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Agios Georgios is a busy town beach, not a quiet cove",
+          "Half-board dining is simple rather than a highlight",
+          "Fills up fast in July and August"
+        ],
+        "fr": [
+          "Agios Georgios est une plage de ville animée, pas une crique tranquille",
+          "La demi-pension est simple plutôt qu'un point fort",
+          "Se remplit vite en juillet et août"
+        ]
+      },
+      "verdict": {
+        "en": "The most stress-free base on Naxos for babies and toddlers: shallow sand, a kids' pool and the town both a few steps away. Book a pool-side family room and leave the car keys at home.",
+        "fr": "La base la moins stressante de Naxos pour les bébés et les tout-petits : sable peu profond, bassin enfants et ville à quelques pas. Réservez une chambre familiale côté piscine et laissez les clés de voiture à la maison."
+      },
+      "parentTip": {
+        "en": "Agios Georgios shelves so gently that at low sun the water is warm and calm; take the toddler in before nine, when the beach is quiet and the sand has not yet baked.",
+        "fr": "Agios Georgios descend si doucement qu'au soleil bas l'eau est chaude et calme ; emmenez le tout-petit avant neuf heures, quand la plage est calme et le sable pas encore brûlant."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Shallow Agios Georgios sand, 30m away",
+            "fr": "Sable peu profond d'Agios Georgios, à 30 m"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Main pool plus a children's pool",
+            "fr": "Piscine principale et bassin enfants"
+          }
+        },
+        {
+          "icon": "🚶",
+          "label": {
+            "en": "Town",
+            "fr": "Ville"
+          },
+          "value": {
+            "en": "Ten minutes on foot, no car needed",
+            "fr": "Dix minutes à pied, sans voiture"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the beach safe for a baby or toddler?",
+            "fr": "La plage est-elle sûre pour un bébé ou un tout-petit?"
+          },
+          "a": {
+            "en": "Yes, Agios Georgios is one of the shallowest beaches on Naxos: soft sand and water that stays knee-deep for a long way out, so little ones can paddle safely close to shore.",
+            "fr": "Oui, Agios Georgios est l'une des plages les plus peu profondes de Naxos : sable doux et eau qui reste à hauteur de genoux sur une grande distance, les tout-petits peuvent barboter en sécurité près du bord."
+          }
+        },
+        {
+          "q": {
+            "en": "Do we need a hire car?",
+            "fr": "Faut-il une voiture de location?"
+          },
+          "a": {
+            "en": "Not for a beach-and-town holiday. The beach is outside the door and Naxos Town is a flat ten-minute walk, so most families only rent a car for a day or two of island exploring.",
+            "fr": "Pas pour des vacances plage et ville. La plage est devant la porte et la ville de Naxos est à dix minutes à pied à plat, la plupart des familles ne louent une voiture que pour un jour ou deux d'excursions."
+          }
+        }
+      ]
+    },
+    {
+      "key": "naxos-paros-liana-beach-hotel-spa",
+      "destinationKey": "naxos-paros",
+      "name": "Liana Beach Hotel & Spa",
+      "area": {
+        "en": "Naxos (Agios Prokopios)",
+        "fr": "Naxos (Agios Prokopios)"
+      },
+      "lat": 37.079,
+      "lng": 25.362,
+      "zoom": 12,
+      "address": "Liana Beach Hotel & Spa, Agios Prokopios Beach, Naxos 84300, Greece",
+      "priceTier": 3,
+      "priceFrom": 165,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "self-catering",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "poolPalms",
+        "villaModern",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 84,
+        "baby": 83,
+        "pool": 82,
+        "dining": 76,
+        "safety": 84,
+        "convenience": 82,
+        "location": 88,
+        "extras": 78
+      },
+      "roomsSummary": {
+        "en": "Spacious suites and apartments, several with two bedrooms and a kitchenette, plus private balconies or patios and a few with their own hot tub. The self-catering options are a real help with early toddler dinners and midnight bottles.",
+        "fr": "Suites et appartements spacieux, plusieurs à deux chambres avec kitchenette, avec balcon ou terrasse privés et quelques-uns dotés de leur propre bain à remous. Les options en cuisine autonome aident vraiment pour les dîners précoces des tout-petits et les biberons de la nuit."
+      },
+      "intro": {
+        "en": "Agios Prokopios is regularly voted one of the best beaches in Greece, a wide sweep of pale sand with a Blue Flag and water that shelves slowly and calmly. Liana Beach sits right beside it, a relaxed four-star with two-bedroom apartments, a garden pool and a small spa. It is the sweet spot on Naxos for families who want a proper beach day but also a kitchen for fussy eaters and a bus into town when the car stays parked.",
+        "fr": "Agios Prokopios est régulièrement classée parmi les plus belles plages de Grèce, un large ruban de sable clair avec un Pavillon Bleu et une eau qui descend lentement et calmement. Le Liana Beach est juste à côté, un quatre-étoiles décontracté avec appartements deux chambres, piscine dans le jardin et petit spa. C'est le bon compromis à Naxos pour les familles qui veulent une vraie journée plage mais aussi une cuisine pour les petits difficiles et un bus vers la ville quand la voiture reste garée."
+      },
+      "highlights": {
+        "en": [
+          "Beside Blue Flag Agios Prokopios, a calm shelving beach",
+          "Two-bedroom apartments with kitchenettes",
+          "Garden pool and a small spa",
+          "Bus and tavernas a short walk away"
+        ],
+        "fr": [
+          "À côté du Pavillon Bleu d'Agios Prokopios, plage calme en pente douce",
+          "Appartements deux chambres avec kitchenette",
+          "Piscine dans le jardin et petit spa",
+          "Bus et tavernes à quelques minutes à pied"
+        ]
+      },
+      "pros": {
+        "en": [
+          "One of Greece's best beaches on the doorstep",
+          "Kitchenettes make toddler meals easy",
+          "Genuine family-sized apartments",
+          "No car needed for a beach-focused week"
+        ],
+        "fr": [
+          "L'une des plus belles plages de Grèce juste devant",
+          "Les kitchenettes facilitent les repas des tout-petits",
+          "De vrais appartements taille famille",
+          "Aucune voiture nécessaire pour une semaine axée plage"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Agios Prokopios gets busy at peak times",
+          "Not a full water-park style resort",
+          "Some rooms are a short walk from the sand"
+        ],
+        "fr": [
+          "Agios Prokopios se remplit en haute saison",
+          "Ce n'est pas un resort avec parc aquatique",
+          "Certaines chambres sont à quelques pas du sable"
+        ]
+      },
+      "verdict": {
+        "en": "A calm, comfortable four-star next to one of Greece's finest family beaches, with kitchens for the fussy-eater years. Ask for a two-bedroom apartment and settle in for the week.",
+        "fr": "Un quatre-étoiles calme et confortable à côté de l'une des plus belles plages familiales de Grèce, avec cuisines pour l'âge des petits difficiles. Demandez un appartement deux chambres et installez-vous pour la semaine."
+      },
+      "parentTip": {
+        "en": "The far southern end of Agios Prokopios stays quieter and shallower; walk five minutes past the beach bars and you get calm water and space for a sandcastle empire.",
+        "fr": "L'extrémité sud d'Agios Prokopios reste plus calme et peu profonde ; marchez cinq minutes au-delà des bars de plage et vous trouvez une eau tranquille et de la place pour un empire de châteaux de sable."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Blue Flag Agios Prokopios alongside",
+            "fr": "Pavillon Bleu d'Agios Prokopios à côté"
+          }
+        },
+        {
+          "icon": "🍳",
+          "label": {
+            "en": "Self-catering",
+            "fr": "Cuisine autonome"
+          },
+          "value": {
+            "en": "Two-bedroom apartments with kitchenettes",
+            "fr": "Appartements deux chambres avec kitchenette"
+          }
+        },
+        {
+          "icon": "💆",
+          "label": {
+            "en": "Spa",
+            "fr": "Spa"
+          },
+          "value": {
+            "en": "Small spa for an off-duty hour",
+            "fr": "Petit spa pour une heure sans les enfants"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Are the apartments good for a family of four?",
+            "fr": "Les appartements conviennent-ils à une famille de quatre?"
+          },
+          "a": {
+            "en": "Yes, the two-bedroom apartments give parents and children separate rooms plus a kitchenette, which makes early dinners and nap times far easier than a single hotel room.",
+            "fr": "Oui, les appartements deux chambres offrent des pièces séparées pour parents et enfants plus une kitchenette, ce qui rend les dîners tôt et les siestes bien plus faciles qu'une simple chambre d'hôtel."
+          }
+        },
+        {
+          "q": {
+            "en": "How shallow is the beach?",
+            "fr": "La plage est-elle très peu profonde?"
+          },
+          "a": {
+            "en": "Agios Prokopios shelves gently and stays shallow well out from shore, with usually calm water, so it suits babies and toddlers on all but the windiest days.",
+            "fr": "Agios Prokopios descend en pente douce et reste peu profonde loin du bord, avec une eau généralement calme, elle convient aux bébés et tout-petits sauf les jours de grand vent."
+          }
+        }
+      ]
+    },
+    {
+      "key": "naxos-paros-kymata-hotel",
+      "destinationKey": "naxos-paros",
+      "name": "Kymata Hotel",
+      "area": {
+        "en": "Naxos (Agios Georgios)",
+        "fr": "Naxos (Agios Georgios)"
+      },
+      "lat": 37.1035,
+      "lng": 25.372,
+      "zoom": 12,
+      "address": "Kymata Hotel, Agios Georgios (St George) Beach, Naxos Town 84300, Greece",
+      "priceTier": 2,
+      "priceFrom": 95,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid"
+      ],
+      "amenities": [
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly",
+        "city-base"
+      ],
+      "clubFree": false,
+      "photos": [
+        "roomCozy",
+        "coastTown",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 74,
+        "baby": 84,
+        "pool": 60,
+        "dining": 72,
+        "safety": 86,
+        "convenience": 90,
+        "location": 90,
+        "extras": 66
+      },
+      "roomsSummary": {
+        "en": "Sixteen simple, spotless rooms and family suites, most with a sea view and some with a rooftop terrace. It is small and family-run rather than a resort, so there is no pool, but the shallow beach is thirty metres away.",
+        "fr": "Seize chambres et suites familiales simples et impeccables, la plupart avec vue mer et certaines avec terrasse sur le toit. C'est un petit hôtel familial plutôt qu'un resort, donc pas de piscine, mais la plage peu profonde est à trente mètres."
+      },
+      "intro": {
+        "en": "For families who would rather spend on gyros than a five-star pool, Kymata is a friendly, family-run little hotel thirty metres from St George beach and a two-minute walk from Naxos Town seafront. There is no pool, but with water this shallow and this close you barely notice. The owners treat guests like relatives, the family suites fit four, and everything a parent needs, mini-market, pharmacy, tavernas, is on the same street.",
+        "fr": "Pour les familles qui préfèrent dépenser en gyros plutôt qu'en piscine cinq-étoiles, le Kymata est un petit hôtel familial chaleureux, à trente mètres de la plage de St George et à deux minutes du front de mer de la ville de Naxos. Il n'y a pas de piscine, mais avec une eau aussi peu profonde et aussi proche, on ne la remarque presque pas. Les propriétaires traitent les clients comme des proches, les suites familiales accueillent quatre personnes, et tout ce dont un parent a besoin, supérette, pharmacie, tavernes, est dans la même rue."
+      },
+      "highlights": {
+        "en": [
+          "Family-run warmth, guests treated like relatives",
+          "Thirty metres from shallow St George beach",
+          "Two minutes from Naxos Town on foot",
+          "Family suites that sleep four for a small budget"
+        ],
+        "fr": [
+          "Chaleur d'un hôtel familial, des clients traités comme des proches",
+          "À trente mètres de la plage peu profonde de St George",
+          "À deux minutes à pied de la ville de Naxos",
+          "Suites familiales pour quatre à petit budget"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Excellent value close to the beach",
+          "Genuinely warm, hands-on owners",
+          "Everything walkable, no car required",
+          "Very shallow, safe water on the doorstep"
+        ],
+        "fr": [
+          "Excellent rapport qualité-prix près de la plage",
+          "Propriétaires vraiment chaleureux et présents",
+          "Tout accessible à pied, sans voiture",
+          "Eau très peu profonde et sûre juste devant"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No pool, so a windy day means the beach or nothing",
+          "Small and simple, not a resort with facilities",
+          "Books out early for high summer"
+        ],
+        "fr": [
+          "Pas de piscine, un jour de vent c'est la plage ou rien",
+          "Petit et simple, pas un resort avec équipements",
+          "Complet tôt pour le plein été"
+        ]
+      },
+      "verdict": {
+        "en": "The budget baby-and-toddler pick: a warm little family hotel on the shallowest town beach, with the shops and tavernas of Naxos two minutes away. Perfect if you want the beach, not a resort.",
+        "fr": "Le choix bébé et tout-petit à petit budget : un petit hôtel familial chaleureux sur la plage de ville la plus peu profonde, avec les boutiques et tavernes de Naxos à deux minutes. Parfait si vous voulez la plage, pas un resort."
+      },
+      "parentTip": {
+        "en": "With no pool to fall back on, pack a beach shade and a couple of pool toys; St George is calm enough in the morning that a paddling ring works beautifully close to shore.",
+        "fr": "Sans piscine de repli, emportez un pare-soleil de plage et quelques jouets d'eau ; St George est assez calme le matin pour qu'une bouée fonctionne parfaitement près du bord."
+      },
+      "atAGlance": [
+        {
+          "icon": "❤️",
+          "label": {
+            "en": "Style",
+            "fr": "Style"
+          },
+          "value": {
+            "en": "Small, warm, family-run",
+            "fr": "Petit, chaleureux, familial"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Shallow St George sand, 30m away",
+            "fr": "Sable peu profond de St George, à 30 m"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Value",
+            "fr": "Budget"
+          },
+          "value": {
+            "en": "Family suites at a low price",
+            "fr": "Suites familiales à petit prix"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is there a pool?",
+            "fr": "Y a-t-il une piscine?"
+          },
+          "a": {
+            "en": "No, Kymata is a small family-run hotel without a pool. The trade-off is the shallow St George beach just thirty metres away and a much lower price than the resorts.",
+            "fr": "Non, le Kymata est un petit hôtel familial sans piscine. En échange, la plage peu profonde de St George est à trente mètres et le prix bien inférieur aux resorts."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it suitable with a baby?",
+            "fr": "Est-ce adapté avec un bébé?"
+          },
+          "a": {
+            "en": "Yes for a beach-and-town holiday: family suites sleep four, the beach is calm and shallow, and shops and pharmacies are on the same street, though there is no kids club or resort childcare.",
+            "fr": "Oui pour des vacances plage et ville : les suites familiales accueillent quatre personnes, la plage est calme et peu profonde, et boutiques et pharmacies sont dans la même rue, mais il n'y a ni club enfants ni garde d'enfants."
+          }
+        }
+      ]
+    },
+    {
+      "key": "naxos-paros-ammothines-cycladic-suites",
+      "destinationKey": "naxos-paros",
+      "name": "Ammothines Cycladic Suites",
+      "area": {
+        "en": "Naxos (Plaka Beach)",
+        "fr": "Naxos (plage de Plaka)"
+      },
+      "lat": 37.049,
+      "lng": 25.36,
+      "zoom": 12,
+      "address": "Ammothines Cycladic Suites, Plaka Beach, Naxos 84300, Greece",
+      "priceTier": 3,
+      "priceFrom": 210,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "villaPoolGreen",
+        "poolPalms",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 86,
+        "baby": 84,
+        "pool": 83,
+        "dining": 76,
+        "safety": 85,
+        "convenience": 74,
+        "location": 88,
+        "extras": 76
+      },
+      "roomsSummary": {
+        "en": "Bright, spacious suites and maisonettes in Cycladic white and blue, several with two levels or two bedrooms and a private terrace. The larger maisonettes suit a family with a baby and an older sibling who both need their own space.",
+        "fr": "Suites et maisonnettes lumineuses et spacieuses en blanc et bleu cycladiques, plusieurs sur deux niveaux ou à deux chambres avec terrasse privée. Les grandes maisonnettes conviennent à une famille avec un bébé et un aîné qui ont chacun besoin de leur espace."
+      },
+      "intro": {
+        "en": "Plaka is the beach parents dream about: four kilometres of fine, pale sand that shelves so slowly a toddler can walk out an astonishing distance and still be barely wet. Ammothines sits just behind it, a small Cycladic suites hotel with a pretty garden pool and family-sized maisonettes. It is quieter and greener than the town beaches, you will want a car for the supermarket run, but for a gentle week of sandcastles and shallow paddling it is hard to beat.",
+        "fr": "Plaka est la plage dont rêvent les parents : quatre kilomètres de sable fin et clair qui descend si lentement qu'un tout-petit peut s'éloigner sur une distance étonnante en ayant à peine les pieds mouillés. Ammothines se trouve juste derrière, un petit hôtel de suites cycladiques avec une jolie piscine de jardin et des maisonnettes taille famille. C'est plus calme et plus vert que les plages de ville ; il vous faudra une voiture pour les courses, mais pour une semaine douce de châteaux de sable et de baignade peu profonde, difficile de faire mieux."
+      },
+      "highlights": {
+        "en": [
+          "Behind Plaka, the island's longest, shallowest sand",
+          "Family maisonettes with two levels or two bedrooms",
+          "Pretty, quiet garden pool",
+          "Calmer and greener than the town beaches"
+        ],
+        "fr": [
+          "Derrière Plaka, le sable le plus long et le plus peu profond de l'île",
+          "Maisonnettes familiales sur deux niveaux ou à deux chambres",
+          "Jolie piscine de jardin tranquille",
+          "Plus calme et plus verte que les plages de ville"
+        ]
+      },
+      "pros": {
+        "en": [
+          "The shallowest, softest beach on Naxos",
+          "Spacious suites and maisonettes for families",
+          "Peaceful setting away from the crowds",
+          "Lovely garden pool for pool days"
+        ],
+        "fr": [
+          "La plage la plus peu profonde et la plus douce de Naxos",
+          "Suites et maisonnettes spacieuses pour familles",
+          "Cadre paisible loin de la foule",
+          "Belle piscine de jardin pour les journées piscine"
+        ]
+      },
+      "cons": {
+        "en": [
+          "You will want a hire car out here",
+          "Fewer tavernas within a short stroll",
+          "Plaka can catch the afternoon wind in high summer"
+        ],
+        "fr": [
+          "Une voiture de location est souhaitable par ici",
+          "Moins de tavernes à quelques pas",
+          "Plaka peut prendre le vent l'après-midi en plein été"
+        ]
+      },
+      "verdict": {
+        "en": "The quiet-and-shallow choice: a small Cycladic suites hotel behind the softest beach on Naxos, with a garden pool for downtime. Rent a car and settle into slow, sandy days.",
+        "fr": "Le choix calme et peu profond : un petit hôtel de suites cycladiques derrière la plage la plus douce de Naxos, avec piscine de jardin pour souffler. Louez une voiture et savourez des journées lentes et sablonneuses."
+      },
+      "parentTip": {
+        "en": "Plaka is huge and empties out the further you walk from the access path; carry the beach kit five minutes south and you get a shallow, near-private stretch for the toddler.",
+        "fr": "Plaka est immense et se vide à mesure qu'on s'éloigne du sentier d'accès ; portez le matériel cinq minutes vers le sud et vous obtenez une bande peu profonde et presque privée pour le tout-petit."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Plaka, 4km of shallow soft sand",
+            "fr": "Plaka, 4 km de sable doux et peu profond"
+          }
+        },
+        {
+          "icon": "🏡",
+          "label": {
+            "en": "Rooms",
+            "fr": "Chambres"
+          },
+          "value": {
+            "en": "Family maisonettes and suites",
+            "fr": "Maisonnettes et suites familiales"
+          }
+        },
+        {
+          "icon": "🚗",
+          "label": {
+            "en": "Getting around",
+            "fr": "Déplacements"
+          },
+          "value": {
+            "en": "A hire car helps out here",
+            "fr": "Une voiture de location est utile ici"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Why is Plaka good for toddlers?",
+            "fr": "Pourquoi Plaka est-elle bien pour les tout-petits?"
+          },
+          "a": {
+            "en": "Plaka is long, wide and shelves extremely gently, so the water stays shallow a long way out and there is endless soft sand, which makes it one of the safest beaches on Naxos for very small children.",
+            "fr": "Plaka est longue, large et descend très doucement, l'eau reste peu profonde loin du bord et le sable doux est infini, ce qui en fait l'une des plages les plus sûres de Naxos pour les tout-petits."
+          }
+        },
+        {
+          "q": {
+            "en": "Do we need a car?",
+            "fr": "Faut-il une voiture?"
+          },
+          "a": {
+            "en": "It helps. Plaka is away from the main town, so a hire car makes supermarket runs, wider dining choice and day trips much easier than relying on the bus.",
+            "fr": "C'est préférable. Plaka est à l'écart de la ville, une voiture de location facilite les courses, le choix de restaurants et les excursions bien plus que le bus."
+          }
+        }
+      ]
+    },
+    {
+      "key": "naxos-paros-poseidon-of-paros-hotel-spa",
+      "destinationKey": "naxos-paros",
+      "name": "Poseidon of Paros Hotel & Spa",
+      "area": {
+        "en": "Paros (Golden Beach)",
+        "fr": "Paros (Golden Beach)"
+      },
+      "lat": 37.045,
+      "lng": 25.234,
+      "zoom": 12,
+      "address": "Poseidon of Paros Hotel & Spa, Chrissi Akti (Golden Beach), Paros 84400, Greece",
+      "priceTier": 4,
+      "priceFrom": 260,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "infinityPoolSea",
+        "poolCabanas",
+        "whiteResortPool"
+      ],
+      "scores": {
+        "rooms": 85,
+        "baby": 80,
+        "pool": 88,
+        "dining": 82,
+        "safety": 82,
+        "convenience": 74,
+        "location": 84,
+        "extras": 85
+      },
+      "roomsSummary": {
+        "en": "Fifty-two Cycladic rooms and suites spread through low, garden-set buildings, many with a sea view and a terrace. Family suites and interconnecting options give parents and children room to breathe.",
+        "fr": "Cinquante-deux chambres et suites cycladiques réparties dans des bâtiments bas nichés dans les jardins, beaucoup avec vue mer et terrasse. Suites familiales et options communicantes donnent de l'air aux parents comme aux enfants."
+      },
+      "intro": {
+        "en": "This is the closest Paros gets to a full family resort: a low-rise five-star spread over gardens 50 metres from Golden Beach, with two big pools, two dedicated children's pools, a playground and a spa. Golden Beach is a broad sweep of sand that stays shallow for small children on calm mornings, though it is also a windsurf beach, so the afternoon breeze can pick up. With everything on site, it is an easy, do-nothing base for a family week.",
+        "fr": "C'est ce qui se rapproche le plus d'un vrai resort familial à Paros : un cinq-étoiles de plain-pied réparti dans les jardins à 50 mètres de Golden Beach, avec deux grandes piscines, deux bassins enfants dédiés, une aire de jeux et un spa. Golden Beach est un large ruban de sable qui reste peu profond pour les petits les matins calmes, mais c'est aussi une plage de planche à voile, la brise d'après-midi peut donc se lever. Avec tout sur place, c'est une base facile et reposante pour une semaine en famille."
+      },
+      "highlights": {
+        "en": [
+          "Two children's pools plus a playground on site",
+          "Fifty metres from broad, sandy Golden Beach",
+          "Spa and two restaurants for grown-up moments",
+          "Low-rise Cycladic buildings set in gardens"
+        ],
+        "fr": [
+          "Deux bassins enfants et une aire de jeux sur place",
+          "À cinquante mètres du large sable de Golden Beach",
+          "Spa et deux restaurants pour les moments d'adultes",
+          "Bâtiments cycladiques de plain-pied dans les jardins"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Rare full-resort facilities for Paros",
+          "Two separate children's pools",
+          "Playground and space to roam",
+          "Broad sandy beach a few steps away"
+        ],
+        "fr": [
+          "De rares équipements de vrai resort pour Paros",
+          "Deux bassins enfants séparés",
+          "Aire de jeux et espace pour courir",
+          "Large plage de sable à quelques pas"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Golden Beach is a windsurf spot, afternoons can be breezy",
+          "A car helps for reaching Naoussa and Parikia",
+          "Five-star prices in peak season"
+        ],
+        "fr": [
+          "Golden Beach est un spot de planche à voile, les après-midis peuvent être venteux",
+          "Une voiture aide pour rejoindre Naoussa et Parikia",
+          "Tarifs cinq-étoiles en haute saison"
+        ]
+      },
+      "verdict": {
+        "en": "The one Paros hotel that feels like a resort: two kids' pools, a playground and a sandy beach, all on site. Go early or late season when Golden Beach is calmest for the little ones.",
+        "fr": "Le seul hôtel de Paros qui a des allures de resort : deux bassins enfants, une aire de jeux et une plage de sable, tout sur place. Venez en début ou fin de saison, quand Golden Beach est la plus calme pour les petits."
+      },
+      "parentTip": {
+        "en": "The wind on Golden Beach almost always builds after lunch; do the beach in the morning and switch to the sheltered children's pool for the breezy afternoon hours.",
+        "fr": "Le vent sur Golden Beach se lève presque toujours après le déjeuner ; faites la plage le matin et basculez vers le bassin enfants abrité pour les heures venteuses de l'après-midi."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Kids' pools",
+            "fr": "Bassins enfants"
+          },
+          "value": {
+            "en": "Two children's pools plus a playground",
+            "fr": "Deux bassins enfants et une aire de jeux"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Golden Beach sand, 50m away",
+            "fr": "Sable de Golden Beach, à 50 m"
+          }
+        },
+        {
+          "icon": "🌬️",
+          "label": {
+            "en": "Good to know",
+            "fr": "Bon à savoir"
+          },
+          "value": {
+            "en": "Windsurf beach, calmest mornings",
+            "fr": "Plage de planche à voile, calme le matin"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is Golden Beach too windy for small children?",
+            "fr": "Golden Beach est-elle trop venteuse pour les petits?"
+          },
+          "a": {
+            "en": "It can be breezy in the afternoon because it is a windsurf beach, but mornings are usually calm and shallow. Many families beach early and use the two children's pools when the wind builds.",
+            "fr": "Elle peut être venteuse l'après-midi car c'est une plage de planche à voile, mais les matins sont généralement calmes et peu profonds. Beaucoup de familles vont à la plage tôt et utilisent les deux bassins enfants quand le vent monte."
+          }
+        },
+        {
+          "q": {
+            "en": "Does the hotel have real family facilities?",
+            "fr": "L'hôtel a-t-il de vrais équipements familiaux?"
+          },
+          "a": {
+            "en": "Yes, unusually for Paros: two children's pools, a playground, family suites and a spa, so most of a family holiday can happen without leaving the grounds.",
+            "fr": "Oui, ce qui est rare à Paros : deux bassins enfants, une aire de jeux, des suites familiales et un spa, une grande partie des vacances peut se faire sans quitter le domaine."
+          }
+        }
+      ]
+    },
+    {
+      "key": "naxos-paros-astir-of-paros",
+      "destinationKey": "naxos-paros",
+      "name": "Astir of Paros",
+      "area": {
+        "en": "Paros (Kolymbithres, Naoussa)",
+        "fr": "Paros (Kolymbithres, Naoussa)"
+      },
+      "lat": 37.133,
+      "lng": 25.228,
+      "zoom": 12,
+      "address": "Astir of Paros, Kolymbithres, Naoussa, Paros 84401, Greece",
+      "priceTier": 4,
+      "priceFrom": 300,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "resortLoungers",
+        "poolDusk",
+        "villaInterior"
+      ],
+      "scores": {
+        "rooms": 88,
+        "baby": 82,
+        "pool": 85,
+        "dining": 84,
+        "safety": 85,
+        "convenience": 76,
+        "location": 86,
+        "extras": 82
+      },
+      "roomsSummary": {
+        "en": "Elegant double rooms, junior suites and executive suites in low garden buildings, most with a terrace or balcony facing the sea or the grounds. Suites give a family room to spread out, and babysitting can be arranged.",
+        "fr": "Chambres doubles élégantes, junior suites et suites executive dans des bâtiments bas de jardin, la plupart avec terrasse ou balcon face à la mer ou aux jardins. Les suites donnent de l'espace à une famille, et une garde d'enfants peut être organisée."
+      },
+      "intro": {
+        "en": "Astir is the grande dame of Paros, a low, elegant garden resort on the waterfront at Kolymbithres, whose sheltered coves of sculpted rock hold some of the calmest, shallowest water on the island. There is a big pool with a separate children's pool and a hot tub, gardens to roam, babysitting on request and a private beach where the sea is glassy and gentle. It is grown-up and refined rather than a bells-and-whistles kids resort, but for families with a toddler who want calm water and space, it is lovely.",
+        "fr": "L'Astir est la grande dame de Paros, un resort de jardin bas et élégant en bord de mer à Kolymbithres, dont les criques abritées de roches sculptées abritent l'une des eaux les plus calmes et peu profondes de l'île. Il y a une grande piscine avec bassin enfants séparé et un bain à remous, des jardins où courir, une garde d'enfants sur demande et une plage privée où la mer est lisse et douce. C'est raffiné plutôt qu'un resort enfants tape-à-l'œil, mais pour les familles avec un tout-petit qui veulent une eau calme et de l'espace, c'est ravissant."
+      },
+      "highlights": {
+        "en": [
+          "Sheltered, shallow Kolymbithres coves alongside",
+          "Children's pool and hot tub beside the main pool",
+          "Babysitting available on request",
+          "Refined garden resort with a private beach"
+        ],
+        "fr": [
+          "Les criques abritées et peu profondes de Kolymbithres à côté",
+          "Bassin enfants et bain à remous près de la piscine principale",
+          "Garde d'enfants disponible sur demande",
+          "Resort de jardin raffiné avec plage privée"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Some of the calmest, shallowest water on Paros",
+          "Separate children's pool",
+          "Babysitting for a grown-up dinner",
+          "Spacious, elegant grounds and suites"
+        ],
+        "fr": [
+          "L'une des eaux les plus calmes et peu profondes de Paros",
+          "Bassin enfants séparé",
+          "Garde d'enfants pour un dîner d'adultes",
+          "Jardins et suites spacieux et élégants"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Refined rather than a lively kids' resort",
+          "A car or taxi helps for exploring beyond Naoussa",
+          "Premium prices in July and August"
+        ],
+        "fr": [
+          "Raffiné plutôt qu'un resort enfants animé",
+          "Voiture ou taxi utile pour explorer au-delà de Naoussa",
+          "Tarifs premium en juillet et août"
+        ]
+      },
+      "verdict": {
+        "en": "For calm, shallow water and grown-up elegance, Astir wins: the Kolymbithres coves are toddler heaven and there is a kids' pool and babysitting to boot. A refined choice, not a rowdy one.",
+        "fr": "Pour une eau calme et peu profonde et une élégance d'adultes, l'Astir l'emporte : les criques de Kolymbithres sont un paradis pour tout-petits, avec en prime bassin enfants et garde d'enfants. Un choix raffiné, pas turbulent."
+      },
+      "parentTip": {
+        "en": "The rock-sheltered pockets at Kolymbithres warm up fast and stay flat calm; pick one with a bit of shade from the granite and you have a natural toddler paddling pool.",
+        "fr": "Les poches abritées par les rochers de Kolymbithres se réchauffent vite et restent d'un calme plat ; choisissez-en une avec un peu d'ombre du granite et vous avez une pataugeoire naturelle pour tout-petit."
+      },
+      "atAGlance": [
+        {
+          "icon": "🌊",
+          "label": {
+            "en": "Water",
+            "fr": "Eau"
+          },
+          "value": {
+            "en": "Sheltered, shallow Kolymbithres coves",
+            "fr": "Criques abritées et peu profondes de Kolymbithres"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Main pool, kids' pool and a hot tub",
+            "fr": "Piscine principale, bassin enfants et bain à remous"
+          }
+        },
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Childcare",
+            "fr": "Garde d'enfants"
+          },
+          "value": {
+            "en": "Babysitting on request",
+            "fr": "Garde d'enfants sur demande"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Why is Kolymbithres good for babies?",
+            "fr": "Pourquoi Kolymbithres est-elle bien pour les bébés?"
+          },
+          "a": {
+            "en": "Its bays are broken up by smooth granite rocks that shelter the water, so it stays flat, warm and shallow in little pockets, which is ideal for a baby's first paddles even when the wind is up elsewhere.",
+            "fr": "Ses baies sont découpées par des rochers de granite lisse qui abritent l'eau, elle reste plate, chaude et peu profonde dans de petites poches, idéal pour les premières baignades d'un bébé même quand le vent souffle ailleurs."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there childcare?",
+            "fr": "Y a-t-il une garde d'enfants?"
+          },
+          "a": {
+            "en": "There is no free kids club, but the hotel arranges babysitting on request, which lets parents enjoy the restaurant or the spa for an evening.",
+            "fr": "Il n'y a pas de club enfants gratuit, mais l'hôtel organise une garde d'enfants sur demande, ce qui permet aux parents de profiter du restaurant ou du spa une soirée."
+          }
+        }
+      ]
+    },
+    {
+      "key": "naxos-paros-surfing-beach-village",
+      "destinationKey": "naxos-paros",
+      "name": "Surfing Beach Village",
+      "area": {
+        "en": "Paros (Santa Maria)",
+        "fr": "Paros (Santa Maria)"
+      },
+      "lat": 37.136,
+      "lng": 25.262,
+      "zoom": 12,
+      "address": "Surfing Beach Village, Santa Maria, Naoussa, Paros 84401, Greece",
+      "priceTier": 2,
+      "priceFrom": 100,
+      "ages": [
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "beach-access",
+        "family-suites",
+        "self-catering",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "poolPalms",
+        "resortCanal",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 72,
+        "baby": 72,
+        "pool": 80,
+        "dining": 72,
+        "safety": 78,
+        "convenience": 78,
+        "location": 82,
+        "extras": 76
+      },
+      "roomsSummary": {
+        "en": "A spread of simple rooms, studios, apartments and bungalows in Cycladic style, several with a kitchenette and a private terrace. Apartments and bungalows give families space and a fridge for under a two-star budget.",
+        "fr": "Un ensemble de chambres, studios, appartements et bungalows simples de style cycladique, plusieurs avec kitchenette et terrasse privée. Appartements et bungalows offrent aux familles de l'espace et un frigo pour un petit budget."
+      },
+      "intro": {
+        "en": "Right on the sandy sweep of Santa Maria, this relaxed village-style complex is the value pick for families on the north coast of Paros. Two outdoor pools, a mini-market, a restaurant and self-catering apartments make it an easy, low-cost base, and the beach is broad and sandy. Santa Maria catches the meltemi wind, which is exactly why the windsurfers love it, so it suits toddlers and older children on calm days and pool days when the breeze is up.",
+        "fr": "Directement sur le ruban de sable de Santa Maria, ce complexe décontracté façon village est le choix malin pour les familles sur la côte nord de Paros. Deux piscines extérieures, une supérette, un restaurant et des appartements en cuisine autonome en font une base facile et économique, et la plage est large et sablonneuse. Santa Maria prend le vent meltemi, ce qui explique justement que les véliplanchistes l'adorent, elle convient donc aux tout-petits et aux plus grands les jours calmes et aux journées piscine quand la brise se lève."
+      },
+      "highlights": {
+        "en": [
+          "On the sandy sweep of Santa Maria beach",
+          "Two outdoor pools and a mini-market on site",
+          "Self-catering apartments and bungalows",
+          "Great value on the north coast"
+        ],
+        "fr": [
+          "Sur le ruban de sable de la plage de Santa Maria",
+          "Deux piscines extérieures et une supérette sur place",
+          "Appartements et bungalows en cuisine autonome",
+          "Excellent rapport qualité-prix sur la côte nord"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Low cost with kitchens and space",
+          "Two pools to fall back on when it is windy",
+          "Broad sandy beach on the doorstep",
+          "Relaxed, unfussy village feel"
+        ],
+        "fr": [
+          "Petit budget avec cuisines et espace",
+          "Deux piscines de repli quand il y a du vent",
+          "Large plage de sable juste devant",
+          "Ambiance village décontractée et sans chichi"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Santa Maria catches the meltemi, breezy afternoons",
+          "Simple and basic, not a polished resort",
+          "A car or bus needed for Naoussa's tavernas"
+        ],
+        "fr": [
+          "Santa Maria prend le meltemi, après-midis venteux",
+          "Simple et basique, pas un resort soigné",
+          "Voiture ou bus nécessaire pour les tavernes de Naoussa"
+        ]
+      },
+      "verdict": {
+        "en": "The budget beach-and-pool pick on Paros: kitchens, two pools and sandy Santa Maria for a small price. Best for toddlers up on calm days, with the pools for when the wind blows.",
+        "fr": "Le choix plage et piscine à petit budget de Paros : cuisines, deux piscines et le sable de Santa Maria pour un petit prix. Idéal à partir du tout-petit les jours calmes, avec les piscines quand le vent souffle."
+      },
+      "parentTip": {
+        "en": "Check the wind forecast the night before; on a meltemi day skip the open beach and make it a pool morning, then head to sheltered Kolymbithres or a bay bar for the afternoon.",
+        "fr": "Vérifiez la météo du vent la veille ; un jour de meltemi, oubliez la plage ouverte et faites une matinée piscine, puis filez vers Kolymbithres abritée ou un bar de baie l'après-midi."
+      },
+      "atAGlance": [
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Value",
+            "fr": "Budget"
+          },
+          "value": {
+            "en": "Self-catering apartments at a low price",
+            "fr": "Appartements en cuisine autonome à petit prix"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Two outdoor pools on site",
+            "fr": "Deux piscines extérieures sur place"
+          }
+        },
+        {
+          "icon": "🌬️",
+          "label": {
+            "en": "Good to know",
+            "fr": "Bon à savoir"
+          },
+          "value": {
+            "en": "Windsurf beach, breezy afternoons",
+            "fr": "Plage de planche à voile, après-midis venteux"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is this a good fit with a baby?",
+            "fr": "Est-ce adapté avec un bébé?"
+          },
+          "a": {
+            "en": "It works better from toddler age up. Santa Maria is sandy but exposed to the meltemi, so on windy days you rely on the pools, and the setup is simple rather than baby-geared.",
+            "fr": "Cela convient mieux à partir du tout-petit. Santa Maria est sablonneuse mais exposée au meltemi, les jours de vent on compte sur les piscines, et l'ensemble est simple plutôt que pensé pour les bébés."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we cook in the room?",
+            "fr": "Peut-on cuisiner dans la chambre?"
+          },
+          "a": {
+            "en": "Many of the apartments and bungalows have a kitchenette, and there is a mini-market on site, which keeps costs down and makes toddler meals easy.",
+            "fr": "Beaucoup d'appartements et de bungalows ont une kitchenette, et il y a une supérette sur place, ce qui limite les coûts et facilite les repas des tout-petits."
+          }
+        }
+      ]
+    },
+    {
+      "key": "naxos-paros-hotel-livadia",
+      "destinationKey": "naxos-paros",
+      "name": "Hotel Livadia",
+      "area": {
+        "en": "Paros (Livadia, Parikia)",
+        "fr": "Paros (Livadia, Parikia)"
+      },
+      "lat": 37.089,
+      "lng": 25.156,
+      "zoom": 12,
+      "address": "Hotel Livadia, Livadia Beach, Parikia, Paros 84400, Greece",
+      "priceTier": 2,
+      "priceFrom": 90,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid"
+      ],
+      "amenities": [
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "self-catering",
+        "toddler-friendly",
+        "city-base"
+      ],
+      "clubFree": false,
+      "photos": [
+        "roomCozy",
+        "coastTown",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 74,
+        "baby": 85,
+        "pool": 60,
+        "dining": 74,
+        "safety": 85,
+        "convenience": 90,
+        "location": 88,
+        "extras": 66
+      },
+      "roomsSummary": {
+        "en": "A small beachfront hotel of rooms, studios and apartments, several with a kitchenette, on the seafront street at Livadia. Studios and apartments suit families who want a fridge and a walk-everywhere base by the port.",
+        "fr": "Un petit hôtel en bord de mer avec chambres, studios et appartements, plusieurs avec kitchenette, sur la rue du front de mer à Livadia. Studios et appartements conviennent aux familles qui veulent un frigo et une base tout-à-pied près du port."
+      },
+      "intro": {
+        "en": "Livadia is the gentle, sandy beach a five-minute walk from Parikia's port, and Hotel Livadia sits right on it. The sea here shelves so slowly and stays so calm that it is the beach locals point families to first, and with the ferry, tavernas and shops all within a stroll, you can arrive off the boat and never touch a car. It is small and simple with no pool, but for a baby or toddler who just wants shallow water and an early night, it is one of the easiest bases in the Cyclades.",
+        "fr": "Livadia est la plage douce et sablonneuse à cinq minutes à pied du port de Parikia, et l'Hotel Livadia se trouve juste dessus. La mer y descend si lentement et reste si calme que c'est la plage que les habitants indiquent en premier aux familles, et avec le ferry, les tavernes et les boutiques à quelques pas, vous pouvez débarquer du bateau sans jamais toucher une voiture. C'est petit et simple, sans piscine, mais pour un bébé ou un tout-petit qui veut juste une eau peu profonde et un coucher tôt, c'est l'une des bases les plus faciles des Cyclades."
+      },
+      "highlights": {
+        "en": [
+          "On the gentle, shallow sand of Livadia beach",
+          "Five minutes on foot from Parikia's port",
+          "Studios and apartments with kitchenettes",
+          "Arrive off the ferry, no car needed"
+        ],
+        "fr": [
+          "Sur le sable doux et peu profond de la plage de Livadia",
+          "À cinq minutes à pied du port de Parikia",
+          "Studios et appartements avec kitchenette",
+          "Arrivée en ferry, sans voiture"
+        ]
+      },
+      "pros": {
+        "en": [
+          "One of the calmest, shallowest beaches on Paros",
+          "Everything walkable from the port",
+          "Kitchenettes for toddler meals",
+          "Low price right on the seafront"
+        ],
+        "fr": [
+          "L'une des plages les plus calmes et peu profondes de Paros",
+          "Tout accessible à pied depuis le port",
+          "Kitchenettes pour les repas des tout-petits",
+          "Petit prix directement sur le front de mer"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No pool, so the beach is the water option",
+          "Small and simple, not a resort",
+          "Parikia's port area can be lively in the evening"
+        ],
+        "fr": [
+          "Pas de piscine, la plage est l'option baignade",
+          "Petit et simple, pas un resort",
+          "La zone du port de Parikia peut être animée le soir"
+        ]
+      },
+      "verdict": {
+        "en": "The no-car, no-fuss baby base: a simple beachfront hotel on Paros's gentlest sand, minutes from the ferry and the tavernas. Perfect for a first island trip with a little one.",
+        "fr": "La base bébé sans voiture et sans complication : un simple hôtel en bord de mer sur le sable le plus doux de Paros, à quelques minutes du ferry et des tavernes. Parfait pour un premier séjour insulaire avec un tout-petit."
+      },
+      "parentTip": {
+        "en": "Livadia is calm and shallow for a long way, so it is one of the few beaches where a paddling ring genuinely works; go before the day-trippers arrive and claim a patch of shade.",
+        "fr": "Livadia est calme et peu profonde sur une grande distance, c'est l'une des rares plages où une bouée fonctionne vraiment ; allez-y avant les excursionnistes et réservez un coin d'ombre."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Gentle, shallow Livadia sand outside",
+            "fr": "Sable doux et peu profond de Livadia devant"
+          }
+        },
+        {
+          "icon": "⛴️",
+          "label": {
+            "en": "Port",
+            "fr": "Port"
+          },
+          "value": {
+            "en": "Five minutes on foot, arrive by ferry",
+            "fr": "À cinq minutes à pied, arrivée en ferry"
+          }
+        },
+        {
+          "icon": "🍳",
+          "label": {
+            "en": "Rooms",
+            "fr": "Chambres"
+          },
+          "value": {
+            "en": "Studios and apartments with kitchenettes",
+            "fr": "Studios et appartements avec kitchenette"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is Livadia beach safe for a baby?",
+            "fr": "La plage de Livadia est-elle sûre pour un bébé?"
+          },
+          "a": {
+            "en": "Yes, it is sandy, shelves very gently and is usually calm, so it is one of the safest beaches on Paros for babies and toddlers to paddle close to shore.",
+            "fr": "Oui, elle est sablonneuse, descend très doucement et est généralement calme, c'est l'une des plages les plus sûres de Paros pour que bébés et tout-petits barbotent près du bord."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we manage without a car?",
+            "fr": "Peut-on se passer de voiture?"
+          },
+          "a": {
+            "en": "Easily. The ferry port, beach, tavernas and shops of Parikia are all a short walk, so this is an ideal base if you would rather not drive on the island.",
+            "fr": "Facilement. Le port des ferries, la plage, les tavernes et les boutiques de Parikia sont tous à quelques pas, c'est donc une base idéale si vous préférez ne pas conduire sur l'île."
+          }
+        }
+      ]
+    }
+  ],
+  "destinationMeta": {
+    "name": {
+      "en": "Naxos & Paros",
+      "fr": "Naxos et Paros"
+    },
+    "country": {
+      "en": "Greece",
+      "fr": "Grèce"
+    },
+    "emoji": "🏖️",
+    "accent": "3f9fb0",
+    "geo": {
+      "lat": 37.05,
+      "lng": 25.3,
+      "zoom": 9
+    },
+    "heroKicker": {
+      "en": "Two Cycladic islands of long, shallow sand, calmer and gentler than the party islands next door",
+      "fr": "Deux îles cycladiques au sable long et peu profond, plus calmes et plus douces que les îles à fête d'à côté"
+    },
+    "intro": {
+      "en": "If you want the whitewashed Cyclades but with a beach a baby can actually use, Naxos and Paros are the pair to book. Both are ringed with long, pale, sandy beaches that shelve so gently a toddler can wade out a surprising distance with the water still at their knees: Agios Prokopios, Agia Anna and four-kilometre Plaka on Naxos; Golden Beach, Santa Maria and gentle Livadia on Paros. They are calmer, greener and far less frantic than nearby Santorini or Mykonos, with real Greek village life, working farms and tavernas where children are welcomed rather than tolerated. The two islands sit a 30 to 45 minute ferry apart, so many families split a week between them. The honest catch is the meltemi, the summer wind that can pick up in July and August, so pick a sheltered bay or a hotel with a pool for the breezy afternoons.",
+      "fr": "Si vous voulez les Cyclades blanchies à la chaux mais avec une plage qu'un bébé peut vraiment utiliser, Naxos et Paros sont le duo à réserver. Toutes deux sont bordées de longues plages de sable clair qui descendent si doucement qu'un tout-petit peut s'éloigner sur une distance étonnante avec l'eau à hauteur de genoux : Agios Prokopios, Agia Anna et les quatre kilomètres de Plaka à Naxos ; Golden Beach, Santa Maria et la douce Livadia à Paros. Elles sont plus calmes, plus vertes et bien moins frénétiques que Santorin ou Mykonos toutes proches, avec une vraie vie de village grecque, des fermes en activité et des tavernes où les enfants sont accueillis plutôt que tolérés. Les deux îles sont séparées par 30 à 45 minutes de ferry, beaucoup de familles partagent donc une semaine entre les deux. Le seul vrai bémol, c'est le meltemi, ce vent d'été qui peut se lever en juillet et août : choisissez une baie abritée ou un hôtel avec piscine pour les après-midis venteux."
+    },
+    "whyKids": {
+      "en": [
+        "Long, shallow sandy beaches: Agios Prokopios, Agia Anna and Plaka on Naxos, Livadia and Golden Beach on Paros all shelve gently for safe paddling",
+        "Calmer than the party islands: no cruise-ship crush or nightlife scene, just village squares, tavernas and slow beach days",
+        "Walkable town bases: Naxos Town and Parikia let you do beach, dinner and the ferry all on foot, no hire car required",
+        "Real Greek life: working farms, family-run hotels and tavernas where a toddler is genuinely welcome",
+        "Easy island-hopping: a short ferry links the two, so one trip can sample both"
+      ],
+      "fr": [
+        "De longues plages de sable peu profondes : Agios Prokopios, Agia Anna et Plaka à Naxos, Livadia et Golden Beach à Paros descendent en pente douce pour barboter en sécurité",
+        "Plus calmes que les îles à fête : ni cohue de paquebots ni scène nocturne, juste des places de village, des tavernes et des journées plage tranquilles",
+        "Des bases de ville accessibles à pied : la ville de Naxos et Parikia permettent de faire plage, dîner et ferry à pied, sans voiture de location",
+        "Une vraie vie grecque : fermes en activité, hôtels familiaux et tavernes où un tout-petit est vraiment le bienvenu",
+        "Le saut d'île facile : un court ferry relie les deux, un seul voyage permet de goûter aux deux"
+      ]
+    },
+    "bestAreas": {
+      "en": [
+        "Naxos, Agios Georgios: the shallowest town beach, steps from Naxos Town, ideal for a no-car baby holiday",
+        "Naxos, Agios Prokopios and Agia Anna: Blue Flag sand and calm, gently shelving water with a good line of family hotels",
+        "Naxos, Plaka: four kilometres of soft, shallow sand, quieter and greener, best with a hire car",
+        "Paros, Parikia and Livadia: gentle sand a short walk from the ferry, the easy arrival-day base",
+        "Paros, Naoussa and Kolymbithres: sheltered rock-pool coves with some of the calmest water on the island",
+        "Paros, Golden Beach and Santa Maria: broad sandy sweeps that are lovely on calm mornings but catch the meltemi later"
+      ],
+      "fr": [
+        "Naxos, Agios Georgios : la plage de ville la plus peu profonde, à deux pas de la ville de Naxos, idéale pour des vacances bébé sans voiture",
+        "Naxos, Agios Prokopios et Agia Anna : sable Pavillon Bleu et eau calme en pente douce avec une belle offre d'hôtels familiaux",
+        "Naxos, Plaka : quatre kilomètres de sable doux et peu profond, plus calme et plus verte, mieux avec une voiture de location",
+        "Paros, Parikia et Livadia : sable doux à quelques minutes du ferry, la base facile du jour d'arrivée",
+        "Paros, Naoussa et Kolymbithres : criques abritées à bassins rocheux avec l'une des eaux les plus calmes de l'île",
+        "Paros, Golden Beach et Santa Maria : larges rubans de sable ravissants les matins calmes mais qui prennent le meltemi plus tard"
+      ]
+    },
+    "goodToKnow": {
+      "en": "You reach both islands by ferry from Athens (Piraeus or Rafina), around three to five hours by regular boat and less on the fast ones, and Naxos and Paros also have small airports with domestic flights and a handful of seasonal European routes. A ferry of 30 to 45 minutes links the two, which makes a split-island week easy. The one real thing to plan around is the meltemi, the north wind that can blow for days in July and August: it keeps things cool but can whip up the exposed north and east beaches, so on windy days head for a sheltered bay like Kolymbithres or fall back on a hotel pool. Late June and September are calmer and quieter, with warm sea and thinner crowds. Buses run to the main beaches and are cheap, but a hire car opens up the quieter sands, especially on Naxos.",
+      "fr": "On rejoint les deux îles en ferry depuis Athènes (Le Pirée ou Rafina), environ trois à cinq heures en bateau classique et moins avec les rapides, et Naxos comme Paros ont aussi de petits aéroports avec vols intérieurs et quelques lignes européennes saisonnières. Un ferry de 30 à 45 minutes relie les deux, ce qui rend facile une semaine partagée entre les îles. La seule vraie chose à anticiper, c'est le meltemi, ce vent du nord qui peut souffler plusieurs jours en juillet et août : il rafraîchit mais peut agiter les plages exposées du nord et de l'est, les jours de vent filez donc vers une baie abritée comme Kolymbithres ou repliez-vous sur une piscine d'hôtel. Fin juin et septembre sont plus calmes et plus tranquilles, avec une mer chaude et moins de monde. Les bus desservent les principales plages et sont bon marché, mais une voiture de location ouvre l'accès aux sables plus tranquilles, surtout à Naxos."
+    },
+    "parentTip": {
+      "en": "Wind, not sun, is the variable that shapes a beach day here. Check a meltemi forecast the night before and keep a flexible plan: sheltered coves and pools on a blowy day, the big open sands like Plaka or Golden Beach when it is calm, and always the early morning before the breeze builds.",
+      "fr": "C'est le vent, pas le soleil, qui décide d'une journée plage ici. Vérifiez une prévision de meltemi la veille et gardez un plan souple : criques abritées et piscines les jours de vent, grands sables ouverts comme Plaka ou Golden Beach quand c'est calme, et toujours le petit matin avant que la brise se lève."
+    },
+    "stats": [
+      {
+        "value": "8",
+        "label": {
+          "en": "Hotels we profiled",
+          "fr": "Hôtels passés au crible"
+        }
+      },
+      {
+        "value": "2",
+        "label": {
+          "en": "Islands, one short ferry apart",
+          "fr": "Îles, un court ferry entre les deux"
+        }
+      },
+      {
+        "value": "24°C",
+        "label": {
+          "en": "Sea in August",
+          "fr": "Mer en août"
+        }
+      },
+      {
+        "value": "May to Oct",
+        "label": {
+          "en": "Family season",
+          "fr": "Saison famille"
+        }
+      }
+    ],
+    "photos": [
+      "beachSunset",
+      "coastTown",
+      "poolPalms"
+    ]
+  }
+}

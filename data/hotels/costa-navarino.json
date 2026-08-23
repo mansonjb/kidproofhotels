@@ -1,0 +1,1287 @@
+{
+  "hotels": [
+    {
+      "key": "costa-navarino-westin-resort",
+      "destinationKey": "costa-navarino",
+      "name": "The Westin Resort Costa Navarino",
+      "area": {
+        "en": "Navarino Dunes (Romanos)",
+        "fr": "Navarino Dunes (Romanos)"
+      },
+      "lat": 36.9832,
+      "lng": 21.6688,
+      "zoom": 12,
+      "address": "The Westin Resort Costa Navarino, Navarino Dunes, Messinia 24001, Greece",
+      "priceTier": 4,
+      "priceFrom": 450,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "scores": {
+        "rooms": 88,
+        "baby": 85,
+        "pool": 93,
+        "dining": 88,
+        "safety": 90,
+        "convenience": 84,
+        "location": 90,
+        "extras": 93
+      },
+      "roomsSummary": {
+        "en": "Big, bright rooms and family suites, many opening straight onto pool or garden, so little ones can be watched from the sofa. Family suites and interconnecting rooms sleep four to five comfortably, with room for cots, and the Family Guestrooms come pre-stocked with kid touches. Ground-floor swim-up options let toddlers reach the water without stairs.",
+        "fr": "Grandes chambres lumineuses et suites familiales, beaucoup ouvrant de plain-pied sur la piscine ou le jardin, on garde ainsi un oeil sur les petits depuis le canapé. Les suites familiales et les chambres communicantes accueillent facilement quatre à cinq personnes, avec la place pour un lit bébé, et les chambres familiales arrivent déjà équipées de petites attentions pour enfants. Les options swim-up au rez-de-chaussée permettent aux tout-petits d'atteindre l'eau sans escalier."
+      },
+      "intro": {
+        "en": "This is the family engine of Costa Navarino: the Westin sits right on the 1km sandy Dunes Beach and shares the resort's headline kids facilities, the Aqua Park with slides, multiple pools and the SandCastle youth hub. Younger babies are covered by the resort's supervised care, older kids can pick between tennis camps, football and cycling, and everyone is a short buggy push from soft golden sand. It is polished, busy and built end to end for families who want the children genuinely entertained while the grown-ups get a break too.",
+        "fr": "Voici le moteur familial de Costa Navarino : le Westin donne directement sur la plage de sable des Dunes, longue d'un kilomètre, et partage les installations enfants phares du domaine, l'Aqua Park avec toboggans, plusieurs piscines et le pôle jeunesse SandCastle. Les tout-petits sont pris en charge par la garderie encadrée du domaine, les plus grands choisissent entre stages de tennis, football et vélo, et tout le monde n'est qu'à une courte poussée de poussette du sable doré. C'est soigné, animé et pensé de bout en bout pour les familles qui veulent des enfants réellement occupés pendant que les parents soufflent aussi."
+      },
+      "highlights": {
+        "en": [
+          "Aqua Park with slides and splash zones for all ages",
+          "Directly on the 1km sandy Dunes Beach",
+          "SandCastle youth hub plus care for babies",
+          "Sports camps: tennis, football, basketball, cycling"
+        ],
+        "fr": [
+          "Aqua Park avec toboggans et zones de jeux d'eau pour tous les âges",
+          "En bord de plage de sable des Dunes, longue d'un kilomètre",
+          "Pôle jeunesse SandCastle et garderie pour les bébés",
+          "Stages sportifs : tennis, football, basket, vélo"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Best all-round kids facilities on the estate",
+          "Sandy beach on the doorstep, not a rocky lido",
+          "Something for every age, from cots to teens",
+          "Huge pool complex to spread the crowds out"
+        ],
+        "fr": [
+          "Les meilleures installations enfants du domaine, tout compris",
+          "Plage de sable juste devant, pas un lido rocheux",
+          "De quoi occuper tous les âges, du lit bébé aux ados",
+          "Vaste complexe de piscines qui dilue la foule"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Premium prices, especially in peak summer",
+          "Large and lively, not a quiet retreat",
+          "The estate is spread out, so plan on buggies and shuttles"
+        ],
+        "fr": [
+          "Tarifs premium, surtout en plein été",
+          "Grand et animé, pas une retraite au calme",
+          "Le domaine est étendu, prévoyez poussette et navettes"
+        ]
+      },
+      "verdict": {
+        "en": "If you want a proper luxury family holiday where the kids are thrilled from breakfast to bedtime and the beach is real sand, this is the safe, brilliant pick at Costa Navarino.",
+        "fr": "Si vous voulez de vraies vacances familiales haut de gamme où les enfants sont ravis du petit-déjeuner au coucher et où la plage est du vrai sable, c'est le choix sûr et brillant à Costa Navarino."
+      },
+      "parentTip": {
+        "en": "Book the Aqua Park slides for first thing in the morning when it is quiet and shaded, then move to the beach after lunch when the pools get busy.",
+        "fr": "Faites les toboggans de l'Aqua Park dès l'ouverture, quand c'est calme et à l'ombre, puis filez à la plage après le déjeuner quand les piscines se remplissent."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "Aqua Park with slides on site",
+            "fr": "Aqua Park avec toboggans sur place"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "SandCastle hub plus baby care",
+            "fr": "Pôle SandCastle et garderie bébés"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Sandy Dunes Beach, 1km long",
+            "fr": "Plage de sable des Dunes, 1 km"
+          }
+        },
+        {
+          "icon": "🎾",
+          "label": {
+            "en": "Sports",
+            "fr": "Sports"
+          },
+          "value": {
+            "en": "Tennis, football and cycling camps",
+            "fr": "Stages tennis, football et vélo"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "How young can the kids club take children?",
+            "fr": "À partir de quel âge le club accueille-t-il les enfants?"
+          },
+          "a": {
+            "en": "The resort has supervised care for babies and toddlers alongside the SandCastle hub for older children, so even families with little ones get real time off.",
+            "fr": "Le domaine propose une garderie encadrée pour bébés et tout-petits, en plus du pôle SandCastle pour les plus grands, si bien que même les familles avec de jeunes enfants profitent de vrais moments à eux."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the beach safe for toddlers?",
+            "fr": "La plage est-elle sûre pour les tout-petits?"
+          },
+          "a": {
+            "en": "Dunes Beach is long, sandy and gently shelving, but it faces the open Ionian, so the sea can pick up on windy afternoons. Check conditions and keep little ones in the shallows.",
+            "fr": "La plage des Dunes est longue, sablonneuse et en pente douce, mais elle fait face à la mer Ionienne ouverte, la houle peut donc se lever les après-midis venteux. Vérifiez les conditions et gardez les petits dans le bassin peu profond."
+          }
+        },
+        {
+          "q": {
+            "en": "Which Costa Navarino hotel is best for young families?",
+            "fr": "Quel hôtel de Costa Navarino est le meilleur pour les jeunes familles?"
+          },
+          "a": {
+            "en": "The Westin is the most complete for mixed ages thanks to the Aqua Park and broad kids programme, while The Romanos next door leans a touch calmer and more polished.",
+            "fr": "Le Westin est le plus complet pour les âges mélangés grâce à l'Aqua Park et au large programme enfants, tandis que Le Romanos, juste à côté, penche vers un peu plus de calme et de raffinement."
+          }
+        }
+      ]
+    },
+    {
+      "key": "costa-navarino-romanos-luxury-collection",
+      "destinationKey": "costa-navarino",
+      "name": "The Romanos, a Luxury Collection Resort, Costa Navarino",
+      "area": {
+        "en": "Navarino Dunes (Romanos)",
+        "fr": "Navarino Dunes (Romanos)"
+      },
+      "lat": 36.9848,
+      "lng": 21.6702,
+      "zoom": 12,
+      "address": "The Romanos, a Luxury Collection Resort, Navarino Dunes, Messinia 24001, Greece",
+      "priceTier": 4,
+      "priceFrom": 520,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "scores": {
+        "rooms": 90,
+        "baby": 88,
+        "pool": 92,
+        "dining": 90,
+        "safety": 91,
+        "convenience": 83,
+        "location": 90,
+        "extras": 92
+      },
+      "roomsSummary": {
+        "en": "The most polished rooms in the Dunes, with infinity-view suites and family options that sleep four to five. Many ground-floor rooms have private or shared pools you step straight into, ideal for toddlers, and cots, bottle warmers and baby kit come on request. Interconnecting family suites give teens their own door while keeping everyone together.",
+        "fr": "Les chambres les plus soignées des Dunes, avec suites à vue infinie et formules familiales pour quatre à cinq personnes. Beaucoup de chambres au rez-de-chaussée ont une piscine privée ou partagée où l'on entre de plain-pied, idéale pour les tout-petits, et lit bébé, chauffe-biberon et matériel bébé sont fournis sur demande. Les suites familiales communicantes offrent aux ados leur propre porte tout en gardant la famille réunie."
+      },
+      "intro": {
+        "en": "The Romanos is the calmer, more refined sibling on the Navarino Dunes, sharing the Aqua Park, sandy beach and youth facilities with the Westin next door but wrapping it in Luxury Collection polish. Its standout for parents is the supervised kids programme that takes children from just a few months old, so even families with a baby get proper downtime by the infinity pool. Add private-pool rooms, standout food and a private stretch of the Ionian, and you have a grown-up-feeling resort that still delights children.",
+        "fr": "Le Romanos est le petit frère plus calme et plus raffiné des Navarino Dunes : il partage l'Aqua Park, la plage de sable et les installations jeunesse avec le Westin voisin, mais y ajoute le soin de la collection Luxury. Son atout pour les parents, c'est le programme enfants encadré qui accueille les petits dès quelques mois, si bien que même les familles avec un bébé profitent de vrais moments de repos au bord de la piscine à débordement. Ajoutez des chambres à piscine privée, une cuisine remarquable et une portion privée de mer Ionienne, et vous obtenez un resort à l'ambiance adulte qui ravit malgré tout les enfants."
+      },
+      "highlights": {
+        "en": [
+          "Supervised kids programme from a few months old",
+          "Shares the Aqua Park and slides on the Dunes",
+          "Private and swim-up pool rooms for toddlers",
+          "Private sandy Ionian beach and infinity pools"
+        ],
+        "fr": [
+          "Programme enfants encadré dès quelques mois",
+          "Partage l'Aqua Park et les toboggans des Dunes",
+          "Chambres à piscine privée ou swim-up pour tout-petits",
+          "Plage de sable privée sur l'Ionienne et piscines à débordement"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Baby care that genuinely starts young",
+          "Quieter and more polished than its neighbour",
+          "Superb dining across the resort",
+          "Same headline slides and beach on the doorstep"
+        ],
+        "fr": [
+          "Une garderie qui commence vraiment tôt",
+          "Plus calme et plus soigné que son voisin",
+          "Restauration superbe dans tout le resort",
+          "Mêmes toboggans phares et même plage juste devant"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Among the priciest stays in the region",
+          "Big estate means shuttles and walking",
+          "Ionian beach can get lively surf on windy days"
+        ],
+        "fr": [
+          "Parmi les séjours les plus chers de la région",
+          "Grand domaine, donc navettes et marche",
+          "La plage de l'Ionienne peut avoir de la houle les jours de vent"
+        ]
+      },
+      "verdict": {
+        "en": "The pick for families with a baby or younger toddler who still want the full Costa Navarino playground: early-years care, private-pool rooms and Luxury Collection calm, all sharing the slides next door.",
+        "fr": "Le choix des familles avec un bébé ou un jeune tout-petit qui veulent quand même tout le terrain de jeu de Costa Navarino : garderie petite enfance, chambres à piscine privée et calme de la collection Luxury, avec les toboggans partagés juste à côté."
+      },
+      "parentTip": {
+        "en": "Ask for a garden or ground-floor room with a shared pool: toddlers can paddle two steps from the door while you keep a coffee in hand.",
+        "fr": "Demandez une chambre jardin ou rez-de-chaussée avec piscine partagée : les tout-petits barbotent à deux pas de la porte pendant que vous gardez le café à la main."
+      },
+      "atAGlance": [
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Baby care",
+            "fr": "Garderie bébé"
+          },
+          "value": {
+            "en": "Supervised from a few months old",
+            "fr": "Encadrée dès quelques mois"
+          }
+        },
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "Shared Aqua Park with slides",
+            "fr": "Aqua Park partagé avec toboggans"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Private and swim-up pool rooms",
+            "fr": "Chambres à piscine privée et swim-up"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Private sandy Ionian stretch",
+            "fr": "Portion de sable privée sur l'Ionienne"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Can the kids club really take a baby?",
+            "fr": "Le club peut-il vraiment accueillir un bébé?"
+          },
+          "a": {
+            "en": "Yes, the supervised programme here takes children from a few months old, which is unusually young and a big draw for parents of babies.",
+            "fr": "Oui, le programme encadré accueille ici les enfants dès quelques mois, un âge inhabituellement bas et un vrai argument pour les parents de bébés."
+          }
+        },
+        {
+          "q": {
+            "en": "What is the difference from the Westin next door?",
+            "fr": "Quelle différence avec le Westin voisin?"
+          },
+          "a": {
+            "en": "They share the Aqua Park, beach and youth facilities on the Dunes. The Romanos is calmer, more design-led and stronger on early-years care and private-pool rooms; the Westin is the busier all-rounder.",
+            "fr": "Ils partagent l'Aqua Park, la plage et les installations jeunesse des Dunes. Le Romanos est plus calme, plus design et plus fort sur la petite enfance et les chambres à piscine privée ; le Westin est le plus animé et polyvalent."
+          }
+        },
+        {
+          "q": {
+            "en": "Do family suites have space for a cot?",
+            "fr": "Les suites familiales ont-elles la place pour un lit bébé?"
+          },
+          "a": {
+            "en": "Yes, family suites and interconnecting rooms are generous and cots, bottle warmers and other baby kit come on request.",
+            "fr": "Oui, les suites familiales et les chambres communicantes sont spacieuses, et lit bébé, chauffe-biberon et autre matériel arrivent sur demande."
+          }
+        }
+      ]
+    },
+    {
+      "key": "costa-navarino-mandarin-oriental",
+      "destinationKey": "costa-navarino",
+      "name": "Mandarin Oriental, Costa Navarino",
+      "area": {
+        "en": "Navarino Bay (Pylos)",
+        "fr": "Navarino Bay (Pylos)"
+      },
+      "lat": 36.9436,
+      "lng": 21.6875,
+      "zoom": 12,
+      "address": "Mandarin Oriental, Costa Navarino, Navarino Bay, Pylos, Messinia 24001, Greece",
+      "priceTier": 4,
+      "priceFrom": 600,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "scores": {
+        "rooms": 92,
+        "baby": 82,
+        "pool": 88,
+        "dining": 90,
+        "safety": 90,
+        "convenience": 78,
+        "location": 86,
+        "extras": 85
+      },
+      "roomsSummary": {
+        "en": "The most spacious and private accommodation on the estate: suites with pools plus three to five-bedroom villas of 139 to over 1,000 square metres, built for extended families and multi-generation stays. Villas come with kitchens or kitchenettes and gated private pools, a reassuring setup with toddlers, and cots and baby amenities are provided on request.",
+        "fr": "L'hébergement le plus spacieux et le plus intime du domaine : suites avec piscine et villas de trois à cinq chambres, de 139 à plus de 1 000 mètres carrés, pensées pour les familles nombreuses et les séjours multigénérationnels. Les villas disposent d'une cuisine ou kitchenette et d'une piscine privée close, un dispositif rassurant avec des tout-petits, et lit bébé et équipements bébé sont fournis sur demande."
+      },
+      "intro": {
+        "en": "Set on the quieter Navarino Bay, a few minutes from the Dunes, the Mandarin Oriental is the estate's grown-up, villa-led choice, all low-rise stone and wood terraces stepping down to a calm private beach. It is not a splash-and-slides waterpark resort, it is a serene, spacious base with a Coral & Friends kids club for four to twelves and villas roomy enough that grandparents, parents and kids each get their own corner. Families wanting space, privacy and calm over crowds and slides book here.",
+        "fr": "Posé sur la baie de Navarino plus tranquille, à quelques minutes des Dunes, le Mandarin Oriental est le choix adulte et orienté villas du domaine, tout en terrasses basses de pierre et de bois qui descendent vers une plage privée paisible. Ce n'est pas un resort à toboggans et éclaboussures, c'est une base sereine et spacieuse, avec un club enfants Coral & Friends pour les quatre à douze ans et des villas assez grandes pour que grands-parents, parents et enfants aient chacun leur coin. Les familles qui privilégient l'espace, l'intimité et le calme plutôt que la foule et les toboggans réservent ici."
+      },
+      "highlights": {
+        "en": [
+          "Coral & Friends kids club for ages 4 to 12",
+          "Three to five-bedroom villas with private pools",
+          "Calm private beach on sheltered Navarino Bay",
+          "Kitchens in villas for easy baby and toddler meals"
+        ],
+        "fr": [
+          "Club enfants Coral & Friends pour les 4 à 12 ans",
+          "Villas de trois à cinq chambres avec piscine privée",
+          "Plage privée paisible sur la baie de Navarino abritée",
+          "Cuisines dans les villas pour les repas bébé et tout-petit faciles"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Huge villas ideal for multi-generation trips",
+          "Calmer and more private than the Dunes resorts",
+          "Gated private pools, reassuring with toddlers",
+          "Beautiful design and standout dining"
+        ],
+        "fr": [
+          "Villas immenses, parfaites pour les voyages multigénérationnels",
+          "Plus calme et plus intime que les resorts des Dunes",
+          "Piscines privées closes, rassurantes avec des tout-petits",
+          "Design superbe et restauration remarquable"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The most expensive base in the area",
+          "No big water park, so slide fans miss out",
+          "Seasonal opening, closed in winter",
+          "Spread-out layout means some walking"
+        ],
+        "fr": [
+          "La base la plus chère de la région",
+          "Pas de grand parc aquatique, les fans de toboggans restent sur leur faim",
+          "Ouverture saisonnière, fermé en hiver",
+          "Plan étendu, donc un peu de marche"
+        ]
+      },
+      "verdict": {
+        "en": "The choice for families who want space, privacy and calm: a villa with its own pool, a gentle kids club and a sheltered bay, rather than the buzz and slides of the Dunes.",
+        "fr": "Le choix des familles qui veulent espace, intimité et calme : une villa avec sa propre piscine, un club enfants tout en douceur et une baie abritée, plutôt que l'effervescence et les toboggans des Dunes."
+      },
+      "parentTip": {
+        "en": "A villa with a gated private pool is worth the splurge with a toddler: naptime, snacks and a swim all happen without leaving your own terrace.",
+        "fr": "Une villa avec piscine privée close vaut la dépense avec un tout-petit : sieste, goûter et baignade se passent tous sans quitter votre terrasse."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏡",
+          "label": {
+            "en": "Villas",
+            "fr": "Villas"
+          },
+          "value": {
+            "en": "3 to 5 bedrooms, private pools",
+            "fr": "3 à 5 chambres, piscines privées"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Coral & Friends, ages 4 to 12",
+            "fr": "Coral & Friends, 4 à 12 ans"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Calm private Navarino Bay",
+            "fr": "Baie de Navarino privée et calme"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Self-catering",
+            "fr": "Cuisine sur place"
+          },
+          "value": {
+            "en": "Villa kitchens for baby meals",
+            "fr": "Cuisines de villa pour repas bébé"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is there a water park here?",
+            "fr": "Y a-t-il un parc aquatique ici?"
+          },
+          "a": {
+            "en": "No, the big Aqua Park and slides are over at the Navarino Dunes. Mandarin Oriental is about calm pools, villas and a sheltered beach, a few minutes' drive away.",
+            "fr": "Non, le grand Aqua Park et les toboggans sont aux Navarino Dunes. Le Mandarin Oriental mise sur des piscines calmes, des villas et une plage abritée, à quelques minutes en voiture."
+          }
+        },
+        {
+          "q": {
+            "en": "What age does the kids club take?",
+            "fr": "Quel âge le club enfants accueille-t-il?"
+          },
+          "a": {
+            "en": "The Coral & Friends kids club welcomes children aged 4 to 12. For younger babies, the villa kitchens and private pools make self-managed days easy.",
+            "fr": "Le club Coral & Friends accueille les enfants de 4 à 12 ans. Pour les plus jeunes bébés, les cuisines de villa et les piscines privées facilitent les journées gérées en autonomie."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it good for a multi-generation trip?",
+            "fr": "Est-ce adapté à un voyage multigénérationnel?"
+          },
+          "a": {
+            "en": "Very. The three to five-bedroom villas are large and private, so grandparents, parents and children can share a base while each keeping their own space.",
+            "fr": "Tout à fait. Les villas de trois à cinq chambres sont grandes et intimes, si bien que grands-parents, parents et enfants partagent une base tout en gardant chacun leur espace."
+          }
+        }
+      ]
+    },
+    {
+      "key": "costa-navarino-grecotel-filoxenia-kalamata",
+      "destinationKey": "costa-navarino",
+      "name": "Grecotel Filoxenia Kalamata",
+      "area": {
+        "en": "Kalamata",
+        "fr": "Kalamata"
+      },
+      "lat": 37.0103,
+      "lng": 22.1188,
+      "zoom": 12,
+      "address": "Grecotel Filoxenia Kalamata, Navarinou Beachfront, Kalamata 24100, Messinia, Greece",
+      "priceTier": 3,
+      "priceFrom": 220,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "scores": {
+        "rooms": 84,
+        "baby": 86,
+        "pool": 88,
+        "dining": 85,
+        "safety": 88,
+        "convenience": 82,
+        "location": 85,
+        "extras": 84
+      },
+      "roomsSummary": {
+        "en": "Renovated rooms and family suites among olive gardens, many with balconies over the pools or sea. Family rooms and connecting options sleep four, children up to 12 stay free in select room types, and the GrecoBaby service supplies cots, sterilisers, monitors and more so you can pack light with an infant.",
+        "fr": "Chambres et suites familiales rénovées au milieu des oliveraies, beaucoup avec balcon sur les piscines ou la mer. Les chambres familiales et les options communicantes accueillent quatre personnes, les enfants jusqu'à 12 ans séjournent gratuitement dans certaines catégories, et le service GrecoBaby fournit lit bébé, stérilisateurs, écoute-bébé et plus encore, de quoi voyager léger avec un nourrisson."
+      },
+      "intro": {
+        "en": "For premium family comfort without the Costa Navarino price tag, Grecotel Filoxenia is the smart Messinia pick: 300 metres of Kalamata beachfront, three infinity pools including a dedicated children's pool, and olive gardens running down to the sea under Mount Taygetus. The Grecoland kids club looks after four to twelves, the excellent GrecoBaby service means you barely need to pack for an infant, and complimentary kids' dining keeps mealtimes cheap and stress-free. It is polished, well run and genuinely built around families.",
+        "fr": "Pour un confort familial haut de gamme sans le tarif de Costa Navarino, le Grecotel Filoxenia est le choix malin en Messinie : 300 mètres de front de mer à Kalamata, trois piscines à débordement dont un bassin dédié aux enfants, et des oliveraies qui descendent vers la mer au pied du mont Taygète. Le club enfants Grecoland s'occupe des quatre à douze ans, l'excellent service GrecoBaby fait qu'on n'a presque rien à emporter pour un nourrisson, et la restauration enfants offerte rend les repas économiques et sans stress. C'est soigné, bien tenu et vraiment pensé autour des familles."
+      },
+      "highlights": {
+        "en": [
+          "Grecoland kids club plus GrecoBaby service",
+          "Three infinity pools including a children's pool",
+          "300m of Kalamata beachfront and olive gardens",
+          "Complimentary kids' dining and free stays under 12"
+        ],
+        "fr": [
+          "Club enfants Grecoland et service GrecoBaby",
+          "Trois piscines à débordement dont un bassin enfants",
+          "300 m de front de mer à Kalamata et oliveraies",
+          "Restauration enfants offerte et gratuité pour les moins de 12 ans"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Excellent baby service, pack light with an infant",
+          "Big value against the Costa Navarino resorts",
+          "Direct beach and a dedicated kids' pool",
+          "Kids eat free, easy on the budget"
+        ],
+        "fr": [
+          "Excellent service bébé, on voyage léger avec un nourrisson",
+          "Bon rapport qualité-prix face aux resorts de Costa Navarino",
+          "Accès direct à la plage et bassin enfants dédié",
+          "Les enfants mangent gratuitement, facile pour le budget"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Kalamata's beach is pebbly sand, not soft dunes",
+          "No big water park with slides",
+          "Kalamata town is a drive rather than a stroll away"
+        ],
+        "fr": [
+          "La plage de Kalamata est de sable caillouteux, pas des dunes douces",
+          "Pas de grand parc aquatique avec toboggans",
+          "La ville de Kalamata se rejoint en voiture plutôt qu'à pied"
+        ]
+      },
+      "verdict": {
+        "en": "The value champion of Messinia for young families: outstanding baby kit, a proper kids club, free children's dining and a beachfront base, all for a good deal less than the big-name Navarino resorts.",
+        "fr": "Le champion du rapport qualité-prix en Messinie pour les jeunes familles : équipement bébé remarquable, vrai club enfants, restauration enfants offerte et base en bord de mer, le tout bien moins cher que les grands resorts de Navarino."
+      },
+      "parentTip": {
+        "en": "Pre-book the GrecoBaby kit when you reserve so the cot, steriliser and monitor are waiting in the room, then leave the bulky gear at home.",
+        "fr": "Réservez le kit GrecoBaby au moment de la réservation pour que lit bébé, stérilisateur et écoute-bébé attendent dans la chambre, et laissez le matériel encombrant à la maison."
+      },
+      "atAGlance": [
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Baby service",
+            "fr": "Service bébé"
+          },
+          "value": {
+            "en": "GrecoBaby cots and gear",
+            "fr": "Lit bébé et équipement GrecoBaby"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Grecoland, ages 4 to 12",
+            "fr": "Grecoland, 4 à 12 ans"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Three pools plus a kids' pool",
+            "fr": "Trois piscines et un bassin enfants"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Kids eat free",
+            "fr": "Enfants gratuits"
+          },
+          "value": {
+            "en": "Complimentary children's dining",
+            "fr": "Restauration enfants offerte"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "How is this different from Costa Navarino?",
+            "fr": "En quoi est-ce différent de Costa Navarino?"
+          },
+          "a": {
+            "en": "It is more of a classic beachfront family resort at a friendlier price, about 45 minutes east in Kalamata. You lose the huge Aqua Park but gain great value, a superb baby service and free kids' dining.",
+            "fr": "C'est davantage un resort familial classique en bord de mer, à un prix plus doux, à environ 45 minutes à l'est, à Kalamata. On perd l'immense Aqua Park mais on gagne un excellent rapport qualité-prix, un superbe service bébé et la restauration enfants offerte."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the beach sandy?",
+            "fr": "La plage est-elle sablonneuse?"
+          },
+          "a": {
+            "en": "Kalamata's long beach is a mix of sand and small pebbles rather than soft dune sand, so water shoes are handy for little feet. The pools pick up the slack for the youngest paddlers.",
+            "fr": "La longue plage de Kalamata mêle sable et petits galets plutôt qu'un sable de dune tout doux, des chaussures d'eau sont donc pratiques pour les petits pieds. Les piscines prennent le relais pour les plus jeunes baigneurs."
+          }
+        },
+        {
+          "q": {
+            "en": "Do children really stay and eat free?",
+            "fr": "Les enfants séjournent-ils et mangent-ils vraiment gratuitement?"
+          },
+          "a": {
+            "en": "Children up to 12 stay free in select room types and the resort includes complimentary kids' dining, which makes a real difference to a family budget.",
+            "fr": "Les enfants jusqu'à 12 ans séjournent gratuitement dans certaines catégories et le resort inclut une restauration enfants offerte, ce qui change vraiment le budget d'une famille."
+          }
+        }
+      ]
+    },
+    {
+      "key": "costa-navarino-elite-city-resort-kalamata",
+      "destinationKey": "costa-navarino",
+      "name": "Elite City Resort Kalamata",
+      "area": {
+        "en": "Kalamata town seafront",
+        "fr": "Front de mer de Kalamata"
+      },
+      "lat": 37.0169,
+      "lng": 22.1129,
+      "zoom": 12,
+      "address": "Elite City Resort, Navarinou 2, Kalamata 24100, Messinia, Greece",
+      "priceTier": 3,
+      "priceFrom": 140,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly",
+        "city-base"
+      ],
+      "clubFree": false,
+      "scores": {
+        "rooms": 80,
+        "baby": 75,
+        "pool": 80,
+        "dining": 78,
+        "safety": 84,
+        "convenience": 88,
+        "location": 84,
+        "extras": 74
+      },
+      "roomsSummary": {
+        "en": "Spacious rooms and family suites overlooking the Messinian Bay, with connecting options that sleep four and cots on request. It reads as a comfortable city beach hotel rather than a sprawling resort, so families are close together and the seafront promenade is right outside the door.",
+        "fr": "Chambres spacieuses et suites familiales avec vue sur le golfe de Messénie, options communicantes pour quatre personnes et lit bébé sur demande. On est plus proche d'un hôtel de plage urbain confortable que d'un vaste resort, la famille reste donc groupée et la promenade du front de mer se trouve juste devant la porte."
+      },
+      "intro": {
+        "en": "Elite City Resort is the practical family base right on Kalamata's seafront, where the long beach, the promenade cafes, the harbour and the old town are all walkable, no hire car needed to keep everyone fed and entertained. Separate adult and children's pools, a playground and direct beach access cover the little ones, while being in town means gelato runs, playgrounds and easy dinners are steps away. It is not a big kids-club resort, it is a comfortable, convenient city-beach hotel that suits families who like to explore.",
+        "fr": "L'Elite City Resort est la base familiale pratique en plein sur le front de mer de Kalamata, où la longue plage, les cafés de la promenade, le port et la vieille ville se font tous à pied, sans voiture de location pour nourrir et occuper tout le monde. Piscines adultes et enfants séparées, aire de jeux et accès direct à la plage s'occupent des petits, tandis qu'être en ville met glaces, jeux et dîners faciles à quelques pas. Ce n'est pas un grand resort à club enfants, c'est un hôtel de plage urbain confortable et bien placé qui convient aux familles qui aiment explorer."
+      },
+      "highlights": {
+        "en": [
+          "Right on Kalamata's walkable seafront promenade",
+          "Separate adult and children's pools plus a playground",
+          "Direct access to the town beach",
+          "Old town, harbour and cafes on foot, no car needed"
+        ],
+        "fr": [
+          "En plein sur la promenade du front de mer de Kalamata",
+          "Piscines adultes et enfants séparées et aire de jeux",
+          "Accès direct à la plage de la ville",
+          "Vieille ville, port et cafés à pied, sans voiture"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Great value and central location",
+          "Everything walkable, easy without a car",
+          "Kids' pool and playground on site",
+          "Real Greek town life on the doorstep"
+        ],
+        "fr": [
+          "Bon rapport qualité-prix et emplacement central",
+          "Tout à pied, facile sans voiture",
+          "Bassin enfants et aire de jeux sur place",
+          "Vraie vie de ville grecque juste devant"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No kids club or big resort programme",
+          "Town-beach setting, busier and less resort-calm",
+          "Pool area is smaller than the big resorts"
+        ],
+        "fr": [
+          "Pas de club enfants ni de grand programme de resort",
+          "Cadre de plage urbaine, plus animé et moins calme qu'un resort",
+          "L'espace piscine est plus petit que dans les grands resorts"
+        ]
+      },
+      "verdict": {
+        "en": "A well-priced, walk-everywhere city-beach base for families who want to explore Kalamata and Messinia rather than stay parked inside a resort all week.",
+        "fr": "Une base de plage urbaine bien placée et abordable, tout à pied, pour les familles qui veulent explorer Kalamata et la Messénie plutôt que rester enfermées dans un resort toute la semaine."
+      },
+      "parentTip": {
+        "en": "Base here if you plan day trips to Voidokilia, Ancient Messene and the Costa Navarino beaches; you get town convenience by night and a car-free evening stroll for gelato.",
+        "fr": "Installez-vous ici si vous prévoyez des excursions à Voidokilia, à l'antique Messène et aux plages de Costa Navarino : vous avez le confort de la ville le soir et une balade glace sans voiture."
+      },
+      "atAGlance": [
+        {
+          "icon": "🚶",
+          "label": {
+            "en": "Location",
+            "fr": "Emplacement"
+          },
+          "value": {
+            "en": "Walkable Kalamata seafront",
+            "fr": "Front de mer de Kalamata à pied"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Adult and children's pools",
+            "fr": "Piscines adultes et enfants"
+          }
+        },
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Playground",
+            "fr": "Aire de jeux"
+          },
+          "value": {
+            "en": "On-site play area for kids",
+            "fr": "Aire de jeux enfants sur place"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Direct access to the town beach",
+            "fr": "Accès direct à la plage de la ville"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is there a kids club?",
+            "fr": "Y a-t-il un club enfants?"
+          },
+          "a": {
+            "en": "No, this is a city beach hotel rather than a club resort. It has a children's pool and a playground, but for a full kids' programme look at Grecotel Filoxenia or the Costa Navarino resorts.",
+            "fr": "Non, c'est un hôtel de plage urbain plutôt qu'un resort à club. Il y a un bassin enfants et une aire de jeux, mais pour un vrai programme enfants, regardez le Grecotel Filoxenia ou les resorts de Costa Navarino."
+          }
+        },
+        {
+          "q": {
+            "en": "Do we need a car?",
+            "fr": "Faut-il une voiture?"
+          },
+          "a": {
+            "en": "Not for the stay itself, as the beach, promenade and old town are all walkable. A hire car helps for day trips to Voidokilia, Costa Navarino and Ancient Messene.",
+            "fr": "Pas pour le séjour lui-même, car la plage, la promenade et la vieille ville se font à pied. Une voiture de location aide pour les excursions à Voidokilia, Costa Navarino et l'antique Messène."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it good with a baby?",
+            "fr": "Est-ce adapté avec un bébé?"
+          },
+          "a": {
+            "en": "It works well thanks to the central, walkable setting and cots on request, though it lacks the dedicated baby services of the bigger resorts, so bring your own kit.",
+            "fr": "Cela fonctionne bien grâce au cadre central et accessible à pied et au lit bébé sur demande, même s'il manque les services bébé dédiés des grands resorts, prévoyez donc votre propre matériel."
+          }
+        }
+      ]
+    },
+    {
+      "key": "costa-navarino-zoe-seaside-resort-gialova",
+      "destinationKey": "costa-navarino",
+      "name": "Zoe Seaside Resort, Gialova",
+      "area": {
+        "en": "Gialova (Navarino Bay)",
+        "fr": "Gialova (baie de Navarino)"
+      },
+      "lat": 36.9558,
+      "lng": 21.7004,
+      "zoom": 12,
+      "address": "Zoe Seaside Resort, Gialova, Pylos, Messinia 24001, Greece",
+      "priceTier": 2,
+      "priceFrom": 120,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "beach-access",
+        "baby-friendly",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "scores": {
+        "rooms": 79,
+        "baby": 82,
+        "pool": 85,
+        "dining": 80,
+        "safety": 87,
+        "convenience": 80,
+        "location": 88,
+        "extras": 76
+      },
+      "roomsSummary": {
+        "en": "Family-run and family-shaped: two-room Family Suites for four with a double and a twin, plus top-floor loft rooms, all air-conditioned and set in mature gardens. The layout keeps parents and children in the same suite with a door between, and cots come on request, an easygoing, unfussy base a few steps from the sand.",
+        "fr": "Tenu par une famille et pensé pour les familles : suites familiales de deux pièces pour quatre, avec une chambre double et une chambre twin, plus des lofts au dernier étage, le tout climatisé et niché dans des jardins matures. La disposition garde parents et enfants dans la même suite avec une porte entre les deux, et le lit bébé arrive sur demande, une base décontractée et sans chichi à quelques pas du sable."
+      },
+      "intro": {
+        "en": "Zoe is the friendly, affordable heart of Gialova, a family-run resort that was the village's very first hotel back in the 1970s and still feels personal. A huge 250 square-metre freshwater pool sits in shady gardens, the sandy beach is 30 seconds away, and miles of soft sand run north to famous Voidokilia. Gialova's little pedestrian street of tavernas and shops is a stroll from the door, so evenings are easy. There is no kids club, but with shallow calm water, a big pool and low-key village life, younger children are very happy here.",
+        "fr": "Le Zoe est le coeur chaleureux et abordable de Gialova, un resort familial qui fut le tout premier hôtel du village dans les années 1970 et garde une âme personnelle. Une immense piscine d'eau douce de 250 mètres carrés s'étend dans des jardins ombragés, la plage de sable est à 30 secondes, et des kilomètres de sable doux filent vers le nord jusqu'à la célèbre Voidokilia. La petite rue piétonne de tavernes et de boutiques de Gialova se rejoint à pied depuis la porte, les soirées sont donc simples. Il n'y a pas de club enfants, mais avec une eau calme et peu profonde, une grande piscine et une vie de village tranquille, les jeunes enfants sont très heureux ici."
+      },
+      "highlights": {
+        "en": [
+          "Huge 250 sqm freshwater pool in shady gardens",
+          "Sandy beach 30 seconds from the door",
+          "Miles of soft sand north to Voidokilia",
+          "Family-run, with two-room family suites for four"
+        ],
+        "fr": [
+          "Immense piscine d'eau douce de 250 m2 dans des jardins ombragés",
+          "Plage de sable à 30 secondes de la porte",
+          "Des kilomètres de sable doux vers le nord jusqu'à Voidokilia",
+          "Tenu par une famille, suites familiales de deux pièces pour quatre"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Genuinely affordable in a pricey area",
+          "Warm, personal family-run service",
+          "Shallow sandy beach right outside",
+          "Walk to Gialova's tavernas and shops"
+        ],
+        "fr": [
+          "Vraiment abordable dans une région chère",
+          "Service familial chaleureux et personnel",
+          "Plage de sable peu profonde juste devant",
+          "Tavernes et boutiques de Gialova à pied"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No kids club or big resort facilities",
+          "Simpler, more traditional rooms",
+          "A car helps for beaches and days out"
+        ],
+        "fr": [
+          "Pas de club enfants ni de grandes installations de resort",
+          "Chambres plus simples et plus traditionnelles",
+          "Une voiture aide pour les plages et les sorties"
+        ]
+      },
+      "verdict": {
+        "en": "The value gem of the Navarino coast for young families: a big pool, a shallow sandy beach and warm family-run care, minutes from Voidokilia and the Costa Navarino resorts without their price.",
+        "fr": "La pépite abordable de la côte de Navarino pour les jeunes familles : une grande piscine, une plage de sable peu profonde et un accueil familial chaleureux, à quelques minutes de Voidokilia et des resorts de Costa Navarino sans leur tarif."
+      },
+      "parentTip": {
+        "en": "Walk north along the beach early to reach the shallow lagoon end towards Voidokilia, where the water is calmest for toddlers before the afternoon breeze picks up.",
+        "fr": "Longez la plage vers le nord tôt le matin pour rejoindre l'extrémité en lagune peu profonde vers Voidokilia, où l'eau est la plus calme pour les tout-petits avant que la brise d'après-midi ne se lève."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "250 sqm freshwater pool",
+            "fr": "Piscine d'eau douce de 250 m2"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Sandy beach 30 seconds away",
+            "fr": "Plage de sable à 30 secondes"
+          }
+        },
+        {
+          "icon": "👨‍👩‍👧",
+          "label": {
+            "en": "Family-run",
+            "fr": "Familial"
+          },
+          "value": {
+            "en": "Personal service since the 1970s",
+            "fr": "Service personnel depuis les années 1970"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Value",
+            "fr": "Prix"
+          },
+          "value": {
+            "en": "Affordable for the Navarino coast",
+            "fr": "Abordable pour la côte de Navarino"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is Zoe close to Costa Navarino?",
+            "fr": "Le Zoe est-il proche de Costa Navarino?"
+          },
+          "a": {
+            "en": "Yes, it sits on the northern shore of Navarino Bay at Gialova, a short drive from the Costa Navarino resorts and their beaches, and walking distance to Gialova village.",
+            "fr": "Oui, il se trouve sur la rive nord de la baie de Navarino, à Gialova, à quelques minutes en voiture des resorts de Costa Navarino et de leurs plages, et à pied du village de Gialova."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the beach good for toddlers?",
+            "fr": "La plage est-elle bonne pour les tout-petits?"
+          },
+          "a": {
+            "en": "The sand right outside is soft and the water shallow, and it gets calmer still towards the Voidokilia lagoon. As with all this coast, an afternoon breeze can bring small waves, so mornings are gentlest.",
+            "fr": "Le sable juste devant est doux et l'eau peu profonde, et cela se calme encore vers la lagune de Voidokilia. Comme sur toute cette côte, la brise d'après-midi peut apporter de petites vagues, les matins sont donc les plus doux."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a kids club?",
+            "fr": "Y a-t-il un club enfants?"
+          },
+          "a": {
+            "en": "No, Zoe is a relaxed family-run hotel without a formal kids club. The big pool, shallow beach and village setting keep children happy the low-key way.",
+            "fr": "Non, le Zoe est un hôtel familial décontracté sans club enfants formel. La grande piscine, la plage peu profonde et le cadre de village rendent les enfants heureux de façon toute simple."
+          }
+        }
+      ]
+    },
+    {
+      "key": "costa-navarino-porto-finissia-finikounda",
+      "destinationKey": "costa-navarino",
+      "name": "Porto Finissia, Finikounda",
+      "area": {
+        "en": "Finikounda",
+        "fr": "Finikounda"
+      },
+      "lat": 36.7686,
+      "lng": 21.8094,
+      "zoom": 12,
+      "address": "Porto Finissia, Finikounda, Methoni, Messinia 24006, Greece",
+      "priceTier": 2,
+      "priceFrom": 95,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "scores": {
+        "rooms": 72,
+        "baby": 76,
+        "pool": 80,
+        "dining": 74,
+        "safety": 85,
+        "convenience": 78,
+        "location": 86,
+        "extras": 70
+      },
+      "roomsSummary": {
+        "en": "Simple, comfortable rooms with strong air-conditioning and balconies, many facing the beach and bay. Larger rooms take a family of four, and the setup is unfussy rather than luxurious, a straightforward beach base where the sea and the pool, not the room, are the point.",
+        "fr": "Chambres simples et confortables avec une climatisation efficace et des balcons, beaucoup face à la plage et à la baie. Les plus grandes accueillent une famille de quatre, et l'ensemble est sans chichi plutôt que luxueux, une base de plage directe où la mer et la piscine, pas la chambre, sont l'essentiel."
+      },
+      "intro": {
+        "en": "Down at the southern tip of Messinia, Finikounda is a proper little Greek beach village, and Porto Finissia sits right on its blue-flag sandy bay. This is the low-key, great-value end of the coast: a pool with sea views, a bar behind it and a shallow, safe, gently shelving beach that is ideal for young children right in front. There is no kids club or waterpark, just sand, warm calm water, tavernas along the seafront and the easy rhythm of a village holiday. Families who want simple, sandy and affordable pick here.",
+        "fr": "Tout au sud de la Messénie, Finikounda est un vrai petit village de plage grec, et le Porto Finissia se trouve en plein sur sa baie de sable au pavillon bleu. C'est l'extrémité tranquille et avantageuse de la côte : une piscine avec vue mer, un bar derrière et, juste devant, une plage peu profonde, sûre et en pente douce, idéale pour les jeunes enfants. Pas de club enfants ni de parc aquatique, seulement du sable, une eau chaude et calme, des tavernes le long du front de mer et le rythme facile de vacances au village. Les familles qui veulent simple, sablonneux et abordable choisissent ici."
+      },
+      "highlights": {
+        "en": [
+          "Right on Finikounda's blue-flag sandy beach",
+          "Pool with sea views and a poolside bar",
+          "Shallow, safe water ideal for young children",
+          "Seafront tavernas a short stroll away"
+        ],
+        "fr": [
+          "En plein sur la plage de sable au pavillon bleu de Finikounda",
+          "Piscine avec vue mer et bar au bord",
+          "Eau peu profonde et sûre, idéale pour les jeunes enfants",
+          "Tavernes du front de mer à quelques pas"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Excellent value on a lovely sandy bay",
+          "Shallow, calm beach right in front",
+          "Relaxed village setting, easy with little ones",
+          "Sea-view rooms and a good pool"
+        ],
+        "fr": [
+          "Excellent rapport qualité-prix sur une jolie baie de sable",
+          "Plage peu profonde et calme juste devant",
+          "Cadre de village détendu, facile avec des petits",
+          "Chambres vue mer et une bonne piscine"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Simple, older-style rooms, not luxury",
+          "No kids club, waterpark or big facilities",
+          "Finikounda is remote, a car is essential",
+          "Reviews are mixed, ask for a renovated room"
+        ],
+        "fr": [
+          "Chambres simples et un peu datées, pas du luxe",
+          "Pas de club enfants, de parc aquatique ni de grandes installations",
+          "Finikounda est isolée, une voiture est indispensable",
+          "Les avis sont partagés, demandez une chambre rénovée"
+        ]
+      },
+      "verdict": {
+        "en": "For families who want the real Greek village and a shallow sandy beach over polish and price, Finikounda's Porto Finissia is a simple, sunny, great-value base at the quiet end of Messinia.",
+        "fr": "Pour les familles qui préfèrent le vrai village grec et une plage de sable peu profonde au raffinement et au prix, le Porto Finissia de Finikounda est une base simple, ensoleillée et avantageuse, à l'extrémité tranquille de la Messénie."
+      },
+      "parentTip": {
+        "en": "Rooms vary a lot here, so ask specifically for a renovated, sea-facing room, and hire a car: Finikounda is beautiful but a fair drive from the airport and the sights.",
+        "fr": "Les chambres varient beaucoup ici, demandez donc expressément une chambre rénovée face à la mer, et louez une voiture : Finikounda est superbe mais loin de l'aéroport et des sites."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Blue-flag sandy bay in front",
+            "fr": "Baie de sable pavillon bleu devant"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "Sea-view pool and bar",
+            "fr": "Piscine vue mer et bar"
+          }
+        },
+        {
+          "icon": "🌊",
+          "label": {
+            "en": "Water",
+            "fr": "Eau"
+          },
+          "value": {
+            "en": "Shallow and calm for little ones",
+            "fr": "Peu profonde et calme pour les petits"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Value",
+            "fr": "Prix"
+          },
+          "value": {
+            "en": "The affordable, simple option",
+            "fr": "L'option simple et abordable"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is Finikounda good for young children?",
+            "fr": "Finikounda est-elle bonne pour les jeunes enfants?"
+          },
+          "a": {
+            "en": "Very. The blue-flag bay is sandy, shallow and gently shelving with warm, calm water, which is about as safe and easy as a Greek beach gets for toddlers.",
+            "fr": "Tout à fait. La baie au pavillon bleu est sablonneuse, peu profonde et en pente douce, avec une eau chaude et calme, ce qui est à peu près aussi sûr et facile qu'une plage grecque puisse l'être pour les tout-petits."
+          }
+        },
+        {
+          "q": {
+            "en": "Do we need a car?",
+            "fr": "Faut-il une voiture?"
+          },
+          "a": {
+            "en": "Yes. Finikounda is a remote village at the south of Messinia, roughly an hour and a half from Kalamata airport, so a hire car is essential for getting there and exploring.",
+            "fr": "Oui. Finikounda est un village isolé au sud de la Messénie, à environ une heure et demie de l'aéroport de Kalamata, une voiture de location est donc indispensable pour y aller et explorer."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it a luxury hotel?",
+            "fr": "Est-ce un hôtel de luxe?"
+          },
+          "a": {
+            "en": "No, it is a simple, good-value village beach hotel. Rooms are unfussy and reviews vary, so request a renovated sea-facing room. For luxury, look to the Costa Navarino resorts to the north.",
+            "fr": "Non, c'est un hôtel de plage de village simple et d'un bon rapport qualité-prix. Les chambres sont sans chichi et les avis varient, demandez donc une chambre rénovée face à la mer. Pour le luxe, tournez-vous vers les resorts de Costa Navarino, au nord."
+          }
+        }
+      ]
+    }
+  ],
+  "destinationMeta": {
+    "name": {
+      "en": "Costa Navarino",
+      "fr": "Costa Navarino"
+    },
+    "country": {
+      "en": "Greece",
+      "fr": "Grèce"
+    },
+    "emoji": "🏖️",
+    "accent": "2e8f9c",
+    "geo": {
+      "lat": 36.96,
+      "lng": 21.68,
+      "zoom": 10
+    },
+    "heroKicker": {
+      "en": "World-class kids clubs, an Aqua Park and soft sandy dunes on the green Peloponnese coast",
+      "fr": "Clubs enfants d'exception, un Aqua Park et de douces dunes de sable sur la côte verte du Péloponnèse"
+    },
+    "intro": {
+      "en": "Costa Navarino is where a premium family holiday in Greece comes into its own. On this green, olive-covered stretch of the Messinian coast, a cluster of luxury resorts on the Navarino Dunes and Navarino Bay pair some of the best kids facilities in the country, an Aqua Park with slides, supervised care that starts in babyhood, sports academies and youth hubs, with long, soft, sandy beaches that are far gentler underfoot than the pebbles much of Greece offers. Beyond the estate, the toddler-shallow bays of Gialova and Finikounda, the storybook curve of Voidokilia and the family beachfronts of Kalamata add depth and value, while ancient Messene, the Bay of Navarino and hilltop castles give parents history and children an adventure. It is not a budget corner of Greece, but for families who want the children genuinely looked after while everyone relaxes on real sand, few places do it better.",
+      "fr": "Costa Navarino, c'est là que des vacances familiales haut de gamme en Grèce prennent tout leur sens. Sur cette portion verte et couverte d'oliviers de la côte messénienne, un ensemble de resorts de luxe sur les Navarino Dunes et la baie de Navarino associe certaines des meilleures installations enfants du pays, un Aqua Park à toboggans, une garderie encadrée qui commence dès le plus jeune âge, des académies sportives et des pôles jeunesse, à de longues plages de sable doux bien plus agréables sous les pieds que les galets d'une grande partie de la Grèce. Au-delà du domaine, les baies peu profondes de Gialova et Finikounda, la courbe de carte postale de Voidokilia et les fronts de mer familiaux de Kalamata apportent profondeur et bons prix, tandis que l'antique Messène, la baie de Navarino et les châteaux perchés offrent de l'histoire aux parents et de l'aventure aux enfants. Ce n'est pas le coin le moins cher de Grèce, mais pour les familles qui veulent des enfants vraiment pris en charge pendant que tout le monde se détend sur du vrai sable, peu d'endroits font mieux."
+    },
+    "whyKids": {
+      "en": [
+        "The Aqua Park at the Navarino Dunes has slides and splash zones for all ages",
+        "Supervised care that starts in babyhood, so even parents of infants get a break",
+        "Sports academies for older kids: tennis, football, basketball and cycling",
+        "Long, soft, sandy beaches instead of the pebbles found across much of Greece",
+        "Voidokilia and Gialova's shallow lagoon are dreamy, calm paddling for toddlers"
+      ],
+      "fr": [
+        "L'Aqua Park des Navarino Dunes a des toboggans et des zones de jeux d'eau pour tous les âges",
+        "Une garderie encadrée dès le plus jeune âge, même les parents de nourrissons soufflent",
+        "Des académies sportives pour les grands : tennis, football, basket et vélo",
+        "De longues plages de sable doux plutôt que les galets d'une grande partie de la Grèce",
+        "Voidokilia et la lagune peu profonde de Gialova, une baignade calme et de rêve pour les tout-petits"
+      ]
+    },
+    "bestAreas": {
+      "en": [
+        "Navarino Dunes: the family heart of the estate, home to the Aqua Park, the Westin and The Romanos, right on sandy Dunes Beach",
+        "Navarino Bay: the quieter, villa-led side with the Mandarin Oriental, a sheltered private beach and calmer water",
+        "Gialova and Voidokilia: a relaxed, better-value village base with a shallow lagoon and the famous crescent beach nearby",
+        "Kalamata: the lively regional town with a long beachfront, family resorts, an airport and everything walkable"
+      ],
+      "fr": [
+        "Navarino Dunes : le coeur familial du domaine, avec l'Aqua Park, le Westin et le Romanos, en plein sur la plage de sable des Dunes",
+        "Baie de Navarino : le versant plus calme et orienté villas, avec le Mandarin Oriental, une plage privée abritée et une eau plus tranquille",
+        "Gialova et Voidokilia : une base de village détendue et plus avantageuse, avec une lagune peu profonde et la célèbre plage en croissant tout près",
+        "Kalamata : la ville régionale animée, avec un long front de mer, des resorts familiaux, un aéroport et tout accessible à pied"
+      ]
+    },
+    "goodToKnow": {
+      "en": "The nearest airport is Kalamata (KLX), about 45 minutes to an hour from Costa Navarino, with seasonal flights from much of Europe in summer. This is a premium destination: the Navarino Dunes and Bay resorts sit at the top of the price range, so Gialova, Finikounda and Kalamata are where families find value. A hire car is well worth it, as the best beaches and the ancient sites are spread out and public transport is thin. Most beaches here are genuinely sandy and gently shelving, but they face the open Ionian, so an afternoon breeze can bring small waves; mornings are calmest, and the Gialova lagoon and Voidokilia are the most sheltered for toddlers. The resorts are seasonal, generally open spring to autumn.",
+      "fr": "L'aéroport le plus proche est Kalamata (KLX), à environ 45 minutes à une heure de Costa Navarino, avec des vols saisonniers depuis une grande partie de l'Europe en été. C'est une destination haut de gamme : les resorts des Navarino Dunes et de la baie sont en haut de la fourchette de prix, Gialova, Finikounda et Kalamata sont donc là où les familles trouvent de bons tarifs. Une voiture de location vaut vraiment le coup, car les plus belles plages et les sites antiques sont dispersés et les transports en commun rares. La plupart des plages ici sont réellement sablonneuses et en pente douce, mais elles font face à la mer Ionienne ouverte, une brise d'après-midi peut donc apporter de petites vagues ; les matins sont les plus calmes, et la lagune de Gialova et Voidokilia sont les plus abritées pour les tout-petits. Les resorts sont saisonniers, généralement ouverts du printemps à l'automne."
+    },
+    "parentTip": {
+      "en": "Split your week: a few nights at a Navarino Dunes resort for the Aqua Park and kids clubs, then a couple at value-friendly Gialova or Kalamata to explore Voidokilia, Pylos castle and ancient Messene. Do the beaches in the morning while the sea is calmest for little ones.",
+      "fr": "Découpez votre semaine : quelques nuits dans un resort des Navarino Dunes pour l'Aqua Park et les clubs enfants, puis deux à Gialova ou Kalamata, plus abordables, pour explorer Voidokilia, le château de Pylos et l'antique Messène. Faites les plages le matin, quand la mer est la plus calme pour les petits."
+    }
+  }
+}

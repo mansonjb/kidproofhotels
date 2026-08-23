@@ -1,0 +1,1254 @@
+{
+  "hotels": [
+    {
+      "key": "marsa-alam-jaz-samaya",
+      "destinationKey": "marsa-alam",
+      "name": "Jaz Samaya Resort",
+      "area": {
+        "en": "Coraya Bay",
+        "fr": "Coraya Bay"
+      },
+      "lat": 25.378,
+      "lng": 34.774,
+      "zoom": 12,
+      "address": "Jaz Samaya Resort, Madinat Coraya, Coraya Bay, Quseir, Marsa Alam Road Km 67, Marsa Alam 84721, Egypt",
+      "priceTier": 2,
+      "priceFrom": 130,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "deckLoungersSea",
+        "poolPalms",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 78,
+        "baby": 66,
+        "pool": 80,
+        "dining": 76,
+        "safety": 80,
+        "convenience": 84,
+        "location": 82,
+        "extras": 78
+      },
+      "roomsSummary": {
+        "en": "Bright, generous rooms in low two-storey blocks set in gardens, most with a balcony or terrace and plenty of floor space for a cot and a spread-out suitcase. Family rooms sleep two adults and two children comfortably, and connecting doubles are available if you ask at booking. Cots are free but limited in number, so request one the moment you reserve.",
+        "fr": "Chambres claires et généreuses dans des bâtiments bas de deux étages posés dans les jardins, la plupart avec balcon ou terrasse et assez d'espace au sol pour un lit bébé et une valise ouverte. Les chambres familiales accueillent sans peine deux adultes et deux enfants, et des chambres communicantes existent si vous les demandez à la réservation. Les lits bébé sont gratuits mais en nombre limité: réservez-en un dès que vous bloquez le séjour."
+      },
+      "intro": {
+        "en": "Coraya Bay is a horseshoe of calm water a few minutes from Marsa Alam airport, and Jaz Samaya sits right on it with a wide sandy beach and a reef you reach along a pier. This is the gentle, unflashy end of the Red Sea: a TUI Kids Club, a real strip of sand for buckets and spades, and a bay sheltered enough that first-time snorkellers can float over the edge of the reef and come back thrilled. It is calmer and greener than Hurghada, and the short transfer means you are on the sand within an hour of landing.",
+        "fr": "Coraya Bay dessine un fer à cheval d'eau calme à quelques minutes de l'aéroport de Marsa Alam, et le Jaz Samaya y donne directement, avec une large plage de sable et un récif que l'on rejoint par un ponton. C'est le versant doux et sans esbroufe de la mer Rouge: un club enfants TUI, une vraie bande de sable pour le seau et la pelle, et une baie assez abritée pour que les débutants en masque et tuba flottent au bord du récif et en reviennent ravis. C'est plus calme et plus vert qu'Hurghada, et le transfert court vous met les pieds dans le sable moins d'une heure après l'atterrissage."
+      },
+      "highlights": {
+        "en": [
+          "TUI Kids Club included, on a genuinely sandy Coraya Bay beach",
+          "Sheltered horseshoe bay, calm water for first swims",
+          "Reef reachable on foot along the pier, no boat needed",
+          "Short transfer from Marsa Alam airport, easy with small children"
+        ],
+        "fr": [
+          "Club enfants TUI inclus, sur une vraie plage de sable de Coraya Bay",
+          "Baie en fer à cheval abritée, eau calme pour les premières baignades",
+          "Récif accessible à pied par le ponton, sans bateau",
+          "Transfert court depuis l'aéroport de Marsa Alam, simple avec des petits"
+        ]
+      },
+      "pros": {
+        "en": [
+          "One of the shorter transfers on the whole coast",
+          "Sandy, walkable beach rather than a rocky shore",
+          "Kids club and evening mini disco keep under-tens happy",
+          "Quieter and more relaxed than the big Hurghada resorts"
+        ],
+        "fr": [
+          "L'un des transferts les plus courts de toute la côte",
+          "Plage de sable où l'on marche, pas un bord rocheux",
+          "Club enfants et mini disco du soir occupent les moins de dix ans",
+          "Plus calme et plus détendu que les grands complexes d'Hurghada"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The proper reef is off the end of the pier, not off the sand",
+          "Water shoes are essential, the shallows have seagrass and coral bits",
+          "No big water park here, slide-obsessed kids may want more",
+          "The evening entertainment is low-key rather than lavish"
+        ],
+        "fr": [
+          "Le vrai récif est au bout du ponton, pas au ras du sable",
+          "Les chaussures d'eau sont indispensables: herbiers et fragments de corail dans le peu profond",
+          "Pas de grand parc aquatique ici, les mordus de toboggans resteront sur leur faim",
+          "L'animation du soir est discrète plutôt que grandiose"
+        ]
+      },
+      "verdict": {
+        "en": "A calm, sandy, easy-to-reach base for families who want the Red Sea without the Hurghada intensity. Best for toddlers and primary-age children who will paddle in the shallows and snorkel the reef off the pier under supervision.",
+        "fr": "Une base calme, sableuse et facile d'accès pour les familles qui veulent la mer Rouge sans l'intensité d'Hurghada. Idéal pour les tout-petits et les enfants de primaire qui pataugeront dans le peu profond et exploreront le récif depuis le ponton, sous surveillance."
+      },
+      "parentTip": {
+        "en": "Bring your own child-sized mask and a pair of water shoes each. The hire masks rarely seal on small faces and the walk over the shallows to the pier is where cut feet happen.",
+        "fr": "Emportez votre propre masque taille enfant et une paire de chaussures d'eau par personne. Les masques de location tiennent rarement sur un petit visage, et c'est en traversant le peu profond vers le ponton qu'on se coupe les pieds."
+      },
+      "atAGlance": [
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "TUI Kids Club, included",
+            "fr": "Club enfants TUI, inclus"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Sandy Coraya Bay, reef off the pier",
+            "fr": "Sable de Coraya Bay, récif au ponton"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Transfer",
+            "fr": "Transfert"
+          },
+          "value": {
+            "en": "Short hop from Marsa Alam airport",
+            "fr": "Court trajet depuis l'aéroport de Marsa Alam"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "All inclusive",
+            "fr": "Tout compris"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the beach sandy enough for a toddler?",
+            "fr": "La plage est-elle assez sableuse pour un tout-petit?"
+          },
+          "a": {
+            "en": "Yes for paddling and sandcastles: the shoreline in Coraya Bay is genuine sand and the water is calm. The catch is the seabed a little further out, which has seagrass and coral patches, so keep water shoes on and keep toddlers in the shallows near the sand rather than out towards the pier.",
+            "fr": "Oui pour patauger et faire des châteaux: le bord de mer de Coraya Bay est du vrai sable et l'eau est calme. Le bémol vient du fond un peu plus loin, avec herbiers et plaques de corail: gardez les chaussures d'eau et laissez les tout-petits dans le peu profond près du sable, pas vers le ponton."
+          }
+        },
+        {
+          "q": {
+            "en": "Can beginners snorkel the reef safely?",
+            "fr": "Les débutants peuvent-ils faire du masque et tuba sans risque?"
+          },
+          "a": {
+            "en": "Yes. You walk out along the pier and enter the water at the reef edge, so nobody has to swim far from shore. Go in the morning when the water is clearest and the wind is down, take a float or noodle for a nervous child, and never let a child snorkel alone.",
+            "fr": "Oui. On marche le long du ponton et on entre à l'eau au bord du récif, personne n'a donc à nager loin du rivage. Allez-y le matin quand l'eau est la plus claire et le vent tombé, prenez une frite ou un flotteur pour un enfant hésitant, et ne laissez jamais un enfant faire du tuba seul."
+          }
+        }
+      ]
+    },
+    {
+      "key": "marsa-alam-jaz-maraya",
+      "destinationKey": "marsa-alam",
+      "name": "Jaz Maraya Resort",
+      "area": {
+        "en": "Coraya Bay",
+        "fr": "Coraya Bay"
+      },
+      "lat": 25.375,
+      "lng": 34.776,
+      "zoom": 12,
+      "address": "Jaz Maraya Resort, Madinat Coraya, Coraya Bay, Quseir, Marsa Alam Road Km 67, Marsa Alam 84721, Egypt",
+      "priceTier": 3,
+      "priceFrom": 160,
+      "ages": [
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "family-suites"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolCabanas",
+        "swimmer",
+        "deckLoungersSea"
+      ],
+      "scores": {
+        "rooms": 82,
+        "baby": 64,
+        "pool": 88,
+        "dining": 80,
+        "safety": 80,
+        "convenience": 84,
+        "location": 82,
+        "extras": 86
+      },
+      "roomsSummary": {
+        "en": "Modern, spacious family rooms designed for two adults and two children, most with a balcony and a bathtub, which is a real plus with little ones. The layout is genuinely built for families rather than retrofitted, and the newer feel shows in the finishes. Cots are free but should be requested at booking, and a handful of rooms connect if you need more space.",
+        "fr": "Chambres familiales modernes et spacieuses pensées pour deux adultes et deux enfants, la plupart avec balcon et baignoire, un vrai plus avec des petits. L'agencement est réellement conçu pour les familles, pas bricolé après coup, et le côté récent se voit dans les finitions. Les lits bébé sont gratuits mais à demander à la réservation, et quelques chambres communiquent si vous voulez plus de place."
+      },
+      "intro": {
+        "en": "Jaz Maraya is the Coraya Bay resort you book when the children want slides as much as sea. Guests get free access to the Aqua Coraya water park with its slides and splash pads, there is a Jazy Kids Club, and the beach and reef are a short walk away along two snorkelling piers. It pairs the calm, green, short-transfer appeal of Coraya Bay with enough on-site water to fill a whole holiday, which makes it a strong all-rounder for mixed-age families.",
+        "fr": "Le Jaz Maraya, c'est le complexe de Coraya Bay qu'on réserve quand les enfants veulent des toboggans autant que la mer. Les clients ont l'accès libre au parc aquatique Aqua Coraya, ses toboggans et ses jeux d'eau, il y a un club enfants Jazy, et la plage comme le récif sont à quelques minutes à pied par deux pontons de snorkeling. Il marie le charme calme, vert et proche de l'aéroport de Coraya Bay avec assez d'eau sur place pour remplir un séjour entier: un excellent choix polyvalent pour les familles d'âges mélangés."
+      },
+      "highlights": {
+        "en": [
+          "Free access to the Aqua Coraya water park, slides and splash pads",
+          "Purpose-built family rooms for two adults and two children",
+          "Two snorkelling piers reaching the reef within walking distance",
+          "Jazy Kids Club plus evening entertainment"
+        ],
+        "fr": [
+          "Accès libre au parc aquatique Aqua Coraya, toboggans et jeux d'eau",
+          "Chambres familiales pensées pour deux adultes et deux enfants",
+          "Deux pontons de snorkeling vers le récif à quelques pas",
+          "Club enfants Jazy et animation en soirée"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Slides and sea in one place, good for a spread of ages",
+          "Newer, well-kept rooms with bathtubs",
+          "Short airport transfer, gentle for younger children",
+          "Splash pads and a kids pool for the ones too small for slides"
+        ],
+        "fr": [
+          "Toboggans et mer au même endroit, parfait pour des âges variés",
+          "Chambres récentes et bien tenues, avec baignoire",
+          "Transfert aéroport court, doux pour les plus jeunes",
+          "Jeux d'eau et bassin enfants pour ceux trop petits pour les toboggans"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The big slides have a height rule, so measure before promising",
+          "The reef is off the piers, not off a long shallow sandy beach",
+          "The water park draws a crowd and gets loud from mid-morning",
+          "It is the pricier tier for the bay, you pay for the slides"
+        ],
+        "fr": [
+          "Les grands toboggans imposent une taille minimale, mesurez avant de promettre",
+          "Le récif est au bout des pontons, pas au bord d'une longue plage de sable peu profonde",
+          "Le parc aquatique attire du monde et devient bruyant dès la fin de matinée",
+          "C'est la gamme la plus chère de la baie, on paie pour les toboggans"
+        ]
+      },
+      "verdict": {
+        "en": "The best pick in Coraya Bay for families who want both a water park and reef snorkelling on a short transfer. Ideal from about age five upward for the slides, with a kids pool and splash pads covering the little ones.",
+        "fr": "Le meilleur choix de Coraya Bay pour les familles qui veulent à la fois un parc aquatique et du snorkeling sur récif avec un transfert court. Idéal à partir de cinq ans environ pour les toboggans, avec bassin enfants et jeux d'eau pour les plus petits."
+      },
+      "parentTip": {
+        "en": "Hit the water park in the first hour after it opens, when the queues are nothing, then swap to the beach and reef in the afternoon while the slides are packed. The height sticks are strict, so measure a hopeful five-year-old at home before you sell them the big slide.",
+        "fr": "Faites le parc aquatique la première heure après l'ouverture, quand il n'y a aucune file, puis basculez sur la plage et le récif l'après-midi pendant que les toboggans sont bondés. Les toises sont strictes: mesurez à la maison un enfant de cinq ans plein d'espoir avant de lui vendre le grand toboggan."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "Aqua Coraya, included",
+            "fr": "Aqua Coraya, inclus"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Jazy Kids Club, included",
+            "fr": "Club enfants Jazy, inclus"
+          }
+        },
+        {
+          "icon": "🐠",
+          "label": {
+            "en": "Snorkelling",
+            "fr": "Snorkeling"
+          },
+          "value": {
+            "en": "Reef off two piers",
+            "fr": "Récif par deux pontons"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "All inclusive",
+            "fr": "Tout compris"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the water park included in the price?",
+            "fr": "Le parc aquatique est-il compris dans le prix?"
+          },
+          "a": {
+            "en": "Yes. Guests get free access to the Aqua Coraya water park, shared with the neighbouring Coraya resorts. The bigger flumes carry a minimum height, usually marked at each tower, while the splash pads and gentle slides are open to little ones under an adult's eye.",
+            "fr": "Oui. Les clients ont l'accès libre au parc Aqua Coraya, partagé avec les complexes voisins de Coraya. Les grands toboggans imposent une taille minimale, en général affichée à chaque tour, tandis que les jeux d'eau et les petits toboggans sont ouverts aux plus jeunes sous l'oeil d'un adulte."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it suitable for a two-year-old?",
+            "fr": "Est-ce adapté à un enfant de deux ans?"
+          },
+          "a": {
+            "en": "It works, but it is really built for slide age. A two-year-old will love the splash pads and the kids pool, and the beach is sandy at the shore, but the reef itself is a snorkel off the pier rather than a wade. If your priority is a long shallow sandy bay, Lahami Bay further south suits the very youngest better.",
+            "fr": "Ça fonctionne, mais c'est surtout pensé pour l'âge des toboggans. Un enfant de deux ans adorera les jeux d'eau et le bassin enfants, et la plage est sableuse au bord, mais le récif se fait au tuba depuis le ponton plutôt qu'en pataugeant. Si votre priorité est une longue baie de sable peu profonde, Lahami Bay plus au sud conviendra mieux aux tout-petits."
+          }
+        }
+      ]
+    },
+    {
+      "key": "marsa-alam-gorgonia-beach-resort",
+      "destinationKey": "marsa-alam",
+      "name": "Gorgonia Beach Resort",
+      "area": {
+        "en": "Wadi El Gemal, south of Marsa Alam",
+        "fr": "Wadi El Gemal, au sud de Marsa Alam"
+      },
+      "lat": 24.702,
+      "lng": 35.082,
+      "zoom": 12,
+      "address": "Gorgonia Beach Resort, Wadi El Gemal National Park, Marsa Alam, Red Sea 84721, Egypt",
+      "priceTier": 2,
+      "priceFrom": 110,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "beachSunset",
+        "poolPalms",
+        "coastTown"
+      ],
+      "scores": {
+        "rooms": 74,
+        "baby": 70,
+        "pool": 80,
+        "dining": 74,
+        "safety": 82,
+        "convenience": 68,
+        "location": 84,
+        "extras": 76
+      },
+      "roomsSummary": {
+        "en": "Simple, comfortable rooms in low buildings scattered through wide gardens, most with a terrace or balcony and a lot of outdoor space between blocks. Family rooms take two adults and two children, and the calm layout suits early bedtimes. It is an older, unpretentious resort rather than a slick new build, so set expectations at cheerful and well-kept, not luxury.",
+        "fr": "Chambres simples et confortables dans des bâtiments bas dispersés dans de larges jardins, la plupart avec terrasse ou balcon et beaucoup d'espace extérieur entre les blocs. Les chambres familiales accueillent deux adultes et deux enfants, et l'agencement paisible favorise les couchers tôt. C'est un complexe ancien et sans prétention plutôt qu'une construction neuve et léchée: attendez-vous à gai et bien tenu, pas au luxe."
+      },
+      "intro": {
+        "en": "Gorgonia sits inside Wadi El Gemal National Park on a kilometre of white sand, and it is the most nature-first choice on this list. The house reef runs just off the shore with shallow natural pools between the sand and the coral, so children can wade, look down and see fish without ever going out of their depth. There is a children's pool and a kids club, the setting is protected desert coast rather than resort strip, and the trade-off is honest: it is a longer drive from the airport and there is nothing outside the gates but the park.",
+        "fr": "Le Gorgonia est installé dans le parc national de Wadi El Gemal, sur un kilomètre de sable blanc, et c'est le choix le plus tourné vers la nature de cette liste. Le récif maison longe le rivage, avec des bassins naturels peu profonds entre le sable et le corail: les enfants peuvent patauger, regarder sous l'eau et voir des poissons sans jamais perdre pied. Il y a un bassin enfants et un club enfants, le cadre est une côte désertique protégée plutôt qu'un front de mer bétonné, et le compromis est honnête: la route depuis l'aéroport est plus longue et il n'y a rien hors des portails, sinon le parc."
+      },
+      "highlights": {
+        "en": [
+          "One kilometre of white sand inside a national park",
+          "House reef right off the beach with shallow natural pools",
+          "Children's pool and kids club included",
+          "Genuinely quiet, nature-focused setting"
+        ],
+        "fr": [
+          "Un kilomètre de sable blanc dans un parc national",
+          "Récif maison au ras de la plage avec des bassins naturels peu profonds",
+          "Bassin enfants et club enfants inclus",
+          "Cadre vraiment calme, tourné vers la nature"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Fish visible from the shallows, snorkelling starts at the sand",
+          "Wide, uncrowded beach with room to roam",
+          "Calm, low-key atmosphere that suits younger children",
+          "Strong value for a beachfront national-park location"
+        ],
+        "fr": [
+          "Des poissons visibles depuis le peu profond, le snorkeling commence au sable",
+          "Plage large et peu fréquentée, de la place pour courir",
+          "Ambiance calme et posée qui convient aux plus jeunes",
+          "Bon rapport qualité-prix pour un front de mer en parc national"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Longer transfer from the airport than the Coraya Bay hotels",
+          "Nothing to walk to outside the resort, you are here for the coast",
+          "Reef sits close in, so the swimmable strip is narrow at low tide",
+          "Rooms and facilities are dated rather than modern"
+        ],
+        "fr": [
+          "Transfert plus long depuis l'aéroport que les hôtels de Coraya Bay",
+          "Rien où aller à pied hors du complexe, on vient pour la côte",
+          "Le récif est proche, la bande où l'on nage est donc étroite à marée basse",
+          "Chambres et équipements vieillissants plutôt que modernes"
+        ]
+      },
+      "verdict": {
+        "en": "The pick for families who want quiet, nature and easy snorkelling straight off a sandy beach, and who do not mind a longer transfer or an older resort. Especially good for toddlers and young children thanks to the shallow natural pools between sand and reef.",
+        "fr": "Le choix des familles qui veulent le calme, la nature et un snorkeling facile au ras d'une plage de sable, et que ne rebutent ni un transfert plus long ni un complexe ancien. Particulièrement bon pour les tout-petits et les jeunes enfants grâce aux bassins naturels peu profonds entre le sable et le récif."
+      },
+      "parentTip": {
+        "en": "Time beach swims for high tide, when the natural pools between the sand and the reef fill up and give the little ones the most water to paddle in. At low tide the coral is close to the surface, so that is the moment for looking, not for jumping in.",
+        "fr": "Calez les baignades sur la marée haute, quand les bassins naturels entre le sable et le récif se remplissent et offrent le plus d'eau aux petits pour patauger. À marée basse le corail affleure: c'est le moment pour regarder, pas pour sauter à l'eau."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏞️",
+          "label": {
+            "en": "Setting",
+            "fr": "Cadre"
+          },
+          "value": {
+            "en": "Wadi El Gemal National Park",
+            "fr": "Parc national de Wadi El Gemal"
+          }
+        },
+        {
+          "icon": "🐠",
+          "label": {
+            "en": "House reef",
+            "fr": "Récif maison"
+          },
+          "value": {
+            "en": "Right off the sandy beach",
+            "fr": "Au ras de la plage de sable"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids",
+            "fr": "Enfants"
+          },
+          "value": {
+            "en": "Kids club and children's pool",
+            "fr": "Club enfants et bassin enfants"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "All inclusive",
+            "fr": "Tout compris"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "How far is it from Marsa Alam airport?",
+            "fr": "À quelle distance de l'aéroport de Marsa Alam?"
+          },
+          "a": {
+            "en": "It is south of Marsa Alam town, so count on a longer coach transfer than the Coraya Bay or Port Ghalib hotels, roughly an hour depending on stops. With a baby that extra time matters at the end of a flight, so plan snacks, water and a nappy change before you leave the airport.",
+            "fr": "Il se trouve au sud de la ville de Marsa Alam: comptez un transfert en autocar plus long que depuis les hôtels de Coraya Bay ou de Port Ghalib, environ une heure selon les arrêts. Avec un bébé, ce temps supplémentaire compte à la fin d'un vol: prévoyez en-cas, eau et un change avant de quitter l'aéroport."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the snorkelling good for beginners?",
+            "fr": "Le snorkeling est-il bon pour les débutants?"
+          },
+          "a": {
+            "en": "Very. The house reef is one of the reasons to come, and because it sits close to shore you can float over it without a long swim out. Water shoes are essential, the coral comes near the surface, and the best light and calmest water are in the morning.",
+            "fr": "Très bon. Le récif maison est l'une des raisons de venir, et comme il est proche du bord on flotte au-dessus sans nager loin. Les chaussures d'eau sont indispensables, le corail approche de la surface, et la meilleure lumière comme l'eau la plus calme sont le matin."
+          }
+        }
+      ]
+    },
+    {
+      "key": "marsa-alam-hilton-nubian-resort",
+      "destinationKey": "marsa-alam",
+      "name": "Hilton Marsa Alam Nubian Resort",
+      "area": {
+        "en": "Abu Dabbab",
+        "fr": "Abu Dabbab"
+      },
+      "lat": 25.339,
+      "lng": 34.742,
+      "zoom": 12,
+      "address": "Hilton Marsa Alam Nubian Resort, Abu Dabbab Bay, Marsa Alam, Red Sea 84721, Egypt",
+      "priceTier": 3,
+      "priceFrom": 175,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolDusk",
+        "deckLoungersSea",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 68,
+        "pool": 84,
+        "dining": 78,
+        "safety": 80,
+        "convenience": 74,
+        "location": 82,
+        "extras": 80
+      },
+      "roomsSummary": {
+        "en": "Large, Nubian-styled rooms in low terraced blocks stepping down towards the sea, most with a balcony or terrace and enough room for a cot without moving furniture. Family rooms and connecting options work for four, and the resort is big enough that it pays to ask for a room near the pools and the kids club rather than at the far end. Cots are free on request.",
+        "fr": "Grandes chambres de style nubien dans des bâtiments bas en terrasses qui descendent vers la mer, la plupart avec balcon ou terrasse et assez de place pour un lit bébé sans déplacer les meubles. Chambres familiales et communicantes conviennent à quatre, et le complexe est assez vaste pour qu'il vaille la peine de demander une chambre près des piscines et du club enfants plutôt qu'à l'autre bout. Lits bébé gratuits sur demande."
+      },
+      "intro": {
+        "en": "The Hilton sits above Abu Dabbab, the famous bay where sea turtles graze the seagrass in shallow, sandy-bottomed water. That setting is the whole point: a sheltered bay a short walk down from the resort where even young children, with an adult and a life vest, can snorkel over one of the Red Sea's gentlest reefs and quite possibly see a turtle. Four pools, a kids club, a playground and babysitting cover the days out of the water. It is a smart, family-run operation with a genuinely special beach, and the honest catch is the short walk between rooms and the sand.",
+        "fr": "Le Hilton domine Abu Dabbab, la fameuse baie où les tortues marines broutent les herbiers dans une eau peu profonde à fond de sable. Ce cadre est toute la raison de venir: une baie abritée à quelques minutes à pied du complexe où même de jeunes enfants, avec un adulte et un gilet, peuvent faire du tuba au-dessus de l'un des récifs les plus doux de la mer Rouge et, souvent, apercevoir une tortue. Quatre piscines, un club enfants, une aire de jeux et un service de baby-sitting remplissent les moments hors de l'eau. C'est une adresse bien menée avec une plage vraiment à part, et le seul vrai bémol est la petite marche entre les chambres et le sable."
+      },
+      "highlights": {
+        "en": [
+          "Above Abu Dabbab, a shallow sandy bay famous for sea turtles",
+          "Four pools, kids club, playground and babysitting",
+          "One of the gentlest reefs on the coast for young snorkellers",
+          "Spacious Nubian-style family rooms"
+        ],
+        "fr": [
+          "Au-dessus d'Abu Dabbab, une baie de sable peu profonde célèbre pour ses tortues",
+          "Quatre piscines, club enfants, aire de jeux et baby-sitting",
+          "L'un des récifs les plus doux de la côte pour les jeunes en tuba",
+          "Chambres familiales spacieuses de style nubien"
+        ]
+      },
+      "pros": {
+        "en": [
+          "A genuine chance to see turtles from the shallows",
+          "Sandy-bottomed, calm bay that suits nervous first snorkellers",
+          "Plenty of pool choice for days off the reef",
+          "Well-run, with reliable kids facilities"
+        ],
+        "fr": [
+          "Une vraie chance de voir des tortues depuis le peu profond",
+          "Baie calme à fond de sable, parfaite pour un premier tuba anxieux",
+          "Beaucoup de choix de piscines pour les jours loin du récif",
+          "Bien géré, avec des équipements enfants fiables"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The beach is a walk down from many rooms, awkward with a pram",
+          "Abu Dabbab has seagrass, so it is not a clear white-sand lagoon",
+          "Snorkellers must give turtles space, this is a protected bay",
+          "The resort is large, so distances add up with tired legs"
+        ],
+        "fr": [
+          "La plage est en contrebas de beaucoup de chambres, peu pratique en poussette",
+          "Abu Dabbab a des herbiers, ce n'est pas un lagon de sable blanc limpide",
+          "Il faut laisser de l'espace aux tortues, c'est une baie protégée",
+          "Le complexe est vaste, les distances s'additionnent avec des jambes fatiguées"
+        ]
+      },
+      "verdict": {
+        "en": "The most memorable beach on this list thanks to the turtles of Abu Dabbab, and a well-run family resort behind it. Best for children old enough to snorkel with an adult, with pools and a kids club for the rest.",
+        "fr": "La plage la plus marquante de cette liste grâce aux tortues d'Abu Dabbab, avec derrière elle un complexe familial bien mené. Idéal pour les enfants assez grands pour faire du tuba avec un adulte, avec piscines et club enfants pour le reste."
+      },
+      "parentTip": {
+        "en": "Swim in the marked lanes and keep well back from any turtle you spot, do not chase or touch. Go in the morning before the wind and the day boats arrive, and put small children in a bright life vest so the beach team can see them at a glance.",
+        "fr": "Nagez dans les couloirs balisés et gardez vos distances avec toute tortue croisée: on ne poursuit pas, on ne touche pas. Allez-y le matin avant le vent et l'arrivée des bateaux de la journée, et mettez aux petits un gilet de couleur vive pour que l'équipe de plage les repère d'un coup d'oeil."
+      },
+      "atAGlance": [
+        {
+          "icon": "🐢",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Abu Dabbab turtle bay",
+            "fr": "Baie aux tortues d'Abu Dabbab"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Four outdoor pools",
+            "fr": "Quatre piscines extérieures"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids",
+            "fr": "Enfants"
+          },
+          "value": {
+            "en": "Kids club, playground, babysitting",
+            "fr": "Club enfants, aire de jeux, baby-sitting"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "All inclusive",
+            "fr": "Tout compris"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Will we really see turtles?",
+            "fr": "Verra-t-on vraiment des tortues?"
+          },
+          "a": {
+            "en": "Often, but never guaranteed, they are wild animals. Abu Dabbab is one of the most reliable turtle spots on the coast, and mornings give the best odds. Keep your distance, stay in the marked area, and treat a sighting as a lucky bonus rather than a certainty.",
+            "fr": "Souvent, mais jamais garanti: ce sont des animaux sauvages. Abu Dabbab est l'un des spots à tortues les plus fiables de la côte, et le matin offre les meilleures chances. Gardez vos distances, restez dans la zone balisée, et voyez une rencontre comme une chance plutôt qu'une certitude."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the beach easy to reach with a toddler?",
+            "fr": "La plage est-elle facile d'accès avec un tout-petit?"
+          },
+          "a": {
+            "en": "The bay itself is shallow and sandy underfoot, which toddlers love, but the resort steps down to the sea so there is a walk and some slope between many rooms and the beach. A lightweight pram or a baby carrier helps, and asking for a room on the lower levels near the beach saves a lot of carrying.",
+            "fr": "La baie elle-même est peu profonde et sableuse sous les pieds, ce qu'adorent les tout-petits, mais le complexe descend vers la mer: il y a donc une marche et un peu de pente entre beaucoup de chambres et la plage. Une poussette légère ou un porte-bébé aide, et demander une chambre dans les niveaux bas près de la plage évite bien des portages."
+          }
+        }
+      ]
+    },
+    {
+      "key": "marsa-alam-lahami-bay-beach-resort",
+      "destinationKey": "marsa-alam",
+      "name": "Lahami Bay Beach Resort and Gardens",
+      "area": {
+        "en": "Abu Ghusun, far south",
+        "fr": "Abu Ghusun, extrême sud"
+      },
+      "lat": 24.466,
+      "lng": 35.165,
+      "zoom": 12,
+      "address": "Lahami Bay Beach Resort and Gardens, Abu Ghusun, Berenice Road, Marsa Alam, Red Sea 84721, Egypt",
+      "priceTier": 2,
+      "priceFrom": 120,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "beach-access",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "beachSunset",
+        "poolPalms",
+        "deckLoungersSea"
+      ],
+      "scores": {
+        "rooms": 72,
+        "baby": 80,
+        "pool": 80,
+        "dining": 72,
+        "safety": 84,
+        "convenience": 60,
+        "location": 82,
+        "extras": 74
+      },
+      "roomsSummary": {
+        "en": "Low-rise rooms spread through big green gardens, most on the ground floor with a terrace opening onto lawn, which is genuinely handy with a crawling baby. Family rooms take two adults and two children, and the sprawling, single-storey layout means no lifts and easy pram access. It is a comfortable older resort rather than a designer one, kept up rather than reinvented.",
+        "fr": "Chambres de plain-pied réparties dans de grands jardins verts, la plupart au rez-de-chaussée avec une terrasse ouvrant sur la pelouse, vraiment pratique avec un bébé qui commence à ramper. Les chambres familiales accueillent deux adultes et deux enfants, et l'agencement étendu et de plain-pied signifie pas d'ascenseur et un accès poussette facile. C'est un complexe ancien et confortable plutôt qu'un hôtel de designer: entretenu, pas réinventé."
+      },
+      "intro": {
+        "en": "Lahami Bay is the pick for the very youngest, and it earns that by geography. It sits on a private bay with kilometres of sand and a reef running parallel a few hundred metres offshore, which acts as a natural breakwater. The result is exactly what parents of toddlers dream about: a wide, calm, sandy-bottomed lagoon that stays shallow a long way out, sloping so gently that a two-year-old can walk and splash without ever being out of their depth. The honest cost is the drive, this is the far south, a long transfer from the airport with nothing around it but desert and sea. Come for the bay, stay for the quiet.",
+        "fr": "Lahami Bay est le choix des tout-petits, et il le mérite par sa géographie. Il occupe une baie privée aux kilomètres de sable, avec un récif parallèle à quelques centaines de mètres du bord qui fait office de brise-lames naturel. Le résultat est exactement ce dont rêvent les parents de tout-petits: un lagon large, calme, à fond de sable, qui reste peu profond très loin du bord, avec une pente si douce qu'un enfant de deux ans peut marcher et éclabousser sans jamais perdre pied. Le prix à payer, honnêtement, c'est la route: on est dans l'extrême sud, un long transfert depuis l'aéroport avec, tout autour, rien d'autre que le désert et la mer. On vient pour la baie, on reste pour le calme."
+      },
+      "highlights": {
+        "en": [
+          "A wide, shallow, sandy-bottomed lagoon, the best on this list for toddlers",
+          "Reef parallel offshore acts as a natural breakwater, so calm water",
+          "Kilometres of sand and big green gardens to roam",
+          "Ground-floor rooms and step-free layout, easy with a pram"
+        ],
+        "fr": [
+          "Un lagon large, peu profond, à fond de sable, le meilleur de cette liste pour les tout-petits",
+          "Récif parallèle au large en brise-lames naturel, donc eau calme",
+          "Des kilomètres de sable et de grands jardins verts pour se dégourdir",
+          "Chambres en rez-de-chaussée et parcours sans marches, facile en poussette"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Genuinely toddler-safe shallow water, rare on the Red Sea",
+          "Very calm and uncrowded, the far south sees few coaches",
+          "Huge house reef for older children and confident snorkellers",
+          "Step-free, single-storey layout across the whole resort"
+        ],
+        "fr": [
+          "Une eau peu profonde vraiment sûre pour les tout-petits, rare en mer Rouge",
+          "Très calme et peu fréquenté, l'extrême sud voit peu d'autocars",
+          "Immense récif maison pour les plus grands et les tuba confirmés",
+          "Parcours de plain-pied, sans marches, dans tout le complexe"
+        ]
+      },
+      "cons": {
+        "en": [
+          "A long transfer from the airport, two hours and more",
+          "Remote, there is nothing to walk to outside the resort",
+          "The kids club is aimed at ages six to twelve, not the under-fives",
+          "Rooms and dining are dated, come for the bay not the polish"
+        ],
+        "fr": [
+          "Un long transfert depuis l'aéroport, deux heures et plus",
+          "Isolé: rien où aller à pied hors du complexe",
+          "Le club enfants vise les six à douze ans, pas les moins de cinq ans",
+          "Chambres et restauration vieillissantes, on vient pour la baie pas pour le brillant"
+        ]
+      },
+      "verdict": {
+        "en": "The clearest choice on this list for babies and toddlers, thanks to a rare shallow sandy lagoon, if you can accept the long transfer and the remoteness. Older children get a huge house reef into the bargain.",
+        "fr": "Le choix le plus net de cette liste pour les bébés et les tout-petits, grâce à un rare lagon de sable peu profond, si vous acceptez le long transfert et l'isolement. Les plus grands y gagnent en prime un immense récif maison."
+      },
+      "parentTip": {
+        "en": "Book the airport transfer in advance and treat the long drive as part of the plan, not a surprise: leave with full water bottles, snacks and a favourite toy, and aim for a departure that overlaps a nap. Once you arrive, the shallow bay pays it all back.",
+        "fr": "Réservez le transfert à l'avance et intégrez le long trajet au programme, sans mauvaise surprise: partez avec des gourdes pleines, des en-cas et un doudou, et visez un départ qui recoupe une sieste. Une fois sur place, la baie peu profonde vous rend tout au centuple."
+      },
+      "atAGlance": [
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Bay",
+            "fr": "Baie"
+          },
+          "value": {
+            "en": "Shallow sandy lagoon, toddler-safe",
+            "fr": "Lagon de sable peu profond, sûr pour les tout-petits"
+          }
+        },
+        {
+          "icon": "🐠",
+          "label": {
+            "en": "House reef",
+            "fr": "Récif maison"
+          },
+          "value": {
+            "en": "Large, offshore, for older kids",
+            "fr": "Grand, au large, pour les plus grands"
+          }
+        },
+        {
+          "icon": "🚌",
+          "label": {
+            "en": "Transfer",
+            "fr": "Transfert"
+          },
+          "value": {
+            "en": "Long, far south of the airport",
+            "fr": "Long, extrême sud de l'aéroport"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "All inclusive",
+            "fr": "Tout compris"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the water really shallow enough for a toddler?",
+            "fr": "L'eau est-elle vraiment assez peu profonde pour un tout-petit?"
+          },
+          "a": {
+            "en": "Yes, and it is the reason to choose Lahami Bay. The reef sits offshore and shelters the bay, so the sandy seabed slopes very gently and stays shallow a long way out. It is about as close to a natural paddling pool as the Red Sea gets. Water shoes are still worth wearing, and small children always need an adult within arm's reach.",
+            "fr": "Oui, et c'est la raison de choisir Lahami Bay. Le récif est au large et abrite la baie: le fond de sable descend très doucement et reste peu profond loin du bord. C'est ce que la mer Rouge offre de plus proche d'une pataugeoire naturelle. Les chaussures d'eau restent utiles, et un petit a toujours besoin d'un adulte à portée de bras."
+          }
+        },
+        {
+          "q": {
+            "en": "How long is the transfer from the airport?",
+            "fr": "Combien de temps dure le transfert depuis l'aéroport?"
+          },
+          "a": {
+            "en": "Plan on two hours or more each way, as the resort is well south of Marsa Alam town on the Berenice road. It is the main downside, so it suits a longer stay rather than a short break, and families with a baby should organise the transfer, snacks and water before leaving the terminal.",
+            "fr": "Comptez deux heures ou plus dans chaque sens: le complexe est bien au sud de la ville de Marsa Alam, sur la route de Berenice. C'est le principal inconvénient: mieux vaut un long séjour qu'une courte escapade, et les familles avec un bébé devraient organiser transfert, en-cas et eau avant de quitter l'aérogare."
+          }
+        }
+      ]
+    },
+    {
+      "key": "marsa-alam-three-corners-fayrouz-plaza",
+      "destinationKey": "marsa-alam",
+      "name": "The Three Corners Fayrouz Plaza Beach Resort",
+      "area": {
+        "en": "Port Ghalib",
+        "fr": "Port Ghalib"
+      },
+      "lat": 25.535,
+      "lng": 34.632,
+      "zoom": 12,
+      "address": "The Three Corners Fayrouz Plaza Beach Resort, Port Ghalib, Marsa Alam, Red Sea 84721, Egypt",
+      "priceTier": 2,
+      "priceFrom": 115,
+      "ages": [
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "beach-access",
+        "family-suites",
+        "city-base"
+      ],
+      "clubFree": true,
+      "photos": [
+        "resortCanal",
+        "poolPalms",
+        "coastTown"
+      ],
+      "scores": {
+        "rooms": 76,
+        "baby": 66,
+        "pool": 80,
+        "dining": 76,
+        "safety": 80,
+        "convenience": 86,
+        "location": 84,
+        "extras": 78
+      },
+      "roomsSummary": {
+        "en": "Comfortable, generously sized rooms in low blocks, most with a balcony or terrace, and a spread that runs from near the pools to further back in the gardens. Family rooms suit two adults and two children, and it is worth asking for one near the beach and main pool given the resort's length. Cots are free on request but ask early.",
+        "fr": "Chambres confortables et bien dimensionnées dans des bâtiments bas, la plupart avec balcon ou terrasse, réparties des abords des piscines jusqu'au fond des jardins. Les chambres familiales conviennent à deux adultes et deux enfants, et mieux vaut en demander une près de la plage et de la piscine principale vu la longueur du complexe. Lits bébé gratuits sur demande, mais demandez tôt."
+      },
+      "intro": {
+        "en": "The Fayrouz Plaza is the choice for families who want a bit of somewhere around them. It sits at Port Ghalib, the marina town a short drive from the airport, so an easy stroll along the promenade takes you to cafes, shops and the harbour, a rare thing on this quiet coast. The beach is one of the nicest in the area at around 800 metres, the main pool is heated in winter, and a long jetty reaches out to the reef for snorkelling. You get the short transfer of Coraya Bay plus a walkable marina, at a friendly price.",
+        "fr": "Le Fayrouz Plaza est le choix des familles qui veulent un peu de vie autour d'elles. Il se trouve à Port Ghalib, la ville-marina à quelques minutes de l'aéroport: une promenade facile le long du quai mène aux cafés, aux boutiques et au port, chose rare sur cette côte tranquille. La plage compte parmi les plus belles du secteur, environ 800 mètres, la piscine principale est chauffée en hiver, et un long ponton s'avance vers le récif pour le snorkeling. On a le transfert court de Coraya Bay, plus une marina où l'on marche, à un prix accessible."
+      },
+      "highlights": {
+        "en": [
+          "At Port Ghalib, with a walkable marina promenade of cafes and shops",
+          "One of the nicest beaches in the area, around 800 metres",
+          "Main pool heated in winter, plus a kids pool",
+          "Long jetty out to the reef for snorkelling"
+        ],
+        "fr": [
+          "À Port Ghalib, avec une promenade de marina et ses cafés et boutiques",
+          "L'une des plus belles plages du secteur, environ 800 mètres",
+          "Piscine principale chauffée en hiver, plus un bassin enfants",
+          "Long ponton vers le récif pour le snorkeling"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Somewhere to walk to in the evening, unusual on this coast",
+          "Short airport transfer, easy with children",
+          "Winter-heated main pool for cooler January days",
+          "Good beach and reef access for the price"
+        ],
+        "fr": [
+          "De quoi marcher le soir, rare sur cette côte",
+          "Transfert aéroport court, simple avec des enfants",
+          "Piscine principale chauffée l'hiver pour les journées plus fraîches de janvier",
+          "Bon accès plage et récif pour le prix"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The reef is off the jetty, and parts of the shore are rocky, not pure sand",
+          "It is a big resort, so some rooms are a long walk from the beach",
+          "Port Ghalib is a built marina, pretty but not a lived-in town",
+          "Livelier than the remote southern resorts, less of a nature escape"
+        ],
+        "fr": [
+          "Le récif est au bout du ponton, et le bord est par endroits rocheux, pas du sable pur",
+          "C'est un grand complexe, certaines chambres sont loin de la plage",
+          "Port Ghalib est une marina construite, jolie mais pas une ville habitée",
+          "Plus animé que les complexes isolés du sud, moins une échappée nature"
+        ]
+      },
+      "verdict": {
+        "en": "The best base if you want a short transfer plus a walkable marina in the evenings. Strong for families with primary-age children and teens who like a bit of buzz, with a good beach and easy reef access off the jetty.",
+        "fr": "La meilleure base si vous voulez un transfert court et une marina où marcher le soir. Solide pour les familles avec des enfants de primaire et des ados qui aiment un peu d'animation, avec une bonne plage et un accès récif facile depuis le ponton."
+      },
+      "parentTip": {
+        "en": "Walk the marina promenade at dusk when it cools down and the boats light up, it is the closest thing to an evening out on this coast and small children love the harbour. Keep water shoes on for the beach, the shore has rocky patches between the sand.",
+        "fr": "Parcourez la promenade de la marina au crépuscule, quand ça se rafraîchit et que les bateaux s'illuminent: c'est ce qui ressemble le plus à une sortie du soir sur cette côte, et les petits adorent le port. Gardez les chaussures d'eau pour la plage, le bord a des zones rocheuses entre le sable."
+      },
+      "atAGlance": [
+        {
+          "icon": "⛵",
+          "label": {
+            "en": "Setting",
+            "fr": "Cadre"
+          },
+          "value": {
+            "en": "Port Ghalib marina, walkable",
+            "fr": "Marina de Port Ghalib, où l'on marche"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "800 m, reef off the jetty",
+            "fr": "800 m, récif au ponton"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "Main pool heated in winter",
+            "fr": "Piscine principale chauffée l'hiver"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "All inclusive",
+            "fr": "Tout compris"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "What is there to do outside the resort?",
+            "fr": "Que faire hors du complexe?"
+          },
+          "a": {
+            "en": "Port Ghalib is a marina town, so you can walk the promenade to cafes, shops and the harbour without a taxi, which is genuinely rare in Marsa Alam. It is built for tourists rather than a working town, but with children it is a pleasant, safe evening stroll and a change from the buffet.",
+            "fr": "Port Ghalib est une ville-marina: on marche le long du quai jusqu'aux cafés, boutiques et au port sans taxi, chose vraiment rare à Marsa Alam. C'est fait pour les touristes plutôt qu'une ville qui travaille, mais avec des enfants c'est une balade du soir agréable et sûre, et un changement du buffet."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the pool warm enough in January?",
+            "fr": "La piscine est-elle assez chaude en janvier?"
+          },
+          "a": {
+            "en": "The main pool is heated in winter, which matters here: air can be warm while the water feels cool on a January morning. Confirm the heated pool is running for your dates when you book, as heating is sometimes limited to the main pool rather than every one.",
+            "fr": "La piscine principale est chauffée en hiver, ce qui compte ici: l'air peut être doux alors que l'eau paraît fraîche un matin de janvier. Vérifiez à la réservation que la piscine chauffée fonctionne bien pour vos dates, le chauffage se limitant parfois à la piscine principale."
+          }
+        }
+      ]
+    },
+    {
+      "key": "marsa-alam-concorde-moreen-beach-resort",
+      "destinationKey": "marsa-alam",
+      "name": "Concorde Moreen Beach Resort and Spa",
+      "area": {
+        "en": "Abu Dabab Bay",
+        "fr": "Baie d'Abu Dabab"
+      },
+      "lat": 25.301,
+      "lng": 34.768,
+      "zoom": 12,
+      "address": "Concorde Moreen Beach Resort and Spa, Abu Dabab Bay, Marsa Alam, Red Sea 84721, Egypt",
+      "priceTier": 2,
+      "priceFrom": 125,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolCabanas",
+        "beachSunset",
+        "deckLoungersSea"
+      ],
+      "scores": {
+        "rooms": 78,
+        "baby": 70,
+        "pool": 84,
+        "dining": 76,
+        "safety": 82,
+        "convenience": 74,
+        "location": 80,
+        "extras": 78
+      },
+      "roomsSummary": {
+        "en": "Spacious rooms in low buildings set in lush gardens, most with a balcony or terrace, and a genuine sense of green and space around them. Family rooms take two adults and two children, and connecting doubles help larger groups. There are two children's pools among the four, one heated in winter, so the little ones are well served close to the rooms. Cots are free on request.",
+        "fr": "Chambres spacieuses dans des bâtiments bas posés dans des jardins luxuriants, la plupart avec balcon ou terrasse, avec un vrai sentiment de verdure et d'espace autour. Les chambres familiales accueillent deux adultes et deux enfants, et des chambres communicantes aident les grands groupes. Sur les quatre piscines, deux sont des bassins enfants, dont un chauffé en hiver: les petits sont bien servis près des chambres. Lits bébé gratuits sur demande."
+      },
+      "intro": {
+        "en": "The Concorde Moreen wraps around Abu Dabab Bay in wide green gardens, with 800 metres of white sand and four pools, two of them for children and one heated for winter. It is a calm, comfortable all-inclusive that gets the family basics right: shade, space, a kids club and shallow pools right by the rooms. The reef is reached from a private jetty where dolphins sometimes pass, so the serious snorkelling is off the pier rather than off the sand, which is worth knowing before you picture a long shallow wade.",
+        "fr": "Le Concorde Moreen épouse la baie d'Abu Dabab dans de larges jardins verts, avec 800 mètres de sable blanc et quatre piscines, dont deux pour enfants et une chauffée l'hiver. C'est un tout compris calme et confortable qui réussit l'essentiel pour les familles: ombre, espace, club enfants et bassins peu profonds au pied des chambres. Le récif se rejoint par un ponton privé où passent parfois des dauphins: le vrai snorkeling se fait donc au ponton plutôt qu'au ras du sable, bon à savoir avant d'imaginer une longue étendue peu profonde où patauger."
+      },
+      "highlights": {
+        "en": [
+          "Four pools including two children's pools, one heated in winter",
+          "800 metres of white sandy beach in green gardens",
+          "Kids club and playground included",
+          "Private jetty out to the reef, with occasional dolphins"
+        ],
+        "fr": [
+          "Quatre piscines dont deux bassins enfants, un chauffé l'hiver",
+          "800 mètres de plage de sable blanc dans des jardins verts",
+          "Club enfants et aire de jeux inclus",
+          "Ponton privé vers le récif, avec parfois des dauphins"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Two shallow kids pools right by the rooms, one winter-heated",
+          "Plenty of shade and space in mature gardens",
+          "Sandy beach for buckets and spades along the shore",
+          "Calm, comfortable and reliably family-run"
+        ],
+        "fr": [
+          "Deux bassins enfants peu profonds au pied des chambres, un chauffé l'hiver",
+          "Beaucoup d'ombre et d'espace dans des jardins mûrs",
+          "Plage de sable pour le seau et la pelle le long du bord",
+          "Calme, confortable et géré de façon fiable pour les familles"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The reef is off the jetty, not a long shallow sandy swim",
+          "Somewhat isolated, little to walk to outside the resort",
+          "A longer transfer than the Port Ghalib or Coraya Bay hotels",
+          "The buffet is solid rather than a highlight"
+        ],
+        "fr": [
+          "Le récif est au bout du ponton, pas une longue baignade de sable peu profond",
+          "Assez isolé, peu de choses où aller à pied hors du complexe",
+          "Transfert plus long que depuis les hôtels de Port Ghalib ou de Coraya Bay",
+          "Le buffet est correct plutôt qu'un point fort"
+        ]
+      },
+      "verdict": {
+        "en": "A calm, green, comfortable all-inclusive with unusually good pool provision for little ones. Best for families whose youngest will live in the shallow kids pools, with the jetty reef as the snorkelling for older children.",
+        "fr": "Un tout compris calme, vert et confortable, avec une offre de piscines rare pour les petits. Idéal pour les familles dont le plus jeune vivra dans les bassins enfants peu profonds, le récif du ponton servant de snorkeling aux plus grands."
+      },
+      "parentTip": {
+        "en": "For a baby or toddler, base the day around the heated children's pool rather than the sea: it is shallow, warm, close to the rooms and far less of a production than kitting everyone up for the jetty. Save the reef for the older ones and a calm morning.",
+        "fr": "Pour un bébé ou un tout-petit, organisez la journée autour du bassin enfants chauffé plutôt que de la mer: il est peu profond, chaud, proche des chambres et bien moins compliqué que d'équiper tout le monde pour le ponton. Gardez le récif pour les plus grands et un matin calme."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Four pools, two for kids, one heated",
+            "fr": "Quatre piscines, deux enfants, une chauffée"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "800 m white sand, reef off the jetty",
+            "fr": "800 m de sable blanc, récif au ponton"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids",
+            "fr": "Enfants"
+          },
+          "value": {
+            "en": "Kids club and playground",
+            "fr": "Club enfants et aire de jeux"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "All inclusive",
+            "fr": "Tout compris"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is there a shallow pool for a baby?",
+            "fr": "Y a-t-il un bassin peu profond pour un bébé?"
+          },
+          "a": {
+            "en": "Yes, this is a strength here. Of the four pools, two are children's pools, and one of them is heated in winter, which is exactly what you want with a baby in January. They sit close to the rooms, so a cool-off and a nappy change never involve a long walk.",
+            "fr": "Oui, c'est un point fort ici. Sur les quatre piscines, deux sont des bassins enfants, dont un chauffé l'hiver, exactement ce qu'on veut avec un bébé en janvier. Ils sont proches des chambres: une baignade rapide et un change n'imposent jamais une longue marche."
+          }
+        },
+        {
+          "q": {
+            "en": "Can toddlers swim in the sea safely?",
+            "fr": "Les tout-petits peuvent-ils se baigner dans la mer sans danger?"
+          },
+          "a": {
+            "en": "They can paddle at the sandy shore, but the real swimming and snorkelling here is off the jetty, where the reef drops away, so it is not a long shallow sandy bay of the kind toddlers love best. Keep the youngest to the shoreline and the kids pools, and use the jetty reef for children old enough to snorkel with an adult.",
+            "fr": "Ils peuvent patauger au bord sableux, mais la vraie baignade et le snorkeling se font ici au ponton, où le récif plonge: ce n'est donc pas une longue baie de sable peu profonde comme les tout-petits l'aiment le plus. Gardez les plus jeunes au bord et dans les bassins enfants, et réservez le récif du ponton aux enfants assez grands pour faire du tuba avec un adulte."
+          }
+        }
+      ]
+    }
+  ],
+  "destinationMeta": {
+    "name": {
+      "en": "Marsa Alam",
+      "fr": "Marsa Alam"
+    },
+    "country": {
+      "en": "Egypt",
+      "fr": "Égypte"
+    },
+    "emoji": "🐢",
+    "accent": "#0E8A86",
+    "geo": {
+      "lat": 25.07,
+      "lng": 34.9,
+      "zoom": 9
+    },
+    "heroKicker": {
+      "en": "Winter sun on the calm, wild end of the Red Sea, reef fish off the beach",
+      "fr": "Le soleil d'hiver sur le versant calme et sauvage de la mer Rouge, les poissons du récif au bout de la plage"
+    },
+    "intro": {
+      "en": "Marsa Alam is the quieter, more natural answer to a winter-sun problem: it is February, everyone is grey and fed up, and you want warm sea without a long-haul flight. It sits further south than Hurghada on the same Red Sea coast, with its own airport, so you swap a slice of the crowds and the hard sell for national parks, sea turtles and house reefs you can float over straight from a warm, shallow lagoon. The resorts are almost all all-inclusive, the sea is calm and clear, and this is one of the best places anywhere to teach a child to snorkel. It is not built up: outside the hotels there is desert, a small town and long empty coast, and most families spend the week on the sand and the reef. Go for the calm and the marine life, and it is a gentle, memorable winter week.",
+      "fr": "Marsa Alam est la réponse plus calme et plus nature à un problème d'hiver: on est en février, tout le monde est gris et lassé, et vous voulez une mer chaude sans vol long-courrier. Situé plus au sud qu'Hurghada sur la même côte de la mer Rouge, avec son propre aéroport, il échange une part de la foule et du commerce insistant contre des parcs nationaux, des tortues marines et des récifs maison que l'on survole en flottant, au départ d'un lagon chaud et peu profond. Les complexes sont presque tous en tout compris, la mer est calme et claire, et c'est l'un des meilleurs endroits qui soit pour apprendre à un enfant le masque et tuba. Ce n'est pas urbanisé: hors des hôtels il y a le désert, une petite ville et de longues côtes vides, et la plupart des familles passent la semaine sur le sable et le récif. Venez pour le calme et la vie sous-marine, et c'est une semaine d'hiver douce et mémorable."
+    },
+    "whyKids": {
+      "en": [
+        "Warm winter sun, with mild days in January when Europe is grey",
+        "Calmer and more nature-focused than Hurghada, sea turtles and reefs off the beach",
+        "House-reef lagoons warm and shallow enough for a child's first snorkel",
+        "All-inclusive resorts with free kids clubs and shallow pools by the rooms"
+      ],
+      "fr": [
+        "Un soleil d'hiver chaud, avec des journées douces en janvier quand l'Europe est grise",
+        "Plus calme et plus nature qu'Hurghada, tortues marines et récifs au bout de la plage",
+        "Des lagons de récif maison assez chauds et peu profonds pour un premier tuba d'enfant",
+        "Des complexes en tout compris avec clubs enfants gratuits et bassins peu profonds près des chambres"
+      ]
+    },
+    "bestAreas": {
+      "en": [
+        "Coraya Bay: a sheltered horseshoe of sandy beach a short transfer from the airport, with family resorts, kids clubs and a shared water park, the easiest all-round base",
+        "Port Ghalib: the marina town near the airport, with a walkable promenade of cafes and shops, rare on this quiet coast, good if you want somewhere around you",
+        "Abu Dabbab: a shallow, sandy bay famous for its sea turtles and one of the gentlest reefs on the coast, best for young snorkellers",
+        "Wadi El Gemal and the far south: quiet, protected desert coast with the calmest, sandiest bays, best for toddlers but a longer drive"
+      ],
+      "fr": [
+        "Coraya Bay: un fer à cheval abrité de plage de sable à un court transfert de l'aéroport, avec complexes familiaux, clubs enfants et parc aquatique partagé, la base la plus polyvalente",
+        "Port Ghalib: la ville-marina proche de l'aéroport, avec une promenade de cafés et boutiques où l'on marche, chose rare sur cette côte calme, idéale pour avoir un peu de vie autour de soi",
+        "Abu Dabbab: une baie de sable peu profonde célèbre pour ses tortues marines et l'un des récifs les plus doux de la côte, parfaite pour les jeunes en tuba",
+        "Wadi El Gemal et l'extrême sud: une côte désertique calme et protégée aux baies les plus calmes et les plus sableuses, idéale pour les tout-petits mais avec une route plus longue"
+      ]
+    },
+    "goodToKnow": {
+      "en": "Marsa Alam has its own airport (RMF), which keeps transfers short to Coraya Bay and Port Ghalib, fifteen to thirty minutes, while the southern resorts around Wadi El Gemal and Abu Ghusun can be an hour to well over two, so check the drive before you book with a baby. Be honest with yourself about the beaches: many are house reefs where the sea drops off close to shore and the real snorkelling is off a pier or jetty, which is wonderful for children who can swim but not the long shallow sandy wade toddlers want, so look specifically for a sandy, sheltered bay if you are travelling with the very youngest. October to April is the sweet spot, the summer is genuinely too hot for small children. The winter sun is stronger than the temperature suggests, so pack hats, long-sleeve swim tops and high-factor cream even in January, keep water shoes on for coral and sea urchins, and stick to bottled water to avoid the usual upset stomachs.",
+      "fr": "Marsa Alam a son propre aéroport (RMF), ce qui garde des transferts courts vers Coraya Bay et Port Ghalib, quinze à trente minutes, tandis que les complexes du sud, autour de Wadi El Gemal et d'Abu Ghusun, peuvent demander d'une heure à bien plus de deux: vérifiez le trajet avant de réserver avec un bébé. Soyez honnête avec vous-même sur les plages: beaucoup sont des récifs maison où la mer plonge près du bord et où le vrai snorkeling se fait au ponton, merveilleux pour les enfants qui savent nager mais pas la longue étendue de sable peu profond que veulent les tout-petits: cherchez précisément une baie de sable abritée si vous voyagez avec les plus jeunes. D'octobre à avril, c'est la bonne période, l'été est vraiment trop chaud pour de jeunes enfants. Le soleil d'hiver tape plus fort que ne le laisse croire la température: emportez chapeaux, hauts de bain à manches longues et crème haute protection même en janvier, gardez les chaussures d'eau contre le corail et les oursins, et tenez-vous à l'eau en bouteille pour éviter les habituels maux de ventre."
+    },
+    "parentTip": {
+      "en": "Decide first what your youngest child needs from the water, then choose the bay to match. If you have a baby or toddler, prioritise a genuinely shallow, sandy, sheltered lagoon like Lahami Bay and accept the longer drive. If your children can already swim, a house-reef hotel off a pier in Coraya Bay or Abu Dabbab will thrill them and keep the transfer short.",
+      "fr": "Décidez d'abord de ce dont votre plus jeune enfant a besoin dans l'eau, puis choisissez la baie en conséquence. Avec un bébé ou un tout-petit, privilégiez un lagon vraiment peu profond, sableux et abrité comme Lahami Bay, et acceptez la route plus longue. Si vos enfants savent déjà nager, un hôtel à récif maison avec ponton à Coraya Bay ou Abu Dabbab les émerveillera tout en gardant un transfert court."
+    }
+  }
+}
