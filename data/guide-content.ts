@@ -80,6 +80,12 @@ import EnCmpNotTR from "@/content/guides/en/guide-compare-allinclusive-not-turke
 import FrCmpNotTR from "@/content/guides/fr/guide-compare-allinclusive-not-turkey.mdx";
 import EnCmpCreRho from "@/content/guides/en/guide-compare-crete-rhodes.mdx";
 import FrCmpCreRho from "@/content/guides/fr/guide-compare-crete-rhodes.mdx";
+import EnCmpGreSpa from "@/content/guides/en/guide-compare-greece-spain.mdx";
+import FrCmpGreSpa from "@/content/guides/fr/guide-compare-greece-spain.mdx";
+import EnCmpTenGC from "@/content/guides/en/guide-compare-tenerife-grancanaria.mdx";
+import FrCmpTenGC from "@/content/guides/fr/guide-compare-tenerife-grancanaria.mdx";
+import EnCmpWinter from "@/content/guides/en/guide-compare-winter-sun-regions.mdx";
+import FrCmpWinter from "@/content/guides/fr/guide-compare-winter-sun-regions.mdx";
 
 const CONTENT: Record<string, ComponentType> = {
   "en:guide-connecting-rooms": EnConnecting,
@@ -148,6 +154,12 @@ const CONTENT: Record<string, ComponentType> = {
   "fr:guide-compare-allinclusive-not-turkey": FrCmpNotTR,
   "en:guide-compare-crete-rhodes": EnCmpCreRho,
   "fr:guide-compare-crete-rhodes": FrCmpCreRho,
+  "en:guide-compare-greece-spain": EnCmpGreSpa,
+  "fr:guide-compare-greece-spain": FrCmpGreSpa,
+  "en:guide-compare-tenerife-grancanaria": EnCmpTenGC,
+  "fr:guide-compare-tenerife-grancanaria": FrCmpTenGC,
+  "en:guide-compare-winter-sun-regions": EnCmpWinter,
+  "fr:guide-compare-winter-sun-regions": FrCmpWinter,
 };
 
 export function guideBody(
