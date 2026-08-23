@@ -4835,6 +4835,1163 @@
           }
         }
       ]
+    },
+    {
+      "key": "gran-canaria-bungalows-cordial-green-golf",
+      "destinationKey": "gran-canaria",
+      "name": "Bungalows Cordial Green Golf",
+      "area": {
+        "en": "Maspalomas",
+        "fr": "Maspalomas"
+      },
+      "lat": 27.755,
+      "lng": -15.586,
+      "zoom": 13,
+      "address": "Bungalows Cordial Green Golf, Avenida de Italia, Maspalomas, Gran Canaria, Spain",
+      "priceTier": 2,
+      "priceFrom": 95,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "self-catering",
+        "family-suites",
+        "free-kids-club",
+        "toddler-friendly",
+        "baby-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "villaPoolGreen",
+        "poolPalms",
+        "livingRoom"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 82,
+        "pool": 80,
+        "dining": 72,
+        "safety": 84,
+        "convenience": 78,
+        "location": 74,
+        "extras": 76
+      },
+      "roomsSummary": {
+        "en": "You book a one or two bedroom bungalow, not a hotel room, so the kids get their own bedroom and you get a living room, a fully equipped kitchen and a furnished terrace. Ground floor units with a bit of garden are the ones to request with a toddler and a buggy.",
+        "fr": "Vous reservez un bungalow d'une ou deux chambres, pas une chambre d'hotel, donc les enfants ont leur propre chambre et vous avez un salon, une cuisine entierement equipee et une terrasse meublee. Avec un tout-petit et une poussette, demandez un bungalow au rez-de-chaussee avec un bout de jardin."
+      },
+      "intro": {
+        "en": "Green Golf is the reassuring, low-rise kind of self-catering that suits families who want space and a kitchen more than a mega-resort. Rows of one and two bedroom bungalows sit in green gardens beside the Maspalomas golf course, built around two big pools that are heated in the cooler months, with a separate shallow pool for little ones. A children's club, playground and mini disco keep the days ticking, and a free shuttle drops you at the beach and the shops in Playa del Ingles so you never feel stranded away from the sea.",
+        "fr": "Green Golf, c'est le self-catering rassurant et sans tours qui convient aux familles qui veulent de l'espace et une cuisine plutot qu'un mega-complexe. Des rangees de bungalows d'une ou deux chambres s'alignent dans des jardins verdoyants a cote du golf de Maspalomas, autour de deux grandes piscines chauffees a la mi-saison, avec une pataugeoire a part pour les petits. Un club enfants, une aire de jeux et une mini-disco rythment les journees, et une navette gratuite vous depose a la plage et aux boutiques de Playa del Ingles, on ne se sent jamais coupe de la mer."
+      },
+      "highlights": {
+        "en": [
+          "One and two bedroom bungalows with a full kitchen",
+          "Two large pools heated in the cooler months",
+          "Separate shallow pool for little ones",
+          "Children's club, playground and mini disco",
+          "Free shuttle to the beach and Playa del Ingles shops",
+          "Quiet green setting next to the golf course"
+        ],
+        "fr": [
+          "Bungalows d'une ou deux chambres avec cuisine complete",
+          "Deux grandes piscines chauffees a la mi-saison",
+          "Pataugeoire separee pour les petits",
+          "Club enfants, aire de jeux et mini-disco",
+          "Navette gratuite vers la plage et les boutiques de Playa del Ingles",
+          "Cadre vert et calme a cote du golf"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Proper kitchen and separate bedrooms for the price of a mid-range hotel",
+          "Heated pools make winter half-terms work",
+          "Calm, spread-out layout that toddlers can roam safely"
+        ],
+        "fr": [
+          "Vraie cuisine et chambres separees au prix d'un hotel milieu de gamme",
+          "Piscines chauffees qui rendent les vacances d'hiver possibles",
+          "Agencement calme et etale ou les tout-petits explorent en securite"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Not on the beach, you rely on the shuttle or a short drive",
+          "Bungalows are simple and a bit dated, this is comfort not luxury",
+          "Evenings are quiet, teens will want the bus into town"
+        ],
+        "fr": [
+          "Pas en bord de mer, il faut compter sur la navette ou une petite voiture",
+          "Bungalows simples et un peu datés, c'est du confort pas du luxe",
+          "Soirees tranquilles, les ados voudront le bus pour aller en ville"
+        ]
+      },
+      "verdict": {
+        "en": "A dependable self-catering base for families who value a kitchen and separate bedrooms over being right on the sand, with heated pools that keep it working all winter.",
+        "fr": "Une base self-catering fiable pour les familles qui preferent une cuisine et des chambres separees plutot que d'etre les pieds dans le sable, avec des piscines chauffees valables tout l'hiver."
+      },
+      "parentTip": {
+        "en": "Stock the kitchen at the big supermarkets in Playa del Ingles on day one, it is far cheaper than the on-site shop and saves the daily buggy trek.",
+        "fr": "Remplissez la cuisine dans les grands supermarches de Playa del Ingles des le premier jour, c'est bien moins cher que la boutique sur place et ca evite le trajet quotidien en poussette."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏠",
+          "label": {
+            "en": "Rooms",
+            "fr": "Logement"
+          },
+          "value": {
+            "en": "1 and 2 bedroom bungalows with kitchen",
+            "fr": "Bungalows 1 et 2 chambres avec cuisine"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "2 heated pools plus a shallow kids pool",
+            "fr": "2 piscines chauffees plus une pataugeoire"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Club, playground and mini disco",
+            "fr": "Club, aire de jeux et mini-disco"
+          }
+        },
+        {
+          "icon": "🚌",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Free shuttle to the beach and shops",
+            "fr": "Navette gratuite vers la plage et les boutiques"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Price tier",
+            "fr": "Gamme de prix"
+          },
+          "value": {
+            "en": "Mid-range, from about 95 EUR",
+            "fr": "Milieu de gamme, des 95 EUR environ"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Do the bungalows have a kitchen?",
+            "fr": "Les bungalows ont-ils une cuisine?"
+          },
+          "a": {
+            "en": "Yes, every bungalow has a fully equipped kitchen with fridge, hob, microwave and kitchenware, so self-catering is easy with young children.",
+            "fr": "Oui, chaque bungalow dispose d'une cuisine entierement equipee avec frigo, plaques, micro-ondes et vaisselle, le self-catering est donc simple avec de jeunes enfants."
+          }
+        },
+        {
+          "q": {
+            "en": "Are the pools heated in winter?",
+            "fr": "Les piscines sont-elles chauffees en hiver?"
+          },
+          "a": {
+            "en": "The two main pools are heated in the cooler months, which makes the complex a solid choice for December to March family trips.",
+            "fr": "Les deux piscines principales sont chauffees a la mi-saison, ce qui fait du complexe un bon choix pour les sejours en famille de decembre a mars."
+          }
+        },
+        {
+          "q": {
+            "en": "How do we get to the beach?",
+            "fr": "Comment rejoint-on la plage?"
+          },
+          "a": {
+            "en": "A free shuttle bus runs to Playa del Ingles and Maspalomas beach and shops, so you do not need a car, though the beach is not walking distance.",
+            "fr": "Une navette gratuite dessert Playa del Ingles, la plage de Maspalomas et les boutiques, pas besoin de voiture, meme si la plage n'est pas accessible a pied."
+          }
+        }
+      ]
+    },
+    {
+      "key": "gran-canaria-bungalows-vistaflor",
+      "destinationKey": "gran-canaria",
+      "name": "Bungalows Vistaflor",
+      "area": {
+        "en": "Maspalomas",
+        "fr": "Maspalomas"
+      },
+      "lat": 27.762,
+      "lng": -15.591,
+      "zoom": 13,
+      "address": "Bungalows Vistaflor, Avenida de Touroperador Tjaereborg, Maspalomas, Gran Canaria, Spain",
+      "priceTier": 2,
+      "priceFrom": 70,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "self-catering",
+        "family-suites",
+        "free-kids-club",
+        "toddler-friendly",
+        "baby-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "villaPink",
+        "poolCabanas",
+        "roomCozy"
+      ],
+      "scores": {
+        "rooms": 72,
+        "baby": 76,
+        "pool": 74,
+        "dining": 68,
+        "safety": 80,
+        "convenience": 72,
+        "location": 72,
+        "extras": 70
+      },
+      "roomsSummary": {
+        "en": "The colourful two storey bungalows sleep a family in a living room with a sofa bed, a bedroom and a well equipped kitchenette, with a terrace or balcony. The upstairs layout means stairs inside, so with a baby or an early walker ask for a single level or ground floor unit.",
+        "fr": "Les bungalows colores sur deux niveaux logent une famille avec un salon a canape-lit, une chambre et une kitchenette bien equipee, plus une terrasse ou un balcon. La configuration en duplex implique des escaliers a l'interieur, donc avec un bebe ou un tout-petit qui marche, demandez un logement de plain-pied ou au rez-de-chaussee."
+      },
+      "intro": {
+        "en": "Vistaflor is the friendly budget bungalow complex parents recommend to each other when the goal is a cheap, easy family week with a kitchen. The bright bungalows cluster around a generous pool with a separate children's pool, and there is a small kids club and playground on site. It sits beside the Maspalomas golf course and a five minute drive from Holiday World, the fairground with rides for all ages, so cheap does not mean nothing to do. You are self-catering here, but convenience stores and the Playa del Ingles shopping centres are close.",
+        "fr": "Vistaflor est le complexe de bungalows economique et sympathique que les parents se recommandent entre eux quand le but est une semaine en famille simple et pas chere avec une cuisine. Les bungalows colores s'organisent autour d'une belle piscine avec une piscine enfants a part, et il y a un petit club enfants et une aire de jeux sur place. Il est situe a cote du golf de Maspalomas et a cinq minutes en voiture de Holiday World, la fete foraine avec des manèges pour tous les ages, donc pas cher ne veut pas dire rien a faire. On est en self-catering ici, mais les superettes et les centres commerciaux de Playa del Ingles sont proches."
+      },
+      "highlights": {
+        "en": [
+          "Budget friendly bungalows with a kitchenette",
+          "Large pool plus a separate children's pool",
+          "Small kids club and playground on site",
+          "Five minute drive from Holiday World fairground",
+          "Next to the golf course, quiet and green",
+          "Convenience stores and shops close by"
+        ],
+        "fr": [
+          "Bungalows economiques avec kitchenette",
+          "Grande piscine plus une piscine enfants separee",
+          "Petit club enfants et aire de jeux sur place",
+          "A cinq minutes en voiture de la fete foraine Holiday World",
+          "A cote du golf, calme et vert",
+          "Superettes et boutiques a proximite"
+        ]
+      },
+      "pros": {
+        "en": [
+          "One of the cheapest self-catering options in Maspalomas",
+          "Separate children's pool that toddlers love",
+          "Close to Holiday World for an easy day out"
+        ],
+        "fr": [
+          "Une des options self-catering les moins cheres de Maspalomas",
+          "Piscine enfants separee que les tout-petits adorent",
+          "Proche de Holiday World pour une sortie facile"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Two storey bungalows have internal stairs, awkward with a baby",
+          "Basic and a little worn, set expectations to cheerful not smart",
+          "Not walkable to the beach, plan on a bus or car"
+        ],
+        "fr": [
+          "Les bungalows en duplex ont des escaliers interieurs, peu pratiques avec un bebe",
+          "Simple et un peu use, attendez-vous a joyeux plutot qu'a chic",
+          "Plage non accessible a pied, prevoyez un bus ou une voiture"
+        ]
+      },
+      "verdict": {
+        "en": "The value pick for families who want a kitchen and a kids pool without paying resort prices, best if you can take a single level bungalow with a baby.",
+        "fr": "Le choix bon rapport qualite-prix pour les familles qui veulent une cuisine et une piscine enfants sans payer le prix d'un complexe, ideal si vous pouvez prendre un bungalow de plain-pied avec un bebe."
+      },
+      "parentTip": {
+        "en": "Book a single storey bungalow if you have a baby or a toddler, the internal stairs in the two level units are the one thing parents regret here.",
+        "fr": "Reservez un bungalow de plain-pied si vous avez un bebe ou un tout-petit, les escaliers interieurs des logements a deux niveaux sont le seul regret des parents ici."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏠",
+          "label": {
+            "en": "Rooms",
+            "fr": "Logement"
+          },
+          "value": {
+            "en": "Bungalows with a kitchenette and terrace",
+            "fr": "Bungalows avec kitchenette et terrasse"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Large pool and a separate kids pool",
+            "fr": "Grande piscine et une piscine enfants a part"
+          }
+        },
+        {
+          "icon": "🎡",
+          "label": {
+            "en": "Nearby",
+            "fr": "A proximite"
+          },
+          "value": {
+            "en": "5 minutes from Holiday World fairground",
+            "fr": "A 5 minutes de la fete foraine Holiday World"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids",
+            "fr": "Enfants"
+          },
+          "value": {
+            "en": "Small kids club and playground",
+            "fr": "Petit club enfants et aire de jeux"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Price tier",
+            "fr": "Gamme de prix"
+          },
+          "value": {
+            "en": "Budget, from about 70 EUR",
+            "fr": "Economique, des 70 EUR environ"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is it good value for families?",
+            "fr": "Est-ce un bon rapport qualite-prix pour les familles?"
+          },
+          "a": {
+            "en": "Yes, it is one of the cheapest self-catering bungalow complexes in Maspalomas, with a kitchenette in each unit and a separate children's pool, ideal for a low cost family week.",
+            "fr": "Oui, c'est l'un des complexes de bungalows en self-catering les moins chers de Maspalomas, avec une kitchenette dans chaque logement et une piscine enfants separee, ideal pour une semaine en famille a petit budget."
+          }
+        },
+        {
+          "q": {
+            "en": "Are the bungalows suitable for a baby?",
+            "fr": "Les bungalows conviennent-ils a un bebe?"
+          },
+          "a": {
+            "en": "The two storey bungalows have internal stairs, so if you travel with a baby or new walker ask specifically for a single level or ground floor unit when you book.",
+            "fr": "Les bungalows en duplex ont des escaliers interieurs, donc si vous voyagez avec un bebe ou un tout-petit qui marche, demandez expressement un logement de plain-pied ou au rez-de-chaussee a la reservation."
+          }
+        },
+        {
+          "q": {
+            "en": "What is there to do nearby?",
+            "fr": "Que faire aux alentours?"
+          },
+          "a": {
+            "en": "Holiday World, a fairground with rides for all ages, is about a five minute drive, and the shops and beach of Playa del Ingles and Maspalomas are a short bus ride away.",
+            "fr": "Holiday World, une fete foraine avec des manèges pour tous les ages, est a environ cinq minutes en voiture, et les boutiques et plages de Playa del Ingles et Maspalomas sont a un court trajet en bus."
+          }
+        }
+      ]
+    },
+    {
+      "key": "gran-canaria-maspalomas-resort-by-dunas",
+      "destinationKey": "gran-canaria",
+      "name": "Maspalomas Resort by Dunas",
+      "area": {
+        "en": "Maspalomas",
+        "fr": "Maspalomas"
+      },
+      "lat": 27.759,
+      "lng": -15.588,
+      "zoom": 13,
+      "address": "Maspalomas Resort by Dunas, Avenida de Tenerife, Maspalomas, Gran Canaria, Spain",
+      "priceTier": 2,
+      "priceFrom": 105,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "self-catering",
+        "family-suites",
+        "water-slides",
+        "free-kids-club",
+        "toddler-friendly",
+        "baby-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "villaModern",
+        "poolOrange",
+        "livingRoom"
+      ],
+      "scores": {
+        "rooms": 78,
+        "baby": 84,
+        "pool": 82,
+        "dining": 72,
+        "safety": 85,
+        "convenience": 80,
+        "location": 76,
+        "extras": 80
+      },
+      "roomsSummary": {
+        "en": "These are single storey villa style bungalows, which is the detail that makes them so easy with small children: no internal stairs, a separate living area, a full kitchenette and a big furnished terrace opening onto the gardens. Two bedroom units sleep a family of four or five without anyone on a floor bed.",
+        "fr": "Ce sont des bungalows de style villa de plain-pied, et c'est ce detail qui les rend si pratiques avec de jeunes enfants: pas d'escaliers interieurs, un coin salon separe, une kitchenette complete et une grande terrasse meublee ouverte sur les jardins. Les logements de deux chambres accueillent une famille de quatre ou cinq sans que personne ne dorme par terre."
+      },
+      "intro": {
+        "en": "This is the self-catering complex to shortlist when you want a splash park but not a stair-filled apartment block. The single storey bungalows spread through subtropical gardens around two outdoor pools, one of them a family pool with a water play area of jets and gentle features that toddlers adore, plus a quieter adult pool. There is a buffet restaurant, a bar, a small shop and a children's playground with entertainment, so you can cook in the villa or eat out as the mood takes you. Maspalomas beach and the dunes are under a kilometre away.",
+        "fr": "C'est le complexe self-catering a retenir quand on veut une aire de jeux d'eau mais pas un immeuble d'appartements plein d'escaliers. Les bungalows de plain-pied s'etalent dans des jardins subtropicaux autour de deux piscines exterieures, dont une piscine familiale avec une zone de jeux d'eau a jets et petites installations douces que les tout-petits adorent, plus une piscine adultes plus calme. Il y a un restaurant buffet, un bar, une petite boutique et une aire de jeux avec animation, on peut donc cuisiner dans la villa ou manger dehors selon l'envie. La plage de Maspalomas et les dunes sont a moins d'un kilometre."
+      },
+      "highlights": {
+        "en": [
+          "Single storey villa bungalows, no internal stairs",
+          "Family pool with a toddler water play area of jets",
+          "Full kitchenette for easy self-catering",
+          "Buffet restaurant and bar if you would rather not cook",
+          "Playground and children's entertainment",
+          "Under a kilometre from Maspalomas beach and dunes"
+        ],
+        "fr": [
+          "Bungalows villa de plain-pied, sans escaliers interieurs",
+          "Piscine familiale avec zone de jeux d'eau a jets pour tout-petits",
+          "Kitchenette complete pour un self-catering facile",
+          "Restaurant buffet et bar si vous ne voulez pas cuisiner",
+          "Aire de jeux et animation pour enfants",
+          "A moins d'un kilometre de la plage et des dunes de Maspalomas"
+        ]
+      },
+      "pros": {
+        "en": [
+          "All on one level, genuinely the easiest layout with a baby or toddler",
+          "Water play jets give little ones their own splash zone",
+          "Kitchen and a restaurant on site, cook or eat out as you like"
+        ],
+        "fr": [
+          "Tout de plain-pied, vraiment la configuration la plus simple avec un bebe ou un tout-petit",
+          "Les jeux d'eau a jets offrent aux petits leur propre zone d'eclaboussures",
+          "Cuisine et restaurant sur place, on cuisine ou on sort selon l'envie"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The water play is gentle jets, not big slides for older kids",
+          "A large site, expect a walk from the far bungalows to the pool",
+          "Beach is close but not right outside, take the buggy"
+        ],
+        "fr": [
+          "Les jeux d'eau sont des jets doux, pas de grands toboggans pour les plus grands",
+          "Grand site, prevoyez de marcher des bungalows eloignes jusqu'a la piscine",
+          "La plage est proche mais pas juste devant, prenez la poussette"
+        ]
+      },
+      "verdict": {
+        "en": "The pick for babies and toddlers among Maspalomas self-catering: single level bungalows, a gentle water play pool and a kitchen, all a short buggy push from the dunes.",
+        "fr": "Le choix pour bebes et tout-petits parmi les self-catering de Maspalomas: bungalows de plain-pied, une piscine a jeux d'eau doux et une cuisine, le tout a une courte marche en poussette des dunes."
+      },
+      "parentTip": {
+        "en": "Ask for a bungalow near the family pool, the water play area, not the quiet adult pool, so nap-time dashes back to the villa are quick.",
+        "fr": "Demandez un bungalow pres de la piscine familiale, la zone de jeux d'eau, pas de la piscine adultes calme, pour que les retours rapides a la villa a l'heure de la sieste soient courts."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏠",
+          "label": {
+            "en": "Rooms",
+            "fr": "Logement"
+          },
+          "value": {
+            "en": "Single storey villa bungalows with kitchen",
+            "fr": "Bungalows villa de plain-pied avec cuisine"
+          }
+        },
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water play",
+            "fr": "Jeux d'eau"
+          },
+          "value": {
+            "en": "Family pool with toddler water jets",
+            "fr": "Piscine familiale avec jets pour tout-petits"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "2 pools, family and quiet adult",
+            "fr": "2 piscines, familiale et adultes calme"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Under 1 km to Maspalomas beach",
+            "fr": "A moins d'1 km de la plage de Maspalomas"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Price tier",
+            "fr": "Gamme de prix"
+          },
+          "value": {
+            "en": "Mid-range, from about 105 EUR",
+            "fr": "Milieu de gamme, des 105 EUR environ"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Are the bungalows on one level?",
+            "fr": "Les bungalows sont-ils de plain-pied?"
+          },
+          "a": {
+            "en": "Yes, they are single storey villa style bungalows with no internal stairs, which is what makes the complex so practical for babies, toddlers and buggies.",
+            "fr": "Oui, ce sont des bungalows de style villa de plain-pied sans escaliers interieurs, ce qui rend le complexe tres pratique pour les bebes, les tout-petits et les poussettes."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a water park?",
+            "fr": "Y a-t-il un parc aquatique?"
+          },
+          "a": {
+            "en": "There is a water play area in the family pool with jets and gentle features aimed at younger children, rather than large slides for teenagers.",
+            "fr": "Il y a une zone de jeux d'eau dans la piscine familiale avec des jets et des installations douces destinees aux plus jeunes, plutot que de grands toboggans pour ados."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we cook in the bungalow?",
+            "fr": "Peut-on cuisiner dans le bungalow?"
+          },
+          "a": {
+            "en": "Yes, each bungalow has a kitchenette with a fridge, microwave and coffee maker for self-catering, and there is also a buffet restaurant and a small shop on site.",
+            "fr": "Oui, chaque bungalow a une kitchenette avec frigo, micro-ondes et cafetiere pour le self-catering, et il y a aussi un restaurant buffet et une petite boutique sur place."
+          }
+        }
+      ]
+    },
+    {
+      "key": "gran-canaria-apartamentos-cordial-mogan-valle",
+      "destinationKey": "gran-canaria",
+      "name": "Apartamentos Cordial Mogan Valle",
+      "area": {
+        "en": "Puerto de Mogan",
+        "fr": "Puerto de Mogan"
+      },
+      "lat": 27.817,
+      "lng": -15.762,
+      "zoom": 13,
+      "address": "Apartamentos Cordial Mogan Valle, Avenida Los Marrero 4, Puerto de Mogan, Gran Canaria, Spain",
+      "priceTier": 2,
+      "priceFrom": 110,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "self-catering",
+        "family-suites",
+        "water-slides",
+        "free-kids-club",
+        "toddler-friendly",
+        "baby-friendly",
+        "beach-access"
+      ],
+      "clubFree": true,
+      "photos": [
+        "resortCanal",
+        "poolDuskPalms",
+        "villaInterior"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 80,
+        "pool": 84,
+        "dining": 74,
+        "safety": 84,
+        "convenience": 82,
+        "location": 82,
+        "extras": 82
+      },
+      "roomsSummary": {
+        "en": "One and two bedroom apartments each have a living area, a kitchenette with fridge, hob and microwave, a full bathroom and a furnished terrace or balcony. Two bedroom units give a family real separation at night, and a huge supermarket sits right across the road for stocking up.",
+        "fr": "Les appartements d'une ou deux chambres ont chacun un coin salon, une kitchenette avec frigo, plaques et micro-ondes, une salle de bain complete et une terrasse ou un balcon meuble. Les deux chambres offrent a une famille une vraie separation la nuit, et un grand supermarche se trouve juste en face pour faire les courses."
+      },
+      "intro": {
+        "en": "Set just back from the postcard harbour of Puerto de Mogan, the village of little bridges and bougainvillea they call Little Venice, this is a self-catering complex that feels like a proper place rather than a strip of concrete. One and two bedroom apartments wrap around three pools that are heated in winter, with a children's pool, a splash park and a Mini Club for ages four to twelve. A supermarket across the road makes cooking painless, the calm swimming beach is a short flat walk, and the Friday market and fishing harbour give you somewhere lovely to push a buggy in the evening.",
+        "fr": "Juste en retrait du port de carte postale de Puerto de Mogan, le village aux petits ponts et aux bougainvilliers qu'on surnomme la petite Venise, voici un complexe self-catering qui a l'air d'un vrai lieu plutot que d'une barre de beton. Les appartements d'une ou deux chambres entourent trois piscines chauffees en hiver, avec une piscine enfants, une aire de jeux d'eau et un Mini Club pour les quatre a douze ans. Un supermarche en face rend la cuisine facile, la plage calme pour se baigner est a une courte marche a plat, et le marche du vendredi et le port de peche offrent un joli cadre pour promener la poussette le soir."
+      },
+      "highlights": {
+        "en": [
+          "One and two bedroom apartments with a kitchenette",
+          "Three pools heated in winter plus a children's pool",
+          "Splash park and Mini Club for ages four to twelve",
+          "Big supermarket right across the road",
+          "Short flat walk to the calm swimming beach",
+          "Pretty Little Venice harbour to explore on foot"
+        ],
+        "fr": [
+          "Appartements d'une ou deux chambres avec kitchenette",
+          "Trois piscines chauffees en hiver plus une piscine enfants",
+          "Aire de jeux d'eau et Mini Club pour les quatre a douze ans",
+          "Grand supermarche juste en face",
+          "Courte marche a plat vers la plage calme de baignade",
+          "Joli port de la petite Venise a explorer a pied"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Supermarket across the road makes self-catering effortless",
+          "One of the calmest, most sheltered swimming beaches in the south",
+          "Charming harbour setting that feels like a real village"
+        ],
+        "fr": [
+          "Le supermarche en face rend le self-catering sans effort",
+          "Une des plages de baignade les plus calmes et abritees du sud",
+          "Cadre de port charmant qui donne l'impression d'un vrai village"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Puerto de Mogan is quiet at night, more couples than clubs",
+          "Mini Club starts at age four, babies and toddlers are pool based",
+          "Far west of the island, a longer transfer from the airport"
+        ],
+        "fr": [
+          "Puerto de Mogan est calme le soir, plus de couples que de clubs",
+          "Le Mini Club commence a quatre ans, bebes et tout-petits restent cote piscine",
+          "A l'extreme ouest de l'ile, un transfert plus long depuis l'aeroport"
+        ]
+      },
+      "verdict": {
+        "en": "A charming self-catering base in the prettiest corner of the south, with heated pools, a splash park and a supermarket across the road, ideal if you want a calm beach over a party strip.",
+        "fr": "Une base self-catering charmante dans le plus joli coin du sud, avec piscines chauffees, aire de jeux d'eau et supermarche en face, ideale si vous preferez une plage calme a un quartier festif."
+      },
+      "parentTip": {
+        "en": "Time your week around the Friday market in the harbour, it is the one busy, buzzy morning and kids love the stalls, then the village goes quiet and calm again.",
+        "fr": "Calez votre semaine sur le marche du vendredi au port, c'est la seule matinee animee et les enfants adorent les etals, ensuite le village redevient calme et tranquille."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏠",
+          "label": {
+            "en": "Rooms",
+            "fr": "Logement"
+          },
+          "value": {
+            "en": "1 and 2 bedroom apartments with kitchenette",
+            "fr": "Appartements 1 et 2 chambres avec kitchenette"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "3 heated pools, a kids pool and splash park",
+            "fr": "3 piscines chauffees, piscine enfants et jeux d'eau"
+          }
+        },
+        {
+          "icon": "🛒",
+          "label": {
+            "en": "Self-catering",
+            "fr": "Self-catering"
+          },
+          "value": {
+            "en": "Big supermarket across the road",
+            "fr": "Grand supermarche juste en face"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Short walk to a calm swimming beach",
+            "fr": "Courte marche vers une plage calme"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Price tier",
+            "fr": "Gamme de prix"
+          },
+          "value": {
+            "en": "Mid-range, from about 110 EUR",
+            "fr": "Milieu de gamme, des 110 EUR environ"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the beach good for young children?",
+            "fr": "La plage convient-elle aux jeunes enfants?"
+          },
+          "a": {
+            "en": "Yes, Puerto de Mogan has one of the calmest, most sheltered swimming beaches in the south of Gran Canaria, a short flat walk from the apartments and easy with a buggy.",
+            "fr": "Oui, Puerto de Mogan possede l'une des plages de baignade les plus calmes et abritees du sud de Gran Canaria, a une courte marche a plat des appartements et facile avec une poussette."
+          }
+        },
+        {
+          "q": {
+            "en": "Is self-catering practical here?",
+            "fr": "Le self-catering est-il pratique ici?"
+          },
+          "a": {
+            "en": "Very, each apartment has a kitchenette and there is a large supermarket directly across the road, so you can shop and cook for the family without a car.",
+            "fr": "Tres, chaque appartement a une kitchenette et il y a un grand supermarche juste en face, vous pouvez donc faire les courses et cuisiner pour la famille sans voiture."
+          }
+        },
+        {
+          "q": {
+            "en": "What ages is the Mini Club for?",
+            "fr": "Pour quels ages est le Mini Club?"
+          },
+          "a": {
+            "en": "The Mini Club runs for children aged four to twelve with daily activities around the family pool. Babies and toddlers use the children's pool and splash park with a parent.",
+            "fr": "Le Mini Club accueille les enfants de quatre a douze ans avec des activites quotidiennes autour de la piscine familiale. Les bebes et tout-petits profitent de la piscine enfants et des jeux d'eau avec un parent."
+          }
+        }
+      ]
+    },
+    {
+      "key": "gran-canaria-abora-buenaventura-by-lopesan",
+      "destinationKey": "gran-canaria",
+      "name": "Abora Buenaventura by Lopesan",
+      "area": {
+        "en": "Playa del Ingles",
+        "fr": "Playa del Ingles"
+      },
+      "lat": 27.759,
+      "lng": -15.575,
+      "zoom": 13,
+      "address": "Abora Buenaventura by Lopesan, Plaza de Ansite, Playa del Ingles, Gran Canaria, Spain",
+      "priceTier": 3,
+      "priceFrom": 175,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "family-suites",
+        "toddler-friendly",
+        "baby-friendly",
+        "beach-access"
+      ],
+      "clubFree": true,
+      "photos": [
+        "whiteResortPool",
+        "poolTropicalMtn",
+        "resortLoungers"
+      ],
+      "scores": {
+        "rooms": 82,
+        "baby": 80,
+        "pool": 86,
+        "dining": 82,
+        "safety": 85,
+        "convenience": 84,
+        "location": 84,
+        "extras": 88
+      },
+      "roomsSummary": {
+        "en": "This is all-inclusive rather than self-catering, with bright family rooms that take a sofa bed so four sleep comfortably. If you want more space, connecting or larger family rooms are worth asking for, and there are adult-only areas kept well away from the family pools.",
+        "fr": "Ici on est en tout-inclus plutot qu'en self-catering, avec des chambres familiales lumineuses qui accueillent un canape-lit pour que quatre personnes dorment confortablement. Pour plus d'espace, demandez des chambres communicantes ou familiales plus grandes, et sachez que les zones reservees aux adultes sont bien a l'ecart des piscines familiales."
+      },
+      "intro": {
+        "en": "When you want the all-inclusive, splash-it-all option in the middle of Playa del Ingles, Abora Buenaventura is the sensible family choice. Three outdoor pools include a children's pool with a slide and a splash park of sprinklers, a water dome and a waterfall for little ones, and there is a slide for bigger kids too. A kids club and a playground with swings fill the day, dinner is a big buffet, and many packages throw in daily entry to the Aqualand Maspalomas waterpark nearby. The beach is about a ten minute walk, and the shops and buses of Playa del Ingles are on the doorstep.",
+        "fr": "Quand on veut l'option tout-inclus et tout-eclaboussures en plein Playa del Ingles, Abora Buenaventura est le choix familial raisonnable. Trois piscines exterieures dont une piscine enfants avec toboggan et une aire de jeux d'eau a jets, un dome d'eau et une cascade pour les petits, plus un toboggan pour les plus grands. Un club enfants et une aire de jeux avec balancoires remplissent la journee, le diner est un grand buffet, et de nombreux forfaits incluent l'entree quotidienne au parc aquatique Aqualand Maspalomas tout proche. La plage est a environ dix minutes a pied, et les boutiques et bus de Playa del Ingles sont au pied de l'hotel."
+      },
+      "highlights": {
+        "en": [
+          "All-inclusive with a big family buffet",
+          "Three pools including a children's pool with a slide",
+          "Splash park with sprinklers, a water dome and waterfall",
+          "Kids club and a playground with swings",
+          "Many packages include Aqualand Maspalomas entry",
+          "Central Playa del Ingles, about ten minutes from the beach"
+        ],
+        "fr": [
+          "Tout-inclus avec un grand buffet familial",
+          "Trois piscines dont une piscine enfants avec toboggan",
+          "Aire de jeux d'eau a jets, dome d'eau et cascade",
+          "Club enfants et aire de jeux avec balancoires",
+          "De nombreux forfaits incluent l'entree a Aqualand Maspalomas",
+          "Au centre de Playa del Ingles, a environ dix minutes de la plage"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Genuine splash park plus a kids slide pool on site",
+          "All-inclusive takes the daily what's-for-dinner stress away",
+          "Central location with the beach and shops close"
+        ],
+        "fr": [
+          "Vraie aire de jeux d'eau plus une piscine a toboggan pour enfants sur place",
+          "Le tout-inclus enleve le stress quotidien du repas",
+          "Emplacement central avec plage et boutiques proches"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No kitchen, this is all-inclusive not self-catering",
+          "A busy, mainstream resort, not a quiet retreat",
+          "Central Playa del Ingles can be lively and noisy at night"
+        ],
+        "fr": [
+          "Pas de cuisine, c'est du tout-inclus pas du self-catering",
+          "Un complexe anime et grand public, pas une retraite au calme",
+          "Le centre de Playa del Ingles peut etre anime et bruyant la nuit"
+        ]
+      },
+      "verdict": {
+        "en": "The best all-inclusive value in this line-up for splash-happy families who want a kids slide pool, a splash park and Aqualand thrown in, all in the heart of Playa del Ingles.",
+        "fr": "Le meilleur rapport qualite-prix tout-inclus de cette selection pour les familles amatrices d'eau qui veulent une piscine a toboggan, une aire de jeux d'eau et Aqualand en prime, au coeur de Playa del Ingles."
+      },
+      "parentTip": {
+        "en": "Check whether your package includes Aqualand entry before you book anything separately, on longer stays the daily pass can be worth more than the room upgrade you were eyeing.",
+        "fr": "Verifiez si votre forfait inclut l'entree a Aqualand avant de reserver quoi que ce soit a part, sur les longs sejours le pass quotidien peut valoir plus que le surclassement de chambre que vous lorgniez."
+      },
+      "atAGlance": [
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "All-inclusive family buffet",
+            "fr": "Tout-inclus, buffet familial"
+          }
+        },
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water play",
+            "fr": "Jeux d'eau"
+          },
+          "value": {
+            "en": "Splash park and a kids slide pool",
+            "fr": "Aire de jeux d'eau et piscine a toboggan"
+          }
+        },
+        {
+          "icon": "🎢",
+          "label": {
+            "en": "Waterpark",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "Aqualand entry in many packages",
+            "fr": "Entree Aqualand dans de nombreux forfaits"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "About 10 minutes to the beach",
+            "fr": "A environ 10 minutes de la plage"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Price tier",
+            "fr": "Gamme de prix"
+          },
+          "value": {
+            "en": "Upper mid-range, from about 175 EUR",
+            "fr": "Milieu-haut de gamme, des 175 EUR environ"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is there a splash park for little ones?",
+            "fr": "Y a-t-il une aire de jeux d'eau pour les petits?"
+          },
+          "a": {
+            "en": "Yes, there is a splash park with sprinklers, a water dome and a waterfall, plus a children's pool with a slide, so younger children have plenty of gentle water play.",
+            "fr": "Oui, il y a une aire de jeux d'eau avec jets, un dome d'eau et une cascade, plus une piscine enfants avec toboggan, les plus jeunes ont donc de nombreux jeux d'eau doux."
+          }
+        },
+        {
+          "q": {
+            "en": "Does the stay include Aqualand?",
+            "fr": "Le sejour inclut-il Aqualand?"
+          },
+          "a": {
+            "en": "Many packages include daily entry to the nearby Aqualand Maspalomas waterpark. Check your specific booking, as the number of entry days depends on the length of your stay.",
+            "fr": "De nombreux forfaits incluent l'entree quotidienne au parc aquatique Aqualand Maspalomas tout proche. Verifiez votre reservation, le nombre de jours d'entree depend de la duree du sejour."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it all-inclusive or self-catering?",
+            "fr": "Est-ce tout-inclus ou self-catering?"
+          },
+          "a": {
+            "en": "This is an all-inclusive resort with a family buffet and drinks included, so there is no kitchen in the rooms. Choose it when you want dining sorted rather than to cook.",
+            "fr": "C'est un complexe tout-inclus avec buffet familial et boissons compris, il n'y a donc pas de cuisine dans les chambres. Choisissez-le quand vous voulez les repas regles plutot que de cuisiner."
+          }
+        }
+      ]
+    },
+    {
+      "key": "gran-canaria-abora-interclub-atlantic-by-lopesan",
+      "destinationKey": "gran-canaria",
+      "name": "Abora Interclub Atlantic by Lopesan",
+      "area": {
+        "en": "San Agustin",
+        "fr": "San Agustin"
+      },
+      "lat": 27.768,
+      "lng": -15.539,
+      "zoom": 13,
+      "address": "Abora Interclub Atlantic by Lopesan, Calle Los Jazmines 2, San Agustin, Gran Canaria, Spain",
+      "priceTier": 2,
+      "priceFrom": 145,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "family-suites",
+        "toddler-friendly",
+        "baby-friendly",
+        "beach-access"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolPalms",
+        "deckLoungersSea",
+        "poolCabanas"
+      ],
+      "scores": {
+        "rooms": 76,
+        "baby": 78,
+        "pool": 84,
+        "dining": 76,
+        "safety": 83,
+        "convenience": 80,
+        "location": 82,
+        "extras": 80
+      },
+      "roomsSummary": {
+        "en": "Rooms all have a balcony or terrace, and the hotel keeps a dedicated family area with roomier family rooms near the children's pool. This is an all-inclusive hotel rather than self-catering, so you are booking board and slides rather than a kitchen.",
+        "fr": "Toutes les chambres ont un balcon ou une terrasse, et l'hotel garde une zone familiale dediee avec des chambres familiales plus spacieuses pres de la piscine enfants. C'est un hotel tout-inclus plutot qu'un self-catering, vous reservez donc une formule et des toboggans plutot qu'une cuisine."
+      },
+      "intro": {
+        "en": "Perched above San Agustin with wide views along the coast to Maspalomas, this all-inclusive hotel is a value pick for families whose currency is waterslides. Two large pools, one of them heated, share three slides that run straight into the water, and there is a mini club and playground for the between-swim hours. A dedicated family area keeps rooms and the children's pool together, the buffet covers fussy eaters, and the calmer, more local beach of San Agustin is a walk downhill, a gentler scene than the crowds of Playa del Ingles next door.",
+        "fr": "Perche au-dessus de San Agustin avec de larges vues sur la cote jusqu'a Maspalomas, cet hotel tout-inclus est un choix economique pour les familles dont la monnaie d'echange, ce sont les toboggans. Deux grandes piscines, dont une chauffee, se partagent trois toboggans qui plongent directement dans l'eau, et il y a un mini-club et une aire de jeux pour les heures entre deux baignades. Une zone familiale dediee regroupe les chambres et la piscine enfants, le buffet gere les petits difficiles, et la plage plus calme et plus locale de San Agustin est a une descente a pied, une ambiance plus douce que la foule de Playa del Ingles juste a cote."
+      },
+      "highlights": {
+        "en": [
+          "Two large pools, one heated, with three waterslides",
+          "Dedicated family area with roomier family rooms",
+          "Mini club and playground for between-swim hours",
+          "All-inclusive buffet that copes with fussy eaters",
+          "Wide sea views along the coast to Maspalomas",
+          "Calmer local San Agustin beach a walk downhill"
+        ],
+        "fr": [
+          "Deux grandes piscines, dont une chauffee, avec trois toboggans",
+          "Zone familiale dediee avec des chambres familiales plus spacieuses",
+          "Mini-club et aire de jeux pour les heures entre deux baignades",
+          "Buffet tout-inclus qui gere les petits difficiles",
+          "Larges vues sur la mer le long de la cote jusqu'a Maspalomas",
+          "Plage locale plus calme de San Agustin a une descente a pied"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Three in-pool waterslides at a genuinely fair all-inclusive price",
+          "Calmer, more Spanish San Agustin beach nearby",
+          "Family rooms grouped near the children's pool"
+        ],
+        "fr": [
+          "Trois toboggans dans la piscine a un prix tout-inclus vraiment correct",
+          "Plage de San Agustin plus calme et plus espagnole a proximite",
+          "Chambres familiales regroupees pres de la piscine enfants"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The hilltop setting means a walk uphill back from the beach",
+          "An older three star hotel, comfortable rather than sleek",
+          "No kitchen, it is all-inclusive not self-catering"
+        ],
+        "fr": [
+          "La position en hauteur implique une montee a pied au retour de la plage",
+          "Un hotel trois etoiles plus ancien, confortable plutot que design",
+          "Pas de cuisine, c'est du tout-inclus pas du self-catering"
+        ]
+      },
+      "verdict": {
+        "en": "The best-value waterslide hotel here: three in-pool slides, a heated pool and all-inclusive board above the calmer San Agustin beach, if you do not mind the walk back uphill.",
+        "fr": "Le meilleur rapport qualite-prix cote toboggans: trois toboggans dans la piscine, une piscine chauffee et la formule tout-inclus au-dessus de la plage plus calme de San Agustin, si la montee au retour ne vous derange pas."
+      },
+      "parentTip": {
+        "en": "The walk back up from the beach is the catch with a tired toddler, take the buggy down in the afternoon so you can push, not carry, on the way home.",
+        "fr": "La remontee depuis la plage est le hic avec un tout-petit fatigue, descendez avec la poussette l'apres-midi pour pouvoir pousser, pas porter, au retour."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water play",
+            "fr": "Jeux d'eau"
+          },
+          "value": {
+            "en": "3 waterslides into the pool",
+            "fr": "3 toboggans dans la piscine"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "2 large pools, one heated",
+            "fr": "2 grandes piscines, une chauffee"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "All-inclusive family buffet",
+            "fr": "Tout-inclus, buffet familial"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Calm San Agustin beach downhill",
+            "fr": "Plage calme de San Agustin en contrebas"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Price tier",
+            "fr": "Gamme de prix"
+          },
+          "value": {
+            "en": "Mid-range, from about 145 EUR",
+            "fr": "Milieu de gamme, des 145 EUR environ"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Are there waterslides?",
+            "fr": "Y a-t-il des toboggans?"
+          },
+          "a": {
+            "en": "Yes, the two large pools share three waterslides that run straight into the water, plus a children's pool area, which is the main draw for families with school-age kids.",
+            "fr": "Oui, les deux grandes piscines se partagent trois toboggans qui plongent directement dans l'eau, plus une zone de piscine enfants, c'est le principal atout pour les familles avec des enfants scolarises."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the beach easy to reach?",
+            "fr": "La plage est-elle facile a rejoindre?"
+          },
+          "a": {
+            "en": "The calmer San Agustin beach is a walk downhill from the hotel. It is a gentler beach than Playa del Ingles, though the return is uphill, so a buggy helps with tired little ones.",
+            "fr": "La plage plus calme de San Agustin est a une descente a pied de l'hotel. C'est une plage plus douce que Playa del Ingles, mais le retour est en montee, donc une poussette aide avec les petits fatigues."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it good value for families?",
+            "fr": "Est-ce un bon rapport qualite-prix pour les familles?"
+          },
+          "a": {
+            "en": "Yes, for an all-inclusive hotel with three waterslides and a dedicated family area it sits at a fair price, making it one of the better value slide hotels in the south.",
+            "fr": "Oui, pour un hotel tout-inclus avec trois toboggans et une zone familiale dediee, le prix reste correct, ce qui en fait l'un des meilleurs rapports qualite-prix cote toboggans dans le sud."
+          }
+        }
+      ]
     }
   ],
   "destinationMeta": {

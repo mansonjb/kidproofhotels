@@ -4798,6 +4798,1891 @@
           }
         }
       ]
+    },
+    {
+      "key": "tenerife-costa-adeje-gran-hotel",
+      "destinationKey": "tenerife",
+      "name": "Costa Adeje Gran Hotel",
+      "area": {
+        "en": "Costa Adeje (Playa Fanabe)",
+        "fr": "Costa Adeje (Playa Fanabe)"
+      },
+      "lat": 28.091,
+      "lng": -16.74,
+      "zoom": 13,
+      "address": "Costa Adeje Gran Hotel, Avenida de Bruselas 16, 38660 Costa Adeje, Tenerife, Spain",
+      "priceTier": 4,
+      "priceFrom": 280,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "baby-friendly",
+        "beach-access",
+        "family-suites"
+      ],
+      "clubFree": true,
+      "photos": [
+        "whiteResortPool",
+        "poolPalms",
+        "resortLoungers"
+      ],
+      "scores": {
+        "rooms": 82,
+        "baby": 80,
+        "pool": 88,
+        "dining": 82,
+        "safety": 86,
+        "convenience": 88,
+        "location": 86,
+        "extras": 82
+      },
+      "roomsSummary": {
+        "en": "Large family rooms comfortably fit two adults and two children, and there is a separate lounge in the bigger suites. Ask for a pool-view room away from the rooftop bar if you have a light sleeper.",
+        "fr": "Les grandes chambres familiales accueillent sans peine deux adultes et deux enfants, et les suites plus vastes offrent un salon séparé. Demandez une chambre côté piscine, loin du bar sur le toit, si votre enfant a le sommeil léger."
+      },
+      "intro": {
+        "en": "A five-star just above Fanabe beach that recently added proper waterslides and a splash park to its lagoon-style pools, so the water side finally matches the setting. Downstairs there is a free kids club, a baby pool, mini-golf and a playground, which is a lot of ground to cover before you even reach the sand.",
+        "fr": "Un cinq-étoiles juste au-dessus de la plage de Fanabe qui a ajouté de vrais toboggans et un parc aquatique à ses piscines en lagon, si bien que le volet baignade est enfin à la hauteur du cadre. En bas, un club enfants gratuit, une pataugeoire, un mini-golf et une aire de jeux: de quoi s'occuper avant même de rejoindre le sable."
+      },
+      "highlights": {
+        "en": [
+          "New waterslides and a splash park for younger guests",
+          "Free kids club (4 to 12) with morning and afternoon sessions",
+          "Separate baby pool for the littlest ones",
+          "Mini-golf, tennis and a playground on site",
+          "Walking distance to El Duque and Fanabe beaches",
+          "Rooftop adult pool for parents' downtime"
+        ],
+        "fr": [
+          "Nouveaux toboggans et parc aquatique pour les plus jeunes",
+          "Club enfants gratuit (4 a 12 ans) avec sessions matin et après-midi",
+          "Pataugeoire séparée pour les tout-petits",
+          "Mini-golf, tennis et aire de jeux sur place",
+          "A distance de marche des plages d'El Duque et de Fanabe",
+          "Piscine sur le toit réservée aux adultes pour la détente des parents"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Genuine waterslides and splash park after the recent upgrade",
+          "Lots of dry play too: mini-golf, tennis, playground",
+          "Well placed for two calm sandy beaches on foot"
+        ],
+        "fr": [
+          "Vrais toboggans et parc aquatique depuis la rénovation récente",
+          "Beaucoup de jeux au sec aussi: mini-golf, tennis, aire de jeux",
+          "Bien placé pour deux plages de sable calmes à pied"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Five-star pricing, especially in school holidays",
+          "The best rooftop pool is adults-only",
+          "Large resort, so it can feel busy around the main pool"
+        ],
+        "fr": [
+          "Tarifs cinq-étoiles, surtout pendant les vacances scolaires",
+          "La plus belle piscine sur le toit est réservée aux adultes",
+          "Grand complexe, l'ambiance peut être chargée autour de la piscine principale"
+        ]
+      },
+      "verdict": {
+        "en": "A polished five-star that now has the slides to back up the setting, and enough dry play to fill the gaps between swims. A strong all-rounder for families of four.",
+        "fr": "Un cinq-étoiles soigné qui a désormais les toboggans à la hauteur du cadre, et assez de jeux au sec pour combler les moments hors de l'eau. Une valeur sûre et complète pour une famille de quatre."
+      },
+      "parentTip": {
+        "en": "The baby pool sits apart from the slides, so a toddler and an older child can both be happy without you splitting in two. Book kids club places at check-in in August.",
+        "fr": "La pataugeoire est à l'écart des toboggans, un tout-petit et un plus grand peuvent donc être contents sans que vous ayez à vous couper en deux. Réservez les places du club enfants dès l'arrivée en août."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water play",
+            "fr": "Jeux d'eau"
+          },
+          "value": {
+            "en": "Waterslides and splash park",
+            "fr": "Toboggans et parc aquatique"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free, ages 4 to 12",
+            "fr": "Gratuit, de 4 a 12 ans"
+          }
+        },
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Little ones",
+            "fr": "Tout-petits"
+          },
+          "value": {
+            "en": "Separate baby pool",
+            "fr": "Pataugeoire séparée"
+          }
+        },
+        {
+          "icon": "⛳",
+          "label": {
+            "en": "Dry play",
+            "fr": "Jeux au sec"
+          },
+          "value": {
+            "en": "Mini-golf, tennis, playground",
+            "fr": "Mini-golf, tennis, aire de jeux"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "El Duque and Fanabe, short walk",
+            "fr": "El Duque et Fanabe, courte marche"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "Splash park",
+            "fr": "Parc aquatique"
+          },
+          "detail": {
+            "en": "Slides and jets in a shallow zone, with the baby pool right beside it.",
+            "fr": "Toboggans et jets dans une zone peu profonde, avec la pataugeoire juste à côté."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "⛳",
+          "name": {
+            "en": "Mini-golf round",
+            "fr": "Partie de mini-golf"
+          },
+          "detail": {
+            "en": "An easy shared game for mixed ages once the sun is high.",
+            "fr": "Un jeu partagé facile pour tous les âges quand le soleil tape."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        },
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Beach walk to El Duque",
+            "fr": "Balade jusqu'à El Duque"
+          },
+          "detail": {
+            "en": "A short stroll down to the golden sand and calm shallows.",
+            "fr": "Une courte descente vers le sable doré et les eaux calmes peu profondes."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Flexible",
+            "fr": "Flexible"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "9:00",
+          "title": {
+            "en": "Breakfast buffet",
+            "fr": "Petit-déjeuner buffet"
+          },
+          "note": {
+            "en": "Fuel up before the kids club opens.",
+            "fr": "On fait le plein avant l'ouverture du club enfants."
+          }
+        },
+        {
+          "time": "10:30",
+          "title": {
+            "en": "Splash park and baby pool",
+            "fr": "Parc aquatique et pataugeoire"
+          },
+          "note": {
+            "en": "Slides for the big one, warm baby pool for the little one.",
+            "fr": "Toboggans pour le grand, pataugeoire chaude pour le petit."
+          }
+        },
+        {
+          "time": "13:30",
+          "title": {
+            "en": "Lunch and nap",
+            "fr": "Déjeuner et sieste"
+          },
+          "note": {
+            "en": "Back to the room for the baby's proper sleep.",
+            "fr": "Retour en chambre pour la vraie sieste du bébé."
+          }
+        },
+        {
+          "time": "16:30",
+          "title": {
+            "en": "Kids club and mini-golf",
+            "fr": "Club enfants et mini-golf"
+          },
+          "note": {
+            "en": "Older ones to the club, parents to the rooftop pool.",
+            "fr": "Les grands au club, les parents à la piscine du toit."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "A separate baby pool and a heated main pool make this genuinely baby-ready. Cots on request.",
+          "fr": "Une pataugeoire séparée et une piscine principale chauffée le rendent vraiment adapté aux bébés. Lits parapluie sur demande."
+        },
+        "toddler": {
+          "en": "Shallow splash zones and short slides suit toddlers, with the baby pool close by.",
+          "fr": "Zones peu profondes et petits toboggans conviennent aux tout-petits, avec la pataugeoire à proximité."
+        },
+        "kid": {
+          "en": "Prime age: waterslides, kids club, mini-golf and tennis fill the day.",
+          "fr": "L'âge idéal: toboggans, club enfants, mini-golf et tennis remplissent la journée."
+        },
+        "teen": {
+          "en": "Tennis, the beach and the promenade give older ones room, though nightlife is elsewhere.",
+          "fr": "Tennis, plage et promenade donnent de l'espace aux plus grands, même si la vie nocturne est ailleurs."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Does it really have waterslides?",
+            "fr": "Y a-t-il vraiment des toboggans?"
+          },
+          "a": {
+            "en": "Yes, waterslides and a splash park were added to the pool area in the recent upgrade.",
+            "fr": "Oui, des toboggans et un parc aquatique ont été ajoutés à l'espace piscine lors de la rénovation récente."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the kids club free?",
+            "fr": "Le club enfants est-il gratuit?"
+          },
+          "a": {
+            "en": "Yes, the club for ages 4 to 12 is included, with morning and afternoon sessions.",
+            "fr": "Oui, le club pour les 4 a 12 ans est inclus, avec des sessions matin et après-midi."
+          }
+        },
+        {
+          "q": {
+            "en": "How far is the beach?",
+            "fr": "A quelle distance est la plage?"
+          },
+          "a": {
+            "en": "El Duque and Fanabe beaches are both a short, mostly flat walk away.",
+            "fr": "Les plages d'El Duque et de Fanabe sont à une courte marche, presque plate."
+          }
+        }
+      ]
+    },
+    {
+      "key": "tenerife-bahia-principe-fantasia",
+      "destinationKey": "tenerife",
+      "name": "Bahia Principe Fantasia Tenerife",
+      "area": {
+        "en": "Costa San Miguel (Golf del Sur)",
+        "fr": "Costa San Miguel (Golf del Sur)"
+      },
+      "lat": 28.031,
+      "lng": -16.606,
+      "zoom": 13,
+      "address": "Bahia Principe Fantasia Tenerife, Costa San Miguel, 38639 San Miguel de Abona, Tenerife, Spain",
+      "priceTier": 3,
+      "priceFrom": 210,
+      "ages": [
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolOrange",
+        "poolCabanas",
+        "resortLoungers"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 74,
+        "pool": 86,
+        "dining": 78,
+        "safety": 78,
+        "convenience": 76,
+        "location": 74,
+        "extras": 88
+      },
+      "roomsSummary": {
+        "en": "Bright, fantasy-themed family rooms that sleep four, some with bunk nooks kids love. The theming runs through the whole resort, which younger children find magical.",
+        "fr": "Chambres familiales lumineuses au thème féerique pour quatre personnes, certaines avec un coin lits superposés que les enfants adorent. Le décor à thème court dans tout le complexe, ce que les plus jeunes trouvent magique."
+      },
+      "intro": {
+        "en": "A fantasy-themed resort built squarely around children: seven pools, a dedicated kids' water park with slides and mini waterfalls, and characters wandering the grounds. The theming and the big splash offer are the draw, more than the location, which sits by Golf del Sur rather than a swimming beach.",
+        "fr": "Un complexe au thème féerique pensé entièrement pour les enfants: sept piscines, un parc aquatique enfants dédié avec toboggans et petites cascades, et des personnages qui déambulent dans le parc. Le décor et la grosse offre aquatique font l'attrait, plus que l'emplacement, situé près du Golf del Sur et non d'une plage de baignade."
+      },
+      "highlights": {
+        "en": [
+          "Children's water park with slides, jets and mini waterfalls",
+          "Seven pools across the resort, several for families",
+          "Free kids club plus a separate teens club",
+          "Fantasy theming and characters throughout the grounds",
+          "Shaded splash areas for hot afternoons",
+          "Family rooms that genuinely sleep four"
+        ],
+        "fr": [
+          "Parc aquatique enfants avec toboggans, jets et petites cascades",
+          "Sept piscines dans le complexe, plusieurs pour les familles",
+          "Club enfants gratuit plus un club ados séparé",
+          "Décor féerique et personnages dans tout le parc",
+          "Zones aquatiques ombragées pour les après-midi chauds",
+          "Chambres familiales qui accueillent vraiment quatre personnes"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Huge water offer aimed squarely at young children",
+          "Theming that makes it feel like an adventure for kids",
+          "Free clubs for both younger children and teens"
+        ],
+        "fr": [
+          "Énorme offre aquatique pensée pour les jeunes enfants",
+          "Décor qui transforme le séjour en aventure pour les enfants",
+          "Clubs gratuits pour les jeunes enfants comme pour les ados"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Not on a swimming beach; the coast here is rocky",
+          "Some guest reviews flag variable kids club supervision, so check ratios",
+          "Golf del Sur is quieter for evenings out than the main resorts"
+        ],
+        "fr": [
+          "Pas sur une plage de baignade; la côte ici est rocheuse",
+          "Certains avis signalent une surveillance variable au club enfants, vérifiez l'encadrement",
+          "Golf del Sur est plus calme le soir que les grandes stations"
+        ]
+      },
+      "verdict": {
+        "en": "If your children are at the age where theming and slides make the holiday, this delivers both in bulk. Just go in knowing the beach is a drive, not a doorstep.",
+        "fr": "Si vos enfants sont à l'âge où le décor et les toboggans font les vacances, tout est là en abondance. Sachez simplement que la plage se rejoint en voiture, pas au pied de l'hôtel."
+      },
+      "parentTip": {
+        "en": "The splash zones have shaded areas, worth seeking out mid-afternoon with toddlers. Pack pool shoes: themed water areas can have textured surfaces.",
+        "fr": "Les zones aquatiques ont des coins ombragés, à privilégier en milieu d'après-midi avec des tout-petits. Prévoyez des chaussures d'eau: les espaces à thème peuvent avoir des sols texturés."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "Kids slides and mini waterfalls",
+            "fr": "Toboggans enfants et petites cascades"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Seven across the resort",
+            "fr": "Sept dans le complexe"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Clubs",
+            "fr": "Clubs"
+          },
+          "value": {
+            "en": "Free kids club plus teens club",
+            "fr": "Club enfants gratuit plus club ados"
+          }
+        },
+        {
+          "icon": "🪄",
+          "label": {
+            "en": "Theming",
+            "fr": "Décor"
+          },
+          "value": {
+            "en": "Fantasy world and characters",
+            "fr": "Univers féerique et personnages"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Rocky coast, sandy beaches a drive",
+            "fr": "Côte rocheuse, plages de sable en voiture"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "Kids water park",
+            "fr": "Parc aquatique enfants"
+          },
+          "detail": {
+            "en": "Slides, jets and waterfalls sized for younger children, with shade nearby.",
+            "fr": "Toboggans, jets et cascades à la taille des jeunes enfants, avec de l'ombre à proximité."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🪄",
+          "name": {
+            "en": "Character meet",
+            "fr": "Rencontre des personnages"
+          },
+          "detail": {
+            "en": "Themed characters appear around the resort through the day.",
+            "fr": "Des personnages à thème apparaissent dans le complexe au fil de la journée."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Daily",
+            "fr": "Chaque jour"
+          }
+        },
+        {
+          "emoji": "🎭",
+          "name": {
+            "en": "Teens club",
+            "fr": "Club ados"
+          },
+          "detail": {
+            "en": "A separate space so older ones are not stuck in the little-kid zone.",
+            "fr": "Un espace séparé pour que les plus grands ne restent pas coincés dans la zone des petits."
+          },
+          "ages": [
+            "teen"
+          ],
+          "time": {
+            "en": "Daily",
+            "fr": "Chaque jour"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Breakfast then water park",
+            "fr": "Petit-déjeuner puis parc aquatique"
+          },
+          "note": {
+            "en": "Slides first, while the sun is gentle.",
+            "fr": "Les toboggans d'abord, tant que le soleil est doux."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and shade",
+            "fr": "Déjeuner et ombre"
+          },
+          "note": {
+            "en": "Retreat to a shaded splash area or the room.",
+            "fr": "Repli vers une zone aquatique ombragée ou la chambre."
+          }
+        },
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Kids club and pools",
+            "fr": "Club enfants et piscines"
+          },
+          "note": {
+            "en": "Split by age, parents get a break.",
+            "fr": "Répartis par âge, les parents soufflent."
+          }
+        },
+        {
+          "time": "20:30",
+          "title": {
+            "en": "Themed evening show",
+            "fr": "Spectacle du soir à thème"
+          },
+          "note": {
+            "en": "Character entertainment on the main stage.",
+            "fr": "Animation avec personnages sur la scène principale."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Doable with a baby thanks to shaded splash areas and family rooms, though it is really pitched at walking children.",
+          "fr": "Faisable avec un bébé grâce aux zones aquatiques ombragées et aux chambres familiales, même si tout vise surtout les enfants qui marchent."
+        },
+        "toddler": {
+          "en": "The themed splash zones and characters are toddler magic, with shallow water throughout.",
+          "fr": "Les zones aquatiques à thème et les personnages sont magiques pour les tout-petits, avec de l'eau peu profonde partout."
+        },
+        "kid": {
+          "en": "Prime age: slides, theming and the kids club fill every day.",
+          "fr": "L'âge idéal: toboggans, décor et club enfants remplissent chaque journée."
+        },
+        "teen": {
+          "en": "A separate teens club helps, but Golf del Sur is quiet, so teens may want day trips.",
+          "fr": "Un club ados séparé aide, mais Golf del Sur est calme, les ados voudront peut-être des excursions."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is there a beach at the hotel?",
+            "fr": "Y a-t-il une plage à l'hôtel?"
+          },
+          "a": {
+            "en": "The coast here is rocky rather than a swimming beach; sandy beaches are a short drive away.",
+            "fr": "La côte ici est rocheuse plutôt qu'une plage de baignade; les plages de sable sont à un court trajet en voiture."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the water park included?",
+            "fr": "Le parc aquatique est-il inclus?"
+          },
+          "a": {
+            "en": "Yes, the children's water park and pools are part of the resort and free to guests.",
+            "fr": "Oui, le parc aquatique enfants et les piscines font partie du complexe et sont gratuits pour les clients."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it good for teenagers?",
+            "fr": "Est-ce adapté aux adolescents?"
+          },
+          "a": {
+            "en": "There is a separate teens club, though the resort leans young; teens may want excursions for variety.",
+            "fr": "Il y a un club ados séparé, mais le complexe est plutôt jeune; les ados voudront des excursions pour varier."
+          }
+        }
+      ]
+    },
+    {
+      "key": "tenerife-paradise-park-fun-lifestyle",
+      "destinationKey": "tenerife",
+      "name": "Paradise Park Fun Lifestyle Hotel",
+      "area": {
+        "en": "Los Cristianos",
+        "fr": "Los Cristianos"
+      },
+      "lat": 28.048,
+      "lng": -16.712,
+      "zoom": 13,
+      "address": "Paradise Park Fun Lifestyle Hotel, Los Cristianos, 38650 Arona, Tenerife, Spain",
+      "priceTier": 3,
+      "priceFrom": 170,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "family-suites",
+        "toddler-friendly",
+        "beach-access"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolDusk",
+        "resortLoungers",
+        "poolDuskPalms"
+      ],
+      "scores": {
+        "rooms": 76,
+        "baby": 78,
+        "pool": 84,
+        "dining": 78,
+        "safety": 82,
+        "convenience": 80,
+        "location": 82,
+        "extras": 82
+      },
+      "roomsSummary": {
+        "en": "Straightforward family rooms that fit two adults and two children, most with a balcony. Not designer, but comfortable and well kept for the price.",
+        "fr": "Chambres familiales simples pour deux adultes et deux enfants, la plupart avec balcon. Sans prétention design, mais confortables et bien tenues pour le prix."
+      },
+      "intro": {
+        "en": "A cheerful four-star built around families, with five pools (three heated in the cooler months), a free kids club for 4 to 12s and a teen club above that. It sits in Los Cristianos, an easygoing resort with a calm town beach and a flat promenade, and Siam Park is a ten-minute drive.",
+        "fr": "Un quatre-étoiles enjoué pensé pour les familles, avec cinq piscines (trois chauffées à la saison fraîche), un club enfants gratuit pour les 4 a 12 ans et un club ados au-dessus. Il se trouve à Los Cristianos, station tranquille avec une plage de ville calme et une promenade plate, et le Siam Park est à dix minutes en voiture."
+      },
+      "highlights": {
+        "en": [
+          "Five pools, three heated in the cooler months",
+          "Free kids club (4 to 12) morning and afternoon",
+          "Separate teen club for over-13s",
+          "On-site playground and daily family shows",
+          "Los Cristianos town beach is calm and flat to reach",
+          "Siam Park a ten-minute drive away"
+        ],
+        "fr": [
+          "Cinq piscines, trois chauffées à la saison fraîche",
+          "Club enfants gratuit (4 a 12 ans) matin et après-midi",
+          "Club ados séparé pour les plus de 13 ans",
+          "Aire de jeux sur place et spectacles familiaux quotidiens",
+          "La plage de Los Cristianos est calme et plate à rejoindre",
+          "Siam Park à dix minutes en voiture"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Heated pools matter for little ones in winter",
+          "Free clubs for both younger children and teens",
+          "Calm, walkable Los Cristianos base with a gentle beach"
+        ],
+        "fr": [
+          "Les piscines chauffées comptent pour les petits en hiver",
+          "Clubs gratuits pour les jeunes enfants comme pour les ados",
+          "Base calme et piétonne à Los Cristianos avec une plage douce"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No large waterslides on site; Siam Park is the big-slide fix",
+          "Rooms are functional rather than stylish",
+          "Popular, so sunbeds go early in peak weeks"
+        ],
+        "fr": [
+          "Pas de grands toboggans sur place; le Siam Park est la solution sensations",
+          "Chambres fonctionnelles plutôt qu'élégantes",
+          "Populaire, les transats partent tôt en haute saison"
+        ]
+      },
+      "verdict": {
+        "en": "A dependable, good-value family base in a calm resort, strong on pools and clubs. Pair it with a Siam Park day if your kids crave big slides.",
+        "fr": "Une base familiale fiable et d'un bon rapport qualité-prix dans une station calme, solide sur les piscines et les clubs. Complétez par une journée au Siam Park si vos enfants réclament de grands toboggans."
+      },
+      "parentTip": {
+        "en": "The heated pools make a winter half-term genuinely swimmable for toddlers. The town beach is a flat pushchair walk, handy with a baby.",
+        "fr": "Les piscines chauffées rendent des vacances d'hiver vraiment baignables pour les tout-petits. La plage de ville se rejoint à plat en poussette, pratique avec un bébé."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "5 pools, 3 heated in winter",
+            "fr": "5 piscines, 3 chauffées l'hiver"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free, ages 4 to 12",
+            "fr": "Gratuit, de 4 a 12 ans"
+          }
+        },
+        {
+          "icon": "🎮",
+          "label": {
+            "en": "Teens",
+            "fr": "Ados"
+          },
+          "value": {
+            "en": "Separate teen club",
+            "fr": "Club ados séparé"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Los Cristianos, calm and flat",
+            "fr": "Los Cristianos, calme et plate"
+          }
+        },
+        {
+          "icon": "🚗",
+          "label": {
+            "en": "Siam Park",
+            "fr": "Siam Park"
+          },
+          "value": {
+            "en": "Ten-minute drive",
+            "fr": "Dix minutes en voiture"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Heated pool morning",
+            "fr": "Matinée piscine chauffée"
+          },
+          "detail": {
+            "en": "Warm water even in winter, gentle for toddlers.",
+            "fr": "Eau chaude même en hiver, douce pour les tout-petits."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🎨",
+          "name": {
+            "en": "Mini club crafts",
+            "fr": "Ateliers mini club"
+          },
+          "detail": {
+            "en": "Games, crafts and water fun for 4 to 12s while parents relax.",
+            "fr": "Jeux, bricolages et jeux d'eau pour les 4 a 12 ans pendant que les parents se détendent."
+          },
+          "ages": [
+            "kid"
+          ],
+          "time": {
+            "en": "Daily",
+            "fr": "Chaque jour"
+          }
+        },
+        {
+          "emoji": "🚗",
+          "name": {
+            "en": "Siam Park day trip",
+            "fr": "Journée au Siam Park"
+          },
+          "detail": {
+            "en": "The island's big waterpark, ten minutes away, for the slide fix.",
+            "fr": "Le grand parc aquatique de l'île, à dix minutes, pour les sensations toboggans."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Full day",
+            "fr": "Journée entière"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "9:00",
+          "title": {
+            "en": "Breakfast buffet",
+            "fr": "Petit-déjeuner buffet"
+          },
+          "note": {
+            "en": "Plenty of simple options for fussy eaters.",
+            "fr": "Beaucoup d'options simples pour les palais difficiles."
+          }
+        },
+        {
+          "time": "10:30",
+          "title": {
+            "en": "Pools and playground",
+            "fr": "Piscines et aire de jeux"
+          },
+          "note": {
+            "en": "Heated pool for the little one, playground next door.",
+            "fr": "Piscine chauffée pour le petit, aire de jeux à côté."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch then quiet time",
+            "fr": "Déjeuner puis temps calme"
+          },
+          "note": {
+            "en": "Back to the room for the baby's nap.",
+            "fr": "Retour en chambre pour la sieste du bébé."
+          }
+        },
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Kids club, then beach stroll",
+            "fr": "Club enfants, puis balade à la plage"
+          },
+          "note": {
+            "en": "Flat promenade walk to the town beach.",
+            "fr": "Promenade plate jusqu'à la plage de ville."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Heated pools and a flat, walkable beach make winter trips with a baby easy. Cots on request.",
+          "fr": "Piscines chauffées et plage plate et accessible rendent les séjours d'hiver faciles avec un bébé. Lits parapluie sur demande."
+        },
+        "toddler": {
+          "en": "Warm pools, a playground and calm town beach suit toddlers well.",
+          "fr": "Piscines chaudes, aire de jeux et plage de ville calme conviennent bien aux tout-petits."
+        },
+        "kid": {
+          "en": "Free kids club and pools on site, with Siam Park close for a big day out.",
+          "fr": "Club enfants gratuit et piscines sur place, avec le Siam Park tout près pour une grande journée."
+        },
+        "teen": {
+          "en": "A separate teen club and easy town access give older ones some independence.",
+          "fr": "Un club ados séparé et un accès facile à la ville donnent un peu d'autonomie aux plus grands."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Are there waterslides at the hotel?",
+            "fr": "Y a-t-il des toboggans à l'hôtel?"
+          },
+          "a": {
+            "en": "There are five pools but no large slides on site; Siam Park is a ten-minute drive for that.",
+            "fr": "Il y a cinq piscines mais pas de grands toboggans sur place; le Siam Park est à dix minutes pour cela."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the kids club free?",
+            "fr": "Le club enfants est-il gratuit?"
+          },
+          "a": {
+            "en": "Yes, the club for 4 to 12s is included, and there is a separate teen club too.",
+            "fr": "Oui, le club pour les 4 a 12 ans est inclus, et il y a aussi un club ados séparé."
+          }
+        },
+        {
+          "q": {
+            "en": "Are the pools warm in winter?",
+            "fr": "Les piscines sont-elles chaudes en hiver?"
+          },
+          "a": {
+            "en": "Three of the five pools are heated in the cooler months, which helps with little ones.",
+            "fr": "Trois des cinq piscines sont chauffées à la saison fraîche, ce qui aide avec les petits."
+          }
+        }
+      ]
+    },
+    {
+      "key": "tenerife-spring-hotel-bitacora",
+      "destinationKey": "tenerife",
+      "name": "Spring Hotel Bitacora",
+      "area": {
+        "en": "Playa de las Americas",
+        "fr": "Playa de las Americas"
+      },
+      "lat": 28.058,
+      "lng": -16.727,
+      "zoom": 13,
+      "address": "Spring Hotel Bitacora, Avenida Antonio Dominguez 8, Playa de las Americas, 38660 Arona, Tenerife, Spain",
+      "priceTier": 3,
+      "priceFrom": 160,
+      "ages": [
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "family-suites",
+        "beach-access"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolTropicalMtn",
+        "poolPalms",
+        "resortLoungers"
+      ],
+      "scores": {
+        "rooms": 76,
+        "baby": 70,
+        "pool": 88,
+        "dining": 78,
+        "safety": 80,
+        "convenience": 84,
+        "location": 84,
+        "extras": 90
+      },
+      "roomsSummary": {
+        "en": "Comfortable family rooms with a balcony or terrace that fit two adults and two children. The draw here is outside the room: the aqua park and the huge adventure play area.",
+        "fr": "Chambres familiales confortables avec balcon ou terrasse pour deux adultes et deux enfants. L'attrait est à l'extérieur de la chambre: le parc aquatique et l'immense aire de jeux d'aventure."
+      },
+      "intro": {
+        "en": "The family engine here is its on-site aqua park, with proper slides, an aqua loop and a multi-lane racer, plus Springlyworld, an adventure play park with dozens of climbing and slide activities. A kids club runs from 4 to 14, so the range is wide, and the beach is a short walk in the heart of Playa de las Americas.",
+        "fr": "Le moteur familial ici, c'est son parc aquatique sur place, avec de vrais toboggans, un aqua loop et un racer multipistes, plus Springlyworld, une aire d'aventure aux dizaines d'activités d'escalade et de glisse. Un club enfants va de 4 a 14 ans, la tranche est donc large, et la plage se rejoint à pied au cœur de Playa de las Americas."
+      },
+      "highlights": {
+        "en": [
+          "On-site aqua park with slides, aqua loop and racer",
+          "Springlyworld adventure park with dozens of activities",
+          "Free kids club with a wide 4 to 14 range",
+          "Central Playa de las Americas, beach a short walk",
+          "Family shows and evening entertainment",
+          "Several pools, including a large main pool"
+        ],
+        "fr": [
+          "Parc aquatique sur place avec toboggans, aqua loop et racer",
+          "Aire d'aventure Springlyworld aux dizaines d'activités",
+          "Club enfants gratuit à large tranche 4 a 14 ans",
+          "Playa de las Americas central, plage à courte marche",
+          "Spectacles familiaux et animations en soirée",
+          "Plusieurs piscines, dont une grande piscine principale"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Real waterslides on site, a rarity in this price band",
+          "Springlyworld gives dry-play variety beyond the pools",
+          "Central location with the beach and shops on foot"
+        ],
+        "fr": [
+          "Vrais toboggans sur place, rare dans cette gamme de prix",
+          "Springlyworld apporte des jeux au sec au-delà des piscines",
+          "Emplacement central avec plage et boutiques à pied"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Several pools are adults-only, so family pool space is tighter",
+          "Slides have height and weight limits for the smallest",
+          "Central location means a livelier, busier setting"
+        ],
+        "fr": [
+          "Plusieurs piscines sont réservées aux adultes, l'espace piscine familial est donc plus restreint",
+          "Les toboggans ont des limites de taille et de poids pour les plus petits",
+          "L'emplacement central signifie un cadre plus animé et fréquenté"
+        ]
+      },
+      "verdict": {
+        "en": "One of the best value slide-and-play resorts in Playa de las Americas, ideal for active kids aged roughly 4 to 14. Less suited to a baby-focused, quiet trip.",
+        "fr": "L'un des meilleurs rapports qualité-prix pour toboggans et jeux à Playa de las Americas, idéal pour les enfants actifs d'environ 4 a 14 ans. Moins adapté à un séjour calme centré sur un bébé."
+      },
+      "parentTip": {
+        "en": "Check the slide height and weight rules before promising the little ones a go, to avoid tears at the steps. Springlyworld is a great backup on windier days.",
+        "fr": "Vérifiez les règles de taille et de poids des toboggans avant de promettre un tour aux petits, pour éviter les larmes en haut des marches. Springlyworld est un bon plan B les jours de vent."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Aqua park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "Slides, aqua loop, racer",
+            "fr": "Toboggans, aqua loop, racer"
+          }
+        },
+        {
+          "icon": "🧗",
+          "label": {
+            "en": "Adventure park",
+            "fr": "Parc d'aventure"
+          },
+          "value": {
+            "en": "Springlyworld, 90+ activities",
+            "fr": "Springlyworld, 90+ activités"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free, ages 4 to 14",
+            "fr": "Gratuit, de 4 a 14 ans"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Short walk, central resort",
+            "fr": "Courte marche, station centrale"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Several, some adults-only",
+            "fr": "Plusieurs, certaines pour adultes"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "Aqua park session",
+            "fr": "Session parc aquatique"
+          },
+          "detail": {
+            "en": "Slides, an aqua loop and a racer, with height and weight rules posted.",
+            "fr": "Toboggans, un aqua loop et un racer, avec règles de taille et de poids affichées."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🧗",
+          "name": {
+            "en": "Springlyworld play",
+            "fr": "Jeux Springlyworld"
+          },
+          "detail": {
+            "en": "Climbing frames, slides and play zones, plus shade for little ones.",
+            "fr": "Structures d'escalade, toboggans et zones de jeu, avec de l'ombre pour les petits."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        },
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Beach and promenade",
+            "fr": "Plage et promenade"
+          },
+          "detail": {
+            "en": "A short walk to the sand and the seafront path.",
+            "fr": "Une courte marche vers le sable et la promenade de bord de mer."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Flexible",
+            "fr": "Flexible"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "9:00",
+          "title": {
+            "en": "Breakfast buffet",
+            "fr": "Petit-déjeuner buffet"
+          },
+          "note": {
+            "en": "Eat well before the aqua park opens.",
+            "fr": "On mange bien avant l'ouverture du parc aquatique."
+          }
+        },
+        {
+          "time": "10:30",
+          "title": {
+            "en": "Aqua park",
+            "fr": "Parc aquatique"
+          },
+          "note": {
+            "en": "Slides while the queues are short.",
+            "fr": "Toboggans tant que les files sont courtes."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and shade",
+            "fr": "Déjeuner et ombre"
+          },
+          "note": {
+            "en": "Springlyworld shade for the youngest.",
+            "fr": "L'ombre de Springlyworld pour les plus jeunes."
+          }
+        },
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Kids club, then beach",
+            "fr": "Club enfants, puis plage"
+          },
+          "note": {
+            "en": "Short walk down to the sand afterwards.",
+            "fr": "Courte descente vers le sable ensuite."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Workable with a baby, but the resort is pitched at active older children and several pools are adults-only.",
+          "fr": "Gérable avec un bébé, mais le complexe vise les enfants plus grands et actifs, et plusieurs piscines sont réservées aux adultes."
+        },
+        "toddler": {
+          "en": "Springlyworld and shallow play suit toddlers; the big slides have size limits.",
+          "fr": "Springlyworld et les jeux peu profonds conviennent aux tout-petits; les grands toboggans ont des limites de taille."
+        },
+        "kid": {
+          "en": "Prime age: slides, adventure park and kids club fill every day.",
+          "fr": "L'âge idéal: toboggans, parc d'aventure et club enfants remplissent chaque journée."
+        },
+        "teen": {
+          "en": "The racer slide and central location keep teens busy, with the beach and shops on foot.",
+          "fr": "Le racer et l'emplacement central occupent les ados, avec plage et boutiques à pied."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Are the waterslides suitable for young children?",
+            "fr": "Les toboggans conviennent-ils aux jeunes enfants?"
+          },
+          "a": {
+            "en": "The main slides have height and weight limits; younger children have Springlyworld and shallow play instead.",
+            "fr": "Les toboggans principaux ont des limites de taille et de poids; les plus jeunes ont Springlyworld et les jeux peu profonds."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the kids club free?",
+            "fr": "Le club enfants est-il gratuit?"
+          },
+          "a": {
+            "en": "Yes, the club is included and covers a wide 4 to 14 age range.",
+            "fr": "Oui, le club est inclus et couvre une large tranche de 4 a 14 ans."
+          }
+        },
+        {
+          "q": {
+            "en": "How far is the beach?",
+            "fr": "A quelle distance est la plage?"
+          },
+          "a": {
+            "en": "It is a short walk in central Playa de las Americas, with shops and restaurants on the way.",
+            "fr": "C'est une courte marche dans le centre de Playa de las Americas, avec boutiques et restaurants en chemin."
+          }
+        }
+      ]
+    },
+    {
+      "key": "tenerife-hovima-jardin-caleta",
+      "destinationKey": "tenerife",
+      "name": "HOVIMA Jardin Caleta",
+      "area": {
+        "en": "Costa Adeje (La Caleta)",
+        "fr": "Costa Adeje (La Caleta)"
+      },
+      "lat": 28.098,
+      "lng": -16.756,
+      "zoom": 13,
+      "address": "HOVIMA Jardin Caleta, La Caleta, Costa Adeje, 38679 Adeje, Tenerife, Spain",
+      "priceTier": 2,
+      "priceFrom": 120,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "self-catering",
+        "free-kids-club",
+        "beach-access",
+        "toddler-friendly",
+        "baby-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolCabanas",
+        "deckLoungersSea",
+        "roomCozy"
+      ],
+      "scores": {
+        "rooms": 74,
+        "baby": 82,
+        "pool": 78,
+        "dining": 72,
+        "safety": 82,
+        "convenience": 84,
+        "location": 82,
+        "extras": 74
+      },
+      "roomsSummary": {
+        "en": "Apartments rather than rooms: each has a kitchenette with hob, kettle and toaster, a lounge with a sofa bed and a balcony with pool or sea views. That self-catering setup is what makes it easy with a baby.",
+        "fr": "Des appartements plutôt que des chambres: chacun dispose d'une kitchenette avec plaques, bouilloire et grille-pain, d'un salon avec canapé-lit et d'un balcon avec vue piscine ou mer. C'est cette formule en gestion libre qui simplifie la vie avec un bébé."
+      },
+      "intro": {
+        "en": "A modest, well-run aparthotel 50 metres from La Enramada beach, where the winning card for parents is the kitchenette: bottles, purees and early toddler teas without hunting for a restaurant. Three pools including a children's pool and one heated in winter, a small kids club and a playground round it out at a gentle price.",
+        "fr": "Un aparthotel modeste et bien géré à 50 mètres de la plage de La Enramada, où l'atout gagnant pour les parents est la kitchenette: biberons, purées et dîners précoces des tout-petits sans courir après un restaurant. Trois piscines dont une pour enfants et une chauffée l'hiver, un petit club enfants et une aire de jeux complètent l'ensemble à prix doux."
+      },
+      "highlights": {
+        "en": [
+          "Apartments with a kitchenette, ideal for baby routines",
+          "50 metres from La Enramada beach",
+          "Three pools including a children's pool, one heated in winter",
+          "Small free kids club, mini-disco and playground",
+          "Sofa bed and balcony in every apartment",
+          "Gentle prices for Costa Adeje"
+        ],
+        "fr": [
+          "Appartements avec kitchenette, idéals pour le rythme d'un bébé",
+          "A 50 mètres de la plage de La Enramada",
+          "Trois piscines dont une pour enfants, une chauffée l'hiver",
+          "Petit club enfants gratuit, mini-disco et aire de jeux",
+          "Canapé-lit et balcon dans chaque appartement",
+          "Prix doux pour la Costa Adeje"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Self-catering makes baby and toddler meals simple",
+          "Very close to a calm beach, flat with a pushchair",
+          "Good value in an otherwise pricey area"
+        ],
+        "fr": [
+          "La gestion libre simplifie les repas de bébé et des tout-petits",
+          "Très proche d'une plage calme, plat en poussette",
+          "Bon rapport qualité-prix dans une zone plutôt chère"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Facilities are simpler than the big resorts, no slides",
+          "Kids club and entertainment are small-scale",
+          "La Caleta is quiet in the evenings"
+        ],
+        "fr": [
+          "Équipements plus simples que les grands complexes, pas de toboggans",
+          "Club enfants et animations à petite échelle",
+          "La Caleta est calme le soir"
+        ]
+      },
+      "verdict": {
+        "en": "The pick for a baby or toddler trip on a budget: a kitchenette, a calm beach next door and a heated pool, without paying five-star prices for slides you won't use yet.",
+        "fr": "Le choix pour un séjour avec bébé ou tout-petit à petit budget: une kitchenette, une plage calme à côté et une piscine chauffée, sans payer le prix d'un cinq-étoiles pour des toboggans encore inutiles."
+      },
+      "parentTip": {
+        "en": "Ask for an apartment near the heated pool if you are travelling in winter with a little one. The La Caleta seafront has easy, buggy-friendly restaurants for an early dinner.",
+        "fr": "Demandez un appartement près de la piscine chauffée si vous voyagez en hiver avec un petit. Le front de mer de La Caleta offre des restaurants faciles et accessibles en poussette pour un dîner tôt."
+      },
+      "atAGlance": [
+        {
+          "icon": "🍳",
+          "label": {
+            "en": "Kitchenette",
+            "fr": "Kitchenette"
+          },
+          "value": {
+            "en": "In every apartment",
+            "fr": "Dans chaque appartement"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "La Enramada, 50 metres",
+            "fr": "La Enramada, 50 mètres"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "3 pools, kids pool, 1 heated",
+            "fr": "3 piscines, pataugeoire, 1 chauffée"
+          }
+        },
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Little ones",
+            "fr": "Tout-petits"
+          },
+          "value": {
+            "en": "Self-catering and playground",
+            "fr": "Gestion libre et aire de jeux"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Value",
+            "fr": "Prix"
+          },
+          "value": {
+            "en": "Gentle for Costa Adeje",
+            "fr": "Doux pour la Costa Adeje"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Children's pool",
+            "fr": "Pataugeoire"
+          },
+          "detail": {
+            "en": "A shallow kids pool, with one main pool heated in winter.",
+            "fr": "Une pataugeoire peu profonde, avec une piscine principale chauffée l'hiver."
+          },
+          "ages": [
+            "baby",
+            "toddler"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "La Enramada beach",
+            "fr": "Plage de La Enramada"
+          },
+          "detail": {
+            "en": "Fifty metres to the sand, a flat pushchair walk.",
+            "fr": "Cinquante mètres jusqu'au sable, à plat en poussette."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Flexible",
+            "fr": "Flexible"
+          }
+        },
+        {
+          "emoji": "🎪",
+          "name": {
+            "en": "Mini-disco",
+            "fr": "Mini-disco"
+          },
+          "detail": {
+            "en": "A small evening mini-disco that toddlers enjoy before bed.",
+            "fr": "Une petite mini-disco du soir que les tout-petits adorent avant le coucher."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soir"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast in the apartment",
+            "fr": "Petit-déjeuner dans l'appartement"
+          },
+          "note": {
+            "en": "Porridge and bottles at the baby's own pace.",
+            "fr": "Porridge et biberons au rythme du bébé."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Beach then children's pool",
+            "fr": "Plage puis pataugeoire"
+          },
+          "note": {
+            "en": "Sand first, then a warm dip.",
+            "fr": "Le sable d'abord, puis un bain chaud."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and nap in the room",
+            "fr": "Déjeuner et sieste en chambre"
+          },
+          "note": {
+            "en": "Kitchenette lunch, then a proper nap.",
+            "fr": "Déjeuner à la kitchenette, puis une vraie sieste."
+          }
+        },
+        {
+          "time": "18:00",
+          "title": {
+            "en": "Early dinner and mini-disco",
+            "fr": "Dîner tôt et mini-disco"
+          },
+          "note": {
+            "en": "Buggy-friendly seafront restaurants nearby.",
+            "fr": "Restaurants de bord de mer accessibles en poussette à proximité."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "The standout choice for babies: a kitchenette for bottles and purees, a heated pool and a calm beach next door. Cots on request.",
+          "fr": "Le choix phare pour les bébés: une kitchenette pour biberons et purées, une piscine chauffée et une plage calme à côté. Lits parapluie sur demande."
+        },
+        "toddler": {
+          "en": "The children's pool, playground and mini-disco keep toddlers happy at an easy pace.",
+          "fr": "La pataugeoire, l'aire de jeux et la mini-disco comblent les tout-petits à un rythme tranquille."
+        },
+        "kid": {
+          "en": "Fine for younger kids, though there are no slides and the club is small.",
+          "fr": "Correct pour les jeunes enfants, mais il n'y a pas de toboggans et le club est petit."
+        },
+        "teen": {
+          "en": "Quiet for teens; better suited to families with younger children.",
+          "fr": "Calme pour les ados; mieux adapté aux familles avec de jeunes enfants."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Do the apartments have a kitchen?",
+            "fr": "Les appartements ont-ils une cuisine?"
+          },
+          "a": {
+            "en": "Yes, each has a kitchenette with a hob, kettle and toaster, ideal for baby and toddler meals.",
+            "fr": "Oui, chacun a une kitchenette avec plaques, bouilloire et grille-pain, idéale pour les repas de bébé et des tout-petits."
+          }
+        },
+        {
+          "q": {
+            "en": "How close is the beach?",
+            "fr": "A quelle distance est la plage?"
+          },
+          "a": {
+            "en": "La Enramada beach is about 50 metres away, a flat and easy walk with a pushchair.",
+            "fr": "La plage de La Enramada est à environ 50 mètres, une marche plate et facile en poussette."
+          }
+        },
+        {
+          "q": {
+            "en": "Are there waterslides?",
+            "fr": "Y a-t-il des toboggans?"
+          },
+          "a": {
+            "en": "No large slides here; it is a calmer aparthotel with a children's pool and playground.",
+            "fr": "Pas de grands toboggans ici; c'est un aparthotel plus calme avec une pataugeoire et une aire de jeux."
+          }
+        }
+      ]
+    },
+    {
+      "key": "tenerife-mare-nostrum-resort",
+      "destinationKey": "tenerife",
+      "name": "Mare Nostrum Resort",
+      "area": {
+        "en": "Playa de las Americas",
+        "fr": "Playa de las Americas"
+      },
+      "lat": 28.056,
+      "lng": -16.726,
+      "zoom": 13,
+      "address": "Mare Nostrum Resort, Avenida de las Americas, Playa de las Americas, 38660 Arona, Tenerife, Spain",
+      "priceTier": 3,
+      "priceFrom": 200,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "infinityPoolSea",
+        "poolPalms",
+        "deckLoungersSea"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 86,
+        "pool": 84,
+        "dining": 82,
+        "safety": 84,
+        "convenience": 86,
+        "location": 86,
+        "extras": 82
+      },
+      "roomsSummary": {
+        "en": "Stay in the Mediterranean Palace, the family-oriented hotel within the complex, where family rooms sleep four comfortably. Booking there gives you free access to the Mare Kids clubs and the wider resort pools.",
+        "fr": "Logez au Mediterranean Palace, l'hôtel familial du complexe, où les chambres familiales accueillent quatre personnes sans souci. Y réserver donne un accès gratuit aux clubs Mare Kids et aux piscines de l'ensemble du complexe."
+      },
+      "intro": {
+        "en": "A big seafront resort complex in the heart of Playa de las Americas, best for families through its Mediterranean Palace hotel. The standout is the club structure: a Turtle Club from just 6 months, then age bands up to a teen club, all free for family-hotel guests, plus four pools and an enclosed supervised kids pool.",
+        "fr": "Un grand complexe de bord de mer au cœur de Playa de las Americas, idéal pour les familles via son hôtel Mediterranean Palace. Le point fort, c'est la structure des clubs: un Turtle Club dès 6 mois seulement, puis des tranches d'âge jusqu'à un club ados, le tout gratuit pour les clients de l'hôtel familial, plus quatre piscines et une pataugeoire fermée et surveillée."
+      },
+      "highlights": {
+        "en": [
+          "Turtle Club from 6 months, a rare early baby offer",
+          "Age-banded clubs up to a teen club (13 to 16)",
+          "Enclosed, supervised children's pool",
+          "Four pools across the resort complex",
+          "Seafront setting, beach and promenade on foot",
+          "Free club access for Mediterranean Palace guests"
+        ],
+        "fr": [
+          "Turtle Club dès 6 mois, une offre bébé précoce rare",
+          "Clubs par tranche d'âge jusqu'à un club ados (13 a 16 ans)",
+          "Pataugeoire fermée et surveillée",
+          "Quatre piscines dans l'ensemble du complexe",
+          "Cadre de bord de mer, plage et promenade à pied",
+          "Accès gratuit aux clubs pour les clients du Mediterranean Palace"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Baby club from 6 months is genuinely unusual",
+          "Clear age bands so each child gets the right pace",
+          "Central seafront location, easy for beach and strolls"
+        ],
+        "fr": [
+          "Le club bébé dès 6 mois est vraiment rare",
+          "Tranches d'âge nettes pour que chaque enfant ait le bon rythme",
+          "Emplacement central en bord de mer, facile pour plage et balades"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Book the right hotel: club access is free only for family-hotel guests",
+          "The Cleopatra Palace within the complex is quieter and less family-led",
+          "No large waterslides on site; it is pools rather than a splash park"
+        ],
+        "fr": [
+          "Réservez le bon hôtel: l'accès aux clubs n'est gratuit que pour les clients de l'hôtel familial",
+          "Le Cleopatra Palace du complexe est plus calme et moins tourné vers les familles",
+          "Pas de grands toboggans sur place; ce sont des piscines plutôt qu'un parc aquatique"
+        ]
+      },
+      "verdict": {
+        "en": "The strongest pick in the south for a baby or toddler thanks to a club from 6 months and an enclosed kids pool. Just make sure you book the Mediterranean Palace to get it all free.",
+        "fr": "Le meilleur choix du sud pour un bébé ou un tout-petit grâce à un club dès 6 mois et une pataugeoire fermée. Assurez-vous simplement de réserver le Mediterranean Palace pour tout avoir gratuitement."
+      },
+      "parentTip": {
+        "en": "Confirm you are booking the Mediterranean Palace, not the Cleopatra Palace, so the Mare Kids clubs are included. The 6-month club is a real help with a young baby.",
+        "fr": "Confirmez que vous réservez bien le Mediterranean Palace, pas le Cleopatra Palace, pour que les clubs Mare Kids soient inclus. Le club dès 6 mois aide vraiment avec un jeune bébé."
+      },
+      "atAGlance": [
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Baby club",
+            "fr": "Club bébé"
+          },
+          "value": {
+            "en": "Turtle Club from 6 months",
+            "fr": "Turtle Club dès 6 mois"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Clubs",
+            "fr": "Clubs"
+          },
+          "value": {
+            "en": "Age bands up to teens",
+            "fr": "Tranches d'âge jusqu'aux ados"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Four, plus enclosed kids pool",
+            "fr": "Quatre, plus pataugeoire fermée"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Location",
+            "fr": "Emplacement"
+          },
+          "value": {
+            "en": "Seafront, central resort",
+            "fr": "Bord de mer, station centrale"
+          }
+        },
+        {
+          "icon": "🏨",
+          "label": {
+            "en": "Book",
+            "fr": "Réserver"
+          },
+          "value": {
+            "en": "Mediterranean Palace for free clubs",
+            "fr": "Mediterranean Palace pour clubs gratuits"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "👶",
+          "name": {
+            "en": "Turtle Club",
+            "fr": "Turtle Club"
+          },
+          "detail": {
+            "en": "Supervised play for 6 months to 3 years, a rare early offer.",
+            "fr": "Jeux encadrés de 6 mois a 3 ans, une offre précoce rare."
+          },
+          "ages": [
+            "baby",
+            "toddler"
+          ],
+          "time": {
+            "en": "Daily",
+            "fr": "Chaque jour"
+          }
+        },
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Enclosed kids pool",
+            "fr": "Pataugeoire fermée"
+          },
+          "detail": {
+            "en": "A supervised, closed-off pool where little ones can splash safely.",
+            "fr": "Une piscine surveillée et fermée où les petits peuvent barboter en sécurité."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🏄",
+          "name": {
+            "en": "Club Surfer for teens",
+            "fr": "Club Surfer pour ados"
+          },
+          "detail": {
+            "en": "A 13 to 16 club so older ones have their own thing.",
+            "fr": "Un club 13 a 16 ans pour que les plus grands aient leur propre espace."
+          },
+          "ages": [
+            "teen"
+          ],
+          "time": {
+            "en": "Daily",
+            "fr": "Chaque jour"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "9:00",
+          "title": {
+            "en": "Breakfast buffet",
+            "fr": "Petit-déjeuner buffet"
+          },
+          "note": {
+            "en": "Wide choice for mixed ages.",
+            "fr": "Large choix pour tous les âges."
+          }
+        },
+        {
+          "time": "10:30",
+          "title": {
+            "en": "Turtle Club and kids pool",
+            "fr": "Turtle Club et pataugeoire"
+          },
+          "note": {
+            "en": "Baby to the club, others to the enclosed pool.",
+            "fr": "Le bébé au club, les autres à la pataugeoire fermée."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and nap",
+            "fr": "Déjeuner et sieste"
+          },
+          "note": {
+            "en": "Back to the room for the baby's sleep.",
+            "fr": "Retour en chambre pour le sommeil du bébé."
+          }
+        },
+        {
+          "time": "16:30",
+          "title": {
+            "en": "Beach and promenade",
+            "fr": "Plage et promenade"
+          },
+          "note": {
+            "en": "Seafront walk, teens to Club Surfer.",
+            "fr": "Balade en bord de mer, les ados au Club Surfer."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "A club from 6 months and an enclosed kids pool make this one of the most baby-ready resorts in the south. Cots on request.",
+          "fr": "Un club dès 6 mois et une pataugeoire fermée en font l'un des complexes les plus adaptés aux bébés du sud. Lits parapluie sur demande."
+        },
+        "toddler": {
+          "en": "The supervised pool and age-banded clubs are ideal for toddlers.",
+          "fr": "La piscine surveillée et les clubs par tranche d'âge sont idéaux pour les tout-petits."
+        },
+        "kid": {
+          "en": "Willy and Sailor clubs by age keep this range busy, with the beach on foot.",
+          "fr": "Les clubs Willy et Sailor par âge occupent cette tranche, avec la plage à pied."
+        },
+        "teen": {
+          "en": "Club Surfer (13 to 16) plus a lively central location suit teens well.",
+          "fr": "Le Club Surfer (13 a 16 ans) et un emplacement central animé conviennent bien aux ados."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "From what age is the kids club?",
+            "fr": "A partir de quel âge est le club enfants?"
+          },
+          "a": {
+            "en": "The Turtle Club takes children from 6 months, with age bands up to a 13 to 16 teen club.",
+            "fr": "Le Turtle Club accueille les enfants dès 6 mois, avec des tranches d'âge jusqu'à un club ados de 13 a 16 ans."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the kids club free?",
+            "fr": "Le club enfants est-il gratuit?"
+          },
+          "a": {
+            "en": "Yes for guests of the family-oriented Mediterranean Palace; other hotels in the complex may charge.",
+            "fr": "Oui pour les clients de l'hôtel familial Mediterranean Palace; d'autres hôtels du complexe peuvent facturer."
+          }
+        },
+        {
+          "q": {
+            "en": "Are there waterslides?",
+            "fr": "Y a-t-il des toboggans?"
+          },
+          "a": {
+            "en": "No large slides on site; it is a pool-based resort, with Siam Park a short drive for big slides.",
+            "fr": "Pas de grands toboggans sur place; c'est un complexe axé piscines, avec le Siam Park à un court trajet pour les grands toboggans."
+          }
+        }
+      ]
     }
   ],
   "destinationMeta": {
