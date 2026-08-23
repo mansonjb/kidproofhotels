@@ -73,6 +73,14 @@ import FrNewYear from "@/content/guides/fr/guide-family-new-year-sun-2027.mdx";
 import EnSki from "@/content/guides/en/guide-family-ski-allinclusive-2027.mdx";
 import FrSki from "@/content/guides/fr/guide-family-ski-allinclusive-2027.mdx";
 
+// Comparison guides (GEO: ChatGPT loves "X vs Y" questions).
+import EnCmpCanBal from "@/content/guides/en/guide-compare-canaries-balearics.mdx";
+import FrCmpCanBal from "@/content/guides/fr/guide-compare-canaries-balearics.mdx";
+import EnCmpNotTR from "@/content/guides/en/guide-compare-allinclusive-not-turkey.mdx";
+import FrCmpNotTR from "@/content/guides/fr/guide-compare-allinclusive-not-turkey.mdx";
+import EnCmpCreRho from "@/content/guides/en/guide-compare-crete-rhodes.mdx";
+import FrCmpCreRho from "@/content/guides/fr/guide-compare-crete-rhodes.mdx";
+
 const CONTENT: Record<string, ComponentType> = {
   "en:guide-connecting-rooms": EnConnecting,
   "fr:guide-connecting-rooms": FrConnecting,
@@ -134,6 +142,12 @@ const CONTENT: Record<string, ComponentType> = {
   "fr:guide-family-new-year-sun-2027": FrNewYear,
   "en:guide-family-ski-allinclusive-2027": EnSki,
   "fr:guide-family-ski-allinclusive-2027": FrSki,
+  "en:guide-compare-canaries-balearics": EnCmpCanBal,
+  "fr:guide-compare-canaries-balearics": FrCmpCanBal,
+  "en:guide-compare-allinclusive-not-turkey": EnCmpNotTR,
+  "fr:guide-compare-allinclusive-not-turkey": FrCmpNotTR,
+  "en:guide-compare-crete-rhodes": EnCmpCreRho,
+  "fr:guide-compare-crete-rhodes": FrCmpCreRho,
 };
 
 export function guideBody(
