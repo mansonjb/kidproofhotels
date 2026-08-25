@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META, COSTA_ALMERIA_META, PUNTA_CANA_META, FRENCH_ALPS_META, MAR_MENOR_META, NAXOS_PAROS_META, COSTA_NAVARINO_META, MARSA_ALAM_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META, COSTA_ALMERIA_META, PUNTA_CANA_META, FRENCH_ALPS_META, MAR_MENOR_META, NAXOS_PAROS_META, COSTA_NAVARINO_META, MARSA_ALAM_META, HAMMAMET_META, RIVIERA_MAYA_META, KEFALONIA_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -104,6 +104,9 @@ const MMN = (MAR_MENOR_META ?? {}) as any;
 const NXP = (NAXOS_PAROS_META ?? {}) as any;
 const CNV = (COSTA_NAVARINO_META ?? {}) as any;
 const MSA = (MARSA_ALAM_META ?? {}) as any;
+const HMT = (HAMMAMET_META ?? {}) as any;
+const RVM = (RIVIERA_MAYA_META ?? {}) as any;
+const KEF = (KEFALONIA_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -2007,6 +2010,90 @@ export const DESTINATIONS: Destination[] = src([
     faqs: MSA.faqs,
     parentTip: MSA.parentTip,
     goodToKnow: MSA.goodToKnow,
+  },
+  {
+    key: "hammamet",
+    name: HMT.name ?? { en: "Hammamet", fr: "Hammamet" },
+    country: HMT.country ?? { en: "Tunisia", fr: "Tunisie" },
+    inPhrase: { en: "in Hammamet", fr: "à Hammamet" },
+    slug: {
+      en: "family-hotels-hammamet",
+      fr: "hotels-famille-hammamet",
+    },
+    geo: HMT.geo ?? { lat: 36.38, lng: 10.55, zoom: 11 },
+    heroKicker: HMT.heroKicker ?? {
+      en: "Affordable family all-inclusive, a short flight away, with aquaparks and sandy beaches",
+      fr: "All-inclusive famille abordable, à un vol court, avec aquaparcs et plages de sable",
+    },
+    intro: HMT.intro ?? { en: "", fr: "" },
+    whyKids: HMT.whyKids ?? { en: [], fr: [] },
+    bestAreas: HMT.bestAreas ?? { en: [], fr: [] },
+    emoji: HMT.emoji ?? "🏖️",
+    accent: HMT.accent ?? "e8934a",
+    hotelKeys: [], // populated below
+    related: ["sousse", "djerba", "guide-allinclusive-europe"],
+    photos: HMT.photos,
+    stats: HMT.stats,
+    activities: HMT.activities,
+    faqs: HMT.faqs,
+    parentTip: HMT.parentTip,
+    goodToKnow: HMT.goodToKnow,
+  },
+  {
+    key: "riviera-maya",
+    name: RVM.name ?? { en: "Riviera Maya", fr: "Riviera Maya" },
+    country: RVM.country ?? { en: "Mexico", fr: "Mexique" },
+    inPhrase: { en: "in the Riviera Maya", fr: "sur la Riviera Maya" },
+    slug: {
+      en: "family-hotels-riviera-maya",
+      fr: "hotels-famille-riviera-maya",
+    },
+    geo: RVM.geo ?? { lat: 20.6, lng: -87.1, zoom: 9 },
+    heroKicker: RVM.heroKicker ?? {
+      en: "World-class family all-inclusive: giant water parks, kids clubs and warm Caribbean sand",
+      fr: "All-inclusive famille de classe mondiale : parcs aquatiques géants, clubs enfants et sable caraïbe",
+    },
+    intro: RVM.intro ?? { en: "", fr: "" },
+    whyKids: RVM.whyKids ?? { en: [], fr: [] },
+    bestAreas: RVM.bestAreas ?? { en: [], fr: [] },
+    emoji: RVM.emoji ?? "🌴",
+    accent: RVM.accent ?? "1f9bb5",
+    hotelKeys: [], // populated below
+    related: ["punta-cana", "guide-waterslide-hotels", "guide-family-new-year-sun-2027"],
+    photos: RVM.photos,
+    stats: RVM.stats,
+    activities: RVM.activities,
+    faqs: RVM.faqs,
+    parentTip: RVM.parentTip,
+    goodToKnow: RVM.goodToKnow,
+  },
+  {
+    key: "kefalonia",
+    name: KEF.name ?? { en: "Kefalonia", fr: "Céphalonie" },
+    country: KEF.country ?? { en: "Greece", fr: "Grèce" },
+    inPhrase: { en: "in Kefalonia", fr: "à Céphalonie" },
+    slug: {
+      en: "family-hotels-kefalonia",
+      fr: "hotels-famille-cephalonie",
+    },
+    geo: KEF.geo ?? { lat: 38.2, lng: 20.55, zoom: 10 },
+    heroKicker: KEF.heroKicker ?? {
+      en: "A relaxed, green Ionian island with sandy shallow beaches for little ones",
+      fr: "Une île ionienne verte et tranquille, avec des plages de sable peu profondes pour les petits",
+    },
+    intro: KEF.intro ?? { en: "", fr: "" },
+    whyKids: KEF.whyKids ?? { en: [], fr: [] },
+    bestAreas: KEF.bestAreas ?? { en: [], fr: [] },
+    emoji: KEF.emoji ?? "🏝️",
+    accent: KEF.accent ?? "2bb3c0",
+    hotelKeys: [], // populated below
+    related: ["corfu", "zakynthos", "guide-greece-family"],
+    photos: KEF.photos,
+    stats: KEF.stats,
+    activities: KEF.activities,
+    faqs: KEF.faqs,
+    parentTip: KEF.parentTip,
+    goodToKnow: KEF.goodToKnow,
   },
 ]);
 

@@ -1,0 +1,2532 @@
+{
+  "hotels": [
+    {
+      "key": "kefalonia-mediterranee-lassi",
+      "destinationKey": "kefalonia",
+      "name": "Mediterranee Hotel",
+      "area": {
+        "en": "Lassi",
+        "fr": "Lassi",
+        "it": "Lassi",
+        "de": "Lassi",
+        "es": "Lassi",
+        "pt": "Lassi"
+      },
+      "lat": 38.1625,
+      "lng": 20.4705,
+      "zoom": 12,
+      "address": "Mediterranee Hotel, Lassi, Argostoli, Kefalonia, Greece",
+      "priceTier": 3,
+      "priceFrom": 150,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly",
+        "baby-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "beachSunset",
+        "poolPalms",
+        "deckLoungersSea"
+      ],
+      "scores": {
+        "rooms": 78,
+        "baby": 82,
+        "pool": 84,
+        "dining": 80,
+        "safety": 86,
+        "convenience": 82,
+        "location": 88,
+        "extras": 74
+      },
+      "roomsSummary": {
+        "en": "Garden and sea-view rooms, most sleeping 3 to 4, with family rooms and interconnecting options for parents who want a bit of separation at bedtime.",
+        "fr": "Chambres vue jardin ou vue mer, la plupart pour 3 a 4 personnes, avec des chambres familiales et des options communicantes pour les parents qui veulent un peu de separation au moment du coucher.",
+        "it": "Camere vista giardino o mare, la maggior parte per 3-4 persone, con camere familiari e opzioni comunicanti per i genitori che desiderano un po' di separazione all'ora di andare a letto.",
+        "de": "Zimmer mit Garten- oder Meerblick, die meisten fuer 3 bis 4 Personen, mit Familienzimmern und Verbindungszimmern fuer Eltern, die zur Schlafenszeit etwas Trennung moechten.",
+        "es": "Habitaciones con vistas al jardin o al mar, la mayoria para 3 o 4 personas, con habitaciones familiares y opciones comunicadas para padres que quieren algo de separacion a la hora de dormir.",
+        "pt": "Quartos com vista para o jardim ou para o mar, a maioria para 3 a 4 pessoas, com quartos familiares e opcoes comunicantes para pais que querem alguma separacao a hora de dormir."
+      },
+      "intro": {
+        "en": "The Mediterranee sits right on one of the best sandy beaches in Kefalonia, a soft white-sand bay in Lassi with clear, gently shelving water. A big pool with a separate shallow children's section, sub-tropical gardens and a short walk to Argostoli make it a genuinely easy base for families with little ones.",
+        "fr": "Le Mediterranee donne directement sur l'une des plus belles plages de sable de Cephalonie, une baie de sable blanc a Lassi avec une eau claire qui descend en pente douce. Une grande piscine avec un bassin enfants peu profond a part, des jardins sub-tropicaux et une courte distance jusqu'a Argostoli en font une base vraiment facile pour les familles avec de tout-petits.",
+        "it": "Il Mediterranee si trova proprio su una delle spiagge sabbiose piu belle di Cefalonia, una baia di sabbia bianca a Lassi con acqua limpida e digradante. Una grande piscina con una zona bassa separata per bambini, giardini subtropicali e la breve distanza da Argostoli ne fanno una base davvero comoda per famiglie con i piu piccoli.",
+        "de": "Das Mediterranee liegt direkt an einem der schoensten Sandstraende Kefalonias, einer weissen Sandbucht in Lassi mit klarem, flach abfallendem Wasser. Ein grosser Pool mit separatem flachem Kinderbereich, subtropische Gaerten und der kurze Weg nach Argostoli machen es zu einer wirklich einfachen Basis fuer Familien mit Kleinkindern.",
+        "es": "El Mediterranee se encuentra justo en una de las mejores playas de arena de Cefalonia, una bahia de arena blanca en Lassi con agua clara y de suave pendiente. Una gran piscina con una zona infantil poco profunda aparte, jardines subtropicales y un corto paseo hasta Argostoli lo convierten en una base realmente comoda para familias con los mas pequenos.",
+        "pt": "O Mediterranee fica mesmo numa das melhores praias de areia de Cefalonia, uma baia de areia branca em Lassi com agua limpida e de suave inclinacao. Uma grande piscina com uma zona infantil pouco profunda a parte, jardins subtropicais e a curta distancia ate Argostoli fazem dele uma base verdadeiramente facil para familias com os mais pequenos."
+      },
+      "highlights": {
+        "en": [
+          "Direct access to a soft sandy beach",
+          "Pool with a separate shallow kids section",
+          "Short walk to Argostoli's shops and tavernas",
+          "Gentle, gently shelving water good for first swims"
+        ],
+        "fr": [
+          "Acces direct a une plage de sable fin",
+          "Piscine avec bassin enfants peu profond a part",
+          "Courte marche vers les commerces et tavernes d'Argostoli",
+          "Eau calme en pente douce, ideale pour les premieres baignades"
+        ],
+        "it": [
+          "Accesso diretto a una spiaggia di sabbia fine",
+          "Piscina con zona bassa separata per bambini",
+          "Breve passeggiata verso negozi e taverne di Argostoli",
+          "Acqua calma e digradante, ottima per i primi bagni"
+        ],
+        "de": [
+          "Direkter Zugang zu einem feinen Sandstrand",
+          "Pool mit separatem flachem Kinderbereich",
+          "Kurzer Weg zu Geschaeften und Tavernen von Argostoli",
+          "Ruhiges, flach abfallendes Wasser fuer erste Schwimmversuche"
+        ],
+        "es": [
+          "Acceso directo a una playa de arena fina",
+          "Piscina con zona infantil poco profunda aparte",
+          "Corto paseo hasta las tiendas y tabernas de Argostoli",
+          "Agua tranquila y de suave pendiente para los primeros banos"
+        ],
+        "pt": [
+          "Acesso direto a uma praia de areia fina",
+          "Piscina com zona infantil pouco profunda a parte",
+          "Curta caminhada ate as lojas e tabernas de Argostoli",
+          "Agua calma e de suave inclinacao para os primeiros banhos"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Genuinely sandy, shallow beach on the doorstep",
+          "Separate children's pool section",
+          "Close to Argostoli for supplies and pharmacies",
+          "Long-established hotel used to families"
+        ],
+        "fr": [
+          "Vraie plage de sable peu profonde juste devant",
+          "Bassin enfants a part dans la piscine",
+          "Proche d'Argostoli pour les courses et pharmacies",
+          "Hotel installe de longue date, habitue aux familles"
+        ],
+        "it": [
+          "Vera spiaggia sabbiosa e bassa proprio davanti",
+          "Zona bambini separata in piscina",
+          "Vicino ad Argostoli per spese e farmacie",
+          "Hotel di lunga tradizione, abituato alle famiglie"
+        ],
+        "de": [
+          "Echter, flacher Sandstrand direkt vor der Tuer",
+          "Separater Kinderbereich im Pool",
+          "Nahe Argostoli fuer Einkaeufe und Apotheken",
+          "Langjaehriges, auf Familien eingestelltes Hotel"
+        ],
+        "es": [
+          "Playa de arena poco profunda justo delante",
+          "Zona infantil separada en la piscina",
+          "Cerca de Argostoli para compras y farmacias",
+          "Hotel de larga trayectoria, acostumbrado a familias"
+        ],
+        "pt": [
+          "Praia de areia pouco profunda mesmo a frente",
+          "Zona infantil separada na piscina",
+          "Perto de Argostoli para compras e farmacias",
+          "Hotel de longa data, habituado a familias"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No supervised kids club",
+          "Rooms are comfortable rather than luxurious",
+          "Lassi can get busy in peak August"
+        ],
+        "fr": [
+          "Pas de club enfants encadre",
+          "Chambres confortables plutot que luxueuses",
+          "Lassi peut etre tres frequente en plein mois d'aout"
+        ],
+        "it": [
+          "Nessun miniclub sorvegliato",
+          "Camere confortevoli piuttosto che lussuose",
+          "Lassi puo essere affollata nel pieno di agosto"
+        ],
+        "de": [
+          "Kein betreuter Kinderclub",
+          "Zimmer eher komfortabel als luxurioes",
+          "Lassi kann im Hochsommer im August voll werden"
+        ],
+        "es": [
+          "Sin miniclub supervisado",
+          "Habitaciones comodas mas que lujosas",
+          "Lassi puede llenarse en pleno agosto"
+        ],
+        "pt": [
+          "Sem miniclube supervisionado",
+          "Quartos confortaveis mais do que luxuosos",
+          "Lassi pode ficar cheia em pleno agosto"
+        ]
+      },
+      "verdict": {
+        "en": "The strongest toddler pick on the island: a real sandy shallow beach right outside, a shallow kids pool and Argostoli's practicalities minutes away.",
+        "fr": "Le meilleur choix pour les tout-petits sur l'ile: une vraie plage de sable peu profonde juste devant, un bassin enfants peu profond et les commodites d'Argostoli a quelques minutes.",
+        "it": "La scelta migliore per i piu piccoli sull'isola: una vera spiaggia sabbiosa e bassa proprio davanti, una piscina bassa per bambini e i servizi di Argostoli a pochi minuti.",
+        "de": "Die beste Wahl fuer Kleinkinder auf der Insel: ein echter flacher Sandstrand direkt davor, ein flacher Kinderpool und die Annehmlichkeiten von Argostoli nur Minuten entfernt.",
+        "es": "La mejor opcion para los mas pequenos de la isla: una autentica playa de arena poco profunda justo delante, una piscina infantil poco profunda y las comodidades de Argostoli a pocos minutos.",
+        "pt": "A melhor escolha para os mais pequenos da ilha: uma verdadeira praia de areia pouco profunda mesmo a frente, uma piscina infantil pouco profunda e as comodidades de Argostoli a poucos minutos."
+      },
+      "parentTip": {
+        "en": "Ask for a garden-wing room away from the pool bar if you want quiet nap times, and use the beach in the calm morning hours before the afternoon breeze picks up.",
+        "fr": "Demandez une chambre cote jardin, loin du bar de la piscine, si vous voulez des siestes tranquilles, et profitez de la plage le matin au calme avant que la brise de l'apres-midi ne se leve.",
+        "it": "Chiedete una camera nell'ala giardino, lontano dal pool bar, se volete pisolini tranquilli, e godetevi la spiaggia nelle ore calme del mattino prima che si alzi la brezza pomeridiana.",
+        "de": "Bitten Sie um ein Zimmer im Gartenfluegel abseits der Poolbar, wenn Sie ruhige Schlafenszeiten moechten, und nutzen Sie den Strand in den ruhigen Morgenstunden, bevor die Nachmittagsbrise aufkommt.",
+        "es": "Pedid una habitacion en el ala del jardin, lejos del bar de la piscina, si quereis siestas tranquilas, y aprovechad la playa en las horas tranquilas de la manana antes de que se levante la brisa de la tarde.",
+        "pt": "Pecam um quarto na ala do jardim, longe do bar da piscina, se querem sestas tranquilas, e aproveitem a praia nas horas calmas da manha antes de a brisa da tarde comecar."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage",
+            "it": "Spiaggia",
+            "de": "Strand",
+            "es": "Playa",
+            "pt": "Praia"
+          },
+          "value": {
+            "en": "Sandy, shallow, direct access",
+            "fr": "Sable, peu profonde, acces direct",
+            "it": "Sabbiosa, bassa, accesso diretto",
+            "de": "Sandig, flach, direkter Zugang",
+            "es": "Arena, poco profunda, acceso directo",
+            "pt": "Areia, pouco profunda, acesso direto"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine",
+            "it": "Piscina",
+            "de": "Pool",
+            "es": "Piscina",
+            "pt": "Piscina"
+          },
+          "value": {
+            "en": "Main pool plus shallow kids section",
+            "fr": "Piscine principale et bassin enfants peu profond",
+            "it": "Piscina principale e zona bassa per bambini",
+            "de": "Hauptpool plus flacher Kinderbereich",
+            "es": "Piscina principal y zona infantil poco profunda",
+            "pt": "Piscina principal e zona infantil pouco profunda"
+          }
+        },
+        {
+          "icon": "🛒",
+          "label": {
+            "en": "Town",
+            "fr": "Ville",
+            "it": "Citta",
+            "de": "Stadt",
+            "es": "Ciudad",
+            "pt": "Cidade"
+          },
+          "value": {
+            "en": "Argostoli a short walk or drive",
+            "fr": "Argostoli a courte distance a pied ou en voiture",
+            "it": "Argostoli a breve distanza a piedi o in auto",
+            "de": "Argostoli kurz zu Fuss oder mit dem Auto",
+            "es": "Argostoli a corta distancia a pie o en coche",
+            "pt": "Argostoli a curta distancia a pe ou de carro"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the beach sandy and shallow enough for toddlers?",
+            "fr": "La plage est-elle assez sableuse et peu profonde pour les tout-petits?",
+            "it": "La spiaggia e abbastanza sabbiosa e bassa per i piu piccoli?",
+            "de": "Ist der Strand sandig und flach genug fuer Kleinkinder?",
+            "es": "Es la playa lo bastante de arena y poco profunda para los mas pequenos?",
+            "pt": "A praia e suficientemente de areia e pouco profunda para os mais pequenos?"
+          },
+          "a": {
+            "en": "Yes, the Lassi bay in front of the hotel is soft white sand with clear water that shelves gently, one of the better toddler beaches on Kefalonia.",
+            "fr": "Oui, la baie de Lassi devant l'hotel est en sable blanc et fin avec une eau claire qui descend en pente douce, l'une des meilleures plages pour tout-petits de Cephalonie.",
+            "it": "Si, la baia di Lassi davanti all'hotel e di sabbia bianca e fine con acqua limpida e digradante, una delle spiagge migliori per i piu piccoli a Cefalonia.",
+            "de": "Ja, die Bucht von Lassi vor dem Hotel besteht aus feinem weissem Sand mit klarem, flach abfallendem Wasser, einer der besten Kleinkindstraende Kefalonias.",
+            "es": "Si, la bahia de Lassi frente al hotel es de arena blanca y fina con agua clara y de suave pendiente, una de las mejores playas para los mas pequenos de Cefalonia.",
+            "pt": "Sim, a baia de Lassi em frente ao hotel e de areia branca e fina com agua limpida e de suave inclinacao, uma das melhores praias para os mais pequenos de Cefalonia."
+          }
+        },
+        {
+          "q": {
+            "en": "Do you need a car here?",
+            "fr": "A-t-on besoin d'une voiture ici?",
+            "it": "Serve l'auto qui?",
+            "de": "Braucht man hier ein Auto?",
+            "es": "Hace falta coche aqui?",
+            "pt": "E preciso carro aqui?"
+          },
+          "a": {
+            "en": "Not essential, as Argostoli and Lassi's tavernas are walkable, but a hire car helps for reaching Myrtos viewpoint, Melissani cave and quieter beaches.",
+            "fr": "Pas indispensable, car Argostoli et les tavernes de Lassi sont accessibles a pied, mais une voiture de location aide pour rejoindre le belvedere de Myrtos, la grotte de Melissani et des plages plus calmes.",
+            "it": "Non indispensabile, perche Argostoli e le taverne di Lassi sono raggiungibili a piedi, ma un'auto a noleggio aiuta per il belvedere di Myrtos, la grotta di Melissani e spiagge piu tranquille.",
+            "de": "Nicht zwingend, da Argostoli und die Tavernen von Lassi zu Fuss erreichbar sind, aber ein Mietwagen hilft fuer den Myrtos-Aussichtspunkt, die Melissani-Hoehle und ruhigere Straende.",
+            "es": "No imprescindible, ya que Argostoli y las tabernas de Lassi son accesibles a pie, pero un coche de alquiler ayuda para llegar al mirador de Myrtos, la cueva de Melissani y playas mas tranquilas.",
+            "pt": "Nao indispensavel, pois Argostoli e as tabernas de Lassi sao acessiveis a pe, mas um carro alugado ajuda para o miradouro de Myrtos, a gruta de Melissani e praias mais tranquilas."
+          }
+        }
+      ]
+    },
+    {
+      "key": "kefalonia-white-rocks-platis-gialos",
+      "destinationKey": "kefalonia",
+      "name": "White Rocks Hotel & Bungalows",
+      "area": {
+        "en": "Platis Gialos",
+        "fr": "Platis Gialos",
+        "it": "Platis Gialos",
+        "de": "Platis Gialos",
+        "es": "Platis Gialos",
+        "pt": "Platis Gialos"
+      },
+      "lat": 38.1523,
+      "lng": 20.4782,
+      "zoom": 12,
+      "address": "White Rocks Hotel & Bungalows, Platis Gialos, Kefalonia, Greece",
+      "priceTier": 4,
+      "priceFrom": 190,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly",
+        "baby-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "whiteResortPool",
+        "beachSunset",
+        "deckLoungersSea"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 78,
+        "pool": 82,
+        "dining": 82,
+        "safety": 84,
+        "convenience": 76,
+        "location": 90,
+        "extras": 78
+      },
+      "roomsSummary": {
+        "en": "A choice of main-building rooms and garden bungalows, most sleeping 3 to 4, with connecting and family options set in pine woodland above the beach.",
+        "fr": "Un choix de chambres dans le batiment principal et de bungalows dans le jardin, la plupart pour 3 a 4 personnes, avec options communicantes et familiales nichees dans une pinede au-dessus de la plage.",
+        "it": "Una scelta di camere nell'edificio principale e bungalow nel giardino, la maggior parte per 3-4 persone, con opzioni comunicanti e familiari immerse in una pineta sopra la spiaggia.",
+        "de": "Eine Auswahl an Zimmern im Hauptgebaeude und Gartenbungalows, die meisten fuer 3 bis 4 Personen, mit Verbindungs- und Familienoptionen in einem Pinienwald oberhalb des Strandes.",
+        "es": "Una eleccion de habitaciones en el edificio principal y bungalows en el jardin, la mayoria para 3 o 4 personas, con opciones comunicadas y familiares en un pinar sobre la playa.",
+        "pt": "Uma escolha de quartos no edificio principal e bungalows no jardim, a maioria para 3 a 4 pessoas, com opcoes comunicantes e familiares num pinhal acima da praia."
+      },
+      "intro": {
+        "en": "Set in 50 acres of protected pine forest above the sandy blue-flag beaches of Platis Gialos and Makris Gialos, White Rocks pairs a real sense of space with easy access to two of the island's best family beaches. The gardens, bungalows and private beach make it feel like a proper resort while staying close to Lassi and Argostoli.",
+        "fr": "Installe dans 50 hectares de pinede protegee au-dessus des plages de sable pavillon bleu de Platis Gialos et Makris Gialos, le White Rocks allie un vrai sentiment d'espace a un acces facile a deux des meilleures plages familiales de l'ile. Les jardins, les bungalows et la plage privee donnent l'impression d'un vrai resort, tout en restant proche de Lassi et Argostoli.",
+        "it": "Immerso in 20 ettari di pineta protetta sopra le spiagge sabbiose bandiera blu di Platis Gialos e Makris Gialos, il White Rocks unisce un vero senso di spazio a un facile accesso a due delle migliori spiagge per famiglie dell'isola. Giardini, bungalow e spiaggia privata danno la sensazione di un vero resort, restando vicino a Lassi e Argostoli.",
+        "de": "In 20 Hektar geschuetztem Pinienwald oberhalb der sandigen Blaue-Flagge-Straende von Platis Gialos und Makris Gialos verbindet das White Rocks echtes Raumgefuehl mit einfachem Zugang zu zwei der besten Familienstraende der Insel. Gaerten, Bungalows und der Privatstrand vermitteln das Gefuehl eines richtigen Resorts, bleiben aber nah an Lassi und Argostoli.",
+        "es": "Ubicado en 20 hectareas de pinar protegido sobre las playas de arena con bandera azul de Platis Gialos y Makris Gialos, el White Rocks combina una autentica sensacion de espacio con un facil acceso a dos de las mejores playas familiares de la isla. Jardines, bungalows y playa privada dan la sensacion de un verdadero resort, sin alejarse de Lassi y Argostoli.",
+        "pt": "Situado em 20 hectares de pinhal protegido acima das praias de areia com bandeira azul de Platis Gialos e Makris Gialos, o White Rocks combina uma verdadeira sensacao de espaco com acesso facil a duas das melhores praias familiares da ilha. Jardins, bungalows e praia privada dao a sensacao de um verdadeiro resort, sem se afastar de Lassi e Argostoli."
+      },
+      "highlights": {
+        "en": [
+          "Steps from sandy Platis and Makris Gialos beaches",
+          "Large pine-forest gardens for roaming",
+          "Private beach plus two blue-flag public beaches",
+          "Bungalow rooms with more space for families"
+        ],
+        "fr": [
+          "A deux pas des plages de sable de Platis et Makris Gialos",
+          "Grands jardins de pinede pour se promener",
+          "Plage privee et deux plages publiques pavillon bleu",
+          "Chambres bungalow avec plus d'espace pour les familles"
+        ],
+        "it": [
+          "A pochi passi dalle spiagge sabbiose di Platis e Makris Gialos",
+          "Ampi giardini di pineta per passeggiare",
+          "Spiaggia privata e due spiagge pubbliche bandiera blu",
+          "Bungalow con piu spazio per le famiglie"
+        ],
+        "de": [
+          "Wenige Schritte zu den Sandstraenden Platis und Makris Gialos",
+          "Grosse Pinienwaldgaerten zum Umherstreifen",
+          "Privatstrand plus zwei Blaue-Flagge-Straende",
+          "Bungalowzimmer mit mehr Platz fuer Familien"
+        ],
+        "es": [
+          "A pocos pasos de las playas de arena de Platis y Makris Gialos",
+          "Amplios jardines de pinar para pasear",
+          "Playa privada y dos playas publicas con bandera azul",
+          "Habitaciones bungalow con mas espacio para familias"
+        ],
+        "pt": [
+          "A poucos passos das praias de areia de Platis e Makris Gialos",
+          "Amplos jardins de pinhal para passear",
+          "Praia privada e duas praias publicas com bandeira azul",
+          "Quartos bungalow com mais espaco para familias"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Superb beach location on sandy bays",
+          "Sense of space and greenery",
+          "Both a private and public beach nearby",
+          "Well placed for Lassi and Argostoli day trips"
+        ],
+        "fr": [
+          "Superbe emplacement sur des baies de sable",
+          "Sensation d'espace et de verdure",
+          "Une plage privee et une plage publique a proximite",
+          "Bien place pour les excursions a Lassi et Argostoli"
+        ],
+        "it": [
+          "Splendida posizione su baie sabbiose",
+          "Senso di spazio e verde",
+          "Spiaggia privata e pubblica nelle vicinanze",
+          "Ben posizionato per gite a Lassi e Argostoli"
+        ],
+        "de": [
+          "Herrliche Strandlage an Sandbuchten",
+          "Gefuehl von Weite und Gruen",
+          "Privat- und oeffentlicher Strand in der Naehe",
+          "Guter Ausgangspunkt fuer Ausfluege nach Lassi und Argostoli"
+        ],
+        "es": [
+          "Magnifica ubicacion en bahias de arena",
+          "Sensacion de espacio y verdor",
+          "Playa privada y publica cerca",
+          "Bien situado para excursiones a Lassi y Argostoli"
+        ],
+        "pt": [
+          "Otima localizacao em baias de areia",
+          "Sensacao de espaco e verdura",
+          "Praia privada e publica nas proximidades",
+          "Bem situado para passeios a Lassi e Argostoli"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No supervised kids club",
+          "Some steps and slopes down to the beach",
+          "Older-style decor in parts of the resort"
+        ],
+        "fr": [
+          "Pas de club enfants encadre",
+          "Quelques marches et pentes pour descendre a la plage",
+          "Decoration plus ancienne dans certaines parties du resort"
+        ],
+        "it": [
+          "Nessun miniclub sorvegliato",
+          "Alcuni gradini e pendenze per scendere in spiaggia",
+          "Arredi in stile piu datato in alcune parti del resort"
+        ],
+        "de": [
+          "Kein betreuter Kinderclub",
+          "Einige Stufen und Gefaelle zum Strand hinunter",
+          "Aeltere Einrichtung in Teilen des Resorts"
+        ],
+        "es": [
+          "Sin miniclub supervisado",
+          "Algunos escalones y pendientes para bajar a la playa",
+          "Decoracion mas antigua en partes del complejo"
+        ],
+        "pt": [
+          "Sem miniclube supervisionado",
+          "Alguns degraus e inclinacoes para descer a praia",
+          "Decoracao mais antiga em partes do resort"
+        ]
+      },
+      "verdict": {
+        "en": "A green, spacious base right by two of Kefalonia's best sandy family beaches, ideal if you want beach days over a busy resort programme.",
+        "fr": "Une base verte et spacieuse juste a cote de deux des meilleures plages familiales de sable de Cephalonie, ideale si vous privilegiez les journees plage a un programme de resort charge.",
+        "it": "Una base verde e spaziosa proprio accanto a due delle migliori spiagge sabbiose per famiglie di Cefalonia, ideale se preferite giornate di mare a un fitto programma di resort.",
+        "de": "Eine gruene, geraeumige Basis direkt an zwei der besten Sandfamilienstraende Kefalonias, ideal, wenn Sie Strandtage einem vollen Resortprogramm vorziehen.",
+        "es": "Una base verde y espaciosa junto a dos de las mejores playas familiares de arena de Cefalonia, ideal si prefieres dias de playa a un programa de resort cargado.",
+        "pt": "Uma base verde e espacosa mesmo ao lado de duas das melhores praias familiares de areia de Cefalonia, ideal se preferes dias de praia a um programa de resort intenso."
+      },
+      "parentTip": {
+        "en": "Book a garden bungalow for the extra space and quieter nights, and use the public Makris Gialos beach for the widest stretch of shallow sand for the kids.",
+        "fr": "Reservez un bungalow dans le jardin pour l'espace supplementaire et des nuits plus calmes, et privilegiez la plage publique de Makris Gialos pour la plus large etendue de sable peu profond pour les enfants.",
+        "it": "Prenotate un bungalow nel giardino per lo spazio extra e notti piu tranquille, e usate la spiaggia pubblica di Makris Gialos per la distesa piu ampia di sabbia bassa per i bambini.",
+        "de": "Buchen Sie einen Gartenbungalow fuer mehr Platz und ruhigere Naechte, und nutzen Sie den oeffentlichen Strand Makris Gialos fuer den breitesten flachen Sandstreifen fuer die Kinder.",
+        "es": "Reservad un bungalow en el jardin por el espacio extra y noches mas tranquilas, y usad la playa publica de Makris Gialos por su amplia franja de arena poco profunda para los ninos.",
+        "pt": "Reservem um bungalow no jardim pelo espaco extra e noites mais tranquilas, e usem a praia publica de Makris Gialos pela larga faixa de areia pouco profunda para as criancas."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage",
+            "it": "Spiaggia",
+            "de": "Strand",
+            "es": "Playa",
+            "pt": "Praia"
+          },
+          "value": {
+            "en": "Sandy Platis and Makris Gialos",
+            "fr": "Sable a Platis et Makris Gialos",
+            "it": "Sabbia a Platis e Makris Gialos",
+            "de": "Sand an Platis und Makris Gialos",
+            "es": "Arena en Platis y Makris Gialos",
+            "pt": "Areia em Platis e Makris Gialos"
+          }
+        },
+        {
+          "icon": "🌲",
+          "label": {
+            "en": "Grounds",
+            "fr": "Domaine",
+            "it": "Parco",
+            "de": "Anlage",
+            "es": "Terreno",
+            "pt": "Terreno"
+          },
+          "value": {
+            "en": "50 acres of pine forest",
+            "fr": "50 hectares de pinede",
+            "it": "20 ettari di pineta",
+            "de": "20 Hektar Pinienwald",
+            "es": "20 hectareas de pinar",
+            "pt": "20 hectares de pinhal"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine",
+            "it": "Piscina",
+            "de": "Pool",
+            "es": "Piscina",
+            "pt": "Piscina"
+          },
+          "value": {
+            "en": "Outdoor pool in the gardens",
+            "fr": "Piscine exterieure dans les jardins",
+            "it": "Piscina esterna nei giardini",
+            "de": "Aussenpool in den Gaerten",
+            "es": "Piscina exterior en los jardines",
+            "pt": "Piscina exterior nos jardins"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Which beach is best for young children?",
+            "fr": "Quelle plage convient le mieux aux jeunes enfants?",
+            "it": "Quale spiaggia e la migliore per i bambini piccoli?",
+            "de": "Welcher Strand ist am besten fuer kleine Kinder?",
+            "es": "Que playa es mejor para ninos pequenos?",
+            "pt": "Qual praia e melhor para criancas pequenas?"
+          },
+          "a": {
+            "en": "Makris Gialos is the wider, sandier public beach with sunbeds and shallow entry, ideal for toddlers, while Platis Gialos is smaller and closer to the hotel.",
+            "fr": "Makris Gialos est la plage publique la plus large et la plus sableuse, avec transats et entree peu profonde, ideale pour les tout-petits, tandis que Platis Gialos est plus petite et plus proche de l'hotel.",
+            "it": "Makris Gialos e la spiaggia pubblica piu ampia e sabbiosa, con lettini ed entrata bassa, ideale per i piu piccoli, mentre Platis Gialos e piu piccola e vicina all'hotel.",
+            "de": "Makris Gialos ist der breitere, sandigere oeffentliche Strand mit Liegen und flachem Einstieg, ideal fuer Kleinkinder, waehrend Platis Gialos kleiner und naeher am Hotel liegt.",
+            "es": "Makris Gialos es la playa publica mas amplia y arenosa, con tumbonas y entrada poco profunda, ideal para los mas pequenos, mientras que Platis Gialos es mas pequena y cercana al hotel.",
+            "pt": "Makris Gialos e a praia publica mais ampla e de areia, com espreguicadeiras e entrada pouco profunda, ideal para os mais pequenos, enquanto Platis Gialos e mais pequena e proxima do hotel."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it walkable to restaurants?",
+            "fr": "Peut-on rejoindre les restaurants a pied?",
+            "it": "Si raggiungono i ristoranti a piedi?",
+            "de": "Sind Restaurants zu Fuss erreichbar?",
+            "es": "Se puede llegar a pie a los restaurantes?",
+            "pt": "Da para ir a pe aos restaurantes?"
+          },
+          "a": {
+            "en": "There are tavernas near the beaches, but Lassi's main strip and Argostoli are a short taxi or drive, so a hire car is handy for evenings out.",
+            "fr": "Il y a des tavernes pres des plages, mais l'axe principal de Lassi et Argostoli se rejoignent en taxi ou en voiture, donc une voiture de location est pratique pour les soirees.",
+            "it": "Ci sono taverne vicino alle spiagge, ma la zona principale di Lassi e Argostoli si raggiungono in taxi o in auto, quindi un'auto a noleggio e comoda per le serate.",
+            "de": "In Strandnaehe gibt es Tavernen, aber die Hauptmeile von Lassi und Argostoli erreicht man per Taxi oder Auto, ein Mietwagen ist fuer Abende praktisch.",
+            "es": "Hay tabernas cerca de las playas, pero la zona principal de Lassi y Argostoli quedan a un taxi o coche, asi que un coche de alquiler viene bien para las noches.",
+            "pt": "Ha tabernas perto das praias, mas a zona principal de Lassi e Argostoli ficam a um taxi ou carro, por isso um carro alugado da jeito para as noites."
+          }
+        }
+      ]
+    },
+    {
+      "key": "kefalonia-apostolata-skala",
+      "destinationKey": "kefalonia",
+      "name": "Louis Apostolata Island Resort & Spa",
+      "area": {
+        "en": "Skala",
+        "fr": "Skala",
+        "it": "Skala",
+        "de": "Skala",
+        "es": "Skala",
+        "pt": "Skala"
+      },
+      "lat": 38.0722,
+      "lng": 20.7758,
+      "zoom": 12,
+      "address": "Louis Apostolata Island Resort & Spa, Skala, Kefalonia, Greece",
+      "priceTier": 4,
+      "priceFrom": 200,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly",
+        "baby-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "poolTropicalMtn",
+        "resortLoungers",
+        "coastTown"
+      ],
+      "scores": {
+        "rooms": 84,
+        "baby": 80,
+        "pool": 86,
+        "dining": 84,
+        "safety": 82,
+        "convenience": 74,
+        "location": 82,
+        "extras": 84
+      },
+      "roomsSummary": {
+        "en": "Open-plan family rooms of around 37 square metres with sea views, most sleeping up to 4 with a double bed plus extra beds, in a large hillside all-inclusive resort.",
+        "fr": "Chambres familiales ouvertes d'environ 37 metres carres avec vue mer, la plupart pour 4 personnes avec un lit double et des lits supplementaires, dans un grand resort tout compris a flanc de colline.",
+        "it": "Camere familiari open space di circa 37 metri quadrati con vista mare, la maggior parte per 4 persone con letto matrimoniale e letti aggiuntivi, in un grande resort all inclusive sulla collina.",
+        "de": "Offene Familienzimmer von rund 37 Quadratmetern mit Meerblick, die meisten fuer 4 Personen mit Doppelbett und Zusatzbetten, in einem grossen All-inclusive-Resort am Hang.",
+        "es": "Habitaciones familiares abiertas de unos 37 metros cuadrados con vistas al mar, la mayoria para 4 personas con cama doble y camas adicionales, en un gran resort todo incluido en la ladera.",
+        "pt": "Quartos familiares open space de cerca de 37 metros quadrados com vista de mar, a maioria para 4 pessoas com cama de casal e camas extra, num grande resort tudo incluido na encosta."
+      },
+      "intro": {
+        "en": "Perched on a hillside above Skala on the green south-east coast, this large all-inclusive resort is built around families: a dedicated children's seawater pool, a playground, high chairs and baby cots, plus a spa and pools for parents. Skala's long sand-and-shingle beach and village are a free shuttle ride away.",
+        "fr": "Perche sur une colline au-dessus de Skala, sur la cote sud-est verdoyante, ce grand resort tout compris est pense pour les familles: un bassin enfants d'eau de mer dedie, une aire de jeux, des chaises hautes et des lits bebe, ainsi qu'un spa et des piscines pour les parents. La longue plage de sable et galets de Skala et le village sont a une navette gratuite.",
+        "it": "Arroccato su una collina sopra Skala, sulla verdeggiante costa sud-orientale, questo grande resort all inclusive e pensato per le famiglie: una piscina di acqua di mare dedicata ai bambini, un'area giochi, seggioloni e culle, oltre a una spa e piscine per i genitori. La lunga spiaggia di sabbia e ghiaia di Skala e il villaggio sono raggiungibili con una navetta gratuita.",
+        "de": "Auf einem Huegel oberhalb von Skala an der gruenen Suedostkueste gelegen, ist dieses grosse All-inclusive-Resort auf Familien ausgerichtet: ein eigener Meerwasser-Kinderpool, ein Spielplatz, Hochstuehle und Babybetten sowie ein Spa und Pools fuer die Eltern. Der lange Sand-Kies-Strand von Skala und das Dorf sind mit einem kostenlosen Shuttle erreichbar.",
+        "es": "Encaramado en una colina sobre Skala, en la verde costa sureste, este gran resort todo incluido esta pensado para familias: una piscina de agua de mar dedicada a los ninos, un parque infantil, tronas y cunas, ademas de un spa y piscinas para los padres. La larga playa de arena y grava de Skala y el pueblo estan a un traslado gratuito.",
+        "pt": "Empoleirado numa colina acima de Skala, na verde costa sudeste, este grande resort tudo incluido foi pensado para familias: uma piscina de agua do mar dedicada as criancas, um parque infantil, cadeiras altas e bercos, alem de um spa e piscinas para os pais. A longa praia de areia e cascalho de Skala e a aldeia ficam a um transporte gratuito."
+      },
+      "highlights": {
+        "en": [
+          "Dedicated children's seawater pool and playground",
+          "All-inclusive with several restaurants and bars",
+          "Spa, gym and tennis for the grown-ups",
+          "Free shuttle to Skala and Poros"
+        ],
+        "fr": [
+          "Bassin enfants d'eau de mer et aire de jeux dedies",
+          "Tout compris avec plusieurs restaurants et bars",
+          "Spa, salle de sport et tennis pour les adultes",
+          "Navette gratuite vers Skala et Poros"
+        ],
+        "it": [
+          "Piscina di acqua di mare per bambini e area giochi dedicate",
+          "All inclusive con vari ristoranti e bar",
+          "Spa, palestra e tennis per gli adulti",
+          "Navetta gratuita per Skala e Poros"
+        ],
+        "de": [
+          "Eigener Meerwasser-Kinderpool und Spielplatz",
+          "All inclusive mit mehreren Restaurants und Bars",
+          "Spa, Fitnessstudio und Tennis fuer Erwachsene",
+          "Kostenloser Shuttle nach Skala und Poros"
+        ],
+        "es": [
+          "Piscina de agua de mar infantil y parque infantil dedicados",
+          "Todo incluido con varios restaurantes y bares",
+          "Spa, gimnasio y tenis para los adultos",
+          "Traslado gratuito a Skala y Poros"
+        ],
+        "pt": [
+          "Piscina de agua do mar infantil e parque infantil dedicados",
+          "Tudo incluido com varios restaurantes e bares",
+          "Spa, ginasio e tenis para os adultos",
+          "Transporte gratuito para Skala e Poros"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Genuine family focus with kids pool and playground",
+          "All-inclusive simplicity for the week",
+          "Good spread of dining and evening entertainment",
+          "Big pools and sea views from most rooms"
+        ],
+        "fr": [
+          "Vraie orientation famille avec bassin enfants et aire de jeux",
+          "Simplicite du tout compris pour la semaine",
+          "Bonne offre de restaurants et d'animation en soiree",
+          "Grandes piscines et vue mer depuis la plupart des chambres"
+        ],
+        "it": [
+          "Vera attenzione alle famiglie con piscina per bambini e area giochi",
+          "Semplicita dell'all inclusive per la settimana",
+          "Buona offerta di ristoranti e intrattenimento serale",
+          "Grandi piscine e vista mare dalla maggior parte delle camere"
+        ],
+        "de": [
+          "Echte Familienausrichtung mit Kinderpool und Spielplatz",
+          "Einfachheit des All-inclusive fuer die Woche",
+          "Gutes Angebot an Restaurants und Abendunterhaltung",
+          "Grosse Pools und Meerblick aus den meisten Zimmern"
+        ],
+        "es": [
+          "Autentico enfoque familiar con piscina infantil y parque",
+          "Sencillez del todo incluido para la semana",
+          "Buena oferta de restaurantes y animacion nocturna",
+          "Grandes piscinas y vistas al mar desde la mayoria de habitaciones"
+        ],
+        "pt": [
+          "Verdadeiro foco familiar com piscina infantil e parque",
+          "Simplicidade do tudo incluido para a semana",
+          "Boa oferta de restaurantes e animacao noturna",
+          "Grandes piscinas e vista de mar da maioria dos quartos"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Hillside setting means the beach is a shuttle or drive away",
+          "Large resort can feel busy in peak season",
+          "Some steps and slopes around the grounds"
+        ],
+        "fr": [
+          "Emplacement en colline: la plage necessite une navette ou la voiture",
+          "Grand resort qui peut sembler charge en haute saison",
+          "Quelques marches et pentes dans le domaine"
+        ],
+        "it": [
+          "Posizione collinare: la spiaggia richiede navetta o auto",
+          "Grande resort che puo risultare affollato in alta stagione",
+          "Alcuni gradini e pendenze nella struttura"
+        ],
+        "de": [
+          "Hanglage: der Strand ist per Shuttle oder Auto erreichbar",
+          "Grosses Resort kann in der Hochsaison voll wirken",
+          "Einige Stufen und Gefaelle auf dem Gelaende"
+        ],
+        "es": [
+          "Ubicacion en la ladera: la playa queda a un traslado o coche",
+          "Gran resort que puede sentirse concurrido en temporada alta",
+          "Algunos escalones y pendientes por el recinto"
+        ],
+        "pt": [
+          "Localizacao na encosta: a praia fica a um transporte ou carro",
+          "Grande resort que pode parecer cheio na epoca alta",
+          "Alguns degraus e inclinacoes pelo recinto"
+        ]
+      },
+      "verdict": {
+        "en": "The most complete all-inclusive family package on this side of the island, best for families who want a kids pool, playground and full board over being right on the sand.",
+        "fr": "Le forfait familial tout compris le plus complet de ce cote de l'ile, ideal pour les familles qui veulent un bassin enfants, une aire de jeux et la pension complete plutot que d'etre directement sur le sable.",
+        "it": "Il pacchetto familiare all inclusive piu completo di questo lato dell'isola, ideale per famiglie che vogliono piscina per bambini, area giochi e pensione completa piu che stare proprio sulla sabbia.",
+        "de": "Das kompletteste All-inclusive-Familienpaket auf dieser Inselseite, ideal fuer Familien, die Kinderpool, Spielplatz und Vollpension einem Platz direkt am Sand vorziehen.",
+        "es": "El paquete familiar todo incluido mas completo de este lado de la isla, ideal para familias que quieren piscina infantil, parque y pension completa mas que estar justo en la arena.",
+        "pt": "O pacote familiar tudo incluido mais completo deste lado da ilha, ideal para familias que querem piscina infantil, parque e pensao completa em vez de estar mesmo na areia."
+      },
+      "parentTip": {
+        "en": "Take the free shuttle down to Skala for beach mornings and use the children's seawater pool in the hotter afternoons when the hill can be exposed to sun.",
+        "fr": "Prenez la navette gratuite jusqu'a Skala pour les matinees plage et utilisez le bassin enfants d'eau de mer l'apres-midi quand la colline peut etre tres exposee au soleil.",
+        "it": "Prendete la navetta gratuita fino a Skala per le mattinate in spiaggia e usate la piscina di acqua di mare per bambini nei pomeriggi piu caldi, quando la collina puo essere molto esposta al sole.",
+        "de": "Nehmen Sie den kostenlosen Shuttle hinunter nach Skala fuer Strandvormittage und nutzen Sie den Meerwasser-Kinderpool an heisseren Nachmittagen, wenn der Huegel stark der Sonne ausgesetzt ist.",
+        "es": "Coged el traslado gratuito hasta Skala para las mananas de playa y usad la piscina infantil de agua de mar en las tardes mas calurosas, cuando la ladera puede estar muy expuesta al sol.",
+        "pt": "Apanhem o transporte gratuito ate Skala para as manhas de praia e usem a piscina infantil de agua do mar nas tardes mais quentes, quando a encosta pode estar muito exposta ao sol."
+      },
+      "atAGlance": [
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "For kids",
+            "fr": "Pour les enfants",
+            "it": "Per i bambini",
+            "de": "Fuer Kinder",
+            "es": "Para ninos",
+            "pt": "Para criancas"
+          },
+          "value": {
+            "en": "Seawater kids pool and playground",
+            "fr": "Bassin enfants d'eau de mer et aire de jeux",
+            "it": "Piscina bimbi di acqua di mare e area giochi",
+            "de": "Meerwasser-Kinderpool und Spielplatz",
+            "es": "Piscina infantil de agua de mar y parque",
+            "pt": "Piscina infantil de agua do mar e parque"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Pension",
+            "it": "Trattamento",
+            "de": "Verpflegung",
+            "es": "Regimen",
+            "pt": "Regime"
+          },
+          "value": {
+            "en": "All-inclusive",
+            "fr": "Tout compris",
+            "it": "All inclusive",
+            "de": "All inclusive",
+            "es": "Todo incluido",
+            "pt": "Tudo incluido"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage",
+            "it": "Spiaggia",
+            "de": "Strand",
+            "es": "Playa",
+            "pt": "Praia"
+          },
+          "value": {
+            "en": "Skala sand and shingle by shuttle",
+            "fr": "Sable et galets de Skala en navette",
+            "it": "Sabbia e ghiaia di Skala in navetta",
+            "de": "Skala Sand und Kies per Shuttle",
+            "es": "Arena y grava de Skala en traslado",
+            "pt": "Areia e cascalho de Skala em transporte"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the beach right below the hotel?",
+            "fr": "La plage est-elle juste en contrebas de l'hotel?",
+            "it": "La spiaggia e proprio sotto l'hotel?",
+            "de": "Liegt der Strand direkt unterhalb des Hotels?",
+            "es": "Esta la playa justo debajo del hotel?",
+            "pt": "A praia fica mesmo por baixo do hotel?"
+          },
+          "a": {
+            "en": "No, the resort sits on a hill, so Skala's long sand-and-shingle beach is reached by the free shuttle or a short drive, which suits some families more than others.",
+            "fr": "Non, le resort est sur une colline, la longue plage de sable et galets de Skala se rejoint donc par la navette gratuite ou une courte voiture, ce qui convient plus a certaines familles qu'a d'autres.",
+            "it": "No, il resort e su una collina, quindi la lunga spiaggia di sabbia e ghiaia di Skala si raggiunge con la navetta gratuita o una breve auto, cosa che si adatta piu ad alcune famiglie che ad altre.",
+            "de": "Nein, das Resort liegt auf einem Huegel, der lange Sand-Kies-Strand von Skala ist per kostenlosem Shuttle oder kurzer Fahrt erreichbar, was manchen Familien mehr zusagt als anderen.",
+            "es": "No, el resort esta en una colina, asi que la larga playa de arena y grava de Skala se alcanza con el traslado gratuito o un corto trayecto, lo que conviene mas a unas familias que a otras.",
+            "pt": "Nao, o resort fica numa colina, por isso a longa praia de areia e cascalho de Skala alcanca-se com o transporte gratuito ou um curto trajeto, o que agrada mais a umas familias do que a outras."
+          }
+        },
+        {
+          "q": {
+            "en": "Are there facilities for babies and toddlers?",
+            "fr": "Y a-t-il des equipements pour bebes et tout-petits?",
+            "it": "Ci sono servizi per neonati e piu piccoli?",
+            "de": "Gibt es Einrichtungen fuer Babys und Kleinkinder?",
+            "es": "Hay instalaciones para bebes y ninos pequenos?",
+            "pt": "Ha instalacoes para bebes e criancas pequenas?"
+          },
+          "a": {
+            "en": "Yes, the resort offers baby cots, high chairs, a shallow children's seawater pool and a playground, making it practical for families with very young children.",
+            "fr": "Oui, le resort propose lits bebe, chaises hautes, un bassin enfants d'eau de mer peu profond et une aire de jeux, ce qui le rend pratique pour les familles avec de tres jeunes enfants.",
+            "it": "Si, il resort offre culle, seggioloni, una piscina bassa di acqua di mare per bambini e un'area giochi, risultando pratico per famiglie con bambini molto piccoli.",
+            "de": "Ja, das Resort bietet Babybetten, Hochstuehle, einen flachen Meerwasser-Kinderpool und einen Spielplatz und ist damit praktisch fuer Familien mit sehr kleinen Kindern.",
+            "es": "Si, el resort ofrece cunas, tronas, una piscina infantil de agua de mar poco profunda y un parque, lo que resulta practico para familias con ninos muy pequenos.",
+            "pt": "Sim, o resort oferece bercos, cadeiras altas, uma piscina infantil de agua do mar pouco profunda e um parque, tornando-se pratico para familias com criancas muito pequenas."
+          }
+        }
+      ]
+    },
+    {
+      "key": "kefalonia-tara-beach-skala",
+      "destinationKey": "kefalonia",
+      "name": "Tara Beach Hotel",
+      "area": {
+        "en": "Skala",
+        "fr": "Skala",
+        "it": "Skala",
+        "de": "Skala",
+        "es": "Skala",
+        "pt": "Skala"
+      },
+      "lat": 38.0565,
+      "lng": 20.7952,
+      "zoom": 12,
+      "address": "Tara Beach Hotel, Skala, Kefalonia, Greece",
+      "priceTier": 2,
+      "priceFrom": 110,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly",
+        "self-catering"
+      ],
+      "clubFree": false,
+      "photos": [
+        "poolCabanas",
+        "beachSunset",
+        "coastTown"
+      ],
+      "scores": {
+        "rooms": 72,
+        "baby": 74,
+        "pool": 78,
+        "dining": 74,
+        "safety": 84,
+        "convenience": 86,
+        "location": 88,
+        "extras": 68
+      },
+      "roomsSummary": {
+        "en": "Simple, well-kept standard, triple and family rooms in gardens of lemon trees and bougainvillea, most sleeping 3 to 4, a short walk from the beach and Skala village.",
+        "fr": "Chambres standard, triples et familiales simples et bien tenues, dans des jardins de citronniers et de bougainvilliers, la plupart pour 3 a 4 personnes, a courte distance de la plage et du village de Skala.",
+        "it": "Camere standard, triple e familiari semplici e ben tenute, in giardini di limoni e bouganville, la maggior parte per 3-4 persone, a breve distanza dalla spiaggia e dal paese di Skala.",
+        "de": "Einfache, gepflegte Standard-, Dreibett- und Familienzimmer in Gaerten mit Zitronenbaeumen und Bougainvillea, die meisten fuer 3 bis 4 Personen, kurzer Weg zum Strand und zum Dorf Skala.",
+        "es": "Habitaciones estandar, triples y familiares sencillas y bien cuidadas, en jardines de limoneros y buganvillas, la mayoria para 3 o 4 personas, a corta distancia de la playa y del pueblo de Skala.",
+        "pt": "Quartos standard, triplos e familiares simples e bem cuidados, em jardins de limoeiros e buganvilias, a maioria para 3 a 4 pessoas, a curta distancia da praia e da aldeia de Skala."
+      },
+      "intro": {
+        "en": "A friendly, family-owned hotel right across from Skala's long sandy beach, with a good-sized pool, lemon-tree gardens and the village tavernas five minutes' walk away. It is relaxed, affordable and well placed for families who want the beach and shops within toddler-friendly reach.",
+        "fr": "Un hotel familial et chaleureux juste en face de la longue plage de sable de Skala, avec une piscine de bonne taille, des jardins de citronniers et les tavernes du village a cinq minutes a pied. Detendu, abordable et bien place pour les familles qui veulent la plage et les commerces a portee de tout-petits.",
+        "it": "Un hotel accogliente a conduzione familiare proprio di fronte alla lunga spiaggia sabbiosa di Skala, con una piscina di buone dimensioni, giardini di limoni e le taverne del paese a cinque minuti a piedi. Rilassato, conveniente e ben posizionato per famiglie che vogliono spiaggia e negozi a portata di piccoli.",
+        "de": "Ein freundliches, familiengefuehrtes Hotel direkt gegenueber dem langen Sandstrand von Skala, mit einem gut dimensionierten Pool, Zitronengaerten und den Dorftavernen fuenf Gehminuten entfernt. Entspannt, guenstig und gut gelegen fuer Familien, die Strand und Geschaefte in kleinkindgerechter Reichweite moechten.",
+        "es": "Un hotel acogedor de gestion familiar justo enfrente de la larga playa de arena de Skala, con una piscina de buen tamano, jardines de limoneros y las tabernas del pueblo a cinco minutos a pie. Relajado, asequible y bien situado para familias que quieren la playa y las tiendas al alcance de los mas pequenos.",
+        "pt": "Um hotel acolhedor de gestao familiar mesmo em frente a longa praia de areia de Skala, com uma piscina de bom tamanho, jardins de limoeiros e as tabernas da aldeia a cinco minutos a pe. Descontraido, acessivel e bem situado para familias que querem a praia e as lojas ao alcance dos mais pequenos."
+      },
+      "highlights": {
+        "en": [
+          "Opposite Skala's long sandy beach",
+          "Good-sized pool with sunbeds and pool bar",
+          "Five-minute walk to village shops and tavernas",
+          "Affordable, relaxed family base"
+        ],
+        "fr": [
+          "En face de la longue plage de sable de Skala",
+          "Piscine de bonne taille avec transats et bar",
+          "Cinq minutes a pied des commerces et tavernes du village",
+          "Base familiale abordable et detendue"
+        ],
+        "it": [
+          "Di fronte alla lunga spiaggia sabbiosa di Skala",
+          "Piscina di buone dimensioni con lettini e bar",
+          "Cinque minuti a piedi da negozi e taverne del paese",
+          "Base familiare conveniente e rilassata"
+        ],
+        "de": [
+          "Gegenueber dem langen Sandstrand von Skala",
+          "Gut dimensionierter Pool mit Liegen und Poolbar",
+          "Fuenf Gehminuten zu Dorfgeschaeften und Tavernen",
+          "Guenstige, entspannte Familienbasis"
+        ],
+        "es": [
+          "Frente a la larga playa de arena de Skala",
+          "Piscina de buen tamano con tumbonas y bar",
+          "Cinco minutos a pie de tiendas y tabernas del pueblo",
+          "Base familiar asequible y relajada"
+        ],
+        "pt": [
+          "Em frente a longa praia de areia de Skala",
+          "Piscina de bom tamanho com espreguicadeiras e bar",
+          "Cinco minutos a pe de lojas e tabernas da aldeia",
+          "Base familiar acessivel e descontraida"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Sandy beach and village both walkable",
+          "Warm family-run service",
+          "Good value for a beach location",
+          "Easy, low-stress base with little ones"
+        ],
+        "fr": [
+          "Plage de sable et village accessibles a pied",
+          "Service familial chaleureux",
+          "Bon rapport qualite-prix pour un emplacement plage",
+          "Base facile et sans stress avec de tout-petits"
+        ],
+        "it": [
+          "Spiaggia sabbiosa e paese raggiungibili a piedi",
+          "Servizio caloroso a conduzione familiare",
+          "Buon rapporto qualita-prezzo per una posizione al mare",
+          "Base facile e senza stress con i piu piccoli"
+        ],
+        "de": [
+          "Sandstrand und Dorf beide zu Fuss erreichbar",
+          "Herzlicher familiengefuehrter Service",
+          "Gutes Preis-Leistungs-Verhaeltnis fuer Strandlage",
+          "Einfache, stressfreie Basis mit Kleinkindern"
+        ],
+        "es": [
+          "Playa de arena y pueblo accesibles a pie",
+          "Servicio calido de gestion familiar",
+          "Buena relacion calidad-precio para una ubicacion de playa",
+          "Base facil y sin estres con los mas pequenos"
+        ],
+        "pt": [
+          "Praia de areia e aldeia acessiveis a pe",
+          "Servico caloroso de gestao familiar",
+          "Boa relacao qualidade-preco para uma localizacao de praia",
+          "Base facil e sem stress com os mais pequenos"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Simple rooms without resort extras",
+          "No kids club",
+          "Skala village can be lively in high season"
+        ],
+        "fr": [
+          "Chambres simples sans extras de resort",
+          "Pas de club enfants",
+          "Le village de Skala peut etre anime en haute saison"
+        ],
+        "it": [
+          "Camere semplici senza extra da resort",
+          "Nessun miniclub",
+          "Il paese di Skala puo essere vivace in alta stagione"
+        ],
+        "de": [
+          "Einfache Zimmer ohne Resort-Extras",
+          "Kein Kinderclub",
+          "Das Dorf Skala kann in der Hochsaison lebhaft sein"
+        ],
+        "es": [
+          "Habitaciones sencillas sin extras de resort",
+          "Sin miniclub",
+          "El pueblo de Skala puede ser animado en temporada alta"
+        ],
+        "pt": [
+          "Quartos simples sem extras de resort",
+          "Sem miniclube",
+          "A aldeia de Skala pode ser animada na epoca alta"
+        ]
+      },
+      "verdict": {
+        "en": "A great-value, walkable choice for families: sandy Skala beach across the road and the village on the doorstep, with none of the resort fuss.",
+        "fr": "Un choix familial abordable et pietonnier: la plage de sable de Skala en face et le village a deux pas, sans le tumulte d'un resort.",
+        "it": "Una scelta familiare conveniente e pedonale: la spiaggia sabbiosa di Skala di fronte e il paese a due passi, senza il trambusto di un resort.",
+        "de": "Eine preiswerte, fussgaengerfreundliche Wahl fuer Familien: der Sandstrand von Skala gegenueber und das Dorf direkt vor der Tuer, ganz ohne Resorttrubel.",
+        "es": "Una eleccion familiar economica y peatonal: la playa de arena de Skala enfrente y el pueblo al lado, sin el ajetreo de un resort.",
+        "pt": "Uma escolha familiar economica e percorrivel a pe: a praia de areia de Skala em frente e a aldeia ao lado, sem a agitacao de um resort."
+      },
+      "parentTip": {
+        "en": "Skala beach is long and sandy but the water can deepen with a shelf in parts, so keep little swimmers to the shallow northern end near the village.",
+        "fr": "La plage de Skala est longue et sableuse, mais l'eau peut se creuser par endroits, alors gardez les petits nageurs vers l'extremite nord peu profonde, pres du village.",
+        "it": "La spiaggia di Skala e lunga e sabbiosa, ma in alcuni punti l'acqua puo diventare piu profonda, quindi tenete i piccoli nuotatori verso l'estremita nord bassa, vicino al paese.",
+        "de": "Der Strand von Skala ist lang und sandig, aber das Wasser kann stellenweise tiefer werden, halten Sie kleine Schwimmer daher am flachen noerdlichen Ende nahe dem Dorf.",
+        "es": "La playa de Skala es larga y de arena, pero en algunos tramos el agua puede hacerse mas profunda, asi que mantened a los pequenos nadadores en el extremo norte poco profundo, cerca del pueblo.",
+        "pt": "A praia de Skala e longa e de areia, mas em alguns pontos a agua pode ficar mais funda, por isso mantenham os pequenos nadadores na extremidade norte pouco profunda, perto da aldeia."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage",
+            "it": "Spiaggia",
+            "de": "Strand",
+            "es": "Playa",
+            "pt": "Praia"
+          },
+          "value": {
+            "en": "Sandy Skala beach across the road",
+            "fr": "Plage de sable de Skala en face",
+            "it": "Spiaggia sabbiosa di Skala di fronte",
+            "de": "Sandstrand von Skala gegenueber",
+            "es": "Playa de arena de Skala enfrente",
+            "pt": "Praia de areia de Skala em frente"
+          }
+        },
+        {
+          "icon": "🚶",
+          "label": {
+            "en": "Village",
+            "fr": "Village",
+            "it": "Paese",
+            "de": "Dorf",
+            "es": "Pueblo",
+            "pt": "Aldeia"
+          },
+          "value": {
+            "en": "5-minute walk to shops and tavernas",
+            "fr": "5 minutes a pied des commerces et tavernes",
+            "it": "5 minuti a piedi da negozi e taverne",
+            "de": "5 Gehminuten zu Geschaeften und Tavernen",
+            "es": "5 minutos a pie de tiendas y tabernas",
+            "pt": "5 minutos a pe de lojas e tabernas"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Value",
+            "fr": "Budget",
+            "it": "Prezzo",
+            "de": "Preis",
+            "es": "Precio",
+            "pt": "Preco"
+          },
+          "value": {
+            "en": "Affordable, family-owned",
+            "fr": "Abordable, tenu en famille",
+            "it": "Conveniente, a conduzione familiare",
+            "de": "Guenstig, familiengefuehrt",
+            "es": "Asequible, de gestion familiar",
+            "pt": "Acessivel, de gestao familiar"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Can you self-cater here?",
+            "fr": "Peut-on cuisiner soi-meme ici?",
+            "it": "Si puo cucinare in autonomia qui?",
+            "de": "Kann man sich hier selbst versorgen?",
+            "es": "Se puede cocinar por cuenta propia aqui?",
+            "pt": "Da para cozinhar por conta propria aqui?"
+          },
+          "a": {
+            "en": "Rooms are simple and Skala has mini-markets and tavernas within a few minutes, so it works well for families who want light self-catering and easy eating out.",
+            "fr": "Les chambres sont simples et Skala compte des mini-marches et des tavernes a quelques minutes, ce qui convient bien aux familles qui veulent une cuisine legere et des repas faciles au restaurant.",
+            "it": "Le camere sono semplici e Skala ha mini-market e taverne a pochi minuti, quindi va bene per famiglie che vogliono un self catering leggero e pasti facili fuori.",
+            "de": "Die Zimmer sind einfach und Skala hat Mini-Maerkte und Tavernen in wenigen Minuten, ideal fuer Familien, die leichte Selbstversorgung und einfaches Essengehen moechten.",
+            "es": "Las habitaciones son sencillas y Skala tiene minimercados y tabernas a pocos minutos, asi que funciona bien para familias que quieren cocina ligera y comer fuera con facilidad.",
+            "pt": "Os quartos sao simples e Skala tem minimercados e tabernas a poucos minutos, por isso funciona bem para familias que querem cozinha leve e comer fora com facilidade."
+          }
+        }
+      ]
+    },
+    {
+      "key": "kefalonia-lara-lourdas",
+      "destinationKey": "kefalonia",
+      "name": "Lara Hotel",
+      "area": {
+        "en": "Lourdas",
+        "fr": "Lourdas",
+        "it": "Lourdas",
+        "de": "Lourdas",
+        "es": "Lourdas",
+        "pt": "Lourdas"
+      },
+      "lat": 38.1181,
+      "lng": 20.6642,
+      "zoom": 12,
+      "address": "Lara Hotel, Lourdata, Kefalonia, Greece",
+      "priceTier": 2,
+      "priceFrom": 105,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly",
+        "self-catering"
+      ],
+      "clubFree": false,
+      "photos": [
+        "poolPalms",
+        "beachSunset",
+        "deckLoungersSea"
+      ],
+      "scores": {
+        "rooms": 70,
+        "baby": 76,
+        "pool": 74,
+        "dining": 70,
+        "safety": 84,
+        "convenience": 74,
+        "location": 86,
+        "extras": 66
+      },
+      "roomsSummary": {
+        "en": "Whitewashed rooms, each with a balcony and fridge and most sleeping 2 to 4, a few hundred metres above the long sandy sweep of Lourdas Bay.",
+        "fr": "Chambres blanchies a la chaux, chacune avec balcon et refrigerateur, la plupart pour 2 a 4 personnes, a quelques centaines de metres au-dessus de la longue plage de sable de la baie de Lourdas.",
+        "it": "Camere imbiancate, ciascuna con balcone e frigorifero, la maggior parte per 2-4 persone, a poche centinaia di metri sopra la lunga distesa sabbiosa della baia di Lourdas.",
+        "de": "Weiss getuenchte Zimmer, jedes mit Balkon und Kuehlschrank, die meisten fuer 2 bis 4 Personen, wenige hundert Meter oberhalb des langen Sandbogens der Bucht von Lourdas.",
+        "es": "Habitaciones encaladas, cada una con balcon y nevera, la mayoria para 2 a 4 personas, a unos cientos de metros por encima de la larga franja de arena de la bahia de Lourdas.",
+        "pt": "Quartos caiados, cada um com varanda e frigorifico, a maioria para 2 a 4 pessoas, a algumas centenas de metros acima da longa faixa de areia da baia de Lourdas."
+      },
+      "intro": {
+        "en": "A small, family-run hotel above one of Kefalonia's prettiest bays, where a long sandy beach backed by green hills sits just a couple of hundred metres downhill. With an outdoor pool, sea-view balconies and a genuinely relaxed pace, it suits families who want a quiet, scenic base rather than a big resort.",
+        "fr": "Un petit hotel familial au-dessus de l'une des plus jolies baies de Cephalonie, ou une longue plage de sable adossee a des collines verdoyantes se trouve a deux cents metres en contrebas. Avec une piscine exterieure, des balcons vue mer et un rythme vraiment detendu, il convient aux familles qui veulent une base calme et pittoresque plutot qu'un grand resort.",
+        "it": "Un piccolo hotel a conduzione familiare sopra una delle baie piu belle di Cefalonia, dove una lunga spiaggia sabbiosa incorniciata da colline verdi si trova un paio di centinaia di metri piu in basso. Con piscina esterna, balconi vista mare e un ritmo davvero rilassato, e adatto a famiglie che vogliono una base tranquilla e panoramica piuttosto che un grande resort.",
+        "de": "Ein kleines, familiengefuehrtes Hotel oberhalb einer der schoensten Buchten Kefalonias, wo ein langer Sandstrand vor gruenen Huegeln nur wenige hundert Meter bergab liegt. Mit Aussenpool, Balkonen mit Meerblick und wirklich entspanntem Tempo eignet es sich fuer Familien, die eine ruhige, malerische Basis statt eines grossen Resorts moechten.",
+        "es": "Un pequeno hotel de gestion familiar sobre una de las bahias mas bonitas de Cefalonia, donde una larga playa de arena respaldada por colinas verdes queda un par de cientos de metros cuesta abajo. Con piscina exterior, balcones con vistas al mar y un ritmo realmente relajado, conviene a familias que quieren una base tranquila y pintoresca en lugar de un gran resort.",
+        "pt": "Um pequeno hotel de gestao familiar acima de uma das baias mais bonitas de Cefalonia, onde uma longa praia de areia rodeada de colinas verdes fica a algumas centenas de metros mais abaixo. Com piscina exterior, varandas com vista de mar e um ritmo verdadeiramente descontraido, convem a familias que querem uma base tranquila e pitoresca em vez de um grande resort."
+      },
+      "highlights": {
+        "en": [
+          "A few hundred metres from long sandy Lourdas beach",
+          "Outdoor pool with sea views",
+          "Quiet, green and scenic setting",
+          "Balconies and fridges in every room"
+        ],
+        "fr": [
+          "A quelques centaines de metres de la longue plage de sable de Lourdas",
+          "Piscine exterieure avec vue mer",
+          "Cadre calme, vert et pittoresque",
+          "Balcons et refrigerateurs dans chaque chambre"
+        ],
+        "it": [
+          "A poche centinaia di metri dalla lunga spiaggia sabbiosa di Lourdas",
+          "Piscina esterna con vista mare",
+          "Ambiente tranquillo, verde e panoramico",
+          "Balconi e frigoriferi in ogni camera"
+        ],
+        "de": [
+          "Wenige hundert Meter vom langen Sandstrand Lourdas",
+          "Aussenpool mit Meerblick",
+          "Ruhige, gruene und malerische Lage",
+          "Balkone und Kuehlschraenke in jedem Zimmer"
+        ],
+        "es": [
+          "A unos cientos de metros de la larga playa de arena de Lourdas",
+          "Piscina exterior con vistas al mar",
+          "Entorno tranquilo, verde y pintoresco",
+          "Balcones y neveras en cada habitacion"
+        ],
+        "pt": [
+          "A algumas centenas de metros da longa praia de areia de Lourdas",
+          "Piscina exterior com vista de mar",
+          "Ambiente tranquilo, verde e pitoresco",
+          "Varandas e frigorificos em cada quarto"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Beautiful, quiet bay with a sandy beach",
+          "Warm, personal family-run service",
+          "Great value for the setting",
+          "Fridges and balconies handy with babies"
+        ],
+        "fr": [
+          "Baie magnifique et calme avec une plage de sable",
+          "Service familial chaleureux et personnel",
+          "Excellent rapport qualite-prix pour le cadre",
+          "Refrigerateurs et balcons pratiques avec des bebes"
+        ],
+        "it": [
+          "Baia bellissima e tranquilla con spiaggia sabbiosa",
+          "Servizio caloroso e personale a conduzione familiare",
+          "Ottimo rapporto qualita-prezzo per l'ambiente",
+          "Frigoriferi e balconi comodi con i neonati"
+        ],
+        "de": [
+          "Schoene, ruhige Bucht mit Sandstrand",
+          "Herzlicher, persoenlicher familiengefuehrter Service",
+          "Tolles Preis-Leistungs-Verhaeltnis fuer die Lage",
+          "Kuehlschraenke und Balkone praktisch mit Babys"
+        ],
+        "es": [
+          "Bahia preciosa y tranquila con playa de arena",
+          "Servicio calido y personal de gestion familiar",
+          "Gran relacion calidad-precio para el entorno",
+          "Neveras y balcones practicos con bebes"
+        ],
+        "pt": [
+          "Baia bonita e tranquila com praia de areia",
+          "Servico caloroso e pessoal de gestao familiar",
+          "Otima relacao qualidade-preco para o ambiente",
+          "Frigorificos e varandas praticos com bebes"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Uphill walk back from the beach with little legs",
+          "Simple rooms and limited on-site dining",
+          "A hire car is really needed to explore"
+        ],
+        "fr": [
+          "Montee au retour de la plage avec de petites jambes",
+          "Chambres simples et restauration sur place limitee",
+          "Une voiture de location est vraiment necessaire pour explorer"
+        ],
+        "it": [
+          "Salita al ritorno dalla spiaggia con gambette stanche",
+          "Camere semplici e ristorazione interna limitata",
+          "Serve davvero un'auto a noleggio per esplorare"
+        ],
+        "de": [
+          "Bergauf-Weg zurueck vom Strand mit kleinen Beinen",
+          "Einfache Zimmer und begrenzte Verpflegung vor Ort",
+          "Ein Mietwagen ist zum Erkunden wirklich noetig"
+        ],
+        "es": [
+          "Cuesta arriba de vuelta desde la playa con piernas pequenas",
+          "Habitaciones sencillas y comida limitada en el hotel",
+          "Se necesita coche de alquiler para explorar"
+        ],
+        "pt": [
+          "Subida no regresso da praia com perninhas cansadas",
+          "Quartos simples e restauracao limitada no local",
+          "E mesmo preciso carro alugado para explorar"
+        ]
+      },
+      "verdict": {
+        "en": "For families chasing a beautiful, calm sandy bay over resort facilities, Lara is a lovely, affordable Lourdas base, just be ready for the walk back uphill.",
+        "fr": "Pour les familles en quete d'une belle baie de sable calme plutot que d'equipements de resort, le Lara est une jolie base abordable a Lourdas, il faut juste accepter la montee au retour.",
+        "it": "Per famiglie in cerca di una bella baia sabbiosa e tranquilla piuttosto che di servizi da resort, il Lara e una piacevole base conveniente a Lourdas, basta essere pronti alla salita al ritorno.",
+        "de": "Fuer Familien, die eine schoene, ruhige Sandbucht statt Resort-Einrichtungen suchen, ist das Lara eine reizvolle, guenstige Basis in Lourdas, man muss nur den Rueckweg bergauf einplanen.",
+        "es": "Para familias que buscan una bonita bahia de arena tranquila en lugar de servicios de resort, el Lara es una base encantadora y asequible en Lourdas, solo hay que asumir la cuesta de vuelta.",
+        "pt": "Para familias que procuram uma bonita baia de areia tranquila em vez de servicos de resort, o Lara e uma base encantadora e acessivel em Lourdas, basta estar preparado para a subida no regresso."
+      },
+      "parentTip": {
+        "en": "Drive down to the beach with buggies and beach kit rather than walking, then park and enjoy the shallow sandy shore, saving little legs the climb back up.",
+        "fr": "Descendez a la plage en voiture avec poussettes et affaires de plage plutot qu'a pied, puis garez-vous et profitez du rivage de sable peu profond, evitant la remontee aux petites jambes.",
+        "it": "Scendete in spiaggia in auto con passeggini e attrezzatura invece che a piedi, poi parcheggiate e godetevi la riva sabbiosa e bassa, risparmiando la risalita alle gambette.",
+        "de": "Fahren Sie mit Buggys und Strandausruestung zum Strand hinunter statt zu Fuss, parken Sie dann und geniessen Sie das flache Sandufer, das erspart kleinen Beinen den Aufstieg.",
+        "es": "Bajad a la playa en coche con carritos y equipo de playa en lugar de a pie, luego aparcad y disfrutad de la orilla de arena poco profunda, ahorrando la subida a las piernas pequenas.",
+        "pt": "Desçam ate a praia de carro com carrinhos e material de praia em vez de a pe, depois estacionem e aproveitem a margem de areia pouco profunda, poupando a subida as perninhas."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage",
+            "it": "Spiaggia",
+            "de": "Strand",
+            "es": "Playa",
+            "pt": "Praia"
+          },
+          "value": {
+            "en": "Long sandy Lourdas bay downhill",
+            "fr": "Longue baie de sable de Lourdas en contrebas",
+            "it": "Lunga baia sabbiosa di Lourdas in discesa",
+            "de": "Lange Sandbucht Lourdas bergab",
+            "es": "Larga bahia de arena de Lourdas cuesta abajo",
+            "pt": "Longa baia de areia de Lourdas em descida"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine",
+            "it": "Piscina",
+            "de": "Pool",
+            "es": "Piscina",
+            "pt": "Piscina"
+          },
+          "value": {
+            "en": "Outdoor pool with sea views",
+            "fr": "Piscine exterieure avec vue mer",
+            "it": "Piscina esterna con vista mare",
+            "de": "Aussenpool mit Meerblick",
+            "es": "Piscina exterior con vistas al mar",
+            "pt": "Piscina exterior com vista de mar"
+          }
+        },
+        {
+          "icon": "🌿",
+          "label": {
+            "en": "Vibe",
+            "fr": "Ambiance",
+            "it": "Atmosfera",
+            "de": "Ambiente",
+            "es": "Ambiente",
+            "pt": "Ambiente"
+          },
+          "value": {
+            "en": "Quiet, green and scenic",
+            "fr": "Calme, vert et pittoresque",
+            "it": "Tranquillo, verde e panoramico",
+            "de": "Ruhig, gruen und malerisch",
+            "es": "Tranquilo, verde y pintoresco",
+            "pt": "Tranquilo, verde e pitoresco"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "How far is the beach and is it sandy?",
+            "fr": "A quelle distance est la plage et est-elle sableuse?",
+            "it": "Quanto dista la spiaggia ed e sabbiosa?",
+            "de": "Wie weit ist der Strand und ist er sandig?",
+            "es": "A que distancia esta la playa y es de arena?",
+            "pt": "A que distancia fica a praia e e de areia?"
+          },
+          "a": {
+            "en": "Lourdas beach is a few hundred metres downhill, a long sandy bay with shallow entry that suits toddlers, though the walk back up is steep enough that many families drive down.",
+            "fr": "La plage de Lourdas est a quelques centaines de metres en contrebas, une longue baie de sable a entree peu profonde adaptee aux tout-petits, mais la remontee est assez raide, si bien que beaucoup de familles descendent en voiture.",
+            "it": "La spiaggia di Lourdas e a poche centinaia di metri in discesa, una lunga baia sabbiosa con entrata bassa adatta ai piu piccoli, anche se la risalita e abbastanza ripida da spingere molte famiglie a scendere in auto.",
+            "de": "Der Strand von Lourdas liegt wenige hundert Meter bergab, eine lange Sandbucht mit flachem Einstieg fuer Kleinkinder, doch der Rueckweg ist steil genug, dass viele Familien hinunterfahren.",
+            "es": "La playa de Lourdas esta a unos cientos de metros cuesta abajo, una larga bahia de arena con entrada poco profunda apta para los mas pequenos, aunque la subida es lo bastante empinada como para que muchas familias bajen en coche.",
+            "pt": "A praia de Lourdas fica a algumas centenas de metros em descida, uma longa baia de areia com entrada pouco profunda adequada aos mais pequenos, embora a subida seja ingreme o suficiente para muitas familias descerem de carro."
+          }
+        }
+      ]
+    },
+    {
+      "key": "kefalonia-karavados-beach",
+      "destinationKey": "kefalonia",
+      "name": "Karavados Beach Hotel & Bungalows",
+      "area": {
+        "en": "Karavados",
+        "fr": "Karavados",
+        "it": "Karavados",
+        "de": "Karavados",
+        "es": "Karavados",
+        "pt": "Karavados"
+      },
+      "lat": 38.1085,
+      "lng": 20.5985,
+      "zoom": 12,
+      "address": "Karavados Beach Hotel & Bungalows, Karavados, Kefalonia, Greece",
+      "priceTier": 3,
+      "priceFrom": 130,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly",
+        "self-catering"
+      ],
+      "clubFree": false,
+      "photos": [
+        "poolCabanas",
+        "resortLoungers",
+        "poolPalms"
+      ],
+      "scores": {
+        "rooms": 74,
+        "baby": 78,
+        "pool": 82,
+        "dining": 74,
+        "safety": 84,
+        "convenience": 72,
+        "location": 78,
+        "extras": 74
+      },
+      "roomsSummary": {
+        "en": "Rooms and garden bungalows, most sleeping 2 to 4, spread through quiet grounds with a playground, a short stroll from Agios Thomas beach.",
+        "fr": "Chambres et bungalows dans le jardin, la plupart pour 2 a 4 personnes, repartis dans un domaine calme avec une aire de jeux, a courte distance de la plage d'Agios Thomas.",
+        "it": "Camere e bungalow nel giardino, la maggior parte per 2-4 persone, distribuiti in un parco tranquillo con area giochi, a breve distanza dalla spiaggia di Agios Thomas.",
+        "de": "Zimmer und Gartenbungalows, die meisten fuer 2 bis 4 Personen, verteilt auf einer ruhigen Anlage mit Spielplatz, kurzer Spaziergang zum Strand von Agios Thomas.",
+        "es": "Habitaciones y bungalows en el jardin, la mayoria para 2 a 4 personas, repartidos por un recinto tranquilo con parque infantil, a corto paseo de la playa de Agios Thomas.",
+        "pt": "Quartos e bungalows no jardim, a maioria para 2 a 4 pessoas, distribuidos por um recinto tranquilo com parque infantil, a curta caminhada da praia de Agios Thomas."
+      },
+      "intro": {
+        "en": "A quiet, low-key hotel and bungalow complex on the greener south coast, with two pools including a dedicated children's pool, a playground and gardens to roam. Agios Thomas beach is a ten-minute stroll and the sandy sweep of Trapezaki is close by, making it a calm family base away from the busier resort strips.",
+        "fr": "Un complexe d'hotel et de bungalows calme et discret sur la cote sud plus verdoyante, avec deux piscines dont un bassin enfants dedie, une aire de jeux et des jardins ou se promener. La plage d'Agios Thomas est a dix minutes a pied et la longue plage de sable de Trapezaki est toute proche, ce qui en fait une base familiale tranquille loin des axes touristiques plus animes.",
+        "it": "Un complesso di hotel e bungalow tranquillo e riservato sulla piu verde costa meridionale, con due piscine tra cui una dedicata ai bambini, un'area giochi e giardini in cui passeggiare. La spiaggia di Agios Thomas e a dieci minuti a piedi e la distesa sabbiosa di Trapezaki e vicina, il che ne fa una base familiare tranquilla lontano dalle zone turistiche piu affollate.",
+        "de": "Eine ruhige, unaufgeregte Hotel- und Bungalowanlage an der gruereren Suedkueste, mit zwei Pools inklusive einem eigenen Kinderpool, einem Spielplatz und Gaerten zum Umherstreifen. Der Strand von Agios Thomas ist zehn Gehminuten entfernt und der Sandbogen von Trapezaki ist nah, was sie zu einer ruhigen Familienbasis abseits der belebteren Resortmeilen macht.",
+        "es": "Un complejo tranquilo y discreto de hotel y bungalows en la costa sur mas verde, con dos piscinas incluida una infantil dedicada, un parque infantil y jardines para pasear. La playa de Agios Thomas esta a diez minutos a pie y la franja de arena de Trapezaki queda cerca, lo que lo convierte en una base familiar tranquila lejos de las zonas turisticas mas concurridas.",
+        "pt": "Um complexo tranquilo e discreto de hotel e bungalows na costa sul mais verde, com duas piscinas incluindo uma infantil dedicada, um parque infantil e jardins para passear. A praia de Agios Thomas fica a dez minutos a pe e a faixa de areia de Trapezaki esta perto, o que faz dele uma base familiar tranquila longe das zonas turisticas mais movimentadas."
+      },
+      "highlights": {
+        "en": [
+          "Separate children's pool and playground",
+          "Ten-minute stroll to Agios Thomas beach",
+          "Quiet, green south-coast setting",
+          "Garden bungalows with space for families"
+        ],
+        "fr": [
+          "Bassin enfants et aire de jeux separes",
+          "Dix minutes a pied de la plage d'Agios Thomas",
+          "Cadre calme et vert sur la cote sud",
+          "Bungalows dans le jardin avec de l'espace pour les familles"
+        ],
+        "it": [
+          "Piscina per bambini e area giochi separate",
+          "Dieci minuti a piedi dalla spiaggia di Agios Thomas",
+          "Ambiente tranquillo e verde sulla costa sud",
+          "Bungalow nel giardino con spazio per le famiglie"
+        ],
+        "de": [
+          "Separater Kinderpool und Spielplatz",
+          "Zehn Gehminuten zum Strand von Agios Thomas",
+          "Ruhige, gruene Lage an der Suedkueste",
+          "Gartenbungalows mit Platz fuer Familien"
+        ],
+        "es": [
+          "Piscina infantil y parque separados",
+          "Diez minutos a pie de la playa de Agios Thomas",
+          "Entorno tranquilo y verde en la costa sur",
+          "Bungalows en el jardin con espacio para familias"
+        ],
+        "pt": [
+          "Piscina infantil e parque separados",
+          "Dez minutos a pe da praia de Agios Thomas",
+          "Ambiente tranquilo e verde na costa sul",
+          "Bungalows no jardim com espaco para familias"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Real children's pool and playground",
+          "Calm, uncrowded setting",
+          "Good base for the south-coast sandy beaches",
+          "Bungalow space for families"
+        ],
+        "fr": [
+          "Vrai bassin enfants et aire de jeux",
+          "Cadre calme et peu frequente",
+          "Bonne base pour les plages de sable de la cote sud",
+          "Espace des bungalows pour les familles"
+        ],
+        "it": [
+          "Vera piscina per bambini e area giochi",
+          "Ambiente tranquillo e poco affollato",
+          "Buona base per le spiagge sabbiose della costa sud",
+          "Spazio dei bungalow per le famiglie"
+        ],
+        "de": [
+          "Echter Kinderpool und Spielplatz",
+          "Ruhige, wenig besuchte Lage",
+          "Gute Basis fuer die Sandstraende der Suedkueste",
+          "Bungalowplatz fuer Familien"
+        ],
+        "es": [
+          "Autentica piscina infantil y parque",
+          "Entorno tranquilo y poco concurrido",
+          "Buena base para las playas de arena de la costa sur",
+          "Espacio de bungalows para familias"
+        ],
+        "pt": [
+          "Verdadeira piscina infantil e parque",
+          "Ambiente tranquilo e pouco movimentado",
+          "Boa base para as praias de areia da costa sul",
+          "Espaco de bungalows para familias"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Beach is a walk rather than on the doorstep",
+          "Quiet area with limited nightlife",
+          "A car helps to reach the best beaches and sights"
+        ],
+        "fr": [
+          "La plage se rejoint a pied, pas juste devant",
+          "Zone calme avec peu de vie nocturne",
+          "Une voiture aide pour rejoindre les meilleures plages et sites"
+        ],
+        "it": [
+          "La spiaggia si raggiunge a piedi, non e proprio davanti",
+          "Zona tranquilla con poca vita notturna",
+          "Un'auto aiuta a raggiungere le spiagge e i luoghi migliori"
+        ],
+        "de": [
+          "Der Strand ist zu Fuss erreichbar, nicht direkt davor",
+          "Ruhige Gegend mit wenig Nachtleben",
+          "Ein Auto hilft, die besten Straende und Sehenswuerdigkeiten zu erreichen"
+        ],
+        "es": [
+          "La playa se alcanza a pie, no esta justo delante",
+          "Zona tranquila con poca vida nocturna",
+          "Un coche ayuda a llegar a las mejores playas y lugares"
+        ],
+        "pt": [
+          "A praia alcanca-se a pe, nao esta mesmo a frente",
+          "Zona tranquila com pouca vida noturna",
+          "Um carro ajuda a chegar as melhores praias e locais"
+        ]
+      },
+      "verdict": {
+        "en": "A calm, green-coast pick with a proper kids pool and playground, ideal for families who want quiet days and easy access to the south-coast sandy beaches.",
+        "fr": "Un choix calme sur la cote verte, avec un vrai bassin enfants et une aire de jeux, ideal pour les familles qui veulent des journees tranquilles et un acces facile aux plages de sable de la cote sud.",
+        "it": "Una scelta tranquilla sulla costa verde, con una vera piscina per bambini e area giochi, ideale per famiglie che vogliono giornate tranquille e facile accesso alle spiagge sabbiose della costa sud.",
+        "de": "Eine ruhige Wahl an der gruenen Kueste mit richtigem Kinderpool und Spielplatz, ideal fuer Familien, die ruhige Tage und einfachen Zugang zu den Sandstraenden der Suedkueste moechten.",
+        "es": "Una eleccion tranquila en la costa verde, con una autentica piscina infantil y parque, ideal para familias que quieren dias tranquilos y facil acceso a las playas de arena de la costa sur.",
+        "pt": "Uma escolha tranquila na costa verde, com uma verdadeira piscina infantil e parque, ideal para familias que querem dias calmos e facil acesso as praias de areia da costa sul."
+      },
+      "parentTip": {
+        "en": "Base beach days around sandy Trapezaki nearby, which has easier shallow entry than pretty but pebbly Agios Thomas for the youngest paddlers.",
+        "fr": "Organisez les journees plage autour de Trapezaki, sableuse et proche, dont l'entree peu profonde est plus facile que la jolie mais caillouteuse Agios Thomas pour les plus jeunes.",
+        "it": "Organizzate le giornate in spiaggia attorno alla vicina Trapezaki sabbiosa, con entrata bassa piu facile rispetto alla graziosa ma ciottolosa Agios Thomas per i piu piccoli.",
+        "de": "Legen Sie Strandtage um das nahe sandige Trapezaki, dessen flacher Einstieg fuer die Kleinsten leichter ist als das huebsche, aber kiesige Agios Thomas.",
+        "es": "Organizad los dias de playa en torno a la cercana Trapezaki de arena, con entrada poco profunda mas facil que la bonita pero pedregosa Agios Thomas para los mas pequenos.",
+        "pt": "Organizem os dias de praia em torno da proxima Trapezaki de areia, com entrada pouco profunda mais facil do que a bonita mas com calhaus Agios Thomas para os mais pequenos."
+      },
+      "atAGlance": [
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "For kids",
+            "fr": "Pour les enfants",
+            "it": "Per i bambini",
+            "de": "Fuer Kinder",
+            "es": "Para ninos",
+            "pt": "Para criancas"
+          },
+          "value": {
+            "en": "Children's pool and playground",
+            "fr": "Bassin enfants et aire de jeux",
+            "it": "Piscina bimbi e area giochi",
+            "de": "Kinderpool und Spielplatz",
+            "es": "Piscina infantil y parque",
+            "pt": "Piscina infantil e parque"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage",
+            "it": "Spiaggia",
+            "de": "Strand",
+            "es": "Playa",
+            "pt": "Praia"
+          },
+          "value": {
+            "en": "10-min walk to Agios Thomas, sandy Trapezaki nearby",
+            "fr": "10 min a pied d'Agios Thomas, Trapezaki sableuse proche",
+            "it": "10 min a piedi da Agios Thomas, Trapezaki sabbiosa vicina",
+            "de": "10 Min zu Agios Thomas, sandiges Trapezaki nah",
+            "es": "10 min a pie de Agios Thomas, Trapezaki de arena cerca",
+            "pt": "10 min a pe de Agios Thomas, Trapezaki de areia perto"
+          }
+        },
+        {
+          "icon": "🌿",
+          "label": {
+            "en": "Vibe",
+            "fr": "Ambiance",
+            "it": "Atmosfera",
+            "de": "Ambiente",
+            "es": "Ambiente",
+            "pt": "Ambiente"
+          },
+          "value": {
+            "en": "Quiet and green",
+            "fr": "Calme et vert",
+            "it": "Tranquillo e verde",
+            "de": "Ruhig und gruen",
+            "es": "Tranquilo y verde",
+            "pt": "Tranquilo e verde"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is this a good area for young children?",
+            "fr": "Est-ce un bon secteur pour de jeunes enfants?",
+            "it": "E una buona zona per bambini piccoli?",
+            "de": "Ist dies eine gute Gegend fuer kleine Kinder?",
+            "es": "Es una buena zona para ninos pequenos?",
+            "pt": "E uma boa zona para criancas pequenas?"
+          },
+          "a": {
+            "en": "Yes for calm days by the pool and playground, but the immediate beach is pebbly, so plan sandy beach trips to nearby Trapezaki and use a car for variety.",
+            "fr": "Oui pour des journees calmes a la piscine et a l'aire de jeux, mais la plage la plus proche est caillouteuse, alors prevoyez des sorties a la plage de sable de Trapezaki, proche, et une voiture pour varier.",
+            "it": "Si per giornate tranquille tra piscina e area giochi, ma la spiaggia piu vicina e ciottolosa, quindi pianificate uscite alla vicina spiaggia sabbiosa di Trapezaki e usate l'auto per variare.",
+            "de": "Ja fuer ruhige Tage an Pool und Spielplatz, aber der naechste Strand ist kiesig, planen Sie daher Ausfluege zum nahen Sandstrand Trapezaki und nutzen Sie ein Auto fuer Abwechslung.",
+            "es": "Si para dias tranquilos en la piscina y el parque, pero la playa mas cercana es pedregosa, asi que planificad salidas a la cercana playa de arena de Trapezaki y usad coche para variar.",
+            "pt": "Sim para dias calmos na piscina e no parque, mas a praia mais proxima e de calhaus, por isso planeiem idas a proxima praia de areia de Trapezaki e usem carro para variar."
+          }
+        }
+      ]
+    },
+    {
+      "key": "kefalonia-lassi-hotel",
+      "destinationKey": "kefalonia",
+      "name": "Lassi Hotel",
+      "area": {
+        "en": "Lassi",
+        "fr": "Lassi",
+        "it": "Lassi",
+        "de": "Lassi",
+        "es": "Lassi",
+        "pt": "Lassi"
+      },
+      "lat": 38.1568,
+      "lng": 20.4712,
+      "zoom": 12,
+      "address": "Lassi Hotel, Lassi, Argostoli, Kefalonia, Greece",
+      "priceTier": 2,
+      "priceFrom": 115,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly",
+        "self-catering"
+      ],
+      "clubFree": false,
+      "photos": [
+        "poolPalms",
+        "poolCabanas",
+        "deckLoungersSea"
+      ],
+      "scores": {
+        "rooms": 72,
+        "baby": 78,
+        "pool": 80,
+        "dining": 72,
+        "safety": 84,
+        "convenience": 82,
+        "location": 84,
+        "extras": 68
+      },
+      "roomsSummary": {
+        "en": "Bright, simple rooms among olive groves, most with balconies overlooking the pool or sea and sleeping 2 to 4, a five-minute walk from Makris Gialos beach.",
+        "fr": "Chambres claires et simples parmi les oliviers, la plupart avec balcon donnant sur la piscine ou la mer et pour 2 a 4 personnes, a cinq minutes a pied de la plage de Makris Gialos.",
+        "it": "Camere luminose e semplici tra gli uliveti, la maggior parte con balcone affacciato sulla piscina o sul mare e per 2-4 persone, a cinque minuti a piedi dalla spiaggia di Makris Gialos.",
+        "de": "Helle, einfache Zimmer inmitten von Olivenhainen, die meisten mit Balkon zum Pool oder Meer und fuer 2 bis 4 Personen, fuenf Gehminuten vom Strand Makris Gialos.",
+        "es": "Habitaciones luminosas y sencillas entre olivares, la mayoria con balcon con vistas a la piscina o al mar y para 2 a 4 personas, a cinco minutos a pie de la playa de Makris Gialos.",
+        "pt": "Quartos luminosos e simples entre olivais, a maioria com varanda com vista para a piscina ou o mar e para 2 a 4 pessoas, a cinco minutos a pe da praia de Makris Gialos."
+      },
+      "intro": {
+        "en": "A relaxed, family-run hotel set among olive groves in Lassi, with a free-form pool, a dedicated children's pool and the famous sandy beach of Makris Gialos just a five-minute walk away. Close to Argostoli and its practicalities, it is an easygoing, good-value base for families with young children.",
+        "fr": "Un hotel familial et detendu niche parmi les oliviers a Lassi, avec une piscine de forme libre, un bassin enfants dedie et la celebre plage de sable de Makris Gialos a cinq minutes a pied. Proche d'Argostoli et de ses commodites, c'est une base decontractee et economique pour les familles avec de jeunes enfants.",
+        "it": "Un hotel rilassato a conduzione familiare tra gli uliveti di Lassi, con una piscina dalla forma libera, una piscina dedicata ai bambini e la famosa spiaggia sabbiosa di Makris Gialos a cinque minuti a piedi. Vicino ad Argostoli e ai suoi servizi, e una base tranquilla e conveniente per famiglie con bambini piccoli.",
+        "de": "Ein entspanntes, familiengefuehrtes Hotel inmitten von Olivenhainen in Lassi, mit einem Freiformpool, einem eigenen Kinderpool und dem beruehmten Sandstrand Makris Gialos nur fuenf Gehminuten entfernt. Nahe Argostoli und seinen Annehmlichkeiten ist es eine unkomplizierte, preiswerte Basis fuer Familien mit kleinen Kindern.",
+        "es": "Un hotel relajado de gestion familiar entre olivares en Lassi, con una piscina de forma libre, una piscina infantil dedicada y la famosa playa de arena de Makris Gialos a cinco minutos a pie. Cerca de Argostoli y sus comodidades, es una base tranquila y economica para familias con ninos pequenos.",
+        "pt": "Um hotel descontraido de gestao familiar entre olivais em Lassi, com uma piscina de forma livre, uma piscina infantil dedicada e a famosa praia de areia de Makris Gialos a cinco minutos a pe. Perto de Argostoli e das suas comodidades, e uma base tranquila e economica para familias com criancas pequenas."
+      },
+      "highlights": {
+        "en": [
+          "Dedicated children's pool",
+          "Five-minute walk to sandy Makris Gialos",
+          "Quiet olive-grove setting near Argostoli",
+          "Balconies over the pool or sea"
+        ],
+        "fr": [
+          "Bassin enfants dedie",
+          "Cinq minutes a pied de la plage de sable de Makris Gialos",
+          "Cadre calme parmi les oliviers pres d'Argostoli",
+          "Balcons sur la piscine ou la mer"
+        ],
+        "it": [
+          "Piscina dedicata ai bambini",
+          "Cinque minuti a piedi dalla sabbiosa Makris Gialos",
+          "Ambiente tranquillo tra gli uliveti vicino ad Argostoli",
+          "Balconi sulla piscina o sul mare"
+        ],
+        "de": [
+          "Eigener Kinderpool",
+          "Fuenf Gehminuten zum sandigen Makris Gialos",
+          "Ruhige Olivenhainlage nahe Argostoli",
+          "Balkone zum Pool oder Meer"
+        ],
+        "es": [
+          "Piscina infantil dedicada",
+          "Cinco minutos a pie de la arenosa Makris Gialos",
+          "Entorno tranquilo entre olivares cerca de Argostoli",
+          "Balcones sobre la piscina o el mar"
+        ],
+        "pt": [
+          "Piscina infantil dedicada",
+          "Cinco minutos a pe da arenosa Makris Gialos",
+          "Ambiente tranquilo entre olivais perto de Argostoli",
+          "Varandas sobre a piscina ou o mar"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Sandy Makris Gialos within easy reach",
+          "Separate children's pool",
+          "Friendly, family-run feel",
+          "Good value near Argostoli"
+        ],
+        "fr": [
+          "Plage de sable de Makris Gialos facilement accessible",
+          "Bassin enfants a part",
+          "Ambiance familiale et chaleureuse",
+          "Bon rapport qualite-prix pres d'Argostoli"
+        ],
+        "it": [
+          "Sabbiosa Makris Gialos facilmente raggiungibile",
+          "Piscina per bambini separata",
+          "Atmosfera familiare e accogliente",
+          "Buon rapporto qualita-prezzo vicino ad Argostoli"
+        ],
+        "de": [
+          "Sandiges Makris Gialos gut erreichbar",
+          "Separater Kinderpool",
+          "Freundliches, familiengefuehrtes Flair",
+          "Gutes Preis-Leistungs-Verhaeltnis nahe Argostoli"
+        ],
+        "es": [
+          "Arenosa Makris Gialos facilmente accesible",
+          "Piscina infantil separada",
+          "Ambiente familiar y acogedor",
+          "Buena relacion calidad-precio cerca de Argostoli"
+        ],
+        "pt": [
+          "Arenosa Makris Gialos facilmente acessivel",
+          "Piscina infantil separada",
+          "Ambiente familiar e acolhedor",
+          "Boa relacao qualidade-preco perto de Argostoli"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Simple rooms and facilities",
+          "No kids club or big resort extras",
+          "Lassi's main strip gets busy at peak times"
+        ],
+        "fr": [
+          "Chambres et equipements simples",
+          "Pas de club enfants ni de gros extras de resort",
+          "L'axe principal de Lassi est frequente en haute saison"
+        ],
+        "it": [
+          "Camere e servizi semplici",
+          "Nessun miniclub o grandi extra da resort",
+          "La zona principale di Lassi si affolla in alta stagione"
+        ],
+        "de": [
+          "Einfache Zimmer und Einrichtungen",
+          "Kein Kinderclub oder grosse Resort-Extras",
+          "Die Hauptmeile von Lassi wird zu Stosszeiten voll"
+        ],
+        "es": [
+          "Habitaciones e instalaciones sencillas",
+          "Sin miniclub ni grandes extras de resort",
+          "La zona principal de Lassi se llena en horas punta"
+        ],
+        "pt": [
+          "Quartos e instalacoes simples",
+          "Sem miniclube ou grandes extras de resort",
+          "A zona principal de Lassi enche nas horas de ponta"
+        ]
+      },
+      "verdict": {
+        "en": "A friendly, affordable Lassi base with a children's pool and sandy Makris Gialos minutes away, great for families who value location and value over facilities.",
+        "fr": "Une base familiale, abordable et chaleureuse a Lassi, avec un bassin enfants et la plage de sable de Makris Gialos a quelques minutes, ideale pour les familles qui privilegient l'emplacement et le budget aux equipements.",
+        "it": "Una base familiare, conveniente e accogliente a Lassi, con piscina per bambini e la sabbiosa Makris Gialos a pochi minuti, ottima per famiglie che privilegiano posizione e prezzo rispetto ai servizi.",
+        "de": "Eine freundliche, guenstige Basis in Lassi mit Kinderpool und dem sandigen Makris Gialos in wenigen Minuten, ideal fuer Familien, die Lage und Preis ueber Einrichtungen stellen.",
+        "es": "Una base familiar, asequible y acogedora en Lassi, con piscina infantil y la arenosa Makris Gialos a pocos minutos, ideal para familias que valoran ubicacion y precio sobre instalaciones.",
+        "pt": "Uma base familiar, acessivel e acolhedora em Lassi, com piscina infantil e a arenosa Makris Gialos a poucos minutos, otima para familias que valorizam localizacao e preco em vez de instalacoes."
+      },
+      "parentTip": {
+        "en": "Walk to Makris Gialos early for a shaded spot and shallow morning swims, then retreat to the children's pool during the hottest part of the afternoon.",
+        "fr": "Rejoignez Makris Gialos tot pour un coin a l'ombre et des baignades matinales peu profondes, puis repliez-vous vers le bassin enfants aux heures les plus chaudes de l'apres-midi.",
+        "it": "Raggiungete Makris Gialos presto per un posto all'ombra e bagni mattutini in acqua bassa, poi ripiegate sulla piscina per bambini nelle ore piu calde del pomeriggio.",
+        "de": "Gehen Sie frueh zum Makris Gialos fuer einen schattigen Platz und flache Morgenschwimmen, und weichen Sie in der heissesten Nachmittagszeit auf den Kinderpool aus.",
+        "es": "Id temprano a Makris Gialos para un sitio a la sombra y banos matutinos poco profundos, y retiraos a la piscina infantil en la parte mas calurosa de la tarde.",
+        "pt": "Vao cedo a Makris Gialos para um lugar a sombra e banhos matinais em agua rasa, e recolham a piscina infantil na parte mais quente da tarde."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage",
+            "it": "Spiaggia",
+            "de": "Strand",
+            "es": "Playa",
+            "pt": "Praia"
+          },
+          "value": {
+            "en": "5-min walk to sandy Makris Gialos",
+            "fr": "5 min a pied de Makris Gialos sableuse",
+            "it": "5 min a piedi dalla sabbiosa Makris Gialos",
+            "de": "5 Min zu Fuss zum sandigen Makris Gialos",
+            "es": "5 min a pie de la arenosa Makris Gialos",
+            "pt": "5 min a pe da arenosa Makris Gialos"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine",
+            "it": "Piscina",
+            "de": "Pool",
+            "es": "Piscina",
+            "pt": "Piscina"
+          },
+          "value": {
+            "en": "Free-form pool plus children's pool",
+            "fr": "Piscine de forme libre et bassin enfants",
+            "it": "Piscina dalla forma libera e piscina bimbi",
+            "de": "Freiformpool plus Kinderpool",
+            "es": "Piscina de forma libre y piscina infantil",
+            "pt": "Piscina de forma livre e piscina infantil"
+          }
+        },
+        {
+          "icon": "🫒",
+          "label": {
+            "en": "Setting",
+            "fr": "Cadre",
+            "it": "Ambiente",
+            "de": "Lage",
+            "es": "Entorno",
+            "pt": "Ambiente"
+          },
+          "value": {
+            "en": "Quiet olive groves near Argostoli",
+            "fr": "Oliviers tranquilles pres d'Argostoli",
+            "it": "Uliveti tranquilli vicino ad Argostoli",
+            "de": "Ruhige Olivenhaine nahe Argostoli",
+            "es": "Olivares tranquilos cerca de Argostoli",
+            "pt": "Olivais tranquilos perto de Argostoli"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is Makris Gialos good for small children?",
+            "fr": "Makris Gialos convient-elle aux jeunes enfants?",
+            "it": "Makris Gialos e adatta ai bambini piccoli?",
+            "de": "Ist Makris Gialos gut fuer kleine Kinder?",
+            "es": "Es Makris Gialos buena para ninos pequenos?",
+            "pt": "Makris Gialos e boa para criancas pequenas?"
+          },
+          "a": {
+            "en": "Yes, it is one of the island's best-known sandy beaches with shallow, gently shelving water, sunbeds and beach bars, a five-minute walk from the hotel.",
+            "fr": "Oui, c'est l'une des plages de sable les plus connues de l'ile, avec une eau peu profonde en pente douce, des transats et des bars de plage, a cinq minutes a pied de l'hotel.",
+            "it": "Si, e una delle spiagge sabbiose piu note dell'isola, con acqua bassa e digradante, lettini e beach bar, a cinque minuti a piedi dall'hotel.",
+            "de": "Ja, es ist einer der bekanntesten Sandstraende der Insel mit flachem, sanft abfallendem Wasser, Liegen und Strandbars, fuenf Gehminuten vom Hotel.",
+            "es": "Si, es una de las playas de arena mas conocidas de la isla, con agua poco profunda y de suave pendiente, tumbonas y chiringuitos, a cinco minutos a pie del hotel.",
+            "pt": "Sim, e uma das praias de areia mais conhecidas da ilha, com agua pouco profunda e de suave inclinacao, espreguicadeiras e bares de praia, a cinco minutos a pe do hotel."
+          }
+        }
+      ]
+    },
+    {
+      "key": "kefalonia-ionian-emerald-karavomylos",
+      "destinationKey": "kefalonia",
+      "name": "Ionian Emerald Resort",
+      "area": {
+        "en": "Karavomylos, Sami",
+        "fr": "Karavomylos, Sami",
+        "it": "Karavomylos, Sami",
+        "de": "Karavomylos, Sami",
+        "es": "Karavomylos, Sami",
+        "pt": "Karavomylos, Sami"
+      },
+      "lat": 38.2585,
+      "lng": 20.6385,
+      "zoom": 12,
+      "address": "Ionian Emerald Resort, Karavomylos, Sami, Kefalonia, Greece",
+      "priceTier": 4,
+      "priceFrom": 185,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "family-suites",
+        "toddler-friendly",
+        "baby-friendly",
+        "beach-access"
+      ],
+      "clubFree": false,
+      "photos": [
+        "poolTropicalMtn",
+        "resortLoungers",
+        "coastTown"
+      ],
+      "scores": {
+        "rooms": 84,
+        "baby": 78,
+        "pool": 84,
+        "dining": 82,
+        "safety": 82,
+        "convenience": 72,
+        "location": 80,
+        "extras": 80
+      },
+      "roomsSummary": {
+        "en": "Contemporary rooms and suites, most with a balcony over the pool or sea and sleeping 2 to 4, in a modern seafront resort near Sami on the green north-east coast.",
+        "fr": "Chambres et suites contemporaines, la plupart avec balcon donnant sur la piscine ou la mer et pour 2 a 4 personnes, dans un resort moderne en bord de mer pres de Sami, sur la cote nord-est verdoyante.",
+        "it": "Camere e suite contemporanee, la maggior parte con balcone affacciato sulla piscina o sul mare e per 2-4 persone, in un moderno resort fronte mare vicino a Sami, sulla verde costa nord-orientale.",
+        "de": "Zeitgemaesse Zimmer und Suiten, die meisten mit Balkon zum Pool oder Meer und fuer 2 bis 4 Personen, in einem modernen Strandresort nahe Sami an der gruenen Nordostkueste.",
+        "es": "Habitaciones y suites contemporaneas, la mayoria con balcon con vistas a la piscina o al mar y para 2 a 4 personas, en un moderno resort frente al mar cerca de Sami, en la verde costa noreste.",
+        "pt": "Quartos e suites contemporaneos, a maioria com varanda com vista para a piscina ou o mar e para 2 a 4 pessoas, num moderno resort a beira-mar perto de Sami, na verde costa nordeste."
+      },
+      "intro": {
+        "en": "A modern five-star resort on the seafront at Karavomylos, near Sami on the green, cave-country north-east coast. There is a children's pool, playground and space to spread out, plus you are minutes from the Melissani underground lake and the dramatic Antisamos bay. A polished family base for exploring the wilder, greener side of Kefalonia.",
+        "fr": "Un resort moderne cinq etoiles en bord de mer a Karavomylos, pres de Sami, sur la cote nord-est verdoyante et parsemee de grottes. On y trouve un bassin enfants, une aire de jeux et de l'espace, et l'on est a quelques minutes du lac souterrain de Melissani et de la spectaculaire baie d'Antisamos. Une base familiale soignee pour explorer le cote plus sauvage et plus vert de Cephalonie.",
+        "it": "Un moderno resort a cinque stelle sul lungomare di Karavomylos, vicino a Sami, sulla verde costa nord-orientale delle grotte. Ci sono una piscina per bambini, un'area giochi e spazio per muoversi, e si e a pochi minuti dal lago sotterraneo di Melissani e dalla spettacolare baia di Antisamos. Una base familiare curata per esplorare il lato piu selvaggio e verde di Cefalonia.",
+        "de": "Ein modernes Fuenf-Sterne-Resort an der Strandpromenade von Karavomylos, nahe Sami, an der gruenen, hoehlenreichen Nordostkueste. Es gibt einen Kinderpool, einen Spielplatz und viel Platz, und man ist nur Minuten vom unterirdischen See Melissani und der spektakulaeren Bucht Antisamos entfernt. Eine gepflegte Familienbasis, um die wildere, gruenere Seite Kefalonias zu erkunden.",
+        "es": "Un moderno resort de cinco estrellas frente al mar en Karavomylos, cerca de Sami, en la verde costa noreste de las cuevas. Hay una piscina infantil, un parque y espacio para moverse, ademas de estar a minutos del lago subterraneo de Melissani y de la espectacular bahia de Antisamos. Una base familiar cuidada para explorar el lado mas salvaje y verde de Cefalonia.",
+        "pt": "Um moderno resort de cinco estrelas a beira-mar em Karavomylos, perto de Sami, na verde costa nordeste das grutas. Ha uma piscina infantil, um parque e espaco para circular, alem de estar a minutos do lago subterraneo de Melissani e da espetacular baia de Antisamos. Uma base familiar cuidada para explorar o lado mais selvagem e verde de Cefalonia."
+      },
+      "highlights": {
+        "en": [
+          "Children's pool and playground",
+          "Minutes from the Melissani cave lake",
+          "Modern rooms with pool or sea views",
+          "Green, scenic north-east base"
+        ],
+        "fr": [
+          "Bassin enfants et aire de jeux",
+          "A quelques minutes du lac de la grotte de Melissani",
+          "Chambres modernes avec vue piscine ou mer",
+          "Base verte et pittoresque au nord-est"
+        ],
+        "it": [
+          "Piscina per bambini e area giochi",
+          "A pochi minuti dal lago della grotta di Melissani",
+          "Camere moderne con vista piscina o mare",
+          "Base verde e panoramica nel nord-est"
+        ],
+        "de": [
+          "Kinderpool und Spielplatz",
+          "Wenige Minuten vom Hoehlensee Melissani",
+          "Moderne Zimmer mit Pool- oder Meerblick",
+          "Gruene, malerische Basis im Nordosten"
+        ],
+        "es": [
+          "Piscina infantil y parque",
+          "A minutos del lago de la cueva de Melissani",
+          "Habitaciones modernas con vistas a piscina o mar",
+          "Base verde y pintoresca en el noreste"
+        ],
+        "pt": [
+          "Piscina infantil e parque",
+          "A minutos do lago da gruta de Melissani",
+          "Quartos modernos com vista para piscina ou mar",
+          "Base verde e pitoresca no nordeste"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Polished, modern five-star feel",
+          "Great base for Melissani, Sami and Antisamos",
+          "Children's pool and playground",
+          "Quieter, greener side of the island"
+        ],
+        "fr": [
+          "Ambiance moderne et soignee cinq etoiles",
+          "Excellente base pour Melissani, Sami et Antisamos",
+          "Bassin enfants et aire de jeux",
+          "Cote plus calme et plus verte de l'ile"
+        ],
+        "it": [
+          "Atmosfera moderna e curata a cinque stelle",
+          "Ottima base per Melissani, Sami e Antisamos",
+          "Piscina per bambini e area giochi",
+          "Lato piu tranquillo e verde dell'isola"
+        ],
+        "de": [
+          "Gepflegtes, modernes Fuenf-Sterne-Flair",
+          "Tolle Basis fuer Melissani, Sami und Antisamos",
+          "Kinderpool und Spielplatz",
+          "Ruhigere, gruenere Seite der Insel"
+        ],
+        "es": [
+          "Ambiente moderno y cuidado de cinco estrellas",
+          "Gran base para Melissani, Sami y Antisamos",
+          "Piscina infantil y parque",
+          "Lado mas tranquilo y verde de la isla"
+        ],
+        "pt": [
+          "Ambiente moderno e cuidado de cinco estrelas",
+          "Otima base para Melissani, Sami e Antisamos",
+          "Piscina infantil e parque",
+          "Lado mais tranquilo e verde da ilha"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Nearest beaches are pebble, not toddler-sandy",
+          "Antisamos bay has deeper water and a shelf",
+          "Further from the southern sandy-beach resorts"
+        ],
+        "fr": [
+          "Les plages les plus proches sont de galets, pas de sable pour tout-petits",
+          "La baie d'Antisamos a une eau plus profonde et un tombant",
+          "Plus eloigne des stations de plages de sable du sud"
+        ],
+        "it": [
+          "Le spiagge piu vicine sono di ciottoli, non sabbia per i piu piccoli",
+          "La baia di Antisamos ha acqua piu profonda e un salto",
+          "Piu lontano dai resort con spiagge sabbiose del sud"
+        ],
+        "de": [
+          "Die naechsten Straende sind Kies, kein Kleinkindsand",
+          "Die Bucht Antisamos hat tieferes Wasser und eine Kante",
+          "Weiter von den suedlichen Sandstrandresorts entfernt"
+        ],
+        "es": [
+          "Las playas mas cercanas son de guijarros, no arena para pequenos",
+          "La bahia de Antisamos tiene agua mas profunda y un desnivel",
+          "Mas lejos de los resorts de playa de arena del sur"
+        ],
+        "pt": [
+          "As praias mais proximas sao de calhaus, nao areia para pequenos",
+          "A baia de Antisamos tem agua mais funda e um desnivel",
+          "Mais longe dos resorts de praia de areia do sul"
+        ]
+      },
+      "verdict": {
+        "en": "The pick for families who want the green, cave-country north-east and a modern resort, best paired with pool days and boat trips rather than toddler beach days.",
+        "fr": "Le choix des familles qui veulent le nord-est vert et ses grottes avec un resort moderne, a associer aux journees piscine et sorties en bateau plutot qu'aux journees plage pour tout-petits.",
+        "it": "La scelta per famiglie che vogliono il verde nord-est delle grotte e un resort moderno, da abbinare a giornate in piscina e gite in barca piu che a giornate di spiaggia per i piu piccoli.",
+        "de": "Die Wahl fuer Familien, die den gruenen, hoehlenreichen Nordosten und ein modernes Resort moechten, am besten mit Pooltagen und Bootsausfluegen statt Kleinkind-Strandtagen.",
+        "es": "La eleccion para familias que quieren el verde noreste de las cuevas y un resort moderno, mejor combinado con dias de piscina y excursiones en barco que con dias de playa para los mas pequenos.",
+        "pt": "A escolha para familias que querem o verde nordeste das grutas e um resort moderno, melhor combinado com dias de piscina e passeios de barco do que com dias de praia para os mais pequenos."
+      },
+      "parentTip": {
+        "en": "Book Melissani cave for a calm early slot before the tour buses, and lean on the children's pool for water time since the local beaches are pebbly with deeper water.",
+        "fr": "Reservez la grotte de Melissani tot le matin, au calme, avant les cars de touristes, et comptez sur le bassin enfants pour les baignades, car les plages locales sont de galets avec une eau plus profonde.",
+        "it": "Prenotate la grotta di Melissani presto, con calma, prima dei bus turistici, e affidatevi alla piscina per bambini per l'acqua, dato che le spiagge locali sono ciottolose con acqua piu profonda.",
+        "de": "Buchen Sie die Melissani-Hoehle fuer einen ruhigen fruehen Termin vor den Reisebussen und nutzen Sie den Kinderpool fuers Planschen, da die lokalen Straende kiesig mit tieferem Wasser sind.",
+        "es": "Reservad la cueva de Melissani temprano y con calma antes de los autobuses turisticos, y apoyaos en la piscina infantil para el agua, ya que las playas locales son de guijarros con agua mas profunda.",
+        "pt": "Reservem a gruta de Melissani cedo e com calma antes dos autocarros turisticos, e apostem na piscina infantil para a agua, ja que as praias locais sao de calhaus com agua mais funda."
+      },
+      "atAGlance": [
+        {
+          "icon": "🕳️",
+          "label": {
+            "en": "Nearby",
+            "fr": "A proximite",
+            "it": "Nei dintorni",
+            "de": "In der Naehe",
+            "es": "Cerca",
+            "pt": "Por perto"
+          },
+          "value": {
+            "en": "Melissani cave lake and Sami",
+            "fr": "Lac de la grotte de Melissani et Sami",
+            "it": "Lago della grotta di Melissani e Sami",
+            "de": "Hoehlensee Melissani und Sami",
+            "es": "Lago de la cueva de Melissani y Sami",
+            "pt": "Lago da gruta de Melissani e Sami"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beaches",
+            "fr": "Plages",
+            "it": "Spiagge",
+            "de": "Straende",
+            "es": "Playas",
+            "pt": "Praias"
+          },
+          "value": {
+            "en": "Pebble and shingle, deeper water",
+            "fr": "Galets et graviers, eau plus profonde",
+            "it": "Ciottoli e ghiaia, acqua piu profonda",
+            "de": "Kies und Schotter, tieferes Wasser",
+            "es": "Guijarros y grava, agua mas profunda",
+            "pt": "Calhaus e cascalho, agua mais funda"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine",
+            "it": "Piscina",
+            "de": "Pool",
+            "es": "Piscina",
+            "pt": "Piscina"
+          },
+          "value": {
+            "en": "Outdoor pool plus children's pool",
+            "fr": "Piscine exterieure et bassin enfants",
+            "it": "Piscina esterna e piscina bimbi",
+            "de": "Aussenpool plus Kinderpool",
+            "es": "Piscina exterior y piscina infantil",
+            "pt": "Piscina exterior e piscina infantil"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Are the beaches here good for toddlers?",
+            "fr": "Les plages ici conviennent-elles aux tout-petits?",
+            "it": "Le spiagge qui sono adatte ai piu piccoli?",
+            "de": "Sind die Straende hier gut fuer Kleinkinder?",
+            "es": "Son buenas las playas de aqui para los mas pequenos?",
+            "pt": "As praias aqui sao boas para os mais pequenos?"
+          },
+          "a": {
+            "en": "Not especially, the north-east beaches like Antisamos are scenic but pebble with deeper water, so rely on the hotel's children's pool and drive south for the sandy shallow bays.",
+            "fr": "Pas particulierement, les plages du nord-est comme Antisamos sont belles mais de galets avec une eau plus profonde, alors comptez sur le bassin enfants de l'hotel et descendez au sud pour les baies de sable peu profondes.",
+            "it": "Non particolarmente, le spiagge del nord-est come Antisamos sono panoramiche ma di ciottoli con acqua piu profonda, quindi affidatevi alla piscina per bambini dell'hotel e scendete a sud per le baie sabbiose e basse.",
+            "de": "Nicht besonders, die Straende im Nordosten wie Antisamos sind malerisch, aber kiesig mit tieferem Wasser, verlassen Sie sich daher auf den Kinderpool des Hotels und fahren Sie fuer die flachen Sandbuchten nach Sueden.",
+            "es": "No especialmente, las playas del noreste como Antisamos son pintorescas pero de guijarros con agua mas profunda, asi que apoyaos en la piscina infantil del hotel y bajad al sur para las bahias de arena poco profundas.",
+            "pt": "Nao especialmente, as praias do nordeste como Antisamos sao pitorescas mas de calhaus com agua mais funda, por isso apostem na piscina infantil do hotel e descam para sul para as baias de areia pouco profundas."
+          }
+        }
+      ]
+    }
+  ],
+  "destinationMeta": {
+    "name": {
+      "en": "Kefalonia",
+      "fr": "Cephalonie",
+      "it": "Cefalonia",
+      "de": "Kefalonia",
+      "es": "Cefalonia",
+      "pt": "Cefalonia"
+    },
+    "country": {
+      "en": "Greece",
+      "fr": "Grece",
+      "it": "Grecia",
+      "de": "Griechenland",
+      "es": "Grecia",
+      "pt": "Grecia"
+    },
+    "emoji": "🐐",
+    "accent": "#2f9e8f",
+    "geo": {
+      "lat": 38.2,
+      "lng": 20.55,
+      "zoom": 10
+    },
+    "heroKicker": {
+      "en": "Green hills, sandy shallow bays and the underground lake of Melissani",
+      "fr": "Collines verdoyantes, baies de sable peu profondes et le lac souterrain de Melissani",
+      "it": "Colline verdi, baie sabbiose e basse e il lago sotterraneo di Melissani",
+      "de": "Gruene Huegel, flache Sandbuchten und der unterirdische See von Melissani",
+      "es": "Colinas verdes, bahias de arena poco profundas y el lago subterraneo de Melissani",
+      "pt": "Colinas verdes, baias de areia pouco profundas e o lago subterraneo de Melissani"
+    },
+    "intro": {
+      "en": "Kefalonia is the biggest of the Ionian islands and one of the greenest, a mountainous, forested place where family resorts stay refreshingly low-key. It is calmer and more relaxed than the party islands of the Aegean, with a string of soft sandy beaches, Makris Gialos and Platis Gialos near Lassi, Lourdas, Skala, that shelve gently for first swims. The island's showpieces are natural: the underground lake at the Melissani cave, the cliff-framed Myrtos viewpoint and turquoise water almost everywhere. Just be beach-aware, some famous spots like Myrtos are steep pebble with a sudden drop-off and are not toddler-calm, so families with little ones are best steered to the sandy shallow bays.",
+      "fr": "Cephalonie est la plus grande des iles Ioniennes et l'une des plus vertes, un lieu montagneux et boise ou les stations familiales restent agreablement discretes. Elle est plus calme et plus detendue que les iles festives de la mer Egee, avec une succession de plages de sable fin, Makris Gialos et Platis Gialos pres de Lassi, Lourdas, Skala, qui descendent en pente douce pour les premieres baignades. Les joyaux de l'ile sont naturels: le lac souterrain de la grotte de Melissani, le belvedere de Myrtos encadre de falaises et une eau turquoise presque partout. Restez juste attentifs aux plages: certains sites celebres comme Myrtos sont en galets raides avec un tombant soudain et ne conviennent pas aux tout-petits, il vaut donc mieux orienter les familles avec de jeunes enfants vers les baies de sable peu profondes.",
+      "it": "Cefalonia e la piu grande delle isole Ionie e una delle piu verdi, un luogo montuoso e boscoso dove i resort per famiglie restano piacevolmente tranquilli. E piu calma e rilassata delle isole festaiole dell'Egeo, con una serie di morbide spiagge sabbiose, Makris Gialos e Platis Gialos vicino a Lassi, Lourdas, Skala, che digradano dolcemente per i primi bagni. I gioielli dell'isola sono naturali: il lago sotterraneo della grotta di Melissani, il belvedere di Myrtos incorniciato dalle scogliere e acqua turchese quasi ovunque. Fate solo attenzione alle spiagge: alcuni luoghi celebri come Myrtos sono di ciottoli ripidi con un salto improvviso e non sono adatti ai piu piccoli, quindi le famiglie con bambini piccoli sono meglio indirizzate verso le baie sabbiose e basse.",
+      "de": "Kefalonia ist die groesste der Ionischen Inseln und eine der gruensten, ein bergiger, bewaldeter Ort, an dem Familienresorts angenehm zurueckhaltend bleiben. Sie ist ruhiger und entspannter als die Partyinseln der Aegaeis, mit einer Reihe weicher Sandstraende, Makris Gialos und Platis Gialos bei Lassi, Lourdas, Skala, die fuer erste Schwimmversuche sanft abfallen. Die Glanzstuecke der Insel sind natuerlich: der unterirdische See der Melissani-Hoehle, der von Klippen gerahmte Myrtos-Aussichtspunkt und tuerkisfarbenes Wasser fast ueberall. Seien Sie nur strandbewusst: Einige beruehmte Orte wie Myrtos sind steiler Kies mit ploetzlichem Abfall und nicht kleinkindtauglich, Familien mit Kleinen lenkt man daher besser zu den flachen Sandbuchten.",
+      "es": "Cefalonia es la mayor de las islas Jonicas y una de las mas verdes, un lugar montanoso y boscoso donde los resorts familiares se mantienen agradablemente discretos. Es mas tranquila y relajada que las islas de fiesta del Egeo, con una sucesion de suaves playas de arena, Makris Gialos y Platis Gialos cerca de Lassi, Lourdas, Skala, que descienden suavemente para los primeros banos. Las joyas de la isla son naturales: el lago subterraneo de la cueva de Melissani, el mirador de Myrtos enmarcado por acantilados y agua turquesa casi por todas partes. Solo hay que estar atento a las playas: algunos lugares famosos como Myrtos son de guijarros empinados con un desnivel repentino y no son aptos para los mas pequenos, asi que conviene orientar a las familias con ninos pequenos hacia las bahias de arena poco profundas.",
+      "pt": "Cefalonia e a maior das ilhas Jonicas e uma das mais verdes, um lugar montanhoso e arborizado onde os resorts familiares se mantem agradavelmente discretos. E mais calma e descontraida do que as ilhas de festa do Egeu, com uma sucessao de suaves praias de areia, Makris Gialos e Platis Gialos perto de Lassi, Lourdas, Skala, que descem suavemente para os primeiros banhos. As joias da ilha sao naturais: o lago subterraneo da gruta de Melissani, o miradouro de Myrtos emoldurado por falesias e agua turquesa quase por toda a parte. Basta estar atento as praias: alguns locais famosos como Myrtos sao de calhaus ingremes com um desnivel repentino e nao servem para os mais pequenos, por isso as familias com criancas pequenas devem ser orientadas para as baias de areia pouco profundas."
+    },
+    "whyKids": {
+      "en": [
+        "Soft, gently shelving sandy beaches at Makris Gialos, Platis Gialos, Lourdas and Skala for first swims",
+        "The Melissani cave underground lake, where boats glide under an open roof of turquoise light",
+        "A green, mountainous island with easy nature trips, from Myrtos viewpoints to hillside villages",
+        "Calmer and more relaxed than the busier Aegean party islands, with low-key family resorts"
+      ],
+      "fr": [
+        "Des plages de sable en pente douce a Makris Gialos, Platis Gialos, Lourdas et Skala pour les premieres baignades",
+        "Le lac souterrain de la grotte de Melissani, ou les barques glissent sous un toit ouvert de lumiere turquoise",
+        "Une ile verte et montagneuse avec des sorties nature faciles, des belvederes de Myrtos aux villages de collines",
+        "Plus calme et plus detendue que les iles festives de la mer Egee, avec des stations familiales discretes"
+      ],
+      "it": [
+        "Spiagge sabbiose e digradanti a Makris Gialos, Platis Gialos, Lourdas e Skala per i primi bagni",
+        "Il lago sotterraneo della grotta di Melissani, dove le barche scivolano sotto un tetto aperto di luce turchese",
+        "Un'isola verde e montuosa con facili gite nella natura, dai belvedere di Myrtos ai villaggi collinari",
+        "Piu calma e rilassata delle affollate isole festaiole dell'Egeo, con resort familiari discreti"
+      ],
+      "de": [
+        "Weiche, sanft abfallende Sandstraende bei Makris Gialos, Platis Gialos, Lourdas und Skala fuer erste Schwimmversuche",
+        "Der unterirdische See der Melissani-Hoehle, wo Boote unter einem offenen Dach aus tuerkisem Licht gleiten",
+        "Eine gruene, bergige Insel mit einfachen Naturausfluegen, von Myrtos-Aussichtspunkten bis zu Bergdoerfern",
+        "Ruhiger und entspannter als die belebteren Partyinseln der Aegaeis, mit zurueckhaltenden Familienresorts"
+      ],
+      "es": [
+        "Playas de arena de suave pendiente en Makris Gialos, Platis Gialos, Lourdas y Skala para los primeros banos",
+        "El lago subterraneo de la cueva de Melissani, donde las barcas se deslizan bajo un techo abierto de luz turquesa",
+        "Una isla verde y montanosa con salidas de naturaleza faciles, de los miradores de Myrtos a los pueblos de montana",
+        "Mas tranquila y relajada que las concurridas islas de fiesta del Egeo, con resorts familiares discretos"
+      ],
+      "pt": [
+        "Praias de areia de suave inclinacao em Makris Gialos, Platis Gialos, Lourdas e Skala para os primeiros banhos",
+        "O lago subterraneo da gruta de Melissani, onde os barcos deslizam sob um teto aberto de luz turquesa",
+        "Uma ilha verde e montanhosa com passeios de natureza faceis, dos miradouros de Myrtos as aldeias de montanha",
+        "Mais calma e descontraida do que as movimentadas ilhas de festa do Egeu, com resorts familiares discretos"
+      ]
+    },
+    "bestAreas": {
+      "en": [
+        "Lassi: the most convenient family base, walkable to Argostoli with the sandy shallow beaches of Makris Gialos and Platis Gialos",
+        "Skala: a lively resort village on a long sand-and-shingle beach on the sunnier south-east coast",
+        "Lourdas: a quiet, green bay with a long sandy beach, best for families who want scenery and calm",
+        "Makris Gialos and Platis Gialos: the two signature sandy blue-flag beaches, ideal for toddlers and first swims"
+      ],
+      "fr": [
+        "Lassi: la base familiale la plus pratique, a pied d'Argostoli, avec les plages de sable peu profondes de Makris Gialos et Platis Gialos",
+        "Skala: un village de station anime sur une longue plage de sable et galets, sur la cote sud-est plus ensoleillee",
+        "Lourdas: une baie calme et verdoyante avec une longue plage de sable, ideale pour les familles en quete de paysage et de tranquillite",
+        "Makris Gialos et Platis Gialos: les deux plages de sable emblematiques pavillon bleu, ideales pour les tout-petits et les premieres baignades"
+      ],
+      "it": [
+        "Lassi: la base familiare piu comoda, a piedi da Argostoli, con le spiagge sabbiose e basse di Makris Gialos e Platis Gialos",
+        "Skala: un vivace villaggio-resort su una lunga spiaggia di sabbia e ghiaia, sulla piu soleggiata costa sud-orientale",
+        "Lourdas: una baia tranquilla e verde con una lunga spiaggia sabbiosa, ideale per famiglie in cerca di paesaggio e calma",
+        "Makris Gialos e Platis Gialos: le due spiagge sabbiose simbolo bandiera blu, ideali per i piu piccoli e i primi bagni"
+      ],
+      "de": [
+        "Lassi: die praktischste Familienbasis, zu Fuss nach Argostoli, mit den flachen Sandstraenden Makris Gialos und Platis Gialos",
+        "Skala: ein lebhaftes Resortdorf an einem langen Sand-Kies-Strand an der sonnigeren Suedostkueste",
+        "Lourdas: eine ruhige, gruene Bucht mit langem Sandstrand, ideal fuer Familien, die Landschaft und Ruhe suchen",
+        "Makris Gialos und Platis Gialos: die beiden markanten sandigen Blaue-Flagge-Straende, ideal fuer Kleinkinder und erste Schwimmversuche"
+      ],
+      "es": [
+        "Lassi: la base familiar mas comoda, a pie de Argostoli, con las playas de arena poco profundas de Makris Gialos y Platis Gialos",
+        "Skala: un animado pueblo turistico en una larga playa de arena y grava, en la costa sureste mas soleada",
+        "Lourdas: una bahia tranquila y verde con una larga playa de arena, ideal para familias que buscan paisaje y calma",
+        "Makris Gialos y Platis Gialos: las dos playas de arena emblematicas con bandera azul, ideales para los mas pequenos y los primeros banos"
+      ],
+      "pt": [
+        "Lassi: a base familiar mais pratica, a pe de Argostoli, com as praias de areia pouco profundas de Makris Gialos e Platis Gialos",
+        "Skala: uma animada aldeia turistica numa longa praia de areia e cascalho, na costa sudeste mais soalheira",
+        "Lourdas: uma baia tranquila e verde com uma longa praia de areia, ideal para familias que procuram paisagem e calma",
+        "Makris Gialos e Platis Gialos: as duas praias de areia emblematicas com bandeira azul, ideais para os mais pequenos e os primeiros banhos"
+      ]
+    },
+    "stats": [
+      {
+        "value": "26 to 31C",
+        "label": {
+          "en": "Typical summer day highs",
+          "fr": "Maximums typiques en ete",
+          "it": "Massime tipiche in estate",
+          "de": "Typische Tageshoechstwerte im Sommer",
+          "es": "Maximas tipicas en verano",
+          "pt": "Maximas tipicas no verao"
+        }
+      },
+      {
+        "value": "3 to 3.5h",
+        "label": {
+          "en": "Flight from northern Europe",
+          "fr": "Vol depuis l'Europe du Nord",
+          "it": "Volo dal Nord Europa",
+          "de": "Flug aus Nordeuropa",
+          "es": "Vuelo desde el norte de Europa",
+          "pt": "Voo a partir do norte da Europa"
+        }
+      },
+      {
+        "value": "1",
+        "label": {
+          "en": "Underground lake at Melissani cave",
+          "fr": "Lac souterrain de la grotte de Melissani",
+          "it": "Lago sotterraneo della grotta di Melissani",
+          "de": "Unterirdischer See der Melissani-Hoehle",
+          "es": "Lago subterraneo de la cueva de Melissani",
+          "pt": "Lago subterraneo da gruta de Melissani"
+        }
+      },
+      {
+        "value": "20 min",
+        "label": {
+          "en": "Airport to Lassi and Argostoli",
+          "fr": "Aeroport a Lassi et Argostoli",
+          "it": "Aeroporto a Lassi e Argostoli",
+          "de": "Flughafen nach Lassi und Argostoli",
+          "es": "Aeropuerto a Lassi y Argostoli",
+          "pt": "Aeroporto a Lassi e Argostoli"
+        }
+      }
+    ],
+    "activities": [
+      {
+        "emoji": "🚣",
+        "name": {
+          "en": "Melissani cave lake boat ride",
+          "fr": "Balade en barque sur le lac de la grotte de Melissani",
+          "it": "Giro in barca sul lago della grotta di Melissani",
+          "de": "Bootsfahrt auf dem Hoehlensee von Melissani",
+          "es": "Paseo en barca por el lago de la cueva de Melissani",
+          "pt": "Passeio de barco no lago da gruta de Melissani"
+        },
+        "detail": {
+          "en": "A short boat glides across an underground lake where midday sun pours through an open roof and turns the water electric blue.",
+          "fr": "Une courte barque glisse sur un lac souterrain ou le soleil de midi entre par un toit ouvert et rend l'eau d'un bleu electrique.",
+          "it": "Una breve barca scivola su un lago sotterraneo dove il sole di mezzogiorno entra da un tetto aperto e rende l'acqua di un blu elettrico.",
+          "de": "Ein kurzes Boot gleitet ueber einen unterirdischen See, wo die Mittagssonne durch ein offenes Dach faellt und das Wasser elektrisch blau faerbt.",
+          "es": "Una breve barca se desliza por un lago subterraneo donde el sol del mediodia entra por un techo abierto y tine el agua de azul electrico.",
+          "pt": "Um breve barco desliza sobre um lago subterraneo onde o sol do meio-dia entra por um teto aberto e tinge a agua de azul eletrico."
+        },
+        "ages": [
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Midday",
+          "fr": "Midi",
+          "it": "Mezzogiorno",
+          "de": "Mittag",
+          "es": "Mediodia",
+          "pt": "Meio-dia"
+        }
+      },
+      {
+        "emoji": "🏖️",
+        "name": {
+          "en": "Makris Gialos sandy beach day",
+          "fr": "Journee plage a Makris Gialos",
+          "it": "Giornata in spiaggia a Makris Gialos",
+          "de": "Sandstrandtag am Makris Gialos",
+          "es": "Dia de playa en Makris Gialos",
+          "pt": "Dia de praia em Makris Gialos"
+        },
+        "detail": {
+          "en": "One of the island's best family beaches, soft sand and shallow, gently shelving water with sunbeds and beach bars near Lassi.",
+          "fr": "L'une des meilleures plages familiales de l'ile, sable fin et eau peu profonde en pente douce, avec transats et bars de plage pres de Lassi.",
+          "it": "Una delle migliori spiagge per famiglie dell'isola, sabbia fine e acqua bassa e digradante, con lettini e beach bar vicino a Lassi.",
+          "de": "Einer der besten Familienstraende der Insel, feiner Sand und flaches, sanft abfallendes Wasser mit Liegen und Strandbars nahe Lassi.",
+          "es": "Una de las mejores playas familiares de la isla, arena fina y agua poco profunda de suave pendiente, con tumbonas y chiringuitos cerca de Lassi.",
+          "pt": "Uma das melhores praias familiares da ilha, areia fina e agua pouco profunda de suave inclinacao, com espreguicadeiras e bares de praia perto de Lassi."
+        },
+        "ages": [
+          "baby",
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Morning",
+          "fr": "Matin",
+          "it": "Mattina",
+          "de": "Vormittag",
+          "es": "Manana",
+          "pt": "Manha"
+        }
+      },
+      {
+        "emoji": "📷",
+        "name": {
+          "en": "Myrtos viewpoint stop",
+          "fr": "Arret au belvedere de Myrtos",
+          "it": "Sosta al belvedere di Myrtos",
+          "de": "Halt am Myrtos-Aussichtspunkt",
+          "es": "Parada en el mirador de Myrtos",
+          "pt": "Paragem no miradouro de Myrtos"
+        },
+        "detail": {
+          "en": "The cliff-top viewpoint over Myrtos is a jaw-dropping photo stop; admire the beach from above rather than swimming, as it is steep pebble with a drop-off.",
+          "fr": "Le belvedere en haut des falaises sur Myrtos est un arret photo saisissant; admirez la plage d'en haut plutot que d'y nager, car elle est en galets raides avec un tombant.",
+          "it": "Il belvedere in cima alle scogliere su Myrtos e una sosta fotografica mozzafiato; ammirate la spiaggia dall'alto piuttosto che nuotare, perche e di ciottoli ripidi con un salto.",
+          "de": "Der Aussichtspunkt oben auf den Klippen ueber Myrtos ist ein atemberaubender Fotostopp; bewundern Sie den Strand von oben, statt zu schwimmen, da er steiler Kies mit Abfall ist.",
+          "es": "El mirador en lo alto de los acantilados sobre Myrtos es una parada fotografica impresionante; admira la playa desde arriba en lugar de nadar, ya que es de guijarros empinados con desnivel.",
+          "pt": "O miradouro no topo das falesias sobre Myrtos e uma paragem fotografica de cortar a respiracao; admire a praia de cima em vez de nadar, pois e de calhaus ingremes com desnivel."
+        },
+        "ages": [
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Afternoon",
+          "fr": "Apres-midi",
+          "it": "Pomeriggio",
+          "de": "Nachmittag",
+          "es": "Tarde",
+          "pt": "Tarde"
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "q": {
+          "en": "When is the best time to visit Kefalonia with kids?",
+          "fr": "Quelle est la meilleure periode pour visiter Cephalonie avec des enfants?",
+          "it": "Qual e il periodo migliore per visitare Cefalonia con bambini?",
+          "de": "Wann ist die beste Zeit fuer einen Kefalonia-Besuch mit Kindern?",
+          "es": "Cual es la mejor epoca para visitar Cefalonia con ninos?",
+          "pt": "Qual e a melhor altura para visitar Cefalonia com criancas?"
+        },
+        "a": {
+          "en": "Late May to June and September are warm with sea temperatures already comfortable, greener landscapes and fewer crowds than the peak heat of July and August.",
+          "fr": "Fin mai a juin et septembre sont chauds avec une mer deja agreable, des paysages plus verts et moins de monde que la chaleur intense de juillet et aout.",
+          "it": "Da fine maggio a giugno e a settembre fa caldo con temperature del mare gia piacevoli, paesaggi piu verdi e meno folla rispetto al caldo intenso di luglio e agosto.",
+          "de": "Ende Mai bis Juni und September sind warm mit bereits angenehmen Meerestemperaturen, gruenerer Landschaft und weniger Menschen als in der Spitzenhitze von Juli und August.",
+          "es": "De finales de mayo a junio y en septiembre hace calor con temperaturas del mar ya agradables, paisajes mas verdes y menos gente que el calor maximo de julio y agosto.",
+          "pt": "De finais de maio a junho e em setembro esta quente com temperaturas do mar ja agradaveis, paisagens mais verdes e menos gente do que o calor maximo de julho e agosto."
+        }
+      },
+      {
+        "q": {
+          "en": "Do we need a hire car in Kefalonia?",
+          "fr": "Faut-il une voiture de location a Cephalonie?",
+          "it": "Serve un'auto a noleggio a Cefalonia?",
+          "de": "Braucht man auf Kefalonia einen Mietwagen?",
+          "es": "Hace falta coche de alquiler en Cefalonia?",
+          "pt": "E preciso carro alugado em Cefalonia?"
+        },
+        "a": {
+          "en": "It really helps. Kefalonia is big and hilly with beaches spread out, so a hire car makes reaching Melissani, Myrtos and the different sandy bays far easier than relying on buses.",
+          "fr": "Cela aide vraiment. Cephalonie est grande et vallonnee, avec des plages dispersees, donc une voiture de location rend l'acces a Melissani, Myrtos et aux differentes baies de sable bien plus facile que les bus.",
+          "it": "Aiuta davvero. Cefalonia e grande e collinare con spiagge distanti, quindi un'auto a noleggio rende molto piu facile raggiungere Melissani, Myrtos e le diverse baie sabbiose rispetto agli autobus.",
+          "de": "Es hilft wirklich. Kefalonia ist gross und huegelig mit weit verstreuten Straenden, ein Mietwagen macht Melissani, Myrtos und die verschiedenen Sandbuchten viel leichter erreichbar als Busse.",
+          "es": "Ayuda mucho. Cefalonia es grande y montanosa con playas dispersas, asi que un coche de alquiler facilita mucho llegar a Melissani, Myrtos y las distintas bahias de arena frente a depender de autobuses.",
+          "pt": "Ajuda mesmo. Cefalonia e grande e montanhosa com praias dispersas, por isso um carro alugado torna muito mais facil chegar a Melissani, Myrtos e as diferentes baias de areia do que depender de autocarros."
+        }
+      },
+      {
+        "q": {
+          "en": "Which beaches are best for toddlers?",
+          "fr": "Quelles plages conviennent le mieux aux tout-petits?",
+          "it": "Quali spiagge sono migliori per i piu piccoli?",
+          "de": "Welche Straende sind am besten fuer Kleinkinder?",
+          "es": "Que playas son mejores para los mas pequenos?",
+          "pt": "Que praias sao melhores para os mais pequenos?"
+        },
+        "a": {
+          "en": "Stick to the sandy, gently shelving bays of Makris Gialos and Platis Gialos near Lassi, Lourdas and Skala. Famous Myrtos is stunning but steep pebble with a sudden drop-off, so it is for photos and older children rather than toddler swims.",
+          "fr": "Privilegiez les baies de sable en pente douce de Makris Gialos et Platis Gialos pres de Lassi, Lourdas et Skala. La celebre Myrtos est magnifique mais en galets raides avec un tombant soudain, elle est donc pour les photos et les plus grands plutot que pour les baignades des tout-petits.",
+          "it": "Puntate sulle baie sabbiose e digradanti di Makris Gialos e Platis Gialos vicino a Lassi, Lourdas e Skala. La famosa Myrtos e splendida ma di ciottoli ripidi con un salto improvviso, quindi e da foto e per i piu grandi piuttosto che per i bagni dei piu piccoli.",
+          "de": "Halten Sie sich an die sandigen, sanft abfallenden Buchten Makris Gialos und Platis Gialos bei Lassi, Lourdas und Skala. Das beruehmte Myrtos ist atemberaubend, aber steiler Kies mit ploetzlichem Abfall, also eher fuer Fotos und aeltere Kinder als fuer Kleinkindschwimmen.",
+          "es": "Quedaos con las bahias de arena y suave pendiente de Makris Gialos y Platis Gialos cerca de Lassi, Lourdas y Skala. La famosa Myrtos es impresionante pero de guijarros empinados con un desnivel repentino, asi que es para fotos y ninos mayores mas que para banos de los mas pequenos.",
+          "pt": "Fiquem pelas baias de areia e suave inclinacao de Makris Gialos e Platis Gialos perto de Lassi, Lourdas e Skala. A famosa Myrtos e deslumbrante mas de calhaus ingremes com um desnivel repentino, por isso e para fotos e criancas mais velhas em vez de banhos dos mais pequenos."
+        }
+      }
+    ],
+    "parentTip": {
+      "en": "Match your base to your kids' ages: sandy Lassi, Lourdas or Skala for toddlers who want shallow swims, and the greener Sami and north-east if you are here for Melissani, boat trips and scenery over beach days.",
+      "fr": "Adaptez votre base a l'age des enfants: Lassi, Lourdas ou Skala pour les tout-petits qui veulent des baignades peu profondes, et le nord-est plus vert autour de Sami si vous venez pour Melissani, les sorties en bateau et les paysages plutot que les journees plage.",
+      "it": "Adattate la vostra base all'eta dei bambini: la sabbiosa Lassi, Lourdas o Skala per i piu piccoli che vogliono bagni in acqua bassa, e il piu verde nord-est attorno a Sami se siete qui per Melissani, gite in barca e paesaggi piu che per giornate di spiaggia.",
+      "de": "Passen Sie Ihre Basis dem Alter der Kinder an: das sandige Lassi, Lourdas oder Skala fuer Kleinkinder, die flaches Schwimmen moechten, und der gruenere Nordosten um Sami, wenn Sie fuer Melissani, Bootsausfluege und Landschaft statt Strandtage hier sind.",
+      "es": "Ajusta tu base a la edad de los ninos: la arenosa Lassi, Lourdas o Skala para los mas pequenos que quieren banos poco profundos, y el mas verde noreste en torno a Sami si vienes por Melissani, excursiones en barco y paisaje mas que por dias de playa.",
+      "pt": "Ajuste a sua base a idade das criancas: a arenosa Lassi, Lourdas ou Skala para os mais pequenos que querem banhos em agua rasa, e o mais verde nordeste em torno de Sami se vem por Melissani, passeios de barco e paisagem em vez de dias de praia."
+    },
+    "goodToKnow": {
+      "en": "Kefalonia is a big, hilly island, so a hire car makes a real difference for reaching Melissani, Myrtos and the scattered sandy beaches. Be beach-aware: the famous Myrtos is steep pebble with a sudden drop-off and is not toddler-calm, so keep little ones to sandy shallow bays like Makris Gialos, Lourdas and Skala. There are fewer huge all-inclusives than Crete or Rhodes, with more family-run hotels and aparthotels, which is part of the island's relaxed, greener charm.",
+      "fr": "Cephalonie est une grande ile vallonnee, alors une voiture de location fait une vraie difference pour rejoindre Melissani, Myrtos et les plages de sable eparpillees. Restez attentifs aux plages: la celebre Myrtos est en galets raides avec un tombant soudain et ne convient pas aux tout-petits, gardez donc les plus jeunes vers les baies de sable peu profondes comme Makris Gialos, Lourdas et Skala. Il y a moins de grands complexes tout compris qu'en Crete ou a Rhodes, avec davantage d'hotels et d'apparthotels familiaux, ce qui fait partie du charme detendu et plus vert de l'ile.",
+      "it": "Cefalonia e un'isola grande e collinare, quindi un'auto a noleggio fa davvero la differenza per raggiungere Melissani, Myrtos e le spiagge sabbiose sparse. Fate attenzione alle spiagge: la famosa Myrtos e di ciottoli ripidi con un salto improvviso e non e adatta ai piu piccoli, quindi tenete i bambini verso le baie sabbiose e basse come Makris Gialos, Lourdas e Skala. Ci sono meno grandi villaggi all inclusive rispetto a Creta o Rodi, con piu hotel e aparthotel a conduzione familiare, parte del fascino rilassato e piu verde dell'isola.",
+      "de": "Kefalonia ist eine grosse, huegelige Insel, ein Mietwagen macht daher einen echten Unterschied, um Melissani, Myrtos und die verstreuten Sandstraende zu erreichen. Seien Sie strandbewusst: Das beruehmte Myrtos ist steiler Kies mit ploetzlichem Abfall und nicht kleinkindtauglich, halten Sie die Kleinen daher an flachen Sandbuchten wie Makris Gialos, Lourdas und Skala. Es gibt weniger riesige All-inclusive-Anlagen als auf Kreta oder Rhodos, dafuer mehr familiengefuehrte Hotels und Aparthotels, was zum entspannten, gruereren Charme der Insel gehoert.",
+      "es": "Cefalonia es una isla grande y montanosa, asi que un coche de alquiler marca una diferencia real para llegar a Melissani, Myrtos y las playas de arena dispersas. Estad atentos a las playas: la famosa Myrtos es de guijarros empinados con un desnivel repentino y no es apta para los mas pequenos, asi que mantened a los ninos en bahias de arena poco profundas como Makris Gialos, Lourdas y Skala. Hay menos grandes resorts todo incluido que en Creta o Rodas, con mas hoteles y apartahoteles de gestion familiar, parte del encanto relajado y mas verde de la isla.",
+      "pt": "Cefalonia e uma ilha grande e montanhosa, por isso um carro alugado faz uma diferenca real para chegar a Melissani, Myrtos e as praias de areia dispersas. Estejam atentos as praias: a famosa Myrtos e de calhaus ingremes com um desnivel repentino e nao serve para os mais pequenos, por isso mantenham as criancas em baias de areia pouco profundas como Makris Gialos, Lourdas e Skala. Ha menos grandes resorts tudo incluido do que em Creta ou Rodes, com mais hoteis e apart-hoteis de gestao familiar, parte do charme descontraido e mais verde da ilha."
+    },
+    "photos": [
+      "beachSunset",
+      "coastTown",
+      "poolPalms"
+    ]
+  }
+}

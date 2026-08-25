@@ -1,0 +1,1472 @@
+{
+  "hotels": [
+    {
+      "key": "hammamet-tui-magic-life-africana",
+      "destinationKey": "hammamet",
+      "name": "TUI Magic Life Africana",
+      "area": {
+        "en": "Yasmine Hammamet",
+        "fr": "Yasmine Hammamet"
+      },
+      "lat": 36.3587,
+      "lng": 10.5314,
+      "zoom": 12,
+      "address": "TUI Magic Life Africana, Zone Touristique Yasmine Hammamet, BP 48, 8050 Hammamet, Tunisia",
+      "priceTier": 3,
+      "priceFrom": 95,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "baby-friendly",
+        "toddler-friendly",
+        "family-suites"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolPalms",
+        "beachSunset",
+        "poolOrange"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 82,
+        "pool": 86,
+        "dining": 84,
+        "safety": 84,
+        "convenience": 82,
+        "location": 83,
+        "extras": 88
+      },
+      "roomsSummary": {
+        "en": "Bright, recently refreshed rooms set in green gardens, with family rooms and connecting options that sleep two adults and two children in comfort. Most have a balcony or terrace, and cots are free on request, so a baby and an older sibling fit without a squeeze.",
+        "fr": "Chambres claires et récemment rafraîchies au coeur de jardins verdoyants, avec des chambres familiales et des chambres communicantes qui accueillent sans peine deux adultes et deux enfants. La plupart ont un balcon ou une terrasse, et les lits bébé sont gratuits sur demande, de quoi loger un bébé et un aîné sans se serrer."
+      },
+      "intro": {
+        "en": "This is the crowd-pleaser of Yasmine Hammamet: a big, buzzy all-inclusive club built for families, with eight pools, three free water slides and an age-graded kids club that runs six days a week. The all-in club concept means food, drinks, sports and evening shows are all covered, so once you arrive the wallet stays shut. It sits in gardens right on a private beach, a short walk from the Yasmine marina and the Carthage Land theme park, which makes the harder-to-fill afternoons easy.",
+        "fr": "C'est la valeur sûre de Yasmine Hammamet: un grand club tout compris animé, pensé pour les familles, avec huit piscines, trois toboggans gratuits et un club enfants par tranche d'âge ouvert six jours sur sept. Le concept de club tout compris couvre repas, boissons, sports et spectacles du soir, si bien qu'une fois arrivé, le portefeuille reste fermé. Il est niché dans des jardins en bord de plage privée, à quelques minutes à pied de la marina de Yasmine et du parc Carthage Land, ce qui remplit facilement les après-midis les plus longs."
+      },
+      "highlights": {
+        "en": [
+          "Eight pools including a family pool with three water slides",
+          "Free age-graded kids club with an evening mini disco",
+          "Private beach right on the doorstep",
+          "Walkable to the Yasmine marina and Carthage Land"
+        ],
+        "fr": [
+          "Huit piscines dont une piscine familiale avec trois toboggans",
+          "Club enfants gratuit par tranche d'âge et mini disco le soir",
+          "Plage privée juste devant l'hôtel",
+          "À pied de la marina de Yasmine et de Carthage Land"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Genuine all-in club: almost nothing costs extra",
+          "Strong, varied kids and teen programme",
+          "Water slides free and on site",
+          "Lively evening entertainment for all ages"
+        ],
+        "fr": [
+          "Vrai club tout compris: presque rien ne coûte en plus",
+          "Programme enfants et ados riche et varié",
+          "Toboggans gratuits et sur place",
+          "Animation du soir vivante pour tous les âges"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Big and busy, so it can feel crowded in peak summer",
+          "Buffet-focused dining rather than a la carte",
+          "Entertainment noise carries to nearby rooms at night"
+        ],
+        "fr": [
+          "Grand et fréquenté, il peut sembler bondé au coeur de l'été",
+          "Restauration surtout en buffet plutôt qu'à la carte",
+          "Le bruit de l'animation porte le soir vers les chambres proches"
+        ]
+      },
+      "verdict": {
+        "en": "The easy yes for families who want slides, a proper kids club and a full all-in club at a price Spain cannot match. Best for sociable families who like a lively resort rather than a quiet one.",
+        "fr": "Le oui facile pour les familles qui veulent des toboggans, un vrai club enfants et un club tout compris complet à un prix que l'Espagne ne peut pas suivre. Idéal pour les familles sociables qui préfèrent un complexe animé à un lieu tranquille."
+      },
+      "parentTip": {
+        "en": "Ask for a room in the quieter garden blocks away from the main stage: you keep the short walk to the pools but lose the late-night music.",
+        "fr": "Demandez une chambre dans les blocs jardin plus calmes, à l'écart de la scène principale: vous gardez la piscine à deux pas mais échappez à la musique tardive."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water slides",
+            "fr": "Toboggans"
+          },
+          "value": {
+            "en": "Three, free on site",
+            "fr": "Trois, gratuits sur place"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Age-graded, included",
+            "fr": "Par tranche d'âge, inclus"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Private, on the doorstep",
+            "fr": "Privée, juste devant"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "Full all-in club",
+            "fr": "Club tout compris complet"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Are the water slides really free?",
+            "fr": "Les toboggans sont-ils vraiment gratuits?"
+          },
+          "a": {
+            "en": "Yes, the three slides at the family pool are included in the all-in club, with no extra charge and no wristband upgrade needed.",
+            "fr": "Oui, les trois toboggans de la piscine familiale sont compris dans le club tout compris, sans supplément ni bracelet à surclasser."
+          }
+        },
+        {
+          "q": {
+            "en": "What ages does the kids club cover?",
+            "fr": "Quels âges le club enfants couvre-t-il?"
+          },
+          "a": {
+            "en": "The club runs age-graded groups for younger children through to teens, six days a week, with an evening mini disco for the little ones.",
+            "fr": "Le club propose des groupes par tranche d'âge, des plus jeunes aux ados, six jours sur sept, avec une mini disco le soir pour les petits."
+          }
+        },
+        {
+          "q": {
+            "en": "How far is the marina?",
+            "fr": "À quelle distance se trouve la marina?"
+          },
+          "a": {
+            "en": "The Yasmine Hammamet marina and the Carthage Land theme park are a short, flat walk away, easy to reach with a pram.",
+            "fr": "La marina de Yasmine Hammamet et le parc Carthage Land sont à quelques minutes à pied sur terrain plat, faciles à rejoindre avec une poussette."
+          }
+        }
+      ]
+    },
+    {
+      "key": "hammamet-iberostar-waves-averroes",
+      "destinationKey": "hammamet",
+      "name": "Iberostar Waves Averroes",
+      "area": {
+        "en": "Yasmine Hammamet",
+        "fr": "Yasmine Hammamet"
+      },
+      "lat": 36.369,
+      "lng": 10.535,
+      "zoom": 12,
+      "address": "Iberostar Waves Averroes, Zone Touristique Yasmine Hammamet, BP 34, 8050 Hammamet, Tunisia",
+      "priceTier": 3,
+      "priceFrom": 80,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "beach-access",
+        "baby-friendly",
+        "toddler-friendly",
+        "family-suites"
+      ],
+      "clubFree": true,
+      "photos": [
+        "whiteResortPool",
+        "beachSunset",
+        "deckLoungersSea"
+      ],
+      "scores": {
+        "rooms": 78,
+        "baby": 78,
+        "pool": 80,
+        "dining": 82,
+        "safety": 84,
+        "convenience": 84,
+        "location": 86,
+        "extras": 80
+      },
+      "roomsSummary": {
+        "en": "Comfortable, well-kept rooms in Mediterranean style, most with a balcony over the gardens or towards the sea. Family rooms sleep four, and the reliable Iberostar upkeep means clean bathrooms and working air conditioning, which is not a given at this price on the coast.",
+        "fr": "Chambres confortables et bien entretenues de style méditerranéen, la plupart avec balcon sur les jardins ou vers la mer. Les chambres familiales accueillent quatre personnes, et le sérieux d'entretien Iberostar garantit salles de bain propres et climatisation qui fonctionne, ce qui n'est pas acquis à ce prix sur la côte."
+      },
+      "intro": {
+        "en": "A dependable four-star beachfront all-inclusive run by a name European families trust, set on a wide sweep of sand a short walk from the heart of Yasmine Hammamet. It trades big water slides for calm competence: a proper mini club, a shallow kids pool, gentle sea and tidy grounds. The location is the winner here, close enough to walk to the marina, the medina replica and the shops, so you are never stuck inside the gates.",
+        "fr": "Un tout compris quatre étoiles fiable en bord de mer, porté par un nom en qui les familles européennes ont confiance, posé sur une large plage de sable à quelques minutes à pied du coeur de Yasmine Hammamet. Il troque les grands toboggans contre une sérénité efficace: un vrai mini club, une piscine enfants peu profonde, une mer douce et un parc soigné. L'emplacement fait la différence, assez proche pour rejoindre à pied la marina, la médina reconstituée et les boutiques, de quoi ne jamais rester enfermé."
+      },
+      "highlights": {
+        "en": [
+          "Wide, gently shelving beach in front of the hotel",
+          "Free mini club and a shallow kids pool",
+          "Short walk to the Yasmine marina and shops",
+          "Reliable Iberostar upkeep and service"
+        ],
+        "fr": [
+          "Large plage en pente douce devant l'hôtel",
+          "Mini club gratuit et piscine enfants peu profonde",
+          "À pied de la marina de Yasmine et des boutiques",
+          "Entretien et service Iberostar fiables"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Trusted brand with consistent standards",
+          "Excellent, walkable Yasmine location",
+          "Calm, family-friendly beach",
+          "Good all-inclusive food for the price"
+        ],
+        "fr": [
+          "Marque de confiance aux standards constants",
+          "Excellent emplacement à Yasmine, tout à pied",
+          "Plage calme et adaptée aux familles",
+          "Bonne cuisine tout compris pour le prix"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No big water slides on site",
+          "Decor is a little dated in the older wings",
+          "Evening entertainment is gentle rather than lively"
+        ],
+        "fr": [
+          "Pas de grands toboggans sur place",
+          "Décoration un peu datée dans les ailes anciennes",
+          "Animation du soir douce plutôt qu'endiablée"
+        ]
+      },
+      "verdict": {
+        "en": "The steady, walkable choice in Yasmine for families who value a trusted brand and a great beach over slides and non-stop entertainment. Especially good with younger children.",
+        "fr": "Le choix sûr et bien situé à Yasmine pour les familles qui privilégient une marque de confiance et une belle plage aux toboggans et à l'animation continue. Particulièrement adapté aux jeunes enfants."
+      },
+      "parentTip": {
+        "en": "The sea shelves very gently here, so it is one of the safest local beaches for toddlers to paddle at the water's edge.",
+        "fr": "La mer descend très doucement ici, c'est donc l'une des plages les plus sûres du coin pour laisser les tout-petits barboter au bord de l'eau."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Wide, gently shelving",
+            "fr": "Large, en pente douce"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free mini club",
+            "fr": "Mini club gratuit"
+          }
+        },
+        {
+          "icon": "🚶",
+          "label": {
+            "en": "Location",
+            "fr": "Emplacement"
+          },
+          "value": {
+            "en": "Walk to marina",
+            "fr": "Marina à pied"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "All-inclusive",
+            "fr": "Tout compris"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is there a kids club?",
+            "fr": "Y a-t-il un club enfants?"
+          },
+          "a": {
+            "en": "Yes, there is a free mini club with a daily programme of games and activities, plus a shallow children's pool beside the main pool.",
+            "fr": "Oui, un mini club gratuit propose chaque jour jeux et activités, avec une piscine enfants peu profonde à côté de la piscine principale."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we walk into Yasmine Hammamet?",
+            "fr": "Peut-on rejoindre Yasmine Hammamet à pied?"
+          },
+          "a": {
+            "en": "Yes, the marina, the medina replica and the shops are a short, flat walk along the seafront, easy with children.",
+            "fr": "Oui, la marina, la médina reconstituée et les boutiques sont à quelques minutes à pied le long du front de mer, facile avec des enfants."
+          }
+        },
+        {
+          "q": {
+            "en": "Are there water slides?",
+            "fr": "Y a-t-il des toboggans?"
+          },
+          "a": {
+            "en": "There are no big slides on site here. For a slide-heavy stay, look at TUI Magic Life Africana or Omar Khayam nearby.",
+            "fr": "Il n'y a pas de grands toboggans sur place. Pour un séjour riche en toboggans, regardez le TUI Magic Life Africana ou l'Omar Khayam à proximité."
+          }
+        }
+      ]
+    },
+    {
+      "key": "hammamet-el-mouradi-hammamet",
+      "destinationKey": "hammamet",
+      "name": "El Mouradi Hammamet",
+      "area": {
+        "en": "Yasmine Hammamet",
+        "fr": "Yasmine Hammamet"
+      },
+      "lat": 36.3745,
+      "lng": 10.5385,
+      "zoom": 12,
+      "address": "El Mouradi Hammamet, Zone Touristique Yasmine Hammamet, 8050 Hammamet, Tunisia",
+      "priceTier": 2,
+      "priceFrom": 55,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolPalms",
+        "poolCabanas",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 72,
+        "baby": 74,
+        "pool": 82,
+        "dining": 76,
+        "safety": 80,
+        "convenience": 82,
+        "location": 84,
+        "extras": 82
+      },
+      "roomsSummary": {
+        "en": "Simple, spacious rooms across a large complex, most with a balcony, and plenty of family rooms and connecting doubles. This is honest value rather than luxury: the furnishings are dated in places, but the rooms are big and there is real room to spread out with children.",
+        "fr": "Chambres simples et spacieuses réparties sur un grand complexe, la plupart avec balcon, et beaucoup de chambres familiales et de doubles communicantes. C'est du vrai rapport qualité-prix plutôt que du luxe: le mobilier est daté par endroits, mais les chambres sont grandes et l'on a de la place pour s'étaler avec des enfants."
+      },
+      "intro": {
+        "en": "One of the great value warhorses of Yasmine Hammamet, a big all-inclusive with multiple pools, a free kids club and water slides that keep older children busy all day. It will not win prizes for polish, but the sums add up: a full family week here costs a fraction of the Med, the beach is right there, and the marina and shops are an easy walk. Best for families who care more about slides, space and price than about designer interiors.",
+        "fr": "L'une des grandes valeurs sûres de Yasmine Hammamet, un vaste tout compris avec plusieurs piscines, un club enfants gratuit et des toboggans qui occupent les plus grands toute la journée. Il ne gagnera pas de prix de raffinement, mais les comptes sont bons: une semaine complète en famille y coûte une fraction du reste de la Méditerranée, la plage est juste là, et la marina et les boutiques sont à deux pas. Idéal pour les familles qui pensent d'abord toboggans, espace et prix plutôt que décoration soignée."
+      },
+      "highlights": {
+        "en": [
+          "Several pools plus water slides for older kids",
+          "Free kids club and playground",
+          "Big family rooms at a very low price",
+          "Beach on site, marina a short walk away"
+        ],
+        "fr": [
+          "Plusieurs piscines et des toboggans pour les plus grands",
+          "Club enfants gratuit et aire de jeux",
+          "Grandes chambres familiales à très petit prix",
+          "Plage sur place, marina à quelques pas"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Outstanding value for a full family week",
+          "Lots of pools and slides to burn energy",
+          "Roomy family rooms",
+          "Handy Yasmine location near the marina"
+        ],
+        "fr": [
+          "Rapport qualité-prix remarquable pour une semaine complète",
+          "Beaucoup de piscines et de toboggans pour se dépenser",
+          "Chambres familiales spacieuses",
+          "Emplacement pratique à Yasmine près de la marina"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Dated furnishings and a big, dated complex",
+          "Buffet food is plentiful but basic",
+          "Can feel busy and impersonal in high season"
+        ],
+        "fr": [
+          "Mobilier daté et grand complexe vieillissant",
+          "Cuisine de buffet abondante mais basique",
+          "Peut sembler bondé et impersonnel en haute saison"
+        ]
+      },
+      "verdict": {
+        "en": "The budget slides-and-space pick in Yasmine. Choose it when the priority is keeping active kids happy for a week without stretching the budget, and you can look past dated decor.",
+        "fr": "Le choix économique toboggans et espace à Yasmine. À retenir quand la priorité est d'occuper des enfants actifs une semaine sans exploser le budget, et que la décoration datée ne vous rebute pas."
+      },
+      "parentTip": {
+        "en": "Book a renovated family room rather than a standard one: the difference in comfort is worth the small upgrade, and you get more space for cots and cases.",
+        "fr": "Réservez une chambre familiale rénovée plutôt qu'une standard: la différence de confort vaut le petit supplément, et vous gagnez de la place pour les lits bébé et les valises."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water slides",
+            "fr": "Toboggans"
+          },
+          "value": {
+            "en": "On site for older kids",
+            "fr": "Sur place pour les grands"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free, plus playground",
+            "fr": "Gratuit, avec aire de jeux"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Value",
+            "fr": "Prix"
+          },
+          "value": {
+            "en": "Among the lowest here",
+            "fr": "Parmi les plus bas ici"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "On site, sandy",
+            "fr": "Sur place, de sable"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is it good value for a family?",
+            "fr": "Est-ce un bon rapport qualité-prix pour une famille?"
+          },
+          "a": {
+            "en": "Yes, it is one of the cheapest all-inclusive options in Yasmine for a full week, with slides and a free kids club included. Expect value over polish.",
+            "fr": "Oui, c'est l'une des options tout compris les moins chères de Yasmine pour une semaine complète, toboggans et club enfants gratuits compris. Attendez-vous à du prix plutôt qu'au raffinement."
+          }
+        },
+        {
+          "q": {
+            "en": "Are the rooms family sized?",
+            "fr": "Les chambres sont-elles adaptées aux familles?"
+          },
+          "a": {
+            "en": "Yes, there are plenty of large family rooms and connecting doubles. Ask for a renovated room for the best comfort.",
+            "fr": "Oui, il y a beaucoup de grandes chambres familiales et de doubles communicantes. Demandez une chambre rénovée pour un meilleur confort."
+          }
+        },
+        {
+          "q": {
+            "en": "How close is the beach?",
+            "fr": "La plage est-elle proche?"
+          },
+          "a": {
+            "en": "The sandy beach is on site, and the Yasmine marina and shops are a short walk along the front.",
+            "fr": "La plage de sable est sur place, et la marina de Yasmine et les boutiques sont à quelques minutes à pied le long du front de mer."
+          }
+        }
+      ]
+    },
+    {
+      "key": "hammamet-nozha-beach-resort-spa",
+      "destinationKey": "hammamet",
+      "name": "Nozha Beach Resort & Spa",
+      "area": {
+        "en": "Yasmine Hammamet",
+        "fr": "Yasmine Hammamet"
+      },
+      "lat": 36.38,
+      "lng": 10.542,
+      "zoom": 12,
+      "address": "Nozha Beach Resort & Spa, Avenue Bettino Craxi, BP 35 Yasmine Hammamet, 8050 Hammamet, Tunisia",
+      "priceTier": 2,
+      "priceFrom": 50,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "baby-friendly",
+        "family-suites"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolOrange",
+        "poolPalms",
+        "deckLoungersSea"
+      ],
+      "scores": {
+        "rooms": 74,
+        "baby": 74,
+        "pool": 80,
+        "dining": 76,
+        "safety": 80,
+        "convenience": 80,
+        "location": 82,
+        "extras": 78
+      },
+      "roomsSummary": {
+        "en": "Comfortable rooms and family rooms across a large seafront resort, most with a balcony over the pools, gardens or sea. There is space for a family of four, cots come free on request, and the more recently updated rooms are a clear step up, so it pays to ask.",
+        "fr": "Chambres et chambres familiales confortables dans un grand complexe en bord de mer, la plupart avec balcon sur les piscines, les jardins ou la mer. Il y a de la place pour une famille de quatre, les lits bébé sont gratuits sur demande, et les chambres récemment rénovées sont nettement au-dessus: mieux vaut donc les demander."
+      },
+      "intro": {
+        "en": "A large, friendly all-inclusive on the Yasmine seafront that packs a lot in for the money: three pools with water slides, a free kids club, a spa with a hammam for the grown-ups and a private stretch of sand. It is a couple of kilometres from the busiest part of Yasmine, which keeps it calmer than the marina hotels while still being an easy taxi from the theme park and shops. Solid, sunny value for a family week rather than a design statement.",
+        "fr": "Un grand tout compris chaleureux sur le front de mer de Yasmine qui offre beaucoup pour le prix: trois piscines avec toboggans, un club enfants gratuit, un spa avec hammam pour les parents et une portion de plage privée. Il est à deux kilomètres de la partie la plus animée de Yasmine, ce qui le rend plus calme que les hôtels de la marina, tout en restant à un court taxi du parc et des boutiques. Une valeur sûre et ensoleillée pour une semaine en famille, sans prétention de design."
+      },
+      "highlights": {
+        "en": [
+          "Three pools including slides for the kids",
+          "Free kids club and evening mini disco",
+          "Private sandy beach and a spa with hammam",
+          "Calmer than the marina hotels, still close by"
+        ],
+        "fr": [
+          "Trois piscines dont des toboggans pour les enfants",
+          "Club enfants gratuit et mini disco le soir",
+          "Plage de sable privée et spa avec hammam",
+          "Plus calme que les hôtels de la marina, mais tout près"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Lots included for a low price",
+          "Water slides and a free kids club",
+          "Calm, spacious grounds and beach",
+          "Spa for a parents' break"
+        ],
+        "fr": [
+          "Beaucoup d'inclus pour un petit prix",
+          "Toboggans et club enfants gratuit",
+          "Parc et plage calmes et spacieux",
+          "Spa pour souffler entre parents"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Older rooms feel tired, so ask for a renovated one",
+          "A short taxi rather than a walk to the marina buzz",
+          "Buffet food is decent but not a highlight"
+        ],
+        "fr": [
+          "Les chambres anciennes font fatiguées, demandez-en une rénovée",
+          "Un court taxi plutôt qu'une marche jusqu'à l'animation de la marina",
+          "Cuisine de buffet correcte sans être un point fort"
+        ]
+      },
+      "verdict": {
+        "en": "A calmer, keenly priced all-inclusive with slides and a kids club. Good for families who want space and quiet but still want water fun on tap.",
+        "fr": "Un tout compris plus calme et bien tarifé, avec toboggans et club enfants. Idéal pour les familles qui veulent de l'espace et du calme sans renoncer aux jeux d'eau."
+      },
+      "parentTip": {
+        "en": "Confirm a renovated room block when you book: the gap between the tired and the updated rooms here is bigger than the small price difference.",
+        "fr": "Confirmez un bloc de chambres rénovées à la réservation: l'écart entre les chambres fatiguées et les chambres rénovées y est plus grand que la petite différence de prix."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water slides",
+            "fr": "Toboggans"
+          },
+          "value": {
+            "en": "At the outdoor pools",
+            "fr": "Aux piscines extérieures"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free, with mini disco",
+            "fr": "Gratuit, avec mini disco"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Private, sandy",
+            "fr": "Privée, de sable"
+          }
+        },
+        {
+          "icon": "💆",
+          "label": {
+            "en": "Spa",
+            "fr": "Spa"
+          },
+          "value": {
+            "en": "Hammam on site",
+            "fr": "Hammam sur place"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Does it have water slides?",
+            "fr": "Y a-t-il des toboggans?"
+          },
+          "a": {
+            "en": "Yes, the outdoor pools include water slides, alongside an indoor pool and a shallow children's pool.",
+            "fr": "Oui, les piscines extérieures comptent des toboggans, en plus d'une piscine intérieure et d'une piscine enfants peu profonde."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it far from the marina?",
+            "fr": "Est-ce loin de la marina?"
+          },
+          "a": {
+            "en": "It is about two kilometres from the busiest part of Yasmine Hammamet, a short and cheap taxi ride to the marina and theme park.",
+            "fr": "C'est à environ deux kilomètres de la partie la plus animée de Yasmine Hammamet, un court taxi bon marché jusqu'à la marina et au parc."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the kids club free?",
+            "fr": "Le club enfants est-il gratuit?"
+          },
+          "a": {
+            "en": "Yes, the kids club is included, with a daily programme and an evening mini disco for younger children.",
+            "fr": "Oui, le club enfants est inclus, avec un programme quotidien et une mini disco le soir pour les plus jeunes."
+          }
+        }
+      ]
+    },
+    {
+      "key": "hammamet-vincci-lella-baya",
+      "destinationKey": "hammamet",
+      "name": "Vincci Lella Baya & Thalasso",
+      "area": {
+        "en": "Yasmine Hammamet",
+        "fr": "Yasmine Hammamet"
+      },
+      "lat": 36.3628,
+      "lng": 10.532,
+      "zoom": 12,
+      "address": "Vincci Lella Baya & Thalasso, Zone Touristique Yasmine Hammamet, 8050 Hammamet, Tunisia",
+      "priceTier": 3,
+      "priceFrom": 75,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "beach-access",
+        "baby-friendly",
+        "toddler-friendly",
+        "family-suites"
+      ],
+      "clubFree": true,
+      "photos": [
+        "infinityPoolSea",
+        "deckLoungersSea",
+        "poolDusk"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 80,
+        "pool": 78,
+        "dining": 82,
+        "safety": 84,
+        "convenience": 82,
+        "location": 86,
+        "extras": 84
+      },
+      "roomsSummary": {
+        "en": "Well-kept rooms with a furnished balcony, most looking over the gardens or the sea, and family rooms that comfortably take two adults and two children. Cots are free on request, and the seafront setting means a sea breeze and easy access to the sand just 30 metres away.",
+        "fr": "Chambres bien tenues avec balcon meublé, la plupart donnant sur les jardins ou la mer, et des chambres familiales qui accueillent sans peine deux adultes et deux enfants. Les lits bébé sont gratuits sur demande, et l'emplacement en front de mer offre la brise marine et un accès facile au sable à seulement 30 mètres."
+      },
+      "intro": {
+        "en": "A polished, seafront four-star in the calmer end of Yasmine Hammamet, built around a serious thalasso spa but with a genuinely warm free kids club for ages four to twelve and a nightly mini disco. It suits families who want a tidy, good-value week with a beach on the doorstep and the marina a short walk away, rather than a slide-heavy water park. Parents get a proper spa; younger children get a shallow pool, a playground and calm sand.",
+        "fr": "Un quatre étoiles soigné en bord de mer, dans la partie plus calme de Yasmine Hammamet, pensé autour d'un vrai centre de thalasso mais avec un club enfants gratuit vraiment chaleureux pour les 4 à 12 ans et une mini disco chaque soir. Il convient aux familles qui veulent une semaine soignée et de bon rapport qualité-prix, avec la plage devant la porte et la marina à quelques pas, plutôt qu'un parc aquatique à toboggans. Les parents ont un vrai spa; les plus jeunes ont une piscine peu profonde, une aire de jeux et un sable tranquille."
+      },
+      "highlights": {
+        "en": [
+          "Seafront setting, 30 metres from the sand",
+          "Free kids club for ages four to twelve",
+          "Serious thalasso spa for the grown-ups",
+          "Short walk to the Yasmine marina"
+        ],
+        "fr": [
+          "Emplacement en front de mer, à 30 mètres du sable",
+          "Club enfants gratuit pour les 4 à 12 ans",
+          "Vrai centre de thalasso pour les parents",
+          "À pied de la marina de Yasmine"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Tidy and well-run for the price",
+          "Lovely calm seafront position",
+          "Free kids club and evening mini disco",
+          "Standout thalasso spa"
+        ],
+        "fr": [
+          "Bien tenu et bien géré pour le prix",
+          "Belle position calme en front de mer",
+          "Club enfants gratuit et mini disco le soir",
+          "Centre de thalasso remarquable"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No big water slides on site",
+          "Quieter evenings than the club hotels",
+          "Pools are modest in size for a busy week"
+        ],
+        "fr": [
+          "Pas de grands toboggans sur place",
+          "Soirées plus calmes que dans les hôtels club",
+          "Piscines de taille modeste pour une semaine chargée"
+        ]
+      },
+      "verdict": {
+        "en": "The refined value pick in Yasmine for families with younger children who want a calm, seafront base and a good spa, and do not need slides to fill the day.",
+        "fr": "Le choix raffiné et abordable à Yasmine pour les familles avec de jeunes enfants qui veulent une base calme en front de mer et un bon spa, sans avoir besoin de toboggans pour occuper la journée."
+      },
+      "parentTip": {
+        "en": "The beach here is quiet and shelves gently, ideal for toddlers, and the kids club plus spa combination lets parents book a treatment guilt-free.",
+        "fr": "La plage y est calme et descend en pente douce, idéale pour les tout-petits, et le duo club enfants plus spa permet aux parents de réserver un soin sans culpabiliser."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "30 metres, calm sand",
+            "fr": "À 30 mètres, sable calme"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free, ages 4 to 12",
+            "fr": "Gratuit, 4 à 12 ans"
+          }
+        },
+        {
+          "icon": "💆",
+          "label": {
+            "en": "Spa",
+            "fr": "Spa"
+          },
+          "value": {
+            "en": "Thalasso centre",
+            "fr": "Centre de thalasso"
+          }
+        },
+        {
+          "icon": "🚶",
+          "label": {
+            "en": "Location",
+            "fr": "Emplacement"
+          },
+          "value": {
+            "en": "Walk to marina",
+            "fr": "Marina à pied"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is there a free kids club?",
+            "fr": "Y a-t-il un club enfants gratuit?"
+          },
+          "a": {
+            "en": "Yes, the kids club is included for ages four to twelve, with daily games and a nightly mini disco. Younger toddlers are welcome with a parent.",
+            "fr": "Oui, le club enfants est inclus pour les 4 à 12 ans, avec des jeux quotidiens et une mini disco chaque soir. Les tout-petits sont bienvenus accompagnés d'un parent."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it good for toddlers?",
+            "fr": "Est-ce adapté aux tout-petits?"
+          },
+          "a": {
+            "en": "Yes, the quiet, gently shelving beach and shallow pool make it one of the calmer, safer choices for very young children.",
+            "fr": "Oui, la plage calme en pente douce et la piscine peu profonde en font l'un des choix les plus tranquilles et sûrs pour les très jeunes enfants."
+          }
+        },
+        {
+          "q": {
+            "en": "Are there water slides?",
+            "fr": "Y a-t-il des toboggans?"
+          },
+          "a": {
+            "en": "No large slides here. If slides are a must, pair the calm of Lella Baya with a day trip to a nearby aquapark, or choose a slide resort instead.",
+            "fr": "Pas de grands toboggans ici. Si les toboggans sont indispensables, associez le calme du Lella Baya à une sortie dans un parc aquatique voisin, ou choisissez un resort à toboggans."
+          }
+        }
+      ]
+    },
+    {
+      "key": "hammamet-sentido-phenicia",
+      "destinationKey": "hammamet",
+      "name": "Sentido Phenicia",
+      "area": {
+        "en": "Hammamet Nord",
+        "fr": "Hammamet Nord"
+      },
+      "lat": 36.413,
+      "lng": 10.582,
+      "zoom": 12,
+      "address": "Sentido Phenicia, Route Touristique Nord, BP 136, 8050 Hammamet, Tunisia",
+      "priceTier": 2,
+      "priceFrom": 60,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolPalms",
+        "resortLoungers",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 74,
+        "baby": 74,
+        "pool": 78,
+        "dining": 78,
+        "safety": 82,
+        "convenience": 76,
+        "location": 80,
+        "extras": 78
+      },
+      "roomsSummary": {
+        "en": "Comfortable rooms set in nine hectares of mature gardens, most with a balcony or terrace, and family rooms that take four. It is a leafy, spread-out property, so ask for a room near the pool if you are travelling with a pram and small children.",
+        "fr": "Chambres confortables installées dans neuf hectares de jardins mûrs, la plupart avec balcon ou terrasse, et des chambres familiales pour quatre. C'est un établissement verdoyant et étendu: demandez donc une chambre proche de la piscine si vous voyagez avec une poussette et de jeunes enfants."
+      },
+      "intro": {
+        "en": "A green, relaxed four-star on the northern Hammamet beach road, set in big gardens right on a fine sandy beach a few kilometres from the old town. It swaps water slides for space and calm: three pools, a free kids club for ages four to twelve, tennis courts and an on-site ranch for pony rides. It suits families who want a gentle, good-value week by the sea with the real Hammamet medina close by, and are happy to make a short trip to an aquapark for slide days.",
+        "fr": "Un quatre étoiles verdoyant et détendu sur la route de la plage au nord de Hammamet, niché dans de grands jardins en bord de belle plage de sable, à quelques kilomètres de la vieille ville. Il troque les toboggans contre l'espace et le calme: trois piscines, un club enfants gratuit pour les 4 à 12 ans, des courts de tennis et un ranch sur place pour des balades à poney. Il convient aux familles qui veulent une semaine douce et abordable au bord de la mer, avec la vraie médina de Hammamet tout près, quitte à faire une courte sortie vers un parc aquatique les jours de toboggans."
+      },
+      "highlights": {
+        "en": [
+          "Nine hectares of gardens on a fine sandy beach",
+          "Free kids club for ages four to twelve",
+          "On-site ranch with pony rides and tennis",
+          "Close to the real Hammamet medina and old town"
+        ],
+        "fr": [
+          "Neuf hectares de jardins sur une belle plage de sable",
+          "Club enfants gratuit pour les 4 à 12 ans",
+          "Ranch sur place avec balades à poney et tennis",
+          "Proche de la vraie médina et de la vieille ville de Hammamet"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Spacious, green and calm grounds",
+          "Lovely wide beach in front",
+          "Free kids club and family activities",
+          "Near authentic Hammamet, not just the resort strip"
+        ],
+        "fr": [
+          "Parc spacieux, vert et calme",
+          "Belle plage large devant l'hôtel",
+          "Club enfants gratuit et activités familiales",
+          "Proche du vrai Hammamet, pas seulement de la zone touristique"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No water slides on site, aquapark is a short trip",
+          "Large grounds mean a walk to the beach and pools",
+          "Rooms are comfortable but plainly furnished"
+        ],
+        "fr": [
+          "Pas de toboggans sur place, le parc aquatique est à une courte sortie",
+          "Le grand parc implique de marcher jusqu'à la plage et aux piscines",
+          "Chambres confortables mais au mobilier sobre"
+        ]
+      },
+      "verdict": {
+        "en": "A calm, green value choice near the real Hammamet for families who want a gentle week and can take a short trip out for slide days. Good with toddlers and younger children.",
+        "fr": "Un choix calme, vert et abordable près du vrai Hammamet, pour les familles qui veulent une semaine douce et acceptent une courte sortie les jours de toboggans. Bien avec les tout-petits et les jeunes enfants."
+      },
+      "parentTip": {
+        "en": "Book a room in the wing nearest the main pool: the gardens are lovely but large, and the shorter walk matters at nap time with little ones.",
+        "fr": "Réservez une chambre dans l'aile la plus proche de la piscine principale: les jardins sont beaux mais vastes, et la marche plus courte compte à l'heure de la sieste avec des petits."
+      },
+      "atAGlance": [
+        {
+          "icon": "🌳",
+          "label": {
+            "en": "Grounds",
+            "fr": "Parc"
+          },
+          "value": {
+            "en": "Nine hectares of gardens",
+            "fr": "Neuf hectares de jardins"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free, ages 4 to 12",
+            "fr": "Gratuit, 4 à 12 ans"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Wide sandy beach",
+            "fr": "Large plage de sable"
+          }
+        },
+        {
+          "icon": "🐴",
+          "label": {
+            "en": "Extra",
+            "fr": "En plus"
+          },
+          "value": {
+            "en": "On-site ranch",
+            "fr": "Ranch sur place"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Are there water slides at the hotel?",
+            "fr": "Y a-t-il des toboggans à l'hôtel?"
+          },
+          "a": {
+            "en": "No, there are no big slides on site, but an aquapark is about fifteen minutes away for a slide day out.",
+            "fr": "Non, il n'y a pas de grands toboggans sur place, mais un parc aquatique est à environ quinze minutes pour une sortie toboggans."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it close to the old town?",
+            "fr": "Est-ce proche de la vieille ville?"
+          },
+          "a": {
+            "en": "Yes, it sits on the northern beach road a few kilometres from the authentic Hammamet medina and Kasbah, an easy taxi ride away.",
+            "fr": "Oui, il se trouve sur la route de la plage au nord, à quelques kilomètres de la médina et de la Kasbah authentiques de Hammamet, à un court trajet en taxi."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the kids club free?",
+            "fr": "Le club enfants est-il gratuit?"
+          },
+          "a": {
+            "en": "Yes, the kids club for ages four to twelve is included, with games and activities across the morning and afternoon.",
+            "fr": "Oui, le club enfants pour les 4 à 12 ans est inclus, avec jeux et activités le matin et l'après-midi."
+          }
+        }
+      ]
+    },
+    {
+      "key": "hammamet-omar-khayam-resort-aqua-park",
+      "destinationKey": "hammamet",
+      "name": "Omar Khayam Resort & Aqua Park",
+      "area": {
+        "en": "Mrezga, Hammamet Nord",
+        "fr": "Mrezga, Hammamet Nord"
+      },
+      "lat": 36.434,
+      "lng": 10.647,
+      "zoom": 12,
+      "address": "Omar Khayam Resort & Aqua Park, Zone Touristique Mrezga, 8050 Hammamet, Tunisia",
+      "priceTier": 2,
+      "priceFrom": 65,
+      "ages": [
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolOrange",
+        "poolCabanas",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 72,
+        "baby": 70,
+        "pool": 86,
+        "dining": 76,
+        "safety": 80,
+        "convenience": 76,
+        "location": 78,
+        "extras": 84
+      },
+      "roomsSummary": {
+        "en": "Simple, roomy rooms across a large beachfront complex, most with a balcony, and plenty of family rooms. This is a value resort, so expect functional rather than fancy, but the rooms are a fair size and there is space for cots and a family of four.",
+        "fr": "Chambres simples et spacieuses dans un grand complexe en bord de mer, la plupart avec balcon, et beaucoup de chambres familiales. C'est un resort de bon rapport qualité-prix: attendez-vous à du fonctionnel plutôt qu'au chic, mais les chambres sont d'une taille correcte, avec de la place pour les lits bébé et une famille de quatre."
+      },
+      "intro": {
+        "en": "The go-to for slide-mad kids on the northern Hammamet coast: a big all-inclusive with its own on-site aqua park, so the slides are free and steps from your lounger rather than a taxi away. Add a private beach, multiple pools, a heated indoor pool and a free kids club, and active children fill the day without leaving the gates. It sits a little out on the Mrezga road, so it is quieter and cheaper than central Yasmine, with the old town a short taxi ride away.",
+        "fr": "La référence pour les enfants fous de toboggans sur la côte nord de Hammamet: un grand tout compris avec son propre parc aquatique sur place, donc des toboggans gratuits à deux pas du transat plutôt qu'à un taxi de distance. Ajoutez une plage privée, plusieurs piscines, une piscine intérieure chauffée et un club enfants gratuit, et les enfants actifs remplissent la journée sans quitter l'enceinte. Il est un peu à l'écart sur la route de Mrezga, plus calme et moins cher que le centre de Yasmine, avec la vieille ville à un court taxi."
+      },
+      "highlights": {
+        "en": [
+          "On-site aqua park with free water slides",
+          "Several pools plus a heated indoor pool",
+          "Free kids club and playground",
+          "Private beach on a quieter stretch of coast"
+        ],
+        "fr": [
+          "Parc aquatique sur place avec toboggans gratuits",
+          "Plusieurs piscines et une piscine intérieure chauffée",
+          "Club enfants gratuit et aire de jeux",
+          "Plage privée sur une portion de côte plus calme"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Free slides right on site, not a trip away",
+          "Great for active, slide-loving kids",
+          "Good value all-inclusive",
+          "Quieter, cheaper northern location"
+        ],
+        "fr": [
+          "Toboggans gratuits sur place, sans sortie à prévoir",
+          "Parfait pour les enfants actifs et fans de toboggans",
+          "Tout compris de bon rapport qualité-prix",
+          "Emplacement nord plus calme et moins cher"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Dated, functional rooms and buffet food",
+          "A taxi from the marina and central Yasmine",
+          "The aqua park can get busy and noisy in peak weeks"
+        ],
+        "fr": [
+          "Chambres et buffet datés et fonctionnels",
+          "Un taxi de la marina et du centre de Yasmine",
+          "Le parc aquatique peut être bondé et bruyant en pleine saison"
+        ]
+      },
+      "verdict": {
+        "en": "The best pick if free, on-site slides are the whole point of the holiday. A no-frills value all-inclusive that keeps active kids busy from morning to night.",
+        "fr": "Le meilleur choix si les toboggans gratuits sur place sont le but même des vacances. Un tout compris sans chichis et de bon rapport qualité-prix, qui occupe les enfants actifs du matin au soir."
+      },
+      "parentTip": {
+        "en": "The aqua park is the draw, but it is best in the morning: go early while it is calm, then move to the quieter main pool or beach at midday.",
+        "fr": "Le parc aquatique est l'attrait, mais il est meilleur le matin: allez-y tôt tant qu'il est calme, puis passez à la piscine principale ou à la plage plus tranquilles à midi."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Aqua park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "On site, free slides",
+            "fr": "Sur place, toboggans gratuits"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free, plus playground",
+            "fr": "Gratuit, avec aire de jeux"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Private, quieter coast",
+            "fr": "Privée, côte plus calme"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Value",
+            "fr": "Prix"
+          },
+          "value": {
+            "en": "Low for the slides",
+            "fr": "Bas pour les toboggans"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the aqua park included?",
+            "fr": "Le parc aquatique est-il inclus?"
+          },
+          "a": {
+            "en": "Yes, the on-site aqua park and its water slides are free for hotel guests, alongside the other pools and a heated indoor pool.",
+            "fr": "Oui, le parc aquatique sur place et ses toboggans sont gratuits pour les clients de l'hôtel, en plus des autres piscines et d'une piscine intérieure chauffée."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it far from central Yasmine Hammamet?",
+            "fr": "Est-ce loin du centre de Yasmine Hammamet?"
+          },
+          "a": {
+            "en": "It sits on the Mrezga road north of town, a short and cheap taxi ride from the Yasmine marina and the Hammamet medina.",
+            "fr": "Il se trouve sur la route de Mrezga au nord de la ville, à un court taxi bon marché de la marina de Yasmine et de la médina de Hammamet."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it suitable for toddlers?",
+            "fr": "Est-ce adapté aux tout-petits?"
+          },
+          "a": {
+            "en": "There is a shallow children's area and a calm beach, but the resort is aimed more at active older children who love the slides than at babies.",
+            "fr": "Il y a une zone enfants peu profonde et une plage calme, mais le resort vise davantage les grands enfants actifs qui adorent les toboggans que les bébés."
+          }
+        }
+      ]
+    }
+  ],
+  "destinationMeta": {
+    "name": {
+      "en": "Hammamet",
+      "fr": "Hammamet"
+    },
+    "country": {
+      "en": "Tunisia",
+      "fr": "Tunisie"
+    },
+    "emoji": "🏖️",
+    "accent": "e0995a",
+    "geo": {
+      "lat": 36.38,
+      "lng": 10.55,
+      "zoom": 11
+    },
+    "heroKicker": {
+      "en": "Affordable family all-inclusive, aquaparks and long sandy beaches, a short flight away",
+      "fr": "Tout compris familial abordable, parcs aquatiques et longues plages de sable, à un vol court"
+    },
+    "intro": {
+      "en": "Hammamet is Tunisia's easy family beach break: a two to three hour flight from much of Europe, with long sandy beaches, warm calm sea and a wall of affordable all-inclusive resorts, many with their own water slides and free kids clubs. Yasmine Hammamet is the purpose-built resort strip, with a car-free marina, a theme park and the aquaparks; the older town to the north adds a walled medina and Kasbah for a real slice of Tunisia. It is value rather than luxury, and the best swimming runs from May to October, but for a sunny, slide-filled family week that does not empty the account, few places nearby compete.",
+      "fr": "Hammamet, c'est l'escapade plage facile en famille de la Tunisie: à deux ou trois heures d'avion d'une grande partie de l'Europe, avec de longues plages de sable, une mer chaude et calme et une multitude de resorts tout compris abordables, dont beaucoup ont leurs propres toboggans et des clubs enfants gratuits. Yasmine Hammamet est la zone touristique construite pour l'occasion, avec une marina piétonne, un parc à thème et les parcs aquatiques; la vieille ville au nord ajoute une médina fortifiée et une Kasbah pour une vraie tranche de Tunisie. C'est du rapport qualité-prix plutôt que du luxe, et la meilleure baignade s'étend de mai à octobre, mais pour une semaine ensoleillée et riche en toboggans qui ne vide pas le compte, peu d'endroits proches rivalisent."
+    },
+    "whyKids": {
+      "en": [
+        "Affordable all-inclusive resorts, many with free kids clubs and on-site water slides",
+        "Long, gently shelving sandy beaches on warm, calm sea",
+        "The car-free Yasmine marina and the Carthage Land theme park",
+        "A short two to three hour flight from much of Europe"
+      ],
+      "fr": [
+        "Resorts tout compris abordables, souvent avec clubs enfants gratuits et toboggans sur place",
+        "Longues plages de sable en pente douce sur une mer chaude et calme",
+        "La marina piétonne de Yasmine et le parc à thème Carthage Land",
+        "Un vol court de deux à trois heures depuis une grande partie de l'Europe"
+      ]
+    },
+    "bestAreas": {
+      "en": [
+        "Yasmine Hammamet: the purpose-built resort strip south of town, with a car-free marina, theme park and the biggest family all-inclusives and aquaparks",
+        "Hammamet Nord and centre: leafier resorts on the northern beach road, closer to the walled medina, Kasbah and the authentic old town",
+        "Mrezga: a quieter, cheaper stretch just north, home to aqua park resorts a short taxi from the medina"
+      ],
+      "fr": [
+        "Yasmine Hammamet: la zone touristique construite au sud de la ville, avec marina piétonne, parc à thème et les plus grands tout compris familiaux et parcs aquatiques",
+        "Hammamet Nord et centre: des resorts plus verdoyants sur la route de la plage au nord, plus proches de la médina fortifiée, de la Kasbah et de la vieille ville authentique",
+        "Mrezga: une portion plus calme et moins chère juste au nord, avec des resorts à parc aquatique à un court taxi de la médina"
+      ]
+    },
+    "stats": [
+      {
+        "value": "2 to 3h",
+        "label": {
+          "en": "Flight from much of Europe",
+          "fr": "Vol depuis une grande partie de l'Europe"
+        }
+      },
+      {
+        "value": "May to Oct",
+        "label": {
+          "en": "Warm swimming season",
+          "fr": "Saison de baignade au chaud"
+        }
+      },
+      {
+        "value": "25 to 33C",
+        "label": {
+          "en": "Typical summer day highs",
+          "fr": "Maximums typiques en été"
+        }
+      },
+      {
+        "value": "Enfidha",
+        "label": {
+          "en": "Nearest airport, about an hour",
+          "fr": "Aéroport le plus proche, environ une heure"
+        }
+      }
+    ],
+    "activities": [
+      {
+        "emoji": "🛝",
+        "name": {
+          "en": "Aqualand and Carthage Land",
+          "fr": "Aqualand et Carthage Land"
+        },
+        "detail": {
+          "en": "The Yasmine Hammamet leisure complex pairs an aquapark with rides and shows, an easy full day out for slide-loving kids and toddlers alike.",
+          "fr": "Le complexe de loisirs de Yasmine Hammamet associe un parc aquatique à des manèges et des spectacles, une journée entière facile pour les enfants fans de toboggans comme pour les tout-petits."
+        },
+        "ages": [
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "All day",
+          "fr": "Toute la journée"
+        }
+      },
+      {
+        "emoji": "⛵",
+        "name": {
+          "en": "Yasmine marina",
+          "fr": "Marina de Yasmine"
+        },
+        "detail": {
+          "en": "The car-free marina is made for an evening family stroll, with boats, ice cream, a pirate cruise and the little tourist train.",
+          "fr": "La marina piétonne est faite pour une balade en famille le soir, avec bateaux, glaces, une croisière pirate et le petit train touristique."
+        },
+        "ages": [
+          "baby",
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Evening",
+          "fr": "Soir"
+        }
+      },
+      {
+        "emoji": "🕌",
+        "name": {
+          "en": "Hammamet medina and Kasbah",
+          "fr": "Médina et Kasbah de Hammamet"
+        },
+        "detail": {
+          "en": "Wander the whitewashed old town, climb the seafront Kasbah for a view over the bay, and let kids pick out souvenirs in the souk.",
+          "fr": "Parcourez la vieille ville blanchie à la chaux, montez sur la Kasbah en bord de mer pour la vue sur la baie, et laissez les enfants choisir des souvenirs dans le souk."
+        },
+        "ages": [
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Morning",
+          "fr": "Matin"
+        }
+      },
+      {
+        "emoji": "🐪",
+        "name": {
+          "en": "Camel and quad excursions",
+          "fr": "Excursions chameau et quad"
+        },
+        "detail": {
+          "en": "Short guided camel rides and family quad trips run from the resort strip, a fun hour that older children remember.",
+          "fr": "De courtes balades guidées à dos de chameau et des sorties quad en famille partent de la zone touristique, une heure amusante que les grands enfants retiennent."
+        },
+        "ages": [
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Morning",
+          "fr": "Matin"
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "q": {
+          "en": "When is the best time to visit Hammamet with kids?",
+          "fr": "Quelle est la meilleure période pour venir à Hammamet avec des enfants?"
+        },
+        "a": {
+          "en": "May, June, September and October are ideal, with warm sea and sun but without the peak-summer heat. July and August are hotter and busier, so plan slides and beach in the morning and shade at midday.",
+          "fr": "Mai, juin, septembre et octobre sont idéaux, avec mer chaude et soleil mais sans la chaleur du plein été. Juillet et août sont plus chauds et plus fréquentés: prévoyez donc toboggans et plage le matin et l'ombre à midi."
+        }
+      },
+      {
+        "q": {
+          "en": "Which airport should we fly into?",
+          "fr": "Dans quel aéroport faut-il atterrir?"
+        },
+        "a": {
+          "en": "Enfidha (NBE) is the closest, roughly an hour by transfer, and handles most charter flights from Europe. Tunis Carthage (TUN) is a little further north.",
+          "fr": "Enfidha (NBE) est le plus proche, à environ une heure de transfert, et accueille la plupart des vols charters depuis l'Europe. Tunis Carthage (TUN) est un peu plus au nord."
+        }
+      },
+      {
+        "q": {
+          "en": "Is Hammamet good value compared with Spain or Greece?",
+          "fr": "Hammamet offre-t-il un meilleur rapport qualité-prix que l'Espagne ou la Grèce?"
+        },
+        "a": {
+          "en": "Yes, this is the point of Tunisia. All-inclusive resorts with kids clubs and water slides cost noticeably less than the equivalent in Spain, Greece or Turkey. Expect honest value rather than five-star polish at these prices.",
+          "fr": "Oui, c'est tout l'intérêt de la Tunisie. Les resorts tout compris avec clubs enfants et toboggans coûtent nettement moins cher que l'équivalent en Espagne, en Grèce ou en Turquie. Attendez-vous à un vrai rapport qualité-prix plutôt qu'au raffinement cinq étoiles à ces tarifs."
+        }
+      },
+      {
+        "q": {
+          "en": "Yasmine Hammamet or the old town: where should we stay?",
+          "fr": "Yasmine Hammamet ou la vieille ville: où loger?"
+        },
+        "a": {
+          "en": "Yasmine Hammamet has the car-free marina, theme park and biggest aquapark resorts, ideal for a self-contained family week. The northern resorts near the old town are leafier and calmer, and closer to the authentic medina and Kasbah.",
+          "fr": "Yasmine Hammamet a la marina piétonne, le parc à thème et les plus grands resorts à parc aquatique, idéal pour une semaine en famille en autonomie. Les resorts du nord près de la vieille ville sont plus verdoyants et plus calmes, et plus proches de la médina et de la Kasbah authentiques."
+        }
+      }
+    ],
+    "parentTip": {
+      "en": "Book an all-inclusive with a free kids club and on-site or nearby water slides, then keep excursions short: a marina evening, a medina morning and one aquapark or camel trip is plenty for a week. Tap water is best avoided for drinking, so stick to bottled, and pack high-factor sun cover for the strong summer sun.",
+      "fr": "Réservez un tout compris avec club enfants gratuit et toboggans sur place ou à proximité, puis gardez les excursions courtes: une soirée à la marina, une matinée à la médina et une sortie parc aquatique ou chameau suffisent largement pour une semaine. Mieux vaut éviter de boire l'eau du robinet, tenez-vous en à l'eau en bouteille, et prévoyez une protection solaire à indice élevé pour le fort soleil d'été."
+    },
+    "goodToKnow": {
+      "en": "Hammamet sits on Tunisia's northeast coast, with Enfidha airport about an hour away and Tunis Carthage a little further. This is value, not luxury: some resorts are dated and buffet-led, so read recent reviews and ask for a renovated room. Tunisia is a Muslim country, so alcohol is served in resorts but is less visible in the old town, and modest dress is appreciated away from the beach. The best swimming season runs May to October; winter is mild but too cool for the sea.",
+      "fr": "Hammamet se trouve sur la côte nord-est de la Tunisie, avec l'aéroport d'Enfidha à environ une heure et Tunis Carthage un peu plus loin. C'est du rapport qualité-prix, pas du luxe: certains resorts sont datés et misent sur le buffet, lisez donc les avis récents et demandez une chambre rénovée. La Tunisie est un pays musulman: l'alcool est servi dans les resorts mais reste plus discret dans la vieille ville, et une tenue modeste est appréciée hors de la plage. La meilleure saison de baignade va de mai à octobre; l'hiver est doux mais trop frais pour la mer."
+    },
+    "photos": [
+      "beachSunset",
+      "poolPalms",
+      "poolOrange"
+    ]
+  }
+}

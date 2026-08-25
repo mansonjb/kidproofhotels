@@ -1,0 +1,1526 @@
+{
+  "hotels": [
+    {
+      "key": "riviera-maya-nickelodeon-hotels-resorts",
+      "destinationKey": "riviera-maya",
+      "name": "Nickelodeon Hotels & Resorts Riviera Maya",
+      "area": {
+        "en": "Puerto Morelos",
+        "fr": "Puerto Morelos"
+      },
+      "lat": 20.9636,
+      "lng": -86.8069,
+      "zoom": 12,
+      "address": "Carretera Cancun, Playa del Carmen Km 45, Puerto Morelos, 77710 Quintana Roo, Mexico",
+      "priceTier": 4,
+      "priceFrom": 560,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolOrange",
+        "whiteResortPool",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 91,
+        "baby": 85,
+        "pool": 92,
+        "dining": 84,
+        "safety": 87,
+        "convenience": 82,
+        "location": 84,
+        "extras": 92
+      },
+      "roomsSummary": {
+        "en": "Everything is a suite, most of them big enough for a family of four without anyone on a pull-out, and the swim-up Pads open straight onto a shared lagoon pool. The showpiece is the Pineapple Suite, the two-storey SpongeBob house that sleeps up to six with its own splash pool and a slide indoors. Cots and bed rails come free, bottle warmers and sterilisers are on request, and orange Nickelodeon detailing runs through the lot.",
+        "fr": "Ici tout est suite, la plupart assez grandes pour une famille de quatre sans que personne ne dorme sur un canapé-lit, et les Pads avec accès direct s'ouvrent sur une piscine lagon partagée. La vedette, c'est la Pineapple Suite: la maison de Bob l'éponge sur deux niveaux, jusqu'à six couchages, sa propre pataugeoire et un toboggan intérieur. Lit bébé et barrière de lit gratuits, chauffe-biberon et stérilisateur sur demande, et le orange Nickelodeon court partout."
+      },
+      "intro": {
+        "en": "This is the resort children draw in their holiday diary. Aqua Nick, the six-acre water park, is included for the whole stay: slides, a lazy river, spraygrounds and a giant tipping bucket, plus scheduled group slimings where a crowd of kids gets covered in green goo on purpose. Characters turn up at breakfast, at the pool and at the evening show, and Club Nick runs a proper age-split kids club. Parents get a genuinely good gourmet all-inclusive, adults-only pool corners and a quiet stretch of Puerto Morelos sand. The two things to weigh: it costs roughly double a mainstream Riviera Maya resort, and the theme is relentless, which is a joy at six and can wear thin by fourteen. The upside over the Dominican sister property is location, you are only about 25 minutes south of Cancun airport.",
+        "fr": "C'est l'hôtel que les enfants dessinent dans leur cahier de vacances. Aqua Nick, le parc aquatique de plus de deux hectares, est inclus pendant tout le séjour: toboggans, rivière lente, jets au sol, seau géant qui se renverse, et des séances de Slime programmées où toute une bande de gamins se fait recouvrir de gelée verte, volontairement. Les personnages passent au petit-déjeuner, à la piscine et au spectacle du soir, et le Club Nick propose un vrai club enfants séparé par âge. Les parents, eux, ont un tout compris gastronomique vraiment soigné, des coins de piscine réservés aux adultes et une plage tranquille à Puerto Morelos. Deux réserves: le tarif tourne autour du double d'un grand hôtel classique de la Riviera Maya, et le thème est omniprésent, adorable à six ans et parfois lassant à quatorze. L'avantage sur l'hôtel jumeau dominicain, c'est l'emplacement: vous n'êtes qu'à environ 25 minutes au sud de l'aéroport de Cancun."
+      },
+      "highlights": {
+        "en": [
+          "Aqua Nick water park included for every night of the stay",
+          "Pineapple Suite and themed swim-up suites that sleep up to six",
+          "Character meet-and-greets, slime shows and a real age-split kids club",
+          "Only about 25 minutes from Cancun airport, so the transfer is short"
+        ],
+        "fr": [
+          "Parc aquatique Aqua Nick inclus toutes les nuits du séjour",
+          "Pineapple Suite et suites à thème avec accès piscine, jusqu'à six couchages",
+          "Rencontres avec les personnages, spectacles de Slime et vrai club enfants par âge",
+          "Environ 25 minutes de l'aéroport de Cancun: transfert court"
+        ]
+      },
+      "pros": {
+        "en": [
+          "The water park is on site and free, so no day tickets and no transfers",
+          "Suites are big and genuinely designed for four to six people",
+          "Food is a cut above the Riviera Maya average, with proper kid options",
+          "Staff are trained around children, which shows within an hour of arriving"
+        ],
+        "fr": [
+          "Le parc aquatique est sur place et gratuit: ni billet à la journée ni transfert",
+          "Des suites vraiment grandes, pensées pour quatre à six personnes",
+          "Une cuisine au-dessus de la moyenne de la Riviera Maya, avec de vraies options enfants",
+          "Un personnel formé pour les enfants, et cela se voit dans l'heure qui suit l'arrivée"
+        ]
+      },
+      "cons": {
+        "en": [
+          "By far the most expensive family option on this coast",
+          "The theme is everywhere: lovely at six, wearing at fourteen",
+          "Some headline experiences (private slimings, character dinners) cost extra",
+          "Sargassum can reach this beach between April and August in bad years"
+        ],
+        "fr": [
+          "De loin l'option familiale la plus chère de cette côte",
+          "Le thème est partout: adorable à six ans, lassant à quatorze",
+          "Certaines expériences phares (Slime privé, dîners avec personnages) sont en supplément",
+          "Les sargasses peuvent atteindre cette plage entre avril et août les mauvaises années"
+        ]
+      },
+      "verdict": {
+        "en": "If you have children between three and ten and the budget stretches, nothing else on the Riviera Maya delivers this much sheer delight per day, and the short airport transfer beats the Dominican original. Book it for the years when the theme still lands.",
+        "fr": "Avec des enfants de trois à dix ans et un budget qui le permet, rien d'autre sur la Riviera Maya ne procure autant de joie brute par journée, et le court transfert depuis l'aéroport bat l'original dominicain. Réservez-le pour les années où le thème fonctionne encore."
+      },
+      "parentTip": {
+        "en": "Book the Aqua Nick cabana on your second day, not your first. Day one everyone runs everywhere, day two you want shade, a fridge and a base camp within sight of the slides.",
+        "fr": "Réservez la cabane d'Aqua Nick pour le deuxième jour, pas le premier. Le jour 1, tout le monde court partout; le jour 2, on veut de l'ombre, un frigo et un camp de base en vue des toboggans."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "Aqua Nick on site, included, slides and lazy river",
+            "fr": "Aqua Nick sur place, inclus, toboggans et rivière lente"
+          }
+        },
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Rooms",
+            "fr": "Chambres"
+          },
+          "value": {
+            "en": "All suites, swim-up options, Pineapple Suite sleeps six",
+            "fr": "Que des suites, options accès piscine, Pineapple Suite pour six"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Transfer",
+            "fr": "Transfert"
+          },
+          "value": {
+            "en": "About 25 minutes from Cancun airport",
+            "fr": "Environ 25 minutes de l'aéroport de Cancun"
+          }
+        },
+        {
+          "icon": "🟢",
+          "label": {
+            "en": "The slime",
+            "fr": "Le Slime"
+          },
+          "value": {
+            "en": "Scheduled group slimings, washable, bring old swimwear",
+            "fr": "Séances de Slime en groupe, ça part au lavage, prévoyez un vieux maillot"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is Aqua Nick really included?",
+            "fr": "Aqua Nick est-il vraiment inclus?"
+          },
+          "a": {
+            "en": "Yes, entry is included for resort guests for the whole stay, every day. Cabana rental inside the park is the only paid extra, and it is optional.",
+            "fr": "Oui, l'entrée est incluse pour les clients de l'hôtel pendant tout le séjour, tous les jours. Seule la location d'une cabane dans le parc est payante, et elle reste facultative."
+          }
+        },
+        {
+          "q": {
+            "en": "How far is it from the airport?",
+            "fr": "À quelle distance de l'aéroport?"
+          },
+          "a": {
+            "en": "It sits just south of Puerto Morelos, roughly 25 to 30 minutes from Cancun International depending on traffic. Book the resort transfer or a private car with car seats.",
+            "fr": "L'hôtel se trouve juste au sud de Puerto Morelos, à environ 25 à 30 minutes de l'aéroport international de Cancun selon la circulation. Réservez le transfert de l'hôtel ou une voiture privée avec sièges enfants."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it suitable for a baby?",
+            "fr": "Est-ce adapté à un bébé?"
+          },
+          "a": {
+            "en": "Yes. Cots and bed rails are free, the lagoon pools have shallow shelves, and Aqua Nick has a toddler splash zone away from the big slides. Bottle warmers and sterilisers are available on request.",
+            "fr": "Oui. Lit bébé et barrière de lit gratuits, les piscines lagon ont des plages peu profondes, et Aqua Nick dispose d'une zone de jeux d'eau pour tout-petits à l'écart des grands toboggans. Chauffe-biberon et stérilisateur sont disponibles sur demande."
+          }
+        }
+      ]
+    },
+    {
+      "key": "riviera-maya-hotel-xcaret-mexico",
+      "destinationKey": "riviera-maya",
+      "name": "Hotel Xcaret Mexico",
+      "area": {
+        "en": "Playa del Carmen",
+        "fr": "Playa del Carmen"
+      },
+      "lat": 20.5866,
+      "lng": -87.1207,
+      "zoom": 12,
+      "address": "Carretera Chetumal, Puerto Juarez Km 282, Solidaridad, 77710 Playa del Carmen, Quintana Roo, Mexico",
+      "priceTier": 4,
+      "priceFrom": 620,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "resortCanal",
+        "poolTropicalMtn",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 90,
+        "baby": 78,
+        "pool": 92,
+        "dining": 90,
+        "safety": 86,
+        "convenience": 80,
+        "location": 85,
+        "extras": 92
+      },
+      "roomsSummary": {
+        "en": "Suites are arranged in five themed Casas, each pinned to a different mood rather than an age, and many have a swim-up terrace or a plunge pool cut into the rock. Family suites sleep four to five comfortably and the layouts lean on connecting doors rather than sofa beds. Cots are free, and the eco-architecture means real greenery, underground rivers and birdsong outside the door rather than a concrete resort feel.",
+        "fr": "Les suites se répartissent en cinq Casas à thème, chacune reliée à une ambiance plutôt qu'à un âge, et beaucoup offrent une terrasse avec accès piscine ou un bassin privatif creusé dans la roche. Les suites familiales couchent quatre à cinq personnes confortablement, avec des portes communicantes plutôt que des canapés-lits. Lit bébé gratuit, et l'architecture écologique apporte une vraie végétation, des rivières souterraines et des chants d'oiseaux à la porte, loin de l'ambiance béton d'un resort classique."
+      },
+      "intro": {
+        "en": "Hotel Xcaret Mexico is the anchor of an eco-park empire, and its trick is the All-Fun Inclusive band: your stay includes transport and entry to every Grupo Xcaret park, so Xcaret, Xel-Ha, Xplor and the rest become part of the hotel rather than paid day trips. On site there are sixteen pools, five water slides, snorkelling in natural inlets and a free kids club, all wrapped in genuine jungle and cenotes. It draws families and couples in equal measure, which keeps it calmer and more grown-up than a cartoon resort, so it suits families who want beauty and nature as much as splashing. Two caveats: it is one of the most expensive addresses on the coast, and the sheer scale of the parks means some days are long and logistics-heavy with small children.",
+        "fr": "Hotel Xcaret Mexico est le vaisseau amiral d'un empire de parcs écologiques, et son atout, c'est le bracelet All-Fun Inclusive: votre séjour comprend le transport et l'entrée à tous les parcs du Grupo Xcaret, si bien que Xcaret, Xel-Ha, Xplor et les autres font partie de l'hôtel au lieu d'être des excursions payantes. Sur place, seize piscines, cinq toboggans, du snorkeling dans des criques naturelles et un club enfants gratuit, le tout dans une vraie jungle avec cenotes. L'hôtel attire familles et couples à parts égales, ce qui le rend plus calme et plus adulte qu'un resort à personnages: il convient aux familles qui veulent autant de beauté et de nature que de baignade. Deux réserves: c'est l'une des adresses les plus chères de la côte, et l'échelle des parcs fait que certaines journées sont longues et logistiques avec de jeunes enfants."
+      },
+      "highlights": {
+        "en": [
+          "All-Fun Inclusive: entry and transport to every Grupo Xcaret park included",
+          "Sixteen pools, five water slides and snorkelling in natural inlets on site",
+          "Real jungle, cenotes and underground rivers rather than a concrete resort",
+          "Free kids club and a calmer, nature-first feel that suits mixed-age families"
+        ],
+        "fr": [
+          "All-Fun Inclusive: entrée et transport vers tous les parcs Grupo Xcaret inclus",
+          "Seize piscines, cinq toboggans et snorkeling dans des criques naturelles sur place",
+          "Vraie jungle, cenotes et rivières souterraines plutôt qu'un resort en béton",
+          "Club enfants gratuit et ambiance nature plus calme, idéale pour familles d'âges mêlés"
+        ]
+      },
+      "pros": {
+        "en": [
+          "The park access alone can be worth the price for an active family",
+          "The setting is genuinely beautiful, with wildlife and greenery everywhere",
+          "Food is a clear step above the all-inclusive norm across many venues",
+          "Quieter and more refined than a character resort, good for teens too"
+        ],
+        "fr": [
+          "L'accès aux parcs peut à lui seul justifier le prix pour une famille active",
+          "Le cadre est vraiment magnifique, avec faune et végétation partout",
+          "La cuisine est nettement au-dessus de la norme du tout compris, sur de nombreux restaurants",
+          "Plus calme et raffiné qu'un resort à personnages, cela plaît aussi aux ados"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Among the priciest resorts on the Riviera Maya",
+          "The parks are huge, so days out can be long and tiring with toddlers",
+          "The beach is pretty but small and coral-fringed, less of a build-a-castle strand",
+          "Sargassum can affect the shoreline between April and August"
+        ],
+        "fr": [
+          "Parmi les resorts les plus chers de la Riviera Maya",
+          "Les parcs sont immenses: les sorties peuvent être longues et fatigantes avec des tout-petits",
+          "La plage est jolie mais petite et bordée de corail, moins propice aux châteaux de sable",
+          "Les sargasses peuvent toucher le littoral entre avril et août"
+        ]
+      },
+      "verdict": {
+        "en": "If your family likes doing as much as lounging, the park access turns this into two holidays in one, and the eco-setting is the prettiest on the coast. Best for children old enough to snorkel and hike a little, less ideal for a pure baby-on-the-beach week.",
+        "fr": "Si votre famille aime autant bouger que se prélasser, l'accès aux parcs transforme le séjour en deux vacances en une, et le cadre écologique est le plus beau de la côte. Idéal pour des enfants assez grands pour faire du snorkeling et marcher un peu, moins parfait pour une semaine bébé-plage pure."
+      },
+      "parentTip": {
+        "en": "Do the parks on alternate days, not back to back. Xcaret and Xel-Ha each fill a whole day, so slot a lazy pool day in between or everyone hits a wall by day three.",
+        "fr": "Faites les parcs un jour sur deux, pas d'affilée. Xcaret et Xel-Ha remplissent chacun une journée entière: intercalez une journée piscine tranquille, sinon tout le monde s'épuise dès le troisième jour."
+      },
+      "atAGlance": [
+        {
+          "icon": "🎟️",
+          "label": {
+            "en": "Park access",
+            "fr": "Accès parcs"
+          },
+          "value": {
+            "en": "All Grupo Xcaret parks and transport included in the stay",
+            "fr": "Tous les parcs Grupo Xcaret et le transport inclus dans le séjour"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "On-site water",
+            "fr": "Eau sur place"
+          },
+          "value": {
+            "en": "Sixteen pools, five slides, snorkelling inlets and cenotes",
+            "fr": "Seize piscines, cinq toboggans, criques de snorkeling et cenotes"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Transfer",
+            "fr": "Transfert"
+          },
+          "value": {
+            "en": "About 50 minutes from Cancun airport",
+            "fr": "Environ 50 minutes de l'aéroport de Cancun"
+          }
+        },
+        {
+          "icon": "🌿",
+          "label": {
+            "en": "Setting",
+            "fr": "Cadre"
+          },
+          "value": {
+            "en": "Eco-architecture in real jungle with wildlife and rivers",
+            "fr": "Architecture écologique en pleine jungle, faune et rivières"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Are the Xcaret parks really included?",
+            "fr": "Les parcs Xcaret sont-ils vraiment inclus?"
+          },
+          "a": {
+            "en": "Yes. The All-Fun Inclusive rate covers entry and round-trip transport to the Grupo Xcaret parks for the length of your stay. A few premium activities inside the parks, such as the dolphin swims, are booked and paid separately.",
+            "fr": "Oui. Le tarif All-Fun Inclusive couvre l'entrée et le transport aller-retour vers les parcs Grupo Xcaret pendant toute la durée du séjour. Quelques activités premium dans les parcs, comme la nage avec les dauphins, se réservent et se paient à part."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it a good beach for young children?",
+            "fr": "La plage est-elle bonne pour les jeunes enfants?"
+          },
+          "a": {
+            "en": "The hotel beach is scenic but compact and coral-fringed, better for paddling than long sandcastle sessions. The many pools and the calm inlets are where small children spend most of their swimming time.",
+            "fr": "La plage de l'hôtel est jolie mais compacte et bordée de corail, plus adaptée à la baignade qu'aux longues séances de châteaux de sable. Ce sont les nombreuses piscines et les criques calmes qui accueillent l'essentiel des baignades des petits."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it too grown-up for a family?",
+            "fr": "Est-ce trop adulte pour une famille?"
+          },
+          "a": {
+            "en": "No, but it is not a cartoon resort. It draws couples and families equally, so it feels calmer and more design-led. Families with children who enjoy nature, snorkelling and the parks tend to love it.",
+            "fr": "Non, mais ce n'est pas un resort à personnages. Il attire couples et familles à parts égales, d'où une ambiance plus calme et plus soignée. Les familles dont les enfants aiment la nature, le snorkeling et les parcs l'adorent en général."
+          }
+        }
+      ]
+    },
+    {
+      "key": "riviera-maya-moon-palace-cancun",
+      "destinationKey": "riviera-maya",
+      "name": "Moon Palace Cancun",
+      "area": {
+        "en": "Cancun",
+        "fr": "Cancun"
+      },
+      "lat": 21.0503,
+      "lng": -86.8306,
+      "zoom": 12,
+      "address": "Carretera Cancun, Chetumal Km 340, 77500 Cancun, Quintana Roo, Mexico",
+      "priceTier": 3,
+      "priceFrom": 380,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "whiteResortPool",
+        "poolCabanas",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 86,
+        "baby": 80,
+        "pool": 90,
+        "dining": 84,
+        "safety": 85,
+        "convenience": 86,
+        "location": 83,
+        "extras": 88
+      },
+      "roomsSummary": {
+        "en": "Rooms are large and uniform across the Sunrise and Nizuc sections, most with a double whirlpool tub and a balcony, and connecting rooms are easy to secure for a family that wants two bathrooms. Superior Deluxe rooms take a family of four without a squeeze, and the Grand section adds the swankiest suites near the water park. Cots are free, and the resort credit system throws in spa and excursion money that families can spend on the kids' extras.",
+        "fr": "Les chambres sont vastes et homogènes dans les sections Sunrise et Nizuc, la plupart avec baignoire balnéo double et balcon, et les chambres communicantes s'obtiennent facilement pour une famille qui veut deux salles de bain. Les Superior Deluxe accueillent une famille de quatre sans serrer, et la section Grand ajoute les suites les plus chics près du parc aquatique. Lit bébé gratuit, et le système de crédits resort offre du budget spa et excursions que les familles peuvent dépenser sur les extras des enfants."
+      },
+      "intro": {
+        "en": "Moon Palace is a small city of a resort just south of Cancun's hotel zone, and its family trump card is the water park in the Grand section: slides, splash zones and a wave feature open to guests across the complex. Add the free Playroom kids club, a teens area, a Jack Nicklaus golf course and a beach that is calm and swimmable, and you have a place families can settle into for a week without ever leaving. It is more mainstream and less themed than the boutique addresses, which keeps prices sensible for the scale you get. The trade-off is size: it is genuinely huge, so first-timers should expect a lot of walking or shuttle-hopping and a day or two to learn the map.",
+        "fr": "Moon Palace, c'est une petite ville-resort juste au sud de la zone hôtelière de Cancun, et son atout famille, c'est le parc aquatique de la section Grand: toboggans, zones d'éclaboussures et vague ouverts aux clients de tout le complexe. Ajoutez le club enfants gratuit Playroom, un espace ados, un golf signé Jack Nicklaus et une plage calme et baignable, et vous obtenez un endroit où une famille peut s'installer une semaine sans jamais sortir. C'est plus grand public et moins thématisé que les adresses boutique, ce qui garde des prix raisonnables au vu de la taille. La contrepartie, c'est justement l'échelle: c'est vraiment immense, alors les nouveaux venus doivent prévoir beaucoup de marche ou de navettes et un jour ou deux pour apprendre le plan."
+      },
+      "highlights": {
+        "en": [
+          "On-site water park with slides, splash zones and a wave feature",
+          "Free Playroom kids club plus a dedicated teens area",
+          "Resort credits you can spend on excursions and kids' extras",
+          "Calm swimmable beach and only about 20 minutes from the airport"
+        ],
+        "fr": [
+          "Parc aquatique sur place avec toboggans, zones d'éclaboussures et vague",
+          "Club enfants gratuit Playroom et espace ados dédié",
+          "Crédits resort à dépenser en excursions et extras enfants",
+          "Plage calme et baignable, à environ 20 minutes de l'aéroport"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Huge choice of pools, restaurants and activities without leaving the grounds",
+          "Genuinely good value for the scale and the water park access",
+          "Short airport transfer, so arrival day still has a swim in it",
+          "Something for every age, from the Playroom to the teens lounge"
+        ],
+        "fr": [
+          "Choix énorme de piscines, restaurants et activités sans sortir du domaine",
+          "Un vrai bon rapport qualité-prix vu l'échelle et l'accès au parc aquatique",
+          "Transfert court depuis l'aéroport: le jour d'arrivée garde une baignade",
+          "De quoi occuper tous les âges, du Playroom au salon ados"
+        ]
+      },
+      "cons": {
+        "en": [
+          "It is enormous, so expect a lot of walking and a learning curve",
+          "The main water park sits in the Grand section, a shuttle ride from some rooms",
+          "The scale can feel impersonal compared with a smaller resort",
+          "Sargassum can reach the beach between April and August"
+        ],
+        "fr": [
+          "C'est gigantesque: prévoyez beaucoup de marche et un temps d'adaptation",
+          "Le parc aquatique principal est dans la section Grand, à une navette de certaines chambres",
+          "L'échelle peut sembler impersonnelle face à un resort plus petit",
+          "Les sargasses peuvent atteindre la plage entre avril et août"
+        ]
+      },
+      "verdict": {
+        "en": "For a big, do-everything family week close to the airport, Moon Palace is hard to beat on value, especially if you land the Grand section near the water park. Just go in knowing you are checking into a resort the size of a town.",
+        "fr": "Pour une grande semaine famille où l'on veut tout faire près de l'aéroport, Moon Palace est difficile à battre côté rapport qualité-prix, surtout si vous décrochez la section Grand près du parc aquatique. Sachez simplement que vous posez vos valises dans un resort de la taille d'une ville."
+      },
+      "parentTip": {
+        "en": "Ask at booking for a room in or near the Grand section. The water park is there, and shaving a shuttle ride off every splash trip changes the whole week with young children.",
+        "fr": "Demandez à la réservation une chambre dans ou près de la section Grand. Le parc aquatique s'y trouve, et supprimer une navette à chaque sortie baignade change toute la semaine avec de jeunes enfants."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "In the Grand section, slides, splash zones and a wave",
+            "fr": "Dans la section Grand, toboggans, zones d'éclaboussures et vague"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free Playroom club plus a separate teens area",
+            "fr": "Club Playroom gratuit et espace ados séparé"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Transfer",
+            "fr": "Transfert"
+          },
+          "value": {
+            "en": "About 20 minutes from Cancun airport",
+            "fr": "Environ 20 minutes de l'aéroport de Cancun"
+          }
+        },
+        {
+          "icon": "💳",
+          "label": {
+            "en": "Resort credits",
+            "fr": "Crédits resort"
+          },
+          "value": {
+            "en": "Spa and excursion credit included, usable on family extras",
+            "fr": "Crédit spa et excursions inclus, utilisable sur les extras famille"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Can everyone use the water park?",
+            "fr": "Tout le monde peut-il utiliser le parc aquatique?"
+          },
+          "a": {
+            "en": "The main water park is in the Grand at Moon Palace section and is generally open to guests across the wider complex, though access details can vary by rate. Confirm at booking if the water park is your main reason for going.",
+            "fr": "Le parc aquatique principal est dans la section Grand at Moon Palace et il est en général ouvert aux clients de l'ensemble du complexe, même si les modalités d'accès peuvent varier selon le tarif. Vérifiez à la réservation si le parc aquatique est votre motivation principale."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the resort too big to manage with a toddler?",
+            "fr": "Le resort est-il trop grand à gérer avec un tout-petit?"
+          },
+          "a": {
+            "en": "It is very large, but a free shuttle loops the property and there are pools everywhere, so you rarely have to go far. Booking near your key spots, the water park or the kids club, keeps daily distances short.",
+            "fr": "Il est très grand, mais une navette gratuite fait le tour du domaine et il y a des piscines partout, donc on a rarement à aller loin. Réserver près de vos points clés, le parc aquatique ou le club enfants, réduit les distances au quotidien."
+          }
+        },
+        {
+          "q": {
+            "en": "How far is the airport?",
+            "fr": "À quelle distance est l'aéroport?"
+          },
+          "a": {
+            "en": "Moon Palace sits just south of the Cancun hotel zone, roughly 20 minutes from Cancun International, one of the shortest transfers on the coast.",
+            "fr": "Moon Palace se trouve juste au sud de la zone hôtelière de Cancun, à environ 20 minutes de l'aéroport international de Cancun, l'un des transferts les plus courts de la côte."
+          }
+        }
+      ]
+    },
+    {
+      "key": "riviera-maya-royalton-splash-riviera-cancun",
+      "destinationKey": "riviera-maya",
+      "name": "Royalton Splash Riviera Cancun",
+      "area": {
+        "en": "Puerto Morelos",
+        "fr": "Puerto Morelos"
+      },
+      "lat": 20.8869,
+      "lng": -86.8747,
+      "zoom": 12,
+      "address": "Carretera Federal Cancun, Tulum Km 332, 77580 Puerto Morelos, Quintana Roo, Mexico",
+      "priceTier": 3,
+      "priceFrom": 340,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolCabanas",
+        "whiteResortPool",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 84,
+        "baby": 76,
+        "pool": 92,
+        "dining": 80,
+        "safety": 84,
+        "convenience": 84,
+        "location": 82,
+        "extras": 90
+      },
+      "roomsSummary": {
+        "en": "Rooms are modern and roomy, and the family-focused categories are the ones to book: Luxury Family Junior Suites with a bunk nook for the children and a separate zone for parents. Royalton's DreamBed and rain-shower touches feel a notch above the price, connecting options are plentiful, and cots come free. Swim-out rooms open onto a shared pool, which younger children love and which saves the daily trek to the water park.",
+        "fr": "Les chambres sont modernes et spacieuses, et ce sont les catégories familiales qu'il faut viser: les Luxury Family Junior Suites avec coin lits superposés pour les enfants et un espace séparé pour les parents. La literie DreamBed de Royalton et les douches à effet pluie paraissent au-dessus du prix, les chambres communicantes sont nombreuses et le lit bébé est gratuit. Les chambres swim-out s'ouvrent sur une piscine partagée, que les plus jeunes adorent et qui évite le trajet quotidien vers le parc aquatique."
+      },
+      "intro": {
+        "en": "Royalton Splash is the value water-park play on this coast: a big, bright, modern all-inclusive built around one of the largest on-site water parks in the region, with slides, a lazy river and splash structures included for the whole stay. The Splash Kids Club is free and age-split, teens get their own hangout, and the whole thing is engineered around families rather than tacking children onto an adult resort. Rooms and food are solid mainstream all-inclusive rather than gourmet, which is exactly why the price undercuts the boutique names. It shares the Puerto Morelos stretch, so the airport is close, and the honest caveats are the usual coast-wide ones: a long-haul flight from Europe and possible sargassum in the warmer months.",
+        "fr": "Royalton Splash, c'est le bon plan parc aquatique de cette côte: un grand tout compris lumineux et moderne construit autour de l'un des plus vastes parcs aquatiques sur place de la région, avec toboggans, rivière lente et structures d'éclaboussures inclus pour tout le séjour. Le Splash Kids Club est gratuit et séparé par âge, les ados ont leur propre repaire, et l'ensemble est pensé pour les familles plutôt que d'ajouter les enfants à un resort adulte. Chambres et cuisine relèvent d'un bon tout compris grand public plutôt que gastronomique, et c'est précisément pourquoi le prix passe sous celui des adresses boutique. L'hôtel occupe la portion de Puerto Morelos, donc l'aéroport est proche, et les réserves honnêtes sont celles de toute la côte: un long vol depuis l'Europe et des sargasses possibles aux mois les plus chauds."
+      },
+      "highlights": {
+        "en": [
+          "One of the largest on-site water parks in the region, included",
+          "Free Splash Kids Club split by age, plus a teens hangout",
+          "Family junior suites with a bunk nook and swim-out options",
+          "Close to Cancun airport on the Puerto Morelos stretch"
+        ],
+        "fr": [
+          "L'un des plus grands parcs aquatiques sur place de la région, inclus",
+          "Splash Kids Club gratuit séparé par âge, et un repaire pour ados",
+          "Junior suites familiales avec coin lits superposés et options swim-out",
+          "Proche de l'aéroport de Cancun, sur la portion de Puerto Morelos"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Huge water park included, so no day tickets and no transfers",
+          "Clearly cheaper than the boutique family names for similar water fun",
+          "Designed for families end to end, not an adult resort with a kids annex",
+          "Short transfer from Cancun airport"
+        ],
+        "fr": [
+          "Immense parc aquatique inclus: ni billet à la journée ni transfert",
+          "Nettement moins cher que les adresses boutique pour un plaisir aquatique comparable",
+          "Pensé pour les familles de bout en bout, pas un resort adulte avec annexe enfants",
+          "Transfert court depuis l'aéroport de Cancun"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Food and rooms are good mainstream, not gourmet",
+          "The water park can get busy and loud at peak times",
+          "The beach here can be seaweed-prone between April and August",
+          "It is big and buzzy, less of a quiet, intimate stay"
+        ],
+        "fr": [
+          "Cuisine et chambres relèvent d'un bon grand public, pas du gastronomique",
+          "Le parc aquatique peut être bondé et bruyant aux heures de pointe",
+          "La plage ici peut être sujette aux algues entre avril et août",
+          "C'est grand et animé, loin d'un séjour calme et intime"
+        ]
+      },
+      "verdict": {
+        "en": "If the water park is the whole point of the trip and you would rather not pay boutique prices for it, Royalton Splash is the smart-money pick on this coast. Book a family junior suite or a swim-out and let the slides do the work.",
+        "fr": "Si le parc aquatique est le coeur du voyage et que vous préférez ne pas le payer au prix boutique, Royalton Splash est le choix malin de cette côte. Réservez une junior suite familiale ou une swim-out et laissez les toboggans faire le travail."
+      },
+      "parentTip": {
+        "en": "Hit the water park at opening. The first hour has the shortest slide queues of the day, and you bank the big rides before the afternoon crowd and heat arrive.",
+        "fr": "Attaquez le parc aquatique à l'ouverture. La première heure offre les files les plus courtes de la journée, et vous enchaînez les grands toboggans avant la foule et la chaleur de l'après-midi."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "One of the region's largest on-site parks, included",
+            "fr": "L'un des plus grands parcs sur place de la région, inclus"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free Splash Kids Club by age, plus a teens hangout",
+            "fr": "Splash Kids Club gratuit par âge, et repaire pour ados"
+          }
+        },
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Family rooms",
+            "fr": "Chambres familiales"
+          },
+          "value": {
+            "en": "Family junior suites with bunk nook, swim-out options",
+            "fr": "Junior suites familiales avec coin lits superposés, options swim-out"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Transfer",
+            "fr": "Transfert"
+          },
+          "value": {
+            "en": "About 30 minutes from Cancun airport",
+            "fr": "Environ 30 minutes de l'aéroport de Cancun"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the water park included in the price?",
+            "fr": "Le parc aquatique est-il inclus dans le prix?"
+          },
+          "a": {
+            "en": "Yes, water park access is included for resort guests for the whole stay. It is one of the biggest on-site parks on the coast, with slides, a lazy river and toddler splash areas.",
+            "fr": "Oui, l'accès au parc aquatique est inclus pour les clients de l'hôtel pendant tout le séjour. C'est l'un des plus grands parcs sur place de la côte, avec toboggans, rivière lente et zones de jeux d'eau pour tout-petits."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it right for very young children?",
+            "fr": "Est-ce adapté aux tout-petits?"
+          },
+          "a": {
+            "en": "Yes, with a swim-out room the pool is on your doorstep and the park has shallow splash zones for toddlers. It is a lively, busy resort though, so expect noise and energy rather than calm.",
+            "fr": "Oui, avec une chambre swim-out la piscine est à votre porte et le parc dispose de zones peu profondes pour les tout-petits. C'est toutefois un resort animé et fréquenté: attendez-vous à du bruit et de l'énergie plutôt qu'au calme."
+          }
+        },
+        {
+          "q": {
+            "en": "Does it face seaweed problems?",
+            "fr": "Y a-t-il un problème d'algues?"
+          },
+          "a": {
+            "en": "Like the whole coast, the beach can get sargassum between April and August, worse in some years. The huge water park and pools mean the beach is rarely the make-or-break of the trip here.",
+            "fr": "Comme toute la côte, la plage peut recevoir des sargasses entre avril et août, davantage certaines années. L'immense parc aquatique et les piscines font que la plage est rarement décisive pour le séjour ici."
+          }
+        }
+      ]
+    },
+    {
+      "key": "riviera-maya-grand-palladium-kantenah",
+      "destinationKey": "riviera-maya",
+      "name": "Grand Palladium Kantenah Resort & Spa",
+      "area": {
+        "en": "Kantenah, Akumal",
+        "fr": "Kantenah, Akumal"
+      },
+      "lat": 20.452,
+      "lng": -87.28,
+      "zoom": 12,
+      "address": "Carretera Chetumal, Puerto Juarez Km 256-100, Playa Kantenah, 77710 Akumal, Quintana Roo, Mexico",
+      "priceTier": 3,
+      "priceFrom": 320,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolPalms",
+        "poolTropicalMtn",
+        "babyHand"
+      ],
+      "scores": {
+        "rooms": 83,
+        "baby": 86,
+        "pool": 86,
+        "dining": 83,
+        "safety": 86,
+        "convenience": 74,
+        "location": 82,
+        "extras": 85
+      },
+      "roomsSummary": {
+        "en": "Rooms are generous junior suites spread through low-rise blocks in dense tropical garden, most with a balcony or terrace and a sofa bed, so a family of three or four fits without connecting. The Family Selection tier adds bigger rooms, a private lounge and extra kid amenities for a premium. Cots are free, the Baby Club lends out gear, and the gardens are so green and full of coati and birds that the walk to breakfast doubles as a nature walk.",
+        "fr": "Les chambres sont de généreuses junior suites réparties dans des bâtiments bas au coeur d'un jardin tropical dense, la plupart avec balcon ou terrasse et canapé-lit, si bien qu'une famille de trois ou quatre tient sans chambre communicante. Le niveau Family Selection ajoute des chambres plus grandes, un salon privatif et des services enfants supplémentaires, moyennant supplément. Lit bébé gratuit, le Baby Club prête du matériel, et les jardins sont si verts et peuplés de coatis et d'oiseaux que le trajet du petit-déjeuner se transforme en balade nature."
+      },
+      "intro": {
+        "en": "Grand Palladium Kantenah is part of a big shared complex that four family-friendly Palladium hotels wrap around, so one booking unlocks a small town of pools, restaurants and pool bars, plus a children's water zone with small slides and a splash park. Its real strength for young families is the age-split club structure: a Baby Club, a Mini Club and a Junior Club, with staff used to the very youngest guests. The setting is lush lowland jungle rather than manicured lawn, which families either love for the wildlife or find a little wild. Be clear on one thing when booking this complex: the neighbouring TRS Yucatan is adults-only, so make sure you are on a Grand Palladium (Kantenah, Colonial or White Sand) rate. The main caveat is distance, it is around 60 to 75 minutes from the airport.",
+        "fr": "Grand Palladium Kantenah fait partie d'un grand complexe partagé qu'entourent quatre hôtels Palladium adaptés aux familles: une seule réservation ouvre l'accès à une petite ville de piscines, de restaurants et de bars de piscine, plus une zone aquatique enfants avec petits toboggans et jeux d'eau. Sa vraie force pour les jeunes familles, c'est la structure de clubs par âge: un Baby Club, un Mini Club et un Junior Club, avec un personnel habitué aux tout-petits. Le cadre est une jungle de plaine luxuriante plutôt qu'une pelouse taillée, ce que les familles adorent pour la faune ou trouvent un peu sauvage. Un point à clarifier en réservant ce complexe: le TRS Yucatan voisin est réservé aux adultes, veillez donc à être sur un tarif Grand Palladium (Kantenah, Colonial ou White Sand). La principale réserve, c'est la distance: environ 60 à 75 minutes de l'aéroport."
+      },
+      "highlights": {
+        "en": [
+          "Age-split clubs including a Baby Club for the very youngest guests",
+          "One booking opens a shared complex of pools, restaurants and a splash park",
+          "Lush jungle gardens full of coati, birds and easy nature-spotting",
+          "Strong value all-inclusive with generous junior suites"
+        ],
+        "fr": [
+          "Clubs séparés par âge, dont un Baby Club pour les tout-petits",
+          "Une réservation ouvre un complexe partagé de piscines, restaurants et jeux d'eau",
+          "Jardins de jungle luxuriants pleins de coatis, oiseaux et observation nature facile",
+          "Tout compris au bon rapport qualité-prix avec de généreuses junior suites"
+        ]
+      },
+      "pros": {
+        "en": [
+          "One of the better set-ups on the coast for babies and toddlers",
+          "Huge shared complex means lots of variety without leaving",
+          "Green, shaded and full of wildlife rather than hot open concrete",
+          "Good all-inclusive value below the boutique names"
+        ],
+        "fr": [
+          "L'une des meilleures formules de la côte pour bébés et tout-petits",
+          "L'immense complexe partagé offre beaucoup de variété sans sortir",
+          "Vert, ombragé et plein de faune plutôt que du béton ouvert et brûlant",
+          "Bon rapport qualité-prix en tout compris, sous les adresses boutique"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Around 60 to 75 minutes from Cancun airport",
+          "The water zone is fun but modest, not a headline water park",
+          "The complex is spread out, so expect walking between areas",
+          "Make sure you book a Grand Palladium, not the adults-only TRS Yucatan"
+        ],
+        "fr": [
+          "Environ 60 à 75 minutes de l'aéroport de Cancun",
+          "La zone aquatique est sympa mais modeste, pas un grand parc aquatique",
+          "Le complexe est étendu: prévoyez de marcher entre les zones",
+          "Réservez bien un Grand Palladium, pas le TRS Yucatan réservé aux adultes"
+        ]
+      },
+      "verdict": {
+        "en": "For babies and toddlers, the Baby Club, the shade and the gentle water zone make this one of the most reassuring choices on the coast, and the price is fair. Older kids who crave a big slide park will do better at Royalton Splash or the Nickelodeon resort.",
+        "fr": "Pour les bébés et les tout-petits, le Baby Club, l'ombre et la zone aquatique douce en font l'un des choix les plus rassurants de la côte, à un prix juste. Les plus grands en quête d'un grand parc à toboggans seront mieux au Royalton Splash ou au resort Nickelodeon."
+      },
+      "parentTip": {
+        "en": "If a baby or toddler is your reason for coming, pay up for the Family Selection tier. The private lounge with milk, snacks and quiet space during the midday heat earns its cost within two days.",
+        "fr": "Si un bébé ou un tout-petit est votre motif de séjour, payez le niveau Family Selection. Le salon privatif avec lait, encas et espace calme pendant la chaleur de midi rentabilise son coût en deux jours."
+      },
+      "atAGlance": [
+        {
+          "icon": "🍼",
+          "label": {
+            "en": "Baby ready",
+            "fr": "Prêt pour bébé"
+          },
+          "value": {
+            "en": "Baby Club, free cots and gear loans, shaded gardens",
+            "fr": "Baby Club, lit bébé gratuit et prêt de matériel, jardins ombragés"
+          }
+        },
+        {
+          "icon": "🏝️",
+          "label": {
+            "en": "Complex",
+            "fr": "Complexe"
+          },
+          "value": {
+            "en": "Shared with three other family Palladium hotels",
+            "fr": "Partagé avec trois autres hôtels Palladium familiaux"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Transfer",
+            "fr": "Transfert"
+          },
+          "value": {
+            "en": "About 60 to 75 minutes from Cancun airport",
+            "fr": "Environ 60 à 75 minutes de l'aéroport de Cancun"
+          }
+        },
+        {
+          "icon": "🦡",
+          "label": {
+            "en": "Setting",
+            "fr": "Cadre"
+          },
+          "value": {
+            "en": "Lush jungle gardens with coati and tropical birds",
+            "fr": "Jardins de jungle luxuriants avec coatis et oiseaux tropicaux"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "How do I avoid booking the adults-only hotel by mistake?",
+            "fr": "Comment éviter de réserver par erreur l'hôtel réservé aux adultes?"
+          },
+          "a": {
+            "en": "The complex holds several hotels. The family ones are Grand Palladium Kantenah, Grand Palladium Colonial and Grand Palladium White Sand. The TRS Yucatan on the same site is adults-only, so check the exact hotel name on your booking.",
+            "fr": "Le complexe abrite plusieurs hôtels. Les familiaux sont Grand Palladium Kantenah, Grand Palladium Colonial et Grand Palladium White Sand. Le TRS Yucatan sur le même site est réservé aux adultes, vérifiez donc le nom exact de l'hôtel sur votre réservation."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a proper water park?",
+            "fr": "Y a-t-il un vrai parc aquatique?"
+          },
+          "a": {
+            "en": "There is a children's water zone with small slides and a splash park, which is plenty for toddlers and younger kids, but it is not a big thrill-slide water park like Royalton Splash or Aqua Nick.",
+            "fr": "Il y a une zone aquatique enfants avec petits toboggans et jeux d'eau, largement suffisante pour les tout-petits et les plus jeunes, mais ce n'est pas un grand parc à sensations comme le Royalton Splash ou Aqua Nick."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the long transfer worth it?",
+            "fr": "Le long transfert en vaut-il la peine?"
+          },
+          "a": {
+            "en": "For a baby or toddler holiday, many parents think so: the setting is greener and calmer than the Cancun end, and the baby facilities are among the best on the coast. Book a private transfer with car seats to make the drive easier.",
+            "fr": "Pour des vacances avec bébé ou tout-petit, beaucoup de parents le pensent: le cadre est plus vert et plus calme que du côté de Cancun, et les services bébé figurent parmi les meilleurs de la côte. Réservez un transfert privé avec sièges enfants pour faciliter le trajet."
+          }
+        }
+      ]
+    },
+    {
+      "key": "riviera-maya-barcelo-maya-palace",
+      "destinationKey": "riviera-maya",
+      "name": "Barcelo Maya Palace",
+      "area": {
+        "en": "Xpu-Ha, Riviera Maya",
+        "fr": "Xpu-Ha, Riviera Maya"
+      },
+      "lat": 20.479,
+      "lng": -87.235,
+      "zoom": 12,
+      "address": "Carretera Chetumal, Puerto Juarez Km 266.3, Xpu-Ha, 77750 Playa del Carmen, Quintana Roo, Mexico",
+      "priceTier": 3,
+      "priceFrom": 350,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "whiteResortPool",
+        "poolCabanas",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 85,
+        "baby": 79,
+        "pool": 88,
+        "dining": 84,
+        "safety": 85,
+        "convenience": 78,
+        "location": 84,
+        "extras": 86
+      },
+      "roomsSummary": {
+        "en": "Barcelo Maya Palace is the all-suite flagship of the complex, so every room is a proper junior suite with a sofa area and a large bathroom, and family rooms take four comfortably. Guests here can roam five interconnected family resorts along one long beach, which means dozens of restaurants and pools on a single wristband. Cots are free, and the calm, gently shelving beach at Xpu-Ha is one of the better swimming stretches on the coast.",
+        "fr": "Le Barcelo Maya Palace est le vaisseau amiral tout suites du complexe: chaque chambre est une vraie junior suite avec coin salon et grande salle de bain, et les chambres familiales accueillent quatre personnes confortablement. Les clients peuvent circuler entre cinq resorts familiaux interconnectés le long d'une même grande plage, soit des dizaines de restaurants et de piscines sur un seul bracelet. Lit bébé gratuit, et la plage calme en pente douce de Xpu-Ha est l'une des meilleures portions de baignade de la côte."
+      },
+      "intro": {
+        "en": "The Barcelo Maya complex is five family resorts strung along a single beautiful bay at Xpu-Ha, and booking the Palace, the all-suite flagship, gives you the smartest rooms plus the run of the whole thing. For children that means the Barcy Water Park, a kids splash area with castles, slides and waterfalls, plus the free Barcy Kids Club for ages four to twelve and a beach that is genuinely calm and swimmable. The scale gives you enormous choice without a transfer, and the price sits comfortably below the boutique names. Two honest notes: the neighbouring Barcelo Maya Riviera within the complex is adults-only, so book the Palace or another family Barcelo, and the resort is around 45 to 60 minutes from the airport.",
+        "fr": "Le complexe Barcelo Maya, ce sont cinq resorts familiaux alignés le long d'une seule belle baie à Xpu-Ha, et réserver le Palace, le vaisseau amiral tout suites, vous donne les plus belles chambres et l'accès à l'ensemble. Pour les enfants, cela signifie le Barcy Water Park, une zone aquatique avec châteaux, toboggans et cascades, plus le Barcy Kids Club gratuit pour les quatre à douze ans et une plage vraiment calme et baignable. L'échelle offre un choix énorme sans transfert, et le prix reste nettement sous celui des adresses boutique. Deux remarques honnêtes: le Barcelo Maya Riviera voisin, au sein du complexe, est réservé aux adultes, réservez donc le Palace ou un autre Barcelo familial, et le resort se situe à environ 45 à 60 minutes de l'aéroport."
+      },
+      "highlights": {
+        "en": [
+          "Barcy Water Park with castles, slides and waterfalls for kids",
+          "One wristband unlocks five interconnected family resorts",
+          "Free Barcy Kids Club for ages four to twelve",
+          "Calm, gently shelving Xpu-Ha beach, good for swimming"
+        ],
+        "fr": [
+          "Barcy Water Park avec châteaux, toboggans et cascades pour les enfants",
+          "Un seul bracelet ouvre cinq resorts familiaux interconnectés",
+          "Barcy Kids Club gratuit pour les quatre à douze ans",
+          "Plage de Xpu-Ha calme et en pente douce, bonne pour la baignade"
+        ]
+      },
+      "pros": {
+        "en": [
+          "All-suite rooms and one of the calmest swimming beaches on the coast",
+          "Huge choice of pools and restaurants across five linked resorts",
+          "The Barcy water zone and kids club keep younger children happy",
+          "Strong value for the scale and quality you get"
+        ],
+        "fr": [
+          "Chambres tout suites et l'une des plages de baignade les plus calmes de la côte",
+          "Choix énorme de piscines et de restaurants sur cinq resorts reliés",
+          "La zone aquatique Barcy et le club enfants comblent les plus jeunes",
+          "Bon rapport qualité-prix vu l'échelle et la qualité"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Around 45 to 60 minutes from Cancun airport",
+          "The complex is vast, so expect a lot of walking",
+          "Book carefully: one hotel inside the complex is adults-only",
+          "Sargassum can reach the bay between April and August"
+        ],
+        "fr": [
+          "Environ 45 à 60 minutes de l'aéroport de Cancun",
+          "Le complexe est vaste: prévoyez beaucoup de marche",
+          "Réservez avec soin: un hôtel du complexe est réservé aux adultes",
+          "Les sargasses peuvent atteindre la baie entre avril et août"
+        ]
+      },
+      "verdict": {
+        "en": "For a classic, great-value family beach week with a proper calm sea and a kids water zone, the Palace is the room you want inside the best-run family complex on the coast. Just double-check the exact hotel name so you land a family Barcelo and not the adults-only one.",
+        "fr": "Pour une semaine plage familiale classique et au bon rapport qualité-prix, avec une vraie mer calme et une zone aquatique enfants, le Palace est la chambre à viser dans le complexe familial le mieux tenu de la côte. Vérifiez juste le nom exact de l'hôtel pour tomber sur un Barcelo familial et non celui réservé aux adultes."
+      },
+      "parentTip": {
+        "en": "The Xpu-Ha bay is one of the coast's calmest, so pack snorkel masks. On low-sargassum days the shallow water off the Palace beach is perfect for a first snorkel with a nervous six-year-old.",
+        "fr": "La baie de Xpu-Ha est l'une des plus calmes de la côte, alors emportez des masques de snorkeling. Les jours sans sargasses, l'eau peu profonde devant la plage du Palace est parfaite pour un premier snorkeling avec un enfant de six ans peu rassuré."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water zone",
+            "fr": "Zone aquatique"
+          },
+          "value": {
+            "en": "Barcy Water Park with castles, slides and waterfalls",
+            "fr": "Barcy Water Park avec châteaux, toboggans et cascades"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Calm, gently shelving Xpu-Ha bay, good for swimming",
+            "fr": "Baie de Xpu-Ha calme et en pente douce, bonne pour nager"
+          }
+        },
+        {
+          "icon": "🏨",
+          "label": {
+            "en": "Complex",
+            "fr": "Complexe"
+          },
+          "value": {
+            "en": "Five linked family resorts on one wristband",
+            "fr": "Cinq resorts familiaux reliés sur un seul bracelet"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Transfer",
+            "fr": "Transfert"
+          },
+          "value": {
+            "en": "About 45 to 60 minutes from Cancun airport",
+            "fr": "Environ 45 à 60 minutes de l'aéroport de Cancun"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Which Barcelo hotels here are for families?",
+            "fr": "Quels hôtels Barcelo ici sont pour les familles?"
+          },
+          "a": {
+            "en": "Barcelo Maya Palace, Beach, Caribe, Colonial and Tropical are all family resorts sharing the complex. Barcelo Maya Riviera is the adults-only one, so avoid that name if you are travelling with children.",
+            "fr": "Barcelo Maya Palace, Beach, Caribe, Colonial et Tropical sont tous des resorts familiaux du complexe. Le Barcelo Maya Riviera est celui réservé aux adultes, évitez donc ce nom si vous voyagez avec des enfants."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the beach good for swimming?",
+            "fr": "La plage est-elle bonne pour la baignade?"
+          },
+          "a": {
+            "en": "Yes, the Xpu-Ha bay is one of the calmer, more swimmable stretches on the Riviera Maya, with a gentle shelf that suits young children. Sargassum can still arrive in the warmer months.",
+            "fr": "Oui, la baie de Xpu-Ha est l'une des portions les plus calmes et baignables de la Riviera Maya, avec une pente douce adaptée aux jeunes enfants. Les sargasses peuvent tout de même arriver aux mois les plus chauds."
+          }
+        },
+        {
+          "q": {
+            "en": "Do we get access to all five resorts?",
+            "fr": "A-t-on accès aux cinq resorts?"
+          },
+          "a": {
+            "en": "Guests of the family Barcelo hotels can generally use the shared facilities, restaurants and pools across the complex, so booking the Palace gives you the best rooms plus the run of everything.",
+            "fr": "Les clients des Barcelo familiaux peuvent en général utiliser les installations, restaurants et piscines partagés de tout le complexe, si bien que réserver le Palace vous donne les meilleures chambres et l'accès à l'ensemble."
+          }
+        }
+      ]
+    },
+    {
+      "key": "riviera-maya-grand-sirenis-riviera-maya",
+      "destinationKey": "riviera-maya",
+      "name": "Grand Sirenis Riviera Maya Resort & Spa",
+      "area": {
+        "en": "Akumal",
+        "fr": "Akumal"
+      },
+      "lat": 20.416,
+      "lng": -87.308,
+      "zoom": 12,
+      "address": "Carretera Federal Cancun, Tulum Km 256.3, Zona Costera, 77734 Akumal, Quintana Roo, Mexico",
+      "priceTier": 3,
+      "priceFrom": 260,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolPalms",
+        "poolTropicalMtn",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 75,
+        "pool": 85,
+        "dining": 79,
+        "safety": 83,
+        "convenience": 74,
+        "location": 83,
+        "extras": 83
+      },
+      "roomsSummary": {
+        "en": "Rooms are comfortable junior suites in low garden blocks, most with a balcony or terrace, and the family categories add extra space and sofa beds for four. It is the value pick of this list, so finishes are functional rather than plush, but the grounds are big and green with a long lazy river winding through. Cots are free, there is a natural cenote and a small Mayan ruin on site, and the beach sits on a protected cove near the famous Akumal turtle bay.",
+        "fr": "Les chambres sont de confortables junior suites dans des bâtiments bas au coeur du jardin, la plupart avec balcon ou terrasse, et les catégories familiales ajoutent de l'espace et des canapés-lits pour quatre. C'est le choix économique de cette liste: les finitions sont fonctionnelles plutôt que cossues, mais le domaine est vaste et vert, traversé par une longue rivière lente. Lit bébé gratuit, un cenote naturel et une petite ruine maya sur place, et la plage occupe une crique protégée près de la célèbre baie aux tortues d'Akumal."
+      },
+      "intro": {
+        "en": "Grand Sirenis is the best-value entry on this list: a big, leafy all-inclusive near Akumal built around a long lazy river and a cluster of pools, with a free Sirenios kids club and a children's pool. It will not out-glitz the flagships, but for families who want the water, the club and the sun without the boutique price, it delivers a lot for the money. The Akumal setting is a real bonus, you are minutes from one of the coast's most famous snorkelling coves and its turtles, and there is a natural cenote in the grounds. The trade-offs are honest: it is around 60 to 75 minutes from the airport, and food and rooms are solid mainstream rather than gourmet.",
+        "fr": "Grand Sirenis est l'entrée au meilleur rapport qualité-prix de cette liste: un grand tout compris verdoyant près d'Akumal, construit autour d'une longue rivière lente et d'un ensemble de piscines, avec un club enfants Sirenios gratuit et une piscine pour enfants. Il ne rivalisera pas de faste avec les vaisseaux amiraux, mais pour les familles qui veulent l'eau, le club et le soleil sans le prix boutique, il offre beaucoup pour l'argent investi. Le cadre d'Akumal est un vrai plus: vous êtes à quelques minutes de l'une des criques de snorkeling les plus célèbres de la côte et de ses tortues, et un cenote naturel se trouve dans le domaine. Les contreparties sont honnêtes: environ 60 à 75 minutes de l'aéroport, et une cuisine comme des chambres relevant d'un bon grand public plutôt que du gastronomique."
+      },
+      "highlights": {
+        "en": [
+          "Long lazy river and a cluster of pools with a dedicated kids pool",
+          "Free Sirenios kids club and a genuinely low all-inclusive price",
+          "Minutes from Akumal's famous turtle snorkelling cove",
+          "Natural cenote and a small Mayan ruin within the grounds"
+        ],
+        "fr": [
+          "Longue rivière lente et un ensemble de piscines avec piscine enfants dédiée",
+          "Club enfants Sirenios gratuit et un tarif tout compris vraiment bas",
+          "À quelques minutes de la célèbre crique aux tortues d'Akumal",
+          "Cenote naturel et petite ruine maya dans le domaine"
+        ]
+      },
+      "pros": {
+        "en": [
+          "The best value on this list by a clear margin",
+          "The lazy river works for the whole family at once",
+          "Great base for the Akumal turtles and nearby cenotes",
+          "Big green grounds with plenty of shade"
+        ],
+        "fr": [
+          "Le meilleur rapport qualité-prix de cette liste, nettement",
+          "La rivière lente fonctionne pour toute la famille en même temps",
+          "Excellente base pour les tortues d'Akumal et les cenotes voisins",
+          "Grand domaine vert avec beaucoup d'ombre"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Around 60 to 75 minutes from Cancun airport",
+          "Food and rooms are functional mainstream, not luxury",
+          "The grounds are big and can involve a fair walk",
+          "Sargassum can affect the beach between April and August"
+        ],
+        "fr": [
+          "Environ 60 à 75 minutes de l'aéroport de Cancun",
+          "Cuisine et chambres fonctionnelles et grand public, pas du luxe",
+          "Le domaine est vaste et peut imposer une bonne marche",
+          "Les sargasses peuvent toucher la plage entre avril et août"
+        ]
+      },
+      "verdict": {
+        "en": "If budget is doing the steering and you still want a lazy river, a free kids club and the Akumal turtles on your doorstep, Grand Sirenis is the clever pick. Manage expectations on polish and the airport drive, and it delivers a great-value family week.",
+        "fr": "Si le budget mène la danse et que vous voulez tout de même une rivière lente, un club enfants gratuit et les tortues d'Akumal à votre porte, Grand Sirenis est le choix malin. Tempérez vos attentes sur le raffinement et le trajet depuis l'aéroport, et il offre une semaine famille au très bon rapport qualité-prix."
+      },
+      "parentTip": {
+        "en": "Do the Akumal turtle snorkel early and on a calm morning. Go through a licensed guide with life vests, book the first slot, and you beat both the crowds and the afternoon chop.",
+        "fr": "Faites le snorkeling avec les tortues d'Akumal tôt et par une matinée calme. Passez par un guide agréé avec gilets de sauvetage, réservez le premier créneau, et vous devancez la foule comme le clapot de l'après-midi."
+      },
+      "atAGlance": [
+        {
+          "icon": "🌊",
+          "label": {
+            "en": "Lazy river",
+            "fr": "Rivière lente"
+          },
+          "value": {
+            "en": "A long lazy river plus pools and a dedicated kids pool",
+            "fr": "Une longue rivière lente, des piscines et une piscine enfants"
+          }
+        },
+        {
+          "icon": "🐢",
+          "label": {
+            "en": "Turtles",
+            "fr": "Tortues"
+          },
+          "value": {
+            "en": "Minutes from Akumal's famous turtle snorkelling cove",
+            "fr": "À quelques minutes de la crique aux tortues d'Akumal"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Value",
+            "fr": "Prix"
+          },
+          "value": {
+            "en": "The lowest all-inclusive price on this list",
+            "fr": "Le tarif tout compris le plus bas de cette liste"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Transfer",
+            "fr": "Transfert"
+          },
+          "value": {
+            "en": "About 60 to 75 minutes from Cancun airport",
+            "fr": "Environ 60 à 75 minutes de l'aéroport de Cancun"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is it good for families on a budget?",
+            "fr": "Est-ce bien pour les familles avec un budget serré?"
+          },
+          "a": {
+            "en": "Yes, it is the value choice here. You trade some polish and a longer transfer for a much lower price, but the lazy river, the free kids club and the Akumal location are all genuinely good.",
+            "fr": "Oui, c'est le choix économique ici. Vous échangez un peu de raffinement et un transfert plus long contre un prix bien plus bas, mais la rivière lente, le club enfants gratuit et l'emplacement d'Akumal sont tous vraiment bons."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we see turtles nearby?",
+            "fr": "Peut-on voir des tortues à proximité?"
+          },
+          "a": {
+            "en": "Yes, Akumal bay is one of the most reliable places on the coast to snorkel with green sea turtles. Use a licensed guide, wear a life vest and keep your distance from the animals.",
+            "fr": "Oui, la baie d'Akumal est l'un des endroits les plus fiables de la côte pour faire du snorkeling avec des tortues vertes. Passez par un guide agréé, portez un gilet de sauvetage et gardez vos distances avec les animaux."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a water park?",
+            "fr": "Y a-t-il un parc aquatique?"
+          },
+          "a": {
+            "en": "There is a long lazy river, several pools and a children's pool rather than a big thrill-slide park. For younger children that mix is often more than enough, but slide-hungry older kids may prefer Royalton Splash.",
+            "fr": "Il y a une longue rivière lente, plusieurs piscines et une piscine enfants plutôt qu'un grand parc à sensations. Pour les plus jeunes, ce mélange suffit souvent largement, mais les plus grands avides de toboggans préféreront peut-être le Royalton Splash."
+          }
+        }
+      ]
+    },
+    {
+      "key": "riviera-maya-dreams-tulum-resort-spa",
+      "destinationKey": "riviera-maya",
+      "name": "Dreams Tulum Resort & Spa",
+      "area": {
+        "en": "Tulum",
+        "fr": "Tulum"
+      },
+      "lat": 20.253,
+      "lng": -87.436,
+      "zoom": 12,
+      "address": "Carretera Chetumal, Puerto Juarez Km 236.7, 77780 Tulum, Quintana Roo, Mexico",
+      "priceTier": 3,
+      "priceFrom": 330,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolPalms",
+        "whiteResortPool",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 82,
+        "baby": 76,
+        "pool": 87,
+        "dining": 82,
+        "safety": 84,
+        "convenience": 72,
+        "location": 85,
+        "extras": 85
+      },
+      "roomsSummary": {
+        "en": "Rooms are set in low colonial-style blocks among mature palms, most with a balcony or terrace, and the family and Preferred Club categories give you more space and connecting options for four. It has a proper old-Riviera feel rather than a glass tower, and cots are free. The beach is a wide, soft crescent that is calmer than the wild Tulum surf further south, and the resort is close enough to combine the beach week with the Tulum ruins and the town's cenotes.",
+        "fr": "Les chambres occupent des bâtiments bas de style colonial parmi des palmiers matures, la plupart avec balcon ou terrasse, et les catégories familiales et Preferred Club offrent plus d'espace et des options communicantes pour quatre. L'ensemble a un vrai cachet ancienne Riviera plutôt qu'une tour de verre, et le lit bébé est gratuit. La plage est un large croissant de sable doux, plus calme que les vagues sauvages de Tulum plus au sud, et le resort est assez proche pour combiner la semaine plage avec les ruines de Tulum et les cenotes de la région."
+      },
+      "intro": {
+        "en": "Dreams Tulum is the family face of the Dreams brand (the grown-up sisters are Secrets and Breathless, which are adults-only, so pick the Dreams name), and it pairs a classic soft-sand beach with a genuinely good new water park: the Explorer's Club for kids runs a splash playground with six water slides, tipping buckets and a wet play area. Add a free age-split kids club, a teens programme and a calm crescent of beach, and you have a relaxed, well-priced family base at the quieter Tulum end of the coast. The location is the draw and the caveat: you are far enough south to fold in the Tulum ruins and cenotes, but that also means a longer airport transfer of around 75 to 90 minutes.",
+        "fr": "Dreams Tulum est le visage familial de la marque Dreams (les grandes soeurs Secrets et Breathless sont réservées aux adultes, choisissez donc le nom Dreams), et il associe une plage classique de sable doux à un parc aquatique vraiment réussi: l'Explorer's Club pour enfants propose une aire de jeux d'eau avec six toboggans, des seaux basculants et une zone humide. Ajoutez un club enfants gratuit séparé par âge, un programme ados et un croissant de plage calme, et vous obtenez une base familiale détendue et bien tarifée du côté plus tranquille de Tulum. L'emplacement est à la fois l'attrait et la réserve: vous êtes assez au sud pour ajouter les ruines de Tulum et les cenotes, mais cela implique aussi un transfert aéroport plus long, environ 75 à 90 minutes."
+      },
+      "highlights": {
+        "en": [
+          "New Explorer's Club water park with six slides for kids",
+          "Free age-split kids club and a teens programme",
+          "Calm, soft crescent beach, gentler than the wild Tulum surf",
+          "Close to the Tulum ruins and the region's best cenotes"
+        ],
+        "fr": [
+          "Nouveau parc aquatique Explorer's Club avec six toboggans pour enfants",
+          "Club enfants gratuit séparé par âge et programme ados",
+          "Plage calme en croissant de sable doux, plus douce que les vagues de Tulum",
+          "Proche des ruines de Tulum et des meilleurs cenotes de la région"
+        ]
+      },
+      "pros": {
+        "en": [
+          "A real kids water park at a mid-range price",
+          "One of the calmer, softer beaches at the Tulum end",
+          "Best-placed on this list for the ruins and cenotes",
+          "Relaxed old-Riviera character rather than a mega-resort"
+        ],
+        "fr": [
+          "Un vrai parc aquatique enfants à un prix milieu de gamme",
+          "L'une des plages les plus calmes et douces du côté de Tulum",
+          "Le mieux placé de cette liste pour les ruines et les cenotes",
+          "Cachet détendu d'ancienne Riviera plutôt qu'un méga-resort"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Longest airport transfer here, around 75 to 90 minutes",
+          "Rooms and grounds are characterful but showing their age in places",
+          "The water park is aimed at kids, less thrilling for teens",
+          "Sargassum can reach the beach between April and August"
+        ],
+        "fr": [
+          "Le transfert aéroport le plus long ici, environ 75 à 90 minutes",
+          "Chambres et domaine ont du cachet mais accusent parfois leur âge",
+          "Le parc aquatique vise les enfants, moins palpitant pour les ados",
+          "Les sargasses peuvent atteindre la plage entre avril et août"
+        ]
+      },
+      "verdict": {
+        "en": "For families who want a kids water park, a calm beach and easy day trips to the Tulum ruins and cenotes, Dreams Tulum threads the needle at a fair price. Accept the longer drive from the airport and you get the most characterful, best-placed base at the southern end of the coast.",
+        "fr": "Pour les familles qui veulent un parc aquatique enfants, une plage calme et des excursions faciles vers les ruines de Tulum et les cenotes, Dreams Tulum trouve le bon équilibre à un prix juste. Acceptez le trajet plus long depuis l'aéroport et vous obtenez la base la plus pleine de cachet et la mieux placée au sud de la côte."
+      },
+      "parentTip": {
+        "en": "Visit the Tulum ruins at opening, before the heat and the tour buses. They sit right on a cliff over the sea, so pack swimwear and finish with a dip on the little beach below the ruins.",
+        "fr": "Visitez les ruines de Tulum à l'ouverture, avant la chaleur et les bus de touristes. Elles surplombent la mer du haut d'une falaise: emportez les maillots et terminez par une baignade sur la petite plage en contrebas des ruines."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "Explorer's Club kids water park with six slides",
+            "fr": "Parc aquatique enfants Explorer's Club avec six toboggans"
+          }
+        },
+        {
+          "icon": "🏛️",
+          "label": {
+            "en": "Day trips",
+            "fr": "Excursions"
+          },
+          "value": {
+            "en": "Close to the Tulum ruins and the best cenotes",
+            "fr": "Proche des ruines de Tulum et des meilleurs cenotes"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Soft, calm crescent, gentler than southern Tulum surf",
+            "fr": "Croissant de sable doux et calme, plus doux que les vagues du sud"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Transfer",
+            "fr": "Transfert"
+          },
+          "value": {
+            "en": "About 75 to 90 minutes from Cancun airport",
+            "fr": "Environ 75 à 90 minutes de l'aéroport de Cancun"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is Dreams the family brand, not the adults-only one?",
+            "fr": "Dreams est-elle la marque familiale, pas celle réservée aux adultes?"
+          },
+          "a": {
+            "en": "Yes. Within the same hotel group, Dreams resorts are family-friendly, while Secrets and Breathless are adults-only. Dreams Tulum welcomes children and has a full kids club and water park.",
+            "fr": "Oui. Au sein du même groupe hôtelier, les resorts Dreams sont adaptés aux familles, tandis que Secrets et Breathless sont réservés aux adultes. Dreams Tulum accueille les enfants et dispose d'un club enfants complet et d'un parc aquatique."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the long transfer worth it for the ruins?",
+            "fr": "Le long transfert vaut-il le coup pour les ruines?"
+          },
+          "a": {
+            "en": "If seeing the Tulum ruins and swimming in cenotes matters to you, yes: this is the best-placed resort on the list for both. If you only want beach and pool, a resort nearer Cancun will save you an hour each way.",
+            "fr": "Si voir les ruines de Tulum et nager dans les cenotes compte pour vous, oui: c'est le resort le mieux placé de la liste pour les deux. Si vous ne voulez que plage et piscine, un resort plus proche de Cancun vous fera gagner une heure dans chaque sens."
+          }
+        },
+        {
+          "q": {
+            "en": "Will teens be entertained?",
+            "fr": "Les ados seront-ils occupés?"
+          },
+          "a": {
+            "en": "There is a teens programme and the beach and cenote trips appeal across ages, but the water park is pitched at younger children. Thrill-seeking teens may prefer the bigger slide parks up the coast.",
+            "fr": "Il existe un programme ados, et la plage comme les sorties cenote plaisent à tous les âges, mais le parc aquatique vise les plus jeunes. Les ados en quête de sensations préféreront peut-être les plus grands parcs à toboggans plus au nord."
+          }
+        }
+      ]
+    }
+  ],
+  "destinationMeta": {
+    "name": {
+      "en": "Riviera Maya",
+      "fr": "Riviera Maya"
+    },
+    "country": {
+      "en": "Mexico",
+      "fr": "Mexique"
+    },
+    "emoji": "🐢",
+    "accent": "0ea5b7",
+    "geo": {
+      "lat": 20.6,
+      "lng": -87.1,
+      "zoom": 9
+    },
+    "heroKicker": {
+      "en": "The world's biggest family all-inclusive coast, with on-site water parks and warm, shallow Caribbean sea",
+      "fr": "La plus grande côte familiale du tout compris au monde, avec parcs aquatiques sur place et mer caraïbe tiède et peu profonde"
+    },
+    "intro": {
+      "en": "The Riviera Maya and Cancun coast is, for many families, the single best all-inclusive destination on the planet: a long ribbon of white Caribbean sand from Cancun south through Puerto Morelos, Playa del Carmen and Akumal to Tulum, lined with giant family resorts that build the entertainment in. The formula is consistent and hard to beat: all inclusive that really covers everything, warm shallow water, free age-split kids clubs and, at the best addresses, a proper water park you never leave the grounds to reach. In winter it is reliably hot and dry when Europe is not, which is exactly when families most need it, and there are cenotes, Mayan ruins and eco-parks a short drive away when you want more than the beach. Three honest caveats before you book. The flight from Europe is a long haul of roughly ten to eleven hours each way. Sargassum seaweed can wash up between April and August, worst in some years and barely there in others. And this coast has a very high number of adults-only resorts, so you have to book a genuinely family hotel rather than assume every big-name resort welcomes children.",
+      "fr": "Pour beaucoup de familles, la Riviera Maya et la côte de Cancun forment tout simplement la meilleure destination tout compris de la planète: un long ruban de sable blanc des Caraïbes, de Cancun vers le sud à travers Puerto Morelos, Playa del Carmen et Akumal jusqu'à Tulum, bordé de grands resorts familiaux qui intègrent l'animation. La formule est constante et difficile à battre: un tout compris qui couvre vraiment tout, une eau chaude et peu profonde, des clubs enfants gratuits séparés par âge et, dans les meilleures adresses, un vrai parc aquatique auquel on accède sans sortir du domaine. En hiver, le temps y est chaud et sec de façon fiable quand il ne l'est pas en Europe, précisément quand les familles en ont le plus besoin, et il y a des cenotes, des ruines mayas et des parcs écologiques à courte distance quand on veut autre chose que la plage. Trois réserves honnêtes avant de réserver. Le vol depuis l'Europe est un long-courrier d'environ dix à onze heures dans chaque sens. Les sargasses peuvent s'échouer entre avril et août, très présentes certaines années, quasi absentes d'autres. Et cette côte compte un très grand nombre de resorts réservés aux adultes: il faut donc réserver un hôtel réellement familial plutôt que de supposer que tout grand resort connu accueille les enfants."
+    },
+    "whyKids": {
+      "en": [
+        "The Caribbean water is warm all year, shallow a long way out and calm along most protected bays",
+        "All inclusive here genuinely means everything, so there is no negotiating over ice creams for a week",
+        "Several resorts have their own water park included, so you never pay a day ticket or take a transfer",
+        "Kids clubs are usually free and split by age, and a few resorts take babies with a dedicated Baby Club",
+        "Winter is dry and around 28C, exactly when European families most want to escape the cold",
+        "Cenotes, turtles at Akumal and the Xcaret eco-parks give you real adventure a short drive from the sun lounger"
+      ],
+      "fr": [
+        "L'eau des Caraïbes est chaude toute l'année, peu profonde sur une longue distance et calme dans la plupart des baies protégées",
+        "Ici, le tout compris veut vraiment dire tout: aucune négociation autour des glaces pendant une semaine",
+        "Plusieurs resorts ont leur propre parc aquatique inclus: ni billet à la journée ni transfert",
+        "Les clubs enfants sont généralement gratuits et séparés par âge, quelques resorts accueillant les bébés avec un Baby Club dédié",
+        "L'hiver est sec et tourne autour de 28 degrés, exactement quand les familles européennes veulent fuir le froid",
+        "Cenotes, tortues d'Akumal et parcs écologiques Xcaret offrent une vraie aventure à courte distance du transat"
+      ]
+    },
+    "bestAreas": {
+      "en": [
+        "Cancun: the shortest airport transfer, the biggest resorts and a calm, swimmable hotel-zone beach",
+        "Puerto Morelos: a quieter stretch just south of Cancun, home to the biggest family water-park resorts",
+        "Playa del Carmen: the coast's liveliest town, with the Fifth Avenue promenade and the Xcaret eco-parks nearby",
+        "Akumal: greener and calmer, famous for its turtle snorkelling cove and easy cenote access",
+        "Tulum area: the wilder, more design-led south, best placed for the Mayan ruins and the region's cenotes"
+      ],
+      "fr": [
+        "Cancun: le transfert aéroport le plus court, les plus grands resorts et une plage de zone hôtelière calme et baignable",
+        "Puerto Morelos: une portion plus tranquille juste au sud de Cancun, qui abrite les plus grands resorts à parc aquatique familial",
+        "Playa del Carmen: la ville la plus animée de la côte, avec la Cinquième Avenue et les parcs écologiques Xcaret à proximité",
+        "Akumal: plus verte et plus calme, célèbre pour sa crique de snorkeling aux tortues et l'accès facile aux cenotes",
+        "Région de Tulum: le sud plus sauvage et plus design, le mieux placé pour les ruines mayas et les cenotes de la région"
+      ]
+    },
+    "goodToKnow": {
+      "en": "Almost everyone lands at Cancun International (CUN), and transfer time is the one thing you cannot change later, so choose your stretch of coast before your hotel: Cancun is about twenty minutes, Puerto Morelos twenty-five to forty, Playa del Carmen around fifty, Akumal sixty to seventy-five and Tulum seventy-five to ninety. The single most important booking rule on this coast is to check that your hotel is family-friendly, because there are an unusually high number of adults-only resorts here: names like Secrets, Breathless, TRS, Hideaway, El Dorado and Sensira are adults-only, and some big complexes (Barcelo Maya, Grand Palladium) contain both family and adults-only hotels under similar names, so read the exact hotel name carefully. Book a private transfer with car seats, bring reef-safe sunscreen because the sun is strong and it protects the cenotes and reefs, and pack repellent for dusk in the gardens. Tap water is not for drinking and every resort provides bottled water free. Sargassum seaweed can appear between April and August; a big on-site water park and pools mean the beach is rarely the make-or-break of the trip.",
+      "fr": "Presque tout le monde atterrit à l'aéroport international de Cancun (CUN), et le temps de transfert est la seule chose que vous ne pourrez pas modifier ensuite: choisissez donc votre portion de côte avant votre hôtel. Cancun, c'est environ vingt minutes, Puerto Morelos vingt-cinq à quarante, Playa del Carmen une cinquantaine, Akumal soixante à soixante-quinze et Tulum soixante-quinze à quatre-vingt-dix. La règle de réservation la plus importante sur cette côte, c'est de vérifier que votre hôtel est adapté aux familles, car on y compte un nombre inhabituellement élevé de resorts réservés aux adultes: des noms comme Secrets, Breathless, TRS, Hideaway, El Dorado et Sensira sont réservés aux adultes, et certains grands complexes (Barcelo Maya, Grand Palladium) abritent à la fois des hôtels familiaux et réservés aux adultes sous des noms proches, lisez donc le nom exact de l'hôtel avec attention. Réservez un transfert privé avec sièges enfants, emportez une crème solaire respectueuse des récifs car le soleil est fort et elle protège les cenotes et les récifs, et prévoyez un répulsif pour le crépuscule dans les jardins. L'eau du robinet ne se boit pas et chaque resort fournit de l'eau en bouteille gratuitement. Les sargasses peuvent apparaître entre avril et août; un grand parc aquatique sur place et des piscines font que la plage est rarement décisive pour le séjour."
+    },
+    "parentTip": {
+      "en": "Choose your stretch of coast before your hotel, because the airport transfer is the one thing you cannot change later. With a toddler who has just done a ten hour flight, the difference between a twenty-minute drive near Cancun and a ninety-minute drive near Tulum is the difference between swimming on arrival day and arriving at bedtime in tears. If you are set on the biggest water parks near Puerto Morelos and Cancun, the transfer is short anyway; if you want the Tulum ruins and cenotes, book an evening flight home so the long drive happens after everyone has rested.",
+      "fr": "Choisissez votre portion de côte avant votre hôtel, car le transfert aéroport est la seule chose que vous ne pourrez pas modifier ensuite. Avec un tout-petit qui vient d'enchaîner dix heures d'avion, l'écart entre vingt minutes de route près de Cancun et quatre-vingt-dix minutes près de Tulum fait la différence entre une baignade le jour de l'arrivée et une arrivée en larmes à l'heure du coucher. Si vous tenez aux plus grands parcs aquatiques près de Puerto Morelos et de Cancun, le transfert est de toute façon court; si vous voulez les ruines de Tulum et les cenotes, prenez un vol retour en fin de journée pour que le long trajet ait lieu après que tout le monde s'est reposé."
+    },
+    "photos": [
+      "whiteResortPool",
+      "beachSunset",
+      "poolPalms"
+    ]
+  }
+}
