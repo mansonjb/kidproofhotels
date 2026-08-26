@@ -1,0 +1,1659 @@
+{
+  "hotels": [
+    {
+      "key": "rimini-club-family-rimini-village",
+      "destinationKey": "rimini",
+      "name": "Club Family Hotel Rimini Village",
+      "area": {
+        "en": "Torre Pedrera, Rimini",
+        "fr": "Torre Pedrera, Rimini"
+      },
+      "lat": 44.1163,
+      "lng": 12.4468,
+      "zoom": 12,
+      "address": "Via Tolemaide 4, 47922 Torre Pedrera, Rimini, Italy",
+      "priceTier": 3,
+      "priceFrom": 150,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolCabanas",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 88,
+        "pool": 86,
+        "dining": 80,
+        "safety": 88,
+        "convenience": 84,
+        "location": 82,
+        "extras": 88
+      },
+      "roomsSummary": {
+        "en": "A big holiday-village setup at the quiet northern end of Rimini, with Smart, Smile and connecting family rooms that sleep two adults and two or three children. Interconnecting doors mean older kids can have their own space next door, and cots and bed rails come as standard.",
+        "fr": "Un vrai village de vacances a la pointe nord et calme de Rimini, avec des chambres Smart, Smile et communicantes pour deux adultes et deux ou trois enfants. Les portes communicantes offrent aux grands leur propre coin a cote, et lits bebe et barrieres de lit sont fournis de serie."
+      },
+      "intro": {
+        "en": "This is the family machine of the Adriatic Riviera done properly: 8,000 square metres of green garden, two heated pools with a shallow splash park, nannies for babies from eight months and a beach just 30 metres away across a quiet road. Free tickets to Mirabilandia and Mirabeach are thrown in, so the big theme-park day costs you nothing extra.",
+        "fr": "Voici la machine a vacances en famille de la Riviera adriatique, version reussie: 8 000 metres carres de jardin vert, deux piscines chauffees avec pataugeoire a jets, des nounous pour les bebes des huit mois et une plage a seulement 30 metres de l'autre cote d'une rue tranquille. Les billets pour Mirabilandia et Mirabeach sont offerts, la grande journee parc d'attractions ne vous coute donc rien de plus."
+      },
+      "highlights": {
+        "en": [
+          "Two heated pools plus a shallow splash park with spray games",
+          "Nannies for babies 8 months to 3 years, Monday to Friday",
+          "Free entry to Mirabilandia theme park and Mirabeach water park",
+          "Sandy beach just 30 metres away, one quiet road to cross"
+        ],
+        "fr": [
+          "Deux piscines chauffees et une pataugeoire a jets d'eau",
+          "Nounous pour les bebes de 8 mois a 3 ans, du lundi au vendredi",
+          "Entree gratuite au parc Mirabilandia et au parc aquatique Mirabeach",
+          "Plage de sable a seulement 30 metres, une seule rue calme a traverser"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Huge garden and pool area keeps kids busy all day",
+          "Genuine baby care with trained nannies included",
+          "Theme-park tickets included in the stay",
+          "All-inclusive open bar around the clock"
+        ],
+        "fr": [
+          "Grand jardin et espace piscine qui occupent les enfants toute la journee",
+          "Vraie prise en charge des bebes avec des nounous formees, incluse",
+          "Billets de parc d'attractions inclus dans le sejour",
+          "Open bar tout compris 24 heures sur 24"
+        ]
+      },
+      "cons": {
+        "en": [
+          "It is a big, busy resort, not a quiet boutique stay",
+          "Torre Pedrera is a short drive from central Rimini",
+          "August books out fast and fills up completely"
+        ],
+        "fr": [
+          "C'est un grand complexe anime, pas une petite adresse tranquille",
+          "Torre Pedrera est a quelques minutes en voiture du centre de Rimini",
+          "Aout se remplit vite et affiche complet"
+        ]
+      },
+      "verdict": {
+        "en": "The safe, all-in-one pick for a first family beach week on the Riviera: pools, nannies, a gentle sandy beach and theme-park tickets, all sorted before you arrive.",
+        "fr": "Le choix sur et tout-en-un pour une premiere semaine plage en famille sur la Riviera: piscines, nounous, plage de sable douce et billets de parc, tout est regle avant meme d'arriver."
+      },
+      "parentTip": {
+        "en": "Book a connecting room pair if you have a baby and a bigger kid: you get a door between you and a proper night once the little one is down.",
+        "fr": "Reservez deux chambres communicantes si vous avez un bebe et un plus grand: vous gagnez une porte entre vous et une vraie nuit une fois le petit couche."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Two heated pools plus splash park",
+            "fr": "Deux piscines chauffees et pataugeoire"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Sandy, 30 metres away",
+            "fr": "Sable, a 30 metres"
+          }
+        },
+        {
+          "icon": "🧸",
+          "label": {
+            "en": "Baby care",
+            "fr": "Bebes"
+          },
+          "value": {
+            "en": "Nannies from 8 months",
+            "fr": "Nounous des 8 mois"
+          }
+        },
+        {
+          "icon": "🎢",
+          "label": {
+            "en": "Extras",
+            "fr": "Extras"
+          },
+          "value": {
+            "en": "Free Mirabilandia tickets",
+            "fr": "Billets Mirabilandia offerts"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "How far is the beach and do we cross a road?",
+            "fr": "A quelle distance est la plage et faut-il traverser une route?"
+          },
+          "a": {
+            "en": "The beach is about 30 metres away with one quiet residential road to cross, and the hotel arranges umbrellas and loungers on the sand.",
+            "fr": "La plage est a environ 30 metres avec une seule petite rue residentielle a traverser, et l'hotel reserve parasols et transats sur le sable."
+          }
+        },
+        {
+          "q": {
+            "en": "Is baby care really included?",
+            "fr": "La garde des bebes est-elle vraiment incluse?"
+          },
+          "a": {
+            "en": "Yes, nannies look after children from 8 months to 3 years on weekday afternoons at no extra cost, and babysitting can be arranged on demand.",
+            "fr": "Oui, des nounous s'occupent des enfants de 8 mois a 3 ans en semaine l'apres-midi sans supplement, et un babysitting peut etre organise a la demande."
+          }
+        },
+        {
+          "q": {
+            "en": "Are the Mirabilandia tickets free?",
+            "fr": "Les billets Mirabilandia sont-ils gratuits?"
+          },
+          "a": {
+            "en": "Stays of several nights include free tickets to Mirabilandia and its Mirabeach water park, about a 40 minute drive north.",
+            "fr": "Les sejours de plusieurs nuits incluent des billets gratuits pour Mirabilandia et son parc aquatique Mirabeach, a environ 40 minutes de route au nord."
+          }
+        }
+      ]
+    },
+    {
+      "key": "rimini-club-family-best-riccione",
+      "destinationKey": "rimini",
+      "name": "Club Family Hotel Best Family Riccione",
+      "area": {
+        "en": "Riccione",
+        "fr": "Riccione"
+      },
+      "lat": 43.9978,
+      "lng": 12.6612,
+      "zoom": 12,
+      "address": "Viale Cristoforo Colombo 1, 47838 Riccione, Italy",
+      "priceTier": 2,
+      "priceFrom": 115,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolDuskPalms",
+        "coastTown"
+      ],
+      "scores": {
+        "rooms": 74,
+        "baby": 82,
+        "pool": 80,
+        "dining": 76,
+        "safety": 85,
+        "convenience": 86,
+        "location": 88,
+        "extras": 82
+      },
+      "roomsSummary": {
+        "en": "A friendly three-star superior a three minute walk from the sea, with family and connecting rooms for two adults and up to two children. Rooms are simple and bright rather than fancy, but the position near shopping street Viale Ceccarini is hard to beat.",
+        "fr": "Un trois etoiles superieur chaleureux a trois minutes a pied de la mer, avec des chambres familiales et communicantes pour deux adultes et jusqu'a deux enfants. Les chambres sont simples et lumineuses plutot que luxueuses, mais l'emplacement pres de la rue commercante Viale Ceccarini est imbattable."
+      },
+      "intro": {
+        "en": "Riccione is the lively, stylish sister of Rimini, and this all-inclusive family hotel puts you three minutes from its sandy beach and a stroll from the shops and gelato of Viale Ceccarini. The signature is a rooftop panoramic pool with a hot tub, waterfall and small water slides, and Aquafan, Italy's most famous water park, sits right above town.",
+        "fr": "Riccione est la soeur animee et chic de Rimini, et cet hotel familial tout compris vous place a trois minutes de sa plage de sable et a deux pas des boutiques et des glaces du Viale Ceccarini. Sa signature: une piscine panoramique sur le toit avec bain a remous, cascade et petits toboggans, et Aquafan, le parc aquatique le plus celebre d'Italie, surplombe la ville."
+      },
+      "highlights": {
+        "en": [
+          "Rooftop panoramic pool with hot tub and small slides",
+          "Three minute walk to the sandy Riccione beach",
+          "Steps from Viale Ceccarini shops and gelato",
+          "Aquafan and Oltremare parks a short hop above town"
+        ],
+        "fr": [
+          "Piscine panoramique sur le toit avec bain a remous et petits toboggans",
+          "Trois minutes a pied de la plage de sable de Riccione",
+          "A deux pas des boutiques et glaces du Viale Ceccarini",
+          "Parcs Aquafan et Oltremare a deux pas au-dessus de la ville"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Excellent value all-inclusive in a prime spot",
+          "Rooftop pool is a real treat for kids",
+          "Walkable to the beach, shops and evening buzz",
+          "Kids club and beach entertainment included"
+        ],
+        "fr": [
+          "Formule tout compris d'un excellent rapport qualite prix, tres bien situee",
+          "La piscine sur le toit est un vrai bonheur pour les enfants",
+          "Plage, boutiques et animation du soir accessibles a pied",
+          "Club enfants et animation plage inclus"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Three stars: comfortable but not luxurious",
+          "Beach is a three minute walk, not directly in front",
+          "Central Riccione is busy and noisy in high summer"
+        ],
+        "fr": [
+          "Trois etoiles: confortable mais pas luxueux",
+          "La plage est a trois minutes a pied, pas juste devant",
+          "Le centre de Riccione est anime et bruyant en plein ete"
+        ]
+      },
+      "verdict": {
+        "en": "The best-value base for families who want the beach plus a walkable, lively town and the Aquafan water park on the doorstep.",
+        "fr": "La base au meilleur rapport qualite prix pour les familles qui veulent la plage plus une ville animee et accessible a pied, avec le parc Aquafan a la porte."
+      },
+      "parentTip": {
+        "en": "Do Aquafan first thing when it opens: the shallow kids zone and lazy river are calm and shaded before the afternoon crowds arrive.",
+        "fr": "Faites Aquafan des l'ouverture: la zone enfants peu profonde et la riviere lente sont calmes et ombragees avant l'affluence de l'apres-midi."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "Rooftop pool with small slides",
+            "fr": "Piscine sur le toit avec petits toboggans"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Sandy, 3 minute walk",
+            "fr": "Sable, 3 minutes a pied"
+          }
+        },
+        {
+          "icon": "🛍️",
+          "label": {
+            "en": "Location",
+            "fr": "Emplacement"
+          },
+          "value": {
+            "en": "By Viale Ceccarini shops",
+            "fr": "Pres des boutiques Viale Ceccarini"
+          }
+        },
+        {
+          "icon": "🌊",
+          "label": {
+            "en": "Water park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "Aquafan above town",
+            "fr": "Aquafan au-dessus de la ville"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the hotel right on the beach?",
+            "fr": "L'hotel est-il directement sur la plage?"
+          },
+          "a": {
+            "en": "Not directly on the sand, but the beach is a flat three minute walk away and the hotel books your umbrella and loungers on an attended beach club.",
+            "fr": "Pas directement sur le sable, mais la plage est a trois minutes de marche a plat et l'hotel reserve votre parasol et vos transats dans un etablissement de plage surveille."
+          }
+        },
+        {
+          "q": {
+            "en": "How close is Aquafan?",
+            "fr": "Aquafan est-il proche?"
+          },
+          "a": {
+            "en": "Aquafan sits on the hill just above Riccione, a short taxi or bus ride away, and it is the biggest water park on the whole Riviera.",
+            "fr": "Aquafan se trouve sur la colline juste au-dessus de Riccione, a quelques minutes en taxi ou en bus, et c'est le plus grand parc aquatique de toute la Riviera."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it good for toddlers as well as older kids?",
+            "fr": "Est-ce adapte aux tout-petits comme aux plus grands?"
+          },
+          "a": {
+            "en": "Yes, there is a baby and mini club, high chairs and baby food, while the shallow Adriatic beach suits toddlers and the rooftop pool and town suit older ones.",
+            "fr": "Oui, il y a un club bebe et mini, des chaises hautes et de la nourriture pour bebe, tandis que la plage adriatique peu profonde convient aux tout-petits et la piscine sur le toit et la ville aux plus grands."
+          }
+        }
+      ]
+    },
+    {
+      "key": "rimini-hotel-cormoran-cattolica",
+      "destinationKey": "rimini",
+      "name": "Hotel Cormoran",
+      "area": {
+        "en": "Cattolica",
+        "fr": "Cattolica"
+      },
+      "lat": 43.9628,
+      "lng": 12.7292,
+      "zoom": 12,
+      "address": "Via Francia 2, 47841 Cattolica, Rimini, Italy",
+      "priceTier": 3,
+      "priceFrom": 160,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "water-slides",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "whiteResortPool",
+        "deckLoungersSea"
+      ],
+      "scores": {
+        "rooms": 82,
+        "baby": 80,
+        "pool": 88,
+        "dining": 82,
+        "safety": 86,
+        "convenience": 80,
+        "location": 84,
+        "extras": 80
+      },
+      "roomsSummary": {
+        "en": "A polished four-star on the calm western edge of Cattolica, with comfortable family rooms and larger suites for two adults and two children. Cots, high chairs and bed rails are all on hand, and the standout is the big garden and pool complex out front.",
+        "fr": "Un quatre etoiles soigne sur la frange ouest tranquille de Cattolica, avec des chambres familiales confortables et des suites plus grandes pour deux adultes et deux enfants. Lits bebe, chaises hautes et barrieres de lit sont disponibles, et le point fort reste le grand jardin et le complexe de piscines a l'avant."
+      },
+      "intro": {
+        "en": "Cattolica is the softly-spoken, well-kept town at the southern tip of the Riviera, and the Cormoran is its family pool hotel. The garden holds a big Olympic-style pool with a slide, a heated hydromassage tub and a separate children's pool, while the wide flat beach of Cattolica is a couple of minutes away. It is a calmer, more grown-up base than the party end of the coast.",
+        "fr": "Cattolica est la ville tranquille et bien tenue a la pointe sud de la Riviera, et le Cormoran est son hotel a piscines pour familles. Le jardin abrite une grande piscine de type olympique avec un toboggan, un bassin hydromassant chauffe et une piscine separee pour enfants, tandis que la large plage plate de Cattolica est a deux minutes. Une base plus calme et plus posee que le cote festif de la cote."
+      },
+      "highlights": {
+        "en": [
+          "Three pools including an Olympic pool with a slide",
+          "Separate shallow children's pool and heated hydromassage",
+          "Calm, family-friendly western end of Cattolica",
+          "Wide flat sandy beach a couple of minutes away"
+        ],
+        "fr": [
+          "Trois piscines dont une piscine olympique avec toboggan",
+          "Piscine enfants peu profonde separee et hydromassage chauffe",
+          "Extremite ouest de Cattolica, calme et familiale",
+          "Large plage de sable plate a deux minutes"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Exceptional pool complex for a town hotel",
+          "Quieter, tidier part of the Riviera",
+          "Real four-star comfort and service",
+          "Close to the Cattolica aquarium for a rainy day"
+        ],
+        "fr": [
+          "Complexe de piscines exceptionnel pour un hotel de ville",
+          "Partie plus calme et plus soignee de la Riviera",
+          "Vrai confort et service quatre etoiles",
+          "Proche de l'aquarium de Cattolica pour un jour de pluie"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No included daily kids club or animation",
+          "Beach is a short walk, not on the doorstep",
+          "Pricier than the three-star family clubs nearby"
+        ],
+        "fr": [
+          "Pas de club enfants ni d'animation quotidienne inclus",
+          "La plage est a quelques minutes a pied, pas juste devant",
+          "Plus cher que les clubs familiaux trois etoiles voisins"
+        ]
+      },
+      "verdict": {
+        "en": "For families who care more about a superb pool and a calm, well-kept town than a full animation programme, the Cormoran is Cattolica's most reliable choice.",
+        "fr": "Pour les familles qui privilegient une superbe piscine et une ville calme et bien tenue plutot qu'un programme d'animation complet, le Cormoran est le choix le plus sur de Cattolica."
+      },
+      "parentTip": {
+        "en": "The Cattolica aquarium is a ten minute walk and one of the best on the coast: a perfect plan for the hottest hour of the afternoon.",
+        "fr": "L'aquarium de Cattolica est a dix minutes a pied et l'un des meilleurs de la cote: le plan parfait pour l'heure la plus chaude de l'apres-midi."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Olympic pool, kids pool, hydromassage",
+            "fr": "Piscine olympique, bassin enfants, hydromassage"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Wide flat sand, short walk",
+            "fr": "Sable plat et large, courte marche"
+          }
+        },
+        {
+          "icon": "🧸",
+          "label": {
+            "en": "Baby kit",
+            "fr": "Kit bebe"
+          },
+          "value": {
+            "en": "Cots, high chairs, bed rails",
+            "fr": "Lits bebe, chaises hautes, barrieres"
+          }
+        },
+        {
+          "icon": "🐠",
+          "label": {
+            "en": "Nearby",
+            "fr": "A cote"
+          },
+          "value": {
+            "en": "Cattolica aquarium",
+            "fr": "Aquarium de Cattolica"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Does the Cormoran have a kids club?",
+            "fr": "Le Cormoran a-t-il un club enfants?"
+          },
+          "a": {
+            "en": "There is a children's play area and a kids menu, but no full daily animation programme, so it suits families who prefer a calmer stay around the pools and beach.",
+            "fr": "Il y a une aire de jeux et un menu enfants, mais pas de programme d'animation quotidien complet, ce qui convient aux familles qui preferent un sejour plus calme autour des piscines et de la plage."
+          }
+        },
+        {
+          "q": {
+            "en": "Is Cattolica good for young children?",
+            "fr": "Cattolica convient-elle aux jeunes enfants?"
+          },
+          "a": {
+            "en": "Very much so: the beach is wide, flat and shallow, the town is tidy and safe to walk, and there is an excellent aquarium for a change from the sand.",
+            "fr": "Tout a fait: la plage est large, plate et peu profonde, la ville est soignee et sure a pied, et il y a un excellent aquarium pour changer du sable."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the Olympic pool safe for small kids?",
+            "fr": "La piscine olympique est-elle sure pour les petits?"
+          },
+          "a": {
+            "en": "The big pool is deep and made for swimming, so toddlers use the separate shallow children's pool, which is the right depth for paddling under supervision.",
+            "fr": "La grande piscine est profonde et concue pour nager, les tout-petits utilisent donc la piscine enfants peu profonde a part, a la bonne profondeur pour barboter sous surveillance."
+          }
+        }
+      ]
+    },
+    {
+      "key": "rimini-club-family-milano-marittima",
+      "destinationKey": "rimini",
+      "name": "Club Family Hotel Milano Marittima",
+      "area": {
+        "en": "Milano Marittima",
+        "fr": "Milano Marittima"
+      },
+      "lat": 44.2648,
+      "lng": 12.3302,
+      "zoom": 12,
+      "address": "Viale Due Giugno 90, 48015 Milano Marittima, Cervia, Italy",
+      "priceTier": 3,
+      "priceFrom": 150,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolDusk",
+        "resortLoungers"
+      ],
+      "scores": {
+        "rooms": 82,
+        "baby": 88,
+        "pool": 82,
+        "dining": 84,
+        "safety": 88,
+        "convenience": 82,
+        "location": 86,
+        "extras": 86
+      },
+      "roomsSummary": {
+        "en": "Two sister buildings facing the sea in leafy, upmarket Milano Marittima, with family rooms and connecting options for two adults and two or three children. High chairs, baby cutlery and a 24 hour baby food station make the very early years genuinely easy.",
+        "fr": "Deux batiments jumeaux face a la mer dans la verdoyante et chic Milano Marittima, avec des chambres familiales et des options communicantes pour deux adultes et deux ou trois enfants. Chaises hautes, couverts pour bebe et un coin repas bebe ouvert 24 heures sur 24 rendent les toutes premieres annees vraiment simples."
+      },
+      "intro": {
+        "en": "Milano Marittima is the smart, pine-shaded resort north of Rimini, and this is its most awarded family hotel. You get a heated pool and splash park, a Nanny School for babies from eight months, laser tag and inflatables for big kids, and a beach directly opposite with no road to cross. The 24 hour baby food station is the detail that wins over parents of the very youngest.",
+        "fr": "Milano Marittima est la station chic et ombragee de pins au nord de Rimini, et voici son hotel familial le plus recompense. Vous profitez d'une piscine chauffee et d'une pataugeoire a jets, d'une Nanny School pour les bebes des huit mois, de laser tag et de structures gonflables pour les grands, et d'une plage juste en face sans route a traverser. Le coin repas bebe ouvert 24 heures sur 24 est le detail qui conquiert les parents des tout-petits."
+      },
+      "highlights": {
+        "en": [
+          "Directly opposite the beach, no road to cross",
+          "Nanny School for babies from 8 months",
+          "24 hour baby food station and flexible meal times",
+          "Laser tag, inflatables and a PlayStation arena for big kids"
+        ],
+        "fr": [
+          "Juste en face de la plage, sans route a traverser",
+          "Nanny School pour les bebes des 8 mois",
+          "Coin repas bebe 24h/24 et horaires de repas souples",
+          "Laser tag, gonflables et espace PlayStation pour les grands"
+        ]
+      },
+      "pros": {
+        "en": [
+          "One of Italy's most awarded family hotels",
+          "Superb baby and toddler facilities",
+          "Elegant, green resort with a lovely pine wood",
+          "Beach right across from the hotel"
+        ],
+        "fr": [
+          "L'un des hotels familiaux les plus recompenses d'Italie",
+          "Superbes equipements pour bebes et tout-petits",
+          "Station elegante et verte avec une belle pinede",
+          "Plage juste en face de l'hotel"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Milano Marittima is one of the pricier resort towns",
+          "It is a busy, full-programme hotel, not a quiet retreat",
+          "A 40 minute drive from Rimini's own sights"
+        ],
+        "fr": [
+          "Milano Marittima est l'une des stations les plus cheres",
+          "C'est un hotel anime a programme complet, pas une retraite tranquille",
+          "A 40 minutes de route des sites de Rimini meme"
+        ]
+      },
+      "verdict": {
+        "en": "The pick of the coast for parents of babies and toddlers who also want a smarter, greener resort town, with baby care and a 24 hour baby kitchen that few rivals match.",
+        "fr": "Le choix de la cote pour les parents de bebes et tout-petits qui veulent aussi une station plus chic et plus verte, avec une garde bebe et une cuisine bebe 24h/24 que peu de rivaux egalent."
+      },
+      "parentTip": {
+        "en": "Milano Marittima's pine wood behind the beach is buggy-friendly and shaded: a cool late-afternoon walk when the sand is still baking.",
+        "fr": "La pinede de Milano Marittima derriere la plage est accessible en poussette et ombragee: une promenade fraiche en fin d'apres-midi quand le sable est encore brulant."
+      },
+      "atAGlance": [
+        {
+          "icon": "🍼",
+          "label": {
+            "en": "Baby food",
+            "fr": "Repas bebe"
+          },
+          "value": {
+            "en": "24 hour baby food station",
+            "fr": "Coin repas bebe 24h/24"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Directly opposite, no road",
+            "fr": "Juste en face, sans route"
+          }
+        },
+        {
+          "icon": "🧸",
+          "label": {
+            "en": "Baby care",
+            "fr": "Bebes"
+          },
+          "value": {
+            "en": "Nanny School from 8 months",
+            "fr": "Nanny School des 8 mois"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "Heated pool and splash park",
+            "fr": "Piscine chauffee et pataugeoire"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Why is this good for babies and toddlers?",
+            "fr": "Pourquoi est-ce bien pour les bebes et tout-petits?"
+          },
+          "a": {
+            "en": "It has a Nanny School for children from 8 months, a 24 hour baby food station, high chairs and baby cutlery, plus the flat shallow Adriatic beach right opposite.",
+            "fr": "Il y a une Nanny School pour les enfants des 8 mois, un coin repas bebe 24h/24, des chaises hautes et des couverts pour bebe, plus la plage adriatique plate et peu profonde juste en face."
+          }
+        },
+        {
+          "q": {
+            "en": "Do we cross a road to reach the beach?",
+            "fr": "Faut-il traverser une route pour la plage?"
+          },
+          "a": {
+            "en": "No, the hotel sits directly opposite its beach with reserved umbrellas and loungers, so there is no road to cross with the children.",
+            "fr": "Non, l'hotel est juste en face de sa plage avec parasols et transats reserves, il n'y a donc pas de route a traverser avec les enfants."
+          }
+        },
+        {
+          "q": {
+            "en": "Is Milano Marittima far from Rimini?",
+            "fr": "Milano Marittima est-elle loin de Rimini?"
+          },
+          "a": {
+            "en": "It is about 40 minutes north by car, part of the Cervia area, so it is easy to visit Rimini or Mirabilandia on a day out but pleasantly separate day to day.",
+            "fr": "C'est a environ 40 minutes de route au nord, dans la zone de Cervia, il est donc facile de visiter Rimini ou Mirabilandia pour une sortie tout en restant agreablement a l'ecart au quotidien."
+          }
+        }
+      ]
+    },
+    {
+      "key": "rimini-color-ermitage-bellaria",
+      "destinationKey": "rimini",
+      "name": "Color Ermitage Beach Family Hotel",
+      "area": {
+        "en": "Bellaria Igea Marina",
+        "fr": "Bellaria Igea Marina"
+      },
+      "lat": 44.1355,
+      "lng": 12.4585,
+      "zoom": 12,
+      "address": "Via Ala 11, 47814 Bellaria Igea Marina, Rimini, Italy",
+      "priceTier": 3,
+      "priceFrom": 140,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolOrange",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 88,
+        "pool": 84,
+        "dining": 82,
+        "safety": 88,
+        "convenience": 84,
+        "location": 82,
+        "extras": 84
+      },
+      "roomsSummary": {
+        "en": "A cheerful, colour-themed four-star sitting right on the Igea Marina sand, with 64 rooms from standard doubles to roomy family suites for two adults and up to three children. A baby food kitchen, high chairs and flexible meal hours are all part of the deal.",
+        "fr": "Un quatre etoiles gai aux chambres thematiques posees directement sur le sable d'Igea Marina, avec 64 chambres, de la double standard aux vastes suites familiales pour deux adultes et jusqu'a trois enfants. Une cuisine bebe, des chaises hautes et des horaires de repas souples sont compris."
+      },
+      "intro": {
+        "en": "Bellaria Igea Marina is the relaxed, family-first town just north of Rimini, and the Ermitage sits right on its wide sandy beach, eight metres from the water with no road to cross. There is an 18 metre pool with a waterslide, a heated baby pool at 24 degrees, mini and junior clubs and a dedicated baby food kitchen, which makes it a strong all-round pick for mixed-age families.",
+        "fr": "Bellaria Igea Marina est la ville detendue et tournee vers les familles juste au nord de Rimini, et l'Ermitage se trouve directement sur sa large plage de sable, a huit metres de l'eau sans route a traverser. Il y a une piscine de 18 metres avec un toboggan, une pataugeoire chauffee a 24 degres, des clubs mini et junior et une cuisine bebe dediee, ce qui en fait un excellent choix polyvalent pour les familles d'ages varies."
+      },
+      "highlights": {
+        "en": [
+          "Right on the sand, 8 metres from the water, no road to cross",
+          "18 metre pool with a waterslide and heated baby pool",
+          "Dedicated baby food kitchen and flexible meal hours",
+          "Mini club and junior club with themed playrooms"
+        ],
+        "fr": [
+          "Directement sur le sable, a 8 metres de l'eau, sans route a traverser",
+          "Piscine de 18 metres avec toboggan et pataugeoire chauffee",
+          "Cuisine bebe dediee et horaires de repas souples",
+          "Club mini et club junior avec salles de jeux a theme"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Genuinely on the beach, ideal with small children",
+          "Baby food kitchen takes the stress out of weaning",
+          "Relaxed, unpretentious family town",
+          "Waterslide and splash on site, not just nearby"
+        ],
+        "fr": [
+          "Vraiment sur la plage, ideal avec de jeunes enfants",
+          "La cuisine bebe enleve le stress de la diversification",
+          "Ville familiale detendue et sans pretention",
+          "Toboggan et jeux d'eau sur place, pas seulement a cote"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Bellaria is quieter, with less nightlife than Riccione",
+          "Rooms are bright and functional rather than plush",
+          "Peak August is still very busy on the sand"
+        ],
+        "fr": [
+          "Bellaria est plus calme, avec moins de vie nocturne que Riccione",
+          "Les chambres sont lumineuses et fonctionnelles plutot que cossues",
+          "En plein aout, le sable reste tres frequente"
+        ]
+      },
+      "verdict": {
+        "en": "One of the easiest choices on the whole Riviera for families with a baby plus older kids: truly on the beach, with a baby kitchen, a slide pool and clubs for the bigger ones.",
+        "fr": "L'un des choix les plus simples de toute la Riviera pour les familles avec un bebe et des plus grands: vraiment sur la plage, avec une cuisine bebe, une piscine a toboggan et des clubs pour les grands."
+      },
+      "parentTip": {
+        "en": "Being eight metres from the sea means you can nap the baby in the room and still see your big kids at the water's edge from the beach umbrella.",
+        "fr": "Etre a huit metres de la mer permet de faire dormir le bebe dans la chambre tout en gardant un oeil sur les grands au bord de l'eau depuis le parasol."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "On the sand, 8 metres to sea",
+            "fr": "Sur le sable, 8 metres de la mer"
+          }
+        },
+        {
+          "icon": "🍼",
+          "label": {
+            "en": "Baby food",
+            "fr": "Repas bebe"
+          },
+          "value": {
+            "en": "Dedicated baby food kitchen",
+            "fr": "Cuisine bebe dediee"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "18m pool with waterslide",
+            "fr": "Piscine 18m avec toboggan"
+          }
+        },
+        {
+          "icon": "🧸",
+          "label": {
+            "en": "Kids clubs",
+            "fr": "Clubs enfants"
+          },
+          "value": {
+            "en": "Mini and junior clubs",
+            "fr": "Clubs mini et junior"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the hotel actually on the beach?",
+            "fr": "L'hotel est-il vraiment sur la plage?"
+          },
+          "a": {
+            "en": "Yes, it sits directly on the Igea Marina sand about eight metres from the water, with no road to cross, which is unusual and ideal with toddlers.",
+            "fr": "Oui, il est directement sur le sable d'Igea Marina a environ huit metres de l'eau, sans route a traverser, ce qui est rare et ideal avec des tout-petits."
+          }
+        },
+        {
+          "q": {
+            "en": "Can they prepare baby food?",
+            "fr": "Peuvent-ils preparer les repas de bebe?"
+          },
+          "a": {
+            "en": "There is a dedicated baby food kitchen where you can prepare or warm meals, alongside high chairs, baby cutlery and flexible meal hours.",
+            "fr": "Il y a une cuisine bebe dediee ou vous pouvez preparer ou rechauffer les repas, avec chaises hautes, couverts pour bebe et horaires de repas souples."
+          }
+        },
+        {
+          "q": {
+            "en": "Is Bellaria too quiet for older kids?",
+            "fr": "Bellaria est-elle trop calme pour les plus grands?"
+          },
+          "a": {
+            "en": "It is calmer than Riccione but has a lively promenade, a small amusement area and easy trips to Aquafan and Rimini, so teens are well catered for too.",
+            "fr": "Elle est plus calme que Riccione mais dispose d'une promenade animee, d'un petit espace d'attractions et de sorties faciles vers Aquafan et Rimini, les ados y trouvent donc aussi leur compte."
+          }
+        }
+      ]
+    },
+    {
+      "key": "rimini-club-family-tosi-beach-cesenatico",
+      "destinationKey": "rimini",
+      "name": "Club Family Hotel Tosi Beach",
+      "area": {
+        "en": "Cesenatico",
+        "fr": "Cesenatico"
+      },
+      "lat": 44.1815,
+      "lng": 12.4188,
+      "zoom": 12,
+      "address": "Viale Giosue Carducci 324, 47042 Cesenatico, Italy",
+      "priceTier": 3,
+      "priceFrom": 135,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolCabanas",
+        "deckLoungersSea"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 86,
+        "pool": 84,
+        "dining": 82,
+        "safety": 88,
+        "convenience": 82,
+        "location": 84,
+        "extras": 84
+      },
+      "roomsSummary": {
+        "en": "A beachfront four-star on the Cesenatico seafront, with 152 family and connecting rooms for two adults and two or three children. Cots, bed rails, high chairs and stroller hire are all available, and only the pedestrian promenade separates the hotel from the sand.",
+        "fr": "Un quatre etoiles en front de mer sur le lungomare de Cesenatico, avec 152 chambres familiales et communicantes pour deux adultes et deux ou trois enfants. Lits bebe, barrieres, chaises hautes et location de poussette sont disponibles, et seule la promenade pietonne separe l'hotel du sable."
+      },
+      "intro": {
+        "en": "Cesenatico is the pretty canal-port town Leonardo da Vinci once mapped, and the Tosi Beach is its polished family hotel, right on the seafront with only the promenade between you and the sand. It runs a Nanny School for babies from eight months, a 24 hour baby food corner and a 180 square metre splash area, plus mini, junior and teen clubs, so every age is covered.",
+        "fr": "Cesenatico est la jolie ville a port-canal que Leonard de Vinci a jadis cartographiee, et le Tosi Beach est son hotel familial soigne, en front de mer avec seulement la promenade entre vous et le sable. Il propose une Nanny School pour les bebes des huit mois, un coin repas bebe 24h/24 et un espace de jeux d'eau de 180 metres carres, plus des clubs mini, junior et teen, chaque age est donc couvert."
+      },
+      "highlights": {
+        "en": [
+          "Beachfront, only the promenade to cross",
+          "180 square metre splash area plus heated pools",
+          "Nanny School for babies from 8 months",
+          "24 hour baby food corner and pediatric consultation"
+        ],
+        "fr": [
+          "Front de mer, seule la promenade a traverser",
+          "Espace de jeux d'eau de 180 metres carres et piscines chauffees",
+          "Nanny School pour les bebes des 8 mois",
+          "Coin repas bebe 24h/24 et consultation pediatrique"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Right on the seafront with a big splash area",
+          "Strong baby and toddler care included",
+          "Pretty, characterful canal town to explore",
+          "Clubs for every age from baby to teen"
+        ],
+        "fr": [
+          "Directement en front de mer avec un grand espace de jeux d'eau",
+          "Bonne prise en charge des bebes et tout-petits, incluse",
+          "Jolie ville a canal pleine de caractere a explorer",
+          "Clubs pour tous les ages, du bebe a l'ado"
+        ]
+      },
+      "cons": {
+        "en": [
+          "A busy, full-programme resort in high season",
+          "Cesenatico is north of Rimini, a short drive to its sights",
+          "Peak August fills every lounger on the beach"
+        ],
+        "fr": [
+          "Un complexe anime a programme complet en haute saison",
+          "Cesenatico est au nord de Rimini, a quelques minutes de ses sites",
+          "En plein aout, chaque transat de la plage est pris"
+        ]
+      },
+      "verdict": {
+        "en": "A rounded, all-ages beachfront pick with genuine baby care and a big splash area, in one of the coast's most charming towns.",
+        "fr": "Un choix complet, en front de mer et pour tous les ages, avec une vraie garde bebe et un grand espace de jeux d'eau, dans l'une des villes les plus charmantes de la cote."
+      },
+      "parentTip": {
+        "en": "Walk to the old canal port in the early evening to see the historic sailing boats lit up: an easy, free outing that even tired toddlers enjoy from the buggy.",
+        "fr": "Marchez jusqu'au vieux port-canal en debut de soiree pour voir les bateaux a voile historiques illumines: une sortie facile et gratuite que meme les tout-petits fatigues apprecient depuis la poussette."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Beachfront, promenade only",
+            "fr": "Front de mer, promenade seulement"
+          }
+        },
+        {
+          "icon": "💦",
+          "label": {
+            "en": "Splash",
+            "fr": "Jeux d'eau"
+          },
+          "value": {
+            "en": "180 sqm splash area",
+            "fr": "Espace jeux d'eau 180 m2"
+          }
+        },
+        {
+          "icon": "🧸",
+          "label": {
+            "en": "Baby care",
+            "fr": "Bebes"
+          },
+          "value": {
+            "en": "Nanny School from 8 months",
+            "fr": "Nanny School des 8 mois"
+          }
+        },
+        {
+          "icon": "⛵",
+          "label": {
+            "en": "Nearby",
+            "fr": "A cote"
+          },
+          "value": {
+            "en": "Historic canal port",
+            "fr": "Port-canal historique"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "How close is the beach?",
+            "fr": "A quelle distance est la plage?"
+          },
+          "a": {
+            "en": "The hotel is on the seafront with only the pedestrian promenade between it and its private beach, so there is no traffic to cross with the children.",
+            "fr": "L'hotel est en front de mer avec seulement la promenade pietonne entre lui et sa plage privee, il n'y a donc aucune circulation a traverser avec les enfants."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there care for very young children?",
+            "fr": "Y a-t-il une garde pour les tres jeunes enfants?"
+          },
+          "a": {
+            "en": "Yes, the Nanny School looks after babies from eight months, there is a 24 hour baby food corner and a free pediatric consultation is available.",
+            "fr": "Oui, la Nanny School s'occupe des bebes des huit mois, il y a un coin repas bebe 24h/24 et une consultation pediatrique gratuite est disponible."
+          }
+        },
+        {
+          "q": {
+            "en": "What is there to do beyond the beach?",
+            "fr": "Que faire en dehors de la plage?"
+          },
+          "a": {
+            "en": "Cesenatico's historic canal port with its old sailing boats is a lovely stroll, and Mirabilandia theme park is a short drive north.",
+            "fr": "Le port-canal historique de Cesenatico avec ses vieux voiliers offre une belle promenade, et le parc Mirabilandia est a quelques minutes de route au nord."
+          }
+        }
+      ]
+    },
+    {
+      "key": "rimini-blu-suite-bellaria",
+      "destinationKey": "rimini",
+      "name": "Blu Suite Hotel",
+      "area": {
+        "en": "Bellaria Igea Marina",
+        "fr": "Bellaria Igea Marina"
+      },
+      "lat": 44.1402,
+      "lng": 12.4642,
+      "zoom": 12,
+      "address": "Viale Alfonso Pinzon 290, 47814 Bellaria Igea Marina, Rimini, Italy",
+      "priceTier": 3,
+      "priceFrom": 150,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolPalms",
+        "roomCozy"
+      ],
+      "scores": {
+        "rooms": 84,
+        "baby": 82,
+        "pool": 78,
+        "dining": 82,
+        "safety": 86,
+        "convenience": 80,
+        "location": 82,
+        "extras": 86
+      },
+      "roomsSummary": {
+        "en": "A smart, suite-led four-star a step from the Igea Marina seafront, with roomy suites and family rooms for two adults and up to three children. A baby kit in the room, baby cutlery and kids' meals are all provided, and there is a proper wellness spa for parents.",
+        "fr": "Un quatre etoiles chic, oriente suites, a deux pas du front de mer d'Igea Marina, avec de vastes suites et chambres familiales pour deux adultes et jusqu'a trois enfants. Un kit bebe en chambre, des couverts pour bebe et des repas enfants sont fournis, et il y a un vrai spa bien-etre pour les parents."
+      },
+      "intro": {
+        "en": "The Blu Suite is the more design-led family option in Bellaria Igea Marina, built around spacious suites, an outdoor heated pool, a private beach and a Blu Spa wellness centre for when the children are with the entertainers. Kids get summer animation, dedicated spaces, a baby kit in the room and a babysitter on request, so it balances style with real family substance.",
+        "fr": "Le Blu Suite est l'option familiale la plus design de Bellaria Igea Marina, articulee autour de suites spacieuses, d'une piscine exterieure chauffee, d'une plage privee et d'un centre bien-etre Blu Spa pour les moments ou les enfants sont avec les animateurs. Les enfants beneficient d'une animation estivale, d'espaces dedies, d'un kit bebe en chambre et d'un babysitter sur demande, l'hotel allie donc le style a une vraie substance familiale."
+      },
+      "highlights": {
+        "en": [
+          "Spacious suites, good for families wanting room to spread out",
+          "Outdoor heated pool and private beach",
+          "Blu Spa wellness centre for parents",
+          "Baby kit in the room and babysitter on request"
+        ],
+        "fr": [
+          "Suites spacieuses, ideales pour les familles qui veulent de l'espace",
+          "Piscine exterieure chauffee et plage privee",
+          "Centre bien-etre Blu Spa pour les parents",
+          "Kit bebe en chambre et babysitter sur demande"
+        ]
+      },
+      "pros": {
+        "en": [
+          "More stylish and spacious than most Riviera family hotels",
+          "Real spa for a parents' break",
+          "Summer kids animation and dedicated spaces",
+          "Baby kit and babysitter make the early years easier"
+        ],
+        "fr": [
+          "Plus elegant et spacieux que la plupart des hotels familiaux de la Riviera",
+          "Vrai spa pour une pause parents",
+          "Animation enfants estivale et espaces dedies",
+          "Kit bebe et babysitter facilitent les premieres annees"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Animation runs mainly June to September",
+          "Beach is across the seafront road, a short walk",
+          "Pricing sits at the upper end for the town"
+        ],
+        "fr": [
+          "L'animation fonctionne surtout de juin a septembre",
+          "La plage est de l'autre cote de la route du front de mer, courte marche",
+          "Les tarifs se situent dans le haut de la fourchette pour la ville"
+        ]
+      },
+      "verdict": {
+        "en": "The choice for families who want a bit more style and space, plus a spa, without giving up kids' animation and baby kit on the calm Bellaria coast.",
+        "fr": "Le choix des familles qui veulent un peu plus de style et d'espace, plus un spa, sans renoncer a l'animation enfants et au kit bebe, sur la cote calme de Bellaria."
+      },
+      "parentTip": {
+        "en": "Book a spa slot during the afternoon kids' animation: it is the one window when both parents can actually switch off at the same time.",
+        "fr": "Reservez un creneau au spa pendant l'animation enfants de l'apres-midi: c'est le seul moment ou les deux parents peuvent vraiment souffler en meme temps."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Rooms",
+            "fr": "Chambres"
+          },
+          "value": {
+            "en": "Spacious suites",
+            "fr": "Suites spacieuses"
+          }
+        },
+        {
+          "icon": "📆",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Summer animation, June to Sept",
+            "fr": "Animation estivale, juin a sept"
+          }
+        },
+        {
+          "icon": "💆",
+          "label": {
+            "en": "Parents",
+            "fr": "Parents"
+          },
+          "value": {
+            "en": "Blu Spa wellness centre",
+            "fr": "Centre bien-etre Blu Spa"
+          }
+        },
+        {
+          "icon": "🧸",
+          "label": {
+            "en": "Baby",
+            "fr": "Bebe"
+          },
+          "value": {
+            "en": "Baby kit in room, babysitter",
+            "fr": "Kit bebe en chambre, babysitter"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the Blu Suite good with a baby?",
+            "fr": "Le Blu Suite est-il bien avec un bebe?"
+          },
+          "a": {
+            "en": "Yes, rooms come with a baby kit, there is baby cutlery and kids' meals, a babysitter on request and the calm shallow Bellaria beach is a short walk away.",
+            "fr": "Oui, les chambres sont equipees d'un kit bebe, il y a des couverts pour bebe et des repas enfants, un babysitter sur demande et la plage calme et peu profonde de Bellaria est a deux pas."
+          }
+        },
+        {
+          "q": {
+            "en": "When does the kids animation run?",
+            "fr": "Quand a lieu l'animation enfants?"
+          },
+          "a": {
+            "en": "The children's entertainment programme runs mainly from June to September, matching the peak family season, with dedicated indoor and outdoor spaces.",
+            "fr": "Le programme d'animation pour enfants a lieu surtout de juin a septembre, en pleine saison familiale, avec des espaces interieurs et exterieurs dedies."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there something for parents?",
+            "fr": "Y a-t-il quelque chose pour les parents?"
+          },
+          "a": {
+            "en": "Yes, the Blu Spa wellness centre offers treatments and relaxation areas, ideal to use while the children are in the animation programme.",
+            "fr": "Oui, le centre bien-etre Blu Spa propose des soins et des espaces de detente, ideal a utiliser pendant que les enfants sont au programme d'animation."
+          }
+        }
+      ]
+    },
+    {
+      "key": "rimini-hotel-gambrinus-marebello",
+      "destinationKey": "rimini",
+      "name": "Hotel Gambrinus",
+      "area": {
+        "en": "Marebello, Rimini",
+        "fr": "Marebello, Rimini"
+      },
+      "lat": 44.0435,
+      "lng": 12.5842,
+      "zoom": 12,
+      "address": "Viale Nervi 14, 47924 Marebello, Rimini, Italy",
+      "priceTier": 2,
+      "priceFrom": 95,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolPalms",
+        "kidsFootball"
+      ],
+      "scores": {
+        "rooms": 70,
+        "baby": 80,
+        "pool": 72,
+        "dining": 76,
+        "safety": 85,
+        "convenience": 82,
+        "location": 80,
+        "extras": 74
+      },
+      "roomsSummary": {
+        "en": "A friendly, family-run three-star in the Marebello district of Rimini, with simple, practical family rooms for two adults and one or two children. Cots and high chairs are on hand, and the whole place is geared to keeping a family holiday affordable.",
+        "fr": "Un trois etoiles familial et accueillant dans le quartier de Marebello a Rimini, avec des chambres familiales simples et pratiques pour deux adultes et un ou deux enfants. Lits bebe et chaises hautes sont disponibles, et tout est pense pour garder des vacances en famille abordables."
+      },
+      "intro": {
+        "en": "For families watching the budget, the Gambrinus is the classic Rimini formula at its most honest: a family-run all-inclusive in Marebello, less than a five minute walk from the wide, shallow, sandy beach. There is a small pool with hydromassage, a kids club and beach entertainment, full-board buffet meals and beach service included at the affiliated Coco Beach club.",
+        "fr": "Pour les familles qui surveillent le budget, le Gambrinus est la formule classique de Rimini dans sa version la plus honnete: un tout compris familial a Marebello, a moins de cinq minutes a pied de la plage large, peu profonde et sablonneuse. Il y a une petite piscine avec hydromassage, un club enfants et une animation plage, des repas en pension complete sous forme de buffet et le service de plage inclus au club affilie Coco Beach."
+      },
+      "highlights": {
+        "en": [
+          "Affordable family-run all-inclusive",
+          "Under a 5 minute walk to a wide shallow beach",
+          "Small pool with hydromassage and a kids club",
+          "Beach service included at the affiliated Coco Beach"
+        ],
+        "fr": [
+          "Tout compris familial et abordable",
+          "A moins de 5 minutes a pied d'une plage large et peu profonde",
+          "Petite piscine avec hydromassage et club enfants",
+          "Service de plage inclus au club affilie Coco Beach"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Excellent value full-board for families",
+          "Warm, personal family-run welcome",
+          "Close to Rimini's beach and bus routes",
+          "Kids club and beach animation included"
+        ],
+        "fr": [
+          "Pension complete d'un excellent rapport qualite prix pour les familles",
+          "Accueil chaleureux et personnel d'un etablissement familial",
+          "Proche de la plage de Rimini et des lignes de bus",
+          "Club enfants et animation plage inclus"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Simple three-star rooms, no frills",
+          "Small pool compared with the big family resorts",
+          "Marebello is a busy, built-up stretch of Rimini"
+        ],
+        "fr": [
+          "Chambres trois etoiles simples, sans fioritures",
+          "Petite piscine comparee aux grands complexes familiaux",
+          "Marebello est un secteur anime et urbanise de Rimini"
+        ]
+      },
+      "verdict": {
+        "en": "The value pick: a genuine family-run all-inclusive a few minutes from Rimini's gentle sandy beach, ideal when you want the sea and a kids club without the resort price tag.",
+        "fr": "Le choix malin: un vrai tout compris familial a quelques minutes de la douce plage de sable de Rimini, ideal quand on veut la mer et un club enfants sans le tarif d'un grand complexe."
+      },
+      "parentTip": {
+        "en": "Rimini's beach bus and the seafront cycle path both run past Marebello: leave the car parked and reach the centre or the harbour without the summer traffic.",
+        "fr": "Le bus de plage de Rimini et la piste cyclable du front de mer passent tous deux par Marebello: laissez la voiture garee et rejoignez le centre ou le port sans la circulation estivale."
+      },
+      "atAGlance": [
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Value",
+            "fr": "Budget"
+          },
+          "value": {
+            "en": "Affordable all-inclusive",
+            "fr": "Tout compris abordable"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Wide shallow sand, 5 min walk",
+            "fr": "Sable large et peu profond, 5 min"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "Small pool with hydromassage",
+            "fr": "Petite piscine avec hydromassage"
+          }
+        },
+        {
+          "icon": "🧸",
+          "label": {
+            "en": "Kids",
+            "fr": "Enfants"
+          },
+          "value": {
+            "en": "Kids club and beach animation",
+            "fr": "Club enfants et animation plage"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the Gambrinus right on the beach?",
+            "fr": "Le Gambrinus est-il directement sur la plage?"
+          },
+          "a": {
+            "en": "It is less than a five minute walk from the sand, with beach service included at the affiliated Coco Beach club just along the seafront.",
+            "fr": "Il est a moins de cinq minutes a pied du sable, avec le service de plage inclus au club affilie Coco Beach, juste le long du front de mer."
+          }
+        },
+        {
+          "q": {
+            "en": "Is all-inclusive really included?",
+            "fr": "Le tout compris est-il vraiment inclus?"
+          },
+          "a": {
+            "en": "The all-inclusive package covers full-board buffet meals plus beach service, which keeps a family week very predictable on cost.",
+            "fr": "La formule tout compris couvre la pension complete en buffet plus le service de plage, ce qui rend une semaine en famille tres previsible cote budget."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it suitable for toddlers?",
+            "fr": "Est-ce adapte aux tout-petits?"
+          },
+          "a": {
+            "en": "Yes, there are cots and high chairs, a kids club and the shallow flat Rimini beach nearby is gentle enough for first paddles.",
+            "fr": "Oui, il y a des lits bebe et des chaises hautes, un club enfants et la plage plate et peu profonde de Rimini toute proche est assez douce pour les premieres baignades."
+          }
+        }
+      ]
+    }
+  ],
+  "destinationMeta": {
+    "name": {
+      "en": "Rimini & the Adriatic Riviera",
+      "fr": "Rimini et la Riviera adriatique"
+    },
+    "country": {
+      "en": "Italy",
+      "fr": "Italie",
+      "it": "Italia",
+      "de": "Italien",
+      "es": "Italia",
+      "pt": "Itália"
+    },
+    "emoji": "🏖️",
+    "accent": "1f9ecf",
+    "geo": {
+      "lat": 44.06,
+      "lng": 12.57,
+      "zoom": 11
+    },
+    "heroKicker": {
+      "en": "The long, flat, shallow sandy beach that Europe's families grew up on",
+      "fr": "La longue plage de sable plate et peu profonde sur laquelle les familles d'Europe ont grandi"
+    },
+    "intro": {
+      "en": "Rimini and the Adriatic Riviera of Emilia-Romagna are the mainstream Italian and German family beach coast, and for good reason. The beach runs for kilometres in soft golden sand that shelves so gently you can walk a child far out into flat, warm, barely-there waves, which makes it one of the safest first-swim seas in Europe for babies and toddlers. Attended beach clubs, the bagni, line the whole shore with umbrellas, loungers and lifeguards, while a string of dedicated Family Hotels lay on baby clubs, nannies from eight months and baby food. Add Italy's biggest water park at Aquafan Riccione, the Beach Village, and theme parks like Mirabilandia and Italia in Miniatura, and you have a coast built around keeping children happy at excellent value.",
+      "fr": "Rimini et la Riviera adriatique d'Emilie-Romagne sont la grande cote balneaire familiale des Italiens et des Allemands, et ce n'est pas un hasard. La plage s'etire sur des kilometres de sable dore et doux qui descend si progressivement que l'on peut avancer loin avec un enfant dans des vagues plates, chaudes et a peine perceptibles, ce qui en fait l'une des mers de premiere baignade les plus sures d'Europe pour les bebes et les tout-petits. Les etablissements de plage surveilles, les bagni, bordent tout le littoral de parasols, de transats et de maitres-nageurs, tandis qu'une serie de Family Hotels dedies proposent clubs bebe, nounous des huit mois et repas pour bebe. Ajoutez le plus grand parc aquatique d'Italie a Aquafan Riccione, le Beach Village, et des parcs a theme comme Mirabilandia et Italia in Miniatura, et vous obtenez une cote pensee pour ravir les enfants a un excellent rapport qualite prix."
+    },
+    "whyKids": {
+      "en": [
+        "A long, flat, sandy beach that shelves so gently toddlers can wade far out safely",
+        "Attended beach clubs, the bagni, with lifeguards, umbrellas and play areas",
+        "Aquafan Riccione, Italy's most famous water park, plus the Beach Village",
+        "Theme parks nearby: Mirabilandia, Italia in Miniatura and the Cattolica aquarium",
+        "Dedicated Family Hotels with baby clubs, nannies and baby food"
+      ],
+      "fr": [
+        "Une longue plage de sable plate qui descend si doucement que les tout-petits peuvent avancer loin en securite",
+        "Des etablissements de plage surveilles, les bagni, avec maitres-nageurs, parasols et aires de jeux",
+        "Aquafan Riccione, le parc aquatique le plus celebre d'Italie, et le Beach Village",
+        "Des parcs a theme a proximite: Mirabilandia, Italia in Miniatura et l'aquarium de Cattolica",
+        "Des Family Hotels dedies avec clubs bebe, nounous et repas pour bebe"
+      ]
+    },
+    "bestAreas": {
+      "en": [
+        "Riccione: the stylish, lively resort with the best shopping and Aquafan just above town",
+        "Cattolica: the calmer, tidy town at the southern tip, great for a quieter family base",
+        "Bellaria Igea Marina: relaxed and family-first just north of Rimini, hotels right on the sand",
+        "Milano Marittima and Cesenatico: greener, smarter resorts in the Cervia and canal-port area to the north"
+      ],
+      "fr": [
+        "Riccione: la station chic et animee avec les meilleures boutiques et Aquafan juste au-dessus de la ville",
+        "Cattolica: la ville plus calme et soignee a la pointe sud, ideale pour une base familiale plus tranquille",
+        "Bellaria Igea Marina: detendue et tournee vers les familles juste au nord de Rimini, avec des hotels directement sur le sable",
+        "Milano Marittima et Cesenatico: stations plus vertes et chics dans la zone de Cervia et du port-canal, au nord"
+      ]
+    },
+    "stats": [
+      {
+        "value": "15 km+",
+        "label": {
+          "en": "Of flat, sandy Rimini-area beach",
+          "fr": "De plage de sable plate autour de Rimini"
+        }
+      },
+      {
+        "value": "26 to 30C",
+        "label": {
+          "en": "Typical summer day highs",
+          "fr": "Maximums typiques en ete"
+        }
+      },
+      {
+        "value": "150+",
+        "label": {
+          "en": "Certified Italy Family Hotels on the coast",
+          "fr": "Family Hotels certifies sur la cote"
+        }
+      },
+      {
+        "value": "Very shallow",
+        "label": {
+          "en": "Sea shelves gently for a long way out",
+          "fr": "Mer qui descend en pente douce sur une longue distance"
+        }
+      }
+    ],
+    "activities": [
+      {
+        "emoji": "🌊",
+        "name": {
+          "en": "Aquafan water park, Riccione",
+          "fr": "Parc aquatique Aquafan, Riccione"
+        },
+        "detail": {
+          "en": "Italy's most famous water park, with a big lazy river and a gentle shallow zone for the youngest alongside the bigger slides.",
+          "fr": "Le parc aquatique le plus celebre d'Italie, avec une grande riviere lente et une zone peu profonde douce pour les plus jeunes, a cote des grands toboggans."
+        },
+        "ages": [
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Morning",
+          "fr": "Matin"
+        }
+      },
+      {
+        "emoji": "🎢",
+        "name": {
+          "en": "Mirabilandia theme park",
+          "fr": "Parc a theme Mirabilandia"
+        },
+        "detail": {
+          "en": "Italy's largest theme park, north near Ravenna, with a whole Bimbopoli area of gentle rides for small children.",
+          "fr": "Le plus grand parc a theme d'Italie, au nord pres de Ravenne, avec tout un espace Bimbopoli de maneges doux pour les petits."
+        },
+        "ages": [
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Morning",
+          "fr": "Matin"
+        }
+      },
+      {
+        "emoji": "🗼",
+        "name": {
+          "en": "Italia in Miniatura, Rimini",
+          "fr": "Italia in Miniatura, Rimini"
+        },
+        "detail": {
+          "en": "Wander a scaled-down Italy of hundreds of tiny monuments, with canal boats and play areas, a hit with younger children.",
+          "fr": "Parcourez une Italie miniature de centaines de petits monuments, avec bateaux sur canal et aires de jeux, un succes aupres des plus jeunes."
+        },
+        "ages": [
+          "toddler",
+          "kid"
+        ],
+        "time": {
+          "en": "Morning",
+          "fr": "Matin"
+        }
+      },
+      {
+        "emoji": "🐠",
+        "name": {
+          "en": "Cattolica aquarium",
+          "fr": "Aquarium de Cattolica"
+        },
+        "detail": {
+          "en": "The largest aquarium on the Adriatic coast, with sharks, penguins and touch pools, ideal for the hottest part of the day.",
+          "fr": "Le plus grand aquarium de la cote adriatique, avec requins, manchots et bassins tactiles, ideal pour l'heure la plus chaude."
+        },
+        "ages": [
+          "baby",
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Afternoon",
+          "fr": "Apres-midi"
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "q": {
+          "en": "Is the Rimini beach really good for babies and toddlers?",
+          "fr": "La plage de Rimini est-elle vraiment bien pour les bebes et tout-petits?"
+        },
+        "a": {
+          "en": "Yes. The sand is soft and flat and the sea shelves so gradually that little ones can walk out a long way in shallow, warm, almost wave-free water, which is exactly what makes this coast a family favourite.",
+          "fr": "Oui. Le sable est doux et plat et la mer descend si progressivement que les petits peuvent avancer loin dans une eau peu profonde, chaude et presque sans vagues, ce qui fait justement le succes de cette cote aupres des familles."
+        }
+      },
+      {
+        "q": {
+          "en": "Is the beach free or do you pay?",
+          "fr": "La plage est-elle gratuite ou payante?"
+        },
+        "a": {
+          "en": "Most of the beach is organised into bagni, attended beach clubs where you pay for an umbrella and two loungers by the day or week. It buys you lifeguards, clean facilities and often a play area, and many family hotels include the beach service.",
+          "fr": "La majeure partie de la plage est organisee en bagni, des etablissements surveilles ou l'on paie un parasol et deux transats a la journee ou a la semaine. Cela vous donne des maitres-nageurs, des installations propres et souvent une aire de jeux, et de nombreux hotels familiaux incluent le service de plage."
+        }
+      },
+      {
+        "q": {
+          "en": "When should we avoid the crowds?",
+          "fr": "Quand faut-il eviter la foule?"
+        },
+        "a": {
+          "en": "August is peak: the beaches, roads and prices are all at their busiest, especially around Ferragosto in mid-August. June and September are warm, cheaper and far calmer, which suits families with young children best.",
+          "fr": "Aout est le pic: plages, routes et prix sont au plus haut, surtout autour du Ferragosto a la mi-aout. Juin et septembre sont chauds, moins chers et bien plus calmes, ce qui convient le mieux aux familles avec de jeunes enfants."
+        }
+      },
+      {
+        "q": {
+          "en": "Which airport do we fly into?",
+          "fr": "Dans quel aeroport atterrir?"
+        },
+        "a": {
+          "en": "Rimini has its own small airport with seasonal flights, but many families fly into Bologna, about 90 minutes away by car or train, which has far more routes and connects easily to the whole coast.",
+          "fr": "Rimini a son propre petit aeroport avec des vols saisonniers, mais beaucoup de familles atterrissent a Bologne, a environ 90 minutes en voiture ou en train, qui offre bien plus de liaisons et dessert facilement toute la cote."
+        }
+      }
+    ],
+    "parentTip": {
+      "en": "Pick one town and settle in rather than hopping resorts: the whole coast shares the same gentle beach, so the smart move is a hotel with the beach service included and a bagno with a play area right in front.",
+      "fr": "Choisissez une seule ville et posez-vous plutot que de sauter de station en station: toute la cote partage la meme plage douce, l'astuce est donc un hotel avec le service de plage inclus et un bagno avec une aire de jeux juste devant."
+    },
+    "goodToKnow": {
+      "en": "This coast is at its busiest in August, when the bagni fill up and prices peak, so June and September are calmer and better value with young children. The beach is almost entirely organised into paid bagni clubs rather than free public sand. The sea is famously shallow and gentle, ideal for toddlers, but it can look murky or greenish at times because it is so shallow and warm, which is normal and not a safety issue. Rimini's own airport is small with limited routes, so many families use Bologna, around 90 minutes away, instead.",
+      "fr": "Cette cote est la plus frequentee en aout, quand les bagni se remplissent et les prix culminent, juin et septembre sont donc plus calmes et plus avantageux avec de jeunes enfants. La plage est presque entierement organisee en bagni payants plutot qu'en sable public gratuit. La mer est reputee peu profonde et douce, ideale pour les tout-petits, mais elle peut parfois paraitre trouble ou verdatre parce qu'elle est justement tres peu profonde et chaude, ce qui est normal et sans danger. L'aeroport de Rimini est petit et peu desservi, beaucoup de familles utilisent donc plutot Bologne, a environ 90 minutes."
+    },
+    "photos": [
+      "beachSunset",
+      "poolCabanas",
+      "coastTown"
+    ]
+  }
+}

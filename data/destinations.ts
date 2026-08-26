@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META, COSTA_ALMERIA_META, PUNTA_CANA_META, FRENCH_ALPS_META, MAR_MENOR_META, NAXOS_PAROS_META, COSTA_NAVARINO_META, MARSA_ALAM_META, HAMMAMET_META, RIVIERA_MAYA_META, KEFALONIA_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META, COSTA_ALMERIA_META, PUNTA_CANA_META, FRENCH_ALPS_META, MAR_MENOR_META, NAXOS_PAROS_META, COSTA_NAVARINO_META, MARSA_ALAM_META, HAMMAMET_META, RIVIERA_MAYA_META, KEFALONIA_META, RIMINI_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -107,6 +107,7 @@ const MSA = (MARSA_ALAM_META ?? {}) as any;
 const HMT = (HAMMAMET_META ?? {}) as any;
 const RVM = (RIVIERA_MAYA_META ?? {}) as any;
 const KEF = (KEFALONIA_META ?? {}) as any;
+const RIM = (RIMINI_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -2094,6 +2095,34 @@ export const DESTINATIONS: Destination[] = src([
     faqs: KEF.faqs,
     parentTip: KEF.parentTip,
     goodToKnow: KEF.goodToKnow,
+  },
+  {
+    key: "rimini",
+    name: RIM.name ?? { en: "Rimini", fr: "Rimini" },
+    country: RIM.country ?? { en: "Italy", fr: "Italie" },
+    inPhrase: { en: "in Rimini", fr: "à Rimini" },
+    slug: {
+      en: "family-hotels-rimini",
+      fr: "hotels-famille-rimini",
+    },
+    geo: RIM.geo ?? { lat: 44.06, lng: 12.57, zoom: 11 },
+    heroKicker: RIM.heroKicker ?? {
+      en: "Italy's family coast: a long shallow sandy beach made for toddlers, plus water parks",
+      fr: "La côte famille de l'Italie : une longue plage de sable peu profonde faite pour les tout-petits, plus des parcs aquatiques",
+    },
+    intro: RIM.intro ?? { en: "", fr: "" },
+    whyKids: RIM.whyKids ?? { en: [], fr: [] },
+    bestAreas: RIM.bestAreas ?? { en: [], fr: [] },
+    emoji: RIM.emoji ?? "🏖️",
+    accent: RIM.accent ?? "e8934a",
+    hotelKeys: [], // populated below
+    related: ["lake-garda", "puglia", "guide-allinclusive-europe"],
+    photos: RIM.photos,
+    stats: RIM.stats,
+    activities: RIM.activities,
+    faqs: RIM.faqs,
+    parentTip: RIM.parentTip,
+    goodToKnow: RIM.goodToKnow,
   },
 ]);
 
