@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META, COSTA_ALMERIA_META, PUNTA_CANA_META, FRENCH_ALPS_META, MAR_MENOR_META, NAXOS_PAROS_META, COSTA_NAVARINO_META, MARSA_ALAM_META, HAMMAMET_META, RIVIERA_MAYA_META, KEFALONIA_META, RIMINI_META, BELEK_META, ABU_DHABI_META, DISNEYLAND_PARIS_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META, COSTA_ALMERIA_META, PUNTA_CANA_META, FRENCH_ALPS_META, MAR_MENOR_META, NAXOS_PAROS_META, COSTA_NAVARINO_META, MARSA_ALAM_META, HAMMAMET_META, RIVIERA_MAYA_META, KEFALONIA_META, RIMINI_META, BELEK_META, ABU_DHABI_META, DISNEYLAND_PARIS_META, ALULA_META, JEDDAH_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -111,6 +111,8 @@ const RIM = (RIMINI_META ?? {}) as any;
 const BLK = (BELEK_META ?? {}) as any;
 const AUH = (ABU_DHABI_META ?? {}) as any;
 const DLP = (DISNEYLAND_PARIS_META ?? {}) as any;
+const ALU = (ALULA_META ?? {}) as any;
+const JED = (JEDDAH_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -2201,6 +2203,56 @@ export const DESTINATIONS: Destination[] = src([
     faqs: DLP.faqs,
     parentTip: DLP.parentTip,
     goodToKnow: DLP.goodToKnow,
+  },
+  {
+    key: "alula",
+    name: ALU.name ?? { en: "AlUla", fr: "AlUla" },
+    country: ALU.country ?? { en: "Saudi Arabia", fr: "Arabie saoudite" },
+    inPhrase: { en: "in AlUla", fr: "à AlUla" },
+    slug: { en: "family-hotels-alula", fr: "hotels-famille-alula" },
+    geo: ALU.geo ?? { lat: 26.6117, lng: 37.921, zoom: 11 },
+    heroKicker: ALU.heroKicker ?? {
+      en: "Desert luxury, ancient Hegra tombs and wide-open adventure for families",
+      fr: "Luxe du désert, tombeaux antiques de Hegra et grands espaces d'aventure en famille",
+    },
+    intro: ALU.intro ?? { en: "", fr: "" },
+    whyKids: ALU.whyKids ?? { en: [], fr: [] },
+    bestAreas: ALU.bestAreas ?? { en: [], fr: [] },
+    emoji: ALU.emoji ?? "🏜️",
+    accent: ALU.accent ?? "c26a3d",
+    hotelKeys: [],
+    related: ["dubai", "abu-dhabi", "marrakech"],
+    photos: ALU.photos,
+    stats: ALU.stats,
+    activities: ALU.activities,
+    faqs: ALU.faqs,
+    parentTip: ALU.parentTip,
+    goodToKnow: ALU.goodToKnow,
+  },
+  {
+    key: "jeddah",
+    name: JED.name ?? { en: "Jeddah", fr: "Djeddah" },
+    country: JED.country ?? { en: "Saudi Arabia", fr: "Arabie saoudite" },
+    inPhrase: { en: "in Jeddah", fr: "à Djeddah" },
+    slug: { en: "family-hotels-jeddah", fr: "hotels-famille-jeddah" },
+    geo: JED.geo ?? { lat: 21.5433, lng: 39.1728, zoom: 11 },
+    heroKicker: JED.heroKicker ?? {
+      en: "Red Sea Corniche city break: family sea-view resorts, aquarium and old-town Al-Balad",
+      fr: "City break sur la Corniche de la mer Rouge : resorts famille vue mer, aquarium et vieille ville d'Al-Balad",
+    },
+    intro: JED.intro ?? { en: "", fr: "" },
+    whyKids: JED.whyKids ?? { en: [], fr: [] },
+    bestAreas: JED.bestAreas ?? { en: [], fr: [] },
+    emoji: JED.emoji ?? "🌊",
+    accent: JED.accent ?? "0e7c86",
+    hotelKeys: [],
+    related: ["alula", "dubai", "abu-dhabi"],
+    photos: JED.photos,
+    stats: JED.stats,
+    activities: JED.activities,
+    faqs: JED.faqs,
+    parentTip: JED.parentTip,
+    goodToKnow: JED.goodToKnow,
   },
 ]);
 

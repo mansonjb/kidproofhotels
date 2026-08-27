@@ -1,0 +1,2662 @@
+{
+  "hotels": [
+    {
+      "key": "jeddah-rosewood",
+      "destinationKey": "jeddah",
+      "name": "Rosewood Jeddah",
+      "area": {
+        "en": "Al Hamra, Corniche",
+        "fr": "Al Hamra, Corniche"
+      },
+      "lat": 21.5896,
+      "lng": 39.1447,
+      "zoom": 13,
+      "address": "Rosewood Jeddah, Al Kurnaysh Road, Al Hamra District, Jeddah, Saudi Arabia",
+      "priceTier": 4,
+      "priceFrom": 340,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "baby-friendly",
+        "family-suites",
+        "toddler-friendly",
+        "city-base"
+      ],
+      "clubFree": false,
+      "photos": [
+        "infinityPoolSea",
+        "poolDusk",
+        "roomCozy"
+      ],
+      "scores": {
+        "rooms": 90,
+        "baby": 82,
+        "pool": 82,
+        "dining": 88,
+        "safety": 90,
+        "convenience": 84,
+        "location": 88,
+        "extras": 84
+      },
+      "roomsSummary": {
+        "en": "Large, calm rooms and suites, most looking straight out at the Red Sea, with generous suites and connecting options that give a family real breathing room. Cots and high chairs come as standard, and the Rose Buds welcome pack means the little ones are looked after from the moment you check in.",
+        "fr": "De grandes chambres et suites paisibles, la plupart avec vue directe sur la mer Rouge, avec des suites spacieuses et des communicantes qui offrent à une famille un vrai espace pour respirer. Lits bébé et chaises hautes sont fournis d'office, et le coffret d'accueil Rose Buds fait que les petits sont chouchoutés dès l'arrivée."
+      },
+      "intro": {
+        "en": "This is the polished, grown-up address on the Corniche, an ultra-luxe tower with the Red Sea barely thirty metres from the door and rooms that frame the water and King Fahd's Fountain. For families it quietly delivers: an outdoor pool, an indoor pool and a rooftop pool, plus the Rose Buds programme that hands children a welcome letter, a kids' menu and small treats, and lets under-sixes dine free on half-board rates. It leans refined rather than splashy, so it suits parents who want a beautiful, restful base with faultless service and are happy to swim in the pools rather than a big kids' water park. Al-Balad old town and the Fakieh Aquarium are both a short taxi away, which makes this an easy launchpad for a city break with children.",
+        "fr": "Voici l'adresse chic et raffinée de la Corniche, une tour ultra-luxe avec la mer Rouge à peine à trente mètres de la porte et des chambres qui cadrent l'eau et la fontaine du roi Fahd. Pour les familles, elle assure sans en faire trop: une piscine extérieure, une piscine intérieure et une piscine sur le toit, plus le programme Rose Buds qui offre aux enfants une lettre de bienvenue, un menu enfant et de petites attentions, et fait dîner gratuitement les moins de six ans en demi-pension. L'esprit est raffiné plutôt que festif, l'adresse convient donc aux parents en quête d'une base belle et reposante, au service irréprochable, prêts à se baigner dans les piscines plutôt que dans un grand parc aquatique. La vieille ville d'Al-Balad et l'aquarium Fakieh sont à un court trajet en taxi, ce qui en fait un point de départ facile pour un city break en famille."
+      },
+      "highlights": {
+        "en": [
+          "Ultra-luxe Corniche tower with the Red Sea metres away",
+          "Three pools: outdoor, indoor and a rooftop pool",
+          "Rose Buds programme with kids' menus and welcome treats",
+          "Under-sixes dine free on half-board rates"
+        ],
+        "fr": [
+          "Tour ultra-luxe sur la Corniche, la mer Rouge à quelques mètres",
+          "Trois piscines: extérieure, intérieure et sur le toit",
+          "Programme Rose Buds avec menus enfants et cadeaux d'accueil",
+          "Les moins de six ans dînent gratuitement en demi-pension"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Genuinely beautiful sea-view rooms and impeccable service",
+          "Three pools cover every mood and weather",
+          "Thoughtful little touches for children through Rose Buds",
+          "Steps from the Corniche promenade and fountain views"
+        ],
+        "fr": [
+          "Des chambres vue mer vraiment superbes et un service impeccable",
+          "Trois piscines pour toutes les envies et toutes les météos",
+          "De jolies attentions pour les enfants via Rose Buds",
+          "À deux pas de la promenade de la Corniche et de la fontaine"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No swimmable city beach: the sea view is to look at, not to paddle in",
+          "It is refined rather than a splash-and-slides family resort",
+          "Premium rates, and extras add up quickly"
+        ],
+        "fr": [
+          "Pas de plage baignable en ville: la vue mer se regarde, on n'y patauge pas",
+          "Ambiance raffinée plutôt que resort familial à toboggans",
+          "Tarifs élevés, et les extras grimpent vite"
+        ]
+      },
+      "verdict": {
+        "en": "The refined choice for families who want a beautiful, calm Corniche base with three pools and standout service, and are content to swim in the pools rather than the sea. Ask for a high sea-view room and let the little ones enjoy the Rose Buds welcome.",
+        "fr": "Le choix raffiné pour les familles qui veulent une belle base calme sur la Corniche, avec trois piscines et un service remarquable, et qui se contentent de nager en piscine plutôt qu'en mer. Demandez une chambre haute vue mer et laissez les petits profiter de l'accueil Rose Buds."
+      },
+      "parentTip": {
+        "en": "Use the rooftop pool for sunset when the tower shades the deck, and swim in the temperature-controlled indoor pool in the fierce midday hours: it keeps the toddlers swimming without the sun.",
+        "fr": "Réservez la piscine du toit pour le coucher du soleil, quand la tour ombrage le pont, et nagez dans la piscine intérieure à température régulée aux heures brûlantes de midi: les tout-petits nagent sans le soleil."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Outdoor, indoor and rooftop",
+            "fr": "Extérieure, intérieure et sur le toit"
+          }
+        },
+        {
+          "icon": "🌊",
+          "label": {
+            "en": "Red Sea",
+            "fr": "Mer Rouge"
+          },
+          "value": {
+            "en": "About 30 metres from the door",
+            "fr": "À environ 30 mètres de la porte"
+          }
+        },
+        {
+          "icon": "🧸",
+          "label": {
+            "en": "For kids",
+            "fr": "Pour les enfants"
+          },
+          "value": {
+            "en": "Rose Buds welcome and menus",
+            "fr": "Accueil Rose Buds et menus"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Kids dine",
+            "fr": "Repas enfants"
+          },
+          "value": {
+            "en": "Free for under-sixes, half-board",
+            "fr": "Gratuit moins de 6 ans, demi-pension"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🚶",
+          "name": {
+            "en": "Corniche promenade stroll",
+            "fr": "Balade sur la promenade de la Corniche"
+          },
+          "detail": {
+            "en": "The seafront path runs right outside, with playgrounds and open art dotted along it, easy with a pushchair once the day cools.",
+            "fr": "Le chemin du front de mer passe juste devant, jalonné d'aires de jeux et d'art en plein air, facile en poussette une fois la fraîcheur venue."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Late afternoon",
+            "fr": "Fin d'après-midi"
+          }
+        },
+        {
+          "emoji": "🐠",
+          "name": {
+            "en": "Fakieh Aquarium",
+            "fr": "Aquarium Fakieh"
+          },
+          "detail": {
+            "en": "The city's aquarium, with dolphin and sea lion shows, is a short taxi ride and a reliable indoor hit on a hot day.",
+            "fr": "L'aquarium de la ville, avec ses spectacles de dauphins et d'otaries, est à un court trajet en taxi et une valeur sûre en intérieur les jours de chaleur."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matinée"
+          }
+        },
+        {
+          "emoji": "🏛️",
+          "name": {
+            "en": "Al-Balad old town",
+            "fr": "Vieille ville d'Al-Balad"
+          },
+          "detail": {
+            "en": "The UNESCO-listed historic quarter, with its coral-stone houses and shaded lanes, is a gentle wander for older children in the evening.",
+            "fr": "Le quartier historique classé à l'UNESCO, avec ses maisons en pierre de corail et ses ruelles ombragées, se parcourt tranquillement avec les plus grands en soirée."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soirée"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast then indoor pool",
+            "fr": "Petit-déjeuner puis piscine intérieure"
+          },
+          "note": {
+            "en": "Beat the heat with an early swim in the temperature-controlled indoor pool.",
+            "fr": "Devancez la chaleur avec une baignade matinale dans la piscine intérieure régulée."
+          }
+        },
+        {
+          "time": "11:00",
+          "title": {
+            "en": "Fakieh Aquarium",
+            "fr": "Aquarium Fakieh"
+          },
+          "note": {
+            "en": "A cool indoor outing while the sun is at its strongest.",
+            "fr": "Une sortie au frais en intérieur quand le soleil tape le plus fort."
+          }
+        },
+        {
+          "time": "16:30",
+          "title": {
+            "en": "Rooftop pool and shade",
+            "fr": "Piscine du toit et ombre"
+          },
+          "note": {
+            "en": "Back for a swim as the deck falls into shade and the fountain switches on.",
+            "fr": "Retour pour une baignade quand le pont passe à l'ombre et que la fontaine s'allume."
+          }
+        },
+        {
+          "time": "18:30",
+          "title": {
+            "en": "Corniche stroll and dinner",
+            "fr": "Balade sur la Corniche et dîner"
+          },
+          "note": {
+            "en": "A gentle seafront walk before a family dinner with the little ones dining free.",
+            "fr": "Une douce promenade en bord de mer avant un dîner en famille, les petits mangeant gratuitement."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Cots, high chairs and baby essentials come through the Rose Buds programme, and the indoor pool keeps a baby swimming out of the sun.",
+          "fr": "Lits bébé, chaises hautes et essentiels sont fournis via le programme Rose Buds, et la piscine intérieure permet à un bébé de nager à l'abri du soleil."
+        },
+        "toddler": {
+          "en": "Three pools give options for every hour, though none has a dedicated shallow splash zone, so keep little ones within arm's reach.",
+          "fr": "Trois piscines offrent des options à toute heure, mais aucune n'a de pataugeoire dédiée, gardez donc les petits à portée de bras."
+        },
+        "kid": {
+          "en": "Kids' menus and welcome treats keep this age happy, and the aquarium and Corniche playgrounds fill the days.",
+          "fr": "Menus enfants et cadeaux d'accueil ravissent cet âge, et l'aquarium et les aires de jeux de la Corniche remplissent les journées."
+        },
+        "teen": {
+          "en": "Sea-view rooms, the rooftop pool and a walk into Al-Balad in the evening suit teenagers well.",
+          "fr": "Chambres vue mer, piscine du toit et balade dans Al-Balad le soir conviennent bien aux ados."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Can we swim in the sea here?",
+            "fr": "Peut-on se baigner dans la mer ici?"
+          },
+          "a": {
+            "en": "Not from the hotel: the Red Sea is right there to look at, but Jeddah's city seafront is a promenade rather than a swimming beach. Swimming happens in the three hotel pools, and for a proper beach day you would head to an Obhur beach resort north of the city.",
+            "fr": "Pas depuis l'hôtel: la mer Rouge est là, sous les yeux, mais le front de mer de Jeddah est une promenade et non une plage de baignade. On nage dans les trois piscines de l'hôtel, et pour une vraie journée plage on file vers un resort de plage d'Obhur, au nord de la ville."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a kids' club?",
+            "fr": "Y a-t-il un club enfants?"
+          },
+          "a": {
+            "en": "There is no full supervised kids' club, but the Rose Buds programme provides welcome packs, kids' menus and baby amenities. It is a refined hotel that looks after children rather than a resort that entertains them all day.",
+            "fr": "Il n'y a pas de club enfants encadré à plein temps, mais le programme Rose Buds fournit coffrets d'accueil, menus enfants et essentiels bébé. C'est un hôtel raffiné qui prend soin des enfants, pas un resort qui les occupe toute la journée."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it easy to reach Al-Balad and the aquarium?",
+            "fr": "Est-il facile de rejoindre Al-Balad et l'aquarium?"
+          },
+          "a": {
+            "en": "Yes, both are short, cheap taxi rides from the Corniche. Taxis do not carry child seats, so bring a travel booster if you use one, and plan outings around the cooler morning and evening hours.",
+            "fr": "Oui, les deux sont à de courts trajets en taxi bon marché depuis la Corniche. Les taxis ne fournissent pas de siège enfant, prévoyez un réhausseur de voyage si vous en utilisez un, et calez les sorties sur les heures plus fraîches du matin et du soir."
+          }
+        }
+      ]
+    },
+    {
+      "key": "jeddah-park-hyatt",
+      "destinationKey": "jeddah",
+      "name": "Park Hyatt Jeddah - Marina, Club and Spa",
+      "area": {
+        "en": "Al Hamra, Corniche",
+        "fr": "Al Hamra, Corniche"
+      },
+      "lat": 21.5772,
+      "lng": 39.1436,
+      "zoom": 13,
+      "address": "Park Hyatt Jeddah - Marina, Club and Spa, Al Hamra District, Corniche Road, Jeddah, Saudi Arabia",
+      "priceTier": 4,
+      "priceFrom": 300,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "baby-friendly",
+        "family-suites",
+        "toddler-friendly",
+        "city-base"
+      ],
+      "clubFree": false,
+      "photos": [
+        "infinityPoolSea",
+        "deckLoungersSea",
+        "hotelTowerGreen"
+      ],
+      "scores": {
+        "rooms": 86,
+        "baby": 76,
+        "pool": 82,
+        "dining": 84,
+        "safety": 88,
+        "convenience": 82,
+        "location": 86,
+        "extras": 80
+      },
+      "roomsSummary": {
+        "en": "Understated, spacious rooms and suites in low-rise blocks set among gardens and a private marina, with sea-facing options and suites big enough for a family. Cots are provided on request and the resort-style layout gives toddlers room to toddle between pool and room.",
+        "fr": "Des chambres et suites sobres et spacieuses, dans des bâtiments bas nichés parmi les jardins et une marina privée, avec des options côté mer et des suites assez grandes pour une famille. Les lits bébé sont fournis sur demande et l'agencement façon resort laisse aux tout-petits de l'espace pour trotter de la piscine à la chambre."
+      },
+      "intro": {
+        "en": "More resort than tower, this Park Hyatt spreads along the southern Corniche around its own marina, with an infinity pool that reaches out towards the Red Sea and gardens that make it feel a world away from the traffic. Families get a genuinely lovely pool setting, a marina to wander, and Friday brunch at Nafoura where children get face painting, a bouncy castle and their own buffet. The honest caveat for parents of little ones is the pool rules: the main leisure and spa pools are gender-segregated in the Saudi way, so a small child swims with the same-sex parent, and the dedicated Camp Hyatt play space sits inside the ladies' spa for the very youngest. For couples with older children who love a beautiful pool and a calm, green setting, it is one of the nicest bases in the city.",
+        "fr": "Plus resort que tour, ce Park Hyatt s'étire le long de la Corniche sud autour de sa propre marina, avec une piscine à débordement qui s'avance vers la mer Rouge et des jardins qui donnent l'impression d'être à mille lieues de la circulation. Les familles profitent d'un cadre de piscine vraiment charmant, d'une marina où flâner, et du brunch du vendredi au Nafoura où les enfants ont maquillage, château gonflable et leur propre buffet. Le bémol honnête pour les parents de tout-petits, ce sont les règles de piscine: les bassins de loisirs et de spa sont séparés par sexe à la manière saoudienne, un jeune enfant nage donc avec le parent du même sexe, et l'espace de jeux Camp Hyatt se trouve à l'intérieur du spa des dames pour les plus jeunes. Pour les couples avec des enfants plus grands qui aiment une belle piscine et un cadre calme et verdoyant, c'est l'une des plus jolies bases de la ville."
+      },
+      "highlights": {
+        "en": [
+          "Infinity pool reaching towards the Red Sea",
+          "Private marina and gardens away from the traffic",
+          "Friday brunch with kids' buffet, face painting and bouncy castle",
+          "Two temperature-controlled indoor pools for the hot months"
+        ],
+        "fr": [
+          "Piscine à débordement qui s'avance vers la mer Rouge",
+          "Marina privée et jardins à l'écart de la circulation",
+          "Brunch du vendredi avec buffet enfants, maquillage et château gonflable",
+          "Deux piscines intérieures à température régulée pour les mois chauds"
+        ]
+      },
+      "pros": {
+        "en": [
+          "One of the loveliest pool and marina settings in Jeddah",
+          "Calm, green and low-rise, a real break from the city",
+          "Friday brunch is a genuine family event",
+          "Indoor pools keep everyone swimming through the summer heat"
+        ],
+        "fr": [
+          "L'un des plus beaux cadres piscine et marina de Jeddah",
+          "Calme, vert et de faible hauteur, une vraie pause loin de la ville",
+          "Le brunch du vendredi est un vrai moment en famille",
+          "Les piscines intérieures permettent de nager malgré la chaleur d'été"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Pools are gender-segregated, so little ones swim with the same-sex parent",
+          "The kids' play space is limited and sits inside the ladies' spa",
+          "No swimmable beach: it is a marina and pools, not sand"
+        ],
+        "fr": [
+          "Les piscines sont séparées par sexe, les petits nagent avec le parent du même sexe",
+          "L'espace de jeux enfants est limité et se trouve dans le spa des dames",
+          "Pas de plage baignable: c'est une marina et des piscines, pas du sable"
+        ]
+      },
+      "verdict": {
+        "en": "A beautiful, calm marina resort that shines for families with older children and for anyone who prizes a stunning pool over a kids' club. Go in knowing the pools are gender-segregated, and aim for the Friday brunch, which is the highlight for children.",
+        "fr": "Un beau resort de marina, calme, qui brille pour les familles avec de grands enfants et pour ceux qui préfèrent une piscine sublime à un club enfants. Sachez que les piscines sont séparées par sexe, et visez le brunch du vendredi, le grand moment pour les enfants."
+      },
+      "parentTip": {
+        "en": "Check which pool your family can use together before you unpack, as the arrangement depends on ages and the day. In peak summer, plan the outdoor pool for early morning and switch to the indoor pools once the heat and humidity build.",
+        "fr": "Vérifiez quelle piscine votre famille peut utiliser ensemble avant de défaire les valises, car l'organisation dépend des âges et du jour. En plein été, prévoyez la piscine extérieure tôt le matin et basculez vers les piscines intérieures dès que la chaleur et l'humidité montent."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Signature pool",
+            "fr": "Piscine phare"
+          },
+          "value": {
+            "en": "Infinity pool by the marina",
+            "fr": "Piscine à débordement au bord de la marina"
+          }
+        },
+        {
+          "icon": "⛵",
+          "label": {
+            "en": "Setting",
+            "fr": "Cadre"
+          },
+          "value": {
+            "en": "Private marina and gardens",
+            "fr": "Marina privée et jardins"
+          }
+        },
+        {
+          "icon": "🎨",
+          "label": {
+            "en": "Friday brunch",
+            "fr": "Brunch du vendredi"
+          },
+          "value": {
+            "en": "Kids' buffet and bouncy castle",
+            "fr": "Buffet enfants et château gonflable"
+          }
+        },
+        {
+          "icon": "🚻",
+          "label": {
+            "en": "Pool rules",
+            "fr": "Règles piscine"
+          },
+          "value": {
+            "en": "Gender-segregated, check with staff",
+            "fr": "Séparées par sexe, à vérifier sur place"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🥞",
+          "name": {
+            "en": "Nafoura Friday brunch",
+            "fr": "Brunch du vendredi au Nafoura"
+          },
+          "detail": {
+            "en": "The weekly family brunch turns lunch into an event with a kids' buffet, face painting, games and a bouncy castle.",
+            "fr": "Le brunch familial hebdomadaire transforme le déjeuner en événement, avec buffet enfants, maquillage, jeux et château gonflable."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Friday midday",
+            "fr": "Vendredi midi"
+          }
+        },
+        {
+          "emoji": "⛵",
+          "name": {
+            "en": "Marina wander",
+            "fr": "Balade sur la marina"
+          },
+          "detail": {
+            "en": "The private marina is a safe, car-free loop for a pre-dinner stroll and a bit of boat-spotting with little ones.",
+            "fr": "La marina privée est une boucle sûre et sans voiture pour une promenade avant le dîner et un peu d'observation des bateaux avec les petits."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Early evening",
+            "fr": "Début de soirée"
+          }
+        },
+        {
+          "emoji": "🐬",
+          "name": {
+            "en": "Fakieh Aquarium trip",
+            "fr": "Sortie à l'aquarium Fakieh"
+          },
+          "detail": {
+            "en": "A short taxi north brings you to the city aquarium with its dolphin and sea lion shows, a cool morning indoors.",
+            "fr": "Un court taxi vers le nord mène à l'aquarium de la ville et ses spectacles de dauphins et d'otaries, une matinée au frais en intérieur."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matinée"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Early swim by the marina",
+            "fr": "Baignade matinale près de la marina"
+          },
+          "note": {
+            "en": "The outdoor pool is at its calmest and coolest first thing.",
+            "fr": "La piscine extérieure est au plus calme et au plus frais dès le matin."
+          }
+        },
+        {
+          "time": "10:30",
+          "title": {
+            "en": "Aquarium or gardens",
+            "fr": "Aquarium ou jardins"
+          },
+          "note": {
+            "en": "Head to the aquarium, or let toddlers roam the shaded gardens.",
+            "fr": "Direction l'aquarium, ou laissez les tout-petits explorer les jardins ombragés."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Indoor pool through the heat",
+            "fr": "Piscine intérieure pendant la chaleur"
+          },
+          "note": {
+            "en": "Move to the temperature-controlled indoor pool at the hottest hours.",
+            "fr": "Passez à la piscine intérieure régulée aux heures les plus chaudes."
+          }
+        },
+        {
+          "time": "18:00",
+          "title": {
+            "en": "Marina stroll and dinner",
+            "fr": "Balade sur la marina et dîner"
+          },
+          "note": {
+            "en": "A loop of the marina before a relaxed family dinner.",
+            "fr": "Un tour de la marina avant un dîner en famille détendu."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Cots and quiet gardens suit a baby, and the ladies' spa area welcomes the very youngest with a female parent, so check the set-up on arrival.",
+          "fr": "Lits bébé et jardins calmes conviennent à un bébé, et l'espace spa des dames accueille les plus jeunes avec une maman, vérifiez donc l'organisation à l'arrivée."
+        },
+        "toddler": {
+          "en": "The pools are lovely but gender-segregated, so plan which parent swims with a toddler and when. The indoor pools are the safe midday bet.",
+          "fr": "Les piscines sont ravissantes mais séparées par sexe, planifiez donc quel parent nage avec un tout-petit et à quel moment. Les piscines intérieures sont la valeur sûre de midi."
+        },
+        "kid": {
+          "en": "Older children love the Friday brunch and the marina, and can use the leisure pool with the matching-sex parent.",
+          "fr": "Les plus grands adorent le brunch du vendredi et la marina, et peuvent utiliser la piscine de loisirs avec le parent du même sexe."
+        },
+        "teen": {
+          "en": "Calm, stylish and photogenic, with the pool, marina and city just outside, it suits teenagers who like a laid-back base.",
+          "fr": "Calme, élégant et photogénique, avec la piscine, la marina et la ville juste à côté, il convient aux ados qui aiment une base tranquille."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Can our whole family swim together?",
+            "fr": "Toute la famille peut-elle nager ensemble?"
+          },
+          "a": {
+            "en": "It depends on the pool and the ages: the main leisure and spa pools follow the local gender-segregation arrangement, so young children swim with the same-sex parent. Ask the team on arrival which pool works for your family and at what times.",
+            "fr": "Cela dépend de la piscine et des âges: les bassins de loisirs et de spa suivent l'organisation locale de séparation par sexe, les jeunes enfants nagent donc avec le parent du même sexe. Demandez à l'équipe à l'arrivée quelle piscine convient à votre famille et à quels horaires."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a proper kids' club?",
+            "fr": "Y a-t-il un vrai club enfants?"
+          },
+          "a": {
+            "en": "There is a small Camp Hyatt play space for the youngest inside the ladies' spa, and the weekly Friday brunch is the big kids' event, but this is not a resort with an all-day supervised club. For that, an Obhur beach resort suits better.",
+            "fr": "Il y a un petit espace de jeux Camp Hyatt pour les plus jeunes à l'intérieur du spa des dames, et le brunch hebdomadaire du vendredi est le grand rendez-vous des enfants, mais ce n'est pas un resort avec club encadré toute la journée. Pour cela, un resort de plage d'Obhur convient mieux."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it good in summer?",
+            "fr": "Est-ce agréable en été?"
+          },
+          "a": {
+            "en": "The heat and humidity are intense from June to September, but the two temperature-controlled indoor pools mean the children can keep swimming, and the gardens and marina give shaded space. Winter is still the easier family season.",
+            "fr": "La chaleur et l'humidité sont intenses de juin à septembre, mais les deux piscines intérieures régulées permettent aux enfants de continuer à nager, et les jardins et la marina offrent des espaces ombragés. L'hiver reste la saison familiale la plus facile."
+          }
+        }
+      ]
+    },
+    {
+      "key": "jeddah-shangri-la",
+      "destinationKey": "jeddah",
+      "name": "Shangri-La Jeddah",
+      "area": {
+        "en": "Jeddah Waterfront, North Corniche",
+        "fr": "Jeddah Waterfront, Corniche nord"
+      },
+      "lat": 21.636,
+      "lng": 39.1015,
+      "zoom": 12,
+      "address": "Shangri-La Jeddah, Corniche Road, Al Shati District, Jeddah, Saudi Arabia",
+      "priceTier": 4,
+      "priceFrom": 260,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "baby-friendly",
+        "family-suites",
+        "toddler-friendly",
+        "city-base"
+      ],
+      "clubFree": false,
+      "photos": [
+        "hotelTowerGreen",
+        "infinityPoolSea",
+        "poolDusk"
+      ],
+      "scores": {
+        "rooms": 88,
+        "baby": 80,
+        "pool": 84,
+        "dining": 84,
+        "safety": 88,
+        "convenience": 80,
+        "location": 84,
+        "extras": 86
+      },
+      "roomsSummary": {
+        "en": "Bright, modern rooms and suites, many with floor-to-ceiling views of the Red Sea and the Formula 1 circuit, with family-sized suites and connecting options. Cots and high chairs are provided, and the newer build means bathrooms and space feel generous for a family.",
+        "fr": "Des chambres et suites claires et modernes, beaucoup avec des vues du sol au plafond sur la mer Rouge et le circuit de Formule 1, avec des suites familiales et des communicantes. Lits bébé et chaises hautes sont fournis, et la construction récente offre des salles de bains et un espace généreux pour une famille."
+      },
+      "intro": {
+        "en": "One of the newest landmarks on the Jeddah Waterfront, this Shangri-La tower gives families a proper supervised Kids' Club for ages two to twelve, with playdough and sand play for tiny hands and trampolines, monkey bars and slides for the bigger ones. Up on the seventh floor a 25-metre outdoor pool looks out over the Red Sea, and there is a separate children's pool so toddlers get their own shallow water. Many rooms frame both the sea and the Jeddah Corniche Formula 1 circuit, which is a genuine thrill for car-mad kids and teens. It is a modern, well-run city hotel rather than a beach resort, so you swim in the pools and take taxis to the sights, but the combination of the kids' club and the sea-view pool makes it one of the easiest family picks in Jeddah.",
+        "fr": "L'un des tout nouveaux repères du Jeddah Waterfront, cette tour Shangri-La offre aux familles un vrai club enfants encadré pour les deux à douze ans, avec pâte à modeler et jeux de sable pour les petites mains et trampolines, barres de singe et toboggans pour les plus grands. Au septième étage, une piscine extérieure de 25 mètres donne sur la mer Rouge, et il y a un bassin enfants séparé pour que les tout-petits aient leur eau peu profonde. Beaucoup de chambres cadrent à la fois la mer et le circuit de Formule 1 de la Corniche de Jeddah, un vrai frisson pour les enfants et ados passionnés de voitures. C'est un hôtel de ville moderne et bien tenu plutôt qu'un resort de plage, on nage donc en piscine et on prend des taxis vers les sites, mais l'association du club enfants et de la piscine vue mer en fait l'un des choix familiaux les plus faciles de Jeddah."
+      },
+      "highlights": {
+        "en": [
+          "Supervised Kids' Club for ages 2 to 12",
+          "25-metre sea-view outdoor pool plus a children's pool",
+          "Rooms overlooking the Red Sea and the F1 circuit",
+          "Newer build with generous family-sized rooms"
+        ],
+        "fr": [
+          "Club enfants encadré pour les 2 à 12 ans",
+          "Piscine extérieure de 25 m vue mer et un bassin enfants",
+          "Chambres avec vue sur la mer Rouge et le circuit F1",
+          "Construction récente avec de grandes chambres familiales"
+        ]
+      },
+      "pros": {
+        "en": [
+          "A real supervised kids' club, rare among Jeddah city hotels",
+          "Separate children's pool for the little ones",
+          "Sea and racetrack views that wow older kids",
+          "Modern, spacious rooms that fit a family comfortably"
+        ],
+        "fr": [
+          "Un vrai club enfants encadré, rare parmi les hôtels de ville de Jeddah",
+          "Bassin enfants séparé pour les petits",
+          "Vues mer et circuit qui épatent les plus grands",
+          "Chambres modernes et spacieuses, confortables pour une famille"
+        ]
+      },
+      "cons": {
+        "en": [
+          "It is a pool hotel, not a beach: no swimming from the shore",
+          "The kids' club may carry a fee or set hours, so confirm when booking",
+          "The waterfront setting means taxis for most sightseeing"
+        ],
+        "fr": [
+          "C'est un hôtel à piscines, pas une plage: pas de baignade depuis le rivage",
+          "Le club enfants peut être payant ou à horaires fixes, à confirmer à la réservation",
+          "Le cadre waterfront implique des taxis pour la plupart des visites"
+        ]
+      },
+      "verdict": {
+        "en": "The most straightforward modern family pick in the city, with a genuine kids' club, a children's pool and sea-and-racetrack views the children will remember. Ask for a high room facing the water and the circuit.",
+        "fr": "Le choix familial moderne le plus simple de la ville, avec un vrai club enfants, un bassin enfants et des vues mer et circuit dont les enfants se souviendront. Demandez une chambre haute face à l'eau et au circuit."
+      },
+      "parentTip": {
+        "en": "Book a room on the circuit side if you have a car-loving child, and use the seventh-floor children's pool in the morning before the sun is high, saving the indoor spaces for the fierce afternoon heat.",
+        "fr": "Réservez une chambre côté circuit si vous avez un enfant fan de voitures, et utilisez le bassin enfants du septième étage le matin avant que le soleil monte, en gardant les espaces intérieurs pour la chaleur écrasante de l'après-midi."
+      },
+      "atAGlance": [
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids' Club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Supervised, ages 2 to 12",
+            "fr": "Encadré, 2 à 12 ans"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "25m sea-view and a kids' pool",
+            "fr": "25 m vue mer et un bassin enfants"
+          }
+        },
+        {
+          "icon": "🏎️",
+          "label": {
+            "en": "Views",
+            "fr": "Vues"
+          },
+          "value": {
+            "en": "Red Sea and the F1 circuit",
+            "fr": "Mer Rouge et circuit F1"
+          }
+        },
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Rooms",
+            "fr": "Chambres"
+          },
+          "value": {
+            "en": "New build, family-sized",
+            "fr": "Récentes, taille familiale"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🧩",
+          "name": {
+            "en": "Kids' Club session",
+            "fr": "Séance au club enfants"
+          },
+          "detail": {
+            "en": "Supervised play for ages two to twelve, from sand and playdough for tiny hands to trampolines and slides for the bigger ones.",
+            "fr": "Jeux encadrés pour les deux à douze ans, du sable et de la pâte à modeler pour les petites mains aux trampolines et toboggans pour les plus grands."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Daytime",
+            "fr": "En journée"
+          }
+        },
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Seventh-floor pool",
+            "fr": "Piscine du septième étage"
+          },
+          "detail": {
+            "en": "A 25-metre pool with a Red Sea view, plus a shallow children's pool right beside it for the toddlers.",
+            "fr": "Une piscine de 25 mètres avec vue sur la mer Rouge, et un bassin enfants peu profond juste à côté pour les tout-petits."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matinée"
+          }
+        },
+        {
+          "emoji": "🏛️",
+          "name": {
+            "en": "Al-Balad by taxi",
+            "fr": "Al-Balad en taxi"
+          },
+          "detail": {
+            "en": "The UNESCO old town is a short ride south, best explored in the cool of the evening with older children.",
+            "fr": "La vieille ville UNESCO est à un court trajet vers le sud, à découvrir de préférence à la fraîche en soirée avec les plus grands."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soirée"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast then kids' pool",
+            "fr": "Petit-déjeuner puis bassin enfants"
+          },
+          "note": {
+            "en": "The children's pool is calm and cool first thing.",
+            "fr": "Le bassin enfants est calme et frais dès le matin."
+          }
+        },
+        {
+          "time": "11:00",
+          "title": {
+            "en": "Kids' Club drop-in",
+            "fr": "Passage au club enfants"
+          },
+          "note": {
+            "en": "Supervised play while the sun climbs, with time for parents to breathe.",
+            "fr": "Jeux encadrés pendant que le soleil monte, un moment de répit pour les parents."
+          }
+        },
+        {
+          "time": "13:30",
+          "title": {
+            "en": "Lunch and room rest",
+            "fr": "Déjeuner et repos en chambre"
+          },
+          "note": {
+            "en": "A cool break from the midday heat with a nap for little ones.",
+            "fr": "Une pause au frais loin de la chaleur de midi, avec sieste pour les petits."
+          }
+        },
+        {
+          "time": "18:00",
+          "title": {
+            "en": "Waterfront walk",
+            "fr": "Balade sur le waterfront"
+          },
+          "note": {
+            "en": "Out along the promenade as it cools, with the circuit and sea alongside.",
+            "fr": "Sur la promenade quand la fraîcheur arrive, le circuit et la mer à côté."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Cots, high chairs and spacious new rooms suit a baby, and the shallow children's pool works for a first paddle with a parent.",
+          "fr": "Lits bébé, chaises hautes et grandes chambres récentes conviennent à un bébé, et le bassin enfants peu profond convient à une première baignade avec un parent."
+        },
+        "toddler": {
+          "en": "The separate children's pool and the two-to-twelve kids' club are exactly what this age needs.",
+          "fr": "Le bassin enfants séparé et le club deux à douze ans sont exactement ce dont cet âge a besoin."
+        },
+        "kid": {
+          "en": "Kids' club activities plus the sea-view pool and racetrack views keep this age busy and wide-eyed.",
+          "fr": "Les activités du club, la piscine vue mer et les vues sur le circuit occupent et émerveillent cet âge."
+        },
+        "teen": {
+          "en": "Racetrack and sea views, a modern room and the buzz of the waterfront suit teenagers well, even past the kids' club age.",
+          "fr": "Vues circuit et mer, chambre moderne et animation du waterfront conviennent bien aux ados, même passé l'âge du club enfants."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the Kids' Club free?",
+            "fr": "Le club enfants est-il gratuit?"
+          },
+          "a": {
+            "en": "There is a proper supervised Kids' Club for ages two to twelve, but whether it is complimentary and its exact hours can vary by season and rate, so confirm directly when you book. Either way, it is a real draw among Jeddah's city hotels.",
+            "fr": "Il y a un vrai club enfants encadré pour les deux à douze ans, mais son caractère gratuit et ses horaires exacts peuvent varier selon la saison et le tarif, à confirmer directement à la réservation. Dans tous les cas, c'est un vrai atout parmi les hôtels de ville de Jeddah."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we see the Formula 1 track?",
+            "fr": "Voit-on le circuit de Formule 1?"
+          },
+          "a": {
+            "en": "Yes, the hotel sits on the Jeddah Waterfront beside the Corniche circuit and many rooms look onto it, which is a real thrill for car-mad children. Request a circuit-facing room when you book.",
+            "fr": "Oui, l'hôtel est sur le Jeddah Waterfront, à côté du circuit de la Corniche, et beaucoup de chambres donnent dessus, un vrai frisson pour les enfants fans de voitures. Demandez une chambre côté circuit à la réservation."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a beach?",
+            "fr": "Y a-t-il une plage?"
+          },
+          "a": {
+            "en": "No, this is a waterfront pool hotel rather than a beach resort, so swimming is in the pools. For sand and sea swimming, the Obhur beach resorts north of the city are the place to go.",
+            "fr": "Non, c'est un hôtel à piscines sur le front de mer plutôt qu'un resort de plage, la baignade se fait donc en piscine. Pour le sable et la baignade en mer, ce sont les resorts de plage d'Obhur, au nord de la ville, qu'il faut viser."
+          }
+        }
+      ]
+    },
+    {
+      "key": "jeddah-waldorf-astoria-qasr-al-sharq",
+      "destinationKey": "jeddah",
+      "name": "Waldorf Astoria Jeddah - Qasr Al Sharq",
+      "area": {
+        "en": "Al Shati, Corniche",
+        "fr": "Al Shati, Corniche"
+      },
+      "lat": 21.5486,
+      "lng": 39.1555,
+      "zoom": 13,
+      "address": "Waldorf Astoria Jeddah - Qasr Al Sharq, Al Kurnaysh Road, Jeddah, Saudi Arabia",
+      "priceTier": 4,
+      "priceFrom": 380,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "baby-friendly",
+        "family-suites",
+        "toddler-friendly",
+        "city-base"
+      ],
+      "clubFree": false,
+      "photos": [
+        "poolDusk",
+        "roomCozy",
+        "livingRoom"
+      ],
+      "scores": {
+        "rooms": 90,
+        "baby": 80,
+        "pool": 84,
+        "dining": 86,
+        "safety": 90,
+        "convenience": 82,
+        "location": 86,
+        "extras": 82
+      },
+      "roomsSummary": {
+        "en": "Palatial, richly finished rooms and suites, most looking over the Red Sea, with large suites and connecting rooms that give a family plenty of space. Cots and high chairs are provided, and the sheer size of the rooms is part of the appeal for families who like room to spread out.",
+        "fr": "Des chambres et suites somptueuses aux finitions riches, la plupart avec vue sur la mer Rouge, avec de grandes suites et des chambres communicantes qui offrent à une famille beaucoup d'espace. Lits bébé et chaises hautes sont fournis, et la taille même des chambres fait partie de l'attrait pour les familles qui aiment pouvoir s'étaler."
+      },
+      "intro": {
+        "en": "The palace-style grande dame of the Corniche, Qasr Al Sharq wears its opulence proudly, all marble and gold, yet it is genuinely set up for families with two indoor pools, an outdoor pool and a dedicated children's pool. Rooms are enormous and most look straight out at the Red Sea, so a family can spread out and still keep the little ones close. It leans formal and grand rather than playful, so there is no big kids' club or waterslides, but the range of pools and the sheer space make it comfortable for children of any age. Children of all ages are welcome, the buffets are lavish, and the Corniche promenade and King Fahd's Fountain are right on the doorstep for evening walks.",
+        "fr": "Grande dame façon palais de la Corniche, le Qasr Al Sharq porte fièrement son opulence, tout de marbre et d'or, et pourtant il est vraiment pensé pour les familles avec deux piscines intérieures, une piscine extérieure et un bassin enfants dédié. Les chambres sont immenses et la plupart donnent droit sur la mer Rouge, une famille peut donc s'étaler tout en gardant les petits à proximité. L'esprit est formel et grandiose plutôt que ludique, il n'y a donc pas de grand club enfants ni de toboggans, mais l'éventail de piscines et l'espace même le rendent confortable pour des enfants de tout âge. Les enfants de tous âges sont les bienvenus, les buffets sont fastueux, et la promenade de la Corniche et la fontaine du roi Fahd sont juste devant pour les balades du soir."
+      },
+      "highlights": {
+        "en": [
+          "Palatial sea-view rooms with plenty of space for a family",
+          "Two indoor pools, an outdoor pool and a children's pool",
+          "Lavish buffets and grand, formal service",
+          "On the Corniche by King Fahd's Fountain"
+        ],
+        "fr": [
+          "Chambres vue mer somptueuses, beaucoup d'espace pour une famille",
+          "Deux piscines intérieures, une extérieure et un bassin enfants",
+          "Buffets fastueux et service grandiose et formel",
+          "Sur la Corniche, près de la fontaine du roi Fahd"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Huge, beautiful rooms that suit a family spreading out",
+          "Four pools including a dedicated children's pool",
+          "Indoor pools mean swimming even in peak summer",
+          "A real sense of occasion that older children enjoy"
+        ],
+        "fr": [
+          "De vastes et belles chambres, parfaites pour une famille qui s'étale",
+          "Quatre piscines dont un bassin enfants dédié",
+          "Les piscines intérieures permettent de nager même en plein été",
+          "Un vrai sens de l'événement que les plus grands apprécient"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No kids' club or waterslides: it is grand, not playful",
+          "Formal and opulent, which can feel less relaxed with toddlers",
+          "Premium palace pricing, among the highest in the city"
+        ],
+        "fr": [
+          "Pas de club enfants ni de toboggans: c'est grandiose, pas ludique",
+          "Formel et opulent, ce qui peut sembler moins détendu avec des tout-petits",
+          "Tarifs de palace, parmi les plus élevés de la ville"
+        ]
+      },
+      "verdict": {
+        "en": "The grand, spacious choice for families who want palatial sea-view rooms and a good spread of pools, including one just for children, over a splash park or kids' club. Book a sea-view suite and treat the fountain and Corniche as your evening playground.",
+        "fr": "Le choix grandiose et spacieux pour les familles qui préfèrent des chambres vue mer somptueuses et un bel éventail de piscines, dont une réservée aux enfants, à un parc aquatique ou un club enfants. Réservez une suite vue mer et faites de la fontaine et de la Corniche votre terrain de jeu du soir."
+      },
+      "parentTip": {
+        "en": "Ask for a sea-view room high up so the fountain is part of the bedtime view, and use the children's pool and indoor pools during the hottest hours, saving the outdoor pool for early morning.",
+        "fr": "Demandez une chambre vue mer en hauteur pour que la fontaine fasse partie du décor du coucher, et utilisez le bassin enfants et les piscines intérieures aux heures les plus chaudes, en réservant la piscine extérieure pour le petit matin."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Four, one just for children",
+            "fr": "Quatre, dont une pour les enfants"
+          }
+        },
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Rooms",
+            "fr": "Chambres"
+          },
+          "value": {
+            "en": "Palatial and sea-facing",
+            "fr": "Somptueuses et côté mer"
+          }
+        },
+        {
+          "icon": "⛲",
+          "label": {
+            "en": "Location",
+            "fr": "Emplacement"
+          },
+          "value": {
+            "en": "Corniche by King Fahd's Fountain",
+            "fr": "Corniche, près de la fontaine du roi Fahd"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Dining",
+            "fr": "Restauration"
+          },
+          "value": {
+            "en": "Lavish family buffets",
+            "fr": "Buffets familiaux fastueux"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Children's pool time",
+            "fr": "Moment au bassin enfants"
+          },
+          "detail": {
+            "en": "The dedicated children's pool gives toddlers their own shallow water, with two indoor pools for the hottest part of the day.",
+            "fr": "Le bassin enfants dédié offre aux tout-petits leur eau peu profonde, avec deux piscines intérieures pour le plus fort de la chaleur."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning and midday",
+            "fr": "Matinée et midi"
+          }
+        },
+        {
+          "emoji": "⛲",
+          "name": {
+            "en": "King Fahd's Fountain at dusk",
+            "fr": "Fontaine du roi Fahd au crépuscule"
+          },
+          "detail": {
+            "en": "The world's tallest fountain lights up over the Corniche each evening, a five-minute stroll and a favourite with children.",
+            "fr": "La plus haute fontaine du monde s'illumine sur la Corniche chaque soir, à cinq minutes à pied et adorée des enfants."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Dusk",
+            "fr": "Crépuscule"
+          }
+        },
+        {
+          "emoji": "🐠",
+          "name": {
+            "en": "Fakieh Aquarium",
+            "fr": "Aquarium Fakieh"
+          },
+          "detail": {
+            "en": "A short taxi north to the city aquarium, with dolphin shows and touch tanks, cool and indoors for a hot morning.",
+            "fr": "Un court taxi vers le nord jusqu'à l'aquarium de la ville, spectacles de dauphins et bassins tactiles, au frais et en intérieur pour une matinée chaude."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matinée"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast and outdoor pool",
+            "fr": "Petit-déjeuner et piscine extérieure"
+          },
+          "note": {
+            "en": "An early swim outdoors before the heat sets in.",
+            "fr": "Une baignade matinale en extérieur avant que la chaleur s'installe."
+          }
+        },
+        {
+          "time": "11:00",
+          "title": {
+            "en": "Aquarium outing",
+            "fr": "Sortie à l'aquarium"
+          },
+          "note": {
+            "en": "A cool indoor morning at Fakieh Aquarium.",
+            "fr": "Une matinée au frais en intérieur à l'aquarium Fakieh."
+          }
+        },
+        {
+          "time": "14:00",
+          "title": {
+            "en": "Children's and indoor pools",
+            "fr": "Bassin enfants et piscines intérieures"
+          },
+          "note": {
+            "en": "Back for the children's pool and the cool indoor pools at peak heat.",
+            "fr": "Retour pour le bassin enfants et les piscines intérieures au plus chaud."
+          }
+        },
+        {
+          "time": "18:30",
+          "title": {
+            "en": "Fountain walk and dinner",
+            "fr": "Balade à la fontaine et dîner"
+          },
+          "note": {
+            "en": "A stroll to the fountain before a lavish family buffet.",
+            "fr": "Une promenade jusqu'à la fontaine avant un buffet familial fastueux."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Enormous rooms, cots and the indoor pools make a baby's day easy, well away from the sun.",
+          "fr": "D'immenses chambres, des lits bébé et les piscines intérieures facilitent la journée d'un bébé, bien à l'abri du soleil."
+        },
+        "toddler": {
+          "en": "The dedicated children's pool is the highlight for this age, and the space in the rooms suits nap times.",
+          "fr": "Le bassin enfants dédié est le point fort pour cet âge, et l'espace dans les chambres se prête bien aux siestes."
+        },
+        "kid": {
+          "en": "Four pools and the fountain keep this age busy, though there is no kids' club to fill the day.",
+          "fr": "Quatre piscines et la fontaine occupent cet âge, même s'il n'y a pas de club enfants pour remplir la journée."
+        },
+        "teen": {
+          "en": "The grandeur, sea-view rooms and Corniche walks suit teenagers who like a bit of glamour.",
+          "fr": "La grandeur, les chambres vue mer et les balades sur la Corniche conviennent aux ados qui aiment un peu de glamour."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is it too formal for young children?",
+            "fr": "Est-ce trop formel pour de jeunes enfants?"
+          },
+          "a": {
+            "en": "It is grand and opulent, but children of all ages are welcome and there is a dedicated children's pool. It simply is not a playful splash resort, so families with toddlers who want a kids' club may prefer a beach resort in Obhur.",
+            "fr": "C'est grandiose et opulent, mais les enfants de tous âges sont les bienvenus et il y a un bassin enfants dédié. Ce n'est simplement pas un resort ludique à toboggans, les familles avec tout-petits en quête d'un club enfants préféreront peut-être un resort de plage à Obhur."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we swim in summer?",
+            "fr": "Peut-on nager en été?"
+          },
+          "a": {
+            "en": "Yes, that is a real advantage here: with two indoor pools alongside the outdoor and children's pools, everyone can keep swimming even when the June-to-September heat and humidity are fierce.",
+            "fr": "Oui, c'est un vrai avantage ici: avec deux piscines intérieures en plus de la piscine extérieure et du bassin enfants, tout le monde peut continuer à nager même quand la chaleur et l'humidité de juin à septembre sont écrasantes."
+          }
+        },
+        {
+          "q": {
+            "en": "How close is the fountain?",
+            "fr": "La fontaine est-elle proche?"
+          },
+          "a": {
+            "en": "King Fahd's Fountain is right on the Corniche in front of the hotel, so an evening walk to see it lit up is an easy nightly ritual with children. The wider Corniche promenade runs alongside for longer strolls.",
+            "fr": "La fontaine du roi Fahd est juste sur la Corniche devant l'hôtel, une balade du soir pour la voir illuminée devient donc un rituel facile avec les enfants. La promenade de la Corniche s'étend à côté pour de plus longues marches."
+          }
+        }
+      ]
+    },
+    {
+      "key": "jeddah-assila-luxury-collection",
+      "destinationKey": "jeddah",
+      "name": "Assila, a Luxury Collection Hotel, Jeddah",
+      "area": {
+        "en": "Al Andalus, Tahlia",
+        "fr": "Al Andalus, Tahlia"
+      },
+      "lat": 21.5535,
+      "lng": 39.162,
+      "zoom": 13,
+      "address": "Assila, a Luxury Collection Hotel, Jeddah, Prince Mohammed Bin Abdulaziz Street, Al Andalus District, Jeddah, Saudi Arabia",
+      "priceTier": 3,
+      "priceFrom": 220,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "baby-friendly",
+        "family-suites",
+        "self-catering",
+        "toddler-friendly",
+        "city-base"
+      ],
+      "clubFree": false,
+      "photos": [
+        "hotelTowerGreen",
+        "poolDusk",
+        "roomCozy"
+      ],
+      "scores": {
+        "rooms": 86,
+        "baby": 78,
+        "pool": 78,
+        "dining": 84,
+        "safety": 88,
+        "convenience": 86,
+        "location": 82,
+        "extras": 80
+      },
+      "roomsSummary": {
+        "en": "Spacious contemporary rooms and suites, plus a set of serviced apartments with kitchenettes that suit longer family stays or fussier eaters. Free cots and infant beds are available and connecting rooms can be arranged, so a family of four settles in easily.",
+        "fr": "Des chambres et suites contemporaines spacieuses, plus un ensemble d'appartements avec kitchenette qui conviennent aux séjours prolongés en famille ou aux mangeurs difficiles. Lits bébé et berceaux sont gratuits et les chambres communicantes s'organisent, une famille de quatre s'y installe donc facilement."
+      },
+      "intro": {
+        "en": "Set on Tahlia Street in the buzzy Al Andalus district, Assila is the design-led, art-filled choice a little back from the seafront, and it earns its place with families through space and flexibility. Alongside the rooms there are serviced apartments with kitchenettes, which is a quiet blessing when you have a baby's routine or a child who only eats certain things, and free cots and connecting rooms make settling in simple. A twentieth-floor rooftop pool looks out over the skyline, with cabanas, loungers and a lifeguard, and there is a game room for downtime. It is a city hotel in a shopping and dining district rather than a beach base, so you swim on the roof and taxi to the Corniche, but the apartments and central buzz make it a smart, good-value family pick.",
+        "fr": "Installé sur la rue Tahlia dans le quartier animé d'Al Andalus, Assila est le choix design et rempli d'art, un peu en retrait du front de mer, et il gagne sa place auprès des familles par l'espace et la souplesse. À côté des chambres, il y a des appartements avec kitchenette, une bénédiction discrète quand on a le rythme d'un bébé ou un enfant qui ne mange que certaines choses, et les lits bébé gratuits et les chambres communicantes simplifient l'installation. Une piscine sur le toit au vingtième étage domine la ligne d'horizon, avec cabanas, transats et maître-nageur, et il y a une salle de jeux pour les temps calmes. C'est un hôtel de ville dans un quartier de shopping et de restaurants plutôt qu'une base balnéaire, on nage donc sur le toit et on prend un taxi vers la Corniche, mais les appartements et l'animation centrale en font un choix familial malin et d'un bon rapport qualité-prix."
+      },
+      "highlights": {
+        "en": [
+          "Serviced apartments with kitchenettes for family self-catering",
+          "Rooftop pool on the 20th floor with cabanas and a lifeguard",
+          "Free cots and connecting rooms for families",
+          "Central Tahlia district for shopping and dining"
+        ],
+        "fr": [
+          "Appartements avec kitchenette pour cuisiner en famille",
+          "Piscine sur le toit au 20e étage, cabanas et maître-nageur",
+          "Lits bébé gratuits et chambres communicantes pour les familles",
+          "Quartier central de Tahlia pour le shopping et la restauration"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Kitchenette apartments make baby and toddler routines easy",
+          "Good value for a stylish Luxury Collection address",
+          "Rooftop pool with a lifeguard and shaded cabanas",
+          "Central for malls, restaurants and cafes"
+        ],
+        "fr": [
+          "Les appartements avec kitchenette facilitent les rythmes de bébé et de tout-petit",
+          "Bon rapport qualité-prix pour une adresse Luxury Collection stylée",
+          "Piscine sur le toit avec maître-nageur et cabanas ombragés",
+          "Central pour les centres commerciaux, les restaurants et les cafés"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Set back from the seafront, so the Corniche needs a taxi",
+          "One rooftop pool rather than a choice of family pools",
+          "No kids' club, and the vibe is urban rather than resort"
+        ],
+        "fr": [
+          "En retrait du front de mer, la Corniche se rejoint en taxi",
+          "Une seule piscine sur le toit plutôt qu'un choix de bassins familiaux",
+          "Pas de club enfants, et l'ambiance est urbaine plutôt que resort"
+        ]
+      },
+      "verdict": {
+        "en": "The smart-value, flexible pick for families who want kitchenette space and a central location over a beachfront setting. Book a serviced apartment if you have a baby or a fussy eater, and use the rooftop pool at the cooler ends of the day.",
+        "fr": "Le choix malin, souple et abordable pour les familles qui préfèrent l'espace d'un appartement et un emplacement central à un cadre en bord de mer. Réservez un appartement si vous avez un bébé ou un mangeur difficile, et profitez de la piscine du toit aux heures plus fraîches de la journée."
+      },
+      "parentTip": {
+        "en": "The kitchenette apartments are the reason to book here: bring familiar snacks and make your own breakfast to keep a baby or toddler on their usual rhythm, then use the rooftop pool before the midday sun or after five.",
+        "fr": "Les appartements avec kitchenette sont la raison de réserver ici: emportez des snacks familiers et préparez votre petit-déjeuner pour garder un bébé ou un tout-petit sur son rythme habituel, puis profitez de la piscine du toit avant le soleil de midi ou après dix-sept heures."
+      },
+      "atAGlance": [
+        {
+          "icon": "🍳",
+          "label": {
+            "en": "Apartments",
+            "fr": "Appartements"
+          },
+          "value": {
+            "en": "Kitchenettes for self-catering",
+            "fr": "Kitchenettes pour cuisiner"
+          }
+        },
+        {
+          "icon": "🏙️",
+          "label": {
+            "en": "Rooftop pool",
+            "fr": "Piscine sur le toit"
+          },
+          "value": {
+            "en": "20th floor, cabanas, lifeguard",
+            "fr": "20e étage, cabanas, maître-nageur"
+          }
+        },
+        {
+          "icon": "🛍️",
+          "label": {
+            "en": "Area",
+            "fr": "Quartier"
+          },
+          "value": {
+            "en": "Central Tahlia, shops and cafes",
+            "fr": "Tahlia central, boutiques et cafés"
+          }
+        },
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Little ones",
+            "fr": "Tout-petits"
+          },
+          "value": {
+            "en": "Free cots, connecting rooms",
+            "fr": "Lits bébé gratuits, chambres communicantes"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🍳",
+          "name": {
+            "en": "Apartment breakfast",
+            "fr": "Petit-déjeuner en appartement"
+          },
+          "detail": {
+            "en": "A kitchenette means you can make familiar food on a baby's timetable rather than waiting for a buffet.",
+            "fr": "Une kitchenette permet de préparer des plats familiers au rythme d'un bébé, sans attendre un buffet."
+          },
+          "ages": [
+            "baby",
+            "toddler"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matinée"
+          }
+        },
+        {
+          "emoji": "🏙️",
+          "name": {
+            "en": "Rooftop pool and skyline",
+            "fr": "Piscine du toit et skyline"
+          },
+          "detail": {
+            "en": "The 20th-floor pool has shaded cabanas and a lifeguard, best enjoyed early or late when the sun is lower.",
+            "fr": "La piscine du 20e étage a des cabanas ombragés et un maître-nageur, à savourer tôt ou tard quand le soleil est plus bas."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Late afternoon",
+            "fr": "Fin d'après-midi"
+          }
+        },
+        {
+          "emoji": "🏛️",
+          "name": {
+            "en": "Al-Balad by taxi",
+            "fr": "Al-Balad en taxi"
+          },
+          "detail": {
+            "en": "The historic old town is a short, cheap ride away and a lovely evening walk for older children.",
+            "fr": "La vieille ville historique est à un court trajet bon marché et fait une jolie balade du soir pour les plus grands."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soirée"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Breakfast in the apartment",
+            "fr": "Petit-déjeuner dans l'appartement"
+          },
+          "note": {
+            "en": "Familiar food on the little ones' schedule.",
+            "fr": "Des plats familiers au rythme des petits."
+          }
+        },
+        {
+          "time": "10:30",
+          "title": {
+            "en": "Aquarium or mall",
+            "fr": "Aquarium ou centre commercial"
+          },
+          "note": {
+            "en": "A cool indoor morning, either the aquarium or a nearby mall.",
+            "fr": "Une matinée au frais en intérieur, aquarium ou centre commercial voisin."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch and rest",
+            "fr": "Déjeuner et repos"
+          },
+          "note": {
+            "en": "Back to the apartment for lunch and a nap at peak heat.",
+            "fr": "Retour à l'appartement pour déjeuner et sieste au plus chaud."
+          }
+        },
+        {
+          "time": "17:30",
+          "title": {
+            "en": "Rooftop pool",
+            "fr": "Piscine sur le toit"
+          },
+          "note": {
+            "en": "A swim as the sun drops and the skyline lights up.",
+            "fr": "Une baignade quand le soleil baisse et que la skyline s'illumine."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "The kitchenette apartments and free cots are the real win for a baby, letting you keep feeds and naps on track.",
+          "fr": "Les appartements avec kitchenette et les lits bébé gratuits sont le vrai atout pour un bébé, ils permettent de garder repas et siestes sur les rails."
+        },
+        "toddler": {
+          "en": "Self-catering suits fussy eaters, and the game room and rooftop pool cover downtime, though there is no dedicated splash zone.",
+          "fr": "Cuisiner soi-même convient aux mangeurs difficiles, et la salle de jeux et la piscine du toit gèrent les temps calmes, même s'il n'y a pas de pataugeoire dédiée."
+        },
+        "kid": {
+          "en": "The central location, game room and rooftop pool work well, with the Corniche and aquarium a short taxi away.",
+          "fr": "L'emplacement central, la salle de jeux et la piscine du toit fonctionnent bien, avec la Corniche et l'aquarium à un court taxi."
+        },
+        "teen": {
+          "en": "Design-led and central among the shops and cafes of Tahlia, it suits teenagers who like to be near the action.",
+          "fr": "Design et central parmi les boutiques et cafés de Tahlia, il convient aux ados qui aiment être près de l'animation."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Are the apartments worth it for a family?",
+            "fr": "Les appartements valent-ils le coup pour une famille?"
+          },
+          "a": {
+            "en": "For families with a baby or a fussy eater, yes: a kitchenette lets you prepare familiar food and keep routines, which is a real relief on a longer stay. For a short city break, a standard family room is usually enough.",
+            "fr": "Pour les familles avec un bébé ou un mangeur difficile, oui: une kitchenette permet de préparer des plats familiers et de garder les rythmes, un vrai soulagement sur un séjour prolongé. Pour un court city break, une chambre familiale standard suffit en général."
+          }
+        },
+        {
+          "q": {
+            "en": "How far is the Corniche?",
+            "fr": "À quelle distance est la Corniche?"
+          },
+          "a": {
+            "en": "The hotel sits inland in the Tahlia district, so the Corniche and its fountain are a short taxi ride rather than a walk. In exchange you are central for malls, restaurants and cafes.",
+            "fr": "L'hôtel est en retrait, dans le quartier de Tahlia, la Corniche et sa fontaine sont donc à un court trajet en taxi plutôt qu'à pied. En échange, vous êtes central pour les centres commerciaux, les restaurants et les cafés."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there anywhere for children to swim?",
+            "fr": "Y a-t-il un endroit où les enfants peuvent nager?"
+          },
+          "a": {
+            "en": "There is a rooftop pool on the 20th floor with a lifeguard and shaded cabanas, best used in the cooler morning or evening hours. It is one pool rather than a family water complex, so keep little ones close.",
+            "fr": "Il y a une piscine sur le toit au 20e étage, avec maître-nageur et cabanas ombragés, à privilégier aux heures plus fraîches du matin ou du soir. C'est une seule piscine et non un complexe aquatique familial, gardez donc les petits à proximité."
+          }
+        }
+      ]
+    },
+    {
+      "key": "jeddah-hilton",
+      "destinationKey": "jeddah",
+      "name": "Jeddah Hilton",
+      "area": {
+        "en": "Al Shati, North Corniche",
+        "fr": "Al Shati, Corniche nord"
+      },
+      "lat": 21.6013,
+      "lng": 39.1088,
+      "zoom": 12,
+      "address": "Jeddah Hilton, Al Kurnaysh Road, Al Shati District, Jeddah, Saudi Arabia",
+      "priceTier": 3,
+      "priceFrom": 160,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly",
+        "city-base"
+      ],
+      "clubFree": false,
+      "photos": [
+        "poolPalms",
+        "coastTown",
+        "roomCozy"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 78,
+        "pool": 80,
+        "dining": 82,
+        "safety": 86,
+        "convenience": 82,
+        "location": 84,
+        "extras": 84
+      },
+      "roomsSummary": {
+        "en": "Comfortable, generously sized rooms and suites across a large resort-style complex on the north Corniche, with family rooms and connecting options and children up to eighteen staying free on existing bedding. Cribs are available and the sprawling grounds give little legs plenty of room.",
+        "fr": "Des chambres et suites confortables et de bonne taille, dans un vaste complexe façon resort sur la Corniche nord, avec chambres familiales et communicantes, et les enfants jusqu'à dix-huit ans logent gratuitement avec la literie existante. Des lits bébé sont disponibles et le grand parc offre de l'espace aux petites jambes."
+      },
+      "intro": {
+        "en": "This is the closest thing in the city to a beach resort, a large, established Hilton complex on the north Corniche with its own private beach, indoor and outdoor pools, tennis and squash courts and a kids' club. The family maths is friendly too: children up to eighteen stay free on existing bedding on room-only rates, under-fives eat free and six-to-elevens are half price, which quickly adds up for a family. The honest thing to know is the local pool arrangement: the outdoor pool is generally for children and men, with women using the pool and spa at the neighbouring Waldorf, so plan around that as a family. With private beach access, a kids' club and gentle pricing, it is the practical family base for those who want sand and a resort feel without leaving the city.",
+        "fr": "Voici ce qui se rapproche le plus d'un resort de plage en ville, un grand complexe Hilton bien établi sur la Corniche nord, avec sa propre plage privée, des piscines intérieure et extérieure, des courts de tennis et de squash et un club enfants. Le calcul familial est avantageux aussi: les enfants jusqu'à dix-huit ans logent gratuitement avec la literie existante en tarif chambre seule, les moins de cinq ans mangent gratuitement et les six-onze ans sont à moitié prix, ce qui grimpe vite pour une famille. Le point honnête à connaître, c'est l'organisation locale des piscines: la piscine extérieure est en général pour les enfants et les hommes, les femmes utilisant la piscine et le spa du Waldorf voisin, à anticiper en famille. Avec un accès à la plage privée, un club enfants et des tarifs doux, c'est la base familiale pratique pour qui veut du sable et une ambiance resort sans quitter la ville."
+      },
+      "highlights": {
+        "en": [
+          "Private beach access on the north Corniche",
+          "Indoor and outdoor pools, tennis and squash, and a kids' club",
+          "Children up to 18 stay free on existing bedding",
+          "Under-fives eat free, six-to-elevens half price"
+        ],
+        "fr": [
+          "Accès à une plage privée sur la Corniche nord",
+          "Piscines intérieure et extérieure, tennis et squash, et un club enfants",
+          "Les enfants jusqu'à 18 ans logent gratuitement avec la literie existante",
+          "Les moins de 5 ans mangent gratuitement, les 6-11 ans à moitié prix"
+        ]
+      },
+      "pros": {
+        "en": [
+          "The nearest thing to a beach resort within the city",
+          "Generous kids-stay-free and kids-eat-free deals",
+          "Big grounds, a kids' club and plenty of pool and beach space",
+          "Good value for a family compared with the Corniche towers"
+        ],
+        "fr": [
+          "Ce qui ressemble le plus à un resort de plage en ville",
+          "Offres généreuses enfants logés et enfants nourris gratuitement",
+          "Grand parc, un club enfants et beaucoup d'espace piscine et plage",
+          "Bon rapport qualité-prix pour une famille face aux tours de la Corniche"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The outdoor pool is generally for children and men; women use the Waldorf pool next door",
+          "It is a large, older complex, so quality varies by wing",
+          "The private beach is calm and enclosed rather than a wide open shore"
+        ],
+        "fr": [
+          "La piscine extérieure est en général pour les enfants et les hommes; les femmes utilisent la piscine du Waldorf voisin",
+          "C'est un grand complexe ancien, la qualité varie selon l'aile",
+          "La plage privée est calme et fermée plutôt qu'un large rivage ouvert"
+        ]
+      },
+      "verdict": {
+        "en": "The practical, good-value family base for those who want a private beach and a resort feel without leaving Jeddah, and the kids-stay-free deals sweeten it further. Go in aware of the gender-based pool arrangement and request a renovated room.",
+        "fr": "La base familiale pratique et d'un bon rapport qualité-prix pour qui veut une plage privée et une ambiance resort sans quitter Jeddah, et les offres enfants gratuits l'améliorent encore. Sachez que les piscines sont réparties par sexe et demandez une chambre rénovée."
+      },
+      "parentTip": {
+        "en": "Confirm the current pool arrangement for women and children when you book, so you know where your family can swim together, and ask for a recently renovated room since the complex is large and varies wing to wing.",
+        "fr": "Confirmez l'organisation actuelle des piscines pour les femmes et les enfants à la réservation, pour savoir où votre famille peut nager ensemble, et demandez une chambre récemment rénovée, car le complexe est vaste et varie d'une aile à l'autre."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Private beach access",
+            "fr": "Accès à une plage privée"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Indoor and outdoor, note pool rules",
+            "fr": "Intérieure et extérieure, voir les règles"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids stay free",
+            "fr": "Enfants gratuits"
+          },
+          "value": {
+            "en": "Up to 18 on existing bedding",
+            "fr": "Jusqu'à 18 ans, literie existante"
+          }
+        },
+        {
+          "icon": "🎾",
+          "label": {
+            "en": "Extras",
+            "fr": "Extras"
+          },
+          "value": {
+            "en": "Kids' club, tennis, squash",
+            "fr": "Club enfants, tennis, squash"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Private beach morning",
+            "fr": "Matinée sur la plage privée"
+          },
+          "detail": {
+            "en": "The hotel's own enclosed beach on the Red Sea is calm and shallow near the shore, best enjoyed before the midday heat.",
+            "fr": "La plage privée fermée de l'hôtel sur la mer Rouge est calme et peu profonde près du rivage, à savourer avant la chaleur de midi."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matinée"
+          }
+        },
+        {
+          "emoji": "🎾",
+          "name": {
+            "en": "Tennis and courts",
+            "fr": "Tennis et courts"
+          },
+          "detail": {
+            "en": "Tennis and squash courts on site give older children and teens something active to do in the cooler hours.",
+            "fr": "Les courts de tennis et de squash sur place donnent aux plus grands et aux ados de quoi bouger aux heures plus fraîches."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Late afternoon",
+            "fr": "Fin d'après-midi"
+          }
+        },
+        {
+          "emoji": "🐠",
+          "name": {
+            "en": "Fakieh Aquarium",
+            "fr": "Aquarium Fakieh"
+          },
+          "detail": {
+            "en": "The city aquarium is close by on the north Corniche, a reliable cool indoor outing with dolphin shows.",
+            "fr": "L'aquarium de la ville est tout proche sur la Corniche nord, une sortie au frais fiable en intérieur, avec spectacles de dauphins."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matinée"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Beach and pool",
+            "fr": "Plage et piscine"
+          },
+          "note": {
+            "en": "Start on the private beach and pool while it is cool.",
+            "fr": "Commencez sur la plage privée et à la piscine tant qu'il fait frais."
+          }
+        },
+        {
+          "time": "11:30",
+          "title": {
+            "en": "Kids' club or aquarium",
+            "fr": "Club enfants ou aquarium"
+          },
+          "note": {
+            "en": "Indoor time at the kids' club or a hop to the aquarium.",
+            "fr": "Un temps en intérieur au club enfants ou un saut à l'aquarium."
+          }
+        },
+        {
+          "time": "13:30",
+          "title": {
+            "en": "Lunch and rest",
+            "fr": "Déjeuner et repos"
+          },
+          "note": {
+            "en": "Family lunch with under-fives eating free, then a nap.",
+            "fr": "Déjeuner en famille, les moins de cinq ans gratuits, puis sieste."
+          }
+        },
+        {
+          "time": "17:00",
+          "title": {
+            "en": "Courts then Corniche",
+            "fr": "Courts puis Corniche"
+          },
+          "note": {
+            "en": "Tennis for the older ones, then a walk on the Corniche.",
+            "fr": "Tennis pour les plus grands, puis une balade sur la Corniche."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Cribs, big grounds and the shallow private beach edge suit a baby, though check where mum and baby can swim given the pool arrangement.",
+          "fr": "Lits bébé, grand parc et le bord de plage privée peu profond conviennent à un bébé, mais vérifiez où maman et bébé peuvent nager selon l'organisation des piscines."
+        },
+        "toddler": {
+          "en": "The calm private beach and the kids' club work well for toddlers, kept close to a parent in the water.",
+          "fr": "La plage privée calme et le club enfants fonctionnent bien pour les tout-petits, gardés près d'un parent dans l'eau."
+        },
+        "kid": {
+          "en": "Beach, pools, tennis and the kids' club give this age plenty to do, and they stay and often eat free.",
+          "fr": "Plage, piscines, tennis et club enfants donnent de quoi faire à cet âge, et ils logent et souvent mangent gratuitement."
+        },
+        "teen": {
+          "en": "Courts, the beach and staying free make it a comfortable, low-cost base for families with teenagers.",
+          "fr": "Les courts, la plage et la gratuité en font une base confortable et peu coûteuse pour les familles avec ados."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Can mothers and children swim together?",
+            "fr": "Les mères et les enfants peuvent-ils nager ensemble?"
+          },
+          "a": {
+            "en": "The arrangement follows local custom: the outdoor pool is generally for children and men, while women use the pool and spa at the neighbouring Waldorf. Arrangements can change, so confirm at booking where your family can swim together and when.",
+            "fr": "L'organisation suit l'usage local: la piscine extérieure est en général pour les enfants et les hommes, les femmes utilisant la piscine et le spa du Waldorf voisin. Cela peut évoluer, confirmez donc à la réservation où et quand votre famille peut nager ensemble."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the private beach good for young children?",
+            "fr": "La plage privée est-elle adaptée aux jeunes enfants?"
+          },
+          "a": {
+            "en": "Yes, it is calm and enclosed with shallow water near the shore, which suits paddling toddlers, though it is a hotel beach rather than a wide open stretch of sand. It is one of the few in-city hotels with real beach access.",
+            "fr": "Oui, elle est calme et fermée, avec de l'eau peu profonde près du rivage, ce qui convient aux tout-petits qui pataugent, même si c'est une plage d'hôtel et non une large étendue de sable. C'est l'un des rares hôtels en ville avec un vrai accès à la plage."
+          }
+        },
+        {
+          "q": {
+            "en": "Do the kids-stay-free deals really apply?",
+            "fr": "Les offres enfants gratuits s'appliquent-elles vraiment?"
+          },
+          "a": {
+            "en": "On room-only rates, children up to eighteen can stay free using existing bedding, under-fives eat free and six-to-elevens are half price. Terms depend on the rate you book, so confirm the details for your dates.",
+            "fr": "En tarif chambre seule, les enfants jusqu'à dix-huit ans peuvent loger gratuitement avec la literie existante, les moins de cinq ans mangent gratuitement et les six-onze ans sont à moitié prix. Les conditions dépendent du tarif réservé, vérifiez donc les détails pour vos dates."
+          }
+        }
+      ]
+    },
+    {
+      "key": "jeddah-intercontinental",
+      "destinationKey": "jeddah",
+      "name": "InterContinental Jeddah",
+      "area": {
+        "en": "Al Hamra, Corniche",
+        "fr": "Al Hamra, Corniche"
+      },
+      "lat": 21.556,
+      "lng": 39.149,
+      "zoom": 13,
+      "address": "InterContinental Jeddah, Al Kurnaysh Road (Corniche), Jeddah, Saudi Arabia",
+      "priceTier": 3,
+      "priceFrom": 160,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "baby-friendly",
+        "family-suites",
+        "toddler-friendly",
+        "city-base"
+      ],
+      "clubFree": false,
+      "photos": [
+        "infinityPoolSea",
+        "poolDusk",
+        "coastTown"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 76,
+        "pool": 80,
+        "dining": 82,
+        "safety": 86,
+        "convenience": 86,
+        "location": 88,
+        "extras": 76
+      },
+      "roomsSummary": {
+        "en": "Comfortable, well-kept rooms and suites, many with Red Sea and King Fahd's Fountain views, with family and connecting options for a family of four. Cots are available on request and the central Corniche position keeps everything close.",
+        "fr": "Des chambres et suites confortables et bien entretenues, beaucoup avec vue sur la mer Rouge et la fontaine du roi Fahd, avec options familiales et communicantes pour une famille de quatre. Les lits bébé sont disponibles sur demande et la position centrale sur la Corniche garde tout à proximité."
+      },
+      "intro": {
+        "en": "A dependable, well-located Corniche hotel five minutes from the commercial centre, the InterContinental is the sensible mid-range family pick, with an easy waterfront position and rooms that look over the Red Sea and King Fahd's Fountain. The draw for families is a spacious landscaped outdoor pool that genuinely works for children, plus a central location that puts the Corniche promenade, the fountain and the aquarium within a short reach. It is a classic business-and-leisure hotel rather than a splash resort, so there is no big kids' club or waterslides, but the pool, the sea views and the fair pricing make it a solid, no-fuss base for a city break. For families who want to be right on the seafront without paying palace rates, it is a reliable choice.",
+        "fr": "Hôtel fiable et bien situé sur la Corniche, à cinq minutes du centre des affaires, l'InterContinental est le choix familial de milieu de gamme raisonnable, avec une position facile en bord de mer et des chambres qui donnent sur la mer Rouge et la fontaine du roi Fahd. L'attrait pour les familles, c'est une piscine extérieure paysagère spacieuse qui fonctionne vraiment pour les enfants, plus un emplacement central qui met la promenade de la Corniche, la fontaine et l'aquarium à portée. C'est un classique hôtel affaires et loisirs plutôt qu'un resort à toboggans, il n'y a donc pas de grand club enfants, mais la piscine, les vues mer et les tarifs justes en font une base solide et sans histoires pour un city break. Pour les familles qui veulent être en bord de mer sans payer les tarifs de palace, c'est un choix fiable."
+      },
+      "highlights": {
+        "en": [
+          "Central Corniche position with Red Sea and fountain views",
+          "Spacious landscaped outdoor pool that suits children",
+          "Five minutes from the commercial centre and the fountain",
+          "Fair mid-range pricing on the seafront"
+        ],
+        "fr": [
+          "Position centrale sur la Corniche, vues mer Rouge et fontaine",
+          "Piscine extérieure paysagère spacieuse, adaptée aux enfants",
+          "À cinq minutes du centre des affaires et de la fontaine",
+          "Tarifs justes de milieu de gamme en bord de mer"
+        ]
+      },
+      "pros": {
+        "en": [
+          "A genuinely central seafront location for sightseeing",
+          "A big, comfortable pool that works for families",
+          "Good value against the nearby luxury towers",
+          "Close to the fountain, Corniche and aquarium"
+        ],
+        "fr": [
+          "Un emplacement en bord de mer vraiment central pour visiter",
+          "Une grande piscine confortable qui convient aux familles",
+          "Bon rapport qualité-prix face aux tours de luxe voisines",
+          "Proche de la fontaine, de la Corniche et de l'aquarium"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No kids' club or waterslides: it is a hotel, not a resort",
+          "Business-leaning, so the family extras are modest",
+          "No swimmable beach; the sea is a view, not a swim"
+        ],
+        "fr": [
+          "Pas de club enfants ni de toboggans: c'est un hôtel, pas un resort",
+          "Orienté affaires, les extras familiaux sont donc modestes",
+          "Pas de plage baignable; la mer se regarde, on n'y nage pas"
+        ]
+      },
+      "verdict": {
+        "en": "The reliable mid-range seafront choice for a Jeddah city break, with a good pool and unbeatable proximity to the fountain and Corniche, minus the resort frills. Book a sea-view room and treat the promenade as your evening entertainment.",
+        "fr": "Le choix milieu de gamme fiable en bord de mer pour un city break à Jeddah, avec une bonne piscine et une proximité imbattable avec la fontaine et la Corniche, sans les fioritures d'un resort. Réservez une chambre vue mer et faites de la promenade votre animation du soir."
+      },
+      "parentTip": {
+        "en": "Its best feature for families is location: you can walk out to the Corniche and the fountain in the cool of the evening, so plan busy pool time in the morning and sightseeing on foot after sunset.",
+        "fr": "Son meilleur atout pour les familles, c'est l'emplacement: on sort à pied vers la Corniche et la fontaine à la fraîche en soirée, prévoyez donc la piscine le matin et les visites à pied après le coucher du soleil."
+      },
+      "atAGlance": [
+        {
+          "icon": "📍",
+          "label": {
+            "en": "Location",
+            "fr": "Emplacement"
+          },
+          "value": {
+            "en": "Central Corniche seafront",
+            "fr": "Corniche centrale, bord de mer"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "Large landscaped outdoor pool",
+            "fr": "Grande piscine extérieure paysagère"
+          }
+        },
+        {
+          "icon": "⛲",
+          "label": {
+            "en": "Nearby",
+            "fr": "À proximité"
+          },
+          "value": {
+            "en": "Fountain and aquarium close",
+            "fr": "Fontaine et aquarium proches"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Value",
+            "fr": "Rapport qualité-prix"
+          },
+          "value": {
+            "en": "Mid-range on the seafront",
+            "fr": "Milieu de gamme en bord de mer"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "⛲",
+          "name": {
+            "en": "Fountain walk",
+            "fr": "Balade à la fontaine"
+          },
+          "detail": {
+            "en": "King Fahd's Fountain is a short walk along the Corniche and lights up each evening, a simple, free treat for children.",
+            "fr": "La fontaine du roi Fahd est à une courte marche sur la Corniche et s'illumine chaque soir, un plaisir simple et gratuit pour les enfants."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soirée"
+          }
+        },
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Poolside morning",
+            "fr": "Matinée au bord de la piscine"
+          },
+          "detail": {
+            "en": "The landscaped outdoor pool is roomy and family-friendly, best used before the sun gets too strong.",
+            "fr": "La piscine extérieure paysagère est spacieuse et familiale, à privilégier avant que le soleil ne tape trop fort."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matinée"
+          }
+        },
+        {
+          "emoji": "🏛️",
+          "name": {
+            "en": "Al-Balad old town",
+            "fr": "Vieille ville d'Al-Balad"
+          },
+          "detail": {
+            "en": "The UNESCO old town is a short taxi south, a lovely evening wander through coral-stone lanes with older children.",
+            "fr": "La vieille ville UNESCO est à un court taxi vers le sud, une jolie balade du soir dans les ruelles de pierre de corail avec les plus grands."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soirée"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast and pool",
+            "fr": "Petit-déjeuner et piscine"
+          },
+          "note": {
+            "en": "An early morning swim in the big outdoor pool.",
+            "fr": "Une baignade matinale dans la grande piscine extérieure."
+          }
+        },
+        {
+          "time": "11:00",
+          "title": {
+            "en": "Aquarium trip",
+            "fr": "Sortie à l'aquarium"
+          },
+          "note": {
+            "en": "A cool indoor morning at the nearby aquarium.",
+            "fr": "Une matinée au frais en intérieur à l'aquarium voisin."
+          }
+        },
+        {
+          "time": "14:00",
+          "title": {
+            "en": "Rest through the heat",
+            "fr": "Repos pendant la chaleur"
+          },
+          "note": {
+            "en": "Back to the room for lunch and a nap at peak heat.",
+            "fr": "Retour en chambre pour déjeuner et sieste au plus chaud."
+          }
+        },
+        {
+          "time": "18:30",
+          "title": {
+            "en": "Corniche and fountain",
+            "fr": "Corniche et fontaine"
+          },
+          "note": {
+            "en": "Walk out to the fountain as it lights up for the evening.",
+            "fr": "Sortez à pied vers la fontaine quand elle s'illumine pour la soirée."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Cots and a central, walkable seafront suit a baby, with the big pool handy, though there is no dedicated baby splash area.",
+          "fr": "Lits bébé et un front de mer central et piéton conviennent à un bébé, avec la grande piscine à portée, même s'il n'y a pas de pataugeoire bébé dédiée."
+        },
+        "toddler": {
+          "en": "The roomy outdoor pool works for toddlers with a parent close, and evening fountain walks are an easy win.",
+          "fr": "La piscine extérieure spacieuse convient aux tout-petits avec un parent proche, et les balades du soir à la fontaine sont une valeur sûre."
+        },
+        "kid": {
+          "en": "The pool and the central location for sightseeing keep this age happy, even without a kids' club.",
+          "fr": "La piscine et l'emplacement central pour visiter contentent cet âge, même sans club enfants."
+        },
+        "teen": {
+          "en": "Being able to walk to the Corniche, fountain and cafes suits teenagers who like a central base.",
+          "fr": "Pouvoir rejoindre à pied la Corniche, la fontaine et les cafés convient aux ados qui aiment une base centrale."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is there anything special for children here?",
+            "fr": "Y a-t-il quelque chose de spécial pour les enfants ici?"
+          },
+          "a": {
+            "en": "The main draw is the big, family-friendly outdoor pool and the central seafront location rather than a kids' club or slides. It is a comfortable base for a sightseeing city break rather than a self-contained resort.",
+            "fr": "L'attrait principal, c'est la grande piscine familiale et l'emplacement central en bord de mer, plutôt qu'un club enfants ou des toboggans. C'est une base confortable pour un city break axé visites, pas un resort autonome."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we walk to the sights?",
+            "fr": "Peut-on rejoindre les sites à pied?"
+          },
+          "a": {
+            "en": "The Corniche promenade and King Fahd's Fountain are within an easy walk in the cooler hours, and the aquarium is a short taxi. Al-Balad old town is a quick, cheap ride south.",
+            "fr": "La promenade de la Corniche et la fontaine du roi Fahd sont à une marche facile aux heures plus fraîches, et l'aquarium à un court taxi. La vieille ville d'Al-Balad est à un trajet rapide et bon marché vers le sud."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it good value for a family?",
+            "fr": "Est-ce un bon rapport qualité-prix pour une famille?"
+          },
+          "a": {
+            "en": "Yes, it sits well below the Corniche luxury towers while keeping a seafront position and a good pool, which makes it a sensible mid-range choice. Book a sea-view family room for the fountain and Red Sea outlook.",
+            "fr": "Oui, il se situe bien en dessous des tours de luxe de la Corniche tout en gardant une position en bord de mer et une bonne piscine, ce qui en fait un choix milieu de gamme raisonnable. Réservez une chambre familiale vue mer pour la fontaine et la mer Rouge."
+          }
+        }
+      ]
+    },
+    {
+      "key": "jeddah-rixos-obhur",
+      "destinationKey": "jeddah",
+      "name": "Rixos Obhur Jeddah Resort & Villas",
+      "area": {
+        "en": "Obhur, North Corniche",
+        "fr": "Obhur, Corniche nord"
+      },
+      "lat": 21.738,
+      "lng": 39.087,
+      "zoom": 12,
+      "address": "Rixos Obhur Jeddah Resort & Villas, Obhur Al Shamaliyah, Jeddah, Saudi Arabia",
+      "priceTier": 4,
+      "priceFrom": 400,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "beachSunset",
+        "whiteResortPool",
+        "poolPalms"
+      ],
+      "scores": {
+        "rooms": 84,
+        "baby": 84,
+        "pool": 90,
+        "dining": 86,
+        "safety": 86,
+        "convenience": 70,
+        "location": 82,
+        "extras": 92
+      },
+      "roomsSummary": {
+        "en": "A big spread of rooms, suites and private villas set among gardens, pools and a private beach, with plenty of family-sized layouts and villas that give larger families real separate space. Cots and high chairs are standard, and being all-inclusive, the food, snacks and kids' club are already covered.",
+        "fr": "Un large éventail de chambres, suites et villas privées, niché parmi jardins, piscines et une plage privée, avec beaucoup de configurations familiales et des villas qui offrent aux grandes familles un vrai espace séparé. Lits bébé et chaises hautes sont standards, et comme c'est du tout inclus, les repas, les snacks et le club enfants sont déjà compris."
+      },
+      "intro": {
+        "en": "About forty minutes north of the city in Obhur Bay, this is the family beach resort Jeddah otherwise lacks: the first true all-inclusive lifestyle resort in the area, with a private beach, a five-acre waterpark and Jeddah's only Rixy Kids Club. The all-inclusive board simply removes the daily maths, so the ice creams, snacks, drinks and the supervised kids' club with its six activity rooms, outdoor yard and private kids' pool are all in. There is a dedicated family beach and pool separate from the adults' areas, plenty of daily entertainment, and villas for families who want their own space. The honest trade-off is distance: you are a real drive from the Corniche sights, the aquarium and Al-Balad, so this is the beach-and-waterpark half of a Jeddah trip rather than the sightseeing half. For a proper family beach holiday with everything included, it is the clear pick.",
+        "fr": "À une quarantaine de minutes au nord de la ville, dans la baie d'Obhur, voici le resort de plage familial qui manque autrement à Jeddah: le premier vrai resort tout inclus lifestyle du secteur, avec plage privée, parc aquatique de cinq hectares et l'unique Rixy Kids Club de Jeddah. La formule tout inclus supprime simplement les calculs quotidiens: les glaces, les snacks, les boissons et le club enfants encadré, avec ses six salles d'activités, sa cour extérieure et son bassin enfants privé, sont tous compris. Il y a une plage et une piscine familiales dédiées, séparées des espaces adultes, beaucoup d'animation quotidienne, et des villas pour les familles qui veulent leur propre espace. Le compromis honnête, c'est la distance: on est à une vraie route des sites de la Corniche, de l'aquarium et d'Al-Balad, c'est donc la moitié plage et parc aquatique d'un voyage à Jeddah plutôt que la moitié visites. Pour de vraies vacances de plage en famille avec tout compris, c'est le choix évident."
+      },
+      "highlights": {
+        "en": [
+          "Private beach and a five-acre waterpark",
+          "Jeddah's only Rixy Kids Club, included in the all-inclusive",
+          "Dedicated family beach and pool, separate from adults' areas",
+          "Villas with space for larger families"
+        ],
+        "fr": [
+          "Plage privée et parc aquatique de cinq hectares",
+          "L'unique Rixy Kids Club de Jeddah, compris dans le tout inclus",
+          "Plage et piscine familiales dédiées, séparées des espaces adultes",
+          "Villas avec de l'espace pour les grandes familles"
+        ]
+      },
+      "pros": {
+        "en": [
+          "A real family beach resort with a waterpark, rare near Jeddah",
+          "All-inclusive removes every on-site spending decision",
+          "Supervised kids' club with its own pool, included in the board",
+          "Separate family beach and pool for peace of mind"
+        ],
+        "fr": [
+          "Un vrai resort de plage familial avec parc aquatique, rare près de Jeddah",
+          "Le tout inclus supprime toute décision de dépense sur place",
+          "Club enfants encadré avec sa propre piscine, compris dans la formule",
+          "Plage et piscine familiales séparées, pour la tranquillité d'esprit"
+        ]
+      },
+      "cons": {
+        "en": [
+          "About 40 minutes from the Corniche sights, aquarium and Al-Balad",
+          "The all-inclusive rate is a real splurge",
+          "Summer heat and humidity are fierce, even by the water"
+        ],
+        "fr": [
+          "À environ 40 minutes des sites de la Corniche, de l'aquarium et d'Al-Balad",
+          "Le tarif tout inclus est une vraie folie budgétaire",
+          "La chaleur et l'humidité d'été sont écrasantes, même au bord de l'eau"
+        ]
+      },
+      "verdict": {
+        "en": "The clear choice for a proper family beach holiday near Jeddah: a private beach, a waterpark and an included kids' club with zero daily spending decisions. Just accept the drive to the city sights, or pair it with a night or two on the Corniche.",
+        "fr": "Le choix évident pour de vraies vacances de plage en famille près de Jeddah: une plage privée, un parc aquatique et un club enfants compris, sans décision de dépense au quotidien. Acceptez simplement la route vers les sites de la ville, ou combinez avec une ou deux nuits sur la Corniche."
+      },
+      "parentTip": {
+        "en": "Split the trip: a few beach-and-waterpark days here on all-inclusive, then a night or two on the Corniche for the fountain, aquarium and Al-Balad, so you are not driving forty minutes each way for sightseeing.",
+        "fr": "Découpez le voyage: quelques jours plage et parc aquatique ici en tout inclus, puis une ou deux nuits sur la Corniche pour la fontaine, l'aquarium et Al-Balad, afin d'éviter les quarante minutes de route aller-retour pour visiter."
+      },
+      "atAGlance": [
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "All-inclusive",
+            "fr": "Tout inclus"
+          }
+        },
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water fun",
+            "fr": "Jeux d'eau"
+          },
+          "value": {
+            "en": "Five-acre waterpark",
+            "fr": "Parc aquatique de cinq hectares"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Private, with a family section",
+            "fr": "Privée, avec une section famille"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids' club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Rixy Kids Club, included",
+            "fr": "Rixy Kids Club, compris"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "Waterpark day",
+            "fr": "Journée au parc aquatique"
+          },
+          "detail": {
+            "en": "The five-acre waterpark, with a private kids' pool by the club, is the heart of the resort for children.",
+            "fr": "Le parc aquatique de cinq hectares, avec un bassin enfants privé près du club, est le coeur du resort pour les enfants."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Daytime",
+            "fr": "En journée"
+          }
+        },
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Family beach morning",
+            "fr": "Matinée sur la plage familiale"
+          },
+          "detail": {
+            "en": "The private family beach on Obhur Bay is calm and separate from the adults' areas, ideal for little paddlers.",
+            "fr": "La plage familiale privée sur la baie d'Obhur est calme et séparée des espaces adultes, idéale pour les petits qui pataugent."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matinée"
+          }
+        },
+        {
+          "emoji": "🎭",
+          "name": {
+            "en": "Rixy Kids Club",
+            "fr": "Rixy Kids Club"
+          },
+          "detail": {
+            "en": "Six activity rooms and an outdoor yard run supervised play and daily entertainment, all part of the all-inclusive.",
+            "fr": "Six salles d'activités et une cour extérieure proposent des jeux encadrés et de l'animation quotidienne, le tout compris dans le tout inclus."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Daytime",
+            "fr": "En journée"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Beach before the heat",
+            "fr": "Plage avant la chaleur"
+          },
+          "note": {
+            "en": "Start on the calm family beach while it is still cool.",
+            "fr": "Commencez sur la plage familiale calme tant qu'il fait frais."
+          }
+        },
+        {
+          "time": "11:00",
+          "title": {
+            "en": "Kids' club drop-in",
+            "fr": "Passage au club enfants"
+          },
+          "note": {
+            "en": "Supervised play while the sun peaks, included in the board.",
+            "fr": "Jeux encadrés quand le soleil est au zénith, compris dans la formule."
+          }
+        },
+        {
+          "time": "13:30",
+          "title": {
+            "en": "Lunch and rest",
+            "fr": "Déjeuner et repos"
+          },
+          "note": {
+            "en": "All-inclusive lunch, then a nap for the little ones.",
+            "fr": "Déjeuner tout inclus, puis sieste pour les petits."
+          }
+        },
+        {
+          "time": "16:30",
+          "title": {
+            "en": "Waterpark and shows",
+            "fr": "Parc aquatique et spectacles"
+          },
+          "note": {
+            "en": "Back to the slides as it cools, then evening entertainment.",
+            "fr": "Retour aux toboggans quand la fraîcheur arrive, puis animation du soir."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "The calm private family beach, cots and all-inclusive ease make a baby's day simple, well away from the busier adult areas.",
+          "fr": "La plage familiale privée et calme, les lits bébé et la simplicité du tout inclus rendent la journée d'un bébé facile, loin des espaces adultes plus animés."
+        },
+        "toddler": {
+          "en": "The private kids' pool, shallow beach and included club are perfect for toddlers, with a parent close in the water.",
+          "fr": "Le bassin enfants privé, la plage peu profonde et le club compris sont parfaits pour les tout-petits, avec un parent proche dans l'eau."
+        },
+        "kid": {
+          "en": "The waterpark and Rixy Kids Club are made for this age, with all-day entertainment included.",
+          "fr": "Le parc aquatique et le Rixy Kids Club sont faits pour cet âge, avec de l'animation toute la journée comprise."
+        },
+        "teen": {
+          "en": "Bigger slides, the beach and sports keep teenagers busy, and the all-inclusive means they can help themselves all day.",
+          "fr": "Les plus grands toboggans, la plage et le sport occupent les ados, et le tout inclus leur permet de se servir toute la journée."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "How far is it from the Jeddah sights?",
+            "fr": "À quelle distance est-on des sites de Jeddah?"
+          },
+          "a": {
+            "en": "It is in Obhur Bay, roughly forty minutes north of the Corniche, so the fountain, aquarium and Al-Balad are a real drive rather than a hop. Many families treat it as a beach resort in its own right and add a night or two in the city for sightseeing.",
+            "fr": "Il est dans la baie d'Obhur, à environ quarante minutes au nord de la Corniche, la fontaine, l'aquarium et Al-Balad sont donc une vraie route et non un saut de puce. Beaucoup de familles le voient comme un resort de plage à part entière et ajoutent une ou deux nuits en ville pour visiter."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the kids' club really included?",
+            "fr": "Le club enfants est-il vraiment compris?"
+          },
+          "a": {
+            "en": "Yes, the Rixy Kids Club, with its activity rooms, outdoor yard and private kids' pool, is part of the all-inclusive board along with meals, snacks and daily entertainment. Confirm the age range and any evening childcare when you book.",
+            "fr": "Oui, le Rixy Kids Club, avec ses salles d'activités, sa cour extérieure et son bassin enfants privé, fait partie de la formule tout inclus, avec les repas, les snacks et l'animation quotidienne. Confirmez la tranche d'âge et toute garderie du soir à la réservation."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a family beach separate from the adults?",
+            "fr": "Y a-t-il une plage familiale séparée des adultes?"
+          },
+          "a": {
+            "en": "Yes, the resort has a dedicated family beach and pool set apart from the adults' areas, which is reassuring with young children. The private beach on Obhur Bay is calmer and clearer than the city seafront.",
+            "fr": "Oui, le resort dispose d'une plage et d'une piscine familiales dédiées, à l'écart des espaces adultes, ce qui rassure avec de jeunes enfants. La plage privée sur la baie d'Obhur est plus calme et plus claire que le front de mer de la ville."
+          }
+        }
+      ]
+    }
+  ],
+  "destinationMeta": {
+    "name": {
+      "en": "Jeddah",
+      "fr": "Djeddah"
+    },
+    "country": {
+      "en": "Saudi Arabia",
+      "fr": "Arabie saoudite"
+    },
+    "emoji": "🌊",
+    "accent": "0e7c86",
+    "geo": {
+      "lat": 21.5433,
+      "lng": 39.1728,
+      "zoom": 11
+    },
+    "heroKicker": {
+      "en": "Red Sea Corniche, a UNESCO old town and easy winter warmth",
+      "fr": "Corniche sur la mer Rouge, une vieille ville UNESCO et une douce chaleur d'hiver"
+    },
+    "intro": {
+      "en": "Jeddah is Saudi Arabia's warm, laid-back Red Sea city, and its long Corniche is the heart of family life here, a seafront promenade of playgrounds, open-air art and the towering King Fahd's Fountain that lights up every night. The historic quarter of Al-Balad, a UNESCO World Heritage site of coral-stone houses and shaded lanes, is a gentle evening wander with older children, and the Fakieh Aquarium is the reliable cool-day outing with dolphin shows and touch tanks. What works with children is the walkable, relaxed seafront, the abundance of family-friendly hotels with good pools, and the sense that the whole city is set up for family evenings out. What does not work quite so well is the beach: the city seafront is a promenade rather than a swimming shore, so beach days mean a resort or a drive north to Obhur Bay, and the summer heat and humidity from June to September are genuinely fierce. Plan around the cooler mornings and evenings and October-to-April months, and Jeddah is a warm, welcoming and surprisingly easy family city break.",
+      "fr": "Djeddah est la ville chaude et décontractée de la mer Rouge en Arabie saoudite, et sa longue Corniche est le coeur de la vie de famille ici, une promenade de bord de mer faite d'aires de jeux, d'art en plein air et de l'imposante fontaine du roi Fahd qui s'illumine chaque nuit. Le quartier historique d'Al-Balad, site du patrimoine mondial de l'UNESCO aux maisons de pierre de corail et aux ruelles ombragées, se parcourt tranquillement le soir avec les plus grands, et l'aquarium Fakieh est la sortie fiable des jours de chaleur, avec ses spectacles de dauphins et ses bassins tactiles. Ce qui fonctionne avec des enfants, c'est le front de mer piéton et détendu, l'abondance d'hôtels familiaux dotés de bonnes piscines, et le sentiment que toute la ville est pensée pour les soirées en famille. Ce qui fonctionne moins bien, c'est la plage: le front de mer urbain est une promenade et non un rivage de baignade, les journées plage passent donc par un resort ou une route vers le nord, jusqu'à la baie d'Obhur, et la chaleur et l'humidité de l'été, de juin à septembre, sont vraiment écrasantes. En vous calant sur les matinées et soirées plus fraîches et sur les mois d'octobre à avril, vous ferez de Djeddah un city break familial chaleureux, accueillant et étonnamment facile."
+    },
+    "whyKids": {
+      "en": [
+        "A long, walkable Corniche promenade with playgrounds, open art and the King Fahd's Fountain",
+        "Family-friendly hotels with good pools all along the seafront",
+        "The Fakieh Aquarium with dolphin shows, a reliable cool-day outing",
+        "Al-Balad, a UNESCO old town that is a gentle evening wander for older kids",
+        "A private-beach resort and a waterpark up at Obhur Bay for a real beach day"
+      ],
+      "fr": [
+        "Une longue promenade piétonne sur la Corniche, avec aires de jeux, art en plein air et la fontaine du roi Fahd",
+        "Des hôtels familiaux dotés de bonnes piscines tout le long du front de mer",
+        "L'aquarium Fakieh avec ses spectacles de dauphins, une sortie fiable les jours de chaleur",
+        "Al-Balad, une vieille ville UNESCO qui se parcourt tranquillement le soir avec les plus grands",
+        "Un resort à plage privée et un parc aquatique à la baie d'Obhur pour une vraie journée plage"
+      ]
+    },
+    "bestAreas": {
+      "en": [
+        "The Corniche and Al Hamra: the seafront heart of the city, with the fountain, promenade and the sea-view hotels",
+        "Al Shati, north Corniche: near the aquarium and the one in-city hotel with a private beach",
+        "Al Andalus and Tahlia: a central shopping and dining district, handy for apartment-style family stays",
+        "Al-Balad: the historic UNESCO old town, best for evening sightseeing rather than staying",
+        "Obhur Bay, to the north: the beach-resort stretch with private sand and a waterpark, about 40 minutes out"
+      ],
+      "fr": [
+        "La Corniche et Al Hamra: le coeur balnéaire de la ville, avec la fontaine, la promenade et les hôtels vue mer",
+        "Al Shati, Corniche nord: près de l'aquarium et du seul hôtel en ville doté d'une plage privée",
+        "Al Andalus et Tahlia: un quartier central de shopping et de restaurants, pratique pour des séjours en appartement",
+        "Al-Balad: la vieille ville historique UNESCO, idéale pour les visites du soir plutôt que pour loger",
+        "La baie d'Obhur, au nord: la zone des resorts de plage, avec sable privé et parc aquatique, à environ 40 minutes"
+      ]
+    },
+    "stats": [
+      {
+        "value": "30 to 40C",
+        "label": {
+          "en": "Typical daytime warmth, hotter in summer",
+          "fr": "Chaleur habituelle de journée, plus élevée en été"
+        }
+      },
+      {
+        "value": "Red Sea",
+        "label": {
+          "en": "Warm sea, clearest up at Obhur",
+          "fr": "Mer chaude, plus claire vers Obhur"
+        }
+      },
+      {
+        "value": "~6 hrs",
+        "label": {
+          "en": "Flight from western Europe",
+          "fr": "Vol depuis l'Europe de l'Ouest"
+        }
+      },
+      {
+        "value": "UNESCO",
+        "label": {
+          "en": "Al-Balad historic old town",
+          "fr": "Vieille ville historique d'Al-Balad"
+        }
+      }
+    ],
+    "activities": [
+      {
+        "emoji": "⛲",
+        "name": {
+          "en": "Corniche and King Fahd's Fountain",
+          "fr": "Corniche et fontaine du roi Fahd"
+        },
+        "detail": {
+          "en": "The seafront promenade is dotted with playgrounds and open-air sculpture, and the world's tallest fountain lights up each evening for a free family walk.",
+          "fr": "La promenade du front de mer est parsemée d'aires de jeux et de sculptures en plein air, et la plus haute fontaine du monde s'illumine chaque soir pour une balade familiale gratuite."
+        },
+        "ages": [
+          "baby",
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Evening",
+          "fr": "Soirée"
+        }
+      },
+      {
+        "emoji": "🐬",
+        "name": {
+          "en": "Fakieh Aquarium",
+          "fr": "Aquarium Fakieh"
+        },
+        "detail": {
+          "en": "The city's aquarium on the north Corniche has dolphin and sea lion shows, touch tanks and rays, a reliable cool morning indoors when the sun is high.",
+          "fr": "L'aquarium de la ville, sur la Corniche nord, propose des spectacles de dauphins et d'otaries, des bassins tactiles et des raies, une matinée au frais fiable en intérieur quand le soleil est haut."
+        },
+        "ages": [
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Morning",
+          "fr": "Matinée"
+        }
+      },
+      {
+        "emoji": "🏛️",
+        "name": {
+          "en": "Al-Balad old town",
+          "fr": "Vieille ville d'Al-Balad"
+        },
+        "detail": {
+          "en": "The UNESCO-listed historic quarter, with coral-stone merchant houses and shaded lanes, comes alive in the cool evening for a gentle wander and a snack.",
+          "fr": "Le quartier historique classé à l'UNESCO, avec ses maisons de marchands en pierre de corail et ses ruelles ombragées, s'anime à la fraîche le soir pour une balade tranquille et un en-cas."
+        },
+        "ages": [
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Evening",
+          "fr": "Soirée"
+        }
+      },
+      {
+        "emoji": "🐠",
+        "name": {
+          "en": "Snorkelling at Obhur",
+          "fr": "Snorkeling à Obhur"
+        },
+        "detail": {
+          "en": "North of the city, Obhur Bay has the clear, calm Red Sea water and reefs for a first snorkel with older children, and the family beach resorts to base from.",
+          "fr": "Au nord de la ville, la baie d'Obhur offre une eau claire et calme de la mer Rouge et des récifs pour un premier snorkeling avec les plus grands, et les resorts de plage familiaux comme point de chute."
+        },
+        "ages": [
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Day trip",
+          "fr": "Excursion à la journée"
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "q": {
+          "en": "Can we swim in the sea in Jeddah?",
+          "fr": "Peut-on se baigner dans la mer à Djeddah?"
+        },
+        "a": {
+          "en": "Not from the city Corniche, which is a promenade rather than a swimming beach. For sea swimming you either use a hotel with private beach access, such as the Jeddah Hilton, or drive north to the Obhur Bay beach resorts, where the water is clearer and calmer. In the city itself, swimming happens in the hotel pools.",
+          "fr": "Pas depuis la Corniche urbaine, qui est une promenade et non une plage de baignade. Pour nager en mer, on utilise soit un hôtel avec accès à une plage privée, comme le Jeddah Hilton, soit on file au nord vers les resorts de plage de la baie d'Obhur, où l'eau est plus claire et plus calme. En ville même, la baignade se fait dans les piscines des hôtels."
+        }
+      },
+      {
+        "q": {
+          "en": "When is the best time to visit with children?",
+          "fr": "Quelle est la meilleure période pour venir avec des enfants?"
+        },
+        "a": {
+          "en": "October to April is the family season, with warm, pleasant days and comfortable evenings for the Corniche and sightseeing. The summer, from June to September, brings fierce heat and high humidity, so it works mainly as an indoor and hotel-pool holiday, ideally in hotels with temperature-controlled indoor pools.",
+          "fr": "D'octobre à avril, c'est la saison des familles, avec des journées chaudes et agréables et des soirées confortables pour la Corniche et les visites. L'été, de juin à septembre, apporte une chaleur écrasante et une forte humidité, il fonctionne donc surtout en version intérieur et piscine d'hôtel, idéalement dans des hôtels dotés de piscines intérieures à température régulée."
+        }
+      },
+      {
+        "q": {
+          "en": "Is Jeddah family-friendly and easy to get around?",
+          "fr": "Djeddah est-elle accueillante pour les familles et facile à parcourir?"
+        },
+        "a": {
+          "en": "Yes, it is a relaxed, welcoming city where families are out on the Corniche late into the evening, and it is conservative but very easy with children. There is no metro, so you get around by taxi or ride-hailing app and, for the north beaches, by car; taxis do not carry child seats, so bring a travel booster if you use one.",
+          "fr": "Oui, c'est une ville détendue et accueillante où les familles sont sur la Corniche tard le soir, conservatrice mais très facile avec des enfants. Il n'y a pas de métro, on se déplace donc en taxi ou en application de VTC et, pour les plages du nord, en voiture; les taxis ne fournissent pas de siège enfant, prévoyez un réhausseur de voyage si vous en utilisez un."
+        }
+      },
+      {
+        "q": {
+          "en": "Do we need to worry about local customs with kids?",
+          "fr": "Faut-il s'inquiéter des usages locaux avec des enfants?"
+        },
+        "a": {
+          "en": "Not really, beyond a little planning: dress modestly in public and malls, expect hotel pools and spas to often be gender-segregated in the local way, and note the city is alcohol-free. During Ramadan, daytime eating in public is limited, though hotels carry on as usual. Families are made very welcome, and children are genuinely doted on.",
+          "fr": "Pas vraiment, au-delà d'un peu d'anticipation: tenue couvrante en public et dans les centres commerciaux, piscines et spas d'hôtel souvent séparés par sexe à la manière locale, et une ville sans alcool. Pendant le ramadan, manger en public en journée est limité, même si les hôtels fonctionnent normalement. Les familles sont très bien accueillies, et les enfants vraiment choyés."
+        }
+      }
+    ],
+    "parentTip": {
+      "en": "Build the days around the heat: pool or beach and outings in the cooler morning, a proper rest through the fierce midday hours, then the Corniche, the fountain and Al-Balad in the pleasant evening, when the whole city comes out with its children. It is the local rhythm, and it makes the trip.",
+      "fr": "Organisez les journées autour de la chaleur: piscine ou plage et sorties le matin plus frais, un vrai repos pendant les heures écrasantes de midi, puis la Corniche, la fontaine et Al-Balad dans la soirée agréable, quand toute la ville sort avec ses enfants. C'est le rythme local, et c'est lui qui fait le voyage."
+    },
+    "goodToKnow": {
+      "en": "King Abdulaziz International Airport is the regional hub and about six hours from western Europe, an easy first long-haul. There is no metro, so plan on taxis, ride-hailing apps or a hire car, and note the Obhur beach resorts are a real drive north. Summer heat and humidity from June to September are intense, so October to April is the family window. Jeddah is conservative but genuinely family-friendly and safe, and the city is alcohol-free, with hotel pools and spas often gender-segregated in the local way, so check where your family can swim together. Sun protection matters year-round, taxis do not carry child seats, and the city beaches are mostly private resort or club access rather than open public swimming shores.",
+      "fr": "L'aéroport international du roi Abdulaziz est le hub régional, à environ six heures de l'Europe de l'Ouest, un premier long-courrier facile. Il n'y a pas de métro, prévoyez donc taxis, applications de VTC ou voiture de location, et sachez que les resorts de plage d'Obhur sont à une vraie route au nord. La chaleur et l'humidité d'été, de juin à septembre, sont intenses, la fenêtre familiale va donc d'octobre à avril. Djeddah est conservatrice mais vraiment accueillante pour les familles et sûre, la ville est sans alcool, et les piscines et spas d'hôtel sont souvent séparés par sexe à la manière locale, vérifiez donc où votre famille peut nager ensemble. La protection solaire compte toute l'année, les taxis ne fournissent pas de siège enfant, et les plages de la ville relèvent surtout d'un accès privé de resort ou de club plutôt que de rivages publics ouverts à la baignade."
+    },
+    "photos": [
+      "infinityPoolSea",
+      "coastTown",
+      "beachSunset"
+    ]
+  }
+}

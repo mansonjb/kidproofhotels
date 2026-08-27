@@ -64,6 +64,8 @@ import rimini from "./rimini.json";
 import belek from "./belek.json";
 import abuDhabi from "./abu-dhabi.json";
 import disneylandParis from "./disneyland-paris.json";
+import alula from "./alula.json";
+import jeddah from "./jeddah.json";
 
 // Hotels are authored as JSON seeds (researched + drafted) and mapped to the
 // Hotel shape here: geo assembled, a clean unique slug generated per property,
@@ -74,7 +76,7 @@ type SeedFile = {
   destinationMeta?: Record<string, unknown>;
 };
 
-const FILES = [lisbon, algarve, costa, mallorca, tenerife, crete, antalya, sardinia, costaBlanca, rhodes, granCanaria, cyprus, sicily, corfu, fuerteventura, barcelona, lanzarote, menorca, kos, valencia, malta, zakynthos, madeira, costaDorada, seville, halkidiki, puglia, hurghada, sousse, sharm, bodrum, sal, reunion, saintMartin, dubai, martinique, guadeloupe, ibiza, laPalma, agadir, lakeGarda, frenchRiviera, costaBrava, djerba, marrakech, costaLuz, mauritius, istria, costaAlmeria, puntaCana, frenchAlps, marMenor, naxosParos, costaNavarino, marsaAlam, hammamet, rivieraMaya, kefalonia, rimini, belek, abuDhabi, disneylandParis] as unknown as SeedFile[];
+const FILES = [lisbon, algarve, costa, mallorca, tenerife, crete, antalya, sardinia, costaBlanca, rhodes, granCanaria, cyprus, sicily, corfu, fuerteventura, barcelona, lanzarote, menorca, kos, valencia, malta, zakynthos, madeira, costaDorada, seville, halkidiki, puglia, hurghada, sousse, sharm, bodrum, sal, reunion, saintMartin, dubai, martinique, guadeloupe, ibiza, laPalma, agadir, lakeGarda, frenchRiviera, costaBrava, djerba, marrakech, costaLuz, mauritius, istria, costaAlmeria, puntaCana, frenchAlps, marMenor, naxosParos, costaNavarino, marsaAlam, hammamet, rivieraMaya, kefalonia, rimini, belek, abuDhabi, disneylandParis, alula, jeddah] as unknown as SeedFile[];
 
 /** Loosely-typed per-destination meta (used to build newer Destinations). */
 export const MALLORCA_META = (mallorca as unknown as SeedFile).destinationMeta as
@@ -252,6 +254,12 @@ export const ABU_DHABI_META = (abuDhabi as unknown as SeedFile).destinationMeta 
   | Record<string, unknown>
   | undefined;
 export const DISNEYLAND_PARIS_META = (disneylandParis as unknown as SeedFile).destinationMeta as
+  | Record<string, unknown>
+  | undefined;
+export const ALULA_META = (alula as unknown as SeedFile).destinationMeta as
+  | Record<string, unknown>
+  | undefined;
+export const JEDDAH_META = (jeddah as unknown as SeedFile).destinationMeta as
   | Record<string, unknown>
   | undefined;
 

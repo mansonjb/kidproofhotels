@@ -1,0 +1,2641 @@
+{
+  "hotels": [
+    {
+      "key": "alula-banyan-tree-alula",
+      "destinationKey": "alula",
+      "name": "Banyan Tree AlUla",
+      "area": {
+        "en": "Ashar Valley",
+        "fr": "Vallée d'Ashar"
+      },
+      "lat": 26.6919,
+      "lng": 37.9876,
+      "zoom": 13,
+      "address": "Banyan Tree AlUla, Ashar Valley, AlUla, Al Madinah Province, Saudi Arabia",
+      "priceTier": 4,
+      "priceFrom": 900,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "poolTropicalMtn",
+        "villaInterior",
+        "poolDusk"
+      ],
+      "scores": {
+        "rooms": 90,
+        "baby": 72,
+        "pool": 88,
+        "dining": 84,
+        "safety": 82,
+        "convenience": 60,
+        "location": 92,
+        "extras": 90
+      },
+      "roomsSummary": {
+        "en": "Standalone tented villas spread along the canyon floor, from one bedroom up to a three-bedroom villa that sleeps a whole family in comfort, and most come with their own private pool and a fire pit outside. Cots and high chairs are provided on request, and because each villa is its own separate structure you get real space and quiet for a baby's nap rather than a thin hotel wall.",
+        "fr": "Des villas-tentes indépendantes réparties au fond du canyon, de une chambre jusqu'à une villa de trois chambres qui loge toute une famille sans serrer, et la plupart disposent de leur propre piscine privée et d'un foyer extérieur. Lits bébé et chaises hautes sont fournis sur demande, et comme chaque villa est une structure séparée, on a un vrai espace et du calme pour la sieste d'un bébé, loin d'une simple cloison d'hôtel."
+      },
+      "intro": {
+        "en": "This is the grand address of AlUla, a scattering of canvas-roofed villas along the Ashar Valley floor where ochre cliffs rise straight up on either side. For families the draw is space and privacy: a private-pool villa means the children can splash all day steps from the door without sharing with anyone, and the bigger villas genuinely fit two adults and three kids. There is an infinity pool and a natural rock pool for the shared moments, a family-friendly restaurant, and desert activities (buggy rides, oasis walks, stargazing) that older children love. It is a serious splurge and it is remote, with no kids club and long drives to the sights, so it suits families who want a calm, beautiful desert base rather than a resort full of organised entertainment.",
+        "fr": "Voici la grande adresse d'AlUla, une constellation de villas coiffées de toile au fond de la vallée d'Ashar, là où les falaises ocre montent à la verticale de part et d'autre. Pour les familles, l'atout tient à l'espace et à l'intimité: une villa à piscine privée, c'est des enfants qui barbotent toute la journée à deux pas de la porte sans partager avec personne, et les grandes villas logent vraiment deux adultes et trois enfants. Il y a une piscine à débordement et un bassin naturel dans la roche pour les moments partagés, un restaurant qui accueille bien les familles, et des activités du désert (sorties en buggy, balades dans l'oasis, observation des étoiles) que les plus grands adorent. C'est une vraie folie budgétaire et c'est isolé, sans club enfants et avec de longs trajets vers les sites, cela convient donc aux familles qui veulent une base calme et magnifique dans le désert plutôt qu'un resort rempli d'animations organisées."
+      },
+      "highlights": {
+        "en": [
+          "Private-pool villas so the kids swim right at the door",
+          "Three-bedroom villa sleeps a full family",
+          "Infinity pool and a natural rock pool to share",
+          "Desert buggy rides, oasis walks and stargazing"
+        ],
+        "fr": [
+          "Villas à piscine privée, les enfants nagent à la porte",
+          "Villa de trois chambres pour toute une famille",
+          "Piscine à débordement et bassin naturel dans la roche",
+          "Sorties en buggy, balades dans l'oasis et étoiles"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Private pools mean total freedom with young children",
+          "Huge, separate villas give real space and quiet naps",
+          "One of the most beautiful desert settings anywhere",
+          "Kitchen and lounge space in the larger villas suit families"
+        ],
+        "fr": [
+          "Les piscines privées donnent une liberté totale avec de jeunes enfants",
+          "Villas immenses et séparées: vrai espace et siestes au calme",
+          "L'un des plus beaux cadres désertiques qui soient",
+          "Espace cuisine et salon des grandes villas adapté aux familles"
+        ]
+      },
+      "cons": {
+        "en": [
+          "A serious splurge, among the priciest stays in AlUla",
+          "No kids club and no organised children's programme",
+          "Remote: a car and 20 to 40 minute drives to the sights"
+        ],
+        "fr": [
+          "Une vraie folie budgétaire, parmi les séjours les plus chers d'AlUla",
+          "Pas de club enfants ni de programme organisé pour les petits",
+          "Isolé: voiture indispensable et trajets de 20 à 40 minutes vers les sites"
+        ]
+      },
+      "verdict": {
+        "en": "The special-occasion choice for families who want privacy, space and a private pool in a jaw-dropping canyon, and can absorb the price. Book a private-pool villa and treat the desert itself, not a kids club, as the entertainment.",
+        "fr": "Le choix des grandes occasions pour les familles en quête d'intimité, d'espace et d'une piscine privée dans un canyon à couper le souffle, et qui peuvent absorber le tarif. Réservez une villa à piscine privée et considérez le désert lui-même, pas un club enfants, comme l'animation."
+      },
+      "parentTip": {
+        "en": "Ask for a villa with its own pool and request it be positioned away from the main paths: the private pool turns the fierce midday heat into the best part of the toddlers' day, right outside your door.",
+        "fr": "Demandez une villa avec sa propre piscine et sollicitez un emplacement à l'écart des allées principales: la piscine privée transforme la chaleur écrasante de midi en meilleur moment de la journée des tout-petits, juste devant la porte."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Private pools",
+            "fr": "Piscines privées"
+          },
+          "value": {
+            "en": "Most villas have their own",
+            "fr": "La plupart des villas en ont une"
+          }
+        },
+        {
+          "icon": "🏡",
+          "label": {
+            "en": "Family villas",
+            "fr": "Villas familiales"
+          },
+          "value": {
+            "en": "Up to three bedrooms",
+            "fr": "Jusqu'à trois chambres"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "None, desert activities instead",
+            "fr": "Aucun, activités du désert à la place"
+          }
+        },
+        {
+          "icon": "🚗",
+          "label": {
+            "en": "Getting around",
+            "fr": "Déplacements"
+          },
+          "value": {
+            "en": "Car needed for the sights",
+            "fr": "Voiture nécessaire pour les sites"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Private pool mornings",
+            "fr": "Matinées à la piscine privée"
+          },
+          "detail": {
+            "en": "Your villa pool is shaded and quiet, ideal for babies and toddlers before the heat peaks.",
+            "fr": "La piscine de votre villa est ombragée et calme, idéale pour bébés et tout-petits avant le pic de chaleur."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🛞",
+          "name": {
+            "en": "Desert buggy ride",
+            "fr": "Sortie en buggy dans le désert"
+          },
+          "detail": {
+            "en": "A guided drive across the sands that older kids find thrilling, with car seats to arrange in advance.",
+            "fr": "Une virée guidée sur le sable que les plus grands trouvent grisante, avec sièges auto à organiser à l'avance."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        },
+        {
+          "emoji": "✨",
+          "name": {
+            "en": "Stargazing",
+            "fr": "Observation des étoiles"
+          },
+          "detail": {
+            "en": "AlUla's dark skies put on a show; the resort runs sessions the whole family can join after dinner.",
+            "fr": "Le ciel très sombre d'AlUla offre un spectacle; le resort propose des séances que toute la famille peut suivre après le dîner."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soirée"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Breakfast before the heat",
+            "fr": "Petit-déjeuner avant la chaleur"
+          },
+          "note": {
+            "en": "Eat early while it is still cool, the light on the cliffs is best now too.",
+            "fr": "Mangez tôt tant qu'il fait frais, la lumière sur les falaises est aussi la plus belle à cette heure."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Villa pool and shade",
+            "fr": "Piscine de la villa et ombre"
+          },
+          "note": {
+            "en": "Splash time at your own pool, then hide from the midday sun indoors.",
+            "fr": "Baignade dans votre piscine, puis on se met à l'abri du soleil de midi à l'intérieur."
+          }
+        },
+        {
+          "time": "16:30",
+          "title": {
+            "en": "Buggy or oasis walk",
+            "fr": "Buggy ou balade dans l'oasis"
+          },
+          "note": {
+            "en": "Head out once the sun drops for a desert adventure the kids will remember.",
+            "fr": "On sort une fois le soleil descendu pour une aventure du désert que les enfants garderont en mémoire."
+          }
+        },
+        {
+          "time": "20:00",
+          "title": {
+            "en": "Dinner and stars",
+            "fr": "Dîner et étoiles"
+          },
+          "note": {
+            "en": "Family dinner followed by the night sky, no light pollution out here.",
+            "fr": "Dîner en famille suivi du ciel nocturne, aucune pollution lumineuse par ici."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Separate private-pool villas give the space and quiet a baby needs, with cots on request, though the remoteness means planning every supply run.",
+          "fr": "Les villas séparées à piscine privée offrent l'espace et le calme dont un bébé a besoin, avec lits bébé sur demande, mais l'isolement oblige à anticiper chaque approvisionnement."
+        },
+        "toddler": {
+          "en": "The private pool is a toddler's paradise, but watch the fire pit and the open desert edges around each villa.",
+          "fr": "La piscine privée est un paradis pour tout-petit, mais surveillez le foyer et les abords ouverts sur le désert autour de chaque villa."
+        },
+        "kid": {
+          "en": "Buggy rides, rock pools and stargazing keep this age genuinely happy without any kids club.",
+          "fr": "Buggys, bassins dans la roche et étoiles rendent cet âge vraiment heureux sans aucun club enfants."
+        },
+        "teen": {
+          "en": "Teens love the adventure side (hiking, buggies, photography) and the striking, share-worthy setting.",
+          "fr": "Les ados adorent le côté aventure (randonnée, buggys, photo) et le décor spectaculaire et très instagrammable."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is it really suitable for a baby?",
+            "fr": "Est-ce vraiment adapté à un bébé?"
+          },
+          "a": {
+            "en": "Yes, the separate villas with private pools give unusual space and calm, and cots are provided. The catch is the remoteness: it is a long drive to shops and sights, so bring what you need and expect a quiet, self-contained stay.",
+            "fr": "Oui, les villas séparées à piscine privée offrent un espace et un calme rares, et les lits bébé sont fournis. Le bémol, c'est l'isolement: les commerces et les sites sont loin en voiture, alors emportez le nécessaire et attendez-vous à un séjour tranquille et autonome."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a kids club?",
+            "fr": "Y a-t-il un club enfants?"
+          },
+          "a": {
+            "en": "No. There is no supervised kids club here; the entertainment is the desert itself, with buggy rides, oasis walks and stargazing. Families who want organised childcare should look at a larger resort.",
+            "fr": "Non. Il n'y a pas de club enfants encadré ici; l'animation, c'est le désert lui-même, avec buggys, balades dans l'oasis et observation des étoiles. Les familles qui veulent une garderie organisée devraient regarder un resort plus grand."
+          }
+        },
+        {
+          "q": {
+            "en": "Do we need a car?",
+            "fr": "Faut-il une voiture?"
+          },
+          "a": {
+            "en": "Effectively yes. The resort is deep in the Ashar Valley and the sights are a 20 to 40 minute drive, so a hire car or arranged transfers make the stay far easier with children.",
+            "fr": "En pratique, oui. Le resort est au fond de la vallée d'Ashar et les sites sont à 20 à 40 minutes de route, une voiture de location ou des transferts organisés rendent donc le séjour bien plus simple avec des enfants."
+          }
+        }
+      ]
+    },
+    {
+      "key": "alula-our-habitas-alula",
+      "destinationKey": "alula",
+      "name": "Our Habitas AlUla",
+      "area": {
+        "en": "Ashar Valley",
+        "fr": "Vallée d'Ashar"
+      },
+      "lat": 26.6845,
+      "lng": 37.9902,
+      "zoom": 13,
+      "address": "Our Habitas AlUla, Ashar Valley, AlUla, Al Madinah Province, Saudi Arabia",
+      "priceTier": 4,
+      "priceFrom": 700,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "poolTropicalMtn",
+        "villaModern",
+        "resortLoungers"
+      ],
+      "scores": {
+        "rooms": 86,
+        "baby": 74,
+        "pool": 84,
+        "dining": 82,
+        "safety": 82,
+        "convenience": 62,
+        "location": 90,
+        "extras": 88
+      },
+      "roomsSummary": {
+        "en": "A spread of freestanding villas among the palm groves, each with a private deck and canyon views, in Alcove, Canyon and Celestial styles that mostly hold a family of three to four. Children stay free in the parent's villa, cots come on request, and a handful of larger villas suit bigger families, so ask about the two-key or connecting options when you book.",
+        "fr": "Un ensemble de villas indépendantes parmi les palmeraies, chacune avec terrasse privée et vue sur le canyon, en styles Alcove, Canyon et Celestial qui logent le plus souvent une famille de trois à quatre. Les enfants séjournent gratuitement dans la villa des parents, les lits bébé arrivent sur demande, et quelques villas plus grandes conviennent aux familles nombreuses, pensez donc à demander les options à deux clés ou communicantes à la réservation."
+      },
+      "intro": {
+        "en": "Our Habitas is the boho-chic desert resort that put AlUla on the wish list, a village of 96 low-slung villas tucked among date palms with the sandstone walls of the Ashar Valley all around. For families it strikes a nice balance: children of all ages are welcome and stay free in your villa, there is a striking infinity pool plus an indoor pool, and the vibe is relaxed rather than formal, so nobody minds a splashing toddler. Meals are wholesome and served in a communal, sociable way, and the activity menu (wellness, canyon walks, stargazing) works well for older kids and parents alike. Like the whole valley it is remote with no dedicated kids club, and the design-led villas prize openness over baby-proofing, both worth planning around.",
+        "fr": "Our Habitas, c'est le resort du désert bohème chic qui a placé AlUla sur les listes de rêves, un village de 96 villas basses nichées parmi les dattiers, avec les parois de grès de la vallée d'Ashar tout autour. Pour les familles, l'équilibre est agréable: les enfants de tout âge sont les bienvenus et logent gratuitement dans votre villa, il y a une superbe piscine à débordement plus une piscine intérieure, et l'ambiance est décontractée plutôt que guindée, personne ne s'offusque d'un tout-petit qui éclabousse. Les repas sont sains et servis de façon conviviale et partagée, et le menu d'activités (bien-être, marches dans le canyon, étoiles) plaît autant aux plus grands qu'aux parents. Comme toute la vallée, c'est isolé et sans club enfants dédié, et les villas au design épuré privilégient l'ouverture sur la sécurisation pour les petits, deux points à anticiper."
+      },
+      "highlights": {
+        "en": [
+          "Children of all ages welcome and stay free in your villa",
+          "Striking infinity pool plus an indoor pool",
+          "Relaxed boho vibe where families feel at ease",
+          "Wellness, canyon walks and stargazing on the doorstep"
+        ],
+        "fr": [
+          "Enfants de tout âge bienvenus et gratuits dans votre villa",
+          "Superbe piscine à débordement plus une piscine intérieure",
+          "Ambiance bohème détendue où les familles se sentent à l'aise",
+          "Bien-être, marches dans le canyon et étoiles juste devant"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Kids stay free, which softens the desert-resort price",
+          "Freestanding villas give privacy and space for a family",
+          "Both an outdoor infinity pool and an indoor pool",
+          "Easygoing, unstuffy atmosphere that suits children"
+        ],
+        "fr": [
+          "Les enfants séjournent gratuitement, ce qui adoucit le tarif",
+          "Villas indépendantes: intimité et espace pour une famille",
+          "À la fois une piscine à débordement extérieure et une intérieure",
+          "Atmosphère décontractée et sans façon qui convient aux enfants"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Remote setting with no kids club and long drives to the sights",
+          "Open, design-led villas need extra baby-proofing care",
+          "Communal dining style has less choice for very fussy eaters"
+        ],
+        "fr": [
+          "Cadre isolé, sans club enfants et longs trajets vers les sites",
+          "Villas ouvertes et design à sécuriser davantage pour les bébés",
+          "Le service de repas partagé offre moins de choix aux enfants très difficiles"
+        ]
+      },
+      "verdict": {
+        "en": "The relaxed, good-looking desert base for families who want villa privacy and a beautiful pool without full-on formality, helped a lot by kids staying free. Bring your own baby-proofing mindset and treat the valley walks as the day's entertainment.",
+        "fr": "La base désertique détendue et esthétique pour les familles en quête d'intimité en villa et d'une belle piscine sans formalisme excessif, bien aidée par la gratuité des enfants. Gardez en tête la sécurisation des petits et faites des marches dans la vallée l'animation de la journée."
+      },
+      "parentTip": {
+        "en": "The infinity pool is the social heart of the resort and gets busy in the afternoon, so do the pool with little ones mid-morning and save the late afternoon for a shaded canyon walk when it cools down.",
+        "fr": "La piscine à débordement est le cœur social du resort et se remplit l'après-midi, faites donc la piscine avec les petits en milieu de matinée et gardez la fin d'après-midi pour une marche ombragée dans le canyon quand la chaleur retombe."
+      },
+      "atAGlance": [
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids stay free",
+            "fr": "Enfants gratuits"
+          },
+          "value": {
+            "en": "All ages, in your villa",
+            "fr": "Tout âge, dans votre villa"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Infinity pool and indoor pool",
+            "fr": "Débordement et piscine intérieure"
+          }
+        },
+        {
+          "icon": "🏡",
+          "label": {
+            "en": "Villas",
+            "fr": "Villas"
+          },
+          "value": {
+            "en": "Freestanding, private decks",
+            "fr": "Indépendantes, terrasses privées"
+          }
+        },
+        {
+          "icon": "🚗",
+          "label": {
+            "en": "Getting around",
+            "fr": "Déplacements"
+          },
+          "value": {
+            "en": "Car needed, sights are a drive",
+            "fr": "Voiture nécessaire, sites à distance"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Infinity pool swim",
+            "fr": "Baignade à la piscine à débordement"
+          },
+          "detail": {
+            "en": "The turquoise pool against sandstone is the resort's showpiece and a hit with kids of every age.",
+            "fr": "La piscine turquoise sur fond de grès est la vedette du resort et fait l'unanimité chez les enfants de tout âge."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🥾",
+          "name": {
+            "en": "Canyon walk",
+            "fr": "Marche dans le canyon"
+          },
+          "detail": {
+            "en": "A gentle, shaded walk among the palms and rock walls, easy enough for small legs early or late in the day.",
+            "fr": "Une marche douce et ombragée parmi les palmiers et les parois rocheuses, faisable par de petites jambes tôt ou tard dans la journée."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Late afternoon",
+            "fr": "Fin d'après-midi"
+          }
+        },
+        {
+          "emoji": "✨",
+          "name": {
+            "en": "Stargazing session",
+            "fr": "Séance d'observation des étoiles"
+          },
+          "detail": {
+            "en": "Guided evening stargazing under some of the darkest skies in Arabia, a quiet family favourite.",
+            "fr": "Observation des étoiles guidée le soir sous l'un des ciels les plus sombres d'Arabie, un moment calme qui plaît aux familles."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soirée"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Communal breakfast",
+            "fr": "Petit-déjeuner partagé"
+          },
+          "note": {
+            "en": "Wholesome spread in the main tent, a sociable start with the cliffs as a backdrop.",
+            "fr": "Buffet sain sous la tente principale, un début convivial avec les falaises en toile de fond."
+          }
+        },
+        {
+          "time": "10:30",
+          "title": {
+            "en": "Pool time",
+            "fr": "Temps piscine"
+          },
+          "note": {
+            "en": "Infinity pool while it is quieter, then shade before the midday heat.",
+            "fr": "Piscine à débordement pendant que c'est plus calme, puis ombre avant la chaleur de midi."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Villa siesta",
+            "fr": "Sieste en villa"
+          },
+          "note": {
+            "en": "Retreat to the villa through the hottest hours, perfect for a nap.",
+            "fr": "On se replie dans la villa aux heures les plus chaudes, parfait pour une sieste."
+          }
+        },
+        {
+          "time": "17:30",
+          "title": {
+            "en": "Canyon walk",
+            "fr": "Marche dans le canyon"
+          },
+          "note": {
+            "en": "Stretch the legs among the palms as the light turns golden.",
+            "fr": "On se dégourdit les jambes parmi les palmiers quand la lumière devient dorée."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Kids stay free and cots are available, but the open-plan villas and desert setting mean you handle baby-proofing and supplies yourself.",
+          "fr": "Les enfants sont gratuits et les lits bébé disponibles, mais les villas ouvertes et le cadre désertique vous laissent gérer vous-même la sécurisation et les provisions."
+        },
+        "toddler": {
+          "en": "Toddlers love the pool and the space; keep an eye on the open villa decks and the unfenced desert edges.",
+          "fr": "Les tout-petits adorent la piscine et l'espace; gardez un œil sur les terrasses ouvertes et les abords non clôturés du désert."
+        },
+        "kid": {
+          "en": "Canyon walks, pool time and stargazing keep this age busy, though there is no kids club to drop them at.",
+          "fr": "Marches dans le canyon, piscine et étoiles occupent cet âge, même s'il n'y a pas de club où les déposer."
+        },
+        "teen": {
+          "en": "The design, the wellness activities and the photogenic setting land well with teenagers.",
+          "fr": "Le design, les activités bien-être et le décor photogénique séduisent les adolescents."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is it good for young children?",
+            "fr": "Est-ce adapté aux jeunes enfants?"
+          },
+          "a": {
+            "en": "Yes within limits: children of all ages are welcome and stay free, there is a pool they love, and the vibe is relaxed. Just remember there is no kids club, the villas are open-plan and design-led, and it is a remote valley, so plan supplies and downtime.",
+            "fr": "Oui, avec des limites: les enfants de tout âge sont bienvenus et gratuits, il y a une piscine qu'ils adorent, et l'ambiance est détendue. Rappelez-vous simplement qu'il n'y a pas de club enfants, que les villas sont ouvertes et design, et que c'est une vallée isolée, prévoyez donc provisions et temps de repos."
+          }
+        },
+        {
+          "q": {
+            "en": "Do children really stay free?",
+            "fr": "Les enfants sont-ils vraiment gratuits?"
+          },
+          "a": {
+            "en": "Yes, children stay free when sharing the parents' villa, using existing bedding. Confirm the exact age policy and any extra-bed or cot charge for your dates when you book.",
+            "fr": "Oui, les enfants séjournent gratuitement lorsqu'ils partagent la villa des parents, avec la literie existante. Confirmez la politique d'âge exacte et tout supplément lit d'appoint ou lit bébé pour vos dates à la réservation."
+          }
+        },
+        {
+          "q": {
+            "en": "How far are the sights?",
+            "fr": "Les sites sont-ils loin?"
+          },
+          "a": {
+            "en": "Hegra, Elephant Rock and AlUla Old Town are all a short to moderate drive away, roughly 15 to 40 minutes. A hire car or the resort's transfers make family days out much smoother.",
+            "fr": "Hegra, le rocher de l'Éléphant et la vieille ville d'AlUla sont tous à un trajet court à moyen, environ 15 à 40 minutes. Une voiture de location ou les transferts du resort facilitent nettement les sorties en famille."
+          }
+        }
+      ]
+    },
+    {
+      "key": "alula-caravan-by-habitas-alula",
+      "destinationKey": "alula",
+      "name": "Caravan by Habitas AlUla",
+      "area": {
+        "en": "Ashar Valley",
+        "fr": "Vallée d'Ashar"
+      },
+      "lat": 26.721,
+      "lng": 37.964,
+      "zoom": 13,
+      "address": "Caravan by Habitas AlUla, Ashar Valley, AlUla, Al Madinah Province, Saudi Arabia",
+      "priceTier": 4,
+      "priceFrom": 400,
+      "ages": [
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "self-catering",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "villaModern",
+        "roomCozy",
+        "poolDusk"
+      ],
+      "scores": {
+        "rooms": 74,
+        "baby": 58,
+        "pool": 40,
+        "dining": 78,
+        "safety": 76,
+        "convenience": 58,
+        "location": 86,
+        "extras": 82
+      },
+      "roomsSummary": {
+        "en": "Twenty-two polished Airstream trailers, each with a queen bed (or two singles), an indoor lounge, a kitchenette and a private shower, set among date palms and rock walls. They are compact by design, so they suit a couple with one or two children rather than a big family, and there is no separate bedroom, which is the thing to weigh with a light-sleeping baby.",
+        "fr": "Vingt-deux caravanes Airstream en aluminium poli, chacune avec un lit queen (ou deux lits simples), un salon intérieur, une kitchenette et une douche privée, posées parmi les dattiers et les parois rocheuses. Elles sont compactes par nature, elles conviennent donc à un couple avec un ou deux enfants plutôt qu'à une famille nombreuse, et il n'y a pas de chambre séparée, c'est le point à peser avec un bébé au sommeil léger."
+      },
+      "intro": {
+        "en": "Caravan is Habitas's playful little sibling, a cluster of gleaming Airstream trailers in a palm-filled canyon twenty minutes north of AlUla town, and it is quietly one of the more fun places in the valley for children. There is a desert jungle gym and a teddy bear tent for little ones, three food trucks serving pizza, ice cream and juices in a family-style setting, and an adventure programme (canyon crossings, horse riding, desert skills) aimed squarely at active kids and teens. The trade-off is honest: the trailers are compact studios with no separate bedroom, so they work best for a couple with one or two children, and there is no proper pool on site, so water play is limited. For a short, memorable, budget-lighter leg of an AlUla trip, though, it is genuinely charming.",
+        "fr": "Caravan, c'est le petit frère espiègle de Habitas, un regroupement de caravanes Airstream étincelantes dans un canyon planté de palmiers, à vingt minutes au nord de la ville d'AlUla, et c'est discrètement l'un des endroits les plus amusants de la vallée pour les enfants. Il y a une structure de jeu dans le désert et une tente à nounours pour les petits, trois food trucks qui servent pizzas, glaces et jus dans une ambiance familiale, et un programme d'aventure (traversées de canyon, équitation, techniques du désert) taillé pour les enfants actifs et les ados. La contrepartie est honnête: les caravanes sont des studios compacts sans chambre séparée, elles conviennent donc surtout à un couple avec un ou deux enfants, et il n'y a pas de vraie piscine sur place, les jeux d'eau sont donc limités. Pour une étape courte, mémorable et plus légère côté budget d'un séjour à AlUla, c'est cependant vraiment charmant."
+      },
+      "highlights": {
+        "en": [
+          "Polished Airstream trailers kids find genuinely cool",
+          "Desert jungle gym and a teddy bear tent for little ones",
+          "Food trucks with pizza and ice cream, family seating",
+          "Adventure programme: canyon crossings and horse riding"
+        ],
+        "fr": [
+          "Caravanes Airstream que les enfants trouvent vraiment stylées",
+          "Structure de jeu dans le désert et tente à nounours pour les petits",
+          "Food trucks avec pizzas et glaces, tables en famille",
+          "Programme d'aventure: traversées de canyon et équitation"
+        ]
+      },
+      "pros": {
+        "en": [
+          "A real novelty stay children remember for years",
+          "On-site playground and kid-friendly food trucks",
+          "More affordable than the villa resorts nearby",
+          "Kitchenette helps with toddler snacks and bottles"
+        ],
+        "fr": [
+          "Un séjour insolite que les enfants gardent en mémoire des années",
+          "Aire de jeux sur place et food trucks appréciés des enfants",
+          "Plus abordable que les resorts en villas voisins",
+          "La kitchenette aide pour les encas et biberons des tout-petits"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Compact studios with no separate bedroom, tight for a baby",
+          "No proper swimming pool on site for hot afternoons",
+          "Remote canyon location, a 20 minute drive from town"
+        ],
+        "fr": [
+          "Studios compacts sans chambre séparée, à l'étroit avec un bébé",
+          "Pas de vraie piscine sur place pour les après-midis chauds",
+          "Canyon isolé, à 20 minutes de route de la ville"
+        ]
+      },
+      "verdict": {
+        "en": "The fun, wallet-friendlier option for families with one or two children who will love the Airstream novelty and the little playground. Weigh the compact single-room layout and the lack of a pool before you book a long stay.",
+        "fr": "L'option amusante et plus douce pour le portefeuille, pour les familles avec un ou deux enfants qui adoreront l'originalité des Airstream et la petite aire de jeux. Pesez le format studio compact et l'absence de piscine avant de réserver un long séjour."
+      },
+      "parentTip": {
+        "en": "Because there is no pool, pair a night or two here with a pool-equipped resort elsewhere in the valley: the kids get the Airstream adventure and the playground, and you still get water play for the hottest part of the day.",
+        "fr": "Comme il n'y a pas de piscine, combinez une nuit ou deux ici avec un resort équipé d'une piscine ailleurs dans la vallée: les enfants ont l'aventure Airstream et l'aire de jeux, et vous gardez les jeux d'eau pour l'heure la plus chaude de la journée."
+      },
+      "atAGlance": [
+        {
+          "icon": "🚐",
+          "label": {
+            "en": "The rooms",
+            "fr": "Les chambres"
+          },
+          "value": {
+            "en": "22 Airstream trailers",
+            "fr": "22 caravanes Airstream"
+          }
+        },
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "For kids",
+            "fr": "Pour les enfants"
+          },
+          "value": {
+            "en": "Jungle gym and teddy bear tent",
+            "fr": "Structure de jeu et tente à nounours"
+          }
+        },
+        {
+          "icon": "🍕",
+          "label": {
+            "en": "Food",
+            "fr": "Restauration"
+          },
+          "value": {
+            "en": "Family-style food trucks",
+            "fr": "Food trucks en mode famille"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "None on site",
+            "fr": "Aucune sur place"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "Desert playground",
+            "fr": "Aire de jeux du désert"
+          },
+          "detail": {
+            "en": "A jungle gym and teddy bear tent right on site give younger children a safe place to burn energy.",
+            "fr": "Une structure de jeu et une tente à nounours sur place donnent aux plus jeunes un endroit sûr pour se dépenser."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Anytime",
+            "fr": "À tout moment"
+          }
+        },
+        {
+          "emoji": "🐎",
+          "name": {
+            "en": "Horse riding",
+            "fr": "Équitation"
+          },
+          "detail": {
+            "en": "Gentle guided rides through the canyon that older kids and teens enjoy, booked in advance.",
+            "fr": "Des balades guidées tranquilles dans le canyon que les plus grands et les ados apprécient, à réserver à l'avance."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🍦",
+          "name": {
+            "en": "Food truck supper",
+            "fr": "Dîner au food truck"
+          },
+          "detail": {
+            "en": "Pizza, juices and homemade ice cream in a relaxed, cushioned seating area kids can roam.",
+            "fr": "Pizza, jus et glace maison dans un espace détendu avec coussins où les enfants peuvent bouger."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soirée"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Food truck breakfast",
+            "fr": "Petit-déjeuner au food truck"
+          },
+          "note": {
+            "en": "Easy, casual start with the kids free to move around.",
+            "fr": "Un début simple et décontracté, les enfants libres de bouger."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Playground and canyon",
+            "fr": "Aire de jeux et canyon"
+          },
+          "note": {
+            "en": "Jungle gym time, then a short shaded wander before it heats up.",
+            "fr": "Structure de jeu, puis une courte balade ombragée avant que ça chauffe."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Airstream downtime",
+            "fr": "Pause à l'Airstream"
+          },
+          "note": {
+            "en": "Retreat to the air-conditioned trailer for lunch and a rest.",
+            "fr": "On se replie dans la caravane climatisée pour déjeuner et se reposer."
+          }
+        },
+        {
+          "time": "17:00",
+          "title": {
+            "en": "Horse ride or desert walk",
+            "fr": "Balade à cheval ou marche"
+          },
+          "note": {
+            "en": "An adventure outing as the temperature drops.",
+            "fr": "Une sortie aventure quand la température baisse."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Doable but tight: the trailers are single-room studios with no separate space, so a baby's naps happen in the same room as everyone else.",
+          "fr": "Faisable mais serré: les caravanes sont des studios d'une seule pièce sans espace séparé, les siestes du bébé se font donc dans la même pièce que tout le monde."
+        },
+        "toddler": {
+          "en": "The on-site playground and teddy bear tent are a real plus at this age, though the lack of a pool limits water play.",
+          "fr": "L'aire de jeux sur place et la tente à nounours sont un vrai plus à cet âge, même si l'absence de piscine limite les jeux d'eau."
+        },
+        "kid": {
+          "en": "This age gets the most out of Caravan, between the Airstream novelty, the playground and the adventure activities.",
+          "fr": "C'est cet âge qui profite le plus de Caravan, entre l'originalité des Airstream, l'aire de jeux et les activités d'aventure."
+        },
+        "teen": {
+          "en": "Teens enjoy the canyon crossings, horse riding and the Instagram-ready trailers, though they may miss a pool.",
+          "fr": "Les ados aiment les traversées de canyon, l'équitation et les caravanes très photogéniques, même si une piscine peut leur manquer."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is there a swimming pool?",
+            "fr": "Y a-t-il une piscine?"
+          },
+          "a": {
+            "en": "No, Caravan does not have a proper pool on site, which is its main limitation on hot afternoons. Many families pair a stay here with a pool-equipped resort elsewhere in the valley.",
+            "fr": "Non, Caravan n'a pas de vraie piscine sur place, c'est sa principale limite les après-midis chauds. Beaucoup de familles combinent un séjour ici avec un resort équipé d'une piscine ailleurs dans la vallée."
+          }
+        },
+        {
+          "q": {
+            "en": "Will an Airstream fit our family?",
+            "fr": "Une Airstream conviendra-t-elle à notre famille?"
+          },
+          "a": {
+            "en": "Each trailer is a compact single-room studio best suited to a couple with one or two children. There is no separate bedroom, so larger families or those with a light-sleeping baby may find it tight.",
+            "fr": "Chaque caravane est un studio compact d'une seule pièce, idéal pour un couple avec un ou deux enfants. Il n'y a pas de chambre séparée, les familles nombreuses ou avec un bébé au sommeil léger peuvent la trouver étroite."
+          }
+        },
+        {
+          "q": {
+            "en": "Are teenagers charged as adults?",
+            "fr": "Les adolescents sont-ils facturés comme des adultes?"
+          },
+          "a": {
+            "en": "Yes, children aged 13 and over are generally charged at the adult rate here, so factor that in for families with teens. Confirm the exact policy for your dates when booking.",
+            "fr": "Oui, les enfants de 13 ans et plus sont en général facturés au tarif adulte ici, tenez-en compte pour les familles avec ados. Confirmez la politique exacte pour vos dates à la réservation."
+          }
+        }
+      ]
+    },
+    {
+      "key": "alula-shaden-resort-alula",
+      "destinationKey": "alula",
+      "name": "Shaden Resort AlUla",
+      "area": {
+        "en": "AlUla, near Old Town",
+        "fr": "AlUla, près de la vieille ville"
+      },
+      "lat": 26.635,
+      "lng": 37.942,
+      "zoom": 13,
+      "address": "Shaden Resort, Managed by Accor, AlUla, Al Madinah Province, Saudi Arabia",
+      "priceTier": 3,
+      "priceFrom": 180,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "poolTropicalMtn",
+        "poolDusk",
+        "roomCozy"
+      ],
+      "scores": {
+        "rooms": 78,
+        "baby": 78,
+        "pool": 82,
+        "dining": 74,
+        "safety": 82,
+        "convenience": 74,
+        "location": 80,
+        "extras": 74
+      },
+      "roomsSummary": {
+        "en": "A big range of chalet-style rooms and larger units, from standard doubles up to family rooms and a six-bedroom Royal Suite, with some rooms offering their own private pool. Cots can be arranged and the family formats and multi-room suites make this one of the easier AlUla properties for a larger family or two families travelling together.",
+        "fr": "Un large éventail de chambres façon chalet et d'unités plus grandes, des chambres doubles standard jusqu'aux chambres familiales et à une Royal Suite de six chambres, certaines chambres offrant leur propre piscine privée. Les lits bébé peuvent être organisés et les formats familiaux et suites à plusieurs chambres font de cette adresse l'une des plus faciles d'AlUla pour une famille nombreuse ou deux familles qui voyagent ensemble."
+      },
+      "intro": {
+        "en": "Shaden is the practical, better-value family choice in AlUla, a large resort managed by Accor set against dramatic rock formations and much closer to town than the far-flung valley camps. The key point for parents is the water: there is a spacious main pool, a separate children's pool and an indoor pool too, which is a genuine rarity here and a lifesaver for toddlers in the heat. Rooms run from simple doubles to big family units and a six-bedroom suite, some with their own private pool, and children over one are welcome. It is a resort rather than a design statement, so do not expect boutique polish, but for families who want swimmable water, room to spread out and a sensible price within reach of the sights, it is the smart pick.",
+        "fr": "Shaden est le choix familial pratique et au meilleur rapport qualité-prix d'AlUla, un grand resort géré par Accor, adossé à des formations rocheuses spectaculaires et bien plus proche de la ville que les camps isolés de la vallée. Le point clé pour les parents, c'est l'eau: il y a une grande piscine principale, un bassin enfants séparé et même une piscine intérieure, une vraie rareté ici et une bénédiction pour les tout-petits par forte chaleur. Les chambres vont de la simple double aux grandes unités familiales et à une suite de six chambres, certaines avec leur propre piscine privée, et les enfants de plus d'un an sont bienvenus. C'est un resort plutôt qu'une déclaration de style, n'attendez donc pas un raffinement de boutique-hôtel, mais pour les familles qui veulent une eau baignable, de la place pour s'étaler et un prix raisonnable à portée des sites, c'est le choix malin."
+      },
+      "highlights": {
+        "en": [
+          "Main pool, a separate kids' pool and an indoor pool",
+          "Family rooms up to a six-bedroom Royal Suite",
+          "Some rooms come with their own private pool",
+          "Closer to town and the sights than the valley camps"
+        ],
+        "fr": [
+          "Piscine principale, bassin enfants séparé et piscine intérieure",
+          "Chambres familiales jusqu'à une Royal Suite de six chambres",
+          "Certaines chambres ont leur propre piscine privée",
+          "Plus proche de la ville et des sites que les camps de la vallée"
+        ]
+      },
+      "pros": {
+        "en": [
+          "A dedicated children's pool, rare and ideal for toddlers",
+          "Big family rooms and suites for larger groups",
+          "Better value than the luxury valley resorts",
+          "An indoor pool for the very hottest hours"
+        ],
+        "fr": [
+          "Un bassin enfants dédié, rare et idéal pour les tout-petits",
+          "Grandes chambres familiales et suites pour les groupes",
+          "Meilleur rapport qualité-prix que les resorts de luxe de la vallée",
+          "Une piscine intérieure pour les heures les plus chaudes"
+        ]
+      },
+      "cons": {
+        "en": [
+          "A large resort feel rather than boutique polish",
+          "No supervised kids club or organised programme",
+          "Dining is functional rather than a highlight"
+        ],
+        "fr": [
+          "Une atmosphère de grand resort plutôt qu'un raffinement de boutique-hôtel",
+          "Pas de club enfants encadré ni de programme organisé",
+          "La restauration est fonctionnelle plutôt qu'un point fort"
+        ]
+      },
+      "verdict": {
+        "en": "The best-value family base in AlUla thanks to a real children's pool, big family rooms and a location near town. Choose it when swimmable water and space matter more than boutique design, and book a family room with pool access if the budget stretches.",
+        "fr": "La meilleure base familiale d'AlUla côté budget, grâce à un vrai bassin enfants, de grandes chambres familiales et un emplacement proche de la ville. Choisissez-la quand l'eau baignable et l'espace comptent plus que le design de boutique-hôtel, et réservez une chambre familiale avec accès à la piscine si le budget le permet."
+      },
+      "parentTip": {
+        "en": "The separate children's pool is the reason to book here with toddlers, so ask for a room near it: you can let the little ones paddle safely while the older kids use the big main pool alongside.",
+        "fr": "Le bassin enfants séparé est la raison de réserver ici avec des tout-petits, demandez donc une chambre à proximité: vous laissez les petits barboter en sécurité pendant que les plus grands profitent de la grande piscine juste à côté."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Main, kids' and indoor pools",
+            "fr": "Principale, enfants et intérieure"
+          }
+        },
+        {
+          "icon": "🏡",
+          "label": {
+            "en": "Family rooms",
+            "fr": "Chambres familiales"
+          },
+          "value": {
+            "en": "Up to a six-bedroom suite",
+            "fr": "Jusqu'à une suite de six chambres"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Value",
+            "fr": "Rapport qualité-prix"
+          },
+          "value": {
+            "en": "Best in AlUla for families",
+            "fr": "Le meilleur d'AlUla pour les familles"
+          }
+        },
+        {
+          "icon": "📍",
+          "label": {
+            "en": "Location",
+            "fr": "Emplacement"
+          },
+          "value": {
+            "en": "Near town, close to sights",
+            "fr": "Proche de la ville et des sites"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🧒",
+          "name": {
+            "en": "Children's pool time",
+            "fr": "Bassin enfants"
+          },
+          "detail": {
+            "en": "A separate shallow pool lets toddlers paddle safely while older siblings use the main pool nearby.",
+            "fr": "Un bassin peu profond séparé laisse les tout-petits barboter en sécurité pendant que les aînés profitent de la piscine principale à côté."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🪨",
+          "name": {
+            "en": "Elephant Rock trip",
+            "fr": "Sortie au rocher de l'Éléphant"
+          },
+          "detail": {
+            "en": "A short drive to AlUla's famous natural arch, an easy sunset outing the whole family enjoys.",
+            "fr": "Un court trajet vers la célèbre arche naturelle d'AlUla, une sortie facile au coucher du soleil que toute la famille apprécie."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Late afternoon",
+            "fr": "Fin d'après-midi"
+          }
+        },
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Indoor pool swim",
+            "fr": "Baignade en piscine intérieure"
+          },
+          "detail": {
+            "en": "A shaded indoor pool means swimming even at the fiercest midday heat, unusual for AlUla.",
+            "fr": "Une piscine intérieure ombragée permet de nager même sous la chaleur la plus forte de midi, chose rare à AlUla."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Midday",
+            "fr": "Midi"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Breakfast",
+            "fr": "Petit-déjeuner"
+          },
+          "note": {
+            "en": "Buffet start before a morning at the pool.",
+            "fr": "Petit-déjeuner buffet avant une matinée à la piscine."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Kids' pool",
+            "fr": "Bassin enfants"
+          },
+          "note": {
+            "en": "Little ones in the shallow pool while it is still cool.",
+            "fr": "Les petits dans le bassin peu profond tant qu'il fait frais."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Indoor pool and rest",
+            "fr": "Piscine intérieure et repos"
+          },
+          "note": {
+            "en": "Swim inside through the heat, then a quiet nap.",
+            "fr": "On nage à l'intérieur pendant la chaleur, puis une sieste au calme."
+          }
+        },
+        {
+          "time": "17:00",
+          "title": {
+            "en": "Elephant Rock",
+            "fr": "Rocher de l'Éléphant"
+          },
+          "note": {
+            "en": "Short drive out for the sunset landmark.",
+            "fr": "Court trajet pour le site emblématique au coucher du soleil."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Cots on request and a shallow children's pool make this one of AlUla's more baby-manageable resorts, though there is no kids club.",
+          "fr": "Lits bébé sur demande et bassin enfants peu profond font de ce resort l'un des plus gérables d'AlUla avec un bébé, même s'il n'y a pas de club enfants."
+        },
+        "toddler": {
+          "en": "The dedicated children's pool is the standout feature for this age; the indoor pool helps on the hottest days.",
+          "fr": "Le bassin enfants dédié est l'atout marquant pour cet âge; la piscine intérieure aide les jours les plus chauds."
+        },
+        "kid": {
+          "en": "Big pools, space to run and easy trips to the sights keep this age happy, with good value for parents.",
+          "fr": "Grandes piscines, espace pour courir et sorties faciles vers les sites contentent cet âge, avec un bon rapport qualité-prix pour les parents."
+        },
+        "teen": {
+          "en": "Less boutique-cool than the valley camps, but the pools and the proximity to town suit teenagers fine.",
+          "fr": "Moins tendance que les camps de la vallée, mais les piscines et la proximité de la ville conviennent bien aux ados."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is there really a pool for small children?",
+            "fr": "Y a-t-il vraiment une piscine pour les petits?"
+          },
+          "a": {
+            "en": "Yes, Shaden has a separate children's pool as well as a large main pool and an indoor pool, which is unusually family-friendly for AlUla and a big reason to choose it with toddlers.",
+            "fr": "Oui, Shaden dispose d'un bassin enfants séparé en plus d'une grande piscine principale et d'une piscine intérieure, ce qui est particulièrement adapté aux familles pour AlUla et une bonne raison de le choisir avec des tout-petits."
+          }
+        },
+        {
+          "q": {
+            "en": "What ages are allowed?",
+            "fr": "Quels âges sont admis?"
+          },
+          "a": {
+            "en": "Children over one year old are welcome, and there are family rooms and multi-bedroom suites to suit larger families. Confirm cot availability for babies when you book.",
+            "fr": "Les enfants de plus d'un an sont les bienvenus, et il existe des chambres familiales et des suites à plusieurs chambres pour les familles nombreuses. Confirmez la disponibilité d'un lit bébé pour les nourrissons à la réservation."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it close to the main sights?",
+            "fr": "Est-ce proche des principaux sites?"
+          },
+          "a": {
+            "en": "It is closer to AlUla town and the sights than the remote valley camps, with Elephant Rock, Old Town and Hegra all a manageable drive. You will still want a car or arranged transfers.",
+            "fr": "C'est plus proche de la ville d'AlUla et des sites que les camps isolés de la vallée, avec le rocher de l'Éléphant, la vieille ville et Hegra tous à un trajet raisonnable. Il vous faudra tout de même une voiture ou des transferts organisés."
+          }
+        }
+      ]
+    },
+    {
+      "key": "alula-dar-tantora-the-house-hotel",
+      "destinationKey": "alula",
+      "name": "Dar Tantora The House Hotel",
+      "area": {
+        "en": "AlUla Old Town",
+        "fr": "Vieille ville d'AlUla"
+      },
+      "lat": 26.623,
+      "lng": 37.922,
+      "zoom": 13,
+      "address": "Dar Tantora The House Hotel, AlUla Old Town, AlUla, Al Madinah Province, Saudi Arabia",
+      "priceTier": 4,
+      "priceFrom": 500,
+      "ages": [
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "family-suites"
+      ],
+      "clubFree": false,
+      "photos": [
+        "villaInterior",
+        "roomCozy",
+        "poolDusk"
+      ],
+      "scores": {
+        "rooms": 82,
+        "baby": 55,
+        "pool": 74,
+        "dining": 80,
+        "safety": 74,
+        "convenience": 72,
+        "location": 90,
+        "extras": 90
+      },
+      "roomsSummary": {
+        "en": "Thirty restored mudbrick houses, or dars, woven into the lanes of AlUla Old Town, each one different and full of character, with some very spacious two-bedroom dars that suit a family. The rooms are candle-lit by design (no electric lighting inside) with hand-painted details and uneven heritage floors, which is magical for older children but genuinely worth thinking through with a crawling baby or an unsteady toddler.",
+        "fr": "Trente maisons de terre restaurées, ou dars, tissées dans les ruelles de la vieille ville d'AlUla, toutes différentes et pleines de caractère, dont des dars de deux chambres très spacieux qui conviennent à une famille. Les chambres sont éclairées à la bougie par choix (pas d'éclairage électrique à l'intérieur), avec des détails peints à la main et des sols patrimoniaux irréguliers, ce qui est magique pour les grands enfants mais mérite vraiment réflexion avec un bébé qui rampe ou un tout-petit encore instable."
+      },
+      "intro": {
+        "en": "Dar Tantora is the most atmospheric stay in AlUla, a cluster of restored earthen houses threaded through the ancient lanes of the Old Town, named one of the world's greatest places by TIME in 2024. For families with school-age children and teens it is unforgettable: you sleep inside living heritage, wander straight out into the labyrinth of mudbrick alleys, and there is a beautiful infinity pool, a wellness centre and a lovely family-friendly restaurant. The honest caveat is that the romance comes with practical quirks for the very youngest: rooms are lit by candlelight rather than electric lights, the historic buildings have steps, thresholds and uneven floors, and it is a heritage house hotel, not a splash-park resort. Choose it for the sense of place, ideally with kids old enough to appreciate it.",
+        "fr": "Dar Tantora est le séjour le plus chargé d'atmosphère d'AlUla, un ensemble de maisons de terre restaurées enfilées dans les ruelles anciennes de la vieille ville, désignée parmi les plus beaux endroits du monde par TIME en 2024. Pour les familles avec des enfants d'âge scolaire et des ados, c'est inoubliable: on dort au cœur d'un patrimoine vivant, on ressort directement dans le labyrinthe des ruelles de terre, et il y a une superbe piscine à débordement, un centre de bien-être et un joli restaurant qui accueille bien les familles. Le bémol honnête, c'est que le charme s'accompagne de particularités pratiques pour les plus jeunes: les chambres sont éclairées à la bougie plutôt qu'à l'électricité, les bâtiments historiques ont des marches, des seuils et des sols irréguliers, et c'est un hôtel de maisons patrimoniales, pas un resort à toboggans. Choisissez-le pour l'esprit du lieu, idéalement avec des enfants assez grands pour l'apprécier."
+      },
+      "highlights": {
+        "en": [
+          "Sleep inside restored heritage houses in the Old Town",
+          "Spacious two-bedroom dars that suit a family",
+          "Beautiful infinity pool and a wellness centre",
+          "Walk straight out into the historic mudbrick lanes"
+        ],
+        "fr": [
+          "Dormir dans des maisons patrimoniales restaurées de la vieille ville",
+          "Dars de deux chambres spacieux qui conviennent à une famille",
+          "Superbe piscine à débordement et centre de bien-être",
+          "Sortir directement dans les ruelles historiques en terre"
+        ]
+      },
+      "pros": {
+        "en": [
+          "A truly unforgettable, one-of-a-kind heritage setting",
+          "Two-bedroom dars give families genuine space",
+          "The Old Town lanes are a living history lesson for kids",
+          "Lovely infinity pool and a warm, welcoming restaurant"
+        ],
+        "fr": [
+          "Un cadre patrimonial vraiment inoubliable et unique",
+          "Les dars de deux chambres offrent un vrai espace aux familles",
+          "Les ruelles de la vieille ville sont une leçon d'histoire vivante",
+          "Belle piscine à débordement et restaurant chaleureux"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Candle-lit rooms and uneven heritage floors are tricky with a baby",
+          "Historic buildings mean steps and thresholds, no easy pushchair access",
+          "A boutique house hotel, not a resort with kids' facilities"
+        ],
+        "fr": [
+          "Chambres à la bougie et sols patrimoniaux irréguliers, délicats avec un bébé",
+          "Bâtiments historiques: marches et seuils, accès poussette peu commode",
+          "Un hôtel-maisons de charme, pas un resort avec équipements enfants"
+        ]
+      },
+      "verdict": {
+        "en": "The most magical stay in AlUla for families with kids old enough to soak up the history, wandering the Old Town lanes by day and swimming at a gorgeous pool. Think twice with a baby or new walker, given the candlelight and uneven heritage floors.",
+        "fr": "Le séjour le plus magique d'AlUla pour les familles avec des enfants assez grands pour s'imprégner de l'histoire, à arpenter les ruelles de la vieille ville le jour et à nager dans une piscine sublime. Réfléchissez à deux fois avec un bébé ou un enfant qui vient de marcher, vu la lumière des bougies et les sols patrimoniaux irréguliers."
+      },
+      "parentTip": {
+        "en": "Bring a couple of small clip-on nightlights for the walk to the bathroom: the candlelight is beautiful but genuinely dim, and a soft light makes night-time trips easier and safer with children.",
+        "fr": "Emportez deux petites veilleuses à pince pour le trajet jusqu'à la salle de bain: la lumière des bougies est belle mais vraiment faible, et une lumière douce rend les déplacements nocturnes plus faciles et plus sûrs avec des enfants."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏺",
+          "label": {
+            "en": "The stay",
+            "fr": "Le séjour"
+          },
+          "value": {
+            "en": "Restored Old Town mudbrick houses",
+            "fr": "Maisons de terre restaurées, vieille ville"
+          }
+        },
+        {
+          "icon": "🕯️",
+          "label": {
+            "en": "Lighting",
+            "fr": "Éclairage"
+          },
+          "value": {
+            "en": "Candle-lit rooms, no electric lights",
+            "fr": "Chambres à la bougie, pas d'électricité"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "Infinity pool on site",
+            "fr": "Piscine à débordement sur place"
+          }
+        },
+        {
+          "icon": "🚶",
+          "label": {
+            "en": "Old Town",
+            "fr": "Vieille ville"
+          },
+          "value": {
+            "en": "Historic lanes at the door",
+            "fr": "Ruelles historiques à la porte"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🚶",
+          "name": {
+            "en": "Old Town wander",
+            "fr": "Balade dans la vieille ville"
+          },
+          "detail": {
+            "en": "Explore the maze of restored mudbrick lanes right outside, a living history walk kids find fascinating.",
+            "fr": "Explorez le dédale de ruelles de terre restaurées juste dehors, une promenade d'histoire vivante que les enfants trouvent fascinante."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Late afternoon",
+            "fr": "Fin d'après-midi"
+          }
+        },
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Infinity pool",
+            "fr": "Piscine à débordement"
+          },
+          "detail": {
+            "en": "A cooling swim at the resort's pool after a hot morning of sightseeing.",
+            "fr": "Une baignade rafraîchissante à la piscine du resort après une matinée chaude de visites."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Midday",
+            "fr": "Midi"
+          }
+        },
+        {
+          "emoji": "🌙",
+          "name": {
+            "en": "Candlelit evening",
+            "fr": "Soirée aux chandelles"
+          },
+          "detail": {
+            "en": "Dinner and the lantern-lit lanes create a magical evening older children remember.",
+            "fr": "Le dîner et les ruelles éclairées aux lanternes composent une soirée magique que les grands enfants gardent en mémoire."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soirée"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Early breakfast",
+            "fr": "Petit-déjeuner tôt"
+          },
+          "note": {
+            "en": "Eat before the heat and the day-tripper crowds arrive in Old Town.",
+            "fr": "On mange avant la chaleur et l'arrivée des visiteurs à la journée dans la vieille ville."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Hegra or Old Town",
+            "fr": "Hegra ou vieille ville"
+          },
+          "note": {
+            "en": "Sightseeing while it is cooler, either the tombs or the lanes.",
+            "fr": "Visites tant qu'il fait plus frais, soit les tombeaux, soit les ruelles."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Pool and rest",
+            "fr": "Piscine et repos"
+          },
+          "note": {
+            "en": "Back for the infinity pool and shade through midday.",
+            "fr": "Retour pour la piscine à débordement et l'ombre à l'heure de midi."
+          }
+        },
+        {
+          "time": "18:00",
+          "title": {
+            "en": "Lanterns and dinner",
+            "fr": "Lanternes et dîner"
+          },
+          "note": {
+            "en": "The Old Town glows at dusk, a lovely time to wander and eat.",
+            "fr": "La vieille ville s'illumine à la tombée du jour, un beau moment pour flâner et dîner."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Hard to recommend for a baby: candle-lit rooms, uneven heritage floors, steps and no easy pushchair access make daily life awkward.",
+          "fr": "Difficile à recommander pour un bébé: chambres à la bougie, sols patrimoniaux irréguliers, marches et accès poussette peu commode compliquent le quotidien."
+        },
+        "toddler": {
+          "en": "Possible but needs care: the atmospheric dim lighting and thresholds mean constant supervision with an unsteady walker.",
+          "fr": "Possible mais demande de l'attention: l'éclairage tamisé et les seuils imposent une surveillance constante avec un enfant encore instable."
+        },
+        "kid": {
+          "en": "This is where Dar Tantora shines, with school-age kids captivated by sleeping inside a real historic town.",
+          "fr": "C'est là que Dar Tantora brille, avec des enfants d'âge scolaire captivés à l'idée de dormir dans une vraie ville historique."
+        },
+        "teen": {
+          "en": "Teens love the sense of place, the photography and the pool; it feels special rather than childish.",
+          "fr": "Les ados adorent l'esprit du lieu, la photo et la piscine; cela fait spécial plutôt qu'enfantin."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Are the rooms really only lit by candles?",
+            "fr": "Les chambres sont-elles vraiment éclairées uniquement à la bougie?"
+          },
+          "a": {
+            "en": "Yes, the restored dars are candle-lit by design, with no electric lighting inside, which is part of the magic but genuinely dim. Bring a small torch or clip-on light for night-time trips with children.",
+            "fr": "Oui, les dars restaurés sont éclairés à la bougie par choix, sans électricité à l'intérieur, ce qui fait partie de la magie mais reste vraiment sombre. Emportez une petite lampe ou une veilleuse à pince pour les déplacements nocturnes avec des enfants."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it suitable for babies and toddlers?",
+            "fr": "Est-ce adapté aux bébés et tout-petits?"
+          },
+          "a": {
+            "en": "It is best for kids old enough to enjoy the history. The candlelight, steps, thresholds and uneven heritage floors make it tricky with a crawling baby or new walker, so weigh that carefully.",
+            "fr": "C'est surtout adapté aux enfants assez grands pour apprécier l'histoire. La lumière des bougies, les marches, les seuils et les sols irréguliers la rendent délicate avec un bébé qui rampe ou un enfant qui vient de marcher, pesez-le bien."
+          }
+        },
+        {
+          "q": {
+            "en": "Do the family rooms fit four?",
+            "fr": "Les chambres familiales logent-elles quatre personnes?"
+          },
+          "a": {
+            "en": "Yes, there are very spacious two-bedroom dars that comfortably suit a family of four. As each house is different, ask for a two-bedroom dar specifically when you book.",
+            "fr": "Oui, il existe des dars de deux chambres très spacieux qui logent confortablement une famille de quatre. Comme chaque maison est différente, demandez expressément un dar de deux chambres à la réservation."
+          }
+        }
+      ]
+    },
+    {
+      "key": "alula-cloud7-residence-alula",
+      "destinationKey": "alula",
+      "name": "Cloud7 Residence AlUla",
+      "area": {
+        "en": "AlUla, near town",
+        "fr": "AlUla, près de la ville"
+      },
+      "lat": 26.612,
+      "lng": 37.935,
+      "zoom": 12,
+      "address": "Cloud7 Residence AlUla, AlUla, Al Madinah Province, Saudi Arabia",
+      "priceTier": 3,
+      "priceFrom": 235,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "self-catering",
+        "family-suites",
+        "toddler-friendly",
+        "city-base"
+      ],
+      "clubFree": false,
+      "photos": [
+        "villaModern",
+        "livingRoom",
+        "poolTropicalMtn"
+      ],
+      "scores": {
+        "rooms": 78,
+        "baby": 76,
+        "pool": 76,
+        "dining": 72,
+        "safety": 82,
+        "convenience": 80,
+        "location": 78,
+        "extras": 72
+      },
+      "roomsSummary": {
+        "en": "Contemporary lodge-style bungalows and suites, each with a kitchenette and a private outdoor space, designed with longer stays in mind. The self-catering setup (cooktop, oven, toaster) is a real advantage with young children, letting you handle bottles, early teas and fussy-eater dinners in your own space, and the layouts comfortably suit a family.",
+        "fr": "Des bungalows et suites contemporains façon lodge, chacun avec kitchenette et espace extérieur privé, pensés pour les longs séjours. L'équipement pour cuisiner soi-même (plaque, four, grille-pain) est un vrai atout avec de jeunes enfants: il permet de gérer biberons, repas tôt et dîners d'enfants difficiles dans son propre espace, et les configurations conviennent confortablement à une famille."
+      },
+      "intro": {
+        "en": "Cloud7 is the sensible, self-catering base for families who want AlUla without the sky-high desert-resort prices, a relaxed lodge-style property of bungalows and suites close to town and framed by sandstone cliffs. The headline for parents is the kitchenette in every unit: with a cooktop, oven and fridge you can do bottles, snacks and simple meals on your own schedule, which makes life with a baby or toddler far calmer. There is an outdoor pool with mountain views, a couple of family-friendly restaurants, and an easy, unfussy feel. It is contemporary and comfortable rather than luxurious or heavy on facilities, and there is no kids club, but for a well-priced, flexible AlUla stay close to the sights it is a strong, practical choice.",
+        "fr": "Cloud7 est la base raisonnable et autonome pour les familles qui veulent AlUla sans les tarifs vertigineux des resorts du désert, un ensemble décontracté façon lodge, fait de bungalows et de suites proches de la ville et encadrés de falaises de grès. L'argument phare pour les parents, c'est la kitchenette dans chaque unité: avec plaque, four et réfrigérateur, on gère biberons, encas et repas simples à son propre rythme, ce qui rend la vie avec un bébé ou un tout-petit bien plus sereine. Il y a une piscine extérieure avec vue sur les montagnes, deux restaurants qui accueillent bien les familles, et une atmosphère simple et détendue. C'est contemporain et confortable plutôt que luxueux ou très équipé, et il n'y a pas de club enfants, mais pour un séjour à AlUla bien tarifé, flexible et proche des sites, c'est un choix solide et pratique."
+      },
+      "highlights": {
+        "en": [
+          "A kitchenette in every unit for bottles and easy meals",
+          "Outdoor pool with sandstone mountain views",
+          "Close to town and the main AlUla sights",
+          "Good value compared with the luxury valley resorts"
+        ],
+        "fr": [
+          "Une kitchenette dans chaque unité pour les biberons et repas faciles",
+          "Piscine extérieure avec vue sur les montagnes de grès",
+          "Proche de la ville et des principaux sites d'AlUla",
+          "Bon rapport qualité-prix face aux resorts de luxe de la vallée"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Self-catering makes life with babies and toddlers much easier",
+          "More affordable than the desert villa resorts",
+          "Handy location near town cuts the driving",
+          "Private outdoor space with each bungalow"
+        ],
+        "fr": [
+          "Cuisiner soi-même facilite grandement la vie avec bébés et tout-petits",
+          "Plus abordable que les resorts en villas du désert",
+          "Emplacement pratique près de la ville qui réduit les trajets",
+          "Espace extérieur privé avec chaque bungalow"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Comfortable and contemporary rather than luxurious",
+          "No kids club or organised children's programme",
+          "The pool is pleasant but modest next to the big resorts"
+        ],
+        "fr": [
+          "Confortable et contemporain plutôt que luxueux",
+          "Pas de club enfants ni de programme organisé",
+          "La piscine est agréable mais modeste face aux grands resorts"
+        ]
+      },
+      "verdict": {
+        "en": "The practical, value-minded AlUla base, and the easiest with a baby thanks to a kitchenette in every unit and a spot near town. Choose it for flexibility and price over facilities and polish.",
+        "fr": "La base pratique et raisonnée d'AlUla, et la plus simple avec un bébé grâce à une kitchenette dans chaque unité et un emplacement proche de la ville. Choisissez-la pour la flexibilité et le prix plutôt que pour les équipements et le raffinement."
+      },
+      "parentTip": {
+        "en": "Do a grocery run in AlUla town on arrival and stock the fridge: with the kitchenette you can give the kids an early dinner and bath before the restaurants get going, which makes the whole trip calmer.",
+        "fr": "Faites les courses en ville à AlUla dès l'arrivée et remplissez le réfrigérateur: avec la kitchenette, vous pouvez donner aux enfants un dîner et un bain tôt avant que les restaurants ne s'animent, ce qui rend tout le séjour plus serein."
+      },
+      "atAGlance": [
+        {
+          "icon": "🍳",
+          "label": {
+            "en": "Kitchenette",
+            "fr": "Kitchenette"
+          },
+          "value": {
+            "en": "In every bungalow and suite",
+            "fr": "Dans chaque bungalow et suite"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "Outdoor, mountain views",
+            "fr": "Extérieure, vue sur les montagnes"
+          }
+        },
+        {
+          "icon": "📍",
+          "label": {
+            "en": "Location",
+            "fr": "Emplacement"
+          },
+          "value": {
+            "en": "Near town, easy to the sights",
+            "fr": "Près de la ville, sites accessibles"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Value",
+            "fr": "Rapport qualité-prix"
+          },
+          "value": {
+            "en": "Affordable for AlUla",
+            "fr": "Abordable pour AlUla"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🍳",
+          "name": {
+            "en": "Family kitchen time",
+            "fr": "Cuisine en famille"
+          },
+          "detail": {
+            "en": "The in-room kitchenette lets you cook familiar meals and manage bottles on your own schedule.",
+            "fr": "La kitchenette en chambre permet de cuisiner des repas familiers et de gérer les biberons à votre rythme."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Anytime",
+            "fr": "À tout moment"
+          }
+        },
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Pool with a view",
+            "fr": "Piscine avec vue"
+          },
+          "detail": {
+            "en": "The outdoor pool framed by cliffs is a relaxed spot for the kids to cool off.",
+            "fr": "La piscine extérieure encadrée de falaises est un endroit détendu où les enfants se rafraîchissent."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🏛️",
+          "name": {
+            "en": "Old Town outing",
+            "fr": "Sortie à la vieille ville"
+          },
+          "detail": {
+            "en": "The Old Town and its lanes are a short drive away for an easy afternoon of exploring.",
+            "fr": "La vieille ville et ses ruelles sont à un court trajet pour un après-midi d'exploration facile."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "7:30",
+          "title": {
+            "en": "Breakfast in the bungalow",
+            "fr": "Petit-déjeuner au bungalow"
+          },
+          "note": {
+            "en": "Use the kitchenette for a calm start on the kids' timetable.",
+            "fr": "On utilise la kitchenette pour un début tranquille au rythme des enfants."
+          }
+        },
+        {
+          "time": "9:00",
+          "title": {
+            "en": "Sightseeing",
+            "fr": "Visites"
+          },
+          "note": {
+            "en": "Head to Hegra or Elephant Rock while it is cooler.",
+            "fr": "On file vers Hegra ou le rocher de l'Éléphant tant qu'il fait plus frais."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Pool and lunch",
+            "fr": "Piscine et déjeuner"
+          },
+          "note": {
+            "en": "Back for a swim and an easy lunch in your own space.",
+            "fr": "Retour pour une baignade et un déjeuner simple chez soi."
+          }
+        },
+        {
+          "time": "17:30",
+          "title": {
+            "en": "Town stroll",
+            "fr": "Balade en ville"
+          },
+          "note": {
+            "en": "An early dinner and a wander before an early night.",
+            "fr": "Un dîner tôt et une flânerie avant d'aller se coucher tôt."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "The kitchenette and near-town location make this one of the easiest AlUla stays with a baby, with cots on request.",
+          "fr": "La kitchenette et la proximité de la ville en font l'un des séjours les plus simples d'AlUla avec un bébé, avec lits bébé sur demande."
+        },
+        "toddler": {
+          "en": "Self-catering and a private outdoor space suit toddler routines; the pool is a shallow, relaxed spot.",
+          "fr": "Cuisiner soi-même et un espace extérieur privé conviennent au rythme des tout-petits; la piscine est peu profonde et détendue."
+        },
+        "kid": {
+          "en": "Comfortable and central for days out to the sights, though there is no kids club or big-resort buzz.",
+          "fr": "Confortable et central pour les sorties vers les sites, même s'il n'y a ni club enfants ni animation de grand resort."
+        },
+        "teen": {
+          "en": "Fine as a practical base for teens, especially families who value flexibility and lower costs.",
+          "fr": "Correct comme base pratique pour les ados, surtout pour les familles qui privilégient la flexibilité et des coûts réduits."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Does every room have a kitchen?",
+            "fr": "Chaque chambre a-t-elle une cuisine?"
+          },
+          "a": {
+            "en": "Yes, the bungalows and suites come with a kitchenette including a cooktop, oven and fridge, which is a real help for bottles, snacks and simple family meals. It is one of the main reasons families choose Cloud7.",
+            "fr": "Oui, les bungalows et suites disposent d'une kitchenette avec plaque, four et réfrigérateur, une vraie aide pour les biberons, encas et repas familiaux simples. C'est l'une des principales raisons pour lesquelles les familles choisissent Cloud7."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it close to the sights?",
+            "fr": "Est-ce proche des sites?"
+          },
+          "a": {
+            "en": "It sits near AlUla town, closer than the remote valley camps, so Old Town, Elephant Rock and Hegra are all a manageable drive. A hire car still makes family days out easier.",
+            "fr": "C'est proche de la ville d'AlUla, plus près que les camps isolés de la vallée, la vieille ville, le rocher de l'Éléphant et Hegra sont donc tous à un trajet raisonnable. Une voiture de location facilite tout de même les sorties en famille."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a kids club?",
+            "fr": "Y a-t-il un club enfants?"
+          },
+          "a": {
+            "en": "No, Cloud7 is a relaxed, comfortable residence rather than a facilities-heavy resort, so there is no kids club. The appeal is flexibility, self-catering and value rather than organised entertainment.",
+            "fr": "Non, Cloud7 est une résidence détendue et confortable plutôt qu'un resort très équipé, il n'y a donc pas de club enfants. L'attrait tient à la flexibilité, à l'autonomie en cuisine et au prix plutôt qu'aux animations organisées."
+          }
+        }
+      ]
+    },
+    {
+      "key": "alula-sahary-alula-resort",
+      "destinationKey": "alula",
+      "name": "Sahary AlUla Resort",
+      "area": {
+        "en": "AlUla desert, near town",
+        "fr": "Désert d'AlUla, près de la ville"
+      },
+      "lat": 26.642,
+      "lng": 37.95,
+      "zoom": 13,
+      "address": "Sahary AlUla Resort, AlUla, Al Madinah Province, Saudi Arabia",
+      "priceTier": 2,
+      "priceFrom": 150,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "roomCozy",
+        "resortLoungers",
+        "poolDusk"
+      ],
+      "scores": {
+        "rooms": 68,
+        "baby": 78,
+        "pool": 74,
+        "dining": 68,
+        "safety": 78,
+        "convenience": 72,
+        "location": 78,
+        "extras": 72
+      },
+      "roomsSummary": {
+        "en": "Tent-style and cabin rooms dotted around a desert garden, including family rooms with the space a family of four needs, and cots for the little ones (children up to two stay free using a cot). It is glamping rather than luxury, so expect comfortable and practical over polished, but the family formats and the on-site play areas make it one of the more genuinely child-focused places in AlUla.",
+        "fr": "Des chambres façon tente et des cabines réparties dans un jardin désertique, avec des chambres familiales offrant l'espace nécessaire à une famille de quatre, et des lits bébé pour les petits (les enfants jusqu'à deux ans séjournent gratuitement avec un lit bébé). C'est du glamping plutôt que du luxe, attendez-vous donc à du confortable et pratique plutôt qu'à du raffiné, mais les formats familiaux et les aires de jeux sur place en font l'un des endroits les plus réellement tournés vers les enfants d'AlUla."
+      },
+      "intro": {
+        "en": "Sahary is the down-to-earth, family-first camp in AlUla, a glamping-style resort of tents and cabins set in a desert garden, and it stands out for one simple reason: it actually has things for children to do. There is an indoor play area, outdoor play equipment and even a baby safety gate on request, a year-round outdoor pool, and family rooms that fit everyone, all at a price well below the luxury valley resorts. Children of all ages are welcome and under-twos stay free, which makes it one of the friendliest AlUla options for families with babies and toddlers. It is simple rather than stylish and the dining is basic, so it will not suit families chasing a design-led desert dream, but for practical, affordable, genuinely kid-friendly desert nights it is a lovely surprise.",
+        "fr": "Sahary est le camp terre à terre et résolument familial d'AlUla, un resort façon glamping fait de tentes et de cabines dans un jardin désertique, et il se distingue pour une raison simple: il y a réellement de quoi occuper les enfants. On y trouve une aire de jeux intérieure, des équipements de jeu extérieurs et même une barrière de sécurité pour bébé sur demande, une piscine extérieure ouverte toute l'année, et des chambres familiales qui logent tout le monde, le tout à un prix bien inférieur aux resorts de luxe de la vallée. Les enfants de tout âge sont les bienvenus et les moins de deux ans séjournent gratuitement, ce qui en fait l'une des options les plus accueillantes d'AlUla pour les familles avec bébés et tout-petits. C'est simple plutôt que stylé et la restauration est basique, cela ne conviendra donc pas aux familles en quête d'un rêve désertique très design, mais pour des nuits dans le désert pratiques, abordables et vraiment adaptées aux enfants, c'est une jolie surprise."
+      },
+      "highlights": {
+        "en": [
+          "Indoor play area and outdoor play equipment for kids",
+          "Baby safety gate available and under-twos stay free",
+          "Year-round outdoor pool and family rooms",
+          "Well below the price of the luxury valley resorts"
+        ],
+        "fr": [
+          "Aire de jeux intérieure et équipements de jeu extérieurs",
+          "Barrière de sécurité bébé disponible et moins de deux ans gratuits",
+          "Piscine extérieure toute l'année et chambres familiales",
+          "Bien moins cher que les resorts de luxe de la vallée"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Genuine play facilities, rare in AlUla, for young children",
+          "Very family-friendly policies including free under-twos",
+          "Affordable desert glamping the whole family can enjoy",
+          "Family rooms and cots make it easy with little ones"
+        ],
+        "fr": [
+          "De vrais équipements de jeu, rares à AlUla, pour les jeunes enfants",
+          "Politiques très familiales, dont la gratuité des moins de deux ans",
+          "Un glamping désertique abordable pour toute la famille",
+          "Chambres familiales et lits bébé qui simplifient la vie avec les petits"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Simple and practical rather than stylish or luxurious",
+          "Dining is basic and choice is limited",
+          "Tented rooms plus a light-sleeping baby can be a challenge"
+        ],
+        "fr": [
+          "Simple et pratique plutôt que stylé ou luxueux",
+          "La restauration est basique et le choix limité",
+          "Chambres sous tente et bébé au sommeil léger peuvent faire mauvais ménage"
+        ]
+      },
+      "verdict": {
+        "en": "The most genuinely kid-friendly and affordable stay in AlUla, with actual playgrounds, a pool and family-first policies. Choose it for practical, budget-friendly desert nights with young children, not for boutique polish.",
+        "fr": "Le séjour le plus réellement adapté aux enfants et le plus abordable d'AlUla, avec de vraies aires de jeux, une piscine et des politiques pensées pour les familles. Choisissez-le pour des nuits dans le désert pratiques et économiques avec de jeunes enfants, pas pour un raffinement de boutique-hôtel."
+      },
+      "parentTip": {
+        "en": "Request the baby safety gate and a family room near the play area when you book: having the indoor playground and the pool close by turns the long, hot middle of the day into the easy part with toddlers.",
+        "fr": "Demandez la barrière de sécurité bébé et une chambre familiale près de l'aire de jeux à la réservation: avoir l'aire de jeux intérieure et la piscine à proximité transforme le long milieu de journée, chaud, en moment facile avec des tout-petits."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "For kids",
+            "fr": "Pour les enfants"
+          },
+          "value": {
+            "en": "Indoor and outdoor play areas",
+            "fr": "Aires de jeux intérieure et extérieure"
+          }
+        },
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Babies",
+            "fr": "Bébés"
+          },
+          "value": {
+            "en": "Safety gate, under-twos free",
+            "fr": "Barrière de sécurité, moins de 2 ans gratuits"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "Year-round outdoor pool",
+            "fr": "Piscine extérieure toute l'année"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Value",
+            "fr": "Rapport qualité-prix"
+          },
+          "value": {
+            "en": "Most affordable in AlUla",
+            "fr": "Le plus abordable d'AlUla"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "Playground time",
+            "fr": "Temps à l'aire de jeux"
+          },
+          "detail": {
+            "en": "Indoor and outdoor play areas give children a safe place to run, unusual for an AlUla resort.",
+            "fr": "Des aires de jeux intérieure et extérieure offrent aux enfants un endroit sûr pour courir, chose rare dans un resort d'AlUla."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Anytime",
+            "fr": "À tout moment"
+          }
+        },
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Pool afternoon",
+            "fr": "Après-midi à la piscine"
+          },
+          "detail": {
+            "en": "The outdoor pool is a cooling break for the whole family during the desert heat.",
+            "fr": "La piscine extérieure est une pause rafraîchissante pour toute la famille pendant la chaleur du désert."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Après-midi"
+          }
+        },
+        {
+          "emoji": "🔥",
+          "name": {
+            "en": "Campfire evening",
+            "fr": "Soirée au feu de camp"
+          },
+          "detail": {
+            "en": "An outdoor fireplace and desert garden make for a gentle, memorable family evening.",
+            "fr": "Un foyer extérieur et un jardin désertique composent une soirée en famille douce et mémorable."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soirée"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Breakfast",
+            "fr": "Petit-déjeuner"
+          },
+          "note": {
+            "en": "Simple start before the morning warms up.",
+            "fr": "Un début simple avant que la matinée ne se réchauffe."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Sightseeing",
+            "fr": "Visites"
+          },
+          "note": {
+            "en": "A cooler-hours trip to Elephant Rock or Old Town.",
+            "fr": "Une sortie aux heures fraîches vers le rocher de l'Éléphant ou la vieille ville."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Play area and pool",
+            "fr": "Aire de jeux et piscine"
+          },
+          "note": {
+            "en": "Indoor play through the peak heat, then a swim.",
+            "fr": "Jeux à l'intérieur pendant le pic de chaleur, puis une baignade."
+          }
+        },
+        {
+          "time": "18:30",
+          "title": {
+            "en": "Campfire supper",
+            "fr": "Dîner au feu de camp"
+          },
+          "note": {
+            "en": "A relaxed dinner and the fire pit as the desert cools.",
+            "fr": "Un dîner détendu et le foyer quand le désert se rafraîchit."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "One of AlUla's most baby-friendly stays: cots, a baby safety gate on request and free under-twos, though a tented room means light sleepers hear more.",
+          "fr": "L'un des séjours les plus adaptés aux bébés d'AlUla: lits bébé, barrière de sécurité sur demande et gratuité des moins de deux ans, mais une chambre sous tente laisse entendre davantage les sommeils légers."
+        },
+        "toddler": {
+          "en": "The play areas and shallow pool make this a genuinely toddler-happy spot, rare in the region.",
+          "fr": "Les aires de jeux et la piscine peu profonde en font un endroit vraiment agréable pour les tout-petits, ce qui est rare dans la région."
+        },
+        "kid": {
+          "en": "Space to run, a playground and a pool keep this age busy at a family-friendly price.",
+          "fr": "De l'espace pour courir, une aire de jeux et une piscine occupent cet âge à un prix accessible aux familles."
+        },
+        "teen": {
+          "en": "Simpler and less stylish than the boutique camps, so teens chasing cool may find it plain, but the value is strong.",
+          "fr": "Plus simple et moins stylé que les camps de charme, les ados en quête de tendance peuvent le trouver quelconque, mais le rapport qualité-prix est solide."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Does it really have facilities for young children?",
+            "fr": "A-t-il vraiment des équipements pour les jeunes enfants?"
+          },
+          "a": {
+            "en": "Yes, and that is its strength: there is an indoor play area, outdoor play equipment and a baby safety gate on request, which is unusual for AlUla. Combined with free under-twos, it is one of the friendliest options for families with little ones.",
+            "fr": "Oui, et c'est sa force: il y a une aire de jeux intérieure, des équipements de jeu extérieurs et une barrière de sécurité bébé sur demande, ce qui est rare à AlUla. Avec la gratuité des moins de deux ans, c'est l'une des options les plus accueillantes pour les familles avec de jeunes enfants."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it comfortable enough for a family?",
+            "fr": "Est-ce assez confortable pour une famille?"
+          },
+          "a": {
+            "en": "It is comfortable and practical glamping rather than luxury, with family rooms and a pool. Dining is basic and it is not stylish, so set expectations for a simple, functional stay rather than a design retreat.",
+            "fr": "C'est du glamping confortable et pratique plutôt que du luxe, avec des chambres familiales et une piscine. La restauration est basique et ce n'est pas stylé, prévoyez donc un séjour simple et fonctionnel plutôt qu'une retraite design."
+          }
+        },
+        {
+          "q": {
+            "en": "How far is it from the sights?",
+            "fr": "Est-ce loin des sites?"
+          },
+          "a": {
+            "en": "It sits in the desert but relatively near town, so Old Town, Elephant Rock and Hegra are all a manageable drive. As everywhere in AlUla, a hire car or arranged transfers make family days out easier.",
+            "fr": "Il est dans le désert mais relativement proche de la ville, la vieille ville, le rocher de l'Éléphant et Hegra sont donc tous à un trajet raisonnable. Comme partout à AlUla, une voiture de location ou des transferts organisés facilitent les sorties en famille."
+          }
+        }
+      ]
+    },
+    {
+      "key": "alula-ashar-tented-resort",
+      "destinationKey": "alula",
+      "name": "Ashar Tented Resort",
+      "area": {
+        "en": "Ashar Valley",
+        "fr": "Vallée d'Ashar"
+      },
+      "lat": 26.696,
+      "lng": 37.995,
+      "zoom": 13,
+      "address": "Ashar Tented Resort, Ashar Valley, AlUla, Al Madinah Province, Saudi Arabia",
+      "priceTier": 4,
+      "priceFrom": 650,
+      "ages": [
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "villaInterior",
+        "poolTropicalMtn",
+        "resortLoungers"
+      ],
+      "scores": {
+        "rooms": 84,
+        "baby": 64,
+        "pool": 82,
+        "dining": 82,
+        "safety": 80,
+        "convenience": 60,
+        "location": 92,
+        "extras": 86
+      },
+      "roomsSummary": {
+        "en": "Luxury tents strung along the Ashar Valley floor, from one-bedroom up to a two-bedroom tent suite of around 90 square metres that is built for a small family, each with en-suite bathrooms, a living room and a terrace with sun loungers and a fireplace. The two-bedroom suites give parents and children their own space under canvas, and cots can be arranged, though a soft-sided tent is worth weighing with a very light-sleeping baby.",
+        "fr": "Des tentes de luxe alignées au fond de la vallée d'Ashar, de la tente d'une chambre à la suite de deux chambres d'environ 90 mètres carrés, conçue pour une petite famille, chacune avec salles de bain privatives, salon et terrasse dotée de transats et d'un foyer. Les suites de deux chambres offrent aux parents et aux enfants leur propre espace sous toile, et des lits bébé peuvent être organisés, même si une tente à parois souples mérite réflexion avec un bébé au sommeil très léger."
+      },
+      "intro": {
+        "en": "Ashar Tented Resort is the luxury canvas experience in the heart of the Ashar Valley, part of the same Banyan Tree-run stretch of desert but with the drama turned up: your suite is a beautifully appointed tent with the sandstone walls rising straight ahead. For families the two-bedroom tent suite is the key, giving a small family a proper living room, two bedrooms and a private terrace with a fire pit, plus access to an outdoor pool and the valley's activities (hiking, horse riding, stargazing). It is undeniably special and undeniably remote, with no kids club, long drives to the sights and the practical realities of tented living, so it lands best with kids from toddler age up rather than tiny babies. For a family that wants the wow of sleeping under canvas in one of Arabia's most spectacular valleys, it delivers.",
+        "fr": "Ashar Tented Resort, c'est l'expérience de luxe sous toile au cœur de la vallée d'Ashar, sur le même secteur désertique exploité par Banyan Tree mais avec le spectacle poussé plus loin: votre suite est une tente magnifiquement aménagée, les parois de grès dressées droit devant. Pour les familles, la suite-tente de deux chambres est l'essentiel, offrant à une petite famille un vrai salon, deux chambres et une terrasse privée avec foyer, plus l'accès à une piscine extérieure et aux activités de la vallée (randonnée, équitation, observation des étoiles). C'est indéniablement spécial et indéniablement isolé, sans club enfants, avec de longs trajets vers les sites et les réalités pratiques de la vie sous tente, cela convient donc surtout aux enfants à partir de l'âge des tout-petits plutôt qu'aux tout jeunes bébés. Pour une famille qui veut l'effet waouh de dormir sous toile dans l'une des vallées les plus spectaculaires d'Arabie, il tient sa promesse."
+      },
+      "highlights": {
+        "en": [
+          "Two-bedroom tent suites of around 90 square metres for families",
+          "Beautiful Ashar Valley setting under canvas",
+          "Outdoor pool plus hiking, horse riding and stargazing",
+          "Private terraces with sun loungers and a fire pit"
+        ],
+        "fr": [
+          "Suites-tentes de deux chambres d'environ 90 m2 pour les familles",
+          "Superbe cadre de la vallée d'Ashar sous toile",
+          "Piscine extérieure plus randonnée, équitation et étoiles",
+          "Terrasses privées avec transats et foyer"
+        ]
+      },
+      "pros": {
+        "en": [
+          "The two-bedroom suites give a small family real space",
+          "A genuinely spectacular, memorable desert setting",
+          "Outdoor pool and a good range of desert activities",
+          "Quality dining and service under canvas"
+        ],
+        "fr": [
+          "Les suites de deux chambres offrent un vrai espace à une petite famille",
+          "Un cadre désertique vraiment spectaculaire et mémorable",
+          "Piscine extérieure et un bon éventail d'activités du désert",
+          "Restauration et service de qualité sous toile"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Remote, with no kids club and long drives to the sights",
+          "Tented living can be tricky with a very young baby",
+          "A high-end price for a canvas stay"
+        ],
+        "fr": [
+          "Isolé, sans club enfants et avec de longs trajets vers les sites",
+          "La vie sous tente peut être délicate avec un très jeune bébé",
+          "Un tarif haut de gamme pour un séjour sous toile"
+        ]
+      },
+      "verdict": {
+        "en": "A spectacular luxury-tent stay for families with toddlers and older kids who will love sleeping under canvas in the Ashar Valley, best in the two-bedroom suite. Weigh the remoteness and tented living carefully if you are travelling with a baby.",
+        "fr": "Un séjour spectaculaire en tente de luxe pour les familles avec tout-petits et grands enfants qui adoreront dormir sous toile dans la vallée d'Ashar, idéalement dans la suite de deux chambres. Pesez bien l'isolement et la vie sous tente si vous voyagez avec un bébé."
+      },
+      "parentTip": {
+        "en": "Book the two-bedroom tent suite so the children have their own room: with the parents and kids separated by a proper living space, bedtimes are far calmer than in a single open tent.",
+        "fr": "Réservez la suite-tente de deux chambres pour que les enfants aient leur propre chambre: avec parents et enfants séparés par un vrai espace de vie, les couchers sont bien plus sereins que dans une seule tente ouverte."
+      },
+      "atAGlance": [
+        {
+          "icon": "⛺",
+          "label": {
+            "en": "The rooms",
+            "fr": "Les chambres"
+          },
+          "value": {
+            "en": "Luxury tents in Ashar Valley",
+            "fr": "Tentes de luxe, vallée d'Ashar"
+          }
+        },
+        {
+          "icon": "🏡",
+          "label": {
+            "en": "Family suite",
+            "fr": "Suite familiale"
+          },
+          "value": {
+            "en": "Two-bedroom, around 90 sqm",
+            "fr": "Deux chambres, environ 90 m2"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "Outdoor pool on site",
+            "fr": "Piscine extérieure sur place"
+          }
+        },
+        {
+          "icon": "🚗",
+          "label": {
+            "en": "Getting around",
+            "fr": "Déplacements"
+          },
+          "value": {
+            "en": "Remote, car needed",
+            "fr": "Isolé, voiture nécessaire"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Pool morning",
+            "fr": "Matinée à la piscine"
+          },
+          "detail": {
+            "en": "The outdoor pool against the valley walls is a fine spot to cool the kids down before the heat peaks.",
+            "fr": "La piscine extérieure sur fond de parois de la vallée est un bel endroit pour rafraîchir les enfants avant le pic de chaleur."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🐎",
+          "name": {
+            "en": "Horse riding",
+            "fr": "Équitation"
+          },
+          "detail": {
+            "en": "Guided rides through the sands that older children and teens find thrilling, arranged in advance.",
+            "fr": "Des balades guidées sur le sable que les grands enfants et les ados trouvent grisantes, organisées à l'avance."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Late afternoon",
+            "fr": "Fin d'après-midi"
+          }
+        },
+        {
+          "emoji": "✨",
+          "name": {
+            "en": "Stargazing",
+            "fr": "Observation des étoiles"
+          },
+          "detail": {
+            "en": "The valley's dark skies are perfect for an after-dinner look at the stars with the family.",
+            "fr": "Le ciel très sombre de la vallée est parfait pour observer les étoiles en famille après le dîner."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soirée"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Breakfast under canvas",
+            "fr": "Petit-déjeuner sous toile"
+          },
+          "note": {
+            "en": "Eat early with the cliffs glowing in the morning light.",
+            "fr": "On mange tôt, les falaises rougeoyant dans la lumière du matin."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Pool and shade",
+            "fr": "Piscine et ombre"
+          },
+          "note": {
+            "en": "Swim while it is cooler, then shelter from the midday sun.",
+            "fr": "On nage tant qu'il fait plus frais, puis on s'abrite du soleil de midi."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Tent siesta",
+            "fr": "Sieste sous la tente"
+          },
+          "note": {
+            "en": "Rest in the air-conditioned tent through the hottest hours.",
+            "fr": "On se repose dans la tente climatisée aux heures les plus chaudes."
+          }
+        },
+        {
+          "time": "17:00",
+          "title": {
+            "en": "Ride or valley walk",
+            "fr": "Balade à cheval ou marche"
+          },
+          "note": {
+            "en": "An adventure outing as the temperature eases.",
+            "fr": "Une sortie aventure quand la température s'adoucit."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Possible in a two-bedroom suite with a cot, but soft-sided tents and a remote valley make life with a very young baby harder than at a bricks-and-mortar hotel.",
+          "fr": "Possible dans une suite de deux chambres avec un lit bébé, mais les tentes à parois souples et la vallée isolée rendent la vie avec un très jeune bébé plus difficile qu'à l'hôtel en dur."
+        },
+        "toddler": {
+          "en": "Toddlers do well here in a family suite, with the pool and the space; keep an eye on the fire pit and open desert.",
+          "fr": "Les tout-petits s'y plaisent dans une suite familiale, avec la piscine et l'espace; surveillez le foyer et le désert ouvert."
+        },
+        "kid": {
+          "en": "This age loves the adventure of a luxury tent, the pool and the horse riding, with no kids club needed.",
+          "fr": "Cet âge adore l'aventure d'une tente de luxe, la piscine et l'équitation, sans avoir besoin de club enfants."
+        },
+        "teen": {
+          "en": "Teens are wowed by sleeping under canvas in such a setting, plus the activities and the photography.",
+          "fr": "Les ados sont bluffés de dormir sous toile dans un tel décor, avec en prime les activités et la photo."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Will a tent suite fit our family?",
+            "fr": "Une suite-tente conviendra-t-elle à notre famille?"
+          },
+          "a": {
+            "en": "Yes, the two-bedroom tent suite is around 90 square metres with a living room, two bedrooms and a private terrace, built for a small family. Book that format specifically rather than a one-bedroom tent.",
+            "fr": "Oui, la suite-tente de deux chambres fait environ 90 mètres carrés avec salon, deux chambres et terrasse privée, conçue pour une petite famille. Réservez expressément ce format plutôt qu'une tente d'une chambre."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it suitable for a baby?",
+            "fr": "Est-ce adapté à un bébé?"
+          },
+          "a": {
+            "en": "It can work in a two-bedroom suite with a cot, but tented living and a remote valley make it harder with a very young baby than a conventional hotel. It suits toddlers and older children more comfortably.",
+            "fr": "C'est possible dans une suite de deux chambres avec un lit bébé, mais la vie sous tente et une vallée isolée la rendent plus difficile avec un très jeune bébé qu'un hôtel classique. Elle convient plus confortablement aux tout-petits et aux plus grands."
+          }
+        },
+        {
+          "q": {
+            "en": "How does it differ from Banyan Tree AlUla?",
+            "fr": "En quoi diffère-t-il de Banyan Tree AlUla?"
+          },
+          "a": {
+            "en": "Both sit in the same Ashar Valley and share a luxury standard, but Ashar Tented Resort is a canvas-tent experience while Banyan Tree AlUla centres on villas, many with private pools. Choose the tents for the canvas adventure and the villas for private-pool space.",
+            "fr": "Les deux se trouvent dans la même vallée d'Ashar et partagent un standard de luxe, mais Ashar Tented Resort est une expérience sous tente tandis que Banyan Tree AlUla mise sur des villas, souvent à piscine privée. Choisissez les tentes pour l'aventure sous toile et les villas pour l'espace avec piscine privée."
+          }
+        }
+      ]
+    }
+  ],
+  "destinationMeta": {
+    "name": {
+      "en": "AlUla",
+      "fr": "AlUla"
+    },
+    "country": {
+      "en": "Saudi Arabia",
+      "fr": "Arabie saoudite"
+    },
+    "emoji": "🏜️",
+    "accent": "c26a3d",
+    "geo": {
+      "lat": 26.6117,
+      "lng": 37.921,
+      "zoom": 11
+    },
+    "heroKicker": {
+      "en": "Desert wonder, UNESCO tombs and dark-sky nights for curious families",
+      "fr": "Merveille du désert, tombeaux classés UNESCO et nuits étoilées pour les familles curieuses"
+    },
+    "intro": {
+      "en": "AlUla is Saudi Arabia's headline desert destination, a vast valley of sculpted sandstone cliffs, palm oases and ancient sites that has opened up fast under the country's Vision 2030 tourism push. For families it is genuinely wondrous: children get to clamber (with guides) around 2,000-year-old Nabataean tombs at UNESCO-listed Hegra, stand under the giant natural Elephant Rock, wander a restored mudbrick Old Town and watch some of the darkest, most star-filled skies on Earth. The trade-offs are real and worth planning for: it is remote and spread out, so you need a car and days built around the heat, most stays are design-led desert resorts and tented camps with no kids club, and the summer is genuinely fierce. But October to March brings warm days and cool nights that suit families, the culture is conservative yet strikingly warm and welcoming to children, and it is entirely alcohol-free, which many parents find relaxing. Think of it as an adventure-and-nature trip rather than a splash-park holiday.",
+      "fr": "AlUla est la destination désertique phare de l'Arabie saoudite, une immense vallée de falaises de grès sculptées, d'oasis de palmiers et de sites anciens qui s'est ouverte à grande vitesse sous l'impulsion touristique de la Vision 2030 du pays. Pour les familles, c'est vraiment merveilleux: les enfants peuvent explorer (avec des guides) des tombeaux nabatéens vieux de 2000 ans à Hegra, classée UNESCO, se tenir sous le géant rocher de l'Éléphant, flâner dans une vieille ville de terre restaurée et contempler l'un des ciels les plus sombres et les plus étoilés de la planète. Les contreparties sont réelles et méritent d'être anticipées: c'est isolé et étendu, il faut donc une voiture et des journées organisées autour de la chaleur, la plupart des hébergements sont des resorts et camps sous tente au design soigné, sans club enfants, et l'été est vraiment écrasant. Mais d'octobre à mars, les journées chaudes et les nuits fraîches conviennent aux familles, la culture est conservatrice mais remarquablement chaleureuse et accueillante envers les enfants, et tout est sans alcool, ce que beaucoup de parents trouvent reposant. Voyez cela comme un voyage d'aventure et de nature plutôt que des vacances à toboggans."
+    },
+    "whyKids": {
+      "en": [
+        "Clamber around 2,000-year-old Nabataean tombs at UNESCO-listed Hegra with a guide",
+        "Stand under the giant natural Elephant Rock, a favourite family photo spot",
+        "Explore the restored mudbrick lanes of AlUla Old Town",
+        "Some of the darkest skies on Earth for real, jaw-dropping stargazing",
+        "Desert adventures kids love: buggy rides, oasis walks and horse riding"
+      ],
+      "fr": [
+        "Explorer avec un guide les tombeaux nabatéens vieux de 2000 ans à Hegra, classée UNESCO",
+        "Se tenir sous le géant rocher de l'Éléphant, spot photo préféré des familles",
+        "Parcourir les ruelles de terre restaurées de la vieille ville d'AlUla",
+        "L'un des ciels les plus sombres de la planète pour une observation des étoiles bluffante",
+        "Des aventures du désert que les enfants adorent: buggys, balades dans l'oasis et équitation"
+      ]
+    },
+    "bestAreas": {
+      "en": [
+        "Ashar Valley: the luxury heart of AlUla, with design-led villa and tented resorts under soaring cliffs, remote and beautiful but a drive from the sights",
+        "AlUla Old Town: restored heritage lanes and a boutique house hotel, atmospheric and central to the main attractions",
+        "Near AlUla town: the practical zone for value resorts and self-catering stays, closest to shops and easiest for supplies",
+        "Hegra and Dadan area: the archaeological north, the UNESCO tombs and ancient sites you visit rather than stay in"
+      ],
+      "fr": [
+        "Vallée d'Ashar: le cœur de luxe d'AlUla, avec resorts en villas et sous tente au design soigné sous des falaises vertigineuses, isolé et superbe mais à distance des sites",
+        "Vieille ville d'AlUla: ruelles patrimoniales restaurées et un hôtel-maisons de charme, chargé d'atmosphère et central pour les principales attractions",
+        "Près de la ville d'AlUla: la zone pratique pour les resorts abordables et les séjours en autonomie, la plus proche des commerces et la plus simple pour les provisions",
+        "Secteur de Hegra et Dadan: le nord archéologique, les tombeaux classés UNESCO et les sites anciens que l'on visite plutôt que d'y loger"
+      ]
+    },
+    "stats": [
+      {
+        "value": "1h20",
+        "label": {
+          "en": "Flight from Riyadh to AlUla",
+          "fr": "Vol de Riyad à AlUla"
+        }
+      },
+      {
+        "value": "111",
+        "label": {
+          "en": "Rock-cut tombs at Hegra",
+          "fr": "Tombeaux taillés dans la roche à Hegra"
+        }
+      },
+      {
+        "value": "40C+",
+        "label": {
+          "en": "Typical peak summer heat",
+          "fr": "Chaleur typique en plein été"
+        }
+      },
+      {
+        "value": "UNESCO",
+        "label": {
+          "en": "Hegra, the country's first World Heritage Site",
+          "fr": "Hegra, premier site du patrimoine mondial du pays"
+        }
+      }
+    ],
+    "activities": [
+      {
+        "emoji": "🏛️",
+        "name": {
+          "en": "Hegra tombs tour",
+          "fr": "Visite des tombeaux de Hegra"
+        },
+        "detail": {
+          "en": "A guided rawi-led tour of the 2,000-year-old Nabataean tombs, with a hop-on bus that keeps little legs happy between stops.",
+          "fr": "Une visite guidée par un rawi des tombeaux nabatéens vieux de 2000 ans, avec un bus qui monte et descend et ménage les petites jambes entre les arrêts."
+        },
+        "ages": [
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Morning",
+          "fr": "Matin"
+        }
+      },
+      {
+        "emoji": "🐘",
+        "name": {
+          "en": "Elephant Rock",
+          "fr": "Rocher de l'Éléphant"
+        },
+        "detail": {
+          "en": "An easy stop at the giant elephant-shaped rock, with beanbag seating below, a favourite at sunset with kids.",
+          "fr": "Un arrêt facile au rocher géant en forme d'éléphant, avec des poufs en contrebas, un moment préféré au coucher du soleil avec les enfants."
+        },
+        "ages": [
+          "baby",
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Late afternoon",
+          "fr": "Fin d'après-midi"
+        }
+      },
+      {
+        "emoji": "🏺",
+        "name": {
+          "en": "Old Town lanes",
+          "fr": "Ruelles de la vieille ville"
+        },
+        "detail": {
+          "en": "Wander the restored mudbrick Old Town and its small shops and cafes, a gentle, shaded afternoon of exploring.",
+          "fr": "Flânez dans la vieille ville de terre restaurée, ses petites boutiques et ses cafés, un après-midi d'exploration doux et ombragé."
+        },
+        "ages": [
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Afternoon",
+          "fr": "Après-midi"
+        }
+      },
+      {
+        "emoji": "✨",
+        "name": {
+          "en": "Stargazing night",
+          "fr": "Nuit sous les étoiles"
+        },
+        "detail": {
+          "en": "AlUla's protected dark skies make for genuinely magical stargazing, with guided sessions and telescopes the whole family can share.",
+          "fr": "Le ciel nocturne protégé d'AlUla offre une observation des étoiles vraiment magique, avec des séances guidées et des télescopes que toute la famille peut partager."
+        },
+        "ages": [
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Evening",
+          "fr": "Soirée"
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "q": {
+          "en": "Is AlUla okay to visit with young kids?",
+          "fr": "AlUla se visite-t-elle bien avec de jeunes enfants?"
+        },
+        "a": {
+          "en": "Yes, with realistic expectations. It is an adventure-and-nature destination rather than a resort holiday: the sights are spread out and need a car, the heat shapes the day, and most stays have no kids club. But the culture is very welcoming to children, the sites are genuinely wondrous, and family-friendly resorts with pools do exist. Build days around the cool morning and evening, and rest through the midday heat.",
+          "fr": "Oui, avec des attentes réalistes. C'est une destination d'aventure et de nature plutôt que des vacances en resort: les sites sont dispersés et nécessitent une voiture, la chaleur rythme la journée, et la plupart des hébergements n'ont pas de club enfants. Mais la culture est très accueillante envers les enfants, les sites sont vraiment merveilleux, et il existe des resorts familiaux avec piscine. Organisez les journées autour du matin et du soir plus frais, et reposez-vous pendant la chaleur de midi."
+        }
+      },
+      {
+        "q": {
+          "en": "How do we get to AlUla?",
+          "fr": "Comment rejoint-on AlUla?"
+        },
+        "a": {
+          "en": "AlUla has its own airport (code ULH) with direct flights from Riyadh (about 1 hour 20), Jeddah and Dubai, plus seasonal international routes. From the airport you will want a hire car or arranged transfers, as the sights and most resorts are a drive apart and there is little public transport.",
+          "fr": "AlUla possède son propre aéroport (code ULH) avec des vols directs depuis Riyad (environ 1h20), Djeddah et Dubaï, ainsi que des lignes internationales saisonnières. Depuis l'aéroport, il vous faudra une voiture de location ou des transferts organisés, car les sites et la plupart des resorts sont à distance en voiture et les transports en commun sont rares."
+        }
+      },
+      {
+        "q": {
+          "en": "When is the best time to go?",
+          "fr": "Quelle est la meilleure période pour partir?"
+        },
+        "a": {
+          "en": "October to March is the family season, with warm days and cool desert nights that are comfortable for children and pleasant for sightseeing. Avoid June to August if you can: the heat regularly tops 40C and really only allows short outings around the pool and the coolest hours.",
+          "fr": "D'octobre à mars, c'est la saison des familles, avec des journées chaudes et des nuits fraîches du désert, confortables pour les enfants et agréables pour les visites. Évitez si possible de juin à août: la chaleur dépasse régulièrement 40C et ne permet vraiment que de courtes sorties autour de la piscine et aux heures les plus fraîches."
+        }
+      },
+      {
+        "q": {
+          "en": "Is it very conservative, and is there alcohol?",
+          "fr": "Est-ce très conservateur, et y a-t-il de l'alcool?"
+        },
+        "a": {
+          "en": "AlUla is culturally conservative and entirely alcohol-free, which many parents actually find relaxing. Dress modestly at the sites and in public (loose clothing covering shoulders and knees), and you will find locals and staff strikingly warm and welcoming to families with children.",
+          "fr": "AlUla est culturellement conservatrice et totalement sans alcool, ce que beaucoup de parents trouvent en fait reposant. Habillez-vous de façon couvrante sur les sites et en public (vêtements amples couvrant épaules et genoux), et vous trouverez habitants et personnel remarquablement chaleureux et accueillants envers les familles avec enfants."
+        }
+      }
+    ],
+    "parentTip": {
+      "en": "Build every day around the heat: sightsee at Hegra and Elephant Rock in the cool of the early morning, retreat to the pool and a shaded rest through the fierce midday hours, then head back out for stargazing after dinner when the desert is beautiful and cool.",
+      "fr": "Organisez chaque journée autour de la chaleur: visitez Hegra et le rocher de l'Éléphant à la fraîche tôt le matin, repliez-vous à la piscine et au repos ombragé pendant les heures écrasantes de midi, puis ressortez pour observer les étoiles après le dîner, quand le désert est beau et frais."
+    },
+    "goodToKnow": {
+      "en": "AlUla has its own airport (ULH) with direct flights from Riyadh (about 1 hour 20), Jeddah and Dubai, and you will want a hire car or arranged transfers on arrival, as the sights and resorts are spread out with little public transport. The heat is dry rather than humid but still fierce in summer, so October to March is the family window, and sun protection, hats and water matter year-round. The culture is conservative: dress modestly in public, and note the destination is entirely alcohol-free, though you will find it strikingly warm and welcoming to children. Most stays are desert resorts or tented camps with no kids club, so plan your own daily rhythm, and book major sites and activities such as Hegra in advance as they use timed, guided entry.",
+      "fr": "AlUla possède son propre aéroport (ULH) avec des vols directs depuis Riyad (environ 1h20), Djeddah et Dubaï, et il vous faudra une voiture de location ou des transferts organisés à l'arrivée, car les sites et les resorts sont dispersés et les transports en commun rares. La chaleur est sèche plutôt qu'humide mais reste écrasante en été, la fenêtre familiale va donc d'octobre à mars, et protection solaire, chapeaux et eau comptent toute l'année. La culture est conservatrice: habillez-vous de façon couvrante en public, et sachez que la destination est totalement sans alcool, même si vous la trouverez remarquablement chaleureuse et accueillante envers les enfants. La plupart des hébergements sont des resorts du désert ou des camps sous tente sans club enfants, prévoyez donc votre propre rythme quotidien, et réservez à l'avance les grands sites et activités comme Hegra, dont l'entrée se fait à horaire fixe et avec guide."
+    },
+    "photos": [
+      "poolTropicalMtn",
+      "villaModern",
+      "resortLoungers"
+    ]
+  }
+}
