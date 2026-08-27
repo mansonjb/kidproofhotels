@@ -1,0 +1,1486 @@
+{
+  "hotels": [
+    {
+      "key": "disneyland-paris-disney-hotel-new-york-art-of-marvel",
+      "destinationKey": "disneyland-paris",
+      "name": "Disney Hotel New York, The Art of Marvel",
+      "area": {
+        "en": "On-site, Lake Disney",
+        "fr": "Sur place, Lake Disney"
+      },
+      "lat": 48.8686,
+      "lng": 2.7862,
+      "zoom": 12,
+      "address": "Avenue René Goscinny, 77700 Chessy, France",
+      "priceTier": 4,
+      "priceFrom": 350,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "scores": {
+        "rooms": 88,
+        "baby": 80,
+        "pool": 82,
+        "dining": 84,
+        "safety": 85,
+        "convenience": 88,
+        "location": 86,
+        "extras": 90
+      },
+      "roomsSummary": {
+        "en": "Superior family rooms sleep up to four and connecting rooms are available for larger groups, with premium bedding, a cot on request and space for a pram. The rooms are the smartest on the resort, dressed in a slick New York style, and the sound-proofing means a baby can nap while older kids are still buzzing about Iron Man.",
+        "fr": "Les chambres familiales Supérieures accueillent jusqu'à quatre personnes et des chambres communicantes existent pour les groupes plus grands, avec literie haut de gamme, lit bébé sur demande et place pour une poussette. Ce sont les chambres les plus soignées de la destination, habillées d'un style new-yorkais chic, et l'insonorisation permet à un bébé de faire la sieste pendant que les grands parlent encore d'Iron Man."
+      },
+      "intro": {
+        "en": "This is the flagship of the Disney hotels, a design-led Marvel hotel roughly a ten-minute walk from the park gates or a quick free shuttle. Superheroes are woven through the whole stay: over 350 pieces of Marvel artwork on the walls, a Marvel Design Studio where kids learn to draw the characters, the outdoor Hero Training Zone, and character moments with Spider-Man and friends. Staying here gets you Extra Magic Time in the parks before they open, plus the indoor and outdoor Metro Pool with a shallow kiddie section.",
+        "fr": "C'est le vaisseau amiral des hôtels Disney, un hôtel Marvel très design à une dizaine de minutes à pied des portes du parc ou une courte navette gratuite. Les super-héros habillent tout le séjour : plus de 350 œuvres Marvel aux murs, un Marvel Design Studio où les enfants apprennent à dessiner les personnages, la Hero Training Zone en extérieur et des rencontres avec Spider-Man et sa bande. Y loger donne accès aux Extra Magic Time dans les parcs avant l'ouverture, ainsi qu'à la Metro Pool intérieure et extérieure avec une partie peu profonde pour les petits."
+      },
+      "highlights": {
+        "en": [
+          "The smartest Disney hotel, about a ten-minute walk from the parks",
+          "Extra Magic Time in the parks before official opening",
+          "Marvel Design Studio and character moments with Spider-Man",
+          "Indoor and outdoor Metro Pool with a shallow kiddie area",
+          "Superior family rooms and connecting rooms for larger families"
+        ],
+        "fr": [
+          "L'hôtel Disney le plus chic, à une dizaine de minutes à pied des parcs",
+          "Extra Magic Time dans les parcs avant l'ouverture officielle",
+          "Marvel Design Studio et rencontres avec Spider-Man",
+          "Metro Pool intérieure et extérieure avec une zone peu profonde pour les petits",
+          "Chambres familiales Supérieures et communicantes pour les grandes familles"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Walkable to the parks, no reliance on a shuttle timetable",
+          "Extra Magic Time lets you ride the headline attractions with short queues",
+          "The most polished rooms and food of any Disney hotel here",
+          "Marvel theming genuinely thrills superhero-mad kids and teens"
+        ],
+        "fr": [
+          "À distance de marche des parcs, sans dépendre des horaires de navette",
+          "L'Extra Magic Time permet de faire les grosses attractions avec peu d'attente",
+          "Les chambres et la restauration les plus soignées des hôtels Disney ici",
+          "La déco Marvel enthousiasme vraiment les enfants et ados fans de super-héros"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The most expensive hotel on the resort, and park tickets are on top",
+          "Slick city styling feels more grown-up than the fairytale kids expect",
+          "Very busy at peak times, when even Extra Magic Time queues build fast"
+        ],
+        "fr": [
+          "L'hôtel le plus cher de la destination, et les billets de parc sont en plus",
+          "Le style urbain chic fait plus adulte que le conte de fées attendu par les enfants",
+          "Très fréquenté en haute saison, où même l'Extra Magic Time se remplit vite"
+        ]
+      },
+      "verdict": {
+        "en": "If your family loves Marvel and the budget allows, this is the most comfortable, best-located base at Disneyland Paris, with Extra Magic Time and a walkable path to the gates that a shuttle hotel cannot match.",
+        "fr": "Si votre famille adore Marvel et que le budget suit, c'est la base la plus confortable et la mieux située de Disneyland Paris, avec l'Extra Magic Time et un accès à pied aux portes qu'aucun hôtel à navette n'égale."
+      },
+      "parentTip": {
+        "en": "Use your Extra Magic Time for the biggest rides like Avengers Assemble and Crush's Coaster first thing, then come back to the hotel pool in the afternoon when the parks are heaving.",
+        "fr": "Profitez de l'Extra Magic Time pour les plus grosses attractions comme Avengers Assemble et Crush's Coaster dès l'ouverture, puis revenez à la piscine de l'hôtel l'après-midi quand les parcs sont bondés."
+      },
+      "atAGlance": [
+        {
+          "icon": "🚶",
+          "label": {
+            "en": "Park access",
+            "fr": "Accès au parc"
+          },
+          "value": {
+            "en": "About 10 min walk, or free shuttle",
+            "fr": "Environ 10 min à pied, ou navette gratuite"
+          }
+        },
+        {
+          "icon": "✨",
+          "label": {
+            "en": "Disney perk",
+            "fr": "Avantage Disney"
+          },
+          "value": {
+            "en": "Extra Magic Time included",
+            "fr": "Extra Magic Time inclus"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "Indoor and outdoor with kiddie area",
+            "fr": "Intérieure et extérieure avec zone enfants"
+          }
+        },
+        {
+          "icon": "🦸",
+          "label": {
+            "en": "Theme",
+            "fr": "Thème"
+          },
+          "value": {
+            "en": "Marvel, art studio and characters",
+            "fr": "Marvel, atelier dessin et personnages"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is it really walking distance to the parks?",
+            "fr": "Est-ce vraiment à distance de marche des parcs?"
+          },
+          "a": {
+            "en": "Yes. It sits on Lake Disney, roughly a ten-minute lakeside walk from the park entrances, and a free shuttle runs for anyone with tired legs or a sleeping toddler in a pram.",
+            "fr": "Oui. Il est situé au bord de Lake Disney, à une dizaine de minutes à pied des entrées du parc, et une navette gratuite dépanne pour les jambes fatiguées ou un tout-petit endormi en poussette."
+          }
+        },
+        {
+          "q": {
+            "en": "What is Extra Magic Time and do we get it here?",
+            "fr": "Qu'est-ce que l'Extra Magic Time et en profitons-nous ici?"
+          },
+          "a": {
+            "en": "Extra Magic Time lets guests of the Disney hotels into selected areas of the parks before the official opening. It is included with a stay here and is the single biggest advantage of an on-site Disney hotel over a partner one.",
+            "fr": "L'Extra Magic Time permet aux clients des hôtels Disney d'entrer dans certaines zones des parcs avant l'ouverture officielle. Il est inclus avec un séjour ici et c'est le plus gros avantage d'un hôtel Disney sur place face à un hôtel partenaire."
+          }
+        },
+        {
+          "q": {
+            "en": "Are park tickets included in the room price?",
+            "fr": "Les billets de parc sont-ils inclus dans le prix de la chambre?"
+          },
+          "a": {
+            "en": "Not automatically. Room-only rates do not include park entry, so most families book a package that bundles the hotel with park tickets. Always check what your rate covers before booking.",
+            "fr": "Pas automatiquement. Les tarifs chambre seule n'incluent pas l'entrée au parc, la plupart des familles réservent donc un forfait qui associe l'hôtel aux billets. Vérifiez toujours ce que couvre votre tarif avant de réserver."
+          }
+        }
+      ]
+    },
+    {
+      "key": "disneyland-paris-disney-newport-bay-club",
+      "destinationKey": "disneyland-paris",
+      "name": "Disney Newport Bay Club",
+      "area": {
+        "en": "On-site, Lake Disney",
+        "fr": "Sur place, Lake Disney"
+      },
+      "lat": 48.8663,
+      "lng": 2.7888,
+      "zoom": 12,
+      "address": "Avenue Robert Schuman, 77700 Chessy, France",
+      "priceTier": 3,
+      "priceFrom": 230,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "scores": {
+        "rooms": 84,
+        "baby": 80,
+        "pool": 86,
+        "dining": 82,
+        "safety": 84,
+        "convenience": 86,
+        "location": 84,
+        "extras": 83
+      },
+      "roomsSummary": {
+        "en": "Superior rooms sleep up to four, with family rooms, lake-view rooms and terrace options, plus cots on request. This is a big hotel with over a thousand rooms, so ask for a room near the lifts if you have a pram and a lot of floors between you and the pool.",
+        "fr": "Les chambres Supérieures accueillent jusqu'à quatre personnes, avec chambres familiales, vue sur le lac et options avec terrasse, plus lit bébé sur demande. C'est un grand hôtel de plus de mille chambres, demandez donc une chambre proche des ascenseurs si vous avez une poussette et beaucoup d'étages à franchir jusqu'à la piscine."
+      },
+      "intro": {
+        "en": "Newport Bay Club is a grand nautical hotel in the style of a 1900s New England seaside mansion, sitting right on Lake Disney about a fifteen-minute walk from the parks or a short free shuttle. The draw for families is the pool: large indoor and outdoor heated pools that keep children happy on a cold or rainy Paris day. As an on-site Disney hotel it comes with Extra Magic Time, and character breakfasts can be booked in the restaurants.",
+        "fr": "Le Newport Bay Club est un grand hôtel nautique dans le style d'une demeure balnéaire de Nouvelle-Angleterre des années 1900, posé au bord de Lake Disney à une quinzaine de minutes à pied des parcs ou une courte navette gratuite. L'atout pour les familles, c'est la piscine : de grandes piscines intérieure et extérieure chauffées qui occupent les enfants par temps froid ou pluvieux. Hôtel Disney sur place, il donne droit à l'Extra Magic Time, et des petits-déjeuners avec les personnages se réservent dans les restaurants."
+      },
+      "highlights": {
+        "en": [
+          "Large indoor and outdoor heated pools, a rare bonus for a park hotel",
+          "On-site Disney hotel, so Extra Magic Time is included",
+          "Lakeside setting, about a 15-minute walk from the parks",
+          "Character breakfasts bookable in the hotel restaurants",
+          "Family and lake-view rooms sleeping up to four"
+        ],
+        "fr": [
+          "Grandes piscines intérieure et extérieure chauffées, rare pour un hôtel de parc",
+          "Hôtel Disney sur place, donc Extra Magic Time inclus",
+          "Cadre au bord du lac, à environ 15 minutes à pied des parcs",
+          "Petits-déjeuners avec les personnages réservables dans les restaurants",
+          "Chambres familiales et vue sur le lac pour jusqu'à quatre personnes"
+        ]
+      },
+      "pros": {
+        "en": [
+          "The heated indoor pool saves a wet or cold afternoon",
+          "Extra Magic Time gives you a head start on the crowds",
+          "Walkable to the parks and next to the lake for evening strolls",
+          "Good mid-range price for an on-site Disney hotel"
+        ],
+        "fr": [
+          "La piscine intérieure chauffée sauve un après-midi pluvieux ou froid",
+          "L'Extra Magic Time donne une longueur d'avance sur la foule",
+          "À pied des parcs et au bord du lac pour les balades du soir",
+          "Bon rapport qualité-prix pour un hôtel Disney sur place"
+        ]
+      },
+      "cons": {
+        "en": [
+          "It is huge, so corridors and check-in queues can feel impersonal",
+          "The 15-minute walk is longer than the closest hotels with tired children",
+          "Room-only rates exclude park tickets, which add a lot to the total"
+        ],
+        "fr": [
+          "Il est immense, couloirs et files d'enregistrement peuvent sembler impersonnels",
+          "La marche de 15 minutes est plus longue que les hôtels les plus proches avec des enfants fatigués",
+          "Les tarifs chambre seule excluent les billets, qui alourdissent nettement le total"
+        ]
+      },
+      "verdict": {
+        "en": "A dependable mid-range on-site choice where the big heated pool and Extra Magic Time do the heavy lifting, ideal for families who want a Disney perk without the flagship price.",
+        "fr": "Un choix sur place de milieu de gamme fiable où la grande piscine chauffée et l'Extra Magic Time font le travail, idéal pour les familles qui veulent l'avantage Disney sans le tarif du vaisseau amiral."
+      },
+      "parentTip": {
+        "en": "Book a character breakfast for your first morning: the kids meet the characters over food, and you still make park opening without queueing for photos inside.",
+        "fr": "Réservez un petit-déjeuner avec les personnages pour votre première matinée : les enfants rencontrent les personnages en mangeant, et vous êtes quand même à l'ouverture du parc sans faire la queue pour les photos à l'intérieur."
+      },
+      "atAGlance": [
+        {
+          "icon": "🚶",
+          "label": {
+            "en": "Park access",
+            "fr": "Accès au parc"
+          },
+          "value": {
+            "en": "About 15 min walk, or free shuttle",
+            "fr": "Environ 15 min à pied, ou navette gratuite"
+          }
+        },
+        {
+          "icon": "✨",
+          "label": {
+            "en": "Disney perk",
+            "fr": "Avantage Disney"
+          },
+          "value": {
+            "en": "Extra Magic Time included",
+            "fr": "Extra Magic Time inclus"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "Heated indoor and outdoor pools",
+            "fr": "Piscines intérieure et extérieure chauffées"
+          }
+        },
+        {
+          "icon": "🍳",
+          "label": {
+            "en": "Breakfast",
+            "fr": "Petit-déjeuner"
+          },
+          "value": {
+            "en": "Character breakfast bookable",
+            "fr": "Petit-déjeuner personnages réservable"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Does the hotel have an indoor pool for bad weather?",
+            "fr": "L'hôtel a-t-il une piscine intérieure pour le mauvais temps?"
+          },
+          "a": {
+            "en": "Yes. There are both indoor and outdoor heated pools, so children can swim whatever the Paris weather does, which is a real plus in the cooler months.",
+            "fr": "Oui. Il y a des piscines intérieure et extérieure chauffées, les enfants peuvent donc nager quel que soit le temps parisien, un vrai atout aux saisons fraîches."
+          }
+        },
+        {
+          "q": {
+            "en": "How far is the walk to the parks?",
+            "fr": "Quelle est la distance à pied jusqu'aux parcs?"
+          },
+          "a": {
+            "en": "It is roughly a fifteen-minute walk around Lake Disney, a little further than the closest hotels. A free shuttle runs frequently for anyone who would rather ride.",
+            "fr": "C'est environ quinze minutes à pied autour de Lake Disney, un peu plus que les hôtels les plus proches. Une navette gratuite passe souvent pour ceux qui préfèrent ne pas marcher."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we meet characters at the hotel?",
+            "fr": "Peut-on rencontrer des personnages à l'hôtel?"
+          },
+          "a": {
+            "en": "Character breakfasts are available in the hotel restaurants and should be booked in advance, as they sell out. Meeting characters over breakfast is calmer than queueing for them inside the parks.",
+            "fr": "Des petits-déjeuners avec les personnages sont proposés dans les restaurants de l'hôtel et se réservent à l'avance car ils sont vite complets. Rencontrer les personnages au petit-déjeuner est plus calme que de faire la queue dans les parcs."
+          }
+        }
+      ]
+    },
+    {
+      "key": "disneyland-paris-disney-sequoia-lodge",
+      "destinationKey": "disneyland-paris",
+      "name": "Disney Sequoia Lodge",
+      "area": {
+        "en": "On-site, Lake Disney",
+        "fr": "Sur place, Lake Disney"
+      },
+      "lat": 48.867,
+      "lng": 2.782,
+      "zoom": 12,
+      "address": "Avenue du Lac, 77700 Chessy, France",
+      "priceTier": 3,
+      "priceFrom": 200,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "scores": {
+        "rooms": 82,
+        "baby": 80,
+        "pool": 85,
+        "dining": 80,
+        "safety": 84,
+        "convenience": 84,
+        "location": 83,
+        "extras": 82
+      },
+      "roomsSummary": {
+        "en": "Standard rooms sleep four with two double beds, decorated with woodland creatures from Bambi, and cots are available on request. Rooms are spread across several lodges in the grounds, so if you have a pram it is worth asking for the main building to cut down on outdoor walks in the rain.",
+        "fr": "Les chambres Standard accueillent quatre personnes avec deux lits doubles, décorées avec les animaux de la forêt de Bambi, et un lit bébé est disponible sur demande. Les chambres sont réparties dans plusieurs lodges du parc arboré, donc avec une poussette il vaut mieux demander le bâtiment principal pour limiter les marches en extérieur sous la pluie."
+      },
+      "intro": {
+        "en": "Sequoia Lodge trades the city styling of the other hotels for a cosy American national-park feel, all timber and stone among the pines on the shore of Lake Disney, about a fifteen-minute walk from the parks. Families come for the two heated pools, one of which has water games and a slide, set in a genuinely lovely woodland setting. As an on-site Disney hotel it includes Extra Magic Time, and the calm lakeside grounds are a nice antidote after a loud day in the parks.",
+        "fr": "Le Sequoia Lodge troque le style urbain des autres hôtels contre une ambiance chaleureuse de parc national américain, bois et pierre au milieu des pins sur la rive de Lake Disney, à une quinzaine de minutes à pied des parcs. Les familles viennent pour les deux piscines chauffées, dont l'une avec jeux d'eau et toboggan, dans un cadre boisé vraiment agréable. Hôtel Disney sur place, il inclut l'Extra Magic Time, et les jardins calmes au bord du lac font du bien après une journée bruyante dans les parcs."
+      },
+      "highlights": {
+        "en": [
+          "Two heated pools, one with water games and a slide",
+          "Cosy woodland lodge setting on the shore of Lake Disney",
+          "On-site Disney hotel with Extra Magic Time included",
+          "About a 15-minute lakeside walk to the parks",
+          "Calm, green grounds to unwind in after the crowds"
+        ],
+        "fr": [
+          "Deux piscines chauffées, dont une avec jeux d'eau et toboggan",
+          "Cadre chaleureux de lodge boisé sur la rive de Lake Disney",
+          "Hôtel Disney sur place avec Extra Magic Time inclus",
+          "Environ 15 minutes à pied au bord du lac jusqu'aux parcs",
+          "Jardins calmes et verts pour décompresser après la foule"
+        ]
+      },
+      "pros": {
+        "en": [
+          "The pool with a slide is a genuine hit with kids",
+          "Woodland theme feels warmer and calmer than the big city hotels",
+          "Extra Magic Time gives an early run at the rides",
+          "Good value for an on-site hotel with a strong pool"
+        ],
+        "fr": [
+          "La piscine à toboggan plaît vraiment aux enfants",
+          "Le thème boisé est plus chaleureux et calme que les grands hôtels urbains",
+          "L'Extra Magic Time offre un accès matinal aux attractions",
+          "Bon rapport qualité-prix pour un hôtel sur place avec une belle piscine"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Rooms in the outer lodges mean walks outside to reach reception and the pool",
+          "Standard rooms are a touch dated compared with the newer hotels",
+          "Park tickets are not included in room-only rates"
+        ],
+        "fr": [
+          "Les chambres des lodges extérieurs imposent des marches dehors jusqu'à la réception et la piscine",
+          "Les chambres Standard sont un peu datées face aux hôtels plus récents",
+          "Les billets de parc ne sont pas inclus dans les tarifs chambre seule"
+        ]
+      },
+      "verdict": {
+        "en": "The pick for families who want an on-site Disney hotel with a proper pool and a calmer, woodsy feel, at a friendlier price than the lakeside flagships.",
+        "fr": "Le choix des familles qui veulent un hôtel Disney sur place avec une vraie piscine et une ambiance boisée plus calme, à un prix plus doux que les vaisseaux amiraux du bord du lac."
+      },
+      "parentTip": {
+        "en": "Ask at check-in for a room in the main Montana building rather than the outer lodges: it keeps the pool, reception and breakfast a short indoor walk away when it is cold or wet.",
+        "fr": "Demandez à l'enregistrement une chambre dans le bâtiment principal Montana plutôt que dans les lodges extérieurs : la piscine, la réception et le petit-déjeuner restent à quelques pas en intérieur quand il fait froid ou humide."
+      },
+      "atAGlance": [
+        {
+          "icon": "🚶",
+          "label": {
+            "en": "Park access",
+            "fr": "Accès au parc"
+          },
+          "value": {
+            "en": "About 15 min walk, or free shuttle",
+            "fr": "Environ 15 min à pied, ou navette gratuite"
+          }
+        },
+        {
+          "icon": "✨",
+          "label": {
+            "en": "Disney perk",
+            "fr": "Avantage Disney"
+          },
+          "value": {
+            "en": "Extra Magic Time included",
+            "fr": "Extra Magic Time inclus"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "Two heated pools, one with a slide",
+            "fr": "Deux piscines chauffées, une avec toboggan"
+          }
+        },
+        {
+          "icon": "🌲",
+          "label": {
+            "en": "Theme",
+            "fr": "Thème"
+          },
+          "value": {
+            "en": "Woodland lodge, Bambi rooms",
+            "fr": "Lodge boisé, chambres Bambi"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the pool good for young children?",
+            "fr": "La piscine convient-elle aux jeunes enfants?"
+          },
+          "a": {
+            "en": "Yes. There are two heated pools, one with water games and a gentle slide, in a woodland setting, which makes it one of the more fun on-site pools for children.",
+            "fr": "Oui. Il y a deux piscines chauffées, dont une avec jeux d'eau et un toboggan doux, dans un cadre boisé, ce qui en fait l'une des piscines sur place les plus amusantes pour les enfants."
+          }
+        },
+        {
+          "q": {
+            "en": "Are all rooms in one building?",
+            "fr": "Toutes les chambres sont-elles dans un seul bâtiment?"
+          },
+          "a": {
+            "en": "No. Rooms are split between the main building and several outer lodges in the grounds. With a pram or small children, ask for the main building to reduce outdoor walks in poor weather.",
+            "fr": "Non. Les chambres sont réparties entre le bâtiment principal et plusieurs lodges extérieurs dans le parc. Avec une poussette ou de jeunes enfants, demandez le bâtiment principal pour réduire les marches dehors par mauvais temps."
+          }
+        },
+        {
+          "q": {
+            "en": "Do we get Extra Magic Time here?",
+            "fr": "Bénéficions-nous de l'Extra Magic Time ici?"
+          },
+          "a": {
+            "en": "Yes. Sequoia Lodge is an on-site Disney hotel, so Extra Magic Time in the parks before official opening is included with your stay.",
+            "fr": "Oui. Le Sequoia Lodge est un hôtel Disney sur place, l'Extra Magic Time dans les parcs avant l'ouverture officielle est donc inclus avec votre séjour."
+          }
+        }
+      ]
+    },
+    {
+      "key": "disneyland-paris-disney-hotel-cheyenne",
+      "destinationKey": "disneyland-paris",
+      "name": "Disney Hotel Cheyenne",
+      "area": {
+        "en": "On-site, Wild West",
+        "fr": "Sur place, Far West"
+      },
+      "lat": 48.8702,
+      "lng": 2.7772,
+      "zoom": 12,
+      "address": "Avenue Jean Monnet, 77700 Chessy, France",
+      "priceTier": 2,
+      "priceFrom": 160,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "scores": {
+        "rooms": 80,
+        "baby": 78,
+        "pool": 62,
+        "dining": 78,
+        "safety": 83,
+        "convenience": 85,
+        "location": 84,
+        "extras": 82
+      },
+      "roomsSummary": {
+        "en": "Rooms are themed around Toy Story and sleep four, with a main double bed plus a daybed and a pull-out single, and cots on request. The layout works well for a family of four with two younger children, and the Wild West streets outside give kids somewhere to run before bed.",
+        "fr": "Les chambres sont décorées sur le thème de Toy Story et accueillent quatre personnes, avec un lit double principal, un lit de jour et un simple d'appoint, plus lit bébé sur demande. L'agencement convient bien à une famille de quatre avec deux jeunes enfants, et les rues du Far West à l'extérieur offrent aux enfants un endroit où se dépenser avant le coucher."
+      },
+      "intro": {
+        "en": "Hotel Cheyenne is a cowboy town brought to life, with Toy Story theming in the rooms and Wild West streets, a saloon and summer pony rides outside. It is one of the closest and best-value on-site hotels, about a ten-minute walk or a quick free shuttle from the parks. There is no swimming pool here, which is the main trade-off, but the fun theme, short walk and Extra Magic Time make it a firm family favourite.",
+        "fr": "Le Hotel Cheyenne est une ville de cow-boys grandeur nature, avec une déco Toy Story dans les chambres et des rues de Far West, un saloon et des tours de poney l'été à l'extérieur. C'est l'un des hôtels sur place les plus proches et au meilleur rapport qualité-prix, à une dizaine de minutes à pied ou une courte navette gratuite des parcs. Il n'y a pas de piscine ici, c'est le principal compromis, mais le thème amusant, la courte marche et l'Extra Magic Time en font un favori des familles."
+      },
+      "highlights": {
+        "en": [
+          "One of the closest on-site hotels, about a 10-minute walk",
+          "Fun Wild West streets and Toy Story rooms kids love",
+          "Extra Magic Time in the parks included",
+          "Pony rides in summer and a lively saloon",
+          "Strong value among the on-site Disney hotels"
+        ],
+        "fr": [
+          "L'un des hôtels sur place les plus proches, à environ 10 minutes à pied",
+          "Rues de Far West amusantes et chambres Toy Story adorées des enfants",
+          "Extra Magic Time dans les parcs inclus",
+          "Tours de poney l'été et un saloon animé",
+          "Excellent rapport qualité-prix parmi les hôtels Disney sur place"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Short walk to the parks, no long shuttle wait with tired kids",
+          "The theme is genuinely fun and the rooms feel like an adventure",
+          "Extra Magic Time gives an early start on the rides",
+          "One of the cheaper ways to stay on-site with Disney perks"
+        ],
+        "fr": [
+          "Courte marche jusqu'aux parcs, pas de longue attente de navette avec des enfants fatigués",
+          "Le thème est vraiment amusant et les chambres ressemblent à une aventure",
+          "L'Extra Magic Time offre un départ matinal sur les attractions",
+          "L'une des façons les moins chères de loger sur place avec les avantages Disney"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No swimming pool, a real miss on a hot day or a rest afternoon",
+          "Rooms are on the small side and spread across outdoor streets",
+          "Park tickets are extra on top of room-only rates"
+        ],
+        "fr": [
+          "Pas de piscine, ce qui manque vraiment par temps chaud ou pour un après-midi de repos",
+          "Les chambres sont plutôt petites et réparties le long de rues extérieures",
+          "Les billets de parc sont en supplément des tarifs chambre seule"
+        ]
+      },
+      "verdict": {
+        "en": "A fun, affordable on-site base with a short walk to the gates and Extra Magic Time, best for families who will spend their days in the parks and do not need a hotel pool.",
+        "fr": "Une base sur place amusante et abordable, à courte marche des portes et avec l'Extra Magic Time, idéale pour les familles qui passeront leurs journées dans les parcs et n'ont pas besoin d'une piscine d'hôtel."
+      },
+      "parentTip": {
+        "en": "There is no pool, so if you want a mid-holiday rest day with water, plan a swim at a partner hotel or book Cheyenne only for the nights you are going hard in the parks.",
+        "fr": "Il n'y a pas de piscine : si vous voulez une journée de repos avec de l'eau en milieu de séjour, prévoyez une baignade dans un hôtel partenaire ou réservez le Cheyenne seulement pour les nuits où vous enchaînez les parcs."
+      },
+      "atAGlance": [
+        {
+          "icon": "🚶",
+          "label": {
+            "en": "Park access",
+            "fr": "Accès au parc"
+          },
+          "value": {
+            "en": "About 10 min walk, or free shuttle",
+            "fr": "Environ 10 min à pied, ou navette gratuite"
+          }
+        },
+        {
+          "icon": "✨",
+          "label": {
+            "en": "Disney perk",
+            "fr": "Avantage Disney"
+          },
+          "value": {
+            "en": "Extra Magic Time included",
+            "fr": "Extra Magic Time inclus"
+          }
+        },
+        {
+          "icon": "🚫",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "No swimming pool on site",
+            "fr": "Pas de piscine sur place"
+          }
+        },
+        {
+          "icon": "🤠",
+          "label": {
+            "en": "Theme",
+            "fr": "Thème"
+          },
+          "value": {
+            "en": "Wild West town, Toy Story rooms",
+            "fr": "Ville du Far West, chambres Toy Story"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Does Hotel Cheyenne have a swimming pool?",
+            "fr": "Le Hotel Cheyenne a-t-il une piscine?"
+          },
+          "a": {
+            "en": "No, there is no pool at Hotel Cheyenne. If a pool matters for your family, choose Sequoia Lodge or Newport Bay Club on-site, or a partner hotel like Explorers.",
+            "fr": "Non, il n'y a pas de piscine au Hotel Cheyenne. Si la piscine compte pour votre famille, choisissez sur place le Sequoia Lodge ou le Newport Bay Club, ou un hôtel partenaire comme l'Explorers."
+          }
+        },
+        {
+          "q": {
+            "en": "How close is it to the parks?",
+            "fr": "À quelle distance est-il des parcs?"
+          },
+          "a": {
+            "en": "It is one of the closer on-site hotels, roughly a ten-minute walk to the gates, with a free shuttle running frequently for anyone who prefers to ride.",
+            "fr": "C'est l'un des hôtels sur place les plus proches, à une dizaine de minutes à pied des portes, avec une navette gratuite fréquente pour ceux qui préfèrent ne pas marcher."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it good value for families?",
+            "fr": "Est-il d'un bon rapport qualité-prix pour les familles?"
+          },
+          "a": {
+            "en": "Yes. It is one of the cheaper on-site Disney hotels, and you still get Extra Magic Time and a short walk to the parks, so it suits families who prioritise the perks over a hotel pool.",
+            "fr": "Oui. C'est l'un des hôtels Disney sur place les moins chers, et vous avez quand même l'Extra Magic Time et une courte marche jusqu'aux parcs, il convient donc aux familles qui privilégient les avantages plutôt qu'une piscine d'hôtel."
+          }
+        }
+      ]
+    },
+    {
+      "key": "disneyland-paris-disney-hotel-santa-fe",
+      "destinationKey": "disneyland-paris",
+      "name": "Disney Hotel Santa Fe",
+      "area": {
+        "en": "On-site, Cars",
+        "fr": "Sur place, Cars"
+      },
+      "lat": 48.8712,
+      "lng": 2.7742,
+      "zoom": 12,
+      "address": "Route de la Ferme, 77700 Chessy, France",
+      "priceTier": 2,
+      "priceFrom": 140,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "scores": {
+        "rooms": 78,
+        "baby": 76,
+        "pool": 62,
+        "dining": 76,
+        "safety": 82,
+        "convenience": 82,
+        "location": 80,
+        "extras": 80
+      },
+      "roomsSummary": {
+        "en": "Rooms are themed around Disney Pixar's Cars, and family rooms with two bathrooms sleep five or six with a double bed, a trundle bed and a sofa bed. The bigger family rooms are one of the best-value ways to fit a larger family on-site, though the standard rooms are simple and compact.",
+        "fr": "Les chambres sont décorées sur le thème de Cars de Disney Pixar, et les chambres familiales à deux salles de bain accueillent cinq ou six personnes avec un lit double, un lit gigogne et un canapé-lit. Les grandes chambres familiales sont l'une des meilleures options qualité-prix pour loger une famille nombreuse sur place, même si les chambres standard restent simples et compactes."
+      },
+      "intro": {
+        "en": "Santa Fe is the most affordable of the on-site Disney hotels, themed around Cars with Lightning McQueen dotted through the grounds, which delights younger fans. It is a little further out than Cheyenne, about a twenty-minute walk or a free shuttle from the parks, and there is no pool. What it does offer is a genuine on-site stay with Extra Magic Time and larger family rooms for five or six at a price that keeps a Disney trip within reach.",
+        "fr": "Le Santa Fe est le plus abordable des hôtels Disney sur place, décoré sur le thème de Cars avec Flash McQueen disséminé dans le parc, ce qui ravit les jeunes fans. Il est un peu plus éloigné que le Cheyenne, à environ vingt minutes à pied ou une navette gratuite des parcs, et il n'y a pas de piscine. Ce qu'il offre, c'est un vrai séjour sur place avec l'Extra Magic Time et de grandes chambres familiales pour cinq ou six personnes, à un prix qui garde un séjour Disney accessible."
+      },
+      "highlights": {
+        "en": [
+          "The cheapest on-site Disney hotel, Cars themed",
+          "Family rooms with two bathrooms sleep five or six",
+          "Extra Magic Time in the parks still included",
+          "Lightning McQueen and Cars details kids adore",
+          "A real on-site stay at a budget-friendly price"
+        ],
+        "fr": [
+          "L'hôtel Disney sur place le moins cher, sur le thème de Cars",
+          "Chambres familiales à deux salles de bain pour cinq ou six personnes",
+          "Extra Magic Time dans les parcs toujours inclus",
+          "Flash McQueen et les détails Cars adorés des enfants",
+          "Un vrai séjour sur place à un prix accessible"
+        ]
+      },
+      "pros": {
+        "en": [
+          "The best-value way to stay on-site with Disney perks",
+          "Big family rooms with two bathrooms suit five or six",
+          "Extra Magic Time still applies for an early park start",
+          "Cars theme is a hit with toddlers and younger kids"
+        ],
+        "fr": [
+          "La façon la plus économique de loger sur place avec les avantages Disney",
+          "Grandes chambres familiales à deux salles de bain pour cinq ou six",
+          "L'Extra Magic Time s'applique toujours pour un départ matinal",
+          "Le thème Cars plaît aux tout-petits et aux jeunes enfants"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No pool, and the furthest walk of the on-site hotels at about 20 minutes",
+          "Standard rooms are basic and feel dated",
+          "Park tickets are on top of the room-only price"
+        ],
+        "fr": [
+          "Pas de piscine, et la marche la plus longue des hôtels sur place, environ 20 minutes",
+          "Les chambres standard sont basiques et un peu datées",
+          "Les billets de parc s'ajoutent au prix chambre seule"
+        ]
+      },
+      "verdict": {
+        "en": "The budget on-site pick: no pool and a longer walk, but real Extra Magic Time and roomy family rooms make it the cheapest way to keep the Disney magic and stay on the resort.",
+        "fr": "Le choix sur place économique : pas de piscine et une marche plus longue, mais un vrai Extra Magic Time et de grandes chambres familiales en font la façon la moins chère de garder la magie Disney en logeant sur la destination."
+      },
+      "parentTip": {
+        "en": "The walk is the longest of the on-site hotels, so with little ones lean on the free shuttle at the start and end of the day and save their legs for the parks.",
+        "fr": "La marche est la plus longue des hôtels sur place : avec de jeunes enfants, comptez sur la navette gratuite en début et fin de journée et gardez leurs jambes pour les parcs."
+      },
+      "atAGlance": [
+        {
+          "icon": "🚶",
+          "label": {
+            "en": "Park access",
+            "fr": "Accès au parc"
+          },
+          "value": {
+            "en": "About 20 min walk, or free shuttle",
+            "fr": "Environ 20 min à pied, ou navette gratuite"
+          }
+        },
+        {
+          "icon": "✨",
+          "label": {
+            "en": "Disney perk",
+            "fr": "Avantage Disney"
+          },
+          "value": {
+            "en": "Extra Magic Time included",
+            "fr": "Extra Magic Time inclus"
+          }
+        },
+        {
+          "icon": "🚫",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "No swimming pool on site",
+            "fr": "Pas de piscine sur place"
+          }
+        },
+        {
+          "icon": "🏎️",
+          "label": {
+            "en": "Theme",
+            "fr": "Thème"
+          },
+          "value": {
+            "en": "Cars, family rooms for 5 to 6",
+            "fr": "Cars, chambres familiales pour 5 à 6"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is Santa Fe good for a bigger family?",
+            "fr": "Le Santa Fe convient-il à une famille nombreuse?"
+          },
+          "a": {
+            "en": "Yes. Its family rooms with two bathrooms sleep five or six, which is one of the most affordable ways to fit a larger family into an on-site Disney hotel.",
+            "fr": "Oui. Ses chambres familiales à deux salles de bain accueillent cinq ou six personnes, l'une des façons les plus abordables de loger une famille nombreuse dans un hôtel Disney sur place."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a pool?",
+            "fr": "Y a-t-il une piscine?"
+          },
+          "a": {
+            "en": "No. Like Hotel Cheyenne, Santa Fe has no swimming pool. If a pool is important, look at Sequoia Lodge or Newport Bay Club on-site, or a partner hotel such as Explorers.",
+            "fr": "Non. Comme le Hotel Cheyenne, le Santa Fe n'a pas de piscine. Si la piscine est importante, regardez le Sequoia Lodge ou le Newport Bay Club sur place, ou un hôtel partenaire comme l'Explorers."
+          }
+        },
+        {
+          "q": {
+            "en": "Do we still get Extra Magic Time at the cheapest hotel?",
+            "fr": "A-t-on l'Extra Magic Time même dans l'hôtel le moins cher?"
+          },
+          "a": {
+            "en": "Yes. Extra Magic Time applies to all on-site Disney hotels, including Santa Fe, so you get early park access whichever on-site hotel you choose.",
+            "fr": "Oui. L'Extra Magic Time s'applique à tous les hôtels Disney sur place, y compris le Santa Fe, vous avez donc l'accès anticipé quel que soit l'hôtel sur place choisi."
+          }
+        }
+      ]
+    },
+    {
+      "key": "disneyland-paris-explorers-hotel",
+      "destinationKey": "disneyland-paris",
+      "name": "Explorers Hotel at Disneyland Paris",
+      "area": {
+        "en": "Partner, Magny-le-Hongre",
+        "fr": "Partenaire, Magny-le-Hongre"
+      },
+      "lat": 48.856,
+      "lng": 2.801,
+      "zoom": 12,
+      "address": "50 Avenue de la Fosse des Pressoirs, 77700 Magny-le-Hongre, France",
+      "priceTier": 2,
+      "priceFrom": 120,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "scores": {
+        "rooms": 80,
+        "baby": 82,
+        "pool": 88,
+        "dining": 76,
+        "safety": 82,
+        "convenience": 78,
+        "location": 72,
+        "extras": 88
+      },
+      "roomsSummary": {
+        "en": "Family rooms are the whole point here, sleeping up to ten in some configurations, with bunk areas and separate kids' zones that little ones love. Cots are available and the layouts are built for families rather than couples, so a big group or two sets of siblings fit comfortably.",
+        "fr": "Les chambres familiales sont la raison d'être de l'hôtel, accueillant jusqu'à dix personnes dans certaines configurations, avec des coins couchettes et des espaces enfants séparés que les petits adorent. Un lit bébé est disponible et les agencements sont pensés pour les familles plutôt que pour les couples, une grande tribu ou deux fratries s'y installent confortablement."
+      },
+      "intro": {
+        "en": "Explorers is the partner hotel families rave about, a pirate-and-explorer fantasy built around a huge indoor water playground with heated pools, three water slides and a stranded pirate ship. Add a multi-level indoor playground, ball pools, a games room and a 6D cinema, and it is a destination in itself for a rainy day off the parks. It sits in Magny-le-Hongre with a free shuttle to the gates, so you trade the on-site walk and Extra Magic Time for a lot more to do at the hotel and a much lower price.",
+        "fr": "L'Explorers est l'hôtel partenaire dont les familles raffolent, un univers de pirates et d'explorateurs construit autour d'une immense aire de jeux aquatique intérieure avec piscines chauffées, trois toboggans et un bateau de pirate échoué. Ajoutez une aire de jeux intérieure sur plusieurs niveaux, des piscines à balles, une salle de jeux et un cinéma 6D, et c'est une destination en soi pour un jour de pluie loin des parcs. Il est situé à Magny-le-Hongre avec une navette gratuite jusqu'aux portes : vous échangez la marche sur place et l'Extra Magic Time contre beaucoup plus à faire à l'hôtel et un prix bien plus doux."
+      },
+      "highlights": {
+        "en": [
+          "Huge indoor water playground with heated pools and three slides",
+          "Family rooms sleeping up to ten, built for kids",
+          "Indoor playground, ball pools, games room and 6D cinema",
+          "Free shuttle to the parks from Magny-le-Hongre",
+          "One of the best-value family bases near the resort"
+        ],
+        "fr": [
+          "Immense aire de jeux aquatique intérieure avec piscines chauffées et trois toboggans",
+          "Chambres familiales jusqu'à dix personnes, pensées pour les enfants",
+          "Aire de jeux intérieure, piscines à balles, salle de jeux et cinéma 6D",
+          "Navette gratuite vers les parcs depuis Magny-le-Hongre",
+          "L'une des bases familiales au meilleur rapport qualité-prix près de la destination"
+        ]
+      },
+      "pros": {
+        "en": [
+          "The water playground alone is worth a rest day at the hotel",
+          "Enormous family rooms fit big groups affordably",
+          "Loads to keep kids busy indoors when the weather turns",
+          "Much cheaper than the on-site Disney hotels"
+        ],
+        "fr": [
+          "L'aire aquatique à elle seule justifie une journée de repos à l'hôtel",
+          "D'énormes chambres familiales logent les grandes tribus à prix doux",
+          "De quoi occuper les enfants en intérieur quand le temps tourne",
+          "Bien moins cher que les hôtels Disney sur place"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No Extra Magic Time, as it is a partner rather than a Disney hotel",
+          "You rely on the shuttle, so factor in wait times and its timetable",
+          "Dining and decor are more functional than the Disney hotels"
+        ],
+        "fr": [
+          "Pas d'Extra Magic Time, car c'est un hôtel partenaire et non un hôtel Disney",
+          "Vous dépendez de la navette, prévoyez les temps d'attente et ses horaires",
+          "La restauration et la déco sont plus fonctionnelles que dans les hôtels Disney"
+        ]
+      },
+      "verdict": {
+        "en": "The best partner hotel for young families and toddlers: a water playground and family rooms that turn the hotel itself into part of the holiday, at a price that leaves more in the pot for park tickets.",
+        "fr": "Le meilleur hôtel partenaire pour les jeunes familles et les tout-petits : une aire aquatique et des chambres familiales qui font de l'hôtel une partie des vacances, à un prix qui laisse plus de budget pour les billets."
+      },
+      "parentTip": {
+        "en": "Plan one full day at the hotel water playground in the middle of your trip: it breaks up the park queues, the toddlers nap better, and everyone goes back to the rides refreshed.",
+        "fr": "Prévoyez une journée entière à l'aire aquatique de l'hôtel au milieu du séjour : elle casse les files d'attente des parcs, les tout-petits font de meilleures siestes, et tout le monde repart aux attractions requinqué."
+      },
+      "atAGlance": [
+        {
+          "icon": "🚌",
+          "label": {
+            "en": "Park access",
+            "fr": "Accès au parc"
+          },
+          "value": {
+            "en": "Free shuttle from Magny-le-Hongre",
+            "fr": "Navette gratuite depuis Magny-le-Hongre"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Water play",
+            "fr": "Jeux d'eau"
+          },
+          "value": {
+            "en": "Indoor pools, slides, pirate ship",
+            "fr": "Piscines intérieures, toboggans, bateau pirate"
+          }
+        },
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Little ones",
+            "fr": "Tout-petits"
+          },
+          "value": {
+            "en": "Ball pools and indoor playground",
+            "fr": "Piscines à balles et aire de jeux intérieure"
+          }
+        },
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Family rooms",
+            "fr": "Chambres familiales"
+          },
+          "value": {
+            "en": "Sleep up to 10",
+            "fr": "Jusqu'à 10 personnes"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Do we get Extra Magic Time at Explorers?",
+            "fr": "A-t-on l'Extra Magic Time à l'Explorers?"
+          },
+          "a": {
+            "en": "No. Extra Magic Time is only for guests of the on-site Disney hotels. Explorers is a partner hotel, so you enter the parks at the normal opening time, but you pay a lot less and get far more to do at the hotel.",
+            "fr": "Non. L'Extra Magic Time est réservé aux clients des hôtels Disney sur place. L'Explorers est un hôtel partenaire, vous entrez donc dans les parcs à l'heure d'ouverture normale, mais vous payez bien moins cher et avez beaucoup plus à faire à l'hôtel."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it good for toddlers and young children?",
+            "fr": "Est-il adapté aux tout-petits et aux jeunes enfants?"
+          },
+          "a": {
+            "en": "Very. The heated indoor water playground, ball pools and multi-level soft play are made for young children, and the big family rooms give everyone space, which makes it one of the easiest bases with little ones.",
+            "fr": "Très. L'aire de jeux aquatique intérieure chauffée, les piscines à balles et le parcours de jeux souples sur plusieurs niveaux sont faits pour les jeunes enfants, et les grandes chambres familiales offrent de l'espace à tous, ce qui en fait l'une des bases les plus faciles avec des petits."
+          }
+        },
+        {
+          "q": {
+            "en": "How do we get to the parks?",
+            "fr": "Comment rejoint-on les parcs?"
+          },
+          "a": {
+            "en": "A free shuttle runs between the hotel and the parks. It is a short ride, but you are on its timetable, so check the first and last shuttle times and allow for queues at peak departure moments.",
+            "fr": "Une navette gratuite relie l'hôtel aux parcs. Le trajet est court, mais vous dépendez de ses horaires, vérifiez donc les premières et dernières navettes et prévoyez de l'attente aux heures de pointe."
+          }
+        }
+      ]
+    },
+    {
+      "key": "disneyland-paris-vienna-house-dream-castle",
+      "destinationKey": "disneyland-paris",
+      "name": "Dream Castle Hotel at Disneyland Paris",
+      "area": {
+        "en": "Partner, Magny-le-Hongre",
+        "fr": "Partenaire, Magny-le-Hongre"
+      },
+      "lat": 48.8575,
+      "lng": 2.7998,
+      "zoom": 12,
+      "address": "40 Avenue de la Fosse des Pressoirs, 77700 Magny-le-Hongre, France",
+      "priceTier": 3,
+      "priceFrom": 150,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "scores": {
+        "rooms": 82,
+        "baby": 80,
+        "pool": 80,
+        "dining": 78,
+        "safety": 83,
+        "convenience": 76,
+        "location": 72,
+        "extras": 80
+      },
+      "roomsSummary": {
+        "en": "Rooms come as doubles, quadruples, family rooms and suites, so a family of four or five slots in easily, and cots are available. The fairytale castle theme carries into the rooms, which is the storybook look many children picture before the trip, and the layouts are more spacious than the compact on-site standard rooms.",
+        "fr": "Les chambres se déclinent en doubles, quadruples, familiales et suites, une famille de quatre ou cinq s'y installe donc facilement, et un lit bébé est disponible. Le thème de château de conte de fées se prolonge dans les chambres, l'imagerie de livre d'images que beaucoup d'enfants ont en tête avant le séjour, et les agencements sont plus spacieux que les chambres standard compactes sur place."
+      },
+      "intro": {
+        "en": "Dream Castle is a partner hotel that leans into the fairytale, a turreted castle with formal gardens that looks the part for a Disney trip. Inside there is a heated indoor pool, spa, sauna and hot tub for the grown-ups, plus a summer outdoor pool, and a free shuttle runs to the parks all day. It is a comfortable, storybook-styled middle ground: pricier than the budget partners but calmer and prettier, without the on-site perks.",
+        "fr": "Le Dream Castle est un hôtel partenaire qui joue à fond la carte du conte de fées, un château à tourelles aux jardins à la française qui a le look parfait pour un séjour Disney. À l'intérieur, une piscine intérieure chauffée, un spa, un sauna et un jacuzzi pour les parents, plus une piscine extérieure l'été, et une navette gratuite dessert les parcs toute la journée. C'est un entre-deux confortable et féerique : plus cher que les partenaires économiques mais plus calme et plus joli, sans les avantages du sur place."
+      },
+      "highlights": {
+        "en": [
+          "Fairytale castle theme kids picture for a Disney trip",
+          "Heated indoor pool, plus a summer outdoor pool",
+          "Spa, sauna and hot tub for parents to unwind",
+          "Free shuttle to the parks running all day",
+          "Family rooms and suites more spacious than on-site standards"
+        ],
+        "fr": [
+          "Thème de château de conte de fées que les enfants imaginent pour un séjour Disney",
+          "Piscine intérieure chauffée, plus une piscine extérieure l'été",
+          "Spa, sauna et jacuzzi pour la détente des parents",
+          "Navette gratuite vers les parcs toute la journée",
+          "Chambres familiales et suites plus spacieuses que les standards sur place"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Storybook castle look that fits the Disney fantasy",
+          "Heated indoor pool for cold or rainy afternoons",
+          "Roomier family rooms and a calmer, prettier setting",
+          "Cheaper than the on-site Disney hotels"
+        ],
+        "fr": [
+          "Look de château de conte de fées qui colle à la magie Disney",
+          "Piscine intérieure chauffée pour les après-midis froids ou pluvieux",
+          "Chambres familiales plus spacieuses et cadre plus calme et joli",
+          "Moins cher que les hôtels Disney sur place"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No Extra Magic Time, as it is a partner hotel",
+          "Shuttle-dependent, so you are tied to its timetable and waits",
+          "Fewer on-site kids' activities than Explorers for the same partner tier"
+        ],
+        "fr": [
+          "Pas d'Extra Magic Time, car c'est un hôtel partenaire",
+          "Dépendant de la navette, vous êtes lié à ses horaires et à l'attente",
+          "Moins d'activités enfants sur place que l'Explorers pour la même catégorie de partenaire"
+        ]
+      },
+      "verdict": {
+        "en": "A pretty, comfortable partner hotel that delivers the fairytale look and a heated indoor pool for less than staying on-site, best for families happy to use the shuttle and skip Extra Magic Time.",
+        "fr": "Un hôtel partenaire joli et confortable qui offre le look de conte de fées et une piscine intérieure chauffée pour moins cher que le sur place, idéal pour les familles prêtes à prendre la navette et à renoncer à l'Extra Magic Time."
+      },
+      "parentTip": {
+        "en": "The indoor pool and spa are a genuine draw, so book the fairytale rooms the kids will love and use a slower morning by the pool to break up back-to-back park days.",
+        "fr": "La piscine intérieure et le spa valent le détour : réservez les chambres féeriques que les enfants adoreront et profitez d'une matinée tranquille à la piscine pour espacer les journées de parc enchaînées."
+      },
+      "atAGlance": [
+        {
+          "icon": "🚌",
+          "label": {
+            "en": "Park access",
+            "fr": "Accès au parc"
+          },
+          "value": {
+            "en": "Free shuttle from Magny-le-Hongre",
+            "fr": "Navette gratuite depuis Magny-le-Hongre"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "Heated indoor, plus summer outdoor",
+            "fr": "Intérieure chauffée, plus extérieure l'été"
+          }
+        },
+        {
+          "icon": "🏰",
+          "label": {
+            "en": "Theme",
+            "fr": "Thème"
+          },
+          "value": {
+            "en": "Fairytale castle and gardens",
+            "fr": "Château de conte de fées et jardins"
+          }
+        },
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Family rooms",
+            "fr": "Chambres familiales"
+          },
+          "value": {
+            "en": "Family rooms and suites",
+            "fr": "Chambres familiales et suites"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is Dream Castle an official Disney hotel?",
+            "fr": "Le Dream Castle est-il un hôtel Disney officiel?"
+          },
+          "a": {
+            "en": "No, it is an official partner hotel near the resort. That means no Extra Magic Time, but a lower price, roomier family rooms and a heated indoor pool, with a free shuttle to the parks.",
+            "fr": "Non, c'est un hôtel partenaire officiel près de la destination. Cela signifie pas d'Extra Magic Time, mais un prix plus bas, des chambres familiales plus spacieuses et une piscine intérieure chauffée, avec une navette gratuite vers les parcs."
+          }
+        },
+        {
+          "q": {
+            "en": "Does it have a pool for the children?",
+            "fr": "A-t-il une piscine pour les enfants?"
+          },
+          "a": {
+            "en": "Yes. There is a heated indoor pool open year-round and an outdoor pool in summer, so the children can swim even on a cold or wet Paris day.",
+            "fr": "Oui. Il y a une piscine intérieure chauffée ouverte toute l'année et une piscine extérieure l'été, les enfants peuvent donc nager même par temps froid ou pluvieux à Paris."
+          }
+        },
+        {
+          "q": {
+            "en": "How does it compare with the Explorers Hotel?",
+            "fr": "Comment se compare-t-il à l'Explorers Hotel?"
+          },
+          "a": {
+            "en": "Both are partner hotels in Magny-le-Hongre with free shuttles. Dream Castle is prettier and calmer with a spa, while Explorers has far more for children with its big water playground and soft play, so pick by whether you want atmosphere or on-site kids' activities.",
+            "fr": "Les deux sont des hôtels partenaires à Magny-le-Hongre avec navettes gratuites. Le Dream Castle est plus joli et plus calme avec un spa, tandis que l'Explorers offre bien plus aux enfants avec sa grande aire aquatique et ses jeux souples : choisissez selon que vous voulez de l'ambiance ou des activités enfants sur place."
+          }
+        }
+      ]
+    },
+    {
+      "key": "disneyland-paris-bb-hotel-disneyland-paris",
+      "destinationKey": "disneyland-paris",
+      "name": "B&B Hotel at Disneyland Paris",
+      "area": {
+        "en": "Partner, Magny-le-Hongre",
+        "fr": "Partenaire, Magny-le-Hongre"
+      },
+      "lat": 48.8548,
+      "lng": 2.802,
+      "zoom": 12,
+      "address": "60 Avenue de la Fosse des Pressoirs, 77700 Magny-le-Hongre, France",
+      "priceTier": 1,
+      "priceFrom": 90,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "family-suites",
+        "toddler-friendly",
+        "baby-friendly"
+      ],
+      "clubFree": false,
+      "scores": {
+        "rooms": 72,
+        "baby": 74,
+        "pool": 62,
+        "dining": 70,
+        "safety": 80,
+        "convenience": 74,
+        "location": 70,
+        "extras": 66
+      },
+      "roomsSummary": {
+        "en": "Rooms are simple, modern and clean, with family rooms sleeping up to five, which is the whole reason to book here. There is no frilly theming and no pool, but the family rooms fit a couple with three children at a price well below the themed hotels, and cots can be requested.",
+        "fr": "Les chambres sont simples, modernes et propres, avec des chambres familiales jusqu'à cinq personnes, la vraie raison de réserver ici. Pas de déco à fioritures ni de piscine, mais les chambres familiales logent un couple avec trois enfants à un prix bien en dessous des hôtels à thème, et un lit bébé peut être demandé."
+      },
+      "intro": {
+        "en": "The B&B Hotel is the budget option for families who want to spend their money on park tickets rather than the room. It is a straightforward, modern hotel in Magny-le-Hongre with family rooms for up to five, a free shuttle to the parks and Val d'Europe shopping centre about ten minutes' walk away for cheap dinners and supermarket supplies. There is no pool and no theming, but for a no-frills base that keeps the trip affordable it does the job.",
+        "fr": "Le B&B Hotel est l'option économique pour les familles qui préfèrent dépenser leur budget en billets plutôt qu'en chambre. C'est un hôtel moderne et sans détour à Magny-le-Hongre, avec des chambres familiales jusqu'à cinq personnes, une navette gratuite vers les parcs et le centre commercial Val d'Europe à une dizaine de minutes à pied pour les dîners économiques et les courses. Pas de piscine ni de déco à thème, mais pour une base sans fioritures qui garde le séjour abordable, il fait le travail."
+      },
+      "highlights": {
+        "en": [
+          "The cheapest family base near the resort",
+          "Family rooms sleeping up to five",
+          "Free shuttle to the parks",
+          "Val d'Europe shops and supermarket about 10 minutes' walk away",
+          "Simple, modern and clean, money saved for park tickets"
+        ],
+        "fr": [
+          "La base familiale la moins chère près de la destination",
+          "Chambres familiales jusqu'à cinq personnes",
+          "Navette gratuite vers les parcs",
+          "Boutiques et supermarché de Val d'Europe à environ 10 minutes à pied",
+          "Simple, moderne et propre, budget économisé pour les billets"
+        ]
+      },
+      "pros": {
+        "en": [
+          "By far the lowest price of these family options",
+          "Family rooms for five keep a bigger family together cheaply",
+          "Val d'Europe nearby for budget meals and self-catering supplies",
+          "Free shuttle means no car needed for the parks"
+        ],
+        "fr": [
+          "De loin le prix le plus bas parmi ces options familiales",
+          "Chambres familiales pour cinq pour loger une famille nombreuse à moindre coût",
+          "Val d'Europe à proximité pour repas économiques et courses",
+          "La navette gratuite évite d'avoir une voiture pour les parcs"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No pool, no theming and no Extra Magic Time",
+          "Basic breakfast and limited on-site dining",
+          "Shuttle-dependent, so mornings and evenings need planning around it"
+        ],
+        "fr": [
+          "Pas de piscine, pas de déco à thème et pas d'Extra Magic Time",
+          "Petit-déjeuner basique et restauration sur place limitée",
+          "Dépendant de la navette, les matins et soirs doivent s'organiser autour d'elle"
+        ]
+      },
+      "verdict": {
+        "en": "The value pick, pure and simple: no pool or magic, but clean family rooms, a free shuttle and Val d'Europe next door, so more of your budget goes on the parks.",
+        "fr": "Le choix malin, tout simplement : pas de piscine ni de magie, mais des chambres familiales propres, une navette gratuite et Val d'Europe à côté, pour consacrer plus de budget aux parcs."
+      },
+      "parentTip": {
+        "en": "Walk over to Val d'Europe for an evening meal and to stock up on breakfast and snacks at the supermarket: it cuts the food bill sharply over a few days, which is where park trips quietly get expensive.",
+        "fr": "Faites un saut à Val d'Europe pour le dîner et pour acheter petit-déjeuner et goûters au supermarché : cela réduit nettement la note de nourriture sur quelques jours, là où les séjours au parc coûtent cher sans qu'on le voie."
+      },
+      "atAGlance": [
+        {
+          "icon": "🚌",
+          "label": {
+            "en": "Park access",
+            "fr": "Accès au parc"
+          },
+          "value": {
+            "en": "Free shuttle from Magny-le-Hongre",
+            "fr": "Navette gratuite depuis Magny-le-Hongre"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Price",
+            "fr": "Prix"
+          },
+          "value": {
+            "en": "The budget option near the resort",
+            "fr": "L'option économique près de la destination"
+          }
+        },
+        {
+          "icon": "🛒",
+          "label": {
+            "en": "Nearby",
+            "fr": "À proximité"
+          },
+          "value": {
+            "en": "Val d'Europe shops, about 10 min walk",
+            "fr": "Boutiques de Val d'Europe, environ 10 min à pied"
+          }
+        },
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Family rooms",
+            "fr": "Chambres familiales"
+          },
+          "value": {
+            "en": "Sleep up to 5",
+            "fr": "Jusqu'à 5 personnes"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the B&B Hotel suitable for families?",
+            "fr": "Le B&B Hotel convient-il aux familles?"
+          },
+          "a": {
+            "en": "Yes, if you want value over frills. Family rooms sleep up to five, it is clean and modern, and a free shuttle runs to the parks. There is no pool or theming, so it suits families who will be out at the parks most of the time.",
+            "fr": "Oui, si vous privilégiez le prix aux fioritures. Les chambres familiales accueillent jusqu'à cinq personnes, c'est propre et moderne, et une navette gratuite dessert les parcs. Pas de piscine ni de déco, il convient donc aux familles qui passeront le plus clair de leur temps dans les parcs."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we save money on food nearby?",
+            "fr": "Peut-on économiser sur la nourriture à proximité?"
+          },
+          "a": {
+            "en": "Yes. The Val d'Europe shopping centre with restaurants and a large supermarket is about a ten-minute walk, so you can eat out cheaply and buy breakfast and snacks rather than paying park and hotel prices.",
+            "fr": "Oui. Le centre commercial Val d'Europe avec restaurants et un grand supermarché est à une dizaine de minutes à pied, vous pouvez donc manger dehors à petit prix et acheter petit-déjeuner et goûters plutôt que de payer les tarifs des parcs et de l'hôtel."
+          }
+        },
+        {
+          "q": {
+            "en": "Do we get any Disney perks staying here?",
+            "fr": "A-t-on des avantages Disney en logeant ici?"
+          },
+          "a": {
+            "en": "No. As a budget partner hotel it does not include Extra Magic Time or on-site perks. You enter the parks at normal opening, but you pay far less, which is the trade-off.",
+            "fr": "Non. En tant qu'hôtel partenaire économique, il n'inclut ni l'Extra Magic Time ni les avantages du sur place. Vous entrez dans les parcs à l'ouverture normale, mais vous payez bien moins cher, c'est le compromis."
+          }
+        }
+      ]
+    }
+  ],
+  "destinationMeta": {
+    "name": {
+      "en": "Disneyland Paris",
+      "fr": "Disneyland Paris"
+    },
+    "country": {
+      "en": "France",
+      "fr": "France"
+    },
+    "emoji": "🏰",
+    "accent": "d64b8a",
+    "geo": {
+      "lat": 48.87,
+      "lng": 2.78,
+      "zoom": 12
+    },
+    "heroKicker": {
+      "en": "Where to stay for a Disneyland Paris family trip",
+      "fr": "Où loger pour un séjour en famille à Disneyland Paris"
+    },
+    "intro": {
+      "en": "A Disneyland Paris trip lives or dies on where you sleep, because the parks are exhausting and the right hotel is the difference between a magical week and a meltdown. The choice comes down to two camps. The on-site Disney hotels, from the Marvel-themed flagship to the budget Cars-themed Santa Fe, cost more but hand you two things money struggles to buy: Extra Magic Time in the parks before they open, and a walk or short shuttle straight to the gates. The partner and nearby hotels in Magny-le-Hongre and Val d'Europe cost far less and often do more for kids, like the Explorers water playground, but you swap the early park access for a shuttle timetable. This guide scores both honestly on what actually matters with children: how close you really are, whether there is a pool, and how big the family rooms are.",
+      "fr": "Un séjour à Disneyland Paris se joue sur le choix de l'hôtel, car les parcs sont épuisants et le bon hôtel fait la différence entre une semaine magique et la crise. Le choix se résume à deux camps. Les hôtels Disney sur place, du vaisseau amiral Marvel au Santa Fe économique sur le thème de Cars, coûtent plus cher mais offrent deux choses que l'argent peine à acheter : l'Extra Magic Time dans les parcs avant l'ouverture, et un accès à pied ou en courte navette jusqu'aux portes. Les hôtels partenaires et voisins de Magny-le-Hongre et Val d'Europe coûtent bien moins cher et en font souvent plus pour les enfants, comme l'aire aquatique de l'Explorers, mais vous échangez l'accès anticipé contre un horaire de navette. Ce guide note les deux honnêtement sur ce qui compte vraiment avec des enfants : la vraie distance, la présence d'une piscine et la taille des chambres familiales."
+    },
+    "whyKids": {
+      "en": [
+        "The on-site Disney hotels include Extra Magic Time, so you ride the headline attractions before the crowds arrive",
+        "The closest on-site hotels are a short walk to the gates, so no long shuttle wait with tired children",
+        "Several hotels have heated indoor pools, a real bonus in cool or wet Paris weather",
+        "The Explorers partner hotel has a huge indoor water playground, ideal for toddlers and a rest day off the parks",
+        "Family rooms for five or six are easy to find, on-site and at the partner hotels",
+        "Character breakfasts and Disney and Marvel theming turn the hotel itself into part of the magic"
+      ],
+      "fr": [
+        "Les hôtels Disney sur place incluent l'Extra Magic Time, vous faites donc les grosses attractions avant l'arrivée de la foule",
+        "Les hôtels sur place les plus proches sont à courte marche des portes, sans longue attente de navette avec des enfants fatigués",
+        "Plusieurs hôtels ont des piscines intérieures chauffées, un vrai atout par temps parisien frais ou pluvieux",
+        "L'hôtel partenaire Explorers a une immense aire aquatique intérieure, idéale pour les tout-petits et une journée de repos loin des parcs",
+        "Les chambres familiales pour cinq ou six se trouvent facilement, sur place comme dans les hôtels partenaires",
+        "Les petits-déjeuners avec les personnages et les décors Disney et Marvel font de l'hôtel une partie de la magie"
+      ]
+    },
+    "bestAreas": {
+      "en": [
+        "On-site Disney hotels: the closest to the gates and the only ones with Extra Magic Time, from the flagship Hotel New York down to the budget Santa Fe. Pick these for early park access and the shortest walk.",
+        "Val d'Europe: a short RER or shuttle hop away, with the big shopping centre, restaurants and supermarket for cheaper meals and self-catering supplies. Good for families watching the budget.",
+        "Bailly-Romainvilliers and Magny-le-Hongre: the partner-hotel belt a free shuttle from the parks, home to Explorers, Dream Castle and the budget B&B. Lower prices and often more for the kids to do at the hotel."
+      ],
+      "fr": [
+        "Hôtels Disney sur place : les plus proches des portes et les seuls avec l'Extra Magic Time, du vaisseau amiral Hotel New York jusqu'au Santa Fe économique. À choisir pour l'accès anticipé et la marche la plus courte.",
+        "Val d'Europe : à un court trajet de RER ou de navette, avec le grand centre commercial, des restaurants et un supermarché pour des repas moins chers et des courses. Bien pour les familles qui surveillent le budget.",
+        "Bailly-Romainvilliers et Magny-le-Hongre : la ceinture d'hôtels partenaires à une navette gratuite des parcs, avec l'Explorers, le Dream Castle et le B&B économique. Prix plus bas et souvent plus d'activités pour les enfants à l'hôtel."
+      ]
+    },
+    "stats": [
+      {
+        "value": "On-site vs partner",
+        "label": {
+          "en": "The core choice: Disney perks or a lower price",
+          "fr": "Le choix clé : avantages Disney ou prix plus bas"
+        }
+      },
+      {
+        "value": "Extra Magic Time",
+        "label": {
+          "en": "Included only at the on-site Disney hotels",
+          "fr": "Inclus seulement dans les hôtels Disney sur place"
+        }
+      },
+      {
+        "value": "RER A / TGV",
+        "label": {
+          "en": "Marne-la-Vallée Chessy station serves the resort",
+          "fr": "La gare de Marne-la-Vallée Chessy dessert la destination"
+        }
+      },
+      {
+        "value": "Tickets separate",
+        "label": {
+          "en": "Park entry is usually on top of the room",
+          "fr": "L'entrée au parc s'ajoute en général à la chambre"
+        }
+      }
+    ],
+    "goodToKnow": {
+      "en": "Two honest points shape every Disneyland Paris booking. First, the park tickets are separate and pricey: room-only rates rarely include entry, so most families book a package that bundles the hotel with tickets, and it is worth comparing the total rather than the headline room price. Second, Extra Magic Time, the early access to the parks before official opening, is only for guests of the on-site Disney hotels, not the partner ones, and it is the single biggest reason to pay more to stay on-site. Getting there is easy: the Marne-la-Vallée Chessy station sits right by the parks with direct RER A trains from central Paris and TGV connections from across France and beyond, so you do not need a car. Finally, the resort is extremely busy during French, UK and other European school holidays and around Christmas, when queues are long and prices peak, so travel outside those weeks if you can and book well ahead if you cannot.",
+      "fr": "Deux points honnêtes conditionnent toute réservation à Disneyland Paris. D'abord, les billets de parc sont séparés et chers : les tarifs chambre seule incluent rarement l'entrée, la plupart des familles réservent donc un forfait associant l'hôtel aux billets, et mieux vaut comparer le total plutôt que le prix affiché de la chambre. Ensuite, l'Extra Magic Time, l'accès anticipé aux parcs avant l'ouverture officielle, est réservé aux clients des hôtels Disney sur place, pas aux partenaires, et c'est la première raison de payer plus cher pour loger sur place. L'accès est simple : la gare de Marne-la-Vallée Chessy est juste à côté des parcs, avec des RER A directs depuis le centre de Paris et des correspondances TGV de toute la France et au-delà, une voiture n'est donc pas nécessaire. Enfin, la destination est très fréquentée pendant les vacances scolaires françaises, britanniques et européennes et autour de Noël, quand les files sont longues et les prix au plus haut : voyagez hors de ces semaines si vous le pouvez, et réservez bien à l'avance sinon."
+    },
+    "parentTip": {
+      "en": "Decide first whether Extra Magic Time is worth it for your family. If you will rope-drop the big rides every morning, an on-site Disney hotel earns its higher price. If you would rather have a pool, bigger rooms and money left for tickets, a partner hotel like Explorers is the smarter buy, and you simply arrive at normal opening.",
+      "fr": "Décidez d'abord si l'Extra Magic Time vaut le coup pour votre famille. Si vous comptez enchaîner les grosses attractions dès l'ouverture chaque matin, un hôtel Disney sur place justifie son prix plus élevé. Si vous préférez une piscine, de plus grandes chambres et du budget restant pour les billets, un hôtel partenaire comme l'Explorers est le choix plus malin, et vous arrivez simplement à l'ouverture normale."
+    }
+  }
+}

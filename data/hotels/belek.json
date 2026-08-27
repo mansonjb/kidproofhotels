@@ -1,0 +1,1665 @@
+{
+  "hotels": [
+    {
+      "key": "belek-gloria-serenity-resort",
+      "destinationKey": "belek",
+      "name": "Gloria Serenity Resort",
+      "area": {
+        "en": "Belek",
+        "fr": "Belek"
+      },
+      "lat": 36.849,
+      "lng": 31.101,
+      "zoom": 12,
+      "address": "Gloria Serenity Resort, Acisu Mevkii, Belek, Antalya, Turkey",
+      "priceTier": 4,
+      "priceFrom": 300,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolPalms",
+        "infinityPoolSea",
+        "resortLoungers"
+      ],
+      "scores": {
+        "rooms": 88,
+        "baby": 80,
+        "pool": 90,
+        "dining": 90,
+        "safety": 85,
+        "convenience": 82,
+        "location": 84,
+        "extras": 88
+      },
+      "roomsSummary": {
+        "en": "Rooms are generous and calm, set among lawns and pine, with family categories that give you either a separate living area or connecting doors so a sleeping toddler does not dictate the whole evening. Cots and bed rails are free on request, and the larger suites easily take a family of four or five without feeling cramped.",
+        "fr": "Les chambres sont vastes et apaisantes, posées au milieu des pelouses et des pins, avec des catégories familiales offrant soit un coin salon séparé, soit des portes communicantes : un tout-petit qui dort ne dicte plus toute la soirée. Lit bébé et barrières gratuits sur demande, et les grandes suites accueillent sans peine une famille de quatre ou cinq sans sensation d'étroitesse."
+      },
+      "intro": {
+        "en": "Part of the well-run Gloria trio, Serenity is the calmer, greener member: a big ultra all-inclusive resort with the Gogi kids club, an aqua park and long stretches of Blue Flag beach backed by pine. It suits families who want the full slides-and-buffet package delivered with a bit of polish and space to breathe.",
+        "fr": "Membre du trio Gloria bien tenu, Serenity en est la part la plus calme et la plus verte : un grand resort ultra tout compris avec le club enfants Gogi, un parc aquatique et de longues plages Pavillon Bleu adossées à la pinède. Idéal pour les familles qui veulent la formule complète toboggans et buffet, servie avec un peu de raffinement et de l'espace pour respirer."
+      },
+      "highlights": {
+        "en": [
+          "Ultra all-inclusive with à la carte restaurants and quality dining beyond the main buffet",
+          "Gogi kids club (ages 4 to 12) included, plus a Fun Jungle playground for the under-fives",
+          "On-site aqua park and free access to the neighbouring Gloria water park",
+          "Long Blue Flag beach with a pier, cabanas and shaded loungers",
+          "Green, spacious grounds that keep the resort from ever feeling crowded"
+        ],
+        "fr": [
+          "Ultra tout compris avec restaurants à la carte et une table de qualité au-delà du buffet principal",
+          "Club enfants Gogi (4 à 12 ans) inclus, plus une aire de jeux Fun Jungle pour les moins de cinq ans",
+          "Parc aquatique sur place et accès libre au parc aquatique Gloria voisin",
+          "Longue plage Pavillon Bleu avec ponton, cabanes et transats ombragés",
+          "Domaine vert et spacieux qui empêche le resort de paraître bondé"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Genuinely calm and green for a resort of this size, easy on frazzled parents",
+          "Strong, varied food that keeps fussy eaters and adults both happy",
+          "Access to three Gloria resorts' facilities widens what the kids can do"
+        ],
+        "fr": [
+          "Vraiment calme et vert pour un resort de cette taille, reposant pour des parents épuisés",
+          "Cuisine solide et variée qui contente les petits difficiles comme les adultes",
+          "L'accès aux équipements des trois resorts Gloria élargit ce que les enfants peuvent faire"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Premium pricing, especially in peak July and August",
+          "The main aqua park sits at the sister Gloria hotel, so plan a short walk for the biggest slides"
+        ],
+        "fr": [
+          "Tarifs premium, surtout en plein juillet et août",
+          "Le grand parc aquatique se trouve à l'hôtel Gloria voisin : prévoyez une petite marche pour les plus gros toboggans"
+        ]
+      },
+      "verdict": {
+        "en": "Serenity is the sensible pick if you want a big Belek resort without the sensory overload: excellent food, free kids club, plenty of water fun and calm, leafy grounds. You pay for the quality, but families rarely leave disappointed.",
+        "fr": "Serenity est le choix raisonnable si vous voulez un grand resort de Belek sans la surcharge sensorielle : excellente cuisine, club enfants gratuit, beaucoup de jeux d'eau et un parc calme et verdoyant. On paie la qualité, mais les familles repartent rarement déçues."
+      },
+      "parentTip": {
+        "en": "Ask about the shuttle and walking routes between the three Gloria properties on arrival: knowing where the biggest slides and the quiet pools are saves a lot of midday back-and-forth with tired kids.",
+        "fr": "Renseignez-vous dès l'arrivée sur la navette et les cheminements entre les trois hôtels Gloria : savoir où sont les plus gros toboggans et les piscines calmes évite bien des allers-retours à midi avec des enfants fatigués."
+      },
+      "atAGlance": [
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "Ultra all-inclusive",
+            "fr": "Ultra tout compris"
+          }
+        },
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "On-site, plus Gloria park",
+            "fr": "Sur place, plus parc Gloria"
+          }
+        },
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Kids club",
+            "fr": "Mini-club"
+          },
+          "value": {
+            "en": "Free, ages 4 to 12",
+            "fr": "Gratuit, 4 à 12 ans"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Blue Flag, sand then shingle",
+            "fr": "Pavillon Bleu, sable puis galets"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport transfer",
+            "fr": "Transfert aéroport"
+          },
+          "value": {
+            "en": "About 40 min",
+            "fr": "Environ 40 min"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "From",
+            "fr": "À partir de"
+          },
+          "value": {
+            "en": "~300 EUR/night",
+            "fr": "~300 EUR/nuit"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the kids club included?",
+            "fr": "Le mini-club est-il inclus ?"
+          },
+          "a": {
+            "en": "Yes, the Gogi kids club for ages 4 to 12 is part of the all-inclusive rate, with a supervised daytime programme. Younger children use the Fun Jungle playground under parental supervision, and babysitting is a paid extra.",
+            "fr": "Oui, le club Gogi pour les 4 à 12 ans est compris dans la formule tout compris, avec un programme encadré en journée. Les plus petits profitent de l'aire Fun Jungle sous la surveillance des parents, et le baby-sitting est en supplément."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we use the other Gloria hotels' facilities?",
+            "fr": "Peut-on utiliser les équipements des autres hôtels Gloria ?"
+          },
+          "a": {
+            "en": "Yes, guests can use the shared facilities across the three Gloria resorts, including the larger aqua park, which widens the choice of pools and activities for the children.",
+            "fr": "Oui, les clients accèdent aux équipements partagés des trois resorts Gloria, dont le plus grand parc aquatique, ce qui élargit le choix de piscines et d'activités pour les enfants."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the beach good for young children?",
+            "fr": "La plage convient-elle aux jeunes enfants ?"
+          },
+          "a": {
+            "en": "The Blue Flag beach shelves gently with lifeguards in season, but the seabed turns to shingle, so water shoes make paddling more comfortable for little feet.",
+            "fr": "La plage Pavillon Bleu descend en pente douce avec des maîtres-nageurs en saison, mais le fond devient caillouteux : des chaussons d'eau rendent la baignade plus agréable pour les petits pieds."
+          }
+        }
+      ]
+    },
+    {
+      "key": "belek-gloria-golf-resort",
+      "destinationKey": "belek",
+      "name": "Gloria Golf Resort",
+      "area": {
+        "en": "Belek",
+        "fr": "Belek"
+      },
+      "lat": 36.851,
+      "lng": 31.105,
+      "zoom": 12,
+      "address": "Gloria Golf Resort, Acisu Mevkii, Belek, Antalya, Turkey",
+      "priceTier": 4,
+      "priceFrom": 260,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "whiteResortPool",
+        "poolCabanas",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 84,
+        "baby": 78,
+        "pool": 91,
+        "dining": 86,
+        "safety": 84,
+        "convenience": 83,
+        "location": 83,
+        "extras": 90
+      },
+      "roomsSummary": {
+        "en": "A mix of hotel rooms and bungalow-style buildings spread through the pine, with family and connecting options that keep parents and children close but not on top of each other. Cots are free on request, and the family categories give you the storage and space a week with young kids actually needs.",
+        "fr": "Un mélange de chambres d'hôtel et de bâtiments façon bungalow répartis dans la pinède, avec des formules familiales et communicantes qui gardent parents et enfants proches sans être les uns sur les autres. Lit bébé gratuit sur demande, et les catégories familiales offrent le rangement et l'espace qu'une semaine avec de jeunes enfants réclame vraiment."
+      },
+      "intro": {
+        "en": "The most water-focused of the Gloria resorts: its on-site aqua park has 21 slides, so this is the address for families whose children measure a holiday in splashes. Add a free Gogi kids club, a Blue Flag beach and three golf courses for the grown-ups, and it covers every age in one gated, all-inclusive world.",
+        "fr": "Le plus tourné vers l'eau des resorts Gloria : son parc aquatique compte 21 toboggans, c'est donc l'adresse des familles dont les enfants mesurent les vacances en éclaboussures. Ajoutez un club Gogi gratuit, une plage Pavillon Bleu et trois parcours de golf pour les grands, et tous les âges sont couverts dans un même univers clos et tout compris."
+      },
+      "highlights": {
+        "en": [
+          "On-site aqua park with 21 slides, one of the biggest at any Belek hotel",
+          "Free Gogi kids club with a dedicated kids restaurant and playground",
+          "Ultra all-inclusive covering à la carte dining and snacks through the day",
+          "Blue Flag private beach with 500 metres of sand and a pier",
+          "Three golf courses on the doorstep for a parent's morning off"
+        ],
+        "fr": [
+          "Parc aquatique sur place avec 21 toboggans, l'un des plus grands des hôtels de Belek",
+          "Club enfants Gogi gratuit avec restaurant enfants dédié et aire de jeux",
+          "Ultra tout compris couvrant les restaurants à la carte et les en-cas de la journée",
+          "Plage privée Pavillon Bleu de 500 mètres de sable avec ponton",
+          "Trois parcours de golf à deux pas pour une matinée off côté parents"
+        ]
+      },
+      "pros": {
+        "en": [
+          "One of the strongest aqua parks in Belek for slide-obsessed kids",
+          "Long, well-kept beach with genuine space in high season",
+          "Access to the wider Gloria facilities adds pools and dining variety"
+        ],
+        "fr": [
+          "L'un des meilleurs parcs aquatiques de Belek pour les enfants fous de toboggans",
+          "Plage longue et soignée, avec un vrai espace en haute saison",
+          "L'accès aux équipements Gloria élargit le choix de piscines et de restaurants"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The grounds are large, so far rooms mean a walk to the beach and main pool",
+          "Golf-resort feel means it is busy and geared to a mixed crowd, not purely a kids' hotel"
+        ],
+        "fr": [
+          "Le domaine est vaste : les chambres éloignées imposent de la marche jusqu'à la plage et à la piscine principale",
+          "L'esprit resort de golf le rend fréquenté et pensé pour une clientèle mixte, pas uniquement un hôtel pour enfants"
+        ]
+      },
+      "verdict": {
+        "en": "If your children live for water slides, Gloria Golf is hard to beat in Belek: a huge aqua park, a free kids club and a proper beach, all inside a reliable ultra all-inclusive. Parents get golf and quieter corners, so nobody loses.",
+        "fr": "Si vos enfants ne vivent que pour les toboggans, le Gloria Golf est difficile à battre à Belek : un immense parc aquatique, un club enfants gratuit et une vraie plage, le tout dans un ultra tout compris fiable. Les parents ont le golf et des coins plus calmes : personne n'y perd."
+      },
+      "parentTip": {
+        "en": "Request a room near the aqua park if slides are the whole point of the trip: it saves the long midday trek back for lunch and naps with soggy, tired children.",
+        "fr": "Demandez une chambre près du parc aquatique si les toboggans sont tout l'intérêt du séjour : cela évite la longue marche de midi pour le déjeuner et la sieste avec des enfants trempés et fatigués."
+      },
+      "atAGlance": [
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "Ultra all-inclusive",
+            "fr": "Ultra tout compris"
+          }
+        },
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "On-site, 21 slides",
+            "fr": "Sur place, 21 toboggans"
+          }
+        },
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Kids club",
+            "fr": "Mini-club"
+          },
+          "value": {
+            "en": "Free, ages 4 to 12",
+            "fr": "Gratuit, 4 à 12 ans"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Blue Flag, 500 m of sand",
+            "fr": "Pavillon Bleu, 500 m de sable"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport transfer",
+            "fr": "Transfert aéroport"
+          },
+          "value": {
+            "en": "About 40 min",
+            "fr": "Environ 40 min"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "From",
+            "fr": "À partir de"
+          },
+          "value": {
+            "en": "~260 EUR/night",
+            "fr": "~260 EUR/nuit"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "How big is the aqua park?",
+            "fr": "Quelle est la taille du parc aquatique ?"
+          },
+          "a": {
+            "en": "It is one of the largest at any Belek hotel, with 21 slides plus children's splash areas, and access to the shared Gloria water facilities on top.",
+            "fr": "C'est l'un des plus grands des hôtels de Belek, avec 21 toboggans et des pataugeoires pour enfants, plus l'accès aux équipements aquatiques partagés Gloria."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it too golf-focused for families?",
+            "fr": "Est-ce trop axé golf pour les familles ?"
+          },
+          "a": {
+            "en": "No. Golf is a big draw for adults, but the resort runs a full family programme with a free kids club, huge aqua park and a kids restaurant, so children are well catered for.",
+            "fr": "Non. Le golf attire surtout les adultes, mais le resort propose un vrai programme famille avec club enfants gratuit, immense parc aquatique et restaurant enfants : les enfants sont très bien pris en charge."
+          }
+        },
+        {
+          "q": {
+            "en": "Are cots and baby gear available?",
+            "fr": "Lits bébé et matériel enfant sont-ils disponibles ?"
+          },
+          "a": {
+            "en": "Cots and bed rails are free on request, and the resort has high chairs and a baby-friendly buffet corner; bring or pre-order any specific formula or nappies to be safe.",
+            "fr": "Lit bébé et barrières sont gratuits sur demande, et le resort dispose de chaises hautes et d'un coin buffet adapté aux bébés ; apportez ou commandez à l'avance lait et couches spécifiques par précaution."
+          }
+        }
+      ]
+    },
+    {
+      "key": "belek-regnum-carya",
+      "destinationKey": "belek",
+      "name": "Regnum Carya",
+      "area": {
+        "en": "Kadriye",
+        "fr": "Kadriye"
+      },
+      "lat": 36.857,
+      "lng": 30.995,
+      "zoom": 12,
+      "address": "Regnum Carya, Uckum Tepesi Mevkii, Kadriye, Belek, Antalya, Turkey",
+      "priceTier": 4,
+      "priceFrom": 360,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "infinityPoolSea",
+        "poolPalms",
+        "resortLoungers"
+      ],
+      "scores": {
+        "rooms": 90,
+        "baby": 80,
+        "pool": 92,
+        "dining": 90,
+        "safety": 86,
+        "convenience": 80,
+        "location": 82,
+        "extras": 92
+      },
+      "roomsSummary": {
+        "en": "Rooms and villas are modern and roomy, with family layouts and some units that come with a private pool, which is a genuine game-changer with toddlers who nap. Cots and bed rails are free, and the larger categories give parents a door to close between the children and the living space.",
+        "fr": "Chambres et villas modernes et spacieuses, avec des configurations familiales et certaines unités dotées d'une piscine privée, un vrai atout avec des tout-petits qui font la sieste. Lit bébé et barrières gratuits, et les grandes catégories offrent aux parents une porte à fermer entre les enfants et le coin salon."
+      },
+      "intro": {
+        "en": "Regnum Carya is the flashy, high-end end of Kadriye: a sprawling ultra all-inclusive with the Aqualantis aqua park, a wave pool, eight pools and the Chuckles kids club. It is polished and design-led, aimed at families who want a five-star feel with a serious amount of water and space for every age.",
+        "fr": "Regnum Carya, c'est le haut de gamme spectaculaire de Kadriye : un vaste ultra tout compris avec le parc aquatique Aqualantis, une piscine à vagues, huit piscines et le club enfants Chuckles. Raffiné et très design, il vise les familles qui veulent une ambiance cinq étoiles avec beaucoup d'eau et de l'espace pour tous les âges."
+      },
+      "highlights": {
+        "en": [
+          "Aqualantis aqua park with twisting slides, river rapids and a wave pool",
+          "Eight pools including three children's pools and colourful splash features",
+          "Chuckles kids club (from age 4) with age-split activities and an indoor play area",
+          "Ultra all-inclusive with a strong, varied dining line-up",
+          "Private beach, with some rooms and villas offering a private pool"
+        ],
+        "fr": [
+          "Parc aquatique Aqualantis avec toboggans sinueux, rivière à rapides et piscine à vagues",
+          "Huit piscines dont trois bassins enfants et des jeux d'eau colorés",
+          "Club enfants Chuckles (dès 4 ans) avec activités par tranche d'âge et espace de jeu intérieur",
+          "Ultra tout compris avec une offre de restauration riche et variée",
+          "Plage privée, certaines chambres et villas offrant une piscine privée"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Standout aqua park and pool complex, among the best in the whole region",
+          "High design and service standards that feel a step above the Belek average",
+          "Private-pool villas are excellent for families with babies and nappers"
+        ],
+        "fr": [
+          "Parc aquatique et complexe de piscines remarquables, parmi les meilleurs de toute la région",
+          "Design et service haut de gamme, un cran au-dessus de la moyenne de Belek",
+          "Les villas à piscine privée sont excellentes pour les familles avec bébés et siestes"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Among the priciest options in the area, especially the villas",
+          "It is large and glossy, so the vibe leans upscale-busy rather than laid-back"
+        ],
+        "fr": [
+          "Parmi les options les plus chères du secteur, surtout les villas",
+          "Vaste et très léché : l'ambiance penche vers le chic animé plutôt que le décontracté"
+        ]
+      },
+      "verdict": {
+        "en": "Regnum Carya is the splurge choice for families who want the biggest water park, the slickest rooms and top-tier service in one place. It is not cheap, but for a once-a-year blowout with water-mad kids, it delivers on nearly every front.",
+        "fr": "Regnum Carya est le choix coup de folie pour les familles qui veulent le plus grand parc aquatique, les plus belles chambres et un service haut de gamme réunis. Ce n'est pas donné, mais pour la grande escapade annuelle avec des enfants dingues d'eau, il tient presque toutes ses promesses."
+      },
+      "parentTip": {
+        "en": "If your budget can stretch to a private-pool room, take it: with babies and toddlers, having your own water and shade a step from the door transforms the rhythm of the day.",
+        "fr": "Si le budget le permet, prenez une chambre avec piscine privée : avec des bébés et des tout-petits, avoir son propre bassin et de l'ombre à un pas de la porte transforme le rythme de la journée."
+      },
+      "atAGlance": [
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "Ultra all-inclusive",
+            "fr": "Ultra tout compris"
+          }
+        },
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "Aqualantis, wave pool",
+            "fr": "Aqualantis, piscine à vagues"
+          }
+        },
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Kids club",
+            "fr": "Mini-club"
+          },
+          "value": {
+            "en": "Free, Chuckles from age 4",
+            "fr": "Gratuit, Chuckles dès 4 ans"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Private, sand then shingle",
+            "fr": "Privée, sable puis galets"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport transfer",
+            "fr": "Transfert aéroport"
+          },
+          "value": {
+            "en": "About 35 min",
+            "fr": "Environ 35 min"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "From",
+            "fr": "À partir de"
+          },
+          "value": {
+            "en": "~360 EUR/night",
+            "fr": "~360 EUR/nuit"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "What ages does the kids club take?",
+            "fr": "À partir de quel âge le mini-club accueille-t-il ?"
+          },
+          "a": {
+            "en": "The Chuckles kids club takes children from age 4 without a parent, with activities split by age group. Under-fours are welcome with a parent, and there are three children's pools plus an indoor play area.",
+            "fr": "Le club Chuckles accueille les enfants dès 4 ans sans les parents, avec des activités réparties par tranche d'âge. Les moins de quatre ans sont les bienvenus accompagnés, et il y a trois bassins enfants ainsi qu'un espace de jeu intérieur."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the aqua park suitable for little ones?",
+            "fr": "Le parc aquatique convient-il aux petits ?"
+          },
+          "a": {
+            "en": "Yes, alongside the big slides and wave pool there are dedicated children's pools with gentle, colourful features, so toddlers and older kids each have their own space.",
+            "fr": "Oui, à côté des grands toboggans et de la piscine à vagues, il y a des bassins enfants avec des jeux doux et colorés : les tout-petits et les plus grands ont chacun leur espace."
+          }
+        },
+        {
+          "q": {
+            "en": "How far is the airport?",
+            "fr": "À quelle distance se trouve l'aéroport ?"
+          },
+          "a": {
+            "en": "Antalya airport is roughly a 35 minute transfer, which is manageable even with young children after a flight; the resort can arrange private transfers with car seats on request.",
+            "fr": "L'aéroport d'Antalya est à environ 35 minutes de transfert, gérable même avec de jeunes enfants après un vol ; le resort peut organiser des transferts privés avec sièges auto sur demande."
+          }
+        }
+      ]
+    },
+    {
+      "key": "belek-titanic-deluxe-golf-belek",
+      "destinationKey": "belek",
+      "name": "Titanic Deluxe Golf Belek",
+      "area": {
+        "en": "Belek",
+        "fr": "Belek"
+      },
+      "lat": 36.848,
+      "lng": 31.045,
+      "zoom": 12,
+      "address": "Titanic Deluxe Golf Belek, Iskele Mevkii, Belek, Antalya, Turkey",
+      "priceTier": 3,
+      "priceFrom": 190,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolCabanas",
+        "resortLoungers",
+        "poolPalms"
+      ],
+      "scores": {
+        "rooms": 82,
+        "baby": 78,
+        "pool": 90,
+        "dining": 84,
+        "safety": 84,
+        "convenience": 82,
+        "location": 82,
+        "extras": 88
+      },
+      "roomsSummary": {
+        "en": "Comfortable, good-sized rooms across several family categories, including options with connecting doors and family suites that sleep four or five without a squeeze. Cots and bed rails are free on request, and the family units add the extra beds and space that make a longer stay workable.",
+        "fr": "Chambres confortables et de bonne taille réparties sur plusieurs catégories familiales, dont des formules à portes communicantes et des suites familiales pour quatre ou cinq sans se serrer. Lit bébé et barrières gratuits sur demande, et les unités familiales ajoutent les lits et l'espace qui rendent un séjour plus long tenable."
+      },
+      "intro": {
+        "en": "Set in pine woodland along the Besgoz river, Titanic Deluxe pairs a 15,000 m2 aqua park with the big Kikoa kids club, so it punches well above its price for water fun. It is the strong mid-budget Belek pick: everything the pricier neighbours have, at a friendlier nightly rate.",
+        "fr": "Niché dans une pinède le long de la rivière Besgoz, le Titanic Deluxe associe un parc aquatique de 15 000 m2 au grand club enfants Kikoa : côté jeux d'eau, il en offre bien plus que son prix. C'est le solide choix budget intermédiaire de Belek : tout ce qu'ont les voisins plus chers, à un tarif à la nuit plus doux."
+      },
+      "highlights": {
+        "en": [
+          "15,000 m2 aqua park with nine slides across three towers, plus a kids' Aquatower pool",
+          "6,000 m2 Kikoa kids club with multilingual staff and a toddler splash pool",
+          "Eleven pools, two of them indoor for cooler or cloudy days",
+          "Nearly a kilometre of private sandy beach",
+          "Ultra all-inclusive at a rate below the top-tier Belek resorts"
+        ],
+        "fr": [
+          "Parc aquatique de 15 000 m2 avec neuf toboggans sur trois tours, plus un bassin enfants Aquatower",
+          "Club enfants Kikoa de 6 000 m2 avec personnel multilingue et pataugeoire pour tout-petits",
+          "Onze piscines, dont deux intérieures pour les jours frais ou couverts",
+          "Près d'un kilomètre de plage de sable privée",
+          "Ultra tout compris à un tarif inférieur aux resorts haut de gamme de Belek"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Excellent value: big-resort water facilities without the top-tier price",
+          "Rare stretch of genuinely sandy beach for the Belek coast",
+          "Indoor pools give a wet-weather and shoulder-season backup"
+        ],
+        "fr": [
+          "Excellent rapport qualité-prix : équipements aquatiques de grand resort sans le prix haut de gamme",
+          "Rare étendue de plage vraiment sableuse pour la côte de Belek",
+          "Les piscines intérieures offrent un plan B en cas de pluie et en aile de saison"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Very popular, so pools and slides get busy at peak times",
+          "The resort is spread out along the river, so expect some walking to the beach"
+        ],
+        "fr": [
+          "Très prisé : piscines et toboggans se remplissent aux heures de pointe",
+          "Le resort s'étire le long de la rivière : prévoyez un peu de marche jusqu'à la plage"
+        ]
+      },
+      "verdict": {
+        "en": "Titanic Deluxe is the value champion of this list: a huge aqua park, a big free kids club and a proper sandy beach, all at a price that undercuts the flashier names. For families watching the budget but not the fun, it is a very easy recommendation.",
+        "fr": "Le Titanic Deluxe est le champion du rapport qualité-prix de cette liste : un immense parc aquatique, un grand club enfants gratuit et une vraie plage de sable, à un tarif qui reste sous les noms plus tape-à-l'oeil. Pour les familles qui surveillent le budget mais pas le plaisir, c'est une recommandation très facile."
+      },
+      "parentTip": {
+        "en": "Book school-holiday dates early: this resort's value pricing makes it one of the first Belek family hotels to sell out for July and August.",
+        "fr": "Réservez tôt pour les vacances scolaires : son bon rapport qualité-prix en fait l'un des premiers hôtels famille de Belek complets pour juillet et août."
+      },
+      "atAGlance": [
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "Ultra all-inclusive",
+            "fr": "Ultra tout compris"
+          }
+        },
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "15,000 m2, nine slides",
+            "fr": "15 000 m2, neuf toboggans"
+          }
+        },
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Kids club",
+            "fr": "Mini-club"
+          },
+          "value": {
+            "en": "Free, Kikoa club",
+            "fr": "Gratuit, club Kikoa"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Private, sandy, ~1 km",
+            "fr": "Privée, sableuse, ~1 km"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport transfer",
+            "fr": "Transfert aéroport"
+          },
+          "value": {
+            "en": "About 40 min",
+            "fr": "Environ 40 min"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "From",
+            "fr": "À partir de"
+          },
+          "value": {
+            "en": "~190 EUR/night",
+            "fr": "~190 EUR/nuit"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the beach sandy?",
+            "fr": "La plage est-elle sableuse ?"
+          },
+          "a": {
+            "en": "Yes, Titanic Deluxe has one of the sandier private beaches on the Belek coast, stretching nearly a kilometre, which is easier on bare feet than the shingle common nearby.",
+            "fr": "Oui, le Titanic Deluxe possède l'une des plages privées les plus sableuses de la côte de Belek, sur près d'un kilomètre, plus agréable pieds nus que les galets fréquents alentour."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it good value compared to other Belek resorts?",
+            "fr": "Est-ce un bon rapport qualité-prix face aux autres resorts de Belek ?"
+          },
+          "a": {
+            "en": "Yes, it offers big-resort water facilities and a large free kids club at a nightly rate below the top-tier names, which is why it books up fast in the holidays.",
+            "fr": "Oui, il propose des équipements aquatiques de grand resort et un vaste club enfants gratuit à un tarif inférieur aux noms haut de gamme, d'où un remplissage rapide pendant les vacances."
+          }
+        },
+        {
+          "q": {
+            "en": "Are there options for rainy or cooler days?",
+            "fr": "Y a-t-il des options pour les jours de pluie ou plus frais ?"
+          },
+          "a": {
+            "en": "Yes, two of the eleven pools are indoor, and the kids club is a large covered space, so a cloudy shoulder-season day does not wash out the children's fun.",
+            "fr": "Oui, deux des onze piscines sont intérieures et le club enfants est un grand espace couvert : un jour couvert en aile de saison ne gâche pas le plaisir des enfants."
+          }
+        }
+      ]
+    },
+    {
+      "key": "belek-susesi-luxury-resort",
+      "destinationKey": "belek",
+      "name": "Susesi Luxury Resort",
+      "area": {
+        "en": "Belek",
+        "fr": "Belek"
+      },
+      "lat": 36.846,
+      "lng": 31.088,
+      "zoom": 12,
+      "address": "Susesi Luxury Resort, Iskele Mevkii, Belek, Antalya, Turkey",
+      "priceTier": 4,
+      "priceFrom": 240,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolDusk",
+        "resortLoungers",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 84,
+        "baby": 80,
+        "pool": 88,
+        "dining": 88,
+        "safety": 85,
+        "convenience": 83,
+        "location": 84,
+        "extras": 86
+      },
+      "roomsSummary": {
+        "en": "A choice of hotel rooms and villas, several with family layouts and connecting options, and villa categories that suit larger families or two families travelling together. Cots and bed rails are free on request, and the villas add private outdoor space that toddlers and parents both appreciate.",
+        "fr": "Un choix de chambres d'hôtel et de villas, plusieurs avec configurations familiales et communicantes, et des catégories de villas adaptées aux grandes familles ou à deux familles ensemble. Lit bébé et barrières gratuits sur demande, et les villas ajoutent un espace extérieur privé que tout-petits et parents apprécient."
+      },
+      "intro": {
+        "en": "Susesi is a well-liked all-rounder on a 300 metre Blue Flag beach, with a free water park, the Caretta kids club and consistently praised food. It sits a notch below the flashiest resorts on price but rarely on quality, which makes it one of the safest family bets in Belek.",
+        "fr": "Le Susesi est un touche-à-tout apprécié sur une plage Pavillon Bleu de 300 mètres, avec parc aquatique gratuit, club enfants Caretta et une cuisine régulièrement saluée. Il se place un cran sous les resorts les plus tape-à-l'oeil côté prix, mais rarement côté qualité, ce qui en fait l'un des paris famille les plus sûrs de Belek."
+      },
+      "highlights": {
+        "en": [
+          "Free water park with six slides plus a separate mini aqua park for younger children",
+          "Caretta kids club, one of Belek's most praised, with its own children's pool",
+          "300 metre Blue Flag beach and seven pools around the resort",
+          "Consistently strong dining across the buffet and six à la carte restaurants",
+          "Included hammam and sauna access for a parents' hour off"
+        ],
+        "fr": [
+          "Parc aquatique gratuit avec six toboggans, plus un mini parc aquatique séparé pour les plus jeunes",
+          "Club enfants Caretta, l'un des plus salués de Belek, avec sa propre pataugeoire",
+          "Plage Pavillon Bleu de 300 mètres et sept piscines dans le resort",
+          "Cuisine constamment solide, du buffet aux six restaurants à la carte",
+          "Accès hammam et sauna inclus pour une heure off côté parents"
+        ]
+      },
+      "pros": {
+        "en": [
+          "One of Belek's best-rated kids clubs, with genuinely engaged staff",
+          "Food quality and variety consistently praised by families",
+          "Balanced price for the level of facilities and beach on offer"
+        ],
+        "fr": [
+          "L'un des clubs enfants les mieux notés de Belek, avec un personnel vraiment impliqué",
+          "Qualité et variété de la cuisine régulièrement saluées par les familles",
+          "Prix équilibré au regard du niveau d'équipements et de la plage proposés"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The water park is good rather than huge, so serious slide fans may want more",
+          "Very popular with families, so the main pool area fills up in peak weeks"
+        ],
+        "fr": [
+          "Le parc aquatique est bon plutôt qu'immense : les vrais fans de toboggans en voudront davantage",
+          "Très prisé des familles : le secteur de la piscine principale se remplit en semaines de pointe"
+        ]
+      },
+      "verdict": {
+        "en": "Susesi is the dependable middle choice: excellent food, a genuinely good free kids club and a nice Blue Flag beach, all without the top-tier price tag. If you want a reliable Belek family week rather than the biggest slides, this is a smart pick.",
+        "fr": "Le Susesi est le choix médian fiable : excellente cuisine, un club enfants gratuit vraiment bon et une jolie plage Pavillon Bleu, sans le tarif haut de gamme. Si vous voulez une semaine famille sûre à Belek plutôt que les plus gros toboggans, c'est un choix malin."
+      },
+      "parentTip": {
+        "en": "Use the included hammam and sauna in a kids-club session: it is one of the few Belek all-inclusives where the spa basics come free, so take the parents' break it hands you.",
+        "fr": "Profitez du hammam et du sauna inclus pendant une séance du club enfants : c'est l'un des rares tout compris de Belek où les bases du spa sont gratuites, alors prenez la pause parents qu'il vous offre."
+      },
+      "atAGlance": [
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "Ultra all-inclusive",
+            "fr": "Ultra tout compris"
+          }
+        },
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "Free, six slides",
+            "fr": "Gratuit, six toboggans"
+          }
+        },
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Kids club",
+            "fr": "Mini-club"
+          },
+          "value": {
+            "en": "Free, Caretta club",
+            "fr": "Gratuit, club Caretta"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Blue Flag, 300 m",
+            "fr": "Pavillon Bleu, 300 m"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport transfer",
+            "fr": "Transfert aéroport"
+          },
+          "value": {
+            "en": "About 35 min",
+            "fr": "Environ 35 min"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "From",
+            "fr": "À partir de"
+          },
+          "value": {
+            "en": "~240 EUR/night",
+            "fr": "~240 EUR/nuit"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the kids club really that good?",
+            "fr": "Le mini-club est-il vraiment si bon ?"
+          },
+          "a": {
+            "en": "The Caretta kids club is one of the most consistently praised in Belek, with engaged staff, its own children's pool and a mini aqua park, and it is included in the all-inclusive rate.",
+            "fr": "Le club Caretta est l'un des plus régulièrement salués de Belek, avec un personnel impliqué, sa propre pataugeoire et un mini parc aquatique, le tout inclus dans la formule tout compris."
+          }
+        },
+        {
+          "q": {
+            "en": "How big is the water park?",
+            "fr": "Quelle est la taille du parc aquatique ?"
+          },
+          "a": {
+            "en": "It is a solid free water park with six slides plus a separate mini aqua park for younger children; good fun, though not on the giant scale of Regnum or the Gloria resorts.",
+            "fr": "C'est un bon parc aquatique gratuit avec six toboggans et un mini parc aquatique séparé pour les plus jeunes ; agréable, sans atteindre l'échelle géante de Regnum ou des resorts Gloria."
+          }
+        },
+        {
+          "q": {
+            "en": "Is spa access included?",
+            "fr": "L'accès au spa est-il inclus ?"
+          },
+          "a": {
+            "en": "Hammam and sauna access is included, which is unusual for Belek all-inclusives; specific treatments and massages are a paid extra.",
+            "fr": "L'accès au hammam et au sauna est inclus, ce qui est rare pour les tout compris de Belek ; les soins et massages spécifiques sont en supplément."
+          }
+        }
+      ]
+    },
+    {
+      "key": "belek-cornelia-diamond-golf-resort",
+      "destinationKey": "belek",
+      "name": "Cornelia Diamond Golf Resort & Spa",
+      "area": {
+        "en": "Belek",
+        "fr": "Belek"
+      },
+      "lat": 36.843,
+      "lng": 31.03,
+      "zoom": 12,
+      "address": "Cornelia Diamond Golf Resort & Spa, Ileribasi Mevkii, Belek, Antalya, Turkey",
+      "priceTier": 4,
+      "priceFrom": 280,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolPalms",
+        "poolCabanas",
+        "resortLoungers"
+      ],
+      "scores": {
+        "rooms": 86,
+        "baby": 82,
+        "pool": 90,
+        "dining": 87,
+        "safety": 85,
+        "convenience": 80,
+        "location": 82,
+        "extras": 90
+      },
+      "roomsSummary": {
+        "en": "Rooms and suites are large and recently refreshed, with family categories and connecting options, plus a dedicated baby area in the kids world for the very youngest. Cots and bed rails are free on request, and the family suites give real separation between children's beds and the living space.",
+        "fr": "Chambres et suites vastes et récemment rénovées, avec catégories familiales et formules communicantes, plus un espace bébé dédié dans l'univers enfants pour les tout-petits. Lit bébé et barrières gratuits sur demande, et les suites familiales offrent une vraie séparation entre les lits des enfants et le coin salon."
+      },
+      "intro": {
+        "en": "Cornelia Diamond pairs the Troy aqua park and a lazy river with the newly renovated 5,000 m2 Cornie Kids World, so both toddlers and teens are covered. Add a big golf pedigree and polished service, and it is a strong upper-tier family resort that still feels calmer than the flashiest neighbours.",
+        "fr": "Le Cornelia Diamond associe le parc aquatique Troy et une rivière paresseuse au tout nouveau Cornie Kids World de 5 000 m2 : des tout-petits aux ados, tout le monde est couvert. Ajoutez une belle réputation golf et un service soigné, et vous obtenez un solide resort familial haut de gamme, plus calme que les voisins les plus tape-à-l'oeil."
+      },
+      "highlights": {
+        "en": [
+          "Troy aqua park with slides, pools and a lazy river for gentler water fun",
+          "5,000 m2 Cornie Kids World with a dedicated baby area and a teen games club",
+          "Ultra all-inclusive with well-regarded buffet and à la carte dining",
+          "Private beach with a pier, plus indoor and outdoor pools",
+          "Two cinemas and an open-air movie theatre for the children"
+        ],
+        "fr": [
+          "Parc aquatique Troy avec toboggans, bassins et rivière paresseuse pour des jeux d'eau plus doux",
+          "Cornie Kids World de 5 000 m2 avec espace bébé dédié et club de jeux pour ados",
+          "Ultra tout compris avec buffet et restauration à la carte bien notés",
+          "Plage privée avec ponton, plus piscines intérieures et extérieures",
+          "Deux cinémas et un cinéma en plein air pour les enfants"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Genuinely covers every age, from a baby area to a proper teen club",
+          "Lazy river and gentle pools suit families who find big slides too much",
+          "Refreshed rooms and kids world feel modern and well kept"
+        ],
+        "fr": [
+          "Couvre réellement tous les âges, de l'espace bébé à un vrai club ados",
+          "Rivière paresseuse et bassins doux pour les familles que les gros toboggans rebutent",
+          "Chambres et univers enfants rénovés, modernes et bien entretenus"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Upper-tier pricing, close to the flagship resorts in cost",
+          "Large site, so far rooms mean a walk or buggy ride to beach and main pool"
+        ],
+        "fr": [
+          "Tarifs haut de gamme, proches des resorts phares en coût",
+          "Grand domaine : les chambres éloignées imposent une marche ou une navette jusqu'à la plage et à la piscine principale"
+        ]
+      },
+      "verdict": {
+        "en": "Cornelia Diamond is a smart choice for mixed-age families: a baby area, a lazy river, big slides and a teen club all in one calm, well-run resort. It costs upper-tier money, but the range of what it covers justifies it for a multi-generation trip.",
+        "fr": "Le Cornelia Diamond est un choix malin pour les familles d'âges mêlés : espace bébé, rivière paresseuse, grands toboggans et club ados réunis dans un resort calme et bien géré. Le tarif est haut de gamme, mais l'étendue de ce qu'il couvre le justifie pour un séjour multigénérationnel."
+      },
+      "parentTip": {
+        "en": "Ask for a room near Cornie Kids World if you have both a baby and older children: it keeps nap runs short while the big ones stay busy at the club and aqua park.",
+        "fr": "Demandez une chambre près du Cornie Kids World si vous avez à la fois un bébé et des enfants plus grands : les retours pour la sieste restent courts pendant que les aînés s'occupent au club et au parc aquatique."
+      },
+      "atAGlance": [
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "Ultra all-inclusive",
+            "fr": "Ultra tout compris"
+          }
+        },
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "Troy park, lazy river",
+            "fr": "Parc Troy, rivière paresseuse"
+          }
+        },
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Kids club",
+            "fr": "Mini-club"
+          },
+          "value": {
+            "en": "Free, baby area to teens",
+            "fr": "Gratuit, espace bébé aux ados"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Private, sand then shingle",
+            "fr": "Privée, sable puis galets"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport transfer",
+            "fr": "Transfert aéroport"
+          },
+          "value": {
+            "en": "About 40 min",
+            "fr": "Environ 40 min"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "From",
+            "fr": "À partir de"
+          },
+          "value": {
+            "en": "~280 EUR/night",
+            "fr": "~280 EUR/nuit"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is there anything for babies and toddlers?",
+            "fr": "Y a-t-il quelque chose pour les bébés et tout-petits ?"
+          },
+          "a": {
+            "en": "Yes, Cornie Kids World has a dedicated area for the youngest children, and under-fours are welcome with a parent; cots, bed rails and high chairs are available on request.",
+            "fr": "Oui, le Cornie Kids World dispose d'un espace dédié aux plus jeunes, et les moins de quatre ans sont les bienvenus accompagnés ; lit bébé, barrières et chaises hautes sur demande."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a gentler alternative to big slides?",
+            "fr": "Existe-t-il une alternative plus douce aux gros toboggans ?"
+          },
+          "a": {
+            "en": "Yes, the Troy aqua park includes a lazy river and gentler pools alongside the fast slides, so children who dislike big drops still have plenty of water to enjoy.",
+            "fr": "Oui, le parc aquatique Troy comprend une rivière paresseuse et des bassins plus doux à côté des toboggans rapides : les enfants qui n'aiment pas les grandes descentes ont de quoi profiter de l'eau."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it suitable for teenagers?",
+            "fr": "Est-ce adapté aux adolescents ?"
+          },
+          "a": {
+            "en": "Yes, there is a dedicated teen games club with PlayStations, darts and board games, plus cinemas and the aqua park, so older kids are not stuck in a toddler-focused programme.",
+            "fr": "Oui, il y a un club de jeux ados dédié avec PlayStation, fléchettes et jeux de société, plus des cinémas et le parc aquatique : les plus grands ne sont pas coincés dans un programme pensé pour les tout-petits."
+          }
+        }
+      ]
+    },
+    {
+      "key": "belek-voyage-belek-golf-spa",
+      "destinationKey": "belek",
+      "name": "Voyage Belek Golf & Spa",
+      "area": {
+        "en": "Belek",
+        "fr": "Belek"
+      },
+      "lat": 36.847,
+      "lng": 31.085,
+      "zoom": 12,
+      "address": "Voyage Belek Golf & Spa, Iskele Mevkii, Belek, Antalya, Turkey",
+      "priceTier": 3,
+      "priceFrom": 210,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolOrange",
+        "resortLoungers",
+        "poolPalms"
+      ],
+      "scores": {
+        "rooms": 82,
+        "baby": 80,
+        "pool": 86,
+        "dining": 86,
+        "safety": 84,
+        "convenience": 83,
+        "location": 83,
+        "extras": 86
+      },
+      "roomsSummary": {
+        "en": "Family-friendly rooms across several categories, with connecting and family layouts and a well-stocked baby corner for the essentials. Cots and bed rails are free on request, and the family rooms give enough space for the extra beds a longer stay with children needs.",
+        "fr": "Chambres pensées pour les familles sur plusieurs catégories, avec configurations communicantes et familiales et un coin bébé bien fourni pour l'essentiel. Lit bébé et barrières gratuits sur demande, et les chambres familiales offrent l'espace pour les lits d'appoint qu'un séjour prolongé avec enfants réclame."
+      },
+      "intro": {
+        "en": "A long-standing family favourite, Voyage Belek has been ranked among the world's best family hotels on TripAdvisor, thanks to its train-themed kids' buffet, the Tugi kids world and a summer aqua park. It balances excellent children's facilities with adults-only corners, so parents get a genuine break too.",
+        "fr": "Valeur sûre des familles, le Voyage Belek a figuré parmi les meilleurs hôtels famille au monde sur TripAdvisor, grâce à son buffet enfants sur le thème du train, l'univers Tugi et un parc aquatique estival. Il équilibre d'excellents équipements pour enfants et des coins réservés aux adultes : les parents ont eux aussi une vraie pause."
+      },
+      "highlights": {
+        "en": [
+          "Tugi Kids World with age-split clubs and all-day supervised activities",
+          "Fun train-themed kids' buffet that even fussy eaters enjoy",
+          "Summer aqua park, five pools and a dedicated children's pool",
+          "Adults-only areas so parents can find quiet without leaving the resort",
+          "Ultra all-inclusive with six à la carte restaurants"
+        ],
+        "fr": [
+          "Univers Tugi Kids World avec clubs par tranche d'âge et activités encadrées toute la journée",
+          "Amusant buffet enfants sur le thème du train, apprécié même des plus difficiles",
+          "Parc aquatique estival, cinq piscines et un bassin enfants dédié",
+          "Espaces réservés aux adultes pour trouver le calme sans quitter le resort",
+          "Ultra tout compris avec six restaurants à la carte"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Multiple-award family reputation, with children's facilities that live up to it",
+          "Adults-only zones give parents rest without splitting up the family holiday",
+          "Fun kids' buffet and warm, engaged children's staff"
+        ],
+        "fr": [
+          "Réputation famille multiprimée, avec des équipements enfants à la hauteur",
+          "Les zones adultes offrent du repos aux parents sans casser les vacances en famille",
+          "Buffet enfants ludique et personnel dédié chaleureux et impliqué"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The aqua park runs in summer only, so shoulder-season slide fun is limited",
+          "Fewer pools open in the cooler months, when the resort is quieter"
+        ],
+        "fr": [
+          "Le parc aquatique ne fonctionne qu'en été : les jeux de toboggans en aile de saison sont limités",
+          "Moins de piscines ouvertes aux mois plus frais, quand le resort est plus calme"
+        ]
+      },
+      "verdict": {
+        "en": "Voyage Belek earns its family reputation: a brilliant kids world, a fun children's buffet and adults-only corners for the parents, all at a sensible price. Just aim for summer, when the aqua park and all the pools are running.",
+        "fr": "Le Voyage Belek mérite sa réputation famille : un formidable univers enfants, un buffet ludique et des coins adultes pour les parents, le tout à un prix raisonnable. Visez simplement l'été, quand le parc aquatique et toutes les piscines fonctionnent."
+      },
+      "parentTip": {
+        "en": "Book in summer if slides matter: the aqua park is seasonal, so a June to September stay is when the children get the full water offering.",
+        "fr": "Réservez en été si les toboggans comptent : le parc aquatique est saisonnier, donc un séjour de juin à septembre est le moment où les enfants profitent de toute l'offre aquatique."
+      },
+      "atAGlance": [
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "Ultra all-inclusive",
+            "fr": "Ultra tout compris"
+          }
+        },
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "Summer only",
+            "fr": "En été seulement"
+          }
+        },
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Kids club",
+            "fr": "Mini-club"
+          },
+          "value": {
+            "en": "Free, Tugi Kids World",
+            "fr": "Gratuit, Tugi Kids World"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Private, sand then shingle",
+            "fr": "Privée, sable puis galets"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport transfer",
+            "fr": "Transfert aéroport"
+          },
+          "value": {
+            "en": "About 35 min",
+            "fr": "Environ 35 min"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "From",
+            "fr": "À partir de"
+          },
+          "value": {
+            "en": "~210 EUR/night",
+            "fr": "~210 EUR/nuit"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the aqua park open all year?",
+            "fr": "Le parc aquatique est-il ouvert toute l'année ?"
+          },
+          "a": {
+            "en": "No, the aqua park operates in summer only, and fewer pools are open in the cooler months, so book June to September if water slides are a priority for your children.",
+            "fr": "Non, le parc aquatique ne fonctionne qu'en été, et moins de piscines sont ouvertes aux mois plus frais : réservez de juin à septembre si les toboggans sont une priorité pour vos enfants."
+          }
+        },
+        {
+          "q": {
+            "en": "Are there adults-only areas?",
+            "fr": "Y a-t-il des espaces réservés aux adultes ?"
+          },
+          "a": {
+            "en": "Yes, the resort keeps adults-only zones alongside the family areas, so parents can find a quiet pool or bar while the children are at the kids club.",
+            "fr": "Oui, le resort maintient des zones réservées aux adultes à côté des espaces famille : les parents peuvent trouver une piscine ou un bar tranquille pendant que les enfants sont au club."
+          }
+        },
+        {
+          "q": {
+            "en": "Will fussy eaters find food they like?",
+            "fr": "Les enfants difficiles trouveront-ils à manger ?"
+          },
+          "a": {
+            "en": "The train-themed children's buffet is a genuine highlight and popular even with picky eaters, and the wider all-inclusive dining covers six à la carte restaurants for the adults.",
+            "fr": "Le buffet enfants sur le thème du train est un vrai point fort, apprécié même des plus difficiles, et l'offre tout compris comprend six restaurants à la carte pour les adultes."
+          }
+        }
+      ]
+    },
+    {
+      "key": "belek-calista-luxury-resort",
+      "destinationKey": "belek",
+      "name": "Calista Luxury Resort",
+      "area": {
+        "en": "Belek",
+        "fr": "Belek"
+      },
+      "lat": 36.845,
+      "lng": 31.09,
+      "zoom": 12,
+      "address": "Calista Luxury Resort, Iskele Mevkii, Belek, Antalya, Turkey",
+      "priceTier": 4,
+      "priceFrom": 300,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "family-suites",
+        "baby-friendly",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "infinityPoolSea",
+        "poolDusk",
+        "resortLoungers"
+      ],
+      "scores": {
+        "rooms": 88,
+        "baby": 84,
+        "pool": 87,
+        "dining": 88,
+        "safety": 86,
+        "convenience": 82,
+        "location": 84,
+        "extras": 88
+      },
+      "roomsSummary": {
+        "en": "Rooms and suites are elegant and well-sized, with family categories and villa options, and one of the strongest baby-gear line-ups in Belek supplied free in-room. Cots and bed rails are free on request, and the suites give real separation for early bedtimes.",
+        "fr": "Chambres et suites élégantes et bien dimensionnées, avec catégories familiales et villas, et l'une des meilleures dotations en matériel bébé de Belek, fournie gratuitement en chambre. Lit bébé et barrières gratuits sur demande, et les suites offrent une vraie séparation pour les couchers tôt."
+      },
+      "intro": {
+        "en": "Calista is the quietly luxurious choice: a refined ultra all-inclusive with the Cally kids club, a heated slide pool and, unusually, a long list of free in-room baby equipment, from sterilisers to covered baby baths. It suits families who want a five-star feel and are travelling with very young children.",
+        "fr": "Le Calista est le choix discrètement luxueux : un ultra tout compris raffiné avec le club enfants Cally, un bassin à toboggans chauffé et, fait rare, une longue liste de matériel bébé gratuit en chambre, du stérilisateur à la baignoire bébé couverte. Idéal pour les familles qui veulent une ambiance cinq étoiles et voyagent avec de très jeunes enfants."
+      },
+      "highlights": {
+        "en": [
+          "Exceptional free in-room baby kit: steriliser, bottle warmer, baby bath, potty and more",
+          "Cally Kids Club with a teen Garage Club, cinema and creative workshops",
+          "Heated outdoor slide pool that works into the shoulder season",
+          "Spacious children's pool praised for size and cleanliness",
+          "Ultra all-inclusive with refined dining and an included spa circuit"
+        ],
+        "fr": [
+          "Dotation bébé gratuite en chambre exceptionnelle : stérilisateur, chauffe-biberon, baignoire bébé, pot et plus",
+          "Cally Kids Club avec Garage Club ados, cinéma et ateliers créatifs",
+          "Bassin à toboggans extérieur chauffé, utilisable jusqu'en aile de saison",
+          "Grand bassin enfants salué pour sa taille et sa propreté",
+          "Ultra tout compris avec une table raffinée et un circuit spa inclus"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Best-in-class baby provision makes travelling with an infant far easier",
+          "Heated slide pool extends the water fun beyond peak summer",
+          "Elegant, calm five-star feel with strong food and service"
+        ],
+        "fr": [
+          "Dotation bébé au meilleur niveau, qui simplifie nettement le voyage avec un nourrisson",
+          "Le bassin à toboggans chauffé prolonge les jeux d'eau au-delà du plein été",
+          "Ambiance cinq étoiles élégante et calme, avec cuisine et service solides"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The aqua offering is good but smaller than the giant multi-slide parks nearby",
+          "Premium pricing, in line with the top-tier Belek resorts"
+        ],
+        "fr": [
+          "L'offre aquatique est bonne mais plus petite que les gigantesques parcs multi-toboggans voisins",
+          "Tarifs premium, dans la lignée des resorts haut de gamme de Belek"
+        ]
+      },
+      "verdict": {
+        "en": "Calista is the pick for families travelling with a baby who still want five-star polish: the free in-room baby kit is genuinely rare, the food and service are excellent, and the heated slide pool stretches the season. Slide-obsessed older kids may want a bigger park next door.",
+        "fr": "Le Calista est le choix des familles qui voyagent avec un bébé mais veulent le raffinement cinq étoiles : la dotation bébé gratuite en chambre est vraiment rare, la cuisine et le service sont excellents, et le bassin à toboggans chauffé étire la saison. Les plus grands accros aux toboggans voudront peut-être un parc plus grand à côté."
+      },
+      "parentTip": {
+        "en": "Pre-order the free baby equipment when you book rather than on arrival: confirming the steriliser, bottle warmer and baby bath ahead means less to pack and no scramble on day one.",
+        "fr": "Commandez le matériel bébé gratuit au moment de la réservation plutôt qu'à l'arrivée : confirmer stérilisateur, chauffe-biberon et baignoire bébé à l'avance, c'est moins de bagages et aucune course le premier jour."
+      },
+      "atAGlance": [
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "Ultra all-inclusive",
+            "fr": "Ultra tout compris"
+          }
+        },
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "Heated slide pool",
+            "fr": "Bassin à toboggans chauffé"
+          }
+        },
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Kids club",
+            "fr": "Mini-club"
+          },
+          "value": {
+            "en": "Free, Cally club",
+            "fr": "Gratuit, club Cally"
+          }
+        },
+        {
+          "icon": "🍼",
+          "label": {
+            "en": "Baby kit",
+            "fr": "Matériel bébé"
+          },
+          "value": {
+            "en": "Free, extensive",
+            "fr": "Gratuit, complet"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport transfer",
+            "fr": "Transfert aéroport"
+          },
+          "value": {
+            "en": "About 35 min",
+            "fr": "Environ 35 min"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "From",
+            "fr": "À partir de"
+          },
+          "value": {
+            "en": "~300 EUR/night",
+            "fr": "~300 EUR/nuit"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "What baby equipment is provided free?",
+            "fr": "Quel matériel bébé est fourni gratuitement ?"
+          },
+          "a": {
+            "en": "The in-room list is unusually long: steriliser, bottle warmer, baby bath, potty, high chair, fridge and more, supplied free on request, which makes Calista one of the easiest Belek resorts for infants.",
+            "fr": "La liste en chambre est exceptionnellement longue : stérilisateur, chauffe-biberon, baignoire bébé, pot, chaise haute, réfrigérateur et plus, fournis gratuitement sur demande, ce qui fait du Calista l'un des resorts de Belek les plus simples avec un nourrisson."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there water fun outside peak summer?",
+            "fr": "Y a-t-il des jeux d'eau hors plein été ?"
+          },
+          "a": {
+            "en": "Yes, the outdoor slide pool is heated, so it stays usable into the cooler shoulder season when many resorts' unheated water features are too cold for children.",
+            "fr": "Oui, le bassin à toboggans extérieur est chauffé : il reste utilisable en aile de saison plus fraîche, quand les jeux d'eau non chauffés de bien des resorts sont trop froids pour les enfants."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the water park big enough for older kids?",
+            "fr": "Le parc aquatique est-il assez grand pour les plus grands ?"
+          },
+          "a": {
+            "en": "It has a solid set of slides and a large children's pool, but it is smaller than the giant parks at Regnum or the Gloria resorts, so dedicated thrill-seeking teens may prefer one of those.",
+            "fr": "Il propose un bel ensemble de toboggans et un grand bassin enfants, mais reste plus petit que les parcs géants de Regnum ou des resorts Gloria : les ados en quête de sensations préféreront peut-être ces derniers."
+          }
+        }
+      ]
+    }
+  ],
+  "destinationMeta": {
+    "name": {
+      "en": "Belek",
+      "fr": "Belek"
+    },
+    "country": {
+      "en": "Turkey",
+      "fr": "Turquie"
+    },
+    "emoji": "🛝",
+    "accent": "d97b34",
+    "geo": {
+      "lat": 36.86,
+      "lng": 31.06,
+      "zoom": 11
+    },
+    "heroKicker": {
+      "en": "Turkey's mega-resort family coast",
+      "fr": "La côte des méga-resorts famille de Turquie"
+    },
+    "intro": {
+      "en": "Belek is the concentrated heart of Turkey's all-inclusive family scene: a stretch of pine-backed coast lined with huge five-star resorts, each with its own aqua park, free kids club and proper family rooms. The formula is everything paid up front, slides and pools on tap, buffets built for children and a warm sea through the summer. The Land of Legends theme park sits right in the middle for a day out, and transfers from Antalya airport take around 35 minutes. If you want one gated resort to entertain every age for a week, few places on the Mediterranean do it at this scale.",
+      "fr": "Belek est le coeur concentré du tout compris familial en Turquie : une bande de côte adossée aux pins, bordée d'immenses resorts cinq étoiles, chacun avec son parc aquatique, son club enfants gratuit et de vraies chambres familiales. La formule, c'est tout payé d'avance, toboggans et piscines à volonté, buffets pensés pour les enfants et une mer chaude tout l'été. Le parc à thème Land of Legends se trouve en plein milieu pour une journée de sortie, et les transferts depuis l'aéroport d'Antalya prennent environ 35 minutes. Si vous cherchez un resort clos qui occupe tous les âges pendant une semaine, peu d'endroits en Méditerranée le font à cette échelle."
+    },
+    "whyKids": {
+      "en": [
+        "Nearly every resort has its own aqua park with multi-age slides, not just a small pool",
+        "Free supervised kids clubs are the norm, usually from age 4, with teen clubs on top",
+        "Big genuine family rooms and connecting layouts make travelling with several children easy",
+        "Ultra all-inclusive means the day-to-day cost is fixed, with children's buffets and snacks included",
+        "The Land of Legends theme and water park is a short hop for a change of scene"
+      ],
+      "fr": [
+        "Presque chaque resort a son propre parc aquatique avec toboggans pour tous les âges, pas juste une petite piscine",
+        "Les clubs enfants encadrés et gratuits sont la norme, souvent dès 4 ans, avec des clubs ados en plus",
+        "De vraies grandes chambres familiales et des configurations communicantes facilitent le voyage avec plusieurs enfants",
+        "L'ultra tout compris fige le budget quotidien, buffets enfants et en-cas inclus",
+        "Le parc à thème et aquatique Land of Legends est à deux pas pour changer de décor"
+      ]
+    },
+    "bestAreas": {
+      "en": [
+        "Belek: the main resort strip, with the biggest hotels, aqua parks and the Land of Legends park nearby",
+        "Kadriye: just west, a little more of a town feel with a golf-resort cluster and its own restaurants",
+        "Bogazkent: quieter and further east, good-value resorts and a calmer, more low-key beach"
+      ],
+      "fr": [
+        "Belek : la principale bande de resorts, avec les plus grands hôtels, les parcs aquatiques et le parc Land of Legends à proximité",
+        "Kadriye : juste à l'ouest, un peu plus l'esprit d'un bourg, avec un pôle de resorts de golf et ses propres restaurants",
+        "Bogazkent : plus calme et plus à l'est, resorts au bon rapport qualité-prix et plage plus paisible et discrète"
+      ]
+    },
+    "goodToKnow": {
+      "en": "Be honest with yourself about the season: Belek is a summer and shoulder-season destination, not a winter-sun one. From roughly June to September the sea is warm, every pool and aqua park is running and the resorts are in full swing; by December to February it is cool, many water features close and the mood is quiet. These resorts are also large, so a far room can mean a real walk to the beach or main pool, and buggies help with little ones. Transfers from Antalya airport run around 35 minutes, and the beaches are typically sand at the top then shingle underfoot, so pack water shoes.",
+      "fr": "Soyez honnête avec vous-même sur la saison : Belek est une destination d'été et d'aile de saison, pas de soleil d'hiver. De juin à septembre environ, la mer est chaude, toutes les piscines et parcs aquatiques tournent et les resorts battent leur plein ; de décembre à février, il fait frais, beaucoup de jeux d'eau ferment et l'ambiance est calme. Ces resorts sont aussi vastes : une chambre éloignée peut signifier une vraie marche jusqu'à la plage ou à la piscine principale, et une poussette aide avec les petits. Les transferts depuis l'aéroport d'Antalya durent environ 35 minutes, et les plages sont en général sableuses en haut puis en galets sous les pieds : prévoyez des chaussons d'eau."
+    },
+    "parentTip": {
+      "en": "Match the resort to your children's ages before you book: for babies and toddlers prioritise free in-room baby kit and a heated pool, and for older kids chase the biggest multi-slide aqua parks. In Belek almost every hotel does all-inclusive well, so the deciding factor is which water and club setup fits your particular family.",
+      "fr": "Choisissez le resort selon l'âge de vos enfants avant de réserver : pour les bébés et tout-petits, privilégiez le matériel bébé gratuit en chambre et un bassin chauffé ; pour les plus grands, visez les plus grands parcs à toboggans multiples. À Belek, presque chaque hôtel réussit le tout compris, si bien que le facteur décisif est l'offre d'eau et de club qui correspond à votre famille."
+    }
+  }
+}

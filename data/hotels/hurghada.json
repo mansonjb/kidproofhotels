@@ -4296,6 +4296,1455 @@
           }
         }
       ]
+    },
+    {
+      "key": "hurghada-xanadu-makadi-bay",
+      "destinationKey": "hurghada",
+      "name": "Xanadu Makadi Bay",
+      "area": {
+        "en": "Makadi Bay, south of Hurghada",
+        "fr": "Makadi Bay, au sud d'Hurghada"
+      },
+      "lat": 27.049,
+      "lng": 33.902,
+      "zoom": 12,
+      "address": "Xanadu Makadi Bay High Class All Inclusive, Madinat Makadi, Makadi Bay, Hurghada, Red Sea, Egypt",
+      "priceTier": 3,
+      "priceFrom": 130,
+      "ages": [
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolOrange",
+        "poolCabanas",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 82,
+        "baby": 70,
+        "pool": 90,
+        "dining": 84,
+        "safety": 80,
+        "convenience": 74,
+        "location": 80,
+        "extras": 90
+      },
+      "roomsSummary": {
+        "en": "Bright, generous rooms in low blocks spread through the gardens, most with a balcony or terrace and a big enough footprint for a family of four. The proper family option is a room with a partition or two connecting rooms rather than a separate lounge, so ask for connecting rooms in writing and reconfirm on arrival. Cots are free but need to be requested ahead.",
+        "fr": "Chambres lumineuses et généreuses dans des bâtiments bas répartis dans les jardins, la plupart avec balcon ou terrasse et une surface suffisante pour une famille de quatre. La vraie formule famille, c'est une chambre cloisonnée ou deux chambres communicantes plutôt qu'un salon séparé: demandez les communicantes par écrit et refaites la demande à l'arrivée. Les lits bébé sont gratuits mais à réserver à l'avance."
+      },
+      "intro": {
+        "en": "This is the one you book when the holiday is really about slides. A 27-slide aqua park, a wave pool and a lazy river sit at the centre of a high-class all inclusive resort on the Makadi Bay seafront, and all of it is included in the rate. The beach is genuinely on site, wide and sandy at the top, but like most of Makadi Bay the swimming happens off a jetty because the house reef starts close in and drops away quickly. Small children paddle in the pools, not the sea.",
+        "fr": "C'est l'hôtel qu'on réserve quand les vacances tournent vraiment autour des toboggans. Un parc aquatique de 27 toboggans, une piscine à vagues et une rivière lente occupent le coeur d'un resort tout compris haut de gamme, en bord de mer à Makadi Bay, et tout est compris dans le tarif. La plage est bien sur place, large et sableuse en haut, mais comme presque partout à Makadi Bay la baignade se fait depuis un ponton: le récif maison commence tout près et plonge vite. Les petits pataugent dans les piscines, pas dans la mer."
+      },
+      "highlights": {
+        "en": [
+          "A 27-slide aqua park with a wave pool, all included",
+          "Separate shallow splash area for the little ones",
+          "High-class all inclusive with wide food choice",
+          "Sandy beachfront with a jetty for deeper swimming"
+        ],
+        "fr": [
+          "Un parc aquatique de 27 toboggans avec piscine à vagues, inclus",
+          "Zone de jeux d'eau peu profonde à part pour les petits",
+          "Tout compris haut de gamme avec un large choix à table",
+          "Front de mer sableux avec un ponton pour nager au large"
+        ]
+      },
+      "pros": {
+        "en": [
+          "One of the biggest hotel aqua parks on the Red Sea",
+          "Food is a genuine step up from the Makadi average",
+          "Enough pools that the aqua park is never the only option",
+          "Lifeguards posted on the slide landings"
+        ],
+        "fr": [
+          "L'un des plus grands parcs aquatiques d'hôtel de la mer Rouge",
+          "Une cuisine nettement au-dessus de la moyenne de Makadi",
+          "Assez de piscines pour que le parc ne soit jamais l'unique option",
+          "Des maîtres-nageurs postés aux arrivées de toboggans"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The house reef drops off fast, not a toddler wading beach",
+          "Very large and lively, not a quiet retreat",
+          "Long internal walks, a buggy helps with little ones",
+          "Popular slides queue up through the middle of the day"
+        ],
+        "fr": [
+          "Le récif maison plonge vite, ce n'est pas une plage où patauger",
+          "Très grand et animé, pas une adresse au calme",
+          "De longues distances internes, la poussette aide avec les petits",
+          "Les toboggans populaires font la queue en milieu de journée"
+        ]
+      },
+      "verdict": {
+        "en": "The strongest slide holiday in Makadi Bay for children who clear the height rules, with food better than the area norm. Families chasing a shallow wading sea should look to a Soma Bay lagoon instead.",
+        "fr": "Le meilleur séjour toboggans de Makadi Bay pour les enfants qui passent les tailles minimales, avec une table meilleure que la moyenne du coin. Les familles qui cherchent une mer peu profonde où patauger regarderont plutôt un lagon de Soma Bay."
+      },
+      "parentTip": {
+        "en": "Height sticks decide everything here: most big slides need 1.20 m. Measure at home and pick a couple of medium slides your under-tens can ride so nobody spends the week watching from the steps.",
+        "fr": "Les toises décident de tout ici: la plupart des grands toboggans exigent 1,20 m. Mesurez à la maison et repérez deux ou trois toboggans moyens accessibles aux moins de dix ans, pour que personne ne passe la semaine à regarder depuis l'escalier."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Aqua park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "27 slides, wave pool, included",
+            "fr": "27 toboggans, piscine à vagues, inclus"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Ages 4 to 12, included",
+            "fr": "4 à 12 ans, inclus"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "On site, sandy top, reef drop-off",
+            "fr": "Sur place, haut sableux, récif qui plonge"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "High-class all inclusive",
+            "fr": "Tout compris haut de gamme"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the aqua park included in the price?",
+            "fr": "Le parc aquatique est-il compris dans le prix?"
+          },
+          "a": {
+            "en": "Yes, the full 27-slide park, the wave pool and the lazy river are included for hotel guests. Rubber rings are lent free at the towers but run short at peak times, so send an adult ahead to grab them.",
+            "fr": "Oui, l'ensemble du parc de 27 toboggans, la piscine à vagues et la rivière lente sont inclus pour les clients de l'hôtel. Les bouées sont prêtées gratuitement aux tours mais viennent à manquer aux heures de pointe: envoyez un adulte en éclaireur."
+          }
+        },
+        {
+          "q": {
+            "en": "Can toddlers swim in the sea here?",
+            "fr": "Les tout-petits peuvent-ils se baigner dans la mer ici?"
+          },
+          "a": {
+            "en": "Not really in the wading sense. The sand is fine for building and paddling at the edge, but the house reef starts close to shore and the drop-off is quick, so swimming is off the jetty. Little ones are happiest in the shallow splash pools.",
+            "fr": "Pas vraiment au sens de patauger. Le sable est parfait pour jouer et tremper les pieds au bord, mais le récif maison commence tout près et la pente est rapide: la nage se fait depuis le ponton. Les petits sont plus heureux dans les pataugeoires."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it too big for a family with a buggy?",
+            "fr": "Est-ce trop grand pour une famille avec une poussette?"
+          },
+          "a": {
+            "en": "It is a large resort and there is real walking between the rooms, the aqua park and the beach, but the paths are flat and buggy-friendly. Ask at booking for a room near the pool zone if you want to cut the distances.",
+            "fr": "C'est un grand resort et il y a de vraies distances entre les chambres, le parc aquatique et la plage, mais les allées sont plates et adaptées à la poussette. Demandez à la réservation une chambre près de la zone piscine pour raccourcir les trajets."
+          }
+        }
+      ]
+    },
+    {
+      "key": "hurghada-jaz-makadi-oasis",
+      "destinationKey": "hurghada",
+      "name": "Jaz Makadi Oasis Resort",
+      "area": {
+        "en": "Makadi Bay, south of Hurghada",
+        "fr": "Makadi Bay, au sud d'Hurghada"
+      },
+      "lat": 27.038,
+      "lng": 33.897,
+      "zoom": 12,
+      "address": "Jaz Makadi Oasis Resort, Madinat Makadi, Makadi Bay, Hurghada, Red Sea, Egypt",
+      "priceTier": 2,
+      "priceFrom": 100,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolPalms",
+        "villaPoolGreen",
+        "resortLoungers"
+      ],
+      "scores": {
+        "rooms": 78,
+        "baby": 74,
+        "pool": 78,
+        "dining": 80,
+        "safety": 78,
+        "convenience": 70,
+        "location": 74,
+        "extras": 76
+      },
+      "roomsSummary": {
+        "en": "Low Nubian-style buildings in green gardens, most rooms with a balcony or terrace looking over the pools or the planting. Family rooms sleep four and are a sensible size, and connecting rooms are available if you ask early. Cots are free and there is a laid-back, calmer feel than the big slide hotels nearby.",
+        "fr": "Bâtiments bas de style nubien dans des jardins verts, la plupart des chambres avec balcon ou terrasse donnant sur les piscines ou la végétation. Les chambres familiales dorment quatre personnes et sont d'une taille raisonnable, et des communicantes existent si vous demandez tôt. Les lits bébé sont gratuits et l'ambiance est plus posée que dans les grands hôtels à toboggans voisins."
+      },
+      "intro": {
+        "en": "The calmer, greener option in Makadi Bay, built like a Nubian village around lagoon pools with a handful of gentle waterslides rather than a full aqua park. It suits younger families and anyone who finds the mega slide resorts exhausting. The beach is a short walk down, sandy at the top with a house reef offshore that is lovely for snorkelling but, again, drops away rather than staying toddler-shallow.",
+        "fr": "L'option plus calme et plus verte de Makadi Bay, dessinée comme un village nubien autour de piscines-lagons, avec quelques toboggans doux plutôt qu'un vrai parc aquatique. Elle convient aux familles avec de jeunes enfants et à ceux que les méga resorts à toboggans épuisent. La plage est à quelques pas, sableuse en haut, avec un récif maison au large superbe pour le snorkeling mais qui, là encore, plonge au lieu de rester peu profond pour les tout-petits."
+      },
+      "highlights": {
+        "en": [
+          "Calm, green village layout, easy with little ones",
+          "Gentle lagoon-pool waterslides rather than a mega park",
+          "Good, varied all-inclusive food for the price",
+          "House reef offshore that is excellent for snorkelling"
+        ],
+        "fr": [
+          "Village calme et verdoyant, pratique avec des petits",
+          "Toboggans doux sur piscine-lagon plutôt qu'un méga parc",
+          "Un tout compris bon et varié pour le prix",
+          "Un récif maison au large excellent pour le snorkeling"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Noticeably quieter than the neighbouring slide hotels",
+          "Shaded gardens keep the little ones out of the sun",
+          "Solid all inclusive that rarely disappoints",
+          "Good value at the family-room price point"
+        ],
+        "fr": [
+          "Nettement plus calme que les hôtels à toboggans voisins",
+          "Des jardins ombragés qui gardent les petits à l'abri du soleil",
+          "Un tout compris solide qui déçoit rarement",
+          "Bon rapport qualité-prix sur les chambres familiales"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Only a handful of slides, teens will run out of them fast",
+          "The beach is second line, a short walk from the rooms",
+          "House reef drops off, not a wading beach for toddlers",
+          "The big Makadi Water World park costs extra and is off site"
+        ],
+        "fr": [
+          "Peu de toboggans, les ados en feront vite le tour",
+          "La plage est en seconde ligne, à quelques minutes des chambres",
+          "Le récif maison plonge, pas une plage où patauger pour les tout-petits",
+          "Le grand parc Makadi Water World est payant et hors site"
+        ]
+      },
+      "verdict": {
+        "en": "The pick for younger families who want Makadi Bay without the noise and the queues of a mega slide resort. Teens set on big slides will be happier next door at Xanadu.",
+        "fr": "Le choix des familles avec de jeunes enfants qui veulent Makadi Bay sans le bruit et les files d'un méga resort à toboggans. Les ados qui rêvent de grands toboggans seront plus heureux au Xanadu voisin."
+      },
+      "parentTip": {
+        "en": "Ask for a room on the pool side rather than the far garden edge: it cuts a real walk to breakfast and to the kids club, which matters a lot when you are carrying a tired toddler back for a nap.",
+        "fr": "Demandez une chambre côté piscine plutôt qu'en lisière de jardin: cela raccourcit un vrai trajet vers le petit-déjeuner et le club enfants, ce qui compte beaucoup quand on porte un tout-petit fatigué pour la sieste."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water slides",
+            "fr": "Toboggans"
+          },
+          "value": {
+            "en": "A few gentle lagoon-pool slides",
+            "fr": "Quelques toboggans doux sur lagon"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Ages 4 to 12, included",
+            "fr": "4 à 12 ans, inclus"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Second line, sandy top, snorkel reef",
+            "fr": "Seconde ligne, haut sableux, récif à snorkeler"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "All inclusive",
+            "fr": "Tout compris"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is there a big aqua park at the hotel?",
+            "fr": "Y a-t-il un grand parc aquatique à l'hôtel?"
+          },
+          "a": {
+            "en": "No. There are a few gentle slides on the lagoon pools, which suit younger children well, but this is not a mega slide park. The large Makadi Water World is a short drive away and costs extra unless your package includes it.",
+            "fr": "Non. Il y a quelques toboggans doux sur les piscines-lagons, parfaits pour les jeunes enfants, mais ce n'est pas un méga parc. Le grand Makadi Water World est à quelques minutes en voiture et reste payant sauf si votre forfait l'inclut."
+          }
+        },
+        {
+          "q": {
+            "en": "How far is the beach from the rooms?",
+            "fr": "À quelle distance la plage se trouve-t-elle des chambres?"
+          },
+          "a": {
+            "en": "The resort is second line, so it is a short walk down to its stretch of sand, a few minutes at most. The path is flat and buggy-friendly, and there are free sunbeds and umbrellas once you are there.",
+            "fr": "Le resort est en seconde ligne: comptez une courte marche jusqu'à sa portion de sable, quelques minutes tout au plus. Le chemin est plat et adapté à la poussette, et les transats et parasols sont gratuits une fois sur place."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it a good choice for a baby or toddler?",
+            "fr": "Est-ce un bon choix pour un bébé ou un tout-petit?"
+          },
+          "a": {
+            "en": "Yes, this is one of the calmer Makadi options: shaded gardens, free cots, a children's pool and gentle slides. The one caveat is the sea, where the reef drops off, so keep the smallest ones in the pools rather than the water.",
+            "fr": "Oui, c'est l'une des options les plus calmes de Makadi: jardins ombragés, lits bébé gratuits, piscine enfants et toboggans doux. Le seul bémol est la mer, où le récif plonge: gardez les plus petits dans les piscines plutôt que dans l'eau."
+          }
+        }
+      ]
+    },
+    {
+      "key": "hurghada-cleopatra-luxury-makadi-bay",
+      "destinationKey": "hurghada",
+      "name": "Cleopatra Luxury Resort Makadi Bay",
+      "area": {
+        "en": "Makadi Bay, south of Hurghada",
+        "fr": "Makadi Bay, au sud d'Hurghada"
+      },
+      "lat": 27.058,
+      "lng": 33.905,
+      "zoom": 12,
+      "address": "Cleopatra Luxury Resort Makadi Bay, Madinat Makadi, Makadi Bay, Hurghada, Red Sea, Egypt",
+      "priceTier": 2,
+      "priceFrom": 110,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolDusk",
+        "whiteResortPool",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 78,
+        "baby": 74,
+        "pool": 88,
+        "dining": 78,
+        "safety": 78,
+        "convenience": 72,
+        "location": 78,
+        "extras": 84
+      },
+      "roomsSummary": {
+        "en": "Comfortable rooms across low blocks, most with a balcony or terrace and a size that copes with a family of four. Family rooms and connecting doubles are both available, so specify which you want at booking and reconfirm on arrival. Cots are free, and heated children's pools make the shoulder months workable with little ones.",
+        "fr": "Chambres confortables réparties dans des bâtiments bas, la plupart avec balcon ou terrasse et une taille qui accueille une famille de quatre. Chambres familiales et doubles communicantes existent toutes deux: précisez laquelle vous voulez à la réservation et refaites la demande à l'arrivée. Les lits bébé sont gratuits, et des piscines enfants chauffées rendent les ailes de saison praticables avec des petits."
+      },
+      "intro": {
+        "en": "An affordable all inclusive that leans hard into the family market: eight pools spread through the gardens, a water park with slides and children's areas, heated kids pools and a supervised club with an indoor games room. The private beach is the calm draw for parents, sandy at the top with the usual Makadi Bay reef offshore, which is beautiful to snorkel but not a wading depth for toddlers. The pools are where the little ones live.",
+        "fr": "Un tout compris abordable qui assume pleinement la clientèle famille: huit piscines réparties dans les jardins, un parc aquatique avec toboggans et zones enfants, des pataugeoires chauffées et un club encadré avec salle de jeux intérieure. La plage privée est l'atout calme pour les parents, sableuse en haut avec le récif habituel de Makadi Bay au large, superbe à snorkeler mais sans profondeur de patauge pour les tout-petits. C'est aux piscines que vivent les petits."
+      },
+      "highlights": {
+        "en": [
+          "Eight pools plus a water park with slides, all included",
+          "Heated children's pools that work in the cooler months",
+          "Supervised kids club with an indoor games room",
+          "Affordable all inclusive with a proper family focus"
+        ],
+        "fr": [
+          "Huit piscines et un parc aquatique avec toboggans, inclus",
+          "Des pataugeoires chauffées qui fonctionnent hors saison chaude",
+          "Un club enfants encadré avec salle de jeux intérieure",
+          "Un tout compris abordable vraiment pensé pour les familles"
+        ]
+      },
+      "pros": {
+        "en": [
+          "So many pools the family never fights for space",
+          "Genuine value against the pricier Makadi resorts",
+          "Indoor kids areas save a rainy or windy afternoon",
+          "Calm, well-kept private beach for the grown-ups"
+        ],
+        "fr": [
+          "Tant de piscines que la famille ne se dispute jamais la place",
+          "Un vrai rapport qualité-prix face aux resorts plus chers de Makadi",
+          "Des espaces enfants intérieurs qui sauvent un après-midi venteux",
+          "Une plage privée calme et bien tenue pour les parents"
+        ]
+      },
+      "cons": {
+        "en": [
+          "House reef drops off, sea swimming is off the jetty",
+          "Rooms are comfortable but not luxurious despite the name",
+          "The buffet plays it safe rather than surprising you",
+          "Spread out, so plan a bit with a tired toddler"
+        ],
+        "fr": [
+          "Le récif maison plonge, la baignade se fait depuis le ponton",
+          "Des chambres confortables mais pas luxueuses malgré le nom",
+          "Un buffet qui joue la sécurité plus qu'il ne surprend",
+          "Site étendu, prévoyez un peu avec un tout-petit fatigué"
+        ]
+      },
+      "verdict": {
+        "en": "Strong family value in Makadi Bay, carried by the sheer number of pools and the heated kids water. Treat the sea as a snorkel outing and keep the little ones in the pools.",
+        "fr": "Un solide rapport qualité-prix famille à Makadi Bay, porté par le nombre de piscines et les pataugeoires chauffées. Considérez la mer comme une sortie snorkeling et gardez les petits dans les piscines."
+      },
+      "parentTip": {
+        "en": "With eight pools, scout on the first morning for the quiet one furthest from the main stage and animation. It becomes your default nap-adjacent base while the rest of the resort is at the noisy central pool.",
+        "fr": "Avec huit piscines, repérez dès le premier matin la plus calme, la plus éloignée de la scène et de l'animation. Elle devient votre camp de base près des siestes pendant que le reste du resort se presse à la piscine centrale bruyante."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "8 pools plus slides, included",
+            "fr": "8 piscines et toboggans, inclus"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Ages 4 to 12, indoor games too",
+            "fr": "4 à 12 ans, salle de jeux aussi"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Private, sandy top, reef drop-off",
+            "fr": "Privée, haut sableux, récif qui plonge"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "All inclusive",
+            "fr": "Tout compris"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is this the family resort or the adults-only one?",
+            "fr": "S'agit-il du resort familial ou de celui réservé aux adultes?"
+          },
+          "a": {
+            "en": "This is the family resort, Cleopatra Luxury Resort Makadi Bay, with the kids club, heated children's pools and water park. There is a separate adults-only Cleopatra property in the bay, so check the exact name on the booking before you pay.",
+            "fr": "C'est le resort familial, le Cleopatra Luxury Resort Makadi Bay, avec club enfants, pataugeoires chauffées et parc aquatique. Il existe un établissement Cleopatra séparé réservé aux adultes dans la baie: vérifiez le nom exact sur la réservation avant de payer."
+          }
+        },
+        {
+          "q": {
+            "en": "Are the children's pools heated?",
+            "fr": "Les pataugeoires sont-elles chauffées?"
+          },
+          "a": {
+            "en": "Yes, the resort heats children's pools in the cooler months, which is what makes it a sensible winter-sun choice with toddlers. Heating is always weather-dependent, so if you travel in the coldest weeks, confirm it is on when you book.",
+            "fr": "Oui, le resort chauffe des pataugeoires hors saison chaude, ce qui en fait un choix de soleil d'hiver sensé avec des tout-petits. Le chauffage dépend toujours de la météo: si vous partez pendant les semaines les plus froides, confirmez à la réservation qu'il est bien en service."
+          }
+        },
+        {
+          "q": {
+            "en": "Can toddlers paddle in the sea?",
+            "fr": "Les tout-petits peuvent-ils patauger dans la mer?"
+          },
+          "a": {
+            "en": "Only at the very edge. The sand is fine for building, but the house reef starts close in and drops away, so real swimming is off the jetty and best with older, confident swimmers. The pools are the safe wading option for little ones.",
+            "fr": "Seulement tout au bord. Le sable est parfait pour jouer, mais le récif maison commence tout près et plonge: la vraie nage se fait depuis le ponton, idéalement avec des enfants plus grands et à l'aise. Les piscines restent l'option de patauge sûre pour les petits."
+          }
+        }
+      ]
+    },
+    {
+      "key": "hurghada-sunrise-royal-makadi-aqua",
+      "destinationKey": "hurghada",
+      "name": "Sunrise Royal Makadi Aqua Resort",
+      "area": {
+        "en": "Makadi Bay, south of Hurghada",
+        "fr": "Makadi Bay, au sud d'Hurghada"
+      },
+      "lat": 27.061,
+      "lng": 33.908,
+      "zoom": 12,
+      "address": "Sunrise Royal Makadi Aqua Resort, Madinat Makadi, Makadi Bay, Hurghada, Red Sea, Egypt",
+      "priceTier": 3,
+      "priceFrom": 125,
+      "ages": [
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolTropicalMtn",
+        "poolCabanas",
+        "resortLoungers"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 72,
+        "pool": 88,
+        "dining": 82,
+        "safety": 80,
+        "convenience": 74,
+        "location": 78,
+        "extras": 86
+      },
+      "roomsSummary": {
+        "en": "Spacious, well-kept rooms in low blocks around the pools, most with a balcony or terrace. Family rooms and suites sleep four comfortably, and connecting rooms are available on request, so ask early and reconfirm on arrival. Cots are free, but note the resort has adults-only zones, so book a family room category to keep everyone in the same part of the resort.",
+        "fr": "Chambres spacieuses et bien tenues dans des bâtiments bas autour des piscines, la plupart avec balcon ou terrasse. Chambres familiales et suites dorment quatre personnes sans peine, et des communicantes existent sur demande: demandez tôt et refaites la demande à l'arrivée. Les lits bébé sont gratuits, mais le resort a des zones réservées aux adultes: réservez une catégorie famille pour garder tout le monde dans la même partie du resort."
+      },
+      "intro": {
+        "en": "A big, polished all inclusive whose headline is an aqua park with eighteen slides, from serious drops for teens down to little splash slides for the smallest. Seven pools, a good kids club and plenty of animation make the days easy. It is worth knowing that parts of the resort, including a hydro pool, some pool areas and stretches of beach, are set aside as adults-only sixteen-plus, so families book a family category and stay in the family zones. The beach is sandy at the top with the usual Makadi reef drop-off offshore.",
+        "fr": "Un grand tout compris soigné dont l'atout phare est un parc aquatique de dix-huit toboggans, des vraies descentes pour les ados jusqu'aux petits toboggans à éclaboussures pour les plus jeunes. Sept piscines, un bon club enfants et une animation abondante rendent les journées faciles. Bon à savoir: certaines parties du resort, dont un bassin hydro, des zones de piscine et des portions de plage, sont réservées aux plus de seize ans, alors les familles réservent une catégorie famille et restent dans les zones familiales. La plage est sableuse en haut, avec le récif de Makadi qui plonge au large."
+      },
+      "highlights": {
+        "en": [
+          "An 18-slide aqua park with big and small slides, included",
+          "Seven pools, so there is always space to swim",
+          "Strong all-inclusive food choice across the resort",
+          "Well-run kids club for ages 3 to 12"
+        ],
+        "fr": [
+          "Un parc aquatique de 18 toboggans, grands et petits, inclus",
+          "Sept piscines, donc toujours de la place pour nager",
+          "Un large choix de tout compris dans tout le resort",
+          "Un club enfants bien mené pour les 3 à 12 ans"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Slides for every age, from splash slides to real drops",
+          "Food regularly rated above the Makadi average",
+          "Adults-only zones give parents a genuine break too",
+          "Big enough that the aqua park rarely feels rammed"
+        ],
+        "fr": [
+          "Des toboggans pour chaque âge, des petits aux vraies descentes",
+          "Une table régulièrement jugée au-dessus de la moyenne de Makadi",
+          "Des zones adultes qui offrent aussi une vraie pause aux parents",
+          "Assez grand pour que le parc aquatique soit rarement bondé"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Adults-only areas can confuse families if you book blind",
+          "House reef drops off, not a toddler wading beach",
+          "Large and lively, not a quiet retreat",
+          "Big-slide height rules will disappoint some under-tens"
+        ],
+        "fr": [
+          "Les zones réservées aux adultes déroutent si l'on réserve à l'aveugle",
+          "Le récif maison plonge, pas une plage où patauger pour les tout-petits",
+          "Grand et animé, pas une adresse au calme",
+          "Les tailles minimales des grands toboggans décevront des moins de dix ans"
+        ]
+      },
+      "verdict": {
+        "en": "A great mixed-age slide holiday where teens get real drops and small children get their own splash slides, with better food than most. Just book a family category so nobody strays into the adults-only zones.",
+        "fr": "Un excellent séjour toboggans multi-âges où les ados ont de vraies descentes et les petits leurs propres toboggans, avec une meilleure table que la plupart. Réservez juste une catégorie famille pour que personne n'atterrisse dans les zones adultes."
+      },
+      "parentTip": {
+        "en": "When you book, say clearly that you are a family and want a family room and pool zone. The adults-only sixteen-plus areas are pleasant but easy to wander into by accident with children in tow, and staff will steer you right if you ask up front.",
+        "fr": "À la réservation, dites clairement que vous êtes une famille et voulez une chambre et une zone piscine familiales. Les espaces réservés aux plus de seize ans sont agréables mais faciles à investir par erreur avec des enfants, et le personnel vous orientera si vous le demandez d'emblée."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Aqua park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "18 slides, 7 pools, included",
+            "fr": "18 toboggans, 7 piscines, inclus"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Ages 3 to 12, included",
+            "fr": "3 à 12 ans, inclus"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Sandy top, reef drop-off, adult zones",
+            "fr": "Haut sableux, récif qui plonge, zones adultes"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "All inclusive",
+            "fr": "Tout compris"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is this an adults-only resort?",
+            "fr": "Est-ce un resort réservé aux adultes?"
+          },
+          "a": {
+            "en": "No, it is a family resort, but it sets aside some areas as adults-only sixteen-plus, including a hydro pool, parts of the pools and stretches of beach. Book a family room category and you and the children stay in the family zones with full run of the aqua park.",
+            "fr": "Non, c'est un resort familial, mais il réserve certaines zones aux plus de seize ans, dont un bassin hydro, des parties de piscines et des portions de plage. Réservez une catégorie de chambre famille et vous restez, avec les enfants, dans les zones familiales, avec plein accès au parc aquatique."
+          }
+        },
+        {
+          "q": {
+            "en": "Are there slides small children can use?",
+            "fr": "Y a-t-il des toboggans pour les jeunes enfants?"
+          },
+          "a": {
+            "en": "Yes. Alongside the big drop slides there are smaller splash slides aimed at younger children, plus a children's pool. The largest slides carry height rules around 1.20 m, so measure at home and pick out the ones your under-tens can ride.",
+            "fr": "Oui. À côté des grandes descentes, il y a des toboggans plus petits pensés pour les jeunes enfants, ainsi qu'une piscine enfants. Les plus grands toboggans imposent une taille minimale autour de 1,20 m: mesurez à la maison et repérez ceux qui conviennent aux moins de dix ans."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the sea safe for toddlers?",
+            "fr": "La mer est-elle sûre pour les tout-petits?"
+          },
+          "a": {
+            "en": "Only for paddling at the edge. Like most of Makadi Bay, the house reef starts close to shore and drops off, so swimming is off the jetty. Keep the smallest children in the shallow pools, where they have plenty to enjoy.",
+            "fr": "Seulement pour tremper les pieds au bord. Comme presque partout à Makadi Bay, le récif maison commence tout près et plonge: la nage se fait depuis le ponton. Gardez les plus petits dans les pataugeoires, où ils ont largement de quoi s'amuser."
+          }
+        }
+      ]
+    },
+    {
+      "key": "hurghada-kempinski-soma-bay",
+      "destinationKey": "hurghada",
+      "name": "Kempinski Hotel Soma Bay",
+      "area": {
+        "en": "Soma Bay, south of Hurghada",
+        "fr": "Soma Bay, au sud d'Hurghada"
+      },
+      "lat": 26.842,
+      "lng": 33.991,
+      "zoom": 12,
+      "address": "Kempinski Hotel Soma Bay, Soma Bay, Safaga, Red Sea, Egypt",
+      "priceTier": 4,
+      "priceFrom": 210,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "infinityPoolSea",
+        "deckLoungersSea",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 88,
+        "baby": 82,
+        "pool": 84,
+        "dining": 88,
+        "safety": 86,
+        "convenience": 68,
+        "location": 80,
+        "extras": 82
+      },
+      "roomsSummary": {
+        "en": "Large, genuinely luxurious rooms and suites, most with a balcony or terrace and many looking straight out to sea. Family configurations run to connecting rooms and larger suites that give parents a separate space, so ask for the layout you want at booking. Cots are free, and the standard of finish and service is a clear step above the all-inclusive crowd.",
+        "fr": "Chambres et suites vastes et réellement luxueuses, la plupart avec balcon ou terrasse et beaucoup avec vue directe sur la mer. Les configurations familiales vont des communicantes aux grandes suites qui offrent aux parents un espace à part: demandez la disposition voulue à la réservation. Les lits bébé sont gratuits, et le niveau de finition et de service se situe nettement au-dessus des tout compris classiques."
+      },
+      "intro": {
+        "en": "The luxury address of Soma Bay, and the answer to the biggest Makadi complaint: the beach here is a 400 metre sweep of sand with shallow, calm water that goes out a long way, so this is genuinely a place where toddlers can wade. Add a lazy river winding round the family pool, a dedicated children's pool and the Kimo kids club for four to twelves, and it works beautifully for small children. It is not an aqua park hotel and it is not cheap: you pay for polish, calm and that rare toddler-safe shallow sea.",
+        "fr": "L'adresse de luxe de Soma Bay, et la réponse au principal reproche fait à Makadi: ici la plage est un arc de sable de 400 mètres avec une eau calme et peu profonde sur une longue distance, un vrai endroit où les tout-petits peuvent patauger. Ajoutez une rivière lente qui serpente autour de la piscine famille, une piscine enfants dédiée et le club Kimo pour les quatre à douze ans, et l'ensemble fonctionne à merveille avec des petits. Ce n'est pas un hôtel à parc aquatique et ce n'est pas bon marché: on paie la finition, le calme et cette rare mer peu profonde et sûre pour les tout-petits."
+      },
+      "highlights": {
+        "en": [
+          "A 400 m sandy beach with shallow, calm, toddler-safe water",
+          "Lazy river round the family pool plus a children's pool",
+          "Kimo kids club for ages 4 to 12, professionally run",
+          "Food and service a clear level above the all-inclusive norm"
+        ],
+        "fr": [
+          "Une plage de sable de 400 m, eau calme et peu profonde, sûre pour les tout-petits",
+          "Rivière lente autour de la piscine famille et piscine enfants",
+          "Club enfants Kimo pour les 4 à 12 ans, bien encadré",
+          "Table et service d'un cran au-dessus de la norme tout compris"
+        ]
+      },
+      "pros": {
+        "en": [
+          "The rare Red Sea beach where toddlers can actually wade",
+          "Calm, spacious and beautifully kept throughout",
+          "Excellent food, a real cut above the buffet crowd",
+          "Kids' menus and attentive service for families"
+        ],
+        "fr": [
+          "La rare plage de mer Rouge où les tout-petits peuvent vraiment patauger",
+          "Calme, spacieux et magnifiquement entretenu partout",
+          "Une excellente table, bien au-dessus des buffets classiques",
+          "Menus enfants et service attentif pour les familles"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No aqua park, older slide-mad kids may find it tame",
+          "Prices are firmly luxury, well above the Makadi resorts",
+          "Soma Bay is a quiet peninsula, little on the doorstep",
+          "Often more B&B or half board than full all inclusive"
+        ],
+        "fr": [
+          "Pas de parc aquatique, les grands fous de toboggans le trouveront sage",
+          "Des tarifs franchement luxe, bien au-dessus des resorts de Makadi",
+          "Soma Bay est une presqu'île tranquille, peu de choses à proximité",
+          "Souvent en petit-déjeuner ou demi-pension plutôt qu'en tout compris"
+        ]
+      },
+      "verdict": {
+        "en": "The best choice on this coast for a baby or toddler thanks to that long shallow beach, wrapped in real luxury and excellent food. Families whose children only want slides should spend the money in Makadi Bay instead.",
+        "fr": "Le meilleur choix de cette côte pour un bébé ou un tout-petit grâce à cette longue plage peu profonde, dans un cadre vraiment luxueux et une excellente table. Les familles dont les enfants ne veulent que des toboggans dépenseront plutôt leur budget à Makadi Bay."
+      },
+      "parentTip": {
+        "en": "Check the board basis carefully before booking: Kempinski often sells bed and breakfast or half board rather than all inclusive, which changes the daily cost a lot with children. Price the half-board upgrade so there are no surprises at check-in.",
+        "fr": "Vérifiez bien la formule avant de réserver: le Kempinski se vend souvent en petit-déjeuner ou demi-pension plutôt qu'en tout compris, ce qui change beaucoup le coût quotidien avec des enfants. Chiffrez l'option demi-pension pour éviter toute surprise à l'arrivée."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "400 m sand, shallow toddler-safe water",
+            "fr": "400 m de sable, eau peu profonde et sûre"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Kimo club, ages 4 to 12",
+            "fr": "Club Kimo, 4 à 12 ans"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Lazy river plus a children's pool",
+            "fr": "Rivière lente et piscine enfants"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "Often B&B or half board",
+            "fr": "Souvent petit-déjeuner ou demi-pension"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the beach really safe for toddlers?",
+            "fr": "La plage est-elle vraiment sûre pour les tout-petits?"
+          },
+          "a": {
+            "en": "Yes, and it is the main reason to choose it. The 400 metre beach is sandy with shallow, calm water that stays wadeable a long way out, which is unusual on this reef-lined coast. It is the standout toddler beach among the resorts in this guide.",
+            "fr": "Oui, et c'est la première raison de le choisir. La plage de 400 mètres est sableuse, avec une eau calme et peu profonde où l'on garde pied sur une longue distance, ce qui est rare sur cette côte bordée de récifs. C'est la plage tout-petits la plus remarquable des resorts de ce guide."
+          }
+        },
+        {
+          "q": {
+            "en": "Does it have a water park?",
+            "fr": "Dispose-t-il d'un parc aquatique?"
+          },
+          "a": {
+            "en": "No. There is a lazy river around the family pool and a dedicated children's pool, but no aqua park with big slides. If your children come alive for slides, a Makadi Bay resort will suit them better; Kempinski is about the beach, the pools and the calm.",
+            "fr": "Non. Il y a une rivière lente autour de la piscine famille et une piscine enfants dédiée, mais pas de parc aquatique avec grands toboggans. Si vos enfants ne vivent que pour les toboggans, un resort de Makadi Bay leur conviendra mieux; le Kempinski, c'est la plage, les piscines et le calme."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it all inclusive?",
+            "fr": "Est-ce en tout compris?"
+          },
+          "a": {
+            "en": "Not always. Kempinski Soma Bay is frequently sold on bed and breakfast or half board rather than full all inclusive, so check the board basis on your rate and price the upgrade before you book, as it makes a real difference with children.",
+            "fr": "Pas toujours. Le Kempinski Soma Bay se vend souvent en petit-déjeuner ou en demi-pension plutôt qu'en tout compris: vérifiez la formule de votre tarif et chiffrez l'option avant de réserver, car cela change vraiment la donne avec des enfants."
+          }
+        }
+      ]
+    },
+    {
+      "key": "hurghada-sheraton-soma-bay",
+      "destinationKey": "hurghada",
+      "name": "Sheraton Soma Bay Resort",
+      "area": {
+        "en": "Soma Bay, south of Hurghada",
+        "fr": "Soma Bay, au sud d'Hurghada"
+      },
+      "lat": 26.848,
+      "lng": 33.994,
+      "zoom": 12,
+      "address": "Sheraton Soma Bay Resort, Soma Bay, Safaga, Red Sea, Egypt",
+      "priceTier": 3,
+      "priceFrom": 150,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolDuskPalms",
+        "resortLoungers",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 80,
+        "pool": 80,
+        "dining": 80,
+        "safety": 82,
+        "convenience": 70,
+        "location": 80,
+        "extras": 78
+      },
+      "roomsSummary": {
+        "en": "Solid, spacious rooms in a low Moorish-style building set in big grounds, most with a balcony or terrace. Family rooms and connecting doubles both exist, so state which you want at booking and reconfirm on arrival. Cots are free, and the sheer size of the grounds means quiet corners are easy to find with a napping baby.",
+        "fr": "Chambres solides et spacieuses dans un bâtiment bas de style mauresque au coeur d'un grand domaine, la plupart avec balcon ou terrasse. Chambres familiales et doubles communicantes existent toutes deux: précisez laquelle vous voulez à la réservation et refaites la demande à l'arrivée. Les lits bébé sont gratuits, et la taille du domaine permet de trouver facilement des coins tranquilles avec un bébé en sieste."
+      },
+      "intro": {
+        "en": "A grand, established Sheraton on the Soma Bay peninsula that balances a medium-sized water park with one of the best family beaches on the coast: an enormous stretch of white sand where the water is very shallow with no rocks, so children can walk out and still have their feet down. A central pool with a swim-up bar, a children's splash area and a kids club for four to twelves keep the days moving, while the house reef off the same beach is there for snorkelling when you want depth.",
+        "fr": "Un grand Sheraton bien établi sur la presqu'île de Soma Bay, qui associe un parc aquatique de taille moyenne à l'une des meilleures plages familiales de la côte: une immense étendue de sable blanc où l'eau est très peu profonde et sans rochers, si bien que les enfants peuvent avancer en gardant pied. Une piscine centrale avec bar à l'eau, une zone d'éclaboussures pour enfants et un club pour les quatre à douze ans rythment les journées, tandis que le récif maison de cette même plage se snorkelle quand on veut de la profondeur."
+      },
+      "highlights": {
+        "en": [
+          "Huge, clean white-sand beach, very shallow and no rocks",
+          "Medium water park with a children's splash area, included",
+          "Kids club for ages 4 to 12 with a real activity programme",
+          "House reef off the same beach for easy snorkelling"
+        ],
+        "fr": [
+          "Immense plage de sable blanc propre, très peu profonde et sans rochers",
+          "Parc aquatique moyen avec zone d'éclaboussures enfants, inclus",
+          "Club enfants 4 à 12 ans avec un vrai programme d'activités",
+          "Récif maison sur la même plage pour un snorkeling facile"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Shallow, rock-free beach that toddlers can walk into",
+          "Both a beach and a water park in one resort",
+          "Spacious grounds with quiet corners for naps",
+          "Reliable five-star Sheraton service and upkeep"
+        ],
+        "fr": [
+          "Plage peu profonde et sans rochers où les tout-petits avancent à pied",
+          "À la fois une plage et un parc aquatique dans un même resort",
+          "Un grand domaine avec des coins tranquilles pour la sieste",
+          "Un service et un entretien Sheraton cinq étoiles fiables"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The water park is medium-sized, not a mega slide park",
+          "The grounds are large, expect real walking",
+          "Soma Bay is remote, little to do beyond the resort",
+          "Feels traditional rather than freshly modern in places"
+        ],
+        "fr": [
+          "Le parc aquatique est moyen, pas un méga parc à toboggans",
+          "Le domaine est vaste, prévoyez de vraies distances",
+          "Soma Bay est isolée, peu de choses hors du resort",
+          "Un côté classique plutôt que résolument moderne par endroits"
+        ]
+      },
+      "verdict": {
+        "en": "A rare resort that pairs a genuinely toddler-safe shallow beach with a proper, if medium, water park. The best all-round family pick in Soma Bay when you want both the sea and some slides.",
+        "fr": "Un resort rare qui associe une plage peu profonde vraiment sûre pour les tout-petits à un parc aquatique correct, quoique moyen. Le meilleur choix familial polyvalent de Soma Bay quand on veut à la fois la mer et quelques toboggans."
+      },
+      "parentTip": {
+        "en": "Set up on the beach rather than the pool with under-fives: the shallow, rock-free water is the resort's real gift, and it is far calmer than the splash zone. Bring or rent beach shoes anyway for the odd patch near the reef.",
+        "fr": "Installez-vous à la plage plutôt qu'à la piscine avec des moins de cinq ans: l'eau peu profonde et sans rochers est le vrai atout du resort, et bien plus calme que la zone d'éclaboussures. Prévoyez tout de même des chaussures d'eau pour les rares zones proches du récif."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Huge white sand, shallow, no rocks",
+            "fr": "Immense sable blanc, peu profond, sans rochers"
+          }
+        },
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "Medium park plus splash zone, included",
+            "fr": "Parc moyen et zone d'éclaboussures, inclus"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Ages 4 to 12, included",
+            "fr": "4 à 12 ans, inclus"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "All inclusive available",
+            "fr": "Tout compris disponible"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the beach shallow enough for small children?",
+            "fr": "La plage est-elle assez peu profonde pour les jeunes enfants?"
+          },
+          "a": {
+            "en": "Yes. The beach is a large stretch of white sand where the water stays very shallow with no rocks, so children can walk out and keep their feet down. It is one of the few resorts in this guide where the sea itself, not just the pool, works for toddlers.",
+            "fr": "Oui. La plage est une vaste étendue de sable blanc où l'eau reste très peu profonde et sans rochers: les enfants peuvent avancer en gardant pied. C'est l'un des rares resorts de ce guide où la mer elle-même, et pas seulement la piscine, convient aux tout-petits."
+          }
+        },
+        {
+          "q": {
+            "en": "How big is the water park?",
+            "fr": "Quelle est la taille du parc aquatique?"
+          },
+          "a": {
+            "en": "It is a medium-sized park with a children's splash area, included for guests, rather than a mega slide complex. It is plenty for a few happy hours a day, but teens set on a huge slide count will find more in Makadi Bay.",
+            "fr": "C'est un parc de taille moyenne avec une zone d'éclaboussures pour enfants, inclus, plutôt qu'un immense complexe de toboggans. Cela suffit largement pour quelques bonnes heures par jour, mais les ados en quête d'un maximum de toboggans en trouveront davantage à Makadi Bay."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there snorkelling for older children?",
+            "fr": "Y a-t-il du snorkeling pour les plus grands?"
+          },
+          "a": {
+            "en": "Yes. The same beach has a house reef offshore that is good for snorkelling once you reach it, so older, confident swimmers get depth and fish while the little ones stay in the shallows closer in. Fins and masks are easy to rent on site.",
+            "fr": "Oui. La même plage possède un récif maison au large, bon à snorkeler une fois atteint: les plus grands, à l'aise dans l'eau, ont la profondeur et les poissons pendant que les petits restent dans le bas-fond, plus près du bord. Palmes et masques se louent facilement sur place."
+          }
+        }
+      ]
+    },
+    {
+      "key": "hurghada-caribbean-world-soma-bay",
+      "destinationKey": "hurghada",
+      "name": "Caribbean World Soma Bay",
+      "area": {
+        "en": "Soma Bay, south of Hurghada",
+        "fr": "Soma Bay, au sud d'Hurghada"
+      },
+      "lat": 26.851,
+      "lng": 33.985,
+      "zoom": 12,
+      "address": "Caribbean World Soma Bay, Soma Bay, Safaga, Red Sea, Egypt",
+      "priceTier": 2,
+      "priceFrom": 95,
+      "ages": [
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolPalms",
+        "poolCabanas",
+        "resortLoungers"
+      ],
+      "scores": {
+        "rooms": 74,
+        "baby": 76,
+        "pool": 84,
+        "dining": 74,
+        "safety": 76,
+        "convenience": 70,
+        "location": 78,
+        "extras": 82
+      },
+      "roomsSummary": {
+        "en": "Straightforward, roomy rooms in low blocks around the gardens and pools, most with a balcony or terrace. Family rooms sleep four and connecting rooms are available if you ask early, so specify at booking and reconfirm on arrival. Cots are free, and the layout is flat and easy to cross with a buggy.",
+        "fr": "Chambres simples et spacieuses dans des bâtiments bas autour des jardins et des piscines, la plupart avec balcon ou terrasse. Les chambres familiales dorment quatre personnes et des communicantes existent si vous demandez tôt: précisez à la réservation et refaites la demande à l'arrivée. Les lits bébé sont gratuits, et le site est plat, facile à traverser en poussette."
+      },
+      "intro": {
+        "en": "The value family choice in Soma Bay: a lively all inclusive built directly on a broad sandy beach, with a small aqua park, several pools and a children's pool with its own slide. The kids club runs for four to twelves alongside a mini disco, a playroom and a playground. On Soma Bay's sheltered sand the shallows are gentler than the Makadi reef beaches, which makes it an easier sea for younger children, though it is less polished than its pricier Soma neighbours.",
+        "fr": "Le bon plan famille de Soma Bay: un tout compris animé bâti directement sur une large plage de sable, avec un petit parc aquatique, plusieurs piscines et une piscine enfants dotée de son propre toboggan. Le club enfants accueille les quatre à douze ans, aux côtés d'une mini disco, d'une salle de jeux et d'une aire de jeux. Sur le sable abrité de Soma Bay, le bas-fond est plus doux que sur les plages à récif de Makadi, ce qui en fait une mer plus facile pour les jeunes enfants, même si l'ensemble est moins soigné que ses voisins plus chers de Soma."
+      },
+      "highlights": {
+        "en": [
+          "A small aqua park and a children's pool with its own slide",
+          "Broad sandy beach with gentler Soma Bay shallows",
+          "Kids club, mini disco, playroom and playground included",
+          "Genuine value all inclusive for a family of four"
+        ],
+        "fr": [
+          "Un petit parc aquatique et une piscine enfants avec son toboggan",
+          "Large plage de sable, bas-fond de Soma Bay plus doux",
+          "Club enfants, mini disco, salle de jeux et aire de jeux inclus",
+          "Un vrai tout compris économique pour une famille de quatre"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Slides and a splash pool without a premium price",
+          "Sandy Soma Bay beach, easier on little ones than a reef",
+          "Plenty of animation keeps school-age kids busy",
+          "Flat, buggy-friendly layout"
+        ],
+        "fr": [
+          "Des toboggans et une pataugeoire à toboggan sans prix premium",
+          "Plage de sable de Soma Bay, plus douce pour les petits qu'un récif",
+          "Beaucoup d'animation pour occuper les enfants scolarisés",
+          "Un site plat et facile en poussette"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Rooms and buffet are functional, not refined",
+          "The aqua park is small, teens will tire of it",
+          "Busy and noisy at peak times around the main pool",
+          "Soma Bay is remote, nothing much beyond the resort"
+        ],
+        "fr": [
+          "Chambres et buffet fonctionnels, sans raffinement",
+          "Le parc aquatique est petit, les ados s'en lasseront",
+          "Animé et bruyant aux heures de pointe près de la piscine centrale",
+          "Soma Bay est isolée, presque rien hors du resort"
+        ]
+      },
+      "verdict": {
+        "en": "The budget-friendly way to give younger children slides and a gentle sandy beach in Soma Bay. Families wanting refinement or a big slide count should look up the road to the pricier resorts.",
+        "fr": "La façon économique d'offrir aux jeunes enfants des toboggans et une plage de sable douce à Soma Bay. Les familles en quête de raffinement ou d'un grand nombre de toboggans regarderont plus loin, vers les resorts plus chers."
+      },
+      "parentTip": {
+        "en": "Base the little ones at the children's pool with its own small slide rather than the main aqua park: it is shallower, closer to the loungers and far less crowded, and the sandy beach is a short, flat walk when they fancy a change.",
+        "fr": "Installez les petits à la piscine enfants avec son propre petit toboggan plutôt qu'au parc aquatique principal: elle est moins profonde, plus proche des transats et bien moins fréquentée, et la plage de sable est à quelques pas, à plat, quand ils veulent changer."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Aqua park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "Small park plus kids pool slide, included",
+            "fr": "Petit parc et toboggan piscine enfants, inclus"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Ages 4 to 12, plus mini disco",
+            "fr": "4 à 12 ans, plus mini disco"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Broad sandy beach, gentle shallows",
+            "fr": "Large plage de sable, bas-fond doux"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "All inclusive",
+            "fr": "Tout compris"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Does it have slides for children?",
+            "fr": "Y a-t-il des toboggans pour les enfants?"
+          },
+          "a": {
+            "en": "Yes. There is a small aqua park with slides, plus a children's pool that has its own little slide for the younger ones. It is included for guests. It is a modest park rather than a mega one, which suits younger families more than slide-hungry teens.",
+            "fr": "Oui. Il y a un petit parc aquatique avec toboggans, ainsi qu'une piscine enfants dotée de son propre petit toboggan pour les plus jeunes. C'est inclus pour les clients. Le parc est modeste plutôt que gigantesque, ce qui convient davantage aux jeunes familles qu'aux ados avides de toboggans."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the sea gentle for younger children?",
+            "fr": "La mer est-elle douce pour les jeunes enfants?"
+          },
+          "a": {
+            "en": "Soma Bay's sheltered sand is gentler than the reef beaches of Makadi, so the shallows here are easier for younger children to paddle in. As always on the Red Sea, keep an eye out for the odd rocky or reef patch and pack beach shoes to be safe.",
+            "fr": "Le sable abrité de Soma Bay est plus doux que les plages à récif de Makadi: le bas-fond y est plus facile pour la patauge des jeunes enfants. Comme toujours en mer Rouge, restez attentif aux rares zones rocheuses ou de récif et prévoyez des chaussures d'eau par précaution."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it worth paying more for a neighbouring resort?",
+            "fr": "Vaut-il la peine de payer plus pour un resort voisin?"
+          },
+          "a": {
+            "en": "It depends on your priority. Caribbean World is the value pick, with slides and a sandy beach at a lower price. If you want refined food and finish, or a bigger water park, the pricier Soma Bay resorts deliver more, but they cost noticeably more too.",
+            "fr": "Cela dépend de votre priorité. Le Caribbean World est le bon plan, avec toboggans et plage de sable à prix plus bas. Si vous voulez une table et des finitions plus soignées, ou un parc aquatique plus grand, les resorts plus chers de Soma Bay offrent davantage, mais coûtent nettement plus."
+          }
+        }
+      ]
+    },
+    {
+      "key": "hurghada-amwaj-beach-club-abu-soma",
+      "destinationKey": "hurghada",
+      "name": "Amwaj Beach Club Abu Soma",
+      "area": {
+        "en": "Abu Soma, near Soma Bay",
+        "fr": "Abu Soma, près de Soma Bay"
+      },
+      "lat": 26.865,
+      "lng": 33.975,
+      "zoom": 12,
+      "address": "Amwaj Beach Club Abu Soma, Abu Soma, Safaga, Red Sea, Egypt",
+      "priceTier": 2,
+      "priceFrom": 90,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolDusk",
+        "poolCabanas",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 74,
+        "baby": 72,
+        "pool": 84,
+        "dining": 74,
+        "safety": 74,
+        "convenience": 68,
+        "location": 72,
+        "extras": 82
+      },
+      "roomsSummary": {
+        "en": "Bright, modern rooms in a smart four-star block, most with a balcony or terrace over the gardens or pools. Family rooms sleep four and connecting rooms can be arranged if you ask early, so state your preference at booking and reconfirm on arrival. Cots are free, and the freshwater pools are heated in the coldest winter months.",
+        "fr": "Chambres claires et modernes dans un ensemble quatre étoiles soigné, la plupart avec balcon ou terrasse sur les jardins ou les piscines. Les chambres familiales dorment quatre personnes et des communicantes peuvent être arrangées si vous demandez tôt: indiquez votre préférence à la réservation et refaites la demande à l'arrivée. Les lits bébé sont gratuits, et les piscines d'eau douce sont chauffées pendant les mois d'hiver les plus froids."
+      },
+      "intro": {
+        "en": "A modern, good-value four-star just north of Soma Bay, whose draw for families is a free aqua park of eleven slides with an integrated children's and baby pool, heated through the coldest months. The honest catch is the beach: the sand is fine, but the sea entry is rocky and shallow, so you need beach shoes and a walk, or the pier, to reach swimming depth. This is a pools-and-slides holiday first, with the sea as a snorkel add-on rather than a toddler wading beach.",
+        "fr": "Un quatre étoiles moderne et d'un bon rapport qualité-prix, juste au nord de Soma Bay, dont l'atout famille est un parc aquatique gratuit de onze toboggans, avec piscine enfants et bébé intégrée, chauffé pendant les mois les plus froids. Le bémol honnête, c'est la plage: le sable est correct, mais l'entrée dans la mer est rocheuse et peu profonde, il faut donc des chaussures d'eau et une marche, ou le ponton, pour atteindre une profondeur de nage. C'est d'abord un séjour piscines et toboggans, la mer venant en complément snorkeling plutôt qu'en plage où patauger."
+      },
+      "highlights": {
+        "en": [
+          "Free aqua park of 11 slides, included for guests",
+          "Integrated children's and baby pool within the park",
+          "Freshwater pools heated in the coldest winter months",
+          "Modern four-star with good value all inclusive"
+        ],
+        "fr": [
+          "Parc aquatique gratuit de 11 toboggans, inclus",
+          "Piscine enfants et bébé intégrée au parc",
+          "Piscines d'eau douce chauffées durant les mois d'hiver les plus froids",
+          "Un quatre étoiles moderne, tout compris à bon prix"
+        ]
+      },
+      "pros": {
+        "en": [
+          "A proper included aqua park at a four-star price",
+          "Heated freshwater pools extend the winter season",
+          "Baby and children's pools built into the water park",
+          "Fresh, modern rooms and grounds"
+        ],
+        "fr": [
+          "Un vrai parc aquatique inclus à un prix quatre étoiles",
+          "Des piscines d'eau douce chauffées qui prolongent la saison d'hiver",
+          "Des piscines bébé et enfants intégrées au parc aquatique",
+          "Des chambres et un domaine frais et modernes"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Rocky, shallow sea entry, beach shoes are essential",
+          "Real swimming means a walk out or using the pier",
+          "Buffet is decent but not a highlight",
+          "Abu Soma is quiet and out of the way"
+        ],
+        "fr": [
+          "Entrée de mer rocheuse et peu profonde, chaussures d'eau indispensables",
+          "La vraie nage impose une marche au large ou le ponton",
+          "Un buffet correct mais sans être un point fort",
+          "Abu Soma est calme et à l'écart"
+        ]
+      },
+      "verdict": {
+        "en": "Excellent value if the holiday is built around the free aqua park and the heated pools, and you treat the sea as a snorkel trip in beach shoes. Families set on a soft sandy sea entry should choose a Soma Bay lagoon resort instead.",
+        "fr": "Un excellent rapport qualité-prix si les vacances tournent autour du parc aquatique gratuit et des piscines chauffées, et si l'on considère la mer comme une sortie snorkeling en chaussures d'eau. Les familles qui tiennent à une entrée de mer sableuse et douce choisiront plutôt un resort de lagon à Soma Bay."
+      },
+      "parentTip": {
+        "en": "Pack proper beach shoes for everyone, not flimsy ones: the sea entry is rocky and the little ones will need them even to paddle. Then spend the water time in the heated aqua park and its baby pool, which is where this hotel really shines.",
+        "fr": "Emportez de vraies chaussures d'eau pour tout le monde, pas des modèles fragiles: l'entrée de mer est rocheuse et les petits en auront besoin même pour tremper les pieds. Réservez ensuite le temps aquatique au parc chauffé et à sa piscine bébé, là où cet hôtel brille vraiment."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Aqua park",
+            "fr": "Parc aquatique"
+          },
+          "value": {
+            "en": "11 slides, free, with baby pool",
+            "fr": "11 toboggans, gratuit, avec piscine bébé"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Club plus beachside playground",
+            "fr": "Club et aire de jeux en bord de plage"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Sandy but rocky entry, use beach shoes",
+            "fr": "Sable mais entrée rocheuse, chaussures d'eau"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "All inclusive",
+            "fr": "Tout compris"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the aqua park included in the price?",
+            "fr": "Le parc aquatique est-il compris dans le prix?"
+          },
+          "a": {
+            "en": "Yes, the eleven-slide aqua park is free for guests, with an integrated children's and baby pool. Opening hours are seasonal and weather-dependent, and the freshwater pools are heated from roughly November to February, so it works as a winter-sun choice.",
+            "fr": "Oui, le parc aquatique de onze toboggans est gratuit pour les clients, avec une piscine enfants et bébé intégrée. Les horaires sont saisonniers et dépendent de la météo, et les piscines d'eau douce sont chauffées d'environ novembre à février, ce qui en fait un choix de soleil d'hiver."
+          }
+        },
+        {
+          "q": {
+            "en": "What is the beach really like for children?",
+            "fr": "À quoi ressemble vraiment la plage pour les enfants?"
+          },
+          "a": {
+            "en": "Honestly, it is the weak point for little ones. The sand is fine, but the sea entry is rocky and shallow, so you need beach shoes and a walk, or the pier, to reach swimming depth. Most families spend their water time in the aqua park and pools and treat the sea as a snorkel outing.",
+            "fr": "Honnêtement, c'est le point faible pour les petits. Le sable est correct, mais l'entrée dans la mer est rocheuse et peu profonde: il faut des chaussures d'eau et une marche, ou le ponton, pour atteindre une profondeur de nage. La plupart des familles passent leur temps aquatique au parc et aux piscines, et gardent la mer pour le snorkeling."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it suitable for a baby?",
+            "fr": "Convient-il pour un bébé?"
+          },
+          "a": {
+            "en": "Yes for the pools, with reservations for the sea. There is a baby pool built into the aqua park, free cots and heated freshwater pools in winter, all of which suit a baby well. Just do not expect to wade into the sea with them, given the rocky entry.",
+            "fr": "Oui pour les piscines, avec des réserves pour la mer. Il y a une piscine bébé intégrée au parc aquatique, des lits bébé gratuits et des piscines d'eau douce chauffées en hiver, ce qui convient bien à un bébé. N'espérez simplement pas patauger avec lui dans la mer, vu l'entrée rocheuse."
+          }
+        }
+      ]
     }
   ],
   "destinationMeta": {

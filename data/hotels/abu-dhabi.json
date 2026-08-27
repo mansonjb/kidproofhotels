@@ -1,0 +1,1514 @@
+{
+  "hotels": [
+    {
+      "key": "abu-dhabi-hilton-yas-island",
+      "destinationKey": "abu-dhabi",
+      "name": "Hilton Abu Dhabi Yas Island",
+      "area": {
+        "en": "Yas Bay, Yas Island",
+        "fr": "Yas Bay, Yas Island"
+      },
+      "lat": 24.4592,
+      "lng": 54.6031,
+      "zoom": 12,
+      "address": "Hilton Abu Dhabi Yas Island, Yas Bay, Yas Island, Abu Dhabi, United Arab Emirates",
+      "priceTier": 4,
+      "priceFrom": 260,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "infinityPoolSea",
+        "poolPalms",
+        "deckLoungersSea"
+      ],
+      "scores": {
+        "rooms": 86,
+        "baby": 82,
+        "pool": 88,
+        "dining": 85,
+        "safety": 88,
+        "convenience": 80,
+        "location": 84,
+        "extras": 90
+      },
+      "roomsSummary": {
+        "en": "Big, modern rooms in twin towers, most looking over the water or the pools, with family rooms and connecting options that fit four or five without a squeeze. Cots and high chairs are standard and the layouts leave floor space for a toddler to play.",
+        "fr": "De grandes chambres modernes réparties sur deux tours, la plupart avec vue sur l'eau ou sur les piscines, avec des chambres familiales et des communicantes qui logent quatre ou cinq personnes sans serrer. Lits bébé et chaises hautes sont standards, et les plans laissent de la place au sol pour qu'un tout-petit joue."
+      },
+      "intro": {
+        "en": "This is the big five-star family address on the calm southern tip of Yas Island, where a long temperature-controlled pool complex spills into a family pool, a kids' pool and a splash pad, and the Yas Bay waterfront sits right outside. The headline for parents is that most Yas Island stays come with free daily entry to the theme parks, so Ferrari World, Yas Waterworld, Warner Bros World and SeaWorld are all reachable on the free Yas Express shuttle. The kids' club runs a proper daily programme, the buffets are generous and endlessly kid-friendly, and the whole place is built for families rather than tolerating them. It is a short shuttle rather than a walk to the parks themselves, which is the one thing to plan around.",
+        "fr": "Voici la grande adresse cinq étoiles pour les familles, à la pointe sud tranquille de Yas Island, où un long complexe de piscines à température régulée se prolonge par une piscine familiale, un bassin enfants et une aire de jeux d'eau, avec le front de mer de Yas Bay juste devant. L'argument massue pour les parents: la plupart des séjours sur Yas Island incluent l'entrée quotidienne gratuite aux parcs, donc Ferrari World, Yas Waterworld, Warner Bros World et SeaWorld sont tous accessibles par la navette gratuite Yas Express. Le club enfants propose un vrai programme quotidien, les buffets sont généreux et taillés pour les enfants, et tout ici est pensé pour les familles plutôt que de simplement les accepter. On rejoint les parcs en navette et non à pied, c'est le seul point à anticiper."
+      },
+      "highlights": {
+        "en": [
+          "Free daily theme park access with most Yas Island stays",
+          "Large pool complex with family pool, kids' pool and splash pad",
+          "Supervised kids' club with a full daily programme",
+          "Yas Bay waterfront and restaurants on the doorstep"
+        ],
+        "fr": [
+          "Entrée quotidienne gratuite aux parcs avec la plupart des séjours Yas Island",
+          "Grand complexe de piscines avec piscine familiale, bassin enfants et jeux d'eau",
+          "Club enfants encadré avec un vrai programme quotidien",
+          "Front de mer et restaurants de Yas Bay juste devant"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Theme park entry is normally included, which is a huge saving",
+          "The pool area genuinely works for babies through to teenagers",
+          "Family and connecting rooms are easy to book",
+          "Buffets always have plain, familiar options for fussy eaters",
+          "Calm, self-contained setting away from the traffic"
+        ],
+        "fr": [
+          "L'entrée aux parcs est en général incluse, une économie énorme",
+          "L'espace piscine fonctionne vraiment des bébés aux ados",
+          "Chambres familiales et communicantes faciles à réserver",
+          "Les buffets ont toujours des options simples pour les enfants difficiles",
+          "Cadre calme et autonome, à l'écart de la circulation"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The parks are a short shuttle ride, not a walk from here",
+          "It is a large resort, so bring the pushchair for internal distances",
+          "On-site drinks and snacks are priced like a resort"
+        ],
+        "fr": [
+          "Les parcs se rejoignent en navette, pas à pied depuis l'hôtel",
+          "Le complexe est vaste, prévoyez la poussette pour les distances internes",
+          "Les boissons et snacks sur place sont au tarif resort"
+        ]
+      },
+      "verdict": {
+        "en": "The safest all-round pick for a Yas Island family holiday: a superb pool, a real kids' club, and free park access that pays for a chunk of the trip. Ask for a family room on the pool side to keep the little ones close to the water.",
+        "fr": "Le choix le plus sûr pour des vacances en famille sur Yas Island: une superbe piscine, un vrai club enfants et l'accès gratuit aux parcs qui rentabilise une bonne partie du séjour. Demandez une chambre familiale côté piscine pour garder les petits près de l'eau."
+      },
+      "parentTip": {
+        "en": "Do the parks on the free shuttle in the morning, then come back for the pool at the hottest hours: the splash pad is the toddlers' favourite and stays shaded into the afternoon.",
+        "fr": "Faites les parcs le matin avec la navette gratuite, puis revenez à la piscine aux heures les plus chaudes: l'aire de jeux d'eau est la préférée des tout-petits et reste ombragée l'après-midi."
+      },
+      "atAGlance": [
+        {
+          "icon": "🎟️",
+          "label": {
+            "en": "Theme parks",
+            "fr": "Parcs à thème"
+          },
+          "value": {
+            "en": "Free daily access, by shuttle",
+            "fr": "Accès quotidien gratuit, en navette"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Family pool, kids' pool, splash pad",
+            "fr": "Piscine familiale, bassin enfants, jeux d'eau"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Ages 4 to 12, daily programme",
+            "fr": "4 à 12 ans, programme quotidien"
+          }
+        },
+        {
+          "icon": "🌊",
+          "label": {
+            "en": "Waterfront",
+            "fr": "Front de mer"
+          },
+          "value": {
+            "en": "Yas Bay, on the doorstep",
+            "fr": "Yas Bay, juste devant"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is theme park entry really included?",
+            "fr": "L'entrée aux parcs est-elle vraiment incluse?"
+          },
+          "a": {
+            "en": "Most Yas Island hotel stays come with free daily access to the parks, though the exact parks and terms depend on the rate you book. Confirm what your specific booking covers, and use the free Yas Express shuttle to reach them.",
+            "fr": "La plupart des séjours dans les hôtels de Yas Island incluent l'accès quotidien gratuit aux parcs, même si les parcs concernés et les conditions dépendent du tarif réservé. Vérifiez ce que couvre votre réservation, et utilisez la navette gratuite Yas Express pour vous y rendre."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we walk to Ferrari World?",
+            "fr": "Peut-on aller à Ferrari World à pied?"
+          },
+          "a": {
+            "en": "Not comfortably from Yas Bay: it is a short drive or a free shuttle hop rather than a walk. Hotels in the Yas Plaza cluster are the ones within walking distance of the parks.",
+            "fr": "Pas vraiment depuis Yas Bay: c'est un court trajet en voiture ou en navette gratuite plutôt qu'une marche. Ce sont les hôtels du secteur Yas Plaza qui sont à distance de marche des parcs."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a beach?",
+            "fr": "Y a-t-il une plage?"
+          },
+          "a": {
+            "en": "There is a waterfront and pool beach set-up at Yas Bay, and the hotel runs transfers to Yas Beach. For a long natural sandy beach you would look at the Saadiyat Island resorts instead.",
+            "fr": "Il y a un front de mer et une plage de piscine à Yas Bay, et l'hôtel propose des transferts vers Yas Beach. Pour une longue plage de sable naturelle, tournez-vous plutôt vers les resorts de Saadiyat Island."
+          }
+        }
+      ]
+    },
+    {
+      "key": "abu-dhabi-crowne-plaza-yas-island",
+      "destinationKey": "abu-dhabi",
+      "name": "Crowne Plaza Yas Island",
+      "area": {
+        "en": "Yas Plaza, Yas Island",
+        "fr": "Yas Plaza, Yas Island"
+      },
+      "lat": 24.4855,
+      "lng": 54.6053,
+      "zoom": 12,
+      "address": "Crowne Plaza Abu Dhabi Yas Island, Yas Plaza, Yas Island, Abu Dhabi, United Arab Emirates",
+      "priceTier": 3,
+      "priceFrom": 150,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolCabanas",
+        "roomCozy",
+        "poolOrange"
+      ],
+      "scores": {
+        "rooms": 78,
+        "baby": 78,
+        "pool": 80,
+        "dining": 80,
+        "safety": 84,
+        "convenience": 90,
+        "location": 90,
+        "extras": 82
+      },
+      "roomsSummary": {
+        "en": "Comfortable, roomy rooms with sofa beds and family formats that take two adults and two children without extra beds crowding the floor. Connecting rooms exist and are worth requesting early, and cots come as standard.",
+        "fr": "Des chambres confortables et spacieuses avec canapé-lit et formats familiaux qui accueillent deux adultes et deux enfants sans lits d'appoint qui encombrent. Les chambres communicantes existent et méritent d'être demandées tôt, et les lits bébé sont standards."
+      },
+      "intro": {
+        "en": "This is the sensible-value pick for families who came to Yas Island for the parks, because Ferrari World is barely a kilometre away and the whole park cluster is genuinely walkable from the door. There is a 25-metre outdoor pool with a separate kids' pool, an indoor kids' club with a playground and ball pit, and free daily park access with most stays, which turns an already fair room rate into a real bargain for a theme-park week. It is more of a smart, well-run hotel than a sprawling beach resort, and that is exactly the point: you sleep here, eat a solid buffet breakfast, and spend the days on the rides. Cyan Beach and the Yas Express shuttle are both close for the times you want a change of scene.",
+        "fr": "Voici le choix malin côté budget pour les familles venues sur Yas Island pour les parcs, car Ferrari World est à peine à un kilomètre et tout le pôle de parcs se rejoint vraiment à pied depuis la porte. Il y a une piscine extérieure de 25 mètres avec un bassin enfants séparé, un club enfants intérieur avec aire de jeux et piscine à balles, et l'accès quotidien gratuit aux parcs avec la plupart des séjours, ce qui transforme un tarif déjà correct en vraie bonne affaire pour une semaine de parcs. C'est davantage un hôtel intelligent et bien tenu qu'un vaste resort de plage, et c'est précisément l'idée: on dort ici, on prend un solide petit-déjeuner buffet, et on passe les journées sur les manèges. Cyan Beach et la navette Yas Express sont tout proches pour changer d'air."
+      },
+      "highlights": {
+        "en": [
+          "Walking distance to Ferrari World and the park cluster",
+          "Free daily theme park access with most stays",
+          "Indoor kids' club with playground and ball pit",
+          "25-metre pool with a separate kids' pool"
+        ],
+        "fr": [
+          "À distance de marche de Ferrari World et du pôle de parcs",
+          "Accès quotidien gratuit aux parcs avec la plupart des séjours",
+          "Club enfants intérieur avec aire de jeux et piscine à balles",
+          "Piscine de 25 mètres avec un bassin enfants séparé"
+        ]
+      },
+      "pros": {
+        "en": [
+          "The best value on Yas Island for a theme-park family",
+          "You can walk to the parks instead of driving",
+          "Free park access is normally included in the rate",
+          "Solid, familiar buffet food that suits children",
+          "Easy connections to Yas Mall and the beach"
+        ],
+        "fr": [
+          "Le meilleur rapport qualité-prix de Yas Island pour une famille parcs",
+          "On peut aller aux parcs à pied plutôt qu'en voiture",
+          "L'accès gratuit aux parcs est en général compris dans le tarif",
+          "Buffets simples et familiers qui plaisent aux enfants",
+          "Liaisons faciles vers Yas Mall et la plage"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No natural beach on site, it is a hotel not a beach resort",
+          "The pool is good but modest next to the big resorts",
+          "The setting is functional rather than scenic"
+        ],
+        "fr": [
+          "Pas de plage naturelle sur place, c'est un hôtel et non un resort balnéaire",
+          "La piscine est correcte mais modeste face aux grands resorts",
+          "Le cadre est fonctionnel plutôt que pittoresque"
+        ]
+      },
+      "verdict": {
+        "en": "If the trip is really about Ferrari World and the water parks, this is the smart base: you walk to the rides, you get free entry with the room, and you keep money for the parks themselves. Ask for a family room on a high floor for the view over the circuit.",
+        "fr": "Si le voyage tourne vraiment autour de Ferrari World et des parcs aquatiques, c'est la base maligne: on va aux manèges à pied, l'entrée est gratuite avec la chambre, et on garde son budget pour les parcs eux-mêmes. Demandez une chambre familiale à un étage élevé pour la vue sur le circuit."
+      },
+      "parentTip": {
+        "en": "Because you can walk to the parks, split the day: rides at opening, back to the hotel pool for the midday heat and a nap, then a second short park visit late afternoon when queues drop.",
+        "fr": "Comme les parcs sont accessibles à pied, découpez la journée: manèges à l'ouverture, retour à la piscine de l'hôtel pour la chaleur de midi et la sieste, puis une seconde courte visite en fin d'après-midi quand les files se vident."
+      },
+      "atAGlance": [
+        {
+          "icon": "🚶",
+          "label": {
+            "en": "To the parks",
+            "fr": "Vers les parcs"
+          },
+          "value": {
+            "en": "Ferrari World about 1 km, walkable",
+            "fr": "Ferrari World à environ 1 km, à pied"
+          }
+        },
+        {
+          "icon": "🎟️",
+          "label": {
+            "en": "Park access",
+            "fr": "Accès parcs"
+          },
+          "value": {
+            "en": "Free daily with most stays",
+            "fr": "Gratuit chaque jour avec la plupart des séjours"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Indoor, playground and ball pit",
+            "fr": "Intérieur, aire de jeux et piscine à balles"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Value",
+            "fr": "Rapport qualité-prix"
+          },
+          "value": {
+            "en": "Best on Yas for park families",
+            "fr": "Le meilleur de Yas pour les familles parcs"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Can we really walk to the theme parks?",
+            "fr": "Peut-on vraiment aller aux parcs à pied?"
+          },
+          "a": {
+            "en": "Yes, this is one of the Yas Plaza hotels, so Ferrari World is about a kilometre away and Yas Waterworld is close too. In cool-season temperatures the walk is easy, and the free Yas Express shuttle covers you when it is hot or the children are tired.",
+            "fr": "Oui, c'est l'un des hôtels du secteur Yas Plaza, donc Ferrari World est à environ un kilomètre et Yas Waterworld est proche aussi. Par temps frais la marche est facile, et la navette gratuite Yas Express prend le relais quand il fait chaud ou que les enfants sont fatigués."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it good for toddlers or better for older kids?",
+            "fr": "Est-ce adapté aux tout-petits ou plutôt aux plus grands?"
+          },
+          "a": {
+            "en": "It works for both. Toddlers get the kids' pool and the indoor club, while older children love being able to walk back to the rides. The parks themselves suit every age, from Warner Bros World for little ones to Ferrari World for teens.",
+            "fr": "Ça fonctionne pour les deux. Les tout-petits ont le bassin enfants et le club intérieur, tandis que les plus grands adorent pouvoir retourner aux manèges à pied. Les parcs eux-mêmes conviennent à tous les âges, de Warner Bros World pour les petits à Ferrari World pour les ados."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a beach?",
+            "fr": "Y a-t-il une plage?"
+          },
+          "a": {
+            "en": "Not on site, but Cyan Beach and Yas Beach are a short hop away and the pool covers daily swimming. For a beach-first holiday, pair it with a Saadiyat Island resort or choose one to begin with.",
+            "fr": "Pas sur place, mais Cyan Beach et Yas Beach sont tout proches et la piscine assure la baignade quotidienne. Pour des vacances axées plage, combinez avec un resort de Saadiyat Island ou choisissez-en un d'emblée."
+          }
+        }
+      ]
+    },
+    {
+      "key": "abu-dhabi-yas-island-rotana",
+      "destinationKey": "abu-dhabi",
+      "name": "Yas Island Rotana",
+      "area": {
+        "en": "Yas Plaza, Yas Island",
+        "fr": "Yas Plaza, Yas Island"
+      },
+      "lat": 24.4879,
+      "lng": 54.6076,
+      "zoom": 12,
+      "address": "Yas Island Rotana, Yas Plaza, Yas Island, Abu Dhabi, United Arab Emirates",
+      "priceTier": 3,
+      "priceFrom": 130,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "baby-friendly",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "poolPalms",
+        "roomCozy",
+        "hotelTowerGreen"
+      ],
+      "scores": {
+        "rooms": 76,
+        "baby": 76,
+        "pool": 78,
+        "dining": 78,
+        "safety": 83,
+        "convenience": 88,
+        "location": 86,
+        "extras": 78
+      },
+      "roomsSummary": {
+        "en": "Practical, generously sized rooms with a couple of family-friendly formats and sofa beds, comfortable for a family of four for a park-focused week. Cots are available on request and the twin towers mean plenty of connecting-room availability.",
+        "fr": "Des chambres pratiques et de bonne taille, avec quelques formats familiaux et canapés-lits, confortables pour une famille de quatre le temps d'une semaine axée parcs. Les lits bébé sont disponibles sur demande et les deux tours offrent une bonne disponibilité de chambres communicantes."
+      },
+      "intro": {
+        "en": "A dependable four-star in the Yas Plaza cluster, this is a straightforward, good-value base a few minutes from Ferrari World, Yas Waterworld and Warner Bros World, with the parks walkable and the free Yas Express passing the door. There is an outdoor pool and a separate kids' pool, a handful of casual restaurants, and the usual Yas Island perk of complimentary daily park access with most stays. It does not have the big kids' club or splash-park extras of the pricier resorts, so it suits families who plan to spend their days inside the theme parks and simply want a comfortable, affordable place to sleep and swim. For a park-first trip on a sensible budget, it quietly does the job.",
+        "fr": "Un quatre étoiles fiable dans le secteur Yas Plaza, base simple et d'un bon rapport qualité-prix, à quelques minutes de Ferrari World, Yas Waterworld et Warner Bros World, avec les parcs accessibles à pied et la navette gratuite Yas Express qui passe devant. Il y a une piscine extérieure et un bassin enfants séparé, quelques restaurants décontractés, et l'avantage habituel de Yas Island: l'accès quotidien gratuit aux parcs avec la plupart des séjours. Il n'a pas le grand club enfants ni les extras d'aire de jeux d'eau des resorts plus chers, il convient donc aux familles qui comptent passer leurs journées dans les parcs et veulent simplement un endroit confortable et abordable pour dormir et nager. Pour un voyage axé parcs à budget raisonnable, il remplit sa mission sans bruit."
+      },
+      "highlights": {
+        "en": [
+          "Minutes from the parks, in the walkable Yas Plaza cluster",
+          "Free daily theme park access with most stays",
+          "Outdoor pool plus a separate kids' pool",
+          "Genuinely good value for a family of four"
+        ],
+        "fr": [
+          "À quelques minutes des parcs, dans le secteur piétonnier Yas Plaza",
+          "Accès quotidien gratuit aux parcs avec la plupart des séjours",
+          "Piscine extérieure et bassin enfants séparé",
+          "Un vrai bon rapport qualité-prix pour une famille de quatre"
+        ]
+      },
+      "pros": {
+        "en": [
+          "One of the cheapest ways to stay near the parks",
+          "Parks are a short walk or a free shuttle hop",
+          "Free daily park access is normally part of the deal",
+          "Simple, reliable family rooms and connecting options",
+          "Ten minutes from the airport for easy arrivals"
+        ],
+        "fr": [
+          "L'un des moyens les moins chers de loger près des parcs",
+          "Les parcs sont à une courte marche ou une navette gratuite",
+          "L'accès quotidien gratuit aux parcs fait en général partie de l'offre",
+          "Chambres familiales simples et fiables, options communicantes",
+          "À dix minutes de l'aéroport pour des arrivées faciles"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No dedicated kids' club or splash park on site",
+          "The pool is fine but basic compared with the big resorts",
+          "It is a business-leaning hotel, not a holiday factory"
+        ],
+        "fr": [
+          "Pas de club enfants dédié ni d'aire aquatique sur place",
+          "La piscine est correcte mais basique face aux grands resorts",
+          "C'est un hôtel plutôt d'affaires, pas une usine à vacances"
+        ]
+      },
+      "verdict": {
+        "en": "The value play for families who will live in the parks and only need a comfortable, close, affordable bed. Do not expect a resort experience, but do expect an easy walk to Ferrari World and free entry with the room.",
+        "fr": "Le choix économique pour les familles qui vont vivre dans les parcs et n'ont besoin que d'un lit confortable, proche et abordable. N'attendez pas une expérience resort, mais attendez-vous à une marche facile vers Ferrari World et à l'entrée gratuite avec la chambre."
+      },
+      "parentTip": {
+        "en": "Book a rate that bundles the free park tickets and breakfast, then treat the hotel purely as a base: it is the parks, not the pool, that make this stay.",
+        "fr": "Réservez un tarif qui inclut les billets de parc gratuits et le petit-déjeuner, puis considérez l'hôtel comme une simple base: ce sont les parcs, pas la piscine, qui font ce séjour."
+      },
+      "atAGlance": [
+        {
+          "icon": "🚶",
+          "label": {
+            "en": "To the parks",
+            "fr": "Vers les parcs"
+          },
+          "value": {
+            "en": "A few minutes, walkable",
+            "fr": "Quelques minutes, à pied"
+          }
+        },
+        {
+          "icon": "🎟️",
+          "label": {
+            "en": "Park access",
+            "fr": "Accès parcs"
+          },
+          "value": {
+            "en": "Free daily with most stays",
+            "fr": "Gratuit chaque jour avec la plupart des séjours"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Outdoor pool and kids' pool",
+            "fr": "Piscine extérieure et bassin enfants"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Best for",
+            "fr": "Idéal pour"
+          },
+          "value": {
+            "en": "Park-first families on a budget",
+            "fr": "Familles axées parcs à petit budget"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is it too basic for young children?",
+            "fr": "Est-ce trop basique pour de jeunes enfants?"
+          },
+          "a": {
+            "en": "There is no supervised kids' club, but there is a kids' pool and plenty of space, and the parks provide all the entertainment. If you want an on-site club and splash areas, the Hilton or a Saadiyat resort will suit better.",
+            "fr": "Il n'y a pas de club enfants encadré, mais il y a un bassin enfants et de l'espace, et les parcs fournissent toute l'animation. Si vous voulez un club sur place et des aires de jeux d'eau, le Hilton ou un resort de Saadiyat conviendra mieux."
+          }
+        },
+        {
+          "q": {
+            "en": "How close is the airport?",
+            "fr": "L'aéroport est-il proche?"
+          },
+          "a": {
+            "en": "Abu Dhabi airport is about ten minutes away, which makes late arrivals and early departures painless with tired children. Yas Island as a whole sits close to the airport.",
+            "fr": "L'aéroport d'Abu Dhabi est à une dizaine de minutes, ce qui rend les arrivées tardives et les départs matinaux indolores avec des enfants fatigués. Yas Island dans son ensemble est proche de l'aéroport."
+          }
+        },
+        {
+          "q": {
+            "en": "Do we need a hire car?",
+            "fr": "Faut-il louer une voiture?"
+          },
+          "a": {
+            "en": "No. The free Yas Express shuttle links the hotels, parks, mall and beach, and taxis are cheap by European standards. Note that taxis do not carry child seats, so bring a travel booster if you use one.",
+            "fr": "Non. La navette gratuite Yas Express relie les hôtels, les parcs, le centre commercial et la plage, et les taxis sont bon marché selon les standards européens. Attention, les taxis ne fournissent pas de siège enfant: prévoyez un réhausseur de voyage si vous en utilisez un."
+          }
+        }
+      ]
+    },
+    {
+      "key": "abu-dhabi-radisson-blu-yas-island",
+      "destinationKey": "abu-dhabi",
+      "name": "Radisson Blu Hotel Abu Dhabi Yas Island",
+      "area": {
+        "en": "Yas Plaza, Yas Island",
+        "fr": "Yas Plaza, Yas Island"
+      },
+      "lat": 24.4871,
+      "lng": 54.6062,
+      "zoom": 12,
+      "address": "Radisson Blu Hotel Abu Dhabi Yas Island, Yas Plaza, Yas Island, Abu Dhabi, United Arab Emirates",
+      "priceTier": 3,
+      "priceFrom": 140,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "water-slides",
+        "baby-friendly",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "whiteResortPool",
+        "poolCabanas",
+        "kidsFootball"
+      ],
+      "scores": {
+        "rooms": 75,
+        "baby": 78,
+        "pool": 80,
+        "dining": 76,
+        "safety": 83,
+        "convenience": 86,
+        "location": 84,
+        "extras": 80
+      },
+      "roomsSummary": {
+        "en": "Bright, comfortable rooms with family formats and sofa beds that handle two adults and two children with room to spare. Cots and babysitting can be arranged, and connecting rooms are available if you ask when you book.",
+        "fr": "Des chambres claires et confortables avec formats familiaux et canapés-lits qui accueillent deux adultes et deux enfants avec de la marge. Lits bébé et baby-sitting peuvent s'organiser, et les chambres communicantes sont disponibles si vous les demandez à la réservation."
+      },
+      "intro": {
+        "en": "This Yas Plaza hotel earns its place with a properly family-friendly pool: a shallow area and a small slide that toddlers and young children actually use, plus a children's play area and cots and babysitting on request. It sits minutes from the parks in the walkable cluster, runs a shuttle to Yas Mall and Yas Beach, and its kids-stay-free and free-park-access packages make a multi-night family stay genuinely good value. It is a mid-range hotel rather than a resort, so the appeal is the combination of price, the swimmable pool and the short reach to Ferrari World and Yas Waterworld. For families who want a slide by the pool without paying resort prices, it is a smart Yas Island choice.",
+        "fr": "Cet hôtel du secteur Yas Plaza mérite sa place grâce à une piscine vraiment pensée pour les familles: une zone peu profonde et un petit toboggan que les tout-petits et jeunes enfants utilisent réellement, plus une aire de jeux enfants, des lits bébé et du baby-sitting sur demande. Il est à quelques minutes des parcs dans le secteur piétonnier, propose une navette vers Yas Mall et Yas Beach, et ses offres enfants gratuits et accès parcs gratuit rendent un séjour familial de plusieurs nuits vraiment avantageux. C'est un hôtel de gamme moyenne plutôt qu'un resort, l'atout tient donc à la combinaison du prix, de la piscine baignable et de la proximité de Ferrari World et Yas Waterworld. Pour les familles qui veulent un toboggan au bord de la piscine sans payer les tarifs resort, c'est un choix malin sur Yas Island."
+      },
+      "highlights": {
+        "en": [
+          "Family pool with a shallow area and a small slide",
+          "Kids-stay-free and free-park-access packages",
+          "Minutes from the parks in the walkable cluster",
+          "Shuttle to Yas Mall and Yas Beach"
+        ],
+        "fr": [
+          "Piscine familiale avec zone peu profonde et petit toboggan",
+          "Offres enfants gratuits et accès parcs gratuit",
+          "À quelques minutes des parcs, dans le secteur piétonnier",
+          "Navette vers Yas Mall et Yas Beach"
+        ]
+      },
+      "pros": {
+        "en": [
+          "A real slide and shallow pool for little swimmers",
+          "Strong family package deals over multiple nights",
+          "Walkable and shuttle-linked to the parks",
+          "Cots and babysitting available on request",
+          "Good value for the location"
+        ],
+        "fr": [
+          "Un vrai toboggan et une piscine peu profonde pour les petits nageurs",
+          "Bonnes offres familiales sur plusieurs nuits",
+          "Accessible à pied et desservi par la navette vers les parcs",
+          "Lits bébé et baby-sitting disponibles sur demande",
+          "Bon rapport qualité-prix pour l'emplacement"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No large supervised kids' club on site",
+          "Dining is functional rather than a highlight",
+          "No natural beach, the pool is the water at the hotel"
+        ],
+        "fr": [
+          "Pas de grand club enfants encadré sur place",
+          "La restauration est fonctionnelle plutôt qu'un point fort",
+          "Pas de plage naturelle, la piscine est le seul point d'eau de l'hôtel"
+        ]
+      },
+      "verdict": {
+        "en": "A clever middle option: cheaper than the beach resorts, but with a slide and a shallow pool the little ones will use, and the parks a short walk away. Book a package with the kids-stay-free and park-access perks to get the most out of it.",
+        "fr": "Une option intermédiaire astucieuse: moins chère que les resorts de plage, mais avec un toboggan et une piscine peu profonde que les petits utiliseront, et les parcs à une courte marche. Réservez une offre avec les avantages enfants gratuits et accès parcs pour en tirer le maximum."
+      },
+      "parentTip": {
+        "en": "Ask specifically for the family package with free park entry and kids staying free: the room rate looks similar to nearby hotels, but the included extras are where the saving is.",
+        "fr": "Demandez précisément l'offre famille avec entrée gratuite aux parcs et enfants gratuits: le tarif de la chambre ressemble à celui des hôtels voisins, mais l'économie se cache dans les extras inclus."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Pool slide",
+            "fr": "Toboggan piscine"
+          },
+          "value": {
+            "en": "Small slide and shallow area",
+            "fr": "Petit toboggan et zone peu profonde"
+          }
+        },
+        {
+          "icon": "🎟️",
+          "label": {
+            "en": "Park access",
+            "fr": "Accès parcs"
+          },
+          "value": {
+            "en": "Free with family packages",
+            "fr": "Gratuit avec les offres famille"
+          }
+        },
+        {
+          "icon": "🚶",
+          "label": {
+            "en": "To the parks",
+            "fr": "Vers les parcs"
+          },
+          "value": {
+            "en": "Minutes, walkable plus shuttle",
+            "fr": "Quelques minutes, à pied et navette"
+          }
+        },
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Little ones",
+            "fr": "Tout-petits"
+          },
+          "value": {
+            "en": "Cots and babysitting on request",
+            "fr": "Lits bébé et baby-sitting sur demande"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the pool good for toddlers?",
+            "fr": "La piscine est-elle adaptée aux tout-petits?"
+          },
+          "a": {
+            "en": "Yes, that is its strength: there is a shallow area and a small slide that young children can use, which is more than most mid-range Yas hotels offer. There is also a children's play area for downtime.",
+            "fr": "Oui, c'est son point fort: il y a une zone peu profonde et un petit toboggan utilisables par les jeunes enfants, ce que la plupart des hôtels de gamme moyenne de Yas n'offrent pas. Il y a aussi une aire de jeux enfants pour les temps calmes."
+          }
+        },
+        {
+          "q": {
+            "en": "What do the kids-stay-free deals include?",
+            "fr": "Que comprennent les offres enfants gratuits?"
+          },
+          "a": {
+            "en": "On qualifying multi-night stays, children can stay and dine free and the booking can include unlimited access to the Yas Island parks. The exact terms change with the rate, so confirm what your dates cover.",
+            "fr": "Sur les séjours éligibles de plusieurs nuits, les enfants peuvent loger et manger gratuitement et la réservation peut inclure l'accès illimité aux parcs de Yas Island. Les conditions exactes varient selon le tarif, vérifiez donc ce que couvrent vos dates."
+          }
+        },
+        {
+          "q": {
+            "en": "Do we need a car to reach the parks?",
+            "fr": "Faut-il une voiture pour rejoindre les parcs?"
+          },
+          "a": {
+            "en": "No. The parks are within walking distance and the hotel shuttle plus the free Yas Express cover the mall, beach and attractions. Taxis are cheap for anything further afield.",
+            "fr": "Non. Les parcs sont à distance de marche et la navette de l'hôtel plus la Yas Express gratuite desservent le centre commercial, la plage et les attractions. Les taxis sont bon marché pour aller plus loin."
+          }
+        }
+      ]
+    },
+    {
+      "key": "abu-dhabi-w-yas-island",
+      "destinationKey": "abu-dhabi",
+      "name": "W Abu Dhabi Yas Island",
+      "area": {
+        "en": "Yas Marina, Yas Island",
+        "fr": "Yas Marina, Yas Island"
+      },
+      "lat": 24.4672,
+      "lng": 54.6033,
+      "zoom": 12,
+      "address": "W Abu Dhabi Yas Island, Yas Marina Circuit, Yas Island, Abu Dhabi, United Arab Emirates",
+      "priceTier": 4,
+      "priceFrom": 280,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "baby-friendly",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "hotelTowerGreen",
+        "poolDusk",
+        "swimmer"
+      ],
+      "scores": {
+        "rooms": 85,
+        "baby": 74,
+        "pool": 84,
+        "dining": 86,
+        "safety": 85,
+        "convenience": 82,
+        "location": 88,
+        "extras": 87
+      },
+      "roomsSummary": {
+        "en": "Sleek, design-led rooms, many with direct views over the Formula 1 track, with family-sized options and connecting rooms available. Cots are provided on request, and one child eleven or under normally stays free using existing bedding.",
+        "fr": "Des chambres élégantes et design, beaucoup avec vue directe sur le circuit de Formule 1, avec des options familiales et des chambres communicantes disponibles. Les lits bébé sont fournis sur demande, et un enfant de onze ans ou moins loge en général gratuitement avec la literie existante."
+      },
+      "intro": {
+        "en": "The landmark five-star that straddles the Yas Marina Circuit, W Abu Dhabi is the one children point at, because the racetrack runs right under the hotel and many rooms look straight onto it. For families it pairs a heated family pool and a dedicated indoor Kids Zone with a separate adults-only pool for a grown-up moment, and one child usually stays free, which softens the five-star rate. It leans stylish and design-forward rather than cutesy, so it suits families with kids from about four upward who love the racing theme and the buzz of the marina at night. The parks are a short shuttle away rather than a walk, and there is a Kids Zone play space rather than a full supervised club, both worth planning around.",
+        "fr": "Cinq étoiles emblématique posé à cheval sur le circuit de Yas Marina, le W Abu Dhabi est celui que les enfants montrent du doigt, car la piste passe juste sous l'hôtel et beaucoup de chambres donnent directement dessus. Pour les familles, il associe une piscine familiale chauffée et un Kids Zone intérieur dédié à une piscine réservée aux adultes pour un moment tranquille, et un enfant loge en général gratuitement, ce qui adoucit le tarif cinq étoiles. Il joue la carte stylée et design plutôt que mignonne, il convient donc aux familles avec des enfants à partir de quatre ans environ, qui adorent le thème de la course et l'ambiance de la marina le soir. Les parcs se rejoignent en navette plutôt qu'à pied, et il y a un espace de jeux Kids Zone plutôt qu'un club encadré complet, deux points à anticiper."
+      },
+      "highlights": {
+        "en": [
+          "Rooms overlooking the Formula 1 racetrack",
+          "Heated family pool and an indoor Kids Zone",
+          "One child normally stays free on existing bedding",
+          "Marina restaurants and a lively evening scene"
+        ],
+        "fr": [
+          "Des chambres avec vue sur le circuit de Formule 1",
+          "Piscine familiale chauffée et un Kids Zone intérieur",
+          "Un enfant loge en général gratuitement avec la literie existante",
+          "Restaurants de la marina et ambiance animée le soir"
+        ]
+      },
+      "pros": {
+        "en": [
+          "The racetrack views are a genuine thrill for kids and teens",
+          "Heated family pool works even on cooler winter days",
+          "One child stays free, easing the five-star price",
+          "Strong dining and a fun marina atmosphere",
+          "Short transfers to all the parks"
+        ],
+        "fr": [
+          "La vue sur le circuit est un vrai frisson pour enfants et ados",
+          "Piscine familiale chauffée, utile même par temps frais d'hiver",
+          "Un enfant loge gratuitement, ce qui allège le tarif cinq étoiles",
+          "Bonne restauration et ambiance marina festive",
+          "Transferts courts vers tous les parcs"
+        ]
+      },
+      "cons": {
+        "en": [
+          "A stylish Kids Zone play space, not a full supervised club",
+          "It leans design and nightlife, less cosy for babies",
+          "The parks are a shuttle ride, not a walk"
+        ],
+        "fr": [
+          "Un Kids Zone design plutôt qu'un club enfants encadré complet",
+          "Orienté design et vie nocturne, moins douillet pour les bébés",
+          "Les parcs se rejoignent en navette, pas à pied"
+        ]
+      },
+      "verdict": {
+        "en": "The wow-factor choice for families with school-age children and car-mad teens: they will not forget waking up over a Formula 1 track. Ask for a room on the circuit side, and treat the Kids Zone as a play space rather than childcare.",
+        "fr": "Le choix effet waouh pour les familles avec enfants d'âge scolaire et ados passionnés de voitures: ils n'oublieront pas de se réveiller au-dessus d'un circuit de Formule 1. Demandez une chambre côté circuit, et considérez le Kids Zone comme un espace de jeux plutôt qu'une garderie."
+      },
+      "parentTip": {
+        "en": "Rooms on the track side are the whole point here, so request one at booking. The heated pool means the little ones can still swim on the few cooler winter days when other pools feel chilly.",
+        "fr": "Les chambres côté circuit sont tout l'intérêt ici, demandez-en une à la réservation. La piscine chauffée permet aux petits de nager même lors des rares journées d'hiver plus fraîches où les autres bassins semblent froids."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏎️",
+          "label": {
+            "en": "Signature",
+            "fr": "Signature"
+          },
+          "value": {
+            "en": "Rooms over the F1 circuit",
+            "fr": "Chambres au-dessus du circuit F1"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Family pool",
+            "fr": "Piscine familiale"
+          },
+          "value": {
+            "en": "Heated, plus a Kids Zone",
+            "fr": "Chauffée, plus un Kids Zone"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids stay free",
+            "fr": "Enfants gratuits"
+          },
+          "value": {
+            "en": "One child 11 or under",
+            "fr": "Un enfant de 11 ans ou moins"
+          }
+        },
+        {
+          "icon": "🎟️",
+          "label": {
+            "en": "To the parks",
+            "fr": "Vers les parcs"
+          },
+          "value": {
+            "en": "Short shuttle, not a walk",
+            "fr": "Courte navette, pas à pied"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is it suitable for babies and toddlers?",
+            "fr": "Est-ce adapté aux bébés et tout-petits?"
+          },
+          "a": {
+            "en": "It can work, with cots and a heated family pool, but it is a stylish, buzzy hotel rather than a cosy family resort and the Kids Zone is a play area, not childcare. For babies, the Hilton or a Saadiyat resort is an easier fit.",
+            "fr": "C'est possible, avec lits bébé et piscine familiale chauffée, mais c'est un hôtel design et animé plutôt qu'un resort familial douillet, et le Kids Zone est une aire de jeux, pas une garderie. Pour les bébés, le Hilton ou un resort de Saadiyat convient plus facilement."
+          }
+        },
+        {
+          "q": {
+            "en": "Can you really see the racetrack?",
+            "fr": "Voit-on vraiment le circuit?"
+          },
+          "a": {
+            "en": "Yes, the hotel sits over the Yas Marina Circuit and many rooms look directly onto it, which is the reason to book here. Request a track-view room specifically.",
+            "fr": "Oui, l'hôtel est posé sur le circuit de Yas Marina et beaucoup de chambres donnent directement dessus, c'est la raison de réserver ici. Demandez expressément une chambre avec vue sur le circuit."
+          }
+        },
+        {
+          "q": {
+            "en": "How do we get to the theme parks?",
+            "fr": "Comment rejoint-on les parcs à thème?"
+          },
+          "a": {
+            "en": "The free Yas Express shuttle and short taxis link the hotel to Ferrari World, Yas Waterworld, Warner Bros World and SeaWorld. It is a ride rather than a walk from the marina.",
+            "fr": "La navette gratuite Yas Express et de courts trajets en taxi relient l'hôtel à Ferrari World, Yas Waterworld, Warner Bros World et SeaWorld. C'est un trajet plutôt qu'une marche depuis la marina."
+          }
+        }
+      ]
+    },
+    {
+      "key": "abu-dhabi-rixos-premium-saadiyat",
+      "destinationKey": "abu-dhabi",
+      "name": "Rixos Premium Saadiyat Island",
+      "area": {
+        "en": "Saadiyat Island",
+        "fr": "Saadiyat Island"
+      },
+      "lat": 24.556,
+      "lng": 54.418,
+      "zoom": 12,
+      "address": "Rixos Premium Saadiyat Island, Saadiyat Island, Abu Dhabi, United Arab Emirates",
+      "priceTier": 4,
+      "priceFrom": 480,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "whiteResortPool",
+        "poolPalms",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 84,
+        "baby": 82,
+        "pool": 90,
+        "dining": 88,
+        "safety": 86,
+        "convenience": 74,
+        "location": 82,
+        "extras": 92
+      },
+      "roomsSummary": {
+        "en": "Large, comfortable rooms and suites, most with sea or pool views, with plenty of family-sized layouts and connecting options that suit four or five. Cots and high chairs are standard, and being all-inclusive, everything from the minibar to the ice creams is already covered.",
+        "fr": "De grandes chambres et suites confortables, la plupart avec vue mer ou piscine, avec beaucoup de configurations familiales et des communicantes pour quatre ou cinq personnes. Lits bébé et chaises hautes sont standards, et comme c'est du tout inclus, tout est déjà couvert, du minibar aux glaces."
+      },
+      "intro": {
+        "en": "Abu Dhabi's ultra all-inclusive family flagship, Rixos Premium sits on a long Saadiyat beach and simply removes the daily maths: six restaurants, six bars, ice creams, snacks and drinks are all in, so nobody counts the cost of a fourth juice. The water side is the draw for children, with a small aqua park, a wave pool and slides right next to the animated Rixy Kids Club, which runs a full daily programme for four to twelve year olds. It is a proper holiday factory that keeps kids entertained from breakfast to the evening show, and the beach is natural and turtle-nesting protected. The one honest caveat is distance: the Yas Island theme parks are a 20 to 25 minute drive away and their tickets are extra, so this is the beach-and-pool half of an Abu Dhabi trip rather than the park half.",
+        "fr": "Vaisseau amiral du tout inclus haut de gamme pour familles à Abu Dhabi, le Rixos Premium borde une longue plage de Saadiyat et supprime tout simplement les calculs quotidiens: six restaurants, six bars, glaces, snacks et boissons sont compris, personne ne compte le prix d'un quatrième jus. Le volet aquatique est l'attrait pour les enfants, avec un petit parc aquatique, une piscine à vagues et des toboggans juste à côté du Rixy Kids Club animé, qui propose un programme quotidien complet pour les quatre à douze ans. C'est une vraie usine à vacances qui occupe les enfants du petit-déjeuner au spectacle du soir, et la plage est naturelle et protégée pour la nidification des tortues. Le seul bémol honnête, c'est la distance: les parcs à thème de Yas Island sont à 20 ou 25 minutes de voiture et leurs billets sont en supplément, c'est donc la moitié plage et piscine d'un voyage à Abu Dhabi plutôt que la moitié parcs."
+      },
+      "highlights": {
+        "en": [
+          "Ultra all-inclusive, so food, drinks and snacks are all covered",
+          "Aqua park, wave pool and slides next to the kids' club",
+          "Animated Rixy Kids Club, ages 4 to 12, all day",
+          "Long natural Saadiyat beach, gently shelving"
+        ],
+        "fr": [
+          "Tout inclus haut de gamme, repas, boissons et snacks compris",
+          "Parc aquatique, piscine à vagues et toboggans près du club enfants",
+          "Rixy Kids Club animé, 4 à 12 ans, toute la journée",
+          "Longue plage naturelle de Saadiyat, à pente douce"
+        ]
+      },
+      "pros": {
+        "en": [
+          "All-inclusive removes every on-site cost decision",
+          "Water park, wave pool and slides on site for the kids",
+          "One of the best natural beaches in Abu Dhabi",
+          "Huge choice of restaurants that keeps fussy eaters happy",
+          "Family and connecting rooms are plentiful"
+        ],
+        "fr": [
+          "Le tout inclus supprime toute décision de dépense sur place",
+          "Parc aquatique, piscine à vagues et toboggans sur place pour les enfants",
+          "L'une des plus belles plages naturelles d'Abu Dhabi",
+          "Énorme choix de restaurants qui contente les enfants difficiles",
+          "Chambres familiales et communicantes en nombre"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The Yas Island parks are a 20 to 25 minute drive and tickets are extra",
+          "The premium all-inclusive rate is a real splurge",
+          "Very large and popular, so the pools get busy in peak weeks"
+        ],
+        "fr": [
+          "Les parcs de Yas Island sont à 20 ou 25 minutes de route et les billets sont en supplément",
+          "Le tarif tout inclus premium est une vraie folie budgétaire",
+          "Très grand et prisé, les piscines se remplissent en haute saison"
+        ]
+      },
+      "verdict": {
+        "en": "The best all-inclusive family beach resort in Abu Dhabi, and the one to pick if you want the beach, the water park and zero daily spending decisions. Just budget separately for park tickets and the drive if the theme parks are on the list.",
+        "fr": "Le meilleur resort de plage familial tout inclus d'Abu Dhabi, à choisir si vous voulez la plage, le parc aquatique et zéro décision de dépense au quotidien. Prévoyez simplement un budget à part pour les billets de parc et le trajet si les parcs à thème sont au programme."
+      },
+      "parentTip": {
+        "en": "Split the week: three or four days here for the beach, pools and kids' club on all-inclusive, then a couple of nights on Yas Island for the theme parks so you are not driving back and forth every day.",
+        "fr": "Découpez la semaine: trois ou quatre jours ici pour la plage, les piscines et le club enfants en tout inclus, puis deux nuits sur Yas Island pour les parcs à thème, afin de ne pas faire l'aller-retour chaque jour."
+      },
+      "atAGlance": [
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "Ultra all-inclusive",
+            "fr": "Tout inclus haut de gamme"
+          }
+        },
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Water fun",
+            "fr": "Jeux d'eau"
+          },
+          "value": {
+            "en": "Aqua park, wave pool, slides",
+            "fr": "Parc aquatique, piscine à vagues, toboggans"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Long natural Saadiyat sand",
+            "fr": "Longue plage naturelle de Saadiyat"
+          }
+        },
+        {
+          "icon": "🎟️",
+          "label": {
+            "en": "Theme parks",
+            "fr": "Parcs à thème"
+          },
+          "value": {
+            "en": "20 to 25 min drive, tickets extra",
+            "fr": "20 à 25 min de route, billets en sus"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is it far from the theme parks?",
+            "fr": "Est-ce loin des parcs à thème?"
+          },
+          "a": {
+            "en": "Yes, the Yas Island parks are a 20 to 25 minute drive from Saadiyat and their tickets are not included here. This resort is chosen for the beach, the pools and the all-inclusive, with the parks as a day trip.",
+            "fr": "Oui, les parcs de Yas Island sont à 20 ou 25 minutes de route de Saadiyat et leurs billets ne sont pas inclus ici. On choisit ce resort pour la plage, les piscines et le tout inclus, les parcs se faisant en excursion."
+          }
+        },
+        {
+          "q": {
+            "en": "What ages does the kids' club take?",
+            "fr": "Quels âges le club enfants accueille-t-il?"
+          },
+          "a": {
+            "en": "The Rixy Kids Club is built for four to twelve year olds with a full daily activity programme and an outdoor play area. Younger children are welcome with a parent, and the shallow water areas suit toddlers.",
+            "fr": "Le Rixy Kids Club est pensé pour les quatre à douze ans, avec un programme d'activités quotidien complet et une aire de jeux extérieure. Les plus jeunes sont bienvenus avec un parent, et les zones d'eau peu profondes conviennent aux tout-petits."
+          }
+        },
+        {
+          "q": {
+            "en": "Does all-inclusive really cover everything?",
+            "fr": "Le tout inclus couvre-t-il vraiment tout?"
+          },
+          "a": {
+            "en": "The board covers the restaurants, bars, snacks and ice creams across the resort, which is what makes a family week here predictable. Spa treatments and off-site trips like the parks are the main extras.",
+            "fr": "La formule couvre les restaurants, bars, snacks et glaces de tout le resort, c'est ce qui rend une semaine en famille prévisible ici. Les soins au spa et les sorties externes comme les parcs sont les principaux suppléments."
+          }
+        }
+      ]
+    },
+    {
+      "key": "abu-dhabi-saadiyat-rotana-resort-villas",
+      "destinationKey": "abu-dhabi",
+      "name": "Saadiyat Rotana Resort + Villas",
+      "area": {
+        "en": "Saadiyat Island",
+        "fr": "Saadiyat Island"
+      },
+      "lat": 24.547,
+      "lng": 54.429,
+      "zoom": 12,
+      "address": "Saadiyat Rotana Resort & Villas, Saadiyat Island, Abu Dhabi, United Arab Emirates",
+      "priceTier": 4,
+      "priceFrom": 300,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "beachSunset",
+        "poolCabanas",
+        "deckLoungersSea"
+      ],
+      "scores": {
+        "rooms": 85,
+        "baby": 88,
+        "pool": 90,
+        "dining": 82,
+        "safety": 88,
+        "convenience": 72,
+        "location": 84,
+        "extras": 88
+      },
+      "roomsSummary": {
+        "en": "Spacious rooms and standalone villas with private space, several genuinely family-sized layouts, and connecting options that give older kids their own room. Cots and high chairs are standard, and the villas suit larger families or two families travelling together.",
+        "fr": "Des chambres spacieuses et des villas indépendantes avec de l'espace privé, plusieurs configurations vraiment familiales, et des communicantes qui donnent aux plus grands leur propre chambre. Lits bébé et chaises hautes sont standards, et les villas conviennent aux grandes familles ou à deux familles qui voyagent ensemble."
+      },
+      "intro": {
+        "en": "This is the toddler and baby specialist of the Saadiyat beach resorts, thanks to a kids' club that takes children from just six months and a huge beach-entry pool with a lazy river and slides that small children can actually enjoy. It sits on the same nine-kilometre stretch of protected white-sand beach, with loungers, gentle shallows and a genuinely calm sea, and the Explorers kids' club splits into an under-fives space and an over-fives space so the little ones are not swept along with big kids. Evening childcare means parents can have a quiet dinner, which is rare and precious with a baby in tow. The trade-off is the same as its Saadiyat neighbours: the Yas Island theme parks are a 20 to 25 minute drive and tickets are extra, so this is a beach-first stay.",
+        "fr": "C'est le spécialiste des tout-petits et des bébés parmi les resorts de plage de Saadiyat, grâce à un club enfants qui accueille les enfants dès six mois et à une immense piscine à entrée progressive avec rivière lente et toboggans dont les petits profitent vraiment. Il borde la même bande de neuf kilomètres de plage de sable blanc protégée, avec transats, hauts-fonds tranquilles et une mer vraiment calme, et le club Explorers se divise en un espace pour les moins de cinq ans et un espace pour les plus de cinq ans, pour que les petits ne soient pas emportés par les grands. La garderie du soir permet aux parents de dîner tranquillement, chose rare et précieuse avec un bébé. La contrepartie est la même que chez ses voisins de Saadiyat: les parcs à thème de Yas Island sont à 20 ou 25 minutes de route et les billets sont en supplément, c'est donc un séjour axé plage."
+      },
+      "highlights": {
+        "en": [
+          "Kids' club takes children from just six months",
+          "Beach-entry pool with a lazy river and slides",
+          "Under-fives and over-fives clubs kept separate",
+          "Evening childcare so parents can dine out"
+        ],
+        "fr": [
+          "Le club enfants accueille les enfants dès six mois",
+          "Piscine à entrée progressive avec rivière lente et toboggans",
+          "Clubs moins de cinq ans et plus de cinq ans séparés",
+          "Garderie du soir pour que les parents dînent au calme"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Exceptional for babies and toddlers, from the club to the pool",
+          "Big beach-entry pool with a lazy river the little ones love",
+          "Calm, protected white-sand beach with gentle shallows",
+          "Villas and family rooms give real space",
+          "Evening childcare is a genuine rarity"
+        ],
+        "fr": [
+          "Exceptionnel pour bébés et tout-petits, du club à la piscine",
+          "Grande piscine à entrée progressive avec rivière lente adorée des petits",
+          "Plage de sable blanc calme et protégée, hauts-fonds doux",
+          "Villas et chambres familiales offrant un vrai espace",
+          "La garderie du soir est une véritable rareté"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The Yas Island parks are a 20 to 25 minute drive and tickets are extra",
+          "Quieter and more spread out than the buzzy Yas hotels",
+          "You will want taxis for anything off the island"
+        ],
+        "fr": [
+          "Les parcs de Yas Island sont à 20 ou 25 minutes de route et les billets sont en supplément",
+          "Plus calme et plus étendu que les hôtels animés de Yas",
+          "Il faudra des taxis pour tout ce qui est hors de l'île"
+        ]
+      },
+      "verdict": {
+        "en": "The pick for families with a baby or toddler: a six-month kids' club, a beach-entry pool with a lazy river, and a calm protected beach add up to the easiest Abu Dhabi week with very small children. Keep the theme parks as an optional day trip rather than the point of the stay.",
+        "fr": "Le choix pour les familles avec un bébé ou un tout-petit: un club enfants dès six mois, une piscine à entrée progressive avec rivière lente et une plage calme et protégée composent la semaine d'Abu Dhabi la plus facile avec de très jeunes enfants. Gardez les parcs à thème comme excursion optionnelle plutôt que comme cœur du séjour."
+      },
+      "parentTip": {
+        "en": "Book an early kids' club session and use the lazy river before the sun peaks, then retreat to the room for the toddler's nap and come back to the beach at golden hour when it is coolest.",
+        "fr": "Réservez une séance de club enfants tôt et profitez de la rivière lente avant le pic de soleil, puis repliez-vous en chambre pour la sieste du tout-petit et revenez à la plage à l'heure dorée, la plus fraîche."
+      },
+      "atAGlance": [
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Kids club from",
+            "fr": "Club enfants dès"
+          },
+          "value": {
+            "en": "6 months old",
+            "fr": "6 mois"
+          }
+        },
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "Beach entry, lazy river, slides",
+            "fr": "Entrée progressive, rivière lente, toboggans"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Calm protected white sand",
+            "fr": "Sable blanc calme et protégé"
+          }
+        },
+        {
+          "icon": "🌙",
+          "label": {
+            "en": "Evening care",
+            "fr": "Garde du soir"
+          },
+          "value": {
+            "en": "Available, so parents can dine",
+            "fr": "Disponible, pour que les parents dînent"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is it really good for a baby?",
+            "fr": "Est-ce vraiment bien pour un bébé?"
+          },
+          "a": {
+            "en": "Yes, it is the standout Saadiyat resort for the very youngest: the kids' club takes children from six months, the pool has a gentle beach entry, and there is evening childcare. Cots and high chairs come as standard.",
+            "fr": "Oui, c'est le resort de Saadiyat qui se démarque pour les plus jeunes: le club enfants accueille dès six mois, la piscine a une entrée en pente douce, et il y a une garderie du soir. Lits bébé et chaises hautes sont standards."
+          }
+        },
+        {
+          "q": {
+            "en": "How far are the theme parks?",
+            "fr": "À quelle distance sont les parcs à thème?"
+          },
+          "a": {
+            "en": "The Yas Island parks are a 20 to 25 minute drive and tickets are not included, so plan them as a day trip. If the parks are the main goal, a Yas Island hotel with free access is the better base.",
+            "fr": "Les parcs de Yas Island sont à 20 ou 25 minutes de route et les billets ne sont pas inclus, prévoyez-les donc en excursion. Si les parcs sont l'objectif principal, un hôtel de Yas Island avec accès gratuit est une meilleure base."
+          }
+        },
+        {
+          "q": {
+            "en": "Are the villas worth it for a family?",
+            "fr": "Les villas valent-elles le coup pour une famille?"
+          },
+          "a": {
+            "en": "For larger families or two families together, the villas give real separate space and privacy. For a standard family of four, the family rooms and connecting options are usually enough.",
+            "fr": "Pour les grandes familles ou deux familles ensemble, les villas offrent un vrai espace séparé et de l'intimité. Pour une famille classique de quatre, les chambres familiales et communicantes suffisent en général."
+          }
+        }
+      ]
+    },
+    {
+      "key": "abu-dhabi-park-hyatt-saadiyat",
+      "destinationKey": "abu-dhabi",
+      "name": "Park Hyatt Abu Dhabi Hotel + Villas",
+      "area": {
+        "en": "Saadiyat Island",
+        "fr": "Saadiyat Island"
+      },
+      "lat": 24.5545,
+      "lng": 54.4245,
+      "zoom": 12,
+      "address": "Park Hyatt Abu Dhabi Hotel & Villas, Saadiyat Beach, Saadiyat Island, Abu Dhabi, United Arab Emirates",
+      "priceTier": 4,
+      "priceFrom": 420,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "infinityPoolSea",
+        "beachSunset",
+        "villaPoolGreen"
+      ],
+      "scores": {
+        "rooms": 88,
+        "baby": 80,
+        "pool": 84,
+        "dining": 86,
+        "safety": 90,
+        "convenience": 70,
+        "location": 86,
+        "extras": 84
+      },
+      "roomsSummary": {
+        "en": "Elegant, understated rooms and villas, many steps from the sand, with villa options that have private plunge pools and space for a larger family. Cots and high chairs are provided, and connecting rooms can be arranged for families who want the children next door.",
+        "fr": "Des chambres et villas élégantes et sobres, souvent à quelques pas du sable, avec des villas dotées de piscines privées et d'espace pour une plus grande famille. Lits bébé et chaises hautes sont fournis, et les chambres communicantes peuvent s'organiser pour les familles qui veulent les enfants à côté."
+      },
+      "intro": {
+        "en": "The calm, grown-up choice on Saadiyat Beach, Park Hyatt trades waterslides for a low-key, beautiful setting on one of the region's best natural beaches, where bottlenose dolphins pass offshore and hawksbill turtles nest on the sand. For families it still delivers, with a Camp Hyatt kids' club for five to twelve year olds, four outdoor pools including a dedicated family and children's pool, and villas with private plunge pools for parents who want space and quiet. It is more refined than raucous, so it suits families who want a restful beach holiday with impeccable service rather than a splash-park frenzy, and older children and teens tend to love the watersports and the golf next door. As with all Saadiyat resorts, the Yas Island theme parks are a 20 to 25 minute drive and their tickets are extra.",
+        "fr": "Choix calme et adulte sur la plage de Saadiyat, le Park Hyatt troque les toboggans contre un cadre superbe et discret, sur l'une des plus belles plages naturelles de la région, où les grands dauphins passent au large et où les tortues imbriquées nichent sur le sable. Pour les familles, il assure quand même, avec un club enfants Camp Hyatt pour les cinq à douze ans, quatre piscines extérieures dont une piscine familiale et enfants dédiée, et des villas à piscine privée pour les parents en quête d'espace et de tranquillité. Il est plus raffiné que bruyant, il convient donc aux familles qui veulent des vacances balnéaires reposantes avec un service impeccable plutôt qu'une frénésie d'aire aquatique, et les plus grands et les ados aiment les sports nautiques et le golf voisin. Comme dans tous les resorts de Saadiyat, les parcs à thème de Yas Island sont à 20 ou 25 minutes de route et leurs billets sont en supplément."
+      },
+      "highlights": {
+        "en": [
+          "One of the best natural beaches in the region, turtle protected",
+          "Camp Hyatt kids' club for ages 5 to 12",
+          "Four pools including a family and children's pool",
+          "Villas with private plunge pools for space and quiet"
+        ],
+        "fr": [
+          "L'une des plus belles plages naturelles de la région, protégée pour les tortues",
+          "Club enfants Camp Hyatt pour les 5 à 12 ans",
+          "Quatre piscines dont une piscine familiale et enfants",
+          "Villas à piscine privée pour l'espace et le calme"
+        ]
+      },
+      "pros": {
+        "en": [
+          "A genuinely beautiful, calm beach with wildlife offshore",
+          "Impeccable service and a restful atmosphere",
+          "Family and children's pool plus a kids' club",
+          "Villas suit larger families wanting privacy",
+          "Great for watersports-loving older kids and teens"
+        ],
+        "fr": [
+          "Une plage vraiment magnifique et calme, avec de la faune au large",
+          "Un service impeccable et une atmosphère reposante",
+          "Piscine familiale et enfants, plus un club enfants",
+          "Villas adaptées aux grandes familles en quête d'intimité",
+          "Idéal pour les plus grands et ados amateurs de sports nautiques"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No waterslides or splash park, it is a calm resort by design",
+          "The Yas Island parks are a 20 to 25 minute drive, tickets extra",
+          "Several pools are adults-only, so check which are for families"
+        ],
+        "fr": [
+          "Pas de toboggans ni d'aire aquatique, c'est un resort calme par choix",
+          "Les parcs de Yas Island sont à 20 ou 25 minutes de route, billets en sus",
+          "Plusieurs piscines sont réservées aux adultes, vérifiez celles pour familles"
+        ]
+      },
+      "verdict": {
+        "en": "The refined, restful choice for families who want a beautiful beach and faultless service over a splash-park buzz, and it shines with babies who nap well and older kids who take to watersports. Choose it for the beach and the calm, and treat the theme parks as an optional day out.",
+        "fr": "Le choix raffiné et reposant pour les familles qui préfèrent une belle plage et un service irréprochable à l'agitation d'une aire aquatique, et il brille avec les bébés qui font de bonnes siestes et les plus grands qui aiment les sports nautiques. Choisissez-le pour la plage et le calme, et considérez les parcs à thème comme une sortie optionnelle."
+      },
+      "parentTip": {
+        "en": "Ask at check-in which pool is the family and children's pool, as several are adults-only, and time the beach for early morning when the turtles' nesting stretch is coolest and quietest.",
+        "fr": "Demandez à l'arrivée quelle est la piscine familiale et enfants, car plusieurs sont réservées aux adultes, et privilégiez la plage tôt le matin, quand la zone de nidification des tortues est la plus fraîche et la plus calme."
+      },
+      "atAGlance": [
+        {
+          "icon": "🐢",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Natural, turtle protected",
+            "fr": "Naturelle, protégée pour les tortues"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Camp Hyatt, ages 5 to 12",
+            "fr": "Camp Hyatt, 5 à 12 ans"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Four, one family and kids' pool",
+            "fr": "Quatre, dont une familiale et enfants"
+          }
+        },
+        {
+          "icon": "🏡",
+          "label": {
+            "en": "Villas",
+            "fr": "Villas"
+          },
+          "value": {
+            "en": "Private plunge pools",
+            "fr": "Piscines privées"
+          }
+        }
+      ],
+      "faqs": [
+        {
+          "q": {
+            "en": "Is there anything for kids beyond the beach?",
+            "fr": "Y a-t-il de quoi occuper les enfants au-delà de la plage?"
+          },
+          "a": {
+            "en": "Yes, Camp Hyatt runs supervised activities for five to twelve year olds, there is a dedicated family and children's pool, and older kids can do watersports. It is calmer than a slide-heavy resort, which some families prefer.",
+            "fr": "Oui, Camp Hyatt propose des activités encadrées pour les cinq à douze ans, il y a une piscine familiale et enfants dédiée, et les plus grands peuvent faire des sports nautiques. C'est plus calme qu'un resort à toboggans, ce que certaines familles préfèrent."
+          }
+        },
+        {
+          "q": {
+            "en": "Are some pools adults-only?",
+            "fr": "Certaines piscines sont-elles réservées aux adultes?"
+          },
+          "a": {
+            "en": "Yes, of the four outdoor pools some are adults-only, so ask which is the family and children's pool when you arrive. The beach and the family pool are where children spend the day.",
+            "fr": "Oui, parmi les quatre piscines extérieures certaines sont réservées aux adultes, demandez donc laquelle est la piscine familiale et enfants à l'arrivée. La plage et la piscine familiale sont l'endroit où les enfants passent la journée."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it worth staying here if we want the theme parks?",
+            "fr": "Vaut-il la peine d'y loger si l'on veut les parcs à thème?"
+          },
+          "a": {
+            "en": "It can be, as a calm beach base with the parks as a day trip 20 to 25 minutes away, but tickets are extra here. If the parks are the priority, a Yas Island hotel with free access saves money and driving.",
+            "fr": "Cela peut valoir le coup, comme base balnéaire calme avec les parcs en excursion à 20 ou 25 minutes, mais les billets sont en supplément ici. Si les parcs sont la priorité, un hôtel de Yas Island avec accès gratuit fait économiser argent et trajets."
+          }
+        }
+      ]
+    }
+  ],
+  "destinationMeta": {
+    "name": {
+      "en": "Abu Dhabi",
+      "fr": "Abu Dhabi"
+    },
+    "country": {
+      "en": "United Arab Emirates",
+      "fr": "Émirats arabes unis"
+    },
+    "emoji": "🎢",
+    "accent": "2a9d8f",
+    "geo": {
+      "lat": 24.47,
+      "lng": 54.6,
+      "zoom": 10
+    },
+    "heroKicker": {
+      "en": "Winter sun, world-class theme parks and big family beach resorts",
+      "fr": "Soleil d'hiver, parcs à thème de niveau mondial et grands resorts de plage familiaux"
+    },
+    "intro": {
+      "en": "Abu Dhabi is the winter-sun destination that pairs reliable warmth with the best theme parks in the region, all on one compact island. Yas Island alone stacks up Yas Waterworld, Warner Bros World, Ferrari World and SeaWorld Abu Dhabi within a free shuttle ride of each other, and most Yas hotels throw in daily park access with the room. When you want the beach instead, the Saadiyat Island resorts sit on a nine-kilometre arc of protected white sand with turtle-nesting shores and huge family pools. The calendar is the one thing to plan around: October to May is glorious and swimmable, while high summer is fierce, so winter is very much the family season. Hotels here are built for families by default, with connecting rooms, cots and endless buffets, and taxis and free shuttles mean you never need a hire car.",
+      "fr": "Abu Dhabi est la destination soleil d'hiver qui associe une chaleur fiable aux meilleurs parcs à thème de la région, le tout sur une île compacte. Yas Island réunit à elle seule Yas Waterworld, Warner Bros World, Ferrari World et SeaWorld Abu Dhabi, tous reliés par une navette gratuite, et la plupart des hôtels de Yas incluent l'accès quotidien aux parcs avec la chambre. Quand on préfère la plage, les resorts de Saadiyat Island bordent un arc de neuf kilomètres de sable blanc protégé, avec des rivages de nidification de tortues et d'immenses piscines familiales. Le seul point à anticiper, c'est le calendrier: d'octobre à mai c'est splendide et baignable, tandis que le plein été est écrasant, l'hiver est donc vraiment la saison des familles. Les hôtels ici sont pensés pour les familles par défaut, avec chambres communicantes, lits bébé et buffets à volonté, et les taxis et navettes gratuites rendent la voiture de location inutile."
+    },
+    "whyKids": {
+      "en": [
+        "Four big theme parks on Yas Island: Yas Waterworld, Warner Bros World, Ferrari World and SeaWorld Abu Dhabi",
+        "Most Yas Island hotels include free daily park access with the room",
+        "Long protected white-sand beaches and huge family pools on Saadiyat Island",
+        "Reliable winter warmth and a swimmable sea from October to May",
+        "A free shuttle links the hotels, parks, mall and beach, so no hire car needed"
+      ],
+      "fr": [
+        "Quatre grands parcs à thème sur Yas Island: Yas Waterworld, Warner Bros World, Ferrari World et SeaWorld Abu Dhabi",
+        "La plupart des hôtels de Yas Island incluent l'accès quotidien gratuit aux parcs avec la chambre",
+        "Longues plages de sable blanc protégées et immenses piscines familiales sur Saadiyat Island",
+        "Une chaleur d'hiver fiable et une mer baignable d'octobre à mai",
+        "Une navette gratuite relie hôtels, parcs, centre commercial et plage, sans voiture de location"
+      ]
+    },
+    "bestAreas": {
+      "en": [
+        "Yas Island: home of the four theme parks, with park-side hotels you can walk from and a free shuttle linking the rest",
+        "Saadiyat Island: the beach half of Abu Dhabi, protected white sand and big family beach resorts, about 25 minutes from the parks",
+        "The Corniche: the city seafront with a public beach, playgrounds and family hotels, handy for sightseeing rather than parks"
+      ],
+      "fr": [
+        "Yas Island: le fief des quatre parcs à thème, avec des hôtels côté parc accessibles à pied et une navette gratuite pour le reste",
+        "Saadiyat Island: la moitié plage d'Abu Dhabi, sable blanc protégé et grands resorts de plage familiaux, à environ 25 minutes des parcs",
+        "La Corniche: le front de mer de la ville avec plage publique, aires de jeux et hôtels familiaux, pratique pour visiter plutôt que pour les parcs"
+      ]
+    },
+    "goodToKnow": {
+      "en": "The family season is winter: October to May brings warm days and a swimmable sea, while summer heat from June to September is fierce and really only works as an indoor and hotel-pool holiday. The flight from western Europe is about six to seven hours, short enough for a first long-haul with children. Theme park tickets are a real cost to budget for, though most Yas Island hotels include free daily access, which the Saadiyat beach resorts do not. Local customs are easy to respect: dress modestly in malls and public spaces, alcohol is served only in licensed hotel venues, and during Ramadan daytime hours shift, although hotels carry on as usual. Sun protection matters more than you expect even in winter, and taxis do not carry child seats, so bring a travel booster if you use one.",
+      "fr": "La saison des familles, c'est l'hiver: d'octobre à mai, journées chaudes et mer baignable, tandis que la chaleur de l'été de juin à septembre est écrasante et ne fonctionne vraiment qu'en version intérieur et piscine d'hôtel. Le vol depuis l'Europe de l'Ouest dure environ six à sept heures, assez court pour un premier long-courrier avec des enfants. Les billets des parcs à thème sont un vrai poste de budget, même si la plupart des hôtels de Yas Island incluent l'accès quotidien gratuit, ce que ne font pas les resorts de plage de Saadiyat. Les usages locaux sont faciles à respecter: tenue couvrante dans les centres commerciaux et l'espace public, alcool servi uniquement dans les établissements hôteliers licenciés, et pendant le ramadan les horaires de journée changent, même si les hôtels fonctionnent normalement. La protection solaire compte plus qu'on ne le croit, même en hiver, et les taxis ne fournissent pas de siège enfant: prévoyez un réhausseur de voyage si vous en utilisez un."
+    },
+    "parentTip": {
+      "en": "Split the trip in two: a few nights on Yas Island for the theme parks, where park access usually comes free with the room and you can walk to the rides, then a few nights on a Saadiyat beach for the pools, sand and downtime. It saves the daily drive and gives you both halves of Abu Dhabi.",
+      "fr": "Découpez le voyage en deux: quelques nuits sur Yas Island pour les parcs à thème, où l'accès est en général gratuit avec la chambre et où l'on rejoint les manèges à pied, puis quelques nuits sur une plage de Saadiyat pour les piscines, le sable et le repos. On évite le trajet quotidien et on profite des deux facettes d'Abu Dhabi."
+    },
+    "photos": [
+      "infinityPoolSea",
+      "beachSunset",
+      "poolPalms"
+    ]
+  }
+}

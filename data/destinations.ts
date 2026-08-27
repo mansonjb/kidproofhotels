@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META, COSTA_ALMERIA_META, PUNTA_CANA_META, FRENCH_ALPS_META, MAR_MENOR_META, NAXOS_PAROS_META, COSTA_NAVARINO_META, MARSA_ALAM_META, HAMMAMET_META, RIVIERA_MAYA_META, KEFALONIA_META, RIMINI_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META, COSTA_ALMERIA_META, PUNTA_CANA_META, FRENCH_ALPS_META, MAR_MENOR_META, NAXOS_PAROS_META, COSTA_NAVARINO_META, MARSA_ALAM_META, HAMMAMET_META, RIVIERA_MAYA_META, KEFALONIA_META, RIMINI_META, BELEK_META, ABU_DHABI_META, DISNEYLAND_PARIS_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -108,6 +108,9 @@ const HMT = (HAMMAMET_META ?? {}) as any;
 const RVM = (RIVIERA_MAYA_META ?? {}) as any;
 const KEF = (KEFALONIA_META ?? {}) as any;
 const RIM = (RIMINI_META ?? {}) as any;
+const BLK = (BELEK_META ?? {}) as any;
+const AUH = (ABU_DHABI_META ?? {}) as any;
+const DLP = (DISNEYLAND_PARIS_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -2123,6 +2126,81 @@ export const DESTINATIONS: Destination[] = src([
     faqs: RIM.faqs,
     parentTip: RIM.parentTip,
     goodToKnow: RIM.goodToKnow,
+  },
+  {
+    key: "belek",
+    name: BLK.name ?? { en: "Belek", fr: "Belek" },
+    country: BLK.country ?? { en: "Turkey", fr: "Turquie" },
+    inPhrase: { en: "in Belek", fr: "à Belek" },
+    slug: { en: "family-hotels-belek", fr: "hotels-famille-belek" },
+    geo: BLK.geo ?? { lat: 36.86, lng: 31.06, zoom: 11 },
+    heroKicker: BLK.heroKicker ?? {
+      en: "Mega all-inclusive family resorts with giant aquaparks and free kids clubs",
+      fr: "Des méga-resorts all-inclusive famille avec aquaparcs géants et clubs enfants gratuits",
+    },
+    intro: BLK.intro ?? { en: "", fr: "" },
+    whyKids: BLK.whyKids ?? { en: [], fr: [] },
+    bestAreas: BLK.bestAreas ?? { en: [], fr: [] },
+    emoji: BLK.emoji ?? "🏖️",
+    accent: BLK.accent ?? "ff9d1c",
+    hotelKeys: [],
+    related: ["antalya", "bodrum", "guide-allinclusive-europe"],
+    photos: BLK.photos,
+    stats: BLK.stats,
+    activities: BLK.activities,
+    faqs: BLK.faqs,
+    parentTip: BLK.parentTip,
+    goodToKnow: BLK.goodToKnow,
+  },
+  {
+    key: "abu-dhabi",
+    name: AUH.name ?? { en: "Abu Dhabi", fr: "Abu Dhabi" },
+    country: AUH.country ?? { en: "United Arab Emirates", fr: "Émirats arabes unis" },
+    inPhrase: { en: "in Abu Dhabi", fr: "à Abu Dhabi" },
+    slug: { en: "family-hotels-abu-dhabi", fr: "hotels-famille-abu-dhabi" },
+    geo: AUH.geo ?? { lat: 24.47, lng: 54.6, zoom: 10 },
+    heroKicker: AUH.heroKicker ?? {
+      en: "Winter sun, world-class theme parks on Yas Island, and big family beach resorts",
+      fr: "Soleil d'hiver, parcs à thème de classe mondiale sur Yas Island et grands resorts plage famille",
+    },
+    intro: AUH.intro ?? { en: "", fr: "" },
+    whyKids: AUH.whyKids ?? { en: [], fr: [] },
+    bestAreas: AUH.bestAreas ?? { en: [], fr: [] },
+    emoji: AUH.emoji ?? "🎢",
+    accent: AUH.accent ?? "185fa5",
+    hotelKeys: [],
+    related: ["dubai", "guide-winter-sun-2027", "guide-waterslide-hotels"],
+    photos: AUH.photos,
+    stats: AUH.stats,
+    activities: AUH.activities,
+    faqs: AUH.faqs,
+    parentTip: AUH.parentTip,
+    goodToKnow: AUH.goodToKnow,
+  },
+  {
+    key: "disneyland-paris",
+    name: DLP.name ?? { en: "Disneyland Paris", fr: "Disneyland Paris" },
+    country: DLP.country ?? { en: "France", fr: "France" },
+    inPhrase: { en: "near Disneyland Paris", fr: "près de Disneyland Paris" },
+    slug: { en: "family-hotels-disneyland-paris", fr: "hotels-famille-disneyland-paris" },
+    geo: DLP.geo ?? { lat: 48.87, lng: 2.78, zoom: 12 },
+    heroKicker: DLP.heroKicker ?? {
+      en: "Where to stay for a Disneyland Paris trip: on-site Disney hotels vs cheaper partners",
+      fr: "Où loger pour Disneyland Paris : hôtels Disney sur place ou partenaires moins chers",
+    },
+    intro: DLP.intro ?? { en: "", fr: "" },
+    whyKids: DLP.whyKids ?? { en: [], fr: [] },
+    bestAreas: DLP.bestAreas ?? { en: [], fr: [] },
+    emoji: DLP.emoji ?? "🏰",
+    accent: DLP.accent ?? "534ab7",
+    hotelKeys: [],
+    related: ["french-riviera", "guide-family-summer-2027", "guide-allinclusive-europe"],
+    photos: DLP.photos,
+    stats: DLP.stats,
+    activities: DLP.activities,
+    faqs: DLP.faqs,
+    parentTip: DLP.parentTip,
+    goodToKnow: DLP.goodToKnow,
   },
 ]);
 
