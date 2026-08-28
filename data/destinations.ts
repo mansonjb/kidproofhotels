@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META, COSTA_ALMERIA_META, PUNTA_CANA_META, FRENCH_ALPS_META, MAR_MENOR_META, NAXOS_PAROS_META, COSTA_NAVARINO_META, MARSA_ALAM_META, HAMMAMET_META, RIVIERA_MAYA_META, KEFALONIA_META, RIMINI_META, BELEK_META, ABU_DHABI_META, DISNEYLAND_PARIS_META, ALULA_META, JEDDAH_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META, COSTA_ALMERIA_META, PUNTA_CANA_META, FRENCH_ALPS_META, MAR_MENOR_META, NAXOS_PAROS_META, COSTA_NAVARINO_META, MARSA_ALAM_META, HAMMAMET_META, RIVIERA_MAYA_META, KEFALONIA_META, RIMINI_META, BELEK_META, ABU_DHABI_META, DISNEYLAND_PARIS_META, ALULA_META, JEDDAH_META, MALDIVES_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -113,6 +113,7 @@ const AUH = (ABU_DHABI_META ?? {}) as any;
 const DLP = (DISNEYLAND_PARIS_META ?? {}) as any;
 const ALU = (ALULA_META ?? {}) as any;
 const JED = (JEDDAH_META ?? {}) as any;
+const MDV = (MALDIVES_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -2253,6 +2254,31 @@ export const DESTINATIONS: Destination[] = src([
     faqs: JED.faqs,
     parentTip: JED.parentTip,
     goodToKnow: JED.goodToKnow,
+  },
+  {
+    key: "maldives",
+    name: MDV.name ?? { en: "Maldives", fr: "Maldives" },
+    country: MDV.country ?? { en: "Maldives", fr: "Maldives" },
+    inPhrase: { en: "in the Maldives", fr: "aux Maldives" },
+    slug: { en: "family-hotels-maldives", fr: "hotels-famille-maldives" },
+    geo: MDV.geo ?? { lat: 3.2028, lng: 73.2207, zoom: 7 },
+    heroKicker: MDV.heroKicker ?? {
+      en: "Family islands with kids clubs and villas, honestly picked (no adults-only)",
+      fr: "Des îles familles avec clubs enfants et villas, choisies honnêtement (aucun adults-only)",
+    },
+    intro: MDV.intro ?? { en: "", fr: "" },
+    whyKids: MDV.whyKids ?? { en: [], fr: [] },
+    bestAreas: MDV.bestAreas ?? { en: [], fr: [] },
+    emoji: MDV.emoji ?? "🏝️",
+    accent: MDV.accent ?? "17a2b8",
+    hotelKeys: [],
+    related: ["mauritius", "dubai", "reunion"],
+    photos: MDV.photos,
+    stats: MDV.stats,
+    activities: MDV.activities,
+    faqs: MDV.faqs,
+    parentTip: MDV.parentTip,
+    goodToKnow: MDV.goodToKnow,
   },
 ]);
 

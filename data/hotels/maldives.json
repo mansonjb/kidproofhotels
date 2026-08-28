@@ -1,0 +1,2643 @@
+{
+  "hotels": [
+    {
+      "key": "maldives-kurumba-maldives",
+      "destinationKey": "maldives",
+      "name": "Kurumba Maldives",
+      "area": {
+        "en": "North Male Atoll",
+        "fr": "Atoll de Male Nord"
+      },
+      "lat": 4.2361,
+      "lng": 73.5136,
+      "zoom": 13,
+      "address": "Kurumba Maldives, Vihamanaafushi, North Male Atoll, Maldives",
+      "priceTier": 3,
+      "priceFrom": 480,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "overwater",
+        "poolPalms",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 84,
+        "baby": 86,
+        "pool": 85,
+        "dining": 90,
+        "safety": 84,
+        "convenience": 92,
+        "location": 90,
+        "extras": 88
+      },
+      "roomsSummary": {
+        "en": "The Maldives' first-ever resort, and still one of the easiest for families thanks to a huge range of rooms. Deluxe Bungalows and Superior Rooms sleep a family of three or four, while the 306 sqm Family Villa with a private pool and two bedrooms is the pick for a toddler who naps. Cots come free on request, and beach-facing rooms keep the calm lagoon a few steps from the door.",
+        "fr": "Le tout premier resort des Maldives, et toujours l'un des plus simples pour les familles grace a une vraie variete de chambres. Les Deluxe Bungalows et les Superior Rooms logent une famille de trois ou quatre, tandis que la Family Villa de 306 m2 avec piscine privee et deux chambres reste le meilleur choix pour un tout-petit qui fait la sieste. Les lits bebe sont gratuits sur demande, et les chambres face plage gardent le lagon calme a quelques pas de la porte."
+      },
+      "intro": {
+        "en": "Kurumba is the island that made the Maldives famous, and it remains a smart first Maldives with young children. It sits just a ten-minute speedboat from the airport, which means no seaplane wait and no hot transfer with a baby on your lap. Eight restaurants, a genuinely free kids club and a calm swimming lagoon make it feel more like a small town than a one-restaurant island. It is polished rather than blingy, and that steadiness is exactly what tired parents want.",
+        "fr": "Kurumba, c'est l'ile qui a rendu les Maldives celebres, et elle reste un excellent premier sejour aux Maldives avec de jeunes enfants. Elle se trouve a seulement dix minutes de bateau rapide de l'aeroport, donc pas d'attente d'hydravion ni de transfert brulant avec un bebe sur les genoux. Huit restaurants, un club enfants vraiment gratuit et un lagon de baignade calme lui donnent des airs de petite ville plutot que d'ile a un seul restaurant. Le style est soigne plutot que tape-a-l'oeil, et cette stabilite est precisement ce que recherchent des parents fatigues."
+      },
+      "highlights": {
+        "en": [
+          "Ten-minute speedboat, no seaplane needed",
+          "Free Majaa Kids Club for ages 4 to 13",
+          "Eight restaurants, easy for picky eaters",
+          "Two-bedroom Family Villa with private pool"
+        ],
+        "fr": [
+          "Bateau rapide en dix minutes, sans hydravion",
+          "Majaa Kids Club gratuit de 4 a 13 ans",
+          "Huit restaurants, pratique pour les difficiles",
+          "Family Villa deux chambres avec piscine privee"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Fastest, calmest transfer of any Maldives resort",
+          "Loads of dining choice for fussy kids",
+          "Free kids club with marine biology and fish feeding",
+          "Shallow, sheltered swimming lagoon"
+        ],
+        "fr": [
+          "Le transfert le plus rapide et le plus calme des Maldives",
+          "Beaucoup de choix de restaurants pour les enfants difficiles",
+          "Club enfants gratuit avec biologie marine et nourrissage des poissons",
+          "Lagon de baignade peu profond et abrite"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Close to the airport, so the odd plane is visible or audible",
+          "Not a barefoot castaway island, it is busy and polished",
+          "Full-board and drinks add up quickly here as everywhere in the Maldives"
+        ],
+        "fr": [
+          "Proche de l'aeroport, on apercoit ou entend parfois un avion",
+          "Pas une ile deserte les pieds nus, c'est anime et soigne",
+          "La pension complete et les boissons montent vite, ici comme partout aux Maldives"
+        ]
+      },
+      "verdict": {
+        "en": "The safest bet for a first Maldives with a baby or toddler: quick transfer, real dining choice and a free kids club, all on a calm lagoon.",
+        "fr": "Le pari le plus sur pour un premier sejour aux Maldives avec un bebe ou un tout-petit : transfert rapide, vrai choix de restaurants et club enfants gratuit, le tout sur un lagon calme."
+      },
+      "parentTip": {
+        "en": "Ask for a beach room near the kids club rather than an overwater villa: with a toddler you want sand underfoot and no ladder over deep water.",
+        "fr": "Demandez une chambre plage pres du club enfants plutot qu'une villa sur pilotis : avec un tout-petit, on veut du sable sous les pieds et pas d'echelle au-dessus d'une eau profonde."
+      },
+      "atAGlance": [
+        {
+          "icon": "🚤",
+          "label": {
+            "en": "Transfer",
+            "fr": "Transfert"
+          },
+          "value": {
+            "en": "10-min speedboat, day or night",
+            "fr": "Bateau rapide 10 min, jour ou nuit"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free Majaa Club, ages 4 to 13",
+            "fr": "Majaa Club gratuit, 4 a 13 ans"
+          }
+        },
+        {
+          "icon": "🏡",
+          "label": {
+            "en": "Best family room",
+            "fr": "Meilleure chambre famille"
+          },
+          "value": {
+            "en": "Two-bedroom Family Villa with pool",
+            "fr": "Family Villa deux chambres avec piscine"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "Half-board or all-inclusive",
+            "fr": "Demi-pension ou tout inclus"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🐠",
+          "name": {
+            "en": "House reef snorkelling",
+            "fr": "Snorkeling au recif maison"
+          },
+          "detail": {
+            "en": "Slip in from the beach to spot reef fish and turtles in shallow, clear water.",
+            "fr": "Depuis la plage, glissez-vous a l'eau pour observer poissons de recif et tortues dans une eau claire et peu profonde."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🐟",
+          "name": {
+            "en": "Kids club fish feeding",
+            "fr": "Nourrissage des poissons au club"
+          },
+          "detail": {
+            "en": "A daily favourite where little ones feed the lagoon fish under supervision.",
+            "fr": "Un incontournable quotidien ou les petits nourrissent les poissons du lagon, encadres."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Apres-midi"
+          }
+        },
+        {
+          "emoji": "🐬",
+          "name": {
+            "en": "Sunset dolphin cruise",
+            "fr": "Croisiere dauphins au coucher"
+          },
+          "detail": {
+            "en": "A short boat trip to watch spinner dolphins as the sky turns pink.",
+            "fr": "Une courte sortie en bateau pour observer les dauphins tandis que le ciel rosit."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soir"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast by the lagoon",
+            "fr": "Petit-dejeuner au bord du lagon"
+          },
+          "note": {
+            "en": "A big buffet with fruit, eggs and pastries before the heat builds.",
+            "fr": "Un grand buffet avec fruits, oeufs et viennoiseries avant que la chaleur ne monte."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Kids club drop-in",
+            "fr": "Passage au club enfants"
+          },
+          "note": {
+            "en": "Marine biology and crafts while the little ones make friends.",
+            "fr": "Biologie marine et bricolage pendant que les petits se font des copains."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch then lagoon dip",
+            "fr": "Dejeuner puis baignade au lagon"
+          },
+          "note": {
+            "en": "Pick one of several restaurants, then a paddle in the calm shallows.",
+            "fr": "Choisissez parmi plusieurs restaurants, puis barbotez dans les hauts-fonds calmes."
+          }
+        },
+        {
+          "time": "18:00",
+          "title": {
+            "en": "Dolphin cruise",
+            "fr": "Croisiere dauphins"
+          },
+          "note": {
+            "en": "Head out for sunset spinners before an early dinner.",
+            "fr": "Sortez pour les dauphins au coucher avant un diner tot."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "The quick speedboat and free cots make this one of the least stressful Maldives islands for a baby.",
+          "fr": "Le bateau rapide et les lits bebe gratuits en font l'une des iles maldiviennes les moins stressantes avec un bebe."
+        },
+        "toddler": {
+          "en": "The calm lagoon and a beach villa near the club suit toddlers who nap and paddle in equal measure.",
+          "fr": "Le lagon calme et une villa plage pres du club conviennent aux tout-petits qui alternent siestes et baignades."
+        },
+        "kid": {
+          "en": "The sweet spot: the Majaa Club, snorkelling and fish feeding fill every day.",
+          "fr": "L'age ideal : le Majaa Club, le snorkeling et le nourrissage des poissons remplissent chaque journee."
+        },
+        "teen": {
+          "en": "Diving, a proper spa and eight restaurants give teens plenty of room to roam.",
+          "fr": "La plongee, un vrai spa et huit restaurants laissent aux ados de quoi s'occuper."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the kids club free?",
+            "fr": "Le club enfants est-il gratuit?"
+          },
+          "a": {
+            "en": "Yes, the Majaa Kids Club is complimentary for ages 4 to 13, with supervised activities through the day.",
+            "fr": "Oui, le Majaa Kids Club est gratuit de 4 a 13 ans, avec des activites encadrees toute la journee."
+          }
+        },
+        {
+          "q": {
+            "en": "Do we need a seaplane?",
+            "fr": "Faut-il un hydravion?"
+          },
+          "a": {
+            "en": "No. Kurumba is a ten-minute speedboat from the airport, so you can arrive at any hour, which is a big plus with babies.",
+            "fr": "Non. Kurumba est a dix minutes de bateau rapide de l'aeroport, donc vous pouvez arriver a toute heure, un vrai atout avec un bebe."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it good for a toddler who naps?",
+            "fr": "Est-ce adapte a un tout-petit qui fait la sieste?"
+          },
+          "a": {
+            "en": "Yes, especially in a two-bedroom Family Villa, so you are not trapped in the dark while the little one sleeps.",
+            "fr": "Oui, surtout en Family Villa deux chambres, pour ne pas rester dans le noir pendant que le petit dort."
+          }
+        }
+      ]
+    },
+    {
+      "key": "maldives-bandos-maldives",
+      "destinationKey": "maldives",
+      "name": "Bandos Maldives",
+      "area": {
+        "en": "North Male Atoll",
+        "fr": "Atoll de Male Nord"
+      },
+      "lat": 4.2758,
+      "lng": 73.4936,
+      "zoom": 13,
+      "address": "Bandos Maldives, Bandos Island, North Male Atoll, Maldives",
+      "priceTier": 3,
+      "priceFrom": 320,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "beachSunset",
+        "deckLoungersSea",
+        "poolPalms"
+      ],
+      "scores": {
+        "rooms": 78,
+        "baby": 84,
+        "pool": 82,
+        "dining": 80,
+        "safety": 85,
+        "convenience": 93,
+        "location": 88,
+        "extras": 82
+      },
+      "roomsSummary": {
+        "en": "Bandos is one of the best-value family islands, with everything from simple Standard Rooms to Family Rooms and beachfront residences. Family Rooms sleep four and sit a short walk from the two children's pools, and children under twelve stay free when sharing with parents. Cots are provided free, and ground-floor beach rooms mean no stairs with a pushchair.",
+        "fr": "Bandos est l'une des iles familiales au meilleur rapport qualite-prix, avec un eventail allant des Standard Rooms simples aux Family Rooms et residences en bord de plage. Les Family Rooms logent quatre personnes a deux pas des deux piscines enfants, et les moins de douze ans sont gratuits en partageant avec les parents. Les lits bebe sont fournis gratuitement, et les chambres plage de plain-pied evitent les escaliers avec une poussette."
+      },
+      "intro": {
+        "en": "Bandos is the sensible, friendly, no-fuss family island, and it is astonishingly close to the airport at just eight minutes by speedboat. The Kokko Kids Club is free and open all day, there are two dedicated children's pools, and kids under twelve stay for free, which softens the famous Maldives price tag. It is not the newest or the flashiest island, but it is relaxed, green and genuinely built around families. For a first Maldives on a sensible budget, it is hard to beat.",
+        "fr": "Bandos, c'est l'ile familiale raisonnable, chaleureuse et sans chichi, et elle est etonnamment proche de l'aeroport, a seulement huit minutes de bateau rapide. Le Kokko Kids Club est gratuit et ouvert toute la journee, il y a deux piscines dediees aux enfants, et les moins de douze ans sont gratuits, ce qui adoucit la note maldivienne bien connue. Ce n'est ni l'ile la plus recente ni la plus tape-a-l'oeil, mais elle est detendue, verdoyante et vraiment pensee pour les familles. Pour un premier sejour aux Maldives avec un budget raisonnable, difficile de faire mieux."
+      },
+      "highlights": {
+        "en": [
+          "Eight-minute speedboat from the airport",
+          "Free Kokko Kids Club, ages 3 to 11",
+          "Two dedicated children's pools",
+          "Under-twelves stay free with parents"
+        ],
+        "fr": [
+          "Bateau rapide en huit minutes de l'aeroport",
+          "Kokko Kids Club gratuit, 3 a 11 ans",
+          "Deux piscines dediees aux enfants",
+          "Moins de douze ans gratuits avec les parents"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Excellent value for the Maldives",
+          "One of the shortest transfers in the country",
+          "Free kids club and two kids' pools",
+          "Green, leafy island with a lovely house reef"
+        ],
+        "fr": [
+          "Excellent rapport qualite-prix pour les Maldives",
+          "L'un des transferts les plus courts du pays",
+          "Club enfants gratuit et deux piscines enfants",
+          "Ile verdoyante avec un beau recif maison"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Rooms are comfortable rather than designer",
+          "Popular with day-trippers and dive groups, so it can feel busy",
+          "Very close to Male, so it does not feel remote"
+        ],
+        "fr": [
+          "Chambres confortables plutot que design",
+          "Frequentee par des visiteurs a la journee et des groupes de plongee, donc parfois animee",
+          "Tres proche de Male, l'ile ne parait pas isolee"
+        ]
+      },
+      "verdict": {
+        "en": "The value champion for families: a tiny transfer, a free kids club and two children's pools, with under-twelves staying free.",
+        "fr": "Le champion du rapport qualite-prix pour les familles : transfert minuscule, club enfants gratuit et deux piscines enfants, avec les moins de douze ans gratuits."
+      },
+      "parentTip": {
+        "en": "Book a Family Room near the children's pools rather than a far beach villa, so nap-time dashes back to the room take two minutes, not fifteen.",
+        "fr": "Reservez une Family Room pres des piscines enfants plutot qu'une villa plage eloignee, pour que les allers-retours de la sieste prennent deux minutes et non quinze."
+      },
+      "atAGlance": [
+        {
+          "icon": "🚤",
+          "label": {
+            "en": "Transfer",
+            "fr": "Transfert"
+          },
+          "value": {
+            "en": "8-min speedboat, any time",
+            "fr": "Bateau rapide 8 min, a toute heure"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free Kokko Club, ages 3 to 11",
+            "fr": "Kokko Club gratuit, 3 a 11 ans"
+          }
+        },
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Under-12s",
+            "fr": "Moins de 12 ans"
+          },
+          "value": {
+            "en": "Stay free sharing with parents",
+            "fr": "Gratuits en partageant avec les parents"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Two children's pools on site",
+            "fr": "Deux piscines enfants sur place"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🐠",
+          "name": {
+            "en": "House reef snorkelling",
+            "fr": "Snorkeling au recif maison"
+          },
+          "detail": {
+            "en": "Bandos has one of the closest, healthiest house reefs in North Male, right off the beach.",
+            "fr": "Bandos possede l'un des recifs maison les plus proches et les plus sains de Male Nord, juste au bord de la plage."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🎨",
+          "name": {
+            "en": "Kids club crafts",
+            "fr": "Bricolage au club enfants"
+          },
+          "detail": {
+            "en": "Arts, cooking lessons and treasure hunts fill the free daily programme.",
+            "fr": "Bricolage, ateliers cuisine et chasses au tresor remplissent le programme quotidien gratuit."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Apres-midi"
+          }
+        },
+        {
+          "emoji": "🚣",
+          "name": {
+            "en": "Family sandbank trip",
+            "fr": "Sortie banc de sable en famille"
+          },
+          "detail": {
+            "en": "A short boat ride to a bare sandbank for a picnic and shallow paddling.",
+            "fr": "Une courte sortie en bateau vers un banc de sable nu pour un pique-nique et une baignade peu profonde."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Midday",
+            "fr": "Midi"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Beach breakfast",
+            "fr": "Petit-dejeuner sur la plage"
+          },
+          "note": {
+            "en": "Fuel up early before the sun gets high.",
+            "fr": "Faites le plein tot avant que le soleil ne monte."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "House reef snorkel",
+            "fr": "Snorkeling au recif"
+          },
+          "note": {
+            "en": "The reef is calmest and clearest first thing.",
+            "fr": "Le recif est le plus calme et le plus clair en tout debut de journee."
+          }
+        },
+        {
+          "time": "11:00",
+          "title": {
+            "en": "Kids club and pool",
+            "fr": "Club enfants et piscine"
+          },
+          "note": {
+            "en": "Drop the kids at Kokko while you claim a lounger.",
+            "fr": "Deposez les enfants au Kokko pendant que vous prenez un transat."
+          }
+        },
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Sandbank picnic",
+            "fr": "Pique-nique banc de sable"
+          },
+          "note": {
+            "en": "Boat out for shallow water and a family swim.",
+            "fr": "Sortie en bateau pour de l'eau peu profonde et une baignade en famille."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "The eight-minute transfer and free cots make arrival painless, and the beach shelves gently for first paddles.",
+          "fr": "Le transfert de huit minutes et les lits bebe gratuits rendent l'arrivee facile, et la plage descend en pente douce pour les premieres baignades."
+        },
+        "toddler": {
+          "en": "Two children's pools and a calm lagoon are ideal, and the flat, leafy island is easy with a pushchair.",
+          "fr": "Les deux piscines enfants et le lagon calme sont ideaux, et l'ile plate et verdoyante se parcourt facilement en poussette."
+        },
+        "kid": {
+          "en": "The free club, the house reef and daily treasure hunts keep this age busy from morning to night.",
+          "fr": "Le club gratuit, le recif maison et les chasses au tresor quotidiennes occupent cet age du matin au soir."
+        },
+        "teen": {
+          "en": "A well-known dive centre and a nearby surf break give older teens a reason to get in the water.",
+          "fr": "Un centre de plongee reconnu et un spot de surf voisin donnent aux grands ados une raison de se mettre a l'eau."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Do children really stay free?",
+            "fr": "Les enfants sont-ils vraiment gratuits?"
+          },
+          "a": {
+            "en": "Children under twelve stay free sharing their parents' room, though meal plans and transfers may still be charged, so confirm at booking.",
+            "fr": "Les moins de douze ans logent gratuitement dans la chambre des parents, mais la pension et les transferts peuvent rester factures, a confirmer a la reservation."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the kids club free?",
+            "fr": "Le club enfants est-il gratuit?"
+          },
+          "a": {
+            "en": "Yes, the Kokko Kids Club is free for ages 3 to 11 and runs from morning to late afternoon.",
+            "fr": "Oui, le Kokko Kids Club est gratuit de 3 a 11 ans et fonctionne du matin a la fin d'apres-midi."
+          }
+        },
+        {
+          "q": {
+            "en": "Is Bandos too close to the airport to feel like the Maldives?",
+            "fr": "Bandos est-elle trop proche de l'aeroport pour ressembler aux Maldives?"
+          },
+          "a": {
+            "en": "It is close, but the house reef, white sand and turquoise lagoon are the real thing, and the short transfer is a genuine gift with young kids.",
+            "fr": "Elle est proche, mais le recif maison, le sable blanc et le lagon turquoise sont bien reels, et le court transfert est un vrai cadeau avec de jeunes enfants."
+          }
+        }
+      ]
+    },
+    {
+      "key": "maldives-hard-rock-hotel-maldives",
+      "destinationKey": "maldives",
+      "name": "Hard Rock Hotel Maldives",
+      "area": {
+        "en": "South Male Atoll (Crossroads)",
+        "fr": "Atoll de Male Sud (Crossroads)"
+      },
+      "lat": 4.1758,
+      "lng": 73.5219,
+      "zoom": 13,
+      "address": "Hard Rock Hotel Maldives, CROSSROADS, Emboodhoo Lagoon, South Male Atoll, Maldives",
+      "priceTier": 3,
+      "priceFrom": 470,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "infinityPoolSea",
+        "whiteResortPool",
+        "overwater"
+      ],
+      "scores": {
+        "rooms": 84,
+        "baby": 82,
+        "pool": 88,
+        "dining": 88,
+        "safety": 83,
+        "convenience": 90,
+        "location": 88,
+        "extras": 92
+      },
+      "roomsSummary": {
+        "en": "Rooms and villas are bright and playful, and the two-bedroom Silver Family Suite is the star for families: it comes with bunk beds for the kids and direct beach access. Standard rooms and overwater villas suit smaller families, while the family suites handle four to six with ease. Cots are free, and babysitting is available from seven months if you fancy a grown-up dinner.",
+        "fr": "Chambres et villas sont lumineuses et ludiques, et la Silver Family Suite deux chambres est la vedette pour les familles : elle offre des lits superposes pour les enfants et un acces direct a la plage. Les chambres standard et les villas sur pilotis conviennent aux petites familles, tandis que les family suites accueillent quatre a six personnes sans peine. Les lits bebe sont gratuits, et un service de garde est disponible des sept mois si vous souhaitez un diner entre adultes."
+      },
+      "intro": {
+        "en": "This is the Maldives with the volume turned up, and kids love it. Hard Rock sits on the Crossroads development, the only spot in the country where you can walk to a marina full of restaurants, shops and a Marine Discovery Centre without a boat. Transfer is a simple fifteen to twenty-minute shared speedboat, the Roxity Kids Club is free for ages 3 to 11 and a Teen Spirit club covers the tricky 12 to 17 bracket. If your family wants buzz, music and things to do beyond the beach, this is the one.",
+        "fr": "Voici les Maldives avec le volume monte, et les enfants adorent. Le Hard Rock se trouve sur le complexe Crossroads, le seul endroit du pays ou l'on peut rejoindre a pied une marina pleine de restaurants, de boutiques et d'un centre de decouverte marine sans prendre de bateau. Le transfert est un simple bateau rapide partage de quinze a vingt minutes, le Roxity Kids Club est gratuit de 3 a 11 ans et un club Teen Spirit couvre la tranche delicate des 12 a 17 ans. Si votre famille veut de l'animation, de la musique et des activites au-dela de la plage, c'est celle-la."
+      },
+      "highlights": {
+        "en": [
+          "Walkable marina with a dozen restaurants and shops",
+          "Free Roxity Kids Club, ages 3 to 11",
+          "Teen Spirit club for ages 12 to 17",
+          "Two-bedroom Silver Family Suite with bunk beds"
+        ],
+        "fr": [
+          "Marina accessible a pied avec une douzaine de restaurants et boutiques",
+          "Roxity Kids Club gratuit, 3 a 11 ans",
+          "Club Teen Spirit pour les 12 a 17 ans",
+          "Silver Family Suite deux chambres avec lits superposes"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Rare Maldives resort with somewhere to walk to",
+          "Genuinely great for teens, not just little kids",
+          "Short shared speedboat, no seaplane fuss",
+          "Marine Discovery Centre and turtle programme on the doorstep"
+        ],
+        "fr": [
+          "Rare resort maldivien avec un endroit ou aller a pied",
+          "Vraiment adapte aux ados, pas seulement aux petits",
+          "Court bateau rapide partage, sans souci d'hydravion",
+          "Centre de decouverte marine et programme tortues juste a cote"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Livelier and less serene than a classic castaway island",
+          "The buzz and music are the point, not a fit for a quiet week",
+          "Overwater villas have ladders straight into deep water, not ideal with a toddler"
+        ],
+        "fr": [
+          "Plus anime et moins serein qu'une ile deserte classique",
+          "L'animation et la musique sont le concept, pas ideal pour une semaine au calme",
+          "Les villas sur pilotis ont des echelles plongeant dans une eau profonde, peu adaptees a un tout-petit"
+        ]
+      },
+      "verdict": {
+        "en": "The best Maldives for families who want energy, teen appeal and somewhere to stroll, with a free kids club and an easy speedboat transfer.",
+        "fr": "Les meilleures Maldives pour les familles qui veulent de l'energie, de quoi seduire les ados et un endroit ou flaner, avec un club enfants gratuit et un transfert facile en bateau rapide."
+      },
+      "parentTip": {
+        "en": "With a toddler, choose a beach room over an overwater villa, then use the marina boardwalk for evening buggy strolls when the little one will not settle.",
+        "fr": "Avec un tout-petit, choisissez une chambre plage plutot qu'une villa sur pilotis, puis profitez de la promenade de la marina pour des balades en poussette le soir quand le petit ne s'endort pas."
+      },
+      "atAGlance": [
+        {
+          "icon": "🚤",
+          "label": {
+            "en": "Transfer",
+            "fr": "Transfert"
+          },
+          "value": {
+            "en": "15 to 20-min shared speedboat",
+            "fr": "Bateau rapide partage 15 a 20 min"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids and teens",
+            "fr": "Enfants et ados"
+          },
+          "value": {
+            "en": "Free Roxity 3 to 11, Teen Spirit 12 to 17",
+            "fr": "Roxity gratuit 3 a 11, Teen Spirit 12 a 17"
+          }
+        },
+        {
+          "icon": "🏝️",
+          "label": {
+            "en": "Marina",
+            "fr": "Marina"
+          },
+          "value": {
+            "en": "Walk to restaurants, shops and shows",
+            "fr": "Restaurants, boutiques et spectacles a pied"
+          }
+        },
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Best family room",
+            "fr": "Meilleure chambre famille"
+          },
+          "value": {
+            "en": "Silver Family Suite with bunk beds",
+            "fr": "Silver Family Suite avec lits superposes"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🐢",
+          "name": {
+            "en": "Marine Discovery Centre",
+            "fr": "Centre de decouverte marine"
+          },
+          "detail": {
+            "en": "A short walk away, with a turtle rehabilitation programme kids can visit.",
+            "fr": "A quelques pas, avec un programme de rehabilitation des tortues que les enfants peuvent visiter."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Anytime",
+            "fr": "A toute heure"
+          }
+        },
+        {
+          "emoji": "🎸",
+          "name": {
+            "en": "Roxity music sessions",
+            "fr": "Sessions musique Roxity"
+          },
+          "detail": {
+            "en": "Music-themed play, from drum time to mini gigs, keeps the club buzzing.",
+            "fr": "Des jeux sur le theme de la musique, des ateliers percussions aux mini concerts, animent le club."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Apres-midi"
+          }
+        },
+        {
+          "emoji": "🐠",
+          "name": {
+            "en": "Lagoon snorkelling",
+            "fr": "Snorkeling dans le lagon"
+          },
+          "detail": {
+            "en": "Guided reef snorkels leave from the beach for confident swimmers.",
+            "fr": "Des sorties snorkeling encadrees partent de la plage pour les bons nageurs."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast then beach",
+            "fr": "Petit-dejeuner puis plage"
+          },
+          "note": {
+            "en": "A big buffet before the pool opens up.",
+            "fr": "Un grand buffet avant l'ouverture de la piscine."
+          }
+        },
+        {
+          "time": "10:30",
+          "title": {
+            "en": "Kids club or Teen Spirit",
+            "fr": "Club enfants ou Teen Spirit"
+          },
+          "note": {
+            "en": "Split the ages so everyone is happy.",
+            "fr": "Repartissez selon les ages pour que chacun soit content."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Marina lunch",
+            "fr": "Dejeuner a la marina"
+          },
+          "note": {
+            "en": "Walk over to Crossroads and pick from a dozen spots.",
+            "fr": "Rejoignez Crossroads a pied et choisissez parmi une douzaine d'adresses."
+          }
+        },
+        {
+          "time": "17:30",
+          "title": {
+            "en": "Turtle centre visit",
+            "fr": "Visite du centre des tortues"
+          },
+          "note": {
+            "en": "See the rescue tanks before an early dinner.",
+            "fr": "Voyez les bassins de sauvetage avant un diner tot."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Doable thanks to the short speedboat and babysitting from seven months, though the energy suits older kids more.",
+          "fr": "Faisable grace au court bateau rapide et a la garde des sept mois, meme si l'ambiance convient davantage aux plus grands."
+        },
+        "toddler": {
+          "en": "Stick to a beach room, use the kids' pool, and the flat boardwalks make pushchair life easy.",
+          "fr": "Restez en chambre plage, profitez de la piscine enfants, et les promenades plates facilitent la vie en poussette."
+        },
+        "kid": {
+          "en": "This is a dream for this age: the free club, the marina and the turtle centre never run dry.",
+          "fr": "Un reve pour cet age : le club gratuit, la marina et le centre des tortues ne s'epuisent jamais."
+        },
+        "teen": {
+          "en": "The Teen Spirit club, water sports and a real marina to explore make it one of the best Maldives islands for teenagers.",
+          "fr": "Le club Teen Spirit, les sports nautiques et une vraie marina a explorer en font l'une des meilleures iles maldiviennes pour les adolescents."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "What makes Crossroads different?",
+            "fr": "Qu'est-ce qui rend Crossroads different?"
+          },
+          "a": {
+            "en": "It is the only place in the Maldives where you can walk to a marina of restaurants, shops and a Marine Discovery Centre, so you are not stuck on one island.",
+            "fr": "C'est le seul endroit des Maldives ou l'on peut rejoindre a pied une marina de restaurants, boutiques et un centre de decouverte marine, donc on n'est pas coince sur une seule ile."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there anything for teenagers?",
+            "fr": "Y a-t-il quelque chose pour les adolescents?"
+          },
+          "a": {
+            "en": "Yes, the Teen Spirit club covers ages 12 to 17, plus water sports and the marina, which is rare in the Maldives.",
+            "fr": "Oui, le club Teen Spirit couvre les 12 a 17 ans, avec les sports nautiques et la marina, ce qui est rare aux Maldives."
+          }
+        },
+        {
+          "q": {
+            "en": "How do we get there?",
+            "fr": "Comment y arrive-t-on?"
+          },
+          "a": {
+            "en": "A shared speedboat of about fifteen to twenty minutes from the airport, usually timed to your flight, so no seaplane and no long wait.",
+            "fr": "Un bateau rapide partage d'environ quinze a vingt minutes depuis l'aeroport, en general cale sur votre vol, donc pas d'hydravion ni longue attente."
+          }
+        }
+      ]
+    },
+    {
+      "key": "maldives-sun-siyam-olhuveli",
+      "destinationKey": "maldives",
+      "name": "Sun Siyam Olhuveli",
+      "area": {
+        "en": "South Male Atoll",
+        "fr": "Atoll de Male Sud"
+      },
+      "lat": 3.9331,
+      "lng": 73.4586,
+      "zoom": 13,
+      "address": "Sun Siyam Olhuveli, Olhuveli Island, South Male Atoll, Maldives",
+      "priceTier": 3,
+      "priceFrom": 380,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "overwater",
+        "poolPalms",
+        "deckLoungersSea"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 82,
+        "pool": 86,
+        "dining": 82,
+        "safety": 84,
+        "convenience": 82,
+        "location": 86,
+        "extras": 85
+      },
+      "roomsSummary": {
+        "en": "Set across three linked islands, Olhuveli has a wide choice of rooms, from Beach Villas to Deluxe Water Villas. For families, the Beach Villas and Family rooms sit close to the children's pool and the kids club, while two children can stay and eat free up to age fifteen when sharing with parents. Cots are provided, and the beach-access rooms are the easy pick over the overwater villas for anyone with a toddler.",
+        "fr": "Repartie sur trois iles reliees, Olhuveli offre un large choix de chambres, des Beach Villas aux Deluxe Water Villas. Pour les familles, les Beach Villas et les chambres familiales sont proches de la piscine enfants et du club, tandis que deux enfants jusqu'a quinze ans logent et mangent gratuitement en partageant avec les parents. Les lits bebe sont fournis, et les chambres avec acces plage restent le choix simple face aux villas sur pilotis pour qui voyage avec un tout-petit."
+      },
+      "intro": {
+        "en": "Olhuveli is the family island that keeps the maths simple: two kids up to fifteen stay and eat free, and the Maakaana kids club is free too. It spreads across three connected islands in South Male, with three pools including one for children and a long, shallow, wade-forever lagoon that toddlers adore. The forty-five-minute speedboat means no seaplane, and the water sports centre is one of the liveliest in the country. It is relaxed, generous and refreshingly unfussy about children.",
+        "fr": "Olhuveli est l'ile familiale qui garde les comptes simples : deux enfants jusqu'a quinze ans logent et mangent gratuitement, et le club enfants Maakaana est gratuit aussi. Elle s'etend sur trois iles reliees au sud de Male, avec trois piscines dont une pour les enfants et un long lagon peu profond, ideal pour patauger longtemps, que les tout-petits adorent. Le bateau rapide de quarante-cinq minutes evite l'hydravion, et le centre de sports nautiques est l'un des plus animes du pays. C'est detendu, genereux et agreablement simple avec les enfants."
+      },
+      "highlights": {
+        "en": [
+          "Two kids up to 15 stay and eat free",
+          "Free Maakaana kids club",
+          "Three pools including a children's pool",
+          "Long, shallow lagoon perfect for toddlers"
+        ],
+        "fr": [
+          "Deux enfants jusqu'a 15 ans logent et mangent gratuitement",
+          "Club enfants Maakaana gratuit",
+          "Trois piscines dont une pour enfants",
+          "Long lagon peu profond parfait pour les tout-petits"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Generous kids-stay-and-eat-free policy softens the cost",
+          "Speedboat transfer, no seaplane required",
+          "Excellent shallow lagoon for little paddlers",
+          "Big water sports centre for older kids and teens"
+        ],
+        "fr": [
+          "Politique genereuse enfants gratuits qui adoucit la note",
+          "Transfert en bateau rapide, pas d'hydravion",
+          "Excellent lagon peu profond pour les petits baigneurs",
+          "Grand centre de sports nautiques pour les plus grands et les ados"
+        ]
+      },
+      "cons": {
+        "en": [
+          "A large, spread-out resort, so it can feel busy in peak season",
+          "Rooms are comfortable rather than boutique",
+          "The forty-five-minute boat can be choppy for a nervous toddler"
+        ],
+        "fr": [
+          "Un grand resort etendu, qui peut sembler anime en haute saison",
+          "Chambres confortables plutot que boutique",
+          "Le bateau de quarante-cinq minutes peut secouer un tout-petit anxieux"
+        ]
+      },
+      "verdict": {
+        "en": "A generous, easy family island where two kids stay and eat free and the shallow lagoon does half the entertaining for you.",
+        "fr": "Une ile familiale genereuse et facile ou deux enfants logent et mangent gratuitement, et ou le lagon peu profond assure la moitie de l'animation a votre place."
+      },
+      "parentTip": {
+        "en": "The lagoon side is calmer and shallower than the ocean side: ask for a beach villa on the lagoon so your toddler can wade out safely for metres.",
+        "fr": "Le cote lagon est plus calme et moins profond que le cote ocean : demandez une villa plage cote lagon pour que votre tout-petit puisse avancer dans l'eau en toute securite sur plusieurs metres."
+      },
+      "atAGlance": [
+        {
+          "icon": "🚤",
+          "label": {
+            "en": "Transfer",
+            "fr": "Transfert"
+          },
+          "value": {
+            "en": "45-min speedboat from the airport",
+            "fr": "Bateau rapide 45 min de l'aeroport"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free Maakaana Kidz",
+            "fr": "Maakaana Kidz gratuit"
+          }
+        },
+        {
+          "icon": "👨‍👩‍👧",
+          "label": {
+            "en": "Kids free",
+            "fr": "Enfants gratuits"
+          },
+          "value": {
+            "en": "Two kids up to 15 stay and eat free",
+            "fr": "Deux enfants jusqu'a 15 ans loges et nourris"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Three pools including one for children",
+            "fr": "Trois piscines dont une pour enfants"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🐢",
+          "name": {
+            "en": "Family fun boat trip",
+            "fr": "Sortie bateau en famille"
+          },
+          "detail": {
+            "en": "A speedboat outing to spot turtles, dolphins and mantas, plus a sandbank stop.",
+            "fr": "Une sortie en bateau rapide pour observer tortues, dauphins et raies mantas, avec un arret sur un banc de sable."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Midday",
+            "fr": "Midi"
+          }
+        },
+        {
+          "emoji": "🌊",
+          "name": {
+            "en": "Shallow lagoon paddle",
+            "fr": "Baignade dans le lagon peu profond"
+          },
+          "detail": {
+            "en": "The vast, waist-deep lagoon is the safest natural playground for little ones.",
+            "fr": "Le vaste lagon a hauteur de taille est le terrain de jeu naturel le plus sur pour les petits."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Anytime",
+            "fr": "A toute heure"
+          }
+        },
+        {
+          "emoji": "🏄",
+          "name": {
+            "en": "Water sports taster",
+            "fr": "Initiation aux sports nautiques"
+          },
+          "detail": {
+            "en": "Kayaks, paddleboards and banana rides at the busy sports centre.",
+            "fr": "Kayaks, paddles et bouees banane au centre de sports anime."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Apres-midi"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Buffet breakfast",
+            "fr": "Petit-dejeuner buffet"
+          },
+          "note": {
+            "en": "Plenty of kid-friendly options to start the day.",
+            "fr": "De nombreuses options adaptees aux enfants pour bien demarrer."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Lagoon paddle",
+            "fr": "Baignade au lagon"
+          },
+          "note": {
+            "en": "Wade out on the calm lagoon side while it is cooler.",
+            "fr": "Avancez dans l'eau cote lagon, au calme, tant qu'il fait plus frais."
+          }
+        },
+        {
+          "time": "12:30",
+          "title": {
+            "en": "Lunch then kids club",
+            "fr": "Dejeuner puis club enfants"
+          },
+          "note": {
+            "en": "Free Maakaana session while you rest.",
+            "fr": "Session Maakaana gratuite pendant que vous vous reposez."
+          }
+        },
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Family boat trip",
+            "fr": "Sortie bateau en famille"
+          },
+          "note": {
+            "en": "Turtles, dolphins and a sandbank stop.",
+            "fr": "Tortues, dauphins et arret sur un banc de sable."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "The shallow lagoon and speedboat transfer work for babies, though the size of the resort means a fair bit of walking.",
+          "fr": "Le lagon peu profond et le transfert en bateau rapide conviennent aux bebes, meme si la taille du resort implique pas mal de marche."
+        },
+        "toddler": {
+          "en": "This is toddler heaven: metre after metre of warm, waist-deep water and a children's pool close to the beach villas.",
+          "fr": "Le paradis des tout-petits : des metres et des metres d'eau chaude a hauteur de taille et une piscine enfants pres des villas plage."
+        },
+        "kid": {
+          "en": "The free club, the sandbank trips and the water sports centre keep this age going all day.",
+          "fr": "Le club gratuit, les sorties banc de sable et le centre de sports nautiques occupent cet age toute la journee."
+        },
+        "teen": {
+          "en": "A lively water sports scene and a dive centre give teens plenty to do beyond the pool.",
+          "fr": "Une scene de sports nautiques animee et un centre de plongee donnent aux ados de quoi faire au-dela de la piscine."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the kids-free policy genuine?",
+            "fr": "La gratuite enfants est-elle reelle?"
+          },
+          "a": {
+            "en": "Yes, up to two children under fifteen stay and eat free when sharing with two adults, though transfers may still be charged for children.",
+            "fr": "Oui, jusqu'a deux enfants de moins de quinze ans logent et mangent gratuitement en partageant avec deux adultes, mais les transferts peuvent rester factures pour les enfants."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the lagoon safe for a toddler?",
+            "fr": "Le lagon est-il sur pour un tout-petit?"
+          },
+          "a": {
+            "en": "The lagoon side is famously shallow and calm, ideal for wading, but always supervise closely as depth changes near the reef edge.",
+            "fr": "Le cote lagon est reconnu pour etre peu profond et calme, ideal pour patauger, mais surveillez toujours de pres car la profondeur change pres du bord du recif."
+          }
+        },
+        {
+          "q": {
+            "en": "Seaplane or speedboat?",
+            "fr": "Hydravion ou bateau rapide?"
+          },
+          "a": {
+            "en": "Speedboat, about forty-five minutes, so you can arrive at any hour without waiting for a daylight seaplane slot.",
+            "fr": "Bateau rapide, environ quarante-cinq minutes, donc vous arrivez a toute heure sans attendre un creneau d'hydravion de jour."
+          }
+        }
+      ]
+    },
+    {
+      "key": "maldives-kuramathi-island-resort",
+      "destinationKey": "maldives",
+      "name": "Kuramathi Island Resort",
+      "area": {
+        "en": "Rasdhoo Atoll",
+        "fr": "Atoll de Rasdhoo"
+      },
+      "lat": 4.2733,
+      "lng": 72.9722,
+      "zoom": 13,
+      "address": "Kuramathi Maldives, Kuramathi Island, Rasdhoo Atoll, Maldives",
+      "priceTier": 3,
+      "priceFrom": 360,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "beachSunset",
+        "overwater",
+        "villaModern"
+      ],
+      "scores": {
+        "rooms": 82,
+        "baby": 80,
+        "pool": 84,
+        "dining": 86,
+        "safety": 84,
+        "convenience": 78,
+        "location": 88,
+        "extras": 86
+      },
+      "roomsSummary": {
+        "en": "Kuramathi is a long, green natural island with a big spread of rooms, from Beach Villas to Pool Villas and family-sized units. Beach Villas near the Bageecha Kids Club are the practical family pick, with calm lagoon beaches a step away and cots provided free. The famous sandbank at the tip of the island is a short stroll, and toddler-friendly dining takes the stress out of mealtimes.",
+        "fr": "Kuramathi est une longue ile naturelle et verdoyante avec un large choix de chambres, des Beach Villas aux Pool Villas et aux unites familiales. Les Beach Villas pres du Bageecha Kids Club sont le choix pratique pour les familles, avec des plages de lagon calmes a deux pas et des lits bebe fournis gratuitement. Le celebre banc de sable a la pointe de l'ile est a courte distance a pied, et une restauration adaptee aux tout-petits enleve le stress des repas."
+      },
+      "intro": {
+        "en": "Kuramathi is one of the great all-round family islands, a lush, walkable strip in Rasdhoo Atoll with a legendary natural sandbank that grows and shrinks with the tide. The Bageecha Kids Club takes ages 3 to 12 and welcomes under-fours with a parent or babysitter, so even the littlest travellers have a base. You can reach it by a scenic twenty-minute seaplane or a longer speedboat, and once there the calm lagoons, shaded playgrounds and easy dining make days flow. It manages the rare trick of pleasing couples and families at once.",
+        "fr": "Kuramathi est l'une des grandes iles familiales polyvalentes, une bande verdoyante et parcourable a pied dans l'atoll de Rasdhoo, avec un banc de sable naturel legendaire qui grandit et retrecit au rythme des marees. Le Bageecha Kids Club accueille les 3 a 12 ans et prend les moins de quatre ans avec un parent ou une nounou, si bien que meme les plus petits ont leur repere. On y accede par un hydravion panoramique de vingt minutes ou un bateau rapide plus long, et une fois sur place, les lagons calmes, les aires de jeux ombragees et la restauration facile font couler les journees. Elle reussit le rare exploit de plaire aux couples et aux familles a la fois."
+      },
+      "highlights": {
+        "en": [
+          "Legendary natural sandbank on the island tip",
+          "Bageecha Kids Club, ages 3 to 12, under-4s welcome supervised",
+          "Lush, walkable island with shaded playgrounds",
+          "Choice of scenic seaplane or speedboat transfer"
+        ],
+        "fr": [
+          "Banc de sable naturel legendaire a la pointe de l'ile",
+          "Bageecha Kids Club, 3 a 12 ans, moins de 4 ans admis encadres",
+          "Ile verdoyante et parcourable a pied avec aires de jeux ombragees",
+          "Choix entre hydravion panoramique et bateau rapide"
+        ]
+      },
+      "pros": {
+        "en": [
+          "One of the best natural sandbanks in the Maldives",
+          "Kids club takes under-fours with supervision",
+          "Great dining variety across the island",
+          "Calm lagoon beaches on both sides"
+        ],
+        "fr": [
+          "L'un des plus beaux bancs de sable naturels des Maldives",
+          "Le club enfants accueille les moins de quatre ans encadres",
+          "Belle variete de restaurants sur l'ile",
+          "Plages de lagon calmes des deux cotes"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The speedboat option is long at 75 to 90 minutes and not always calm",
+          "A big island means plenty of walking between facilities",
+          "Seaplane transfers run in daylight only, so late flights mean a night near the airport"
+        ],
+        "fr": [
+          "L'option bateau rapide est longue, 75 a 90 minutes, et pas toujours calme",
+          "Une grande ile implique beaucoup de marche entre les installations",
+          "Les hydravions ne volent que de jour, donc un vol tardif impose une nuit pres de l'aeroport"
+        ]
+      },
+      "verdict": {
+        "en": "A lush, well-rounded family island with a jaw-dropping sandbank and a kids club that welcomes even under-fours.",
+        "fr": "Une ile familiale verdoyante et complete avec un banc de sable a couper le souffle et un club enfants qui accueille meme les moins de quatre ans."
+      },
+      "parentTip": {
+        "en": "Walk the sandbank at low tide early in the morning: it is at its widest and quietest, and the shallow water is warm and safe for little ones.",
+        "fr": "Parcourez le banc de sable a maree basse tot le matin : il est a son maximum et au calme, et l'eau peu profonde est chaude et sure pour les petits."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛩️",
+          "label": {
+            "en": "Transfer",
+            "fr": "Transfert"
+          },
+          "value": {
+            "en": "20-min seaplane or 75 to 90-min speedboat",
+            "fr": "Hydravion 20 min ou bateau rapide 75 a 90 min"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free Bageecha, 3 to 12, under-4s supervised",
+            "fr": "Bageecha gratuit, 3 a 12, moins de 4 ans encadres"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Sandbank",
+            "fr": "Banc de sable"
+          },
+          "value": {
+            "en": "Natural sandbank at the island tip",
+            "fr": "Banc de sable naturel a la pointe de l'ile"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "Half-board or all-inclusive",
+            "fr": "Demi-pension ou tout inclus"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Sandbank picnic",
+            "fr": "Pique-nique sur le banc de sable"
+          },
+          "detail": {
+            "en": "Walk to the natural sandbank for shallow paddling and castle building.",
+            "fr": "Marchez jusqu'au banc de sable naturel pour patauger et construire des chateaux."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🐠",
+          "name": {
+            "en": "House reef snorkel",
+            "fr": "Snorkeling au recif maison"
+          },
+          "detail": {
+            "en": "One of Rasdhoo's healthy reefs sits just off the beach for older swimmers.",
+            "fr": "L'un des recifs preserves de Rasdhoo se trouve juste au bord de la plage pour les nageurs confirmes."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Apres-midi"
+          }
+        },
+        {
+          "emoji": "🔬",
+          "name": {
+            "en": "Marine biology session",
+            "fr": "Atelier de biologie marine"
+          },
+          "detail": {
+            "en": "The kids club runs reef and turtle talks that little scientists love.",
+            "fr": "Le club enfants propose des ateliers sur les recifs et les tortues que les petits scientifiques adorent."
+          },
+          "ages": [
+            "kid"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Apres-midi"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "7:30",
+          "title": {
+            "en": "Sandbank at low tide",
+            "fr": "Banc de sable a maree basse"
+          },
+          "note": {
+            "en": "Beat the heat and the crowds on the widest sand.",
+            "fr": "Devancez la chaleur et le monde sur le sable le plus large."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Breakfast back at base",
+            "fr": "Petit-dejeuner de retour"
+          },
+          "note": {
+            "en": "Refuel before the kids club opens.",
+            "fr": "Refaites le plein avant l'ouverture du club enfants."
+          }
+        },
+        {
+          "time": "11:00",
+          "title": {
+            "en": "Bageecha kids club",
+            "fr": "Club enfants Bageecha"
+          },
+          "note": {
+            "en": "Crafts and marine talks while you find a lounger.",
+            "fr": "Bricolage et ateliers marins pendant que vous trouvez un transat."
+          }
+        },
+        {
+          "time": "16:30",
+          "title": {
+            "en": "House reef snorkel",
+            "fr": "Snorkeling au recif"
+          },
+          "note": {
+            "en": "Cooler water and calmer light for spotting fish.",
+            "fr": "Eau plus fraiche et lumiere plus douce pour reperer les poissons."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Doable, with free cots and a kids club that takes under-fours with a parent, but factor in the transfer length either way.",
+          "fr": "Faisable, avec des lits bebe gratuits et un club qui prend les moins de quatre ans avec un parent, mais tenez compte de la duree du transfert dans les deux cas."
+        },
+        "toddler": {
+          "en": "The sandbank and shallow lagoons are ideal, and toddler-friendly dining smooths out mealtimes.",
+          "fr": "Le banc de sable et les lagons peu profonds sont ideaux, et une restauration adaptee simplifie les repas."
+        },
+        "kid": {
+          "en": "The sweet spot: sandbank days, the free club and marine biology sessions fill the week.",
+          "fr": "L'age ideal : journees sur le banc de sable, club gratuit et ateliers de biologie marine remplissent la semaine."
+        },
+        "teen": {
+          "en": "Diving, snorkelling and a spa give teens their own thing while the island stays low-key.",
+          "fr": "Plongee, snorkeling et spa donnent aux ados leur propre espace tandis que l'ile reste tranquille."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Can we bring a baby to the kids club?",
+            "fr": "Peut-on emmener un bebe au club enfants?"
+          },
+          "a": {
+            "en": "The Bageecha club is for ages 3 to 12, but it welcomes under-fours with a parent or a paid babysitter, so younger children are not shut out.",
+            "fr": "Le club Bageecha est pour les 3 a 12 ans, mais il accueille les moins de quatre ans avec un parent ou une nounou payante, donc les plus jeunes ne sont pas exclus."
+          }
+        },
+        {
+          "q": {
+            "en": "Should we take the seaplane or the speedboat?",
+            "fr": "Faut-il prendre l'hydravion ou le bateau rapide?"
+          },
+          "a": {
+            "en": "The seaplane is a scenic twenty minutes but daylight only, while the speedboat is 75 to 90 minutes and can be bumpy, so weigh flight times against sea legs.",
+            "fr": "L'hydravion offre vingt minutes panoramiques mais seulement de jour, tandis que le bateau rapide dure 75 a 90 minutes et peut secouer, a arbitrer selon les horaires de vol et le mal de mer."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the sandbank always there?",
+            "fr": "Le banc de sable est-il toujours la?"
+          },
+          "a": {
+            "en": "It is a natural feature that shifts with the tide, largest at low tide, which is when it is best for little ones to wade and play.",
+            "fr": "C'est un element naturel qui bouge avec la maree, le plus grand a maree basse, moment ideal pour que les petits pataugent et jouent."
+          }
+        }
+      ]
+    },
+    {
+      "key": "maldives-kuredu-island-resort",
+      "destinationKey": "maldives",
+      "name": "Kuredu Island Resort & Spa",
+      "area": {
+        "en": "Lhaviyani Atoll",
+        "fr": "Atoll de Lhaviyani"
+      },
+      "lat": 5.5525,
+      "lng": 73.4661,
+      "zoom": 13,
+      "address": "Kuredu Island Resort & Spa, Kuredu Island, Lhaviyani Atoll, Maldives",
+      "priceTier": 3,
+      "priceFrom": 300,
+      "ages": [
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "deckLoungersSea",
+        "beachSunset",
+        "poolPalms"
+      ],
+      "scores": {
+        "rooms": 76,
+        "baby": 72,
+        "pool": 80,
+        "dining": 82,
+        "safety": 82,
+        "convenience": 74,
+        "location": 86,
+        "extras": 88
+      },
+      "roomsSummary": {
+        "en": "Kuredu is a big, lively, activity-packed island with a wide, good-value spread of rooms, from Beach Bungalows to Pool Villas and larger family units. The family-friendly beach rooms sit near the sparkling new kids club and the children's pool, and cots are provided on request. It is a sprawling island, so ask for a room central to the kids club and main restaurant to keep walks short with little legs.",
+        "fr": "Kuredu est une grande ile animee et bourree d'activites, avec un large choix de chambres au bon rapport qualite-prix, des Beach Bungalows aux Pool Villas et aux unites familiales plus grandes. Les chambres plage familiales sont proches du tout nouveau club enfants et de la piscine pour enfants, et des lits bebe sont fournis sur demande. C'est une ile etendue, alors demandez une chambre centrale, pres du club et du restaurant principal, pour raccourcir les trajets avec de petites jambes."
+      },
+      "intro": {
+        "en": "Kuredu is the Maldives as an all-inclusive activity island, and families with kids from toddler age up love the range on offer. There is a brand-new kids club with a pirate ship, ball pit and climbing wall, a children's pool, a golf course, world-class diving and a genuinely relaxed, unstuffy feel. It sits in Lhaviyani Atoll, reached by a forty-minute seaplane or a domestic flight plus speedboat, so it is more of a commitment than the airport islands. For active families who want lots to do at a fair price, it delivers.",
+        "fr": "Kuredu, ce sont les Maldives version ile d'activites en tout inclus, et les familles avec enfants a partir de l'age tout-petit adorent l'eventail propose. On y trouve un tout nouveau club enfants avec bateau pirate, piscine a balles et mur d'escalade, une piscine pour enfants, un parcours de golf, une plongee de classe mondiale et une atmosphere vraiment detendue et sans pretention. Elle se situe dans l'atoll de Lhaviyani, accessible par un hydravion de quarante minutes ou un vol interieur suivi d'un bateau rapide, ce qui represente plus d'engagement que les iles proches de l'aeroport. Pour les familles actives qui veulent beaucoup a faire a prix juste, elle tient ses promesses."
+      },
+      "highlights": {
+        "en": [
+          "Brand-new kids club with pirate ship and ball pit",
+          "Children's pool and shaded play garden",
+          "World-class diving and a six-hole golf course",
+          "Good-value all-inclusive across a big island"
+        ],
+        "fr": [
+          "Tout nouveau club enfants avec bateau pirate et piscine a balles",
+          "Piscine enfants et jardin de jeux ombrage",
+          "Plongee de classe mondiale et parcours de golf six trous",
+          "Tout inclus au bon rapport qualite-prix sur une grande ile"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Excellent, recently rebuilt kids club",
+          "Huge range of activities for active families",
+          "Strong value for the Maldives",
+          "Wonderful house reef and dive sites"
+        ],
+        "fr": [
+          "Excellent club enfants recemment reconstruit",
+          "Immense choix d'activites pour les familles actives",
+          "Tres bon rapport qualite-prix pour les Maldives",
+          "Recif maison et sites de plongee superbes"
+        ]
+      },
+      "cons": {
+        "en": [
+          "A long transfer, forty-minute seaplane or a domestic flight plus boat",
+          "Very large and spread out, so expect a lot of walking",
+          "Lively and busy rather than a quiet romantic hideaway, and less ideal for a young baby"
+        ],
+        "fr": [
+          "Un long transfert, hydravion de quarante minutes ou vol interieur plus bateau",
+          "Tres grande et etendue, prevoyez beaucoup de marche",
+          "Animee et frequentee plutot qu'un refuge romantique tranquille, et moins ideale pour un jeune bebe"
+        ]
+      },
+      "verdict": {
+        "en": "A big, fun, fair-priced activity island with a superb new kids club, best for families whose youngest is at least a toddler.",
+        "fr": "Une grande ile d'activites, amusante et bien tarifee, avec un superbe nouveau club enfants, ideale pour les familles dont le plus jeune est au moins tout-petit."
+      },
+      "parentTip": {
+        "en": "Book a room in the central beach cluster near the kids club and main restaurant: Kuredu is huge, and you will not want a fifteen-minute walk at nap time.",
+        "fr": "Reservez une chambre dans le groupe central de plages, pres du club enfants et du restaurant principal : Kuredu est immense, et vous ne voudrez pas d'une marche de quinze minutes a l'heure de la sieste."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛩️",
+          "label": {
+            "en": "Transfer",
+            "fr": "Transfert"
+          },
+          "value": {
+            "en": "40-min seaplane or domestic flight plus boat",
+            "fr": "Hydravion 40 min ou vol interieur plus bateau"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free, brand-new, pirate ship and ball pit",
+            "fr": "Gratuit, tout neuf, bateau pirate et piscine a balles"
+          }
+        },
+        {
+          "icon": "🤿",
+          "label": {
+            "en": "Activities",
+            "fr": "Activites"
+          },
+          "value": {
+            "en": "Diving, golf, water sports on site",
+            "fr": "Plongee, golf, sports nautiques sur place"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "All-inclusive options",
+            "fr": "Formules tout inclus"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏴‍☠️",
+          "name": {
+            "en": "Pirate-ship kids club",
+            "fr": "Club enfants bateau pirate"
+          },
+          "detail": {
+            "en": "The rebuilt club has a climbing wall, ball pit and cinema screen for movie nights.",
+            "fr": "Le club reconstruit dispose d'un mur d'escalade, d'une piscine a balles et d'un ecran de cinema pour les soirees film."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Anytime",
+            "fr": "A toute heure"
+          }
+        },
+        {
+          "emoji": "🤿",
+          "name": {
+            "en": "Try-dive or snorkel",
+            "fr": "Bapteme de plongee ou snorkeling"
+          },
+          "detail": {
+            "en": "One of the best dive bases in the Maldives, with easy reef snorkels for older kids.",
+            "fr": "L'une des meilleures bases de plongee des Maldives, avec des sorties snorkeling faciles pour les plus grands."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "⛳",
+          "name": {
+            "en": "Six-hole golf",
+            "fr": "Golf six trous"
+          },
+          "detail": {
+            "en": "A rare Maldives golf course, fun for teens and a novelty for the whole family.",
+            "fr": "Un rare parcours de golf maldivien, amusant pour les ados et une curiosite pour toute la famille."
+          },
+          "ages": [
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Apres-midi"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "All-inclusive breakfast",
+            "fr": "Petit-dejeuner tout inclus"
+          },
+          "note": {
+            "en": "Big buffet before the day's activities.",
+            "fr": "Grand buffet avant les activites de la journee."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Kids club play",
+            "fr": "Jeux au club enfants"
+          },
+          "note": {
+            "en": "Pirate ship and ball pit while parents dive or relax.",
+            "fr": "Bateau pirate et piscine a balles pendant que les parents plongent ou se detendent."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch then children's pool",
+            "fr": "Dejeuner puis piscine enfants"
+          },
+          "note": {
+            "en": "Cool off in the shaded kids' pool.",
+            "fr": "Rafraichissez-vous dans la piscine enfants ombragee."
+          }
+        },
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Reef snorkel",
+            "fr": "Snorkeling au recif"
+          },
+          "note": {
+            "en": "The house reef is calm and full of life late afternoon.",
+            "fr": "Le recif maison est calme et plein de vie en fin d'apres-midi."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Possible but not the easy pick: the long transfer and lively scale suit older children better than a small baby.",
+          "fr": "Possible mais pas le choix le plus simple : le long transfert et l'echelle animee conviennent mieux aux plus grands qu'a un petit bebe."
+        },
+        "toddler": {
+          "en": "The children's pool, play garden and calm lagoon work well, just keep your room central to cut walking.",
+          "fr": "La piscine enfants, le jardin de jeux et le lagon calme fonctionnent bien, gardez juste une chambre centrale pour reduire la marche."
+        },
+        "kid": {
+          "en": "The ideal age here: the new club, snorkelling and endless activities never let up.",
+          "fr": "L'age ideal ici : le nouveau club, le snorkeling et les activites sans fin ne faiblissent jamais."
+        },
+        "teen": {
+          "en": "Diving, golf and water sports make this one of the most active-friendly islands for teenagers.",
+          "fr": "Plongee, golf et sports nautiques en font l'une des iles les plus dynamiques pour les adolescents."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is Kuredu good for a baby?",
+            "fr": "Kuredu est-elle adaptee a un bebe?"
+          },
+          "a": {
+            "en": "It welcomes families, but the long transfer and large, lively island make it a better fit from toddler age up.",
+            "fr": "Elle accueille les familles, mais le long transfert et la grande ile animee la rendent plus adaptee a partir de l'age tout-petit."
+          }
+        },
+        {
+          "q": {
+            "en": "How long is the transfer?",
+            "fr": "Combien de temps dure le transfert?"
+          },
+          "a": {
+            "en": "Around a forty-minute seaplane, or a domestic flight to a nearby airport followed by a short speedboat, and seaplanes fly in daylight only.",
+            "fr": "Environ quarante minutes d'hydravion, ou un vol interieur vers un aeroport voisin suivi d'un court bateau rapide, et les hydravions ne volent que de jour."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the kids club really new?",
+            "fr": "Le club enfants est-il vraiment neuf?"
+          },
+          "a": {
+            "en": "Yes, it was recently rebuilt with a pirate ship, climbing wall, ball pit and a cinema screen, and it is free to use.",
+            "fr": "Oui, il a ete recemment reconstruit avec un bateau pirate, un mur d'escalade, une piscine a balles et un ecran de cinema, et son acces est gratuit."
+          }
+        }
+      ]
+    },
+    {
+      "key": "maldives-soneva-fushi",
+      "destinationKey": "maldives",
+      "name": "Soneva Fushi",
+      "area": {
+        "en": "Baa Atoll (UNESCO)",
+        "fr": "Atoll de Baa (UNESCO)"
+      },
+      "lat": 5.1189,
+      "lng": 73.0658,
+      "zoom": 13,
+      "address": "Soneva Fushi, Kunfunadhoo Island, Baa Atoll, Maldives",
+      "priceTier": 4,
+      "priceFrom": 1900,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "villaModern",
+        "beachSunset",
+        "overwater"
+      ],
+      "scores": {
+        "rooms": 97,
+        "baby": 90,
+        "pool": 90,
+        "dining": 96,
+        "safety": 88,
+        "convenience": 80,
+        "location": 94,
+        "extras": 98
+      },
+      "roomsSummary": {
+        "en": "Soneva Fushi practically invented the barefoot-luxury family villa, and its huge one-to-nine-bedroom houses are built for multi-generational trips. The two-storey Crusoe and Soneva villas have private pools, direct beach access and room for cots, extra beds and nannies without anyone feeling squeezed. Interconnecting and multi-bedroom configurations mean a toddler can nap while older kids stay up, and every villa comes with a bike and a personal host to smooth the details.",
+        "fr": "Soneva Fushi a pratiquement invente la villa familiale de luxe pieds nus, et ses immenses maisons d'une a neuf chambres sont concues pour les voyages multigenerationnels. Les villas Crusoe et Soneva sur deux niveaux offrent piscine privee, acces direct a la plage et de la place pour lits bebe, lits d'appoint et nounous sans que personne ne se sente a l'etroit. Les configurations communicantes et a plusieurs chambres permettent a un tout-petit de faire la sieste pendant que les plus grands veillent, et chaque villa vient avec un velo et un hote personnel pour aplanir les details."
+      },
+      "intro": {
+        "en": "If money is no object, Soneva Fushi is the family island other resorts try to copy. It sits in the UNESCO-listed Baa Atoll, a thirty-minute seaplane from Male, on a jungly island crisscrossed by sandy bike paths. The Den is widely called the best kids club in the Maldives, a two-floor open-air playground with a Nemo-shaped toddler pool, a saltwater pool with a slide and pirate ship, a music room, a cinema and a mocktail bar. Add an observatory, an outdoor cinema and Hanifaru Bay's manta rays nearby, and you have a place children remember for life.",
+        "fr": "Si le budget n'est pas un souci, Soneva Fushi est l'ile familiale que les autres resorts tentent de copier. Elle se trouve dans l'atoll de Baa classe a l'UNESCO, a trente minutes d'hydravion de Male, sur une ile boisee sillonnee de pistes cyclables de sable. Le Den est largement considere comme le meilleur club enfants des Maldives : une aire de jeu a ciel ouvert sur deux niveaux avec une pataugeoire en forme de Nemo, une piscine d'eau de mer avec toboggan et bateau pirate, une salle de musique, un cinema et un bar a mocktails. Ajoutez un observatoire, un cinema en plein air et les raies mantas de Hanifaru Bay a proximite, et vous obtenez un endroit dont les enfants se souviendront toute leur vie."
+      },
+      "highlights": {
+        "en": [
+          "The Den, widely rated the best kids club in the Maldives",
+          "One-to-nine-bedroom villas built for families",
+          "UNESCO Baa Atoll and Hanifaru Bay manta rays nearby",
+          "Observatory, outdoor cinema and sandy bike paths"
+        ],
+        "fr": [
+          "Le Den, largement considere comme le meilleur club enfants des Maldives",
+          "Villas d'une a neuf chambres concues pour les familles",
+          "Atoll de Baa (UNESCO) et raies mantas de Hanifaru Bay a proximite",
+          "Observatoire, cinema en plein air et pistes cyclables de sable"
+        ]
+      },
+      "pros": {
+        "en": [
+          "A genuinely world-class kids club for every age",
+          "Enormous villas for multi-generational trips",
+          "Barefoot, jungly island that kids can explore by bike",
+          "Some of the best food and marine experiences in the Maldives"
+        ],
+        "fr": [
+          "Un club enfants reellement de classe mondiale pour tous les ages",
+          "Villas immenses pour les voyages multigenerationnels",
+          "Ile boisee pieds nus que les enfants peuvent explorer a velo",
+          "Parmi la meilleure gastronomie et les meilleures experiences marines des Maldives"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Extraordinarily expensive, one of the priciest resorts in the country",
+          "Thirty-minute seaplane, daylight only, with luggage limits",
+          "Villa pools and the beach mean constant supervision with a toddler"
+        ],
+        "fr": [
+          "Extraordinairement cher, l'un des resorts les plus onereux du pays",
+          "Hydravion de trente minutes, de jour uniquement, avec limites de bagages",
+          "Les piscines des villas et la plage imposent une surveillance constante avec un tout-petit"
+        ]
+      },
+      "verdict": {
+        "en": "The gold standard for a special-occasion family Maldives: the best kids club in the country, vast villas and a barefoot island kids never forget.",
+        "fr": "La reference absolue pour des Maldives en famille pour une grande occasion : le meilleur club enfants du pays, des villas immenses et une ile pieds nus que les enfants n'oublient jamais."
+      },
+      "parentTip": {
+        "en": "Book a villa with its own pool and a fenced or gated section if you can, and use the free bikes with a child seat to get around this big jungly island.",
+        "fr": "Reservez si possible une villa avec sa propre piscine et une section cloturee ou fermee, et utilisez les velos gratuits avec un siege enfant pour parcourir cette grande ile boisee."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛩️",
+          "label": {
+            "en": "Transfer",
+            "fr": "Transfert"
+          },
+          "value": {
+            "en": "30-min seaplane, daylight only",
+            "fr": "Hydravion 30 min, de jour uniquement"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "The Den, free, toddlers to teens",
+            "fr": "Le Den, gratuit, des tout-petits aux ados"
+          }
+        },
+        {
+          "icon": "🏡",
+          "label": {
+            "en": "Villas",
+            "fr": "Villas"
+          },
+          "value": {
+            "en": "One to nine bedrooms with private pools",
+            "fr": "D'une a neuf chambres avec piscines privees"
+          }
+        },
+        {
+          "icon": "🐠",
+          "label": {
+            "en": "Nature",
+            "fr": "Nature"
+          },
+          "value": {
+            "en": "UNESCO Baa Atoll, mantas at Hanifaru",
+            "fr": "Atoll de Baa UNESCO, mantas a Hanifaru"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "The Den play day",
+            "fr": "Journee de jeu au Den"
+          },
+          "detail": {
+            "en": "A two-floor kids club with a slide pool, pirate ship, cinema and music room.",
+            "fr": "Un club enfants sur deux niveaux avec piscine a toboggan, bateau pirate, cinema et salle de musique."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Anytime",
+            "fr": "A toute heure"
+          }
+        },
+        {
+          "emoji": "🦈",
+          "name": {
+            "en": "Hanifaru manta snorkel",
+            "fr": "Snorkeling mantas a Hanifaru"
+          },
+          "detail": {
+            "en": "In season, snorkel with dozens of manta rays at the famous UNESCO bay.",
+            "fr": "En saison, nagez avec des dizaines de raies mantas dans la celebre baie classee UNESCO."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Seasonal",
+            "fr": "Selon la saison"
+          }
+        },
+        {
+          "emoji": "🔭",
+          "name": {
+            "en": "Observatory stargazing",
+            "fr": "Observation des etoiles a l'observatoire"
+          },
+          "detail": {
+            "en": "One of the region's few observatories, magical for space-mad kids after dark.",
+            "fr": "L'un des rares observatoires de la region, magique pour les enfants passionnes d'espace a la tombee de la nuit."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soir"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Breakfast then bikes",
+            "fr": "Petit-dejeuner puis velos"
+          },
+          "note": {
+            "en": "Cycle the sandy paths to breakfast as a family.",
+            "fr": "Pedalez sur les pistes de sable jusqu'au petit-dejeuner en famille."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "The Den",
+            "fr": "Le Den"
+          },
+          "note": {
+            "en": "Drop the kids at the country's best club.",
+            "fr": "Deposez les enfants au meilleur club du pays."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch then villa pool",
+            "fr": "Dejeuner puis piscine de la villa"
+          },
+          "note": {
+            "en": "Private pool time out of the midday sun.",
+            "fr": "Moment piscine privee a l'abri du soleil de midi."
+          }
+        },
+        {
+          "time": "20:00",
+          "title": {
+            "en": "Outdoor cinema",
+            "fr": "Cinema en plein air"
+          },
+          "note": {
+            "en": "A family film under the stars to end the day.",
+            "fr": "Un film en famille sous les etoiles pour finir la journee."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Babies are genuinely well looked after, with nannies, cots and huge villas, though the seaplane and cost are real considerations.",
+          "fr": "Les bebes sont vraiment bien pris en charge, avec nounous, lits bebe et villas immenses, meme si l'hydravion et le cout restent a considerer."
+        },
+        "toddler": {
+          "en": "The Nemo-shaped toddler pool and the safe, car-free island are perfect, just supervise the villa pool closely.",
+          "fr": "La pataugeoire en forme de Nemo et l'ile sure et sans voiture sont parfaites, surveillez juste de pres la piscine de la villa."
+        },
+        "kid": {
+          "en": "The dream age here: The Den, the observatory and Hanifaru's mantas make an unforgettable trip.",
+          "fr": "L'age reve ici : le Den, l'observatoire et les mantas de Hanifaru composent un voyage inoubliable."
+        },
+        "teen": {
+          "en": "Diving, the music room, water sports and grown-up dining give teens a proper experience, not a babied one.",
+          "fr": "Plongee, salle de musique, sports nautiques et gastronomie donnent aux ados une vraie experience, pas une version infantilisee."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is Soneva Fushi really family-friendly at this price?",
+            "fr": "Soneva Fushi est-elle vraiment adaptee aux familles a ce prix?"
+          },
+          "a": {
+            "en": "Very much so. The Den kids club, huge multi-bedroom villas and nanny service are all built around families, which is unusual at the ultra-luxury end.",
+            "fr": "Absolument. Le club enfants Le Den, les immenses villas a plusieurs chambres et le service de nounou sont tous penses pour les familles, ce qui est rare dans le tres haut de gamme."
+          }
+        },
+        {
+          "q": {
+            "en": "How do we get there with young children?",
+            "fr": "Comment y arrive-t-on avec de jeunes enfants?"
+          },
+          "a": {
+            "en": "A thirty-minute seaplane from Male, which flies in daylight only, so book daytime flights or plan a night near the airport if you land late.",
+            "fr": "Un hydravion de trente minutes depuis Male, qui ne vole que de jour, donc reservez des vols de journee ou prevoyez une nuit pres de l'aeroport en cas d'arrivee tardive."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we see manta rays?",
+            "fr": "Peut-on voir des raies mantas?"
+          },
+          "a": {
+            "en": "Yes, in season the resort runs trips to nearby Hanifaru Bay, one of the world's best spots to snorkel with mantas.",
+            "fr": "Oui, en saison le resort organise des sorties vers la baie voisine de Hanifaru, l'un des meilleurs endroits au monde pour nager avec les mantas."
+          }
+        }
+      ]
+    },
+    {
+      "key": "maldives-amilla-maldives",
+      "destinationKey": "maldives",
+      "name": "Amilla Maldives",
+      "area": {
+        "en": "Baa Atoll (UNESCO)",
+        "fr": "Atoll de Baa (UNESCO)"
+      },
+      "lat": 5.2211,
+      "lng": 73.0839,
+      "zoom": 13,
+      "address": "Amilla Maldives, Medhufaru Island, Baa Atoll, Maldives",
+      "priceTier": 4,
+      "priceFrom": 1100,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "infinityPoolSea",
+        "overwater",
+        "villaModern"
+      ],
+      "scores": {
+        "rooms": 94,
+        "baby": 88,
+        "pool": 90,
+        "dining": 92,
+        "safety": 87,
+        "convenience": 80,
+        "location": 92,
+        "extras": 94
+      },
+      "roomsSummary": {
+        "en": "Amilla is a design-led island that takes families seriously, with airy villas and standout multi-bedroom residences. Two-bedroom lagoon villas sleep four comfortably and stretch to six, while the treetop and beach pool villas suit a family of four with a toddler in tow. Cribs, strollers, changing tables, babysitting and nanny services are all on request, and the multi-bedroom residences are a genuine option for two families travelling together.",
+        "fr": "Amilla est une ile au design soigne qui prend les familles au serieux, avec des villas aerees et de remarquables residences a plusieurs chambres. Les villas lagon deux chambres logent confortablement quatre personnes et montent a six, tandis que les villas piscine dans les arbres et en bord de plage conviennent a une famille de quatre avec un tout-petit. Berceaux, poussettes, tables a langer, garde d'enfants et services de nounou sont tous disponibles sur demande, et les residences a plusieurs chambres sont une vraie option pour deux familles voyageant ensemble."
+      },
+      "intro": {
+        "en": "Amilla brings a fresh, contemporary feel to the family Maldives, on a green island in the UNESCO Baa Atoll just a thirty-minute seaplane from Male. The Sultan's Village kids club is built around a pirate ship and treasure maps and takes children from age four, with cribs, nannies and a mini marine biology programme for the very keen. It sits only ten minutes from Hanifaru Bay, one of the world's top manta snorkelling sites, and layers in a football academy, tennis with a pro and calm lagoon beaches. It is ultra-luxe without being stuffy, and it clearly likes children.",
+        "fr": "Amilla apporte une touche fraiche et contemporaine aux Maldives en famille, sur une ile verdoyante de l'atoll de Baa classe UNESCO, a seulement trente minutes d'hydravion de Male. Le club enfants Sultan's Village s'organise autour d'un bateau pirate et de cartes au tresor et accueille les enfants a partir de quatre ans, avec berceaux, nounous et un mini programme de biologie marine pour les plus passionnes. Il se trouve a seulement dix minutes de Hanifaru Bay, l'un des meilleurs sites au monde pour nager avec les mantas, et ajoute une academie de football, du tennis avec un pro et des plages de lagon calmes. C'est du tres haut de gamme sans etre guinde, et l'ile aime manifestement les enfants."
+      },
+      "highlights": {
+        "en": [
+          "Sultan's Village kids club with a pirate ship, from age 4",
+          "Two-bedroom and multi-bedroom villas for bigger families",
+          "Ten minutes from Hanifaru Bay's manta rays",
+          "Football academy, tennis pro and calm lagoon beaches"
+        ],
+        "fr": [
+          "Club enfants Sultan's Village avec bateau pirate, des 4 ans",
+          "Villas deux chambres et a plusieurs chambres pour les grandes familles",
+          "A dix minutes des raies mantas de Hanifaru Bay",
+          "Academie de football, pro de tennis et plages de lagon calmes"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Ultra-luxe but genuinely warm towards children",
+          "Excellent multi-bedroom villas for two families together",
+          "Superb manta snorkelling minutes away",
+          "Cribs, nannies and a full baby kit on request"
+        ],
+        "fr": [
+          "Tres haut de gamme mais reellement chaleureux avec les enfants",
+          "Excellentes villas a plusieurs chambres pour deux familles ensemble",
+          "Superbe snorkeling avec les mantas a quelques minutes",
+          "Berceaux, nounous et equipement bebe complet sur demande"
+        ]
+      },
+      "cons": {
+        "en": [
+          "A high all-in cost once flights, seaplane and dining add up",
+          "Thirty-minute seaplane, daylight only, with luggage limits",
+          "Villa and beach mean deep water is never far, so toddlers need close watching"
+        ],
+        "fr": [
+          "Un cout global eleve une fois les vols, l'hydravion et la restauration additionnes",
+          "Hydravion de trente minutes, de jour uniquement, avec limites de bagages",
+          "Villa et plage impliquent une eau profonde jamais loin, les tout-petits doivent etre surveilles de pres"
+        ]
+      },
+      "verdict": {
+        "en": "A stylish, warm-hearted ultra-luxe island that welcomes children properly, with brilliant family villas and mantas on the doorstep.",
+        "fr": "Une ile de grand luxe elegante et chaleureuse qui accueille vraiment les enfants, avec de superbes villas familiales et les mantas juste a cote."
+      },
+      "parentTip": {
+        "en": "Pre-order the baby kit before you fly: cribs, a stroller and a changing table waiting in the villa save you lugging gear through the seaplane's tight luggage limits.",
+        "fr": "Commandez l'equipement bebe avant de partir : berceau, poussette et table a langer prets dans la villa vous evitent de trimballer le materiel malgre les limites de bagages serrees de l'hydravion."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛩️",
+          "label": {
+            "en": "Transfer",
+            "fr": "Transfert"
+          },
+          "value": {
+            "en": "30-min seaplane, daylight only",
+            "fr": "Hydravion 30 min, de jour uniquement"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Sultan's Village, free, from age 4",
+            "fr": "Sultan's Village, gratuit, des 4 ans"
+          }
+        },
+        {
+          "icon": "🏡",
+          "label": {
+            "en": "Best family villa",
+            "fr": "Meilleure villa famille"
+          },
+          "value": {
+            "en": "Two-bedroom lagoon villa, sleeps four to six",
+            "fr": "Villa lagon deux chambres, 4 a 6 personnes"
+          }
+        },
+        {
+          "icon": "🦈",
+          "label": {
+            "en": "Nature",
+            "fr": "Nature"
+          },
+          "value": {
+            "en": "Ten minutes from Hanifaru Bay mantas",
+            "fr": "A dix minutes des mantas de Hanifaru Bay"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏴‍☠️",
+          "name": {
+            "en": "Sultan's Village club",
+            "fr": "Club Sultan's Village"
+          },
+          "detail": {
+            "en": "A pirate-ship kids club with a mini marine biology programme and a farm to visit.",
+            "fr": "Un club enfants bateau pirate avec un mini programme de biologie marine et une ferme a visiter."
+          },
+          "ages": [
+            "kid"
+          ],
+          "time": {
+            "en": "Anytime",
+            "fr": "A toute heure"
+          }
+        },
+        {
+          "emoji": "🦈",
+          "name": {
+            "en": "Hanifaru manta snorkel",
+            "fr": "Snorkeling mantas a Hanifaru"
+          },
+          "detail": {
+            "en": "Just ten minutes away, snorkel with mantas in season at the UNESCO bay.",
+            "fr": "A seulement dix minutes, nagez avec les mantas en saison dans la baie classee UNESCO."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Seasonal",
+            "fr": "Selon la saison"
+          }
+        },
+        {
+          "emoji": "⚽",
+          "name": {
+            "en": "Football academy",
+            "fr": "Academie de football"
+          },
+          "detail": {
+            "en": "Coached sessions on a real pitch, a hit with sporty older kids.",
+            "fr": "Des seances encadrees sur un vrai terrain, un succes aupres des plus grands sportifs."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Apres-midi"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Villa breakfast",
+            "fr": "Petit-dejeuner en villa"
+          },
+          "note": {
+            "en": "Order breakfast to the villa terrace by the pool.",
+            "fr": "Commandez le petit-dejeuner sur la terrasse de la villa au bord de la piscine."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Kids club or football",
+            "fr": "Club enfants ou football"
+          },
+          "note": {
+            "en": "Drop the kids at Sultan's Village or the academy.",
+            "fr": "Deposez les enfants au Sultan's Village ou a l'academie."
+          }
+        },
+        {
+          "time": "12:30",
+          "title": {
+            "en": "Lagoon swim and lunch",
+            "fr": "Baignade au lagon et dejeuner"
+          },
+          "note": {
+            "en": "Calm, shallow water then a relaxed family lunch.",
+            "fr": "Eau calme et peu profonde puis un dejeuner detendu en famille."
+          }
+        },
+        {
+          "time": "15:30",
+          "title": {
+            "en": "Manta snorkel trip",
+            "fr": "Sortie snorkeling mantas"
+          },
+          "note": {
+            "en": "In season, head to Hanifaru Bay ten minutes away.",
+            "fr": "En saison, filez vers Hanifaru Bay a dix minutes."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Well set up for babies, with a full baby kit and nannies on request, though the seaplane and cost still apply.",
+          "fr": "Bien equipee pour les bebes, avec un kit bebe complet et des nounous sur demande, meme si l'hydravion et le cout demeurent."
+        },
+        "toddler": {
+          "en": "The calm lagoon and villa pools are ideal, and interconnecting villas let a toddler nap in peace.",
+          "fr": "Le lagon calme et les piscines des villas sont ideaux, et les villas communicantes laissent un tout-petit faire la sieste tranquillement."
+        },
+        "kid": {
+          "en": "The best age here: Sultan's Village, the football academy and Hanifaru's mantas fill every day.",
+          "fr": "Le meilleur age ici : le Sultan's Village, l'academie de football et les mantas de Hanifaru remplissent chaque journee."
+        },
+        "teen": {
+          "en": "Diving, tennis, water sports and stylish dining treat teens like the young adults they think they are.",
+          "fr": "Plongee, tennis, sports nautiques et restauration elegante traitent les ados en jeunes adultes, comme ils aiment se voir."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "From what age does the kids club take children?",
+            "fr": "A partir de quel age le club enfants accueille-t-il les enfants?"
+          },
+          "a": {
+            "en": "The Sultan's Village club is for ages four and up, but cribs, nannies and babysitting are available for younger children on request.",
+            "fr": "Le club Sultan's Village est pour les quatre ans et plus, mais berceaux, nounous et garde d'enfants sont disponibles pour les plus jeunes sur demande."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it worth it with young kids given the cost?",
+            "fr": "Cela en vaut-il la peine avec de jeunes enfants vu le cout?"
+          },
+          "a": {
+            "en": "For a milestone trip, yes: the family villas, the baby kit and the mantas at Hanifaru make it special, but budget for the seaplane and full-board on top.",
+            "fr": "Pour un voyage marquant, oui : les villas familiales, le kit bebe et les mantas de Hanifaru le rendent special, mais prevoyez le budget de l'hydravion et de la pension complete en plus."
+          }
+        },
+        {
+          "q": {
+            "en": "How close are the manta rays?",
+            "fr": "A quelle distance sont les raies mantas?"
+          },
+          "a": {
+            "en": "Hanifaru Bay is only about ten minutes away by boat, one of the world's best places to snorkel with mantas in season.",
+            "fr": "La baie de Hanifaru n'est qu'a environ dix minutes en bateau, l'un des meilleurs endroits au monde pour nager avec les mantas en saison."
+          }
+        }
+      ]
+    }
+  ],
+  "destinationMeta": {
+    "heroKicker": {
+      "en": "Indian Ocean winter sun for families",
+      "fr": "Soleil d'hiver de l'ocean Indien pour les familles"
+    },
+    "intro": {
+      "en": "The Maldives has a reputation as honeymoon territory, and plenty of islands really are adults-only, but a good number are wonderful with children if you choose carefully. The model is simple: one resort fills one small island, so you settle into a single place with a house reef, a kids club and full-board or all-inclusive dining, and you rarely need to leave. The catch is the transfer: islands near Male are a quick speedboat, which is far easier with a baby, while remote islands need a seaplane that flies in daylight only and has tight luggage limits. Costs are high once flights, transfers and dining stack up, so it suits a milestone trip more than a budget week. But for warm, calm, shallow lagoons and children snorkelling with turtles by day, few places on earth compare.",
+      "fr": "Les Maldives ont une reputation de destination lune de miel, et beaucoup d'iles sont effectivement reservees aux adultes, mais un bon nombre sont merveilleuses avec des enfants si l'on choisit avec soin. Le principe est simple : un resort occupe une petite ile, donc on s'installe dans un seul lieu avec un recif maison, un club enfants et une formule pension complete ou tout inclus, et on n'a presque jamais besoin de sortir. Le hic, c'est le transfert : les iles proches de Male se rejoignent en bateau rapide, bien plus simple avec un bebe, tandis que les iles eloignees necessitent un hydravion qui ne vole que de jour et impose des limites de bagages serrees. Les couts sont eleves une fois les vols, les transferts et la restauration additionnes, ce qui convient davantage a un voyage marquant qu'a une semaine economique. Mais pour des lagons chauds, calmes et peu profonds et des enfants qui nagent avec les tortues en journee, peu d'endroits sur terre rivalisent."
+    },
+    "whyKids": {
+      "en": [
+        "Warm, calm, shallow lagoons that are perfect for first swims and paddling",
+        "House reefs right off the beach, so kids snorkel with turtles and reef fish",
+        "Most resorts have a free kids club, from toddlers to teens",
+        "One island, one resort means a safe, contained, car-free world for children",
+        "Reliable winter sun from November to April when Europe is cold and grey"
+      ],
+      "fr": [
+        "Des lagons chauds, calmes et peu profonds, parfaits pour les premieres baignades",
+        "Des recifs maison au bord de la plage, ou les enfants nagent avec tortues et poissons de recif",
+        "La plupart des resorts ont un club enfants gratuit, des tout-petits aux ados",
+        "Une ile, un resort : un monde sur, ferme et sans voiture pour les enfants",
+        "Un soleil d'hiver fiable de novembre a avril, quand l'Europe est froide et grise"
+      ]
+    },
+    "bestAreas": {
+      "en": [
+        "North and South Male Atoll: the shortest speedboat transfers, easiest with a baby",
+        "Rasdhoo and Ari Atoll: superb snorkelling, sandbanks and manta and whale-shark trips",
+        "Baa Atoll (UNESCO): Hanifaru Bay's manta rays and the top family ultra-luxe islands",
+        "Lhaviyani Atoll: lively activity islands like Kuredu, reached by seaplane",
+        "Speedboat versus seaplane: pick a close island for babies, a seaplane island for scenery and calmer reefs"
+      ],
+      "fr": [
+        "Atolls de Male Nord et Sud : les transferts en bateau rapide les plus courts, plus simples avec un bebe",
+        "Atolls de Rasdhoo et d'Ari : superbe snorkeling, bancs de sable et sorties mantas et requins-baleines",
+        "Atoll de Baa (UNESCO) : les raies mantas de Hanifaru Bay et les meilleures iles familiales de grand luxe",
+        "Atoll de Lhaviyani : des iles d'activites animees comme Kuredu, accessibles en hydravion",
+        "Bateau rapide ou hydravion : une ile proche pour les bebes, une ile en hydravion pour les paysages et des recifs plus calmes"
+      ]
+    },
+    "stats": [
+      {
+        "value": "~28C",
+        "label": {
+          "en": "Year-round sea temperature",
+          "fr": "Temperature de la mer toute l'annee"
+        }
+      },
+      {
+        "value": "Nov to Apr",
+        "label": {
+          "en": "Dry season, best for families",
+          "fr": "Saison seche, la meilleure pour les familles"
+        }
+      },
+      {
+        "value": "1 island",
+        "label": {
+          "en": "One resort per island",
+          "fr": "Un resort par ile"
+        }
+      },
+      {
+        "value": "10 to 45 min",
+        "label": {
+          "en": "Typical speedboat transfer",
+          "fr": "Transfert type en bateau rapide"
+        }
+      }
+    ],
+    "activities": [
+      {
+        "emoji": "🐢",
+        "name": {
+          "en": "Snorkel with turtles",
+          "fr": "Snorkeling avec les tortues"
+        },
+        "detail": {
+          "en": "House reefs sit just off the beach, so confident kids meet turtles and reef fish minutes from their room.",
+          "fr": "Les recifs maison sont au bord de la plage, si bien que les enfants a l'aise croisent tortues et poissons de recif a quelques minutes de leur chambre."
+        },
+        "ages": [
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Morning",
+          "fr": "Matin"
+        }
+      },
+      {
+        "emoji": "🏖️",
+        "name": {
+          "en": "Sandbank picnic trip",
+          "fr": "Sortie pique-nique sur un banc de sable"
+        },
+        "detail": {
+          "en": "A short boat ride to a bare sandbank for shallow paddling, castles and a picnic.",
+          "fr": "Une courte sortie en bateau vers un banc de sable nu pour patauger, batir des chateaux et pique-niquer."
+        },
+        "ages": [
+          "baby",
+          "toddler",
+          "kid"
+        ],
+        "time": {
+          "en": "Midday",
+          "fr": "Midi"
+        }
+      },
+      {
+        "emoji": "🐬",
+        "name": {
+          "en": "Sunset dolphin cruise",
+          "fr": "Croisiere dauphins au coucher"
+        },
+        "detail": {
+          "en": "Most resorts run an early-evening cruise to watch spinner dolphins leap alongside the boat.",
+          "fr": "La plupart des resorts proposent une croisiere en debut de soiree pour voir les dauphins bondir le long du bateau."
+        },
+        "ages": [
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Evening",
+          "fr": "Soir"
+        }
+      },
+      {
+        "emoji": "🔭",
+        "name": {
+          "en": "Stargazing",
+          "fr": "Observation des etoiles"
+        },
+        "detail": {
+          "en": "With almost no light pollution, the night sky is dazzling, and some islands have an observatory.",
+          "fr": "Avec presque aucune pollution lumineuse, le ciel nocturne est eblouissant, et certaines iles disposent d'un observatoire."
+        },
+        "ages": [
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Evening",
+          "fr": "Soir"
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "q": {
+          "en": "Is the Maldives really good with a baby or toddler?",
+          "fr": "Les Maldives sont-elles vraiment adaptees a un bebe ou un tout-petit?"
+        },
+        "a": {
+          "en": "Yes, on the right island. Choose a resort near Male with a short speedboat transfer, a beach villa over an overwater one, and a calm shallow lagoon, and it is a dreamy, low-stress destination for little ones.",
+          "fr": "Oui, sur la bonne ile. Choisissez un resort proche de Male avec un court transfert en bateau rapide, une villa plage plutot que sur pilotis, et un lagon calme et peu profond, et c'est une destination de reve et sans stress pour les petits."
+        }
+      },
+      {
+        "q": {
+          "en": "Should we take a seaplane or a speedboat with kids?",
+          "fr": "Faut-il prendre un hydravion ou un bateau rapide avec des enfants?"
+        },
+        "a": {
+          "en": "With a baby, a speedboat island near Male is far easier: you can arrive at any hour and it is over in minutes. Seaplanes are scenic but fly in daylight only, have tight luggage limits and can be hot and loud for infants.",
+          "fr": "Avec un bebe, une ile proche de Male en bateau rapide est bien plus simple : on arrive a toute heure et c'est fini en quelques minutes. Les hydravions sont panoramiques mais ne volent que de jour, imposent des limites de bagages serrees et peuvent etre chauds et bruyants pour un nourrisson."
+        }
+      },
+      {
+        "q": {
+          "en": "When is the best time to go?",
+          "fr": "Quelle est la meilleure periode pour partir?"
+        },
+        "a": {
+          "en": "The dry season from November to April brings the most reliable sunshine and calmest seas, ideal for families, and it neatly matches the northern winter and school holidays.",
+          "fr": "La saison seche, de novembre a avril, offre le soleil le plus fiable et les mers les plus calmes, ideal pour les familles, et coincide bien avec l'hiver du Nord et les vacances scolaires."
+        }
+      },
+      {
+        "q": {
+          "en": "How do we avoid ending up on an adults-only island?",
+          "fr": "Comment eviter de se retrouver sur une ile reservee aux adultes?"
+        },
+        "a": {
+          "en": "Many Maldives resorts are couples-only, so always check for a kids club, family or two-bedroom villas and a children's pool before booking. Every island in this guide has been verified as genuinely family-friendly.",
+          "fr": "De nombreux resorts maldiviens sont reserves aux couples, verifiez donc toujours la presence d'un club enfants, de villas familiales ou deux chambres et d'une piscine pour enfants avant de reserver. Chaque ile de ce guide a ete verifiee comme reellement adaptee aux familles."
+        }
+      }
+    ],
+    "parentTip": {
+      "en": "Book a beach villa, not an overwater one, if your youngest is under about five: overwater villas have ladders and decks straight over deep water, while a beach villa puts warm shallow lagoon right at your feet.",
+      "fr": "Reservez une villa plage, pas une villa sur pilotis, si votre plus jeune a moins de cinq ans environ : les villas sur pilotis ont des echelles et des terrasses au-dessus d'une eau profonde, tandis qu'une villa plage met le lagon chaud et peu profond juste a vos pieds."
+    },
+    "goodToKnow": {
+      "en": "All arrivals go through Male Velana International Airport, then transfer to your island by speedboat or seaplane. Speedboats are the easy choice with babies, running at any hour and over quickly, while seaplanes fly in daylight only, cap your luggage and can be warm and noisy for infants, so book daytime flights or plan an airport-hotel night for late arrivals. Each resort is a self-contained, car-free island, so what you pick is where you stay all week. The Maldives is a dry Muslim country, but resorts serve alcohol freely to guests. Pack reef shoes, high-factor sun cream, rash vests and hats, as the equatorial UV is intense even on cloudy days. The dry season runs November to April, and there are no hospitals on the islands, only a resort doctor or nurse, so travel insurance is essential.",
+      "fr": "Toutes les arrivees passent par l'aeroport international de Male Velana, puis on rejoint son ile en bateau rapide ou en hydravion. Les bateaux rapides sont le choix facile avec des bebes : ils circulent a toute heure et le trajet est vite fini, tandis que les hydravions ne volent que de jour, limitent les bagages et peuvent etre chauds et bruyants pour un nourrisson, alors reservez des vols de journee ou prevoyez une nuit d'hotel a l'aeroport en cas d'arrivee tardive. Chaque resort est une ile autonome et sans voiture, donc l'ile choisie est celle ou l'on reste toute la semaine. Les Maldives sont un pays musulman ou l'alcool est interdit, mais les resorts en servent librement a leurs clients. Emportez des chaussures d'eau, une creme solaire haute protection, des tee-shirts anti-UV et des chapeaux, car le rayonnement equatorial est intense meme par temps couvert. La saison seche va de novembre a avril, et il n'y a pas d'hopital sur les iles, seulement un medecin ou une infirmiere de resort, donc une assurance voyage est indispensable."
+    },
+    "emoji": "🏝️",
+    "name": {
+      "en": "Maldives",
+      "fr": "Maldives"
+    },
+    "country": {
+      "en": "Maldives",
+      "fr": "Maldives"
+    },
+    "geo": {
+      "lat": 3.2028,
+      "lng": 73.2207,
+      "zoom": 7
+    },
+    "accent": "17a2b8",
+    "photos": [
+      "overwater",
+      "beachSunset",
+      "infinityPoolSea"
+    ]
+  }
+}
