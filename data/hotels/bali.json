@@ -1,0 +1,2648 @@
+{
+  "hotels": [
+    {
+      "key": "bali-the-mulia-nusa-dua",
+      "destinationKey": "bali",
+      "name": "The Mulia, Mulia Resort & Villas",
+      "area": {
+        "en": "Nusa Dua",
+        "fr": "Nusa Dua"
+      },
+      "lat": -8.8107,
+      "lng": 115.2233,
+      "zoom": 14,
+      "address": "Jl. Raya Nusa Dua Selatan, Kawasan Sawangan, Nusa Dua, Bali 80363, Indonesia",
+      "priceTier": 4,
+      "priceFrom": 380,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "infinityPoolSea",
+        "poolCabanas",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 92,
+        "baby": 84,
+        "pool": 94,
+        "dining": 90,
+        "safety": 86,
+        "convenience": 84,
+        "location": 88,
+        "extras": 90
+      },
+      "roomsSummary": {
+        "en": "Everything here is oversized, and that works in a family's favour. Even entry-level suites run to 130 sqm with a separate living area and space for two adults and two children under twelve, so no one is climbing over a suitcase. Ocean-facing suites put the calm Geger Beach lagoon a lift ride away, and the villas add private pools and multiple bedrooms for larger groups. Cots come free on request, and the sheer size of the rooms makes early bedtimes and toddler naps far less of a battle.",
+        "fr": "Tout est surdimensionne ici, et cela joue en faveur des familles. Meme les suites d'entree de gamme atteignent 130 m2 avec un salon separe et de la place pour deux adultes et deux enfants de moins de douze ans, donc personne ne trebuche sur une valise. Les suites face a l'ocean mettent le lagon calme de Geger Beach a un coup d'ascenseur, et les villas ajoutent piscines privees et plusieurs chambres pour les grands groupes. Les lits bebe sont gratuits sur demande, et la taille des chambres rend les couchers tot et les siestes des tout-petits bien moins compliques."
+      },
+      "intro": {
+        "en": "The Mulia is Nusa Dua turned up to full volume: six pools, a long private beach and suites the size of small apartments. For families it hits a sweet spot that few Bali resorts manage, being genuinely glamorous for parents yet packed with things for children, from a splash pool with slides to two kids clubs and a beach bouncy castle. It sits on the quiet southern tip of Nusa Dua, a calm, gated resort area with none of the scooter chaos of the south, so you can let older kids roam a little. It is a splurge, but it delivers the polished, easy, sun-soaked week that a long-haul trip with children is supposed to be.",
+        "fr": "Le Mulia, c'est Nusa Dua a plein volume : six piscines, une longue plage privee et des suites grandes comme de petits appartements. Pour les familles, il touche un equilibre que peu de resorts balinais atteignent, vraiment glamour pour les parents et pourtant rempli d'activites pour les enfants, d'une pataugeoire a toboggans a deux clubs enfants et un chateau gonflable sur la plage. Il occupe la pointe sud tranquille de Nusa Dua, une zone resort fermee et calme, sans le chaos de scooters du sud, si bien qu'on peut laisser les plus grands se degourdir un peu. C'est une folie, mais il offre la semaine soignee, facile et ensoleillee qu'un long voyage avec des enfants est cense etre."
+      },
+      "highlights": {
+        "en": [
+          "Six pools including a children's pool with slides",
+          "Two kids clubs plus a teen zone, ages 3 to 15",
+          "Huge 130 sqm suites that sleep a family of four",
+          "Long private stretch of calm Geger Beach"
+        ],
+        "fr": [
+          "Six piscines dont une pataugeoire a toboggans",
+          "Deux clubs enfants et une zone ados, de 3 a 15 ans",
+          "Immenses suites de 130 m2 pour une famille de quatre",
+          "Longue plage privee et calme de Geger Beach"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Rooms are enormous, a real plus with young children",
+          "Two clubs split little ones from tweens so both are happy",
+          "Beachfront on one of the calmest bays in the south",
+          "Big choice of restaurants, easy for fussy eaters"
+        ],
+        "fr": [
+          "Chambres enormes, un vrai atout avec de jeunes enfants",
+          "Deux clubs separent les petits des preados, chacun content",
+          "En bord d'une des baies les plus calmes du sud",
+          "Large choix de restaurants, pratique pour les difficiles"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Prices are top of the market for Bali",
+          "A very large resort, so there is a lot of walking",
+          "Grand and glossy rather than intimate or low-key"
+        ],
+        "fr": [
+          "Des tarifs au sommet du marche balinais",
+          "Un tres grand resort, donc beaucoup de marche",
+          "Grandiose et lustre plutot qu'intime ou discret"
+        ]
+      },
+      "verdict": {
+        "en": "The flagship family splurge in Bali's calmest beach enclave: six pools, two kids clubs and apartment-sized suites, all beachfront.",
+        "fr": "La grande folie familiale dans l'enclave de plage la plus calme de Bali : six piscines, deux clubs enfants et des suites grandes comme des appartements, en bord de mer."
+      },
+      "parentTip": {
+        "en": "Ask for an ocean-wing suite near the family pool rather than the far villas, so the slide, the beach and the kids club are all a short buggy push from your door.",
+        "fr": "Demandez une suite de l'aile ocean pres de la piscine familiale plutot que les villas eloignees, pour que le toboggan, la plage et le club enfants soient tous a une courte poussee de poussette de votre porte."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Six pools, one for kids with slides",
+            "fr": "Six piscines, une enfants a toboggans"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids clubs",
+            "fr": "Clubs enfants"
+          },
+          "value": {
+            "en": "Mulia Kidz and Explorer, plus teen zone",
+            "fr": "Mulia Kidz et Explorer, plus zone ados"
+          }
+        },
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Best family room",
+            "fr": "Meilleure chambre famille"
+          },
+          "value": {
+            "en": "130 sqm ocean suite for two plus two",
+            "fr": "Suite ocean 130 m2 pour deux plus deux"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Private stretch of calm Geger Beach",
+            "fr": "Portion privee de Geger Beach, calme"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏰",
+          "name": {
+            "en": "Beach bouncy castle",
+            "fr": "Chateau gonflable sur la plage"
+          },
+          "detail": {
+            "en": "A giant inflatable on the sand keeps little ones busy while parents claim a lounger.",
+            "fr": "Un gonflable geant sur le sable occupe les petits pendant que les parents prennent un transat."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🛶",
+          "name": {
+            "en": "Lagoon paddleboarding",
+            "fr": "Paddle dans le lagon"
+          },
+          "detail": {
+            "en": "The sheltered bay is calm enough for a first stand-up paddle or canoe with a parent.",
+            "fr": "La baie abritee est assez calme pour un premier paddle ou canoe avec un parent."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Apres-midi"
+          }
+        },
+        {
+          "emoji": "🎨",
+          "name": {
+            "en": "Kids club crafts",
+            "fr": "Bricolage au club enfants"
+          },
+          "detail": {
+            "en": "Balinese art, games and a climbing wall fill the daily programme at the two clubs.",
+            "fr": "Art balinais, jeux et mur d'escalade remplissent le programme quotidien des deux clubs."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Apres-midi"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Buffet breakfast",
+            "fr": "Petit-dejeuner buffet"
+          },
+          "note": {
+            "en": "The Cafe spread is vast, with plenty for picky eaters.",
+            "fr": "Le buffet du Cafe est immense, avec de quoi contenter les difficiles."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Family pool and slides",
+            "fr": "Piscine familiale et toboggans"
+          },
+          "note": {
+            "en": "Claim shade near the children's pool before it fills up.",
+            "fr": "Prenez de l'ombre pres de la pataugeoire avant l'affluence."
+          }
+        },
+        {
+          "time": "14:00",
+          "title": {
+            "en": "Kids club drop-in",
+            "fr": "Passage au club enfants"
+          },
+          "note": {
+            "en": "Little ones to Mulia Kidz, tweens to the Explorer.",
+            "fr": "Les petits au Mulia Kidz, les preados a l'Explorer."
+          }
+        },
+        {
+          "time": "17:30",
+          "title": {
+            "en": "Sunset on the beach",
+            "fr": "Coucher de soleil sur la plage"
+          },
+          "note": {
+            "en": "The bouncy castle and calm shallows before an early dinner.",
+            "fr": "Le chateau gonflable et les hauts-fonds calmes avant un diner tot."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Huge suites and free cots make babies easy, though the resort is big so bring the buggy for the long paths.",
+          "fr": "Les suites enormes et les lits bebe gratuits facilitent la vie avec un bebe, mais le resort est grand, prenez la poussette pour les longues allees."
+        },
+        "toddler": {
+          "en": "The splash pool, the bouncy castle and the calm beach are a toddler's dream, all within a short walk.",
+          "fr": "La pataugeoire, le chateau gonflable et la plage calme sont un reve de tout-petit, le tout a courte distance a pied."
+        },
+        "kid": {
+          "en": "The prime age here: two clubs, slides, paddleboards and endless pool time.",
+          "fr": "L'age ideal ici : deux clubs, toboggans, paddles et piscine a volonte."
+        },
+        "teen": {
+          "en": "The teen zone, water sports and a buzzy beach club give older kids their own space.",
+          "fr": "La zone ados, les sports nautiques et un beach club anime donnent aux plus grands leur propre espace."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the kids club free?",
+            "fr": "Le club enfants est-il gratuit?"
+          },
+          "a": {
+            "en": "Yes, Mulia Kidz and the Explorer club are complimentary for resort guests, with supervised activities through the day.",
+            "fr": "Oui, le Mulia Kidz et le club Explorer sont gratuits pour les clients du resort, avec des activites encadrees toute la journee."
+          }
+        },
+        {
+          "q": {
+            "en": "Is Geger Beach safe for swimming?",
+            "fr": "La plage de Geger est-elle sure pour la baignade?"
+          },
+          "a": {
+            "en": "It is one of the calmest, most sheltered beaches in south Bali, with a reef that softens the surf, so it is far gentler than Kuta for young swimmers.",
+            "fr": "C'est l'une des plages les plus calmes et abritees du sud de Bali, avec un recif qui adoucit les vagues, donc bien plus douce que Kuta pour les jeunes nageurs."
+          }
+        },
+        {
+          "q": {
+            "en": "How far is it from the airport?",
+            "fr": "A quelle distance de l'aeroport?"
+          },
+          "a": {
+            "en": "About thirty to forty minutes by car in normal traffic, one of the shorter transfers in Bali, which helps at the end of a long-haul flight.",
+            "fr": "Environ trente a quarante minutes en voiture par trafic normal, l'un des transferts les plus courts de Bali, ce qui aide apres un vol long-courrier."
+          }
+        }
+      ]
+    },
+    {
+      "key": "bali-four-seasons-resort-bali-at-jimbaran-bay",
+      "destinationKey": "bali",
+      "name": "Four Seasons Resort Bali at Jimbaran Bay",
+      "area": {
+        "en": "Jimbaran",
+        "fr": "Jimbaran"
+      },
+      "lat": -8.7897,
+      "lng": 115.158,
+      "zoom": 14,
+      "address": "Jimbaran, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia",
+      "priceTier": 4,
+      "priceFrom": 820,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "villaPoolGreen",
+        "infinityPoolSea",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 95,
+        "baby": 90,
+        "pool": 86,
+        "dining": 92,
+        "safety": 88,
+        "convenience": 82,
+        "location": 90,
+        "extras": 92
+      },
+      "roomsSummary": {
+        "en": "This is a resort of private villas, not rooms, and that changes everything with children. Each of the 147 Balinese villas has its own walled garden and plunge pool, so bath time, naps and toddler meltdowns all happen behind your own gate. One, two and three-bedroom layouts scale from a couple with a baby to three generations together, and family villas sit steps from the playground and pools. Cots and babysitting are complimentary, children under twelve stay free and under-fives eat free, which softens the sting of the price.",
+        "fr": "C'est un resort de villas privees, pas de chambres, et cela change tout avec des enfants. Chacune des 147 villas balinaises possede son jardin clos et sa piscine a debordement, si bien que le bain, les siestes et les crises des tout-petits se passent derriere votre propre portail. Les configurations une, deux et trois chambres vont d'un couple avec un bebe a trois generations reunies, et les villas familiales sont a deux pas de l'aire de jeux et des piscines. Lits bebe et garde d'enfants sont gratuits, les moins de douze ans logent gratuitement et les moins de cinq ans mangent gratuitement, ce qui adoucit la note."
+      },
+      "intro": {
+        "en": "The Four Seasons at Jimbaran Bay is the classic Bali honeymoon resort that quietly turns out to be brilliant with children. Its all-villa layout gives every family a private garden and pool, and the Umah Rare kids club, meaning house of children, runs a full daily programme from crab hunting to kite making, free of charge. There is a dedicated baby pool just 30 cm deep and a kids pool at 60 cm, so even the smallest paddlers have somewhere safe. It is a serious splurge, but the privacy, the service and the perks for young children make it one of the most stress-free luxury choices on the island.",
+        "fr": "Le Four Seasons de Jimbaran Bay est le resort lune de miel classique de Bali qui se revele, discretement, formidable avec des enfants. Sa formule tout en villas offre a chaque famille un jardin et une piscine prives, et le club enfants Umah Rare, la maison des enfants, propose un programme quotidien complet, de la chasse aux crabes a la fabrication de cerfs-volants, gratuitement. Il y a une pataugeoire dediee de seulement 30 cm de profondeur et une piscine enfants a 60 cm, si bien que meme les plus petits baigneurs ont un endroit sur. C'est une vraie folie, mais l'intimite, le service et les avantages pour les jeunes enfants en font l'un des choix de luxe les moins stressants de l'ile."
+      },
+      "highlights": {
+        "en": [
+          "Every villa has a private garden and plunge pool",
+          "Free Umah Rare kids club, open 9am to 7pm",
+          "Baby pool 30 cm deep and kids pool 60 cm deep",
+          "Under-12s stay free, under-5s eat free"
+        ],
+        "fr": [
+          "Chaque villa a un jardin et une piscine a debordement prives",
+          "Club enfants Umah Rare gratuit, ouvert de 9h a 19h",
+          "Pataugeoire de 30 cm et piscine enfants de 60 cm",
+          "Moins de 12 ans loges gratuits, moins de 5 ans nourris gratuits"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Total privacy: your own gated villa and pool",
+          "Free kids club and complimentary babysitting",
+          "Purpose-built baby and toddler pools",
+          "Some of the best service and dining in Bali"
+        ],
+        "fr": [
+          "Intimite totale : votre villa et piscine privees et closes",
+          "Club enfants gratuit et garde d'enfants offerte",
+          "Piscines bebe et tout-petit concues expres",
+          "L'un des meilleurs services et restaurants de Bali"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Among the most expensive resorts on the island",
+          "The hillside layout means slopes and steps between villas",
+          "The bay is scenic but the swimming beach is modest"
+        ],
+        "fr": [
+          "Parmi les resorts les plus chers de l'ile",
+          "L'implantation a flanc de colline implique pentes et marches entre les villas",
+          "La baie est jolie mais la plage de baignade est modeste"
+        ]
+      },
+      "verdict": {
+        "en": "The luxury family benchmark: a private villa and pool for every family, a free kids club and purpose-built baby pools.",
+        "fr": "La reference familiale de luxe : une villa et une piscine privees pour chaque famille, un club enfants gratuit et des piscines bebe concues expres."
+      },
+      "parentTip": {
+        "en": "Book a family villa on the lower terraces near the pools and club, so you avoid the steepest paths with a buggy and stay close to the shallow baby pool.",
+        "fr": "Reservez une villa familiale sur les terrasses basses pres des piscines et du club, pour eviter les chemins les plus raides en poussette et rester pres de la pataugeoire bebe."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏡",
+          "label": {
+            "en": "Villas",
+            "fr": "Villas"
+          },
+          "value": {
+            "en": "Private garden and pool with every villa",
+            "fr": "Jardin et piscine prives avec chaque villa"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free Umah Rare, under-4s welcome supervised",
+            "fr": "Umah Rare gratuit, moins de 4 ans admis encadres"
+          }
+        },
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Little ones",
+            "fr": "Tout-petits"
+          },
+          "value": {
+            "en": "Baby pool 30 cm, kids pool 60 cm",
+            "fr": "Pataugeoire 30 cm, piscine enfants 60 cm"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Kids perks",
+            "fr": "Avantages enfants"
+          },
+          "value": {
+            "en": "Under-12s stay free, under-5s eat free",
+            "fr": "Moins de 12 ans loges, moins de 5 ans nourris"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🦀",
+          "name": {
+            "en": "Crab hunting on the beach",
+            "fr": "Chasse aux crabes sur la plage"
+          },
+          "detail": {
+            "en": "A kids club favourite, poking around the tide pools with a guide.",
+            "fr": "Un incontournable du club, fureter dans les cuvettes de maree avec un guide."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🪁",
+          "name": {
+            "en": "Kite making",
+            "fr": "Fabrication de cerfs-volants"
+          },
+          "detail": {
+            "en": "Build a Balinese kite at the club, then fly it on the beach at sunset.",
+            "fr": "Fabriquez un cerf-volant balinais au club, puis faites-le voler sur la plage au coucher."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Apres-midi"
+          }
+        },
+        {
+          "emoji": "🍳",
+          "name": {
+            "en": "Family cooking class",
+            "fr": "Cours de cuisine en famille"
+          },
+          "detail": {
+            "en": "A hands-on Balinese cooking session the whole family can join.",
+            "fr": "Une session de cuisine balinaise pratique a laquelle toute la famille participe."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Midday",
+            "fr": "Midi"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Breakfast in the villa garden",
+            "fr": "Petit-dejeuner au jardin de la villa"
+          },
+          "note": {
+            "en": "Order in and eat by your own plunge pool.",
+            "fr": "Commandez en villa et mangez au bord de votre piscine."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Baby and kids pools",
+            "fr": "Piscines bebe et enfants"
+          },
+          "note": {
+            "en": "Shallow, warm and purpose-built for little ones.",
+            "fr": "Peu profondes, chaudes et concues pour les petits."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Kids club afternoon",
+            "fr": "Apres-midi au club enfants"
+          },
+          "note": {
+            "en": "Crab hunts and kite making while parents nap or spa.",
+            "fr": "Chasse aux crabes et cerfs-volants pendant que les parents se reposent ou vont au spa."
+          }
+        },
+        {
+          "time": "18:00",
+          "title": {
+            "en": "Sunset seafood on the sand",
+            "fr": "Fruits de mer au coucher sur le sable"
+          },
+          "note": {
+            "en": "Jimbaran's famous beach grills are a short ride away.",
+            "fr": "Les celebres grillades de plage de Jimbaran sont a courte distance."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "One of the best luxury picks for a baby: private villa, free cots, complimentary sitting and a 30 cm baby pool.",
+          "fr": "L'un des meilleurs choix de luxe avec un bebe : villa privee, lits bebe gratuits, garde offerte et pataugeoire de 30 cm."
+        },
+        "toddler": {
+          "en": "The gated villa garden and shallow pools are ideal, and the club takes under-fours with a guardian.",
+          "fr": "Le jardin clos de la villa et les piscines peu profondes sont ideaux, et le club accueille les moins de quatre ans avec un accompagnant."
+        },
+        "kid": {
+          "en": "Crab hunts, kite making and cooking classes keep this age happily busy all day.",
+          "fr": "Chasse aux crabes, cerfs-volants et cours de cuisine occupent joyeusement cet age toute la journee."
+        },
+        "teen": {
+          "en": "Surf lessons, diving and the villa's own pool give teens independence and downtime.",
+          "fr": "Cours de surf, plongee et la piscine de la villa donnent aux ados independance et repos."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Do children really stay and eat free?",
+            "fr": "Les enfants logent-ils et mangent-ils vraiment gratuitement?"
+          },
+          "a": {
+            "en": "Children under twelve stay free sharing with parents, under-fives eat free, and the kids club and babysitting are complimentary, though confirm the current terms at booking.",
+            "fr": "Les moins de douze ans logent gratuitement avec les parents, les moins de cinq ans mangent gratuitement, et le club enfants et la garde sont offerts, mais confirmez les conditions en vigueur a la reservation."
+          }
+        },
+        {
+          "q": {
+            "en": "Is every villa really private?",
+            "fr": "Chaque villa est-elle vraiment privee?"
+          },
+          "a": {
+            "en": "Yes, all 147 villas have a walled garden and their own plunge pool, which is a huge advantage for naps, bath times and toddler meltdowns.",
+            "fr": "Oui, les 147 villas ont un jardin clos et leur propre piscine a debordement, un enorme avantage pour les siestes, les bains et les crises des tout-petits."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the layout hard with a buggy?",
+            "fr": "L'implantation est-elle difficile en poussette?"
+          },
+          "a": {
+            "en": "It is built on a hillside, so there are slopes and steps, but buggies run a constant shuttle and villas near the pools cut down the climbing.",
+            "fr": "Il est construit a flanc de colline, donc il y a des pentes et des marches, mais des voiturettes font la navette en continu et les villas pres des piscines reduisent les montees."
+          }
+        }
+      ]
+    },
+    {
+      "key": "bali-grand-hyatt-bali",
+      "destinationKey": "bali",
+      "name": "Grand Hyatt Bali",
+      "area": {
+        "en": "Nusa Dua",
+        "fr": "Nusa Dua"
+      },
+      "lat": -8.7963,
+      "lng": 115.227,
+      "zoom": 14,
+      "address": "Kawasan Wisata Nusa Dua BTDC, Nusa Dua, Bali 80363, Indonesia",
+      "priceTier": 3,
+      "priceFrom": 230,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "water-slides",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "poolPalms",
+        "whiteResortPool",
+        "resortLoungers"
+      ],
+      "scores": {
+        "rooms": 84,
+        "baby": 82,
+        "pool": 92,
+        "dining": 84,
+        "safety": 86,
+        "convenience": 84,
+        "location": 88,
+        "extras": 86
+      },
+      "roomsSummary": {
+        "en": "Set in a village of Balinese-style low-rise blocks around tropical gardens, the Grand Hyatt has room types that suit every family shape. Standard rooms take a cot easily, and the connecting rooms and themed family suites are the pick with two or more children: the ocean-themed kids room comes with shell-shaped twin beds and its own mermaid bathroom, joined to a parents' room next door. Ground-floor garden rooms cut out the stairs with a buggy, and the calm lagoon beach is a short stroll through the gardens.",
+        "fr": "Amenage en village de batiments bas de style balinais autour de jardins tropicaux, le Grand Hyatt propose des types de chambres adaptes a toutes les familles. Les chambres standard accueillent un lit bebe sans peine, et les chambres communicantes et les suites familiales a theme sont le choix ideal avec deux enfants ou plus : la chambre enfants theme ocean offre des lits jumeaux en forme de coquillage et sa propre salle de bain sirene, reliee a une chambre parents voisine. Les chambres jardin de plain-pied evitent les escaliers en poussette, et la plage de lagon calme est a courte distance a travers les jardins."
+      },
+      "intro": {
+        "en": "The Grand Hyatt is the crowd-pleaser of Nusa Dua: five outdoor pools linked by lazy channels, a long waterslide the kids will not leave, and beautiful gardens that make the huge resort feel like a village. Camp Nusa and the Oceania kids club run supervised activities for ages 4 to 12, and there is a genuine beachfront on the calm, reef-protected Nusa Dua lagoon. It is not the cheapest option, but it is one of the most reliable all-rounders in Bali, the kind of place where you could happily not leave the gates for a week and the children would beg to stay longer.",
+        "fr": "Le Grand Hyatt est le favori de Nusa Dua : cinq piscines exterieures reliees par des canaux paresseux, un long toboggan que les enfants ne quittent plus, et de superbes jardins qui donnent a ce grand resort des airs de village. Camp Nusa et le club enfants Oceania proposent des activites encadrees pour les 4 a 12 ans, et il y a un vrai bord de plage sur le lagon calme et protege par le recif de Nusa Dua. Ce n'est pas l'option la moins chere, mais c'est l'un des plus fiables tout-terrain de Bali, le genre d'endroit ou l'on pourrait ne pas franchir les portes de la semaine et ou les enfants supplieraient de rester plus longtemps."
+      },
+      "highlights": {
+        "en": [
+          "Five pools linked by channels, plus a long waterslide",
+          "Camp Nusa and Oceania kids club, ages 4 to 12",
+          "Ocean-themed family suite with shell-shaped beds",
+          "Calm, reef-protected Nusa Dua lagoon beach"
+        ],
+        "fr": [
+          "Cinq piscines reliees par des canaux, plus un long toboggan",
+          "Camp Nusa et club Oceania, 4 a 12 ans",
+          "Suite familiale theme ocean avec lits en coquillage",
+          "Plage du lagon de Nusa Dua, calme et protegee par le recif"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Outstanding pool complex with a waterslide",
+          "Lush village layout that feels calm despite its size",
+          "Themed family suites that children adore",
+          "Beachfront on one of Bali's safest swimming bays"
+        ],
+        "fr": [
+          "Complexe de piscines remarquable avec toboggan",
+          "Amenagement en village verdoyant, calme malgre la taille",
+          "Suites familiales a theme que les enfants adorent",
+          "En bord d'une des baies de baignade les plus sures de Bali"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The kids club is only free for the first two hours a day",
+          "A very large property, expect a fair bit of walking",
+          "Nusa Dua is a quiet resort strip, not the real Bali on your doorstep"
+        ],
+        "fr": [
+          "Le club enfants n'est gratuit que les deux premieres heures par jour",
+          "Un tres grand domaine, attendez-vous a pas mal de marche",
+          "Nusa Dua est une zone resort tranquille, pas le vrai Bali au pas de la porte"
+        ]
+      },
+      "verdict": {
+        "en": "The dependable Nusa Dua all-rounder: five pools, a waterslide and themed family suites on a calm swimming lagoon.",
+        "fr": "Le tout-terrain fiable de Nusa Dua : cinq piscines, un toboggan et des suites familiales a theme sur un lagon de baignade calme."
+      },
+      "parentTip": {
+        "en": "The themed family suite is worth the upgrade with two kids: they get their own shell-bed room and you get a door you can close at bedtime.",
+        "fr": "La suite familiale a theme vaut le surclassement avec deux enfants : ils ont leur chambre a lits coquillage et vous avez une porte a fermer au coucher."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Five pools and a long waterslide",
+            "fr": "Cinq piscines et un long toboggan"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Camp Nusa, 2 hours free then charged",
+            "fr": "Camp Nusa, 2 heures gratuites puis payant"
+          }
+        },
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Best family room",
+            "fr": "Meilleure chambre famille"
+          },
+          "value": {
+            "en": "Ocean-themed suite with shell beds",
+            "fr": "Suite theme ocean avec lits coquillage"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Calm Nusa Dua lagoon, reef-protected",
+            "fr": "Lagon calme de Nusa Dua, protege par le recif"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "The big waterslide",
+            "fr": "Le grand toboggan"
+          },
+          "detail": {
+            "en": "An extra-long slide into one of the five pools, run after run all afternoon.",
+            "fr": "Un toboggan extra-long dans l'une des cinq piscines, descente apres descente tout l'apres-midi."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Apres-midi"
+          }
+        },
+        {
+          "emoji": "🐠",
+          "name": {
+            "en": "Camp Nusa fish feeding",
+            "fr": "Nourrissage des poissons au Camp Nusa"
+          },
+          "detail": {
+            "en": "The club runs fish feeding, kite making and Balinese crafts through the day.",
+            "fr": "Le club propose nourrissage des poissons, cerfs-volants et bricolage balinais dans la journee."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🏖️",
+          "name": {
+            "en": "Lagoon beach paddle",
+            "fr": "Baignade au lagon"
+          },
+          "detail": {
+            "en": "The reef keeps the bay flat and shallow, ideal for a first sea swim.",
+            "fr": "Le recif garde la baie plate et peu profonde, ideal pour une premiere baignade en mer."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Garden breakfast",
+            "fr": "Petit-dejeuner au jardin"
+          },
+          "note": {
+            "en": "A big buffet before the day heats up.",
+            "fr": "Un grand buffet avant que la journee ne chauffe."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Pools and waterslide",
+            "fr": "Piscines et toboggan"
+          },
+          "note": {
+            "en": "Float the channels and queue for the slide.",
+            "fr": "Flottez dans les canaux et faites la queue au toboggan."
+          }
+        },
+        {
+          "time": "13:30",
+          "title": {
+            "en": "Camp Nusa session",
+            "fr": "Session Camp Nusa"
+          },
+          "note": {
+            "en": "Two free hours of crafts while parents rest.",
+            "fr": "Deux heures gratuites de bricolage pendant que les parents se reposent."
+          }
+        },
+        {
+          "time": "17:00",
+          "title": {
+            "en": "Beach at golden hour",
+            "fr": "Plage a l'heure doree"
+          },
+          "note": {
+            "en": "Calm shallows and sandcastles before dinner.",
+            "fr": "Hauts-fonds calmes et chateaux de sable avant le diner."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Ground-floor garden rooms and free cots work well, and the calm lagoon is gentle for first paddles.",
+          "fr": "Les chambres jardin de plain-pied et les lits bebe gratuits conviennent bien, et le lagon calme est doux pour les premieres baignades."
+        },
+        "toddler": {
+          "en": "The shallow pool areas and gentle beach suit toddlers, though the resort is big so pack the buggy.",
+          "fr": "Les zones de piscine peu profondes et la plage douce conviennent aux tout-petits, mais le resort est grand, prenez la poussette."
+        },
+        "kid": {
+          "en": "The waterslide, the pools and Camp Nusa make this the ideal age here.",
+          "fr": "Le toboggan, les piscines et le Camp Nusa font de cet age l'ideal ici."
+        },
+        "teen": {
+          "en": "Water sports, the slide and a short hop to Nusa Dua's shops keep teens content.",
+          "fr": "Sports nautiques, toboggan et un court trajet vers les boutiques de Nusa Dua contentent les ados."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the kids club free?",
+            "fr": "Le club enfants est-il gratuit?"
+          },
+          "a": {
+            "en": "Guests get two complimentary hours a day at Camp Nusa, and additional hours are charged, so budget for that if you want longer sessions.",
+            "fr": "Les clients beneficient de deux heures gratuites par jour au Camp Nusa, et les heures supplementaires sont facturees, prevoyez-le si vous voulez des sessions plus longues."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the beach good for swimming?",
+            "fr": "La plage est-elle bonne pour la baignade?"
+          },
+          "a": {
+            "en": "Yes, the Nusa Dua lagoon is protected by an offshore reef, so the water is calm and shallow, far safer for children than the surf beaches of the west coast.",
+            "fr": "Oui, le lagon de Nusa Dua est protege par un recif au large, donc l'eau est calme et peu profonde, bien plus sure pour les enfants que les plages a vagues de la cote ouest."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it too far from the real Bali?",
+            "fr": "Est-ce trop loin du vrai Bali?"
+          },
+          "a": {
+            "en": "Nusa Dua is a quiet, manicured resort zone, so book a day trip to Uluwatu temple or Ubud if you want culture, but it is calm and easy with young children as a base.",
+            "fr": "Nusa Dua est une zone resort tranquille et soignee, reservez donc une excursion au temple d'Uluwatu ou a Ubud pour la culture, mais c'est calme et facile avec de jeunes enfants comme point de chute."
+          }
+        }
+      ]
+    },
+    {
+      "key": "bali-padma-resort-ubud",
+      "destinationKey": "bali",
+      "name": "Padma Resort Ubud",
+      "area": {
+        "en": "Ubud",
+        "fr": "Ubud"
+      },
+      "lat": -8.437,
+      "lng": 115.253,
+      "zoom": 13,
+      "address": "Banjar Carik, Desa Puhu, Payangan, Gianyar, Ubud, Bali 80572, Indonesia",
+      "priceTier": 3,
+      "priceFrom": 200,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolTropicalMtn",
+        "villaPoolGreen",
+        "poolPalms"
+      ],
+      "scores": {
+        "rooms": 86,
+        "baby": 80,
+        "pool": 88,
+        "dining": 84,
+        "safety": 82,
+        "convenience": 74,
+        "location": 90,
+        "extras": 88
+      },
+      "roomsSummary": {
+        "en": "Clinging to a jungle ridge above the Payangan valley, Padma Ubud has rooms and suites that all look out over rice terraces and rainforest. Deluxe rooms take a cot and sleep a small family, while the 177 sqm Family Suite adds a second bedroom, a living room and a private hot tub, ideal for two children who need their own space. Kids stay free in existing bedding on many rates, and the resort's shuttle handles the winding road down to central Ubud so you do not have to drive it.",
+        "fr": "Accroche a une crete de jungle au-dessus de la vallee de Payangan, Padma Ubud a des chambres et suites qui donnent toutes sur les rizieres en terrasses et la foret. Les chambres deluxe accueillent un lit bebe et logent une petite famille, tandis que la Family Suite de 177 m2 ajoute une seconde chambre, un salon et un bain a remous prive, ideale pour deux enfants qui ont besoin de leur espace. Les enfants logent gratuitement dans la literie existante sur de nombreux tarifs, et la navette du resort gere la route sinueuse vers le centre d'Ubud pour vous eviter de conduire."
+      },
+      "intro": {
+        "en": "For families who want more than a beach, Padma Ubud is Bali's best jungle resort with young children. It hangs over the Payangan valley north of Ubud, with a spectacular 89-metre infinity pool that seems to pour into the rainforest and a separate shallow, salt-chlorinated kids pool with a waterfall right in front of the free Wolly Kids Club. Days here mix jungle walks, rice-paddy planting and animal feeding with proper downtime, and the cool highland air is a relief after the humid coast. Pair it with a few beach days and you have the classic two-centre Bali family trip.",
+        "fr": "Pour les familles qui veulent plus qu'une plage, Padma Ubud est le meilleur resort de jungle de Bali avec de jeunes enfants. Il surplombe la vallee de Payangan au nord d'Ubud, avec une spectaculaire piscine a debordement de 89 metres qui semble se deverser dans la foret et une piscine enfants a part, peu profonde et au sel, avec une cascade juste devant le club enfants Wolly gratuit. Les journees melent ici balades en jungle, plantation dans les rizieres et nourrissage des animaux avec de vrais moments de repos, et l'air frais des hauteurs soulage apres la cote humide. Associez-le a quelques jours de plage et vous avez le classique voyage familial balinais en deux etapes."
+      },
+      "highlights": {
+        "en": [
+          "Dramatic 89-metre infinity pool over the jungle",
+          "Free Wolly Kids Club, ages 4 to 12",
+          "Shallow salt-water kids pool with a waterfall",
+          "177 sqm Family Suite with a second bedroom"
+        ],
+        "fr": [
+          "Spectaculaire piscine a debordement de 89 metres sur la jungle",
+          "Club enfants Wolly gratuit, 4 a 12 ans",
+          "Piscine enfants peu profonde au sel avec cascade",
+          "Family Suite de 177 m2 avec une seconde chambre"
+        ]
+      },
+      "pros": {
+        "en": [
+          "A genuine jungle setting, not just another beach resort",
+          "Free kids club with rice planting and animal feeding",
+          "Cooler highland air than the humid coast",
+          "Safe, shallow salt-water pool for little swimmers"
+        ],
+        "fr": [
+          "Un vrai cadre de jungle, pas un enieme resort de plage",
+          "Club enfants gratuit avec plantation de riz et nourrissage des animaux",
+          "Air des hauteurs plus frais que la cote humide",
+          "Piscine au sel peu profonde et sure pour les petits nageurs"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No beach, so best paired with a coastal stay",
+          "The winding road to central Ubud takes a while",
+          "The ridge setting means steps and slopes around the resort"
+        ],
+        "fr": [
+          "Pas de plage, a associer de preference a un sejour cotier",
+          "La route sinueuse vers le centre d'Ubud prend du temps",
+          "Le cadre en crete implique marches et pentes dans le resort"
+        ]
+      },
+      "verdict": {
+        "en": "Bali's best jungle resort for families: a jaw-dropping infinity pool, a free kids club and cool highland air, ideally paired with beach days.",
+        "fr": "Le meilleur resort de jungle de Bali pour les familles : une piscine a debordement bluffante, un club enfants gratuit et l'air frais des hauteurs, a associer idealement a des jours de plage."
+      },
+      "parentTip": {
+        "en": "Use the free shuttle rather than driving the twisty road into Ubud with car-sick kids, and time trips for early morning before the valley heat and the crowds build.",
+        "fr": "Utilisez la navette gratuite plutot que de conduire la route sinueuse vers Ubud avec des enfants malades en voiture, et calez les sorties tot le matin avant la chaleur de la vallee et l'affluence."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "89 m infinity pool plus a shallow kids pool",
+            "fr": "Piscine a debordement de 89 m et pataugeoire"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free Wolly Club, under-4s with a parent",
+            "fr": "Wolly Club gratuit, moins de 4 ans avec un parent"
+          }
+        },
+        {
+          "icon": "🌴",
+          "label": {
+            "en": "Setting",
+            "fr": "Cadre"
+          },
+          "value": {
+            "en": "Jungle ridge over the Payangan valley",
+            "fr": "Crete de jungle sur la vallee de Payangan"
+          }
+        },
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Best family room",
+            "fr": "Meilleure chambre famille"
+          },
+          "value": {
+            "en": "177 sqm Family Suite with two bedrooms",
+            "fr": "Family Suite 177 m2 avec deux chambres"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🌾",
+          "name": {
+            "en": "Rice paddy planting",
+            "fr": "Plantation dans la riziere"
+          },
+          "detail": {
+            "en": "The kids club takes children into the paddies to plant and learn, mud included.",
+            "fr": "Le club enfants emmene les enfants dans les rizieres pour planter et apprendre, boue comprise."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🐇",
+          "name": {
+            "en": "Animal feeding",
+            "fr": "Nourrissage des animaux"
+          },
+          "detail": {
+            "en": "Feeding time for the resort's rabbits and birds is a daily hit with little ones.",
+            "fr": "L'heure du nourrissage des lapins et oiseaux du resort fait mouche chaque jour aupres des petits."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Apres-midi"
+          }
+        },
+        {
+          "emoji": "🥾",
+          "name": {
+            "en": "Guided jungle walk",
+            "fr": "Balade guidee en jungle"
+          },
+          "detail": {
+            "en": "A gentle trail through rice terraces and forest with a resort guide.",
+            "fr": "Un sentier tranquille a travers rizieres et foret avec un guide du resort."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Breakfast over the valley",
+            "fr": "Petit-dejeuner sur la vallee"
+          },
+          "note": {
+            "en": "Cool morning air and a view straight into the jungle.",
+            "fr": "Air frais du matin et vue plongeante sur la jungle."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Kids club rice planting",
+            "fr": "Plantation de riz au club"
+          },
+          "note": {
+            "en": "Muddy, hands-on and a real Balinese lesson.",
+            "fr": "Boueux, pratique et une vraie lecon balinaise."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Infinity pool afternoon",
+            "fr": "Apres-midi a la piscine a debordement"
+          },
+          "note": {
+            "en": "Kids to the shallow pool, parents to the long one.",
+            "fr": "Les enfants a la pataugeoire, les parents au grand bassin."
+          }
+        },
+        {
+          "time": "16:30",
+          "title": {
+            "en": "Animal feeding",
+            "fr": "Nourrissage des animaux"
+          },
+          "note": {
+            "en": "A gentle end to the day before dinner.",
+            "fr": "Une fin de journee douce avant le diner."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Doable with the cooler air and free cots, though the ridge steps and no beach make it easier once past the newborn stage.",
+          "fr": "Faisable avec l'air plus frais et les lits bebe gratuits, meme si les marches de la crete et l'absence de plage le rendent plus simple passe le stade nouveau-ne."
+        },
+        "toddler": {
+          "en": "The shallow salt-water kids pool and animal feeding are perfect, but keep a close eye near the ridge drops.",
+          "fr": "La piscine enfants au sel peu profonde et le nourrissage des animaux sont parfaits, mais surveillez de pres pres des a-pics de la crete."
+        },
+        "kid": {
+          "en": "The ideal age: rice planting, jungle walks and the free club fill every day.",
+          "fr": "L'age ideal : plantation de riz, balades en jungle et le club gratuit remplissent chaque journee."
+        },
+        "teen": {
+          "en": "The huge infinity pool, cycling and Ubud's markets and monkeys nearby keep teens engaged.",
+          "fr": "L'immense piscine a debordement, le velo et les marches et singes d'Ubud tout proches gardent les ados interesses."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the kids club free?",
+            "fr": "Le club enfants est-il gratuit?"
+          },
+          "a": {
+            "en": "Yes, the Wolly Kids Club is complimentary for in-house guests aged 4 to 12, and under-fours are welcome with a parent, open 10am to 6pm.",
+            "fr": "Oui, le Wolly Kids Club est gratuit pour les clients de l'hotel de 4 a 12 ans, et les moins de quatre ans sont admis avec un parent, ouvert de 10h a 18h."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there a beach?",
+            "fr": "Y a-t-il une plage?"
+          },
+          "a": {
+            "en": "No, this is a jungle resort in the hills, so it works best split with a few beach days in Sanur or Nusa Dua for the full Bali family trip.",
+            "fr": "Non, c'est un resort de jungle dans les collines, il fonctionne donc mieux partage avec quelques jours de plage a Sanur ou Nusa Dua pour le voyage familial complet."
+          }
+        },
+        {
+          "q": {
+            "en": "How far is central Ubud?",
+            "fr": "A quelle distance du centre d'Ubud?"
+          },
+          "a": {
+            "en": "About thirty to forty minutes down a winding road, so use the resort shuttle and go early to beat the heat and the crowds.",
+            "fr": "Environ trente a quarante minutes par une route sinueuse, utilisez donc la navette du resort et partez tot pour eviter la chaleur et l'affluence."
+          }
+        }
+      ]
+    },
+    {
+      "key": "bali-hyatt-regency-bali",
+      "destinationKey": "bali",
+      "name": "Hyatt Regency Bali",
+      "area": {
+        "en": "Sanur",
+        "fr": "Sanur"
+      },
+      "lat": -8.701,
+      "lng": 115.262,
+      "zoom": 14,
+      "address": "Jl. Danau Tamblingan No.89, Sanur, Denpasar, Bali 80228, Indonesia",
+      "priceTier": 3,
+      "priceFrom": 190,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "water-slides",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "poolDuskPalms",
+        "resortLoungers",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 82,
+        "baby": 84,
+        "pool": 86,
+        "dining": 82,
+        "safety": 88,
+        "convenience": 86,
+        "location": 86,
+        "extras": 82
+      },
+      "roomsSummary": {
+        "en": "Reborn after a full refit, the Hyatt Regency spreads through nine hectares of heritage gardens along Sanur beach, so rooms are low-rise and calm. Standard rooms take a cot comfortably, and the suites and connecting-room combinations suit families who want a door between the children and the grown-ups. Ground-floor garden rooms make buggy life easy, and the location, a short walk from Sanur's flat, pedestrian-friendly beachfront path, means you are not trapped behind resort gates.",
+        "fr": "Renaissant apres une renovation complete, le Hyatt Regency s'etend sur neuf hectares de jardins patrimoniaux le long de la plage de Sanur, avec des batiments bas et paisibles. Les chambres standard accueillent un lit bebe sans probleme, et les suites et combinaisons de chambres communicantes conviennent aux familles qui veulent une porte entre les enfants et les adultes. Les chambres jardin de plain-pied facilitent la vie en poussette, et l'emplacement, a courte distance de la promenade plate et pietonne du front de mer de Sanur, evite de rester coince derriere les portes du resort."
+      },
+      "intro": {
+        "en": "Sanur is the quiet, old-Bali beach town that families keep coming back to, and the Hyatt Regency is its most polished family base. A recent top-to-toe renovation added three new pools, including a toddler pool with its own little slide, to gardens so lush they are officially protected. The dino-themed Camp Hyatt kids club looks after ages 4 to 12, and the calm, reef-sheltered Sanur lagoon out front is one of the safest swimming beaches in Bali. Best of all, Sanur's flat seafront promenade of cafes and shops is right on your doorstep, so you get resort ease and a real town to explore.",
+        "fr": "Sanur est la station balneaire tranquille du vieux Bali ou les familles reviennent sans cesse, et le Hyatt Regency en est le point de chute familial le plus soigne. Une recente renovation de fond en comble a ajoute trois nouvelles piscines, dont une pataugeoire avec son petit toboggan, a des jardins si luxuriants qu'ils sont officiellement proteges. Le club enfants Camp Hyatt sur le theme des dinosaures s'occupe des 4 a 12 ans, et le lagon de Sanur calme et abrite par le recif juste devant est l'une des plages de baignade les plus sures de Bali. Mieux encore, la promenade plate du front de mer de Sanur, bordee de cafes et de boutiques, est juste au pas de la porte, offrant la facilite du resort et une vraie ville a explorer."
+      },
+      "highlights": {
+        "en": [
+          "Three pools including a toddler pool with a slide",
+          "Dino-themed Camp Hyatt kids club, ages 4 to 12",
+          "Calm, reef-sheltered Sanur lagoon beach",
+          "Flat seafront promenade of cafes right outside"
+        ],
+        "fr": [
+          "Trois piscines dont une pataugeoire a toboggan",
+          "Club enfants Camp Hyatt theme dinosaures, 4 a 12 ans",
+          "Plage du lagon de Sanur, calme et abritee par le recif",
+          "Promenade plate du front de mer avec cafes juste devant"
+        ]
+      },
+      "pros": {
+        "en": [
+          "One of Bali's safest, calmest swimming beaches",
+          "Freshly renovated with a dedicated toddler pool",
+          "Walkable town on the doorstep, not an isolated strip",
+          "Beautiful, protected heritage gardens"
+        ],
+        "fr": [
+          "L'une des plages de baignade les plus sures et calmes de Bali",
+          "Fraichement renove avec une pataugeoire dediee",
+          "Ville accessible a pied au pas de la porte, pas une zone isolee",
+          "De beaux jardins patrimoniaux proteges"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Camp Hyatt is only free for the first hour a day",
+          "At low tide the lagoon retreats and can be weedy",
+          "A calm town, so livelier teens may find it sleepy"
+        ],
+        "fr": [
+          "Le Camp Hyatt n'est gratuit que la premiere heure par jour",
+          "A maree basse le lagon se retire et peut etre couvert d'algues",
+          "Une ville tranquille, donc les ados plus vifs peuvent la trouver endormie"
+        ]
+      },
+      "verdict": {
+        "en": "The pick of family Sanur: calm swimming, a toddler pool with a slide and a walkable seafront town just outside the gates.",
+        "fr": "Le meilleur choix familial de Sanur : baignade calme, pataugeoire a toboggan et une ville de front de mer accessible a pied juste devant les portes."
+      },
+      "parentTip": {
+        "en": "Check the tide chart: the Sanur lagoon is best for swimming a couple of hours either side of high tide, so plan beach time around it and use the pools at low water.",
+        "fr": "Consultez les horaires des marees : le lagon de Sanur est meilleur pour la baignade quelques heures avant et apres la maree haute, calez donc la plage la-dessus et utilisez les piscines a maree basse."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Three new pools, one for toddlers with a slide",
+            "fr": "Trois piscines neuves, une bebe a toboggan"
+          }
+        },
+        {
+          "icon": "🦖",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Dino Camp Hyatt, first hour free",
+            "fr": "Camp Hyatt dino, premiere heure gratuite"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Calm reef-sheltered Sanur lagoon",
+            "fr": "Lagon de Sanur calme et abrite par le recif"
+          }
+        },
+        {
+          "icon": "🚶",
+          "label": {
+            "en": "Outside the gates",
+            "fr": "Devant les portes"
+          },
+          "value": {
+            "en": "Flat promenade of cafes and shops",
+            "fr": "Promenade plate de cafes et boutiques"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🚲",
+          "name": {
+            "en": "Family bike ride",
+            "fr": "Balade a velo en famille"
+          },
+          "detail": {
+            "en": "Sanur's flat seafront path is made for a gentle family cycle to breakfast or ice cream.",
+            "fr": "La promenade plate de Sanur est faite pour une balade a velo tranquille en famille vers le petit-dejeuner ou une glace."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🦖",
+          "name": {
+            "en": "Camp Hyatt dino play",
+            "fr": "Jeux dino au Camp Hyatt"
+          },
+          "detail": {
+            "en": "The dino-themed club runs crafts and games indoors and out.",
+            "fr": "Le club theme dinosaures propose bricolage et jeux en interieur comme en exterieur."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Apres-midi"
+          }
+        },
+        {
+          "emoji": "⛵",
+          "name": {
+            "en": "Nusa Lembongan day trip",
+            "fr": "Excursion a Nusa Lembongan"
+          },
+          "detail": {
+            "en": "Fast boats leave Sanur for the calm snorkelling island of Lembongan.",
+            "fr": "Des bateaux rapides partent de Sanur vers l'ile de Lembongan et son snorkeling calme."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Anytime",
+            "fr": "A toute heure"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Beach path breakfast",
+            "fr": "Petit-dejeuner sur la promenade"
+          },
+          "note": {
+            "en": "Cycle out to a seafront cafe before the heat.",
+            "fr": "Roulez jusqu'a un cafe du front de mer avant la chaleur."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Lagoon swim at high tide",
+            "fr": "Baignade au lagon a maree haute"
+          },
+          "note": {
+            "en": "The calmest, deepest water is around high tide.",
+            "fr": "L'eau la plus calme et la plus profonde est autour de la maree haute."
+          }
+        },
+        {
+          "time": "13:30",
+          "title": {
+            "en": "Pools and toddler slide",
+            "fr": "Piscines et toboggan bebe"
+          },
+          "note": {
+            "en": "The shallow pool keeps little ones happy at low water.",
+            "fr": "La pataugeoire occupe les petits a maree basse."
+          }
+        },
+        {
+          "time": "17:30",
+          "title": {
+            "en": "Sunset on the promenade",
+            "fr": "Coucher de soleil sur la promenade"
+          },
+          "note": {
+            "en": "Sanur faces east, so mornings sparkle and evenings glow soft.",
+            "fr": "Sanur regarde a l'est, les matins scintillent et les soirs rougeoient en douceur."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "One of the easiest Bali beaches for a baby: calm shallows, flat paths and a short airport transfer.",
+          "fr": "L'une des plages de Bali les plus faciles avec un bebe : hauts-fonds calmes, chemins plats et court transfert de l'aeroport."
+        },
+        "toddler": {
+          "en": "The dedicated toddler pool and the gentle lagoon are ideal, and the flat promenade is a dream with a buggy.",
+          "fr": "La pataugeoire dediee et le lagon doux sont ideaux, et la promenade plate est un reve avec une poussette."
+        },
+        "kid": {
+          "en": "Bike rides, the dino club and boat trips to Lembongan fill the days for this age.",
+          "fr": "Balades a velo, club dino et sorties bateau a Lembongan remplissent les journees de cet age."
+        },
+        "teen": {
+          "en": "Snorkelling trips and water sports help, though the calm town suits laid-back teens best.",
+          "fr": "Sorties snorkeling et sports nautiques aident, meme si la ville tranquille convient surtout aux ados detendus."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the kids club free?",
+            "fr": "Le club enfants est-il gratuit?"
+          },
+          "a": {
+            "en": "Camp Hyatt gives overnight guests the first hour free each day, with further hours charged, so it is a lighter free offer than some Bali resorts.",
+            "fr": "Le Camp Hyatt offre aux clients la premiere heure gratuite chaque jour, les heures suivantes etant facturees, une offre gratuite plus legere que certains resorts balinais."
+          }
+        },
+        {
+          "q": {
+            "en": "Is Sanur beach safe for children?",
+            "fr": "La plage de Sanur est-elle sure pour les enfants?"
+          },
+          "a": {
+            "en": "Yes, an offshore reef keeps the lagoon calm and shallow, making it one of Bali's safest swimming beaches, though the water pulls back a long way at low tide.",
+            "fr": "Oui, un recif au large garde le lagon calme et peu profond, ce qui en fait l'une des plages les plus sures de Bali, meme si l'eau se retire loin a maree basse."
+          }
+        },
+        {
+          "q": {
+            "en": "Is Sanur a good base for day trips?",
+            "fr": "Sanur est-elle une bonne base pour les excursions?"
+          },
+          "a": {
+            "en": "Very much so: fast boats to Lembongan and Nusa Penida leave from here, and Ubud is about an hour inland by car.",
+            "fr": "Tout a fait : des bateaux rapides vers Lembongan et Nusa Penida partent d'ici, et Ubud est a environ une heure de route dans les terres."
+          }
+        }
+      ]
+    },
+    {
+      "key": "bali-padma-resort-legian",
+      "destinationKey": "bali",
+      "name": "Padma Resort Legian",
+      "area": {
+        "en": "Legian",
+        "fr": "Legian"
+      },
+      "lat": -8.705,
+      "lng": 115.168,
+      "zoom": 14,
+      "address": "Jl. Padma No.1, Legian, Kuta, Badung, Bali 80361, Indonesia",
+      "priceTier": 3,
+      "priceFrom": 180,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolCabanas",
+        "poolPalms",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 84,
+        "baby": 82,
+        "pool": 90,
+        "dining": 84,
+        "safety": 80,
+        "convenience": 88,
+        "location": 86,
+        "extras": 88
+      },
+      "roomsSummary": {
+        "en": "Padma Legian is built around families, with a dedicated family block and rooms sized for real trips. The Premier Double Double gives one bedroom two queen beds and a bathtub, ideal for toddlers and young children, while suites step up to two bedrooms and Presidential units add three bedrooms with a private pool. Kids stay free in existing bedding on many rates, cots are provided, and the family rooms sit close to the waterslide pool and the Wolly Kids Club so nap-time dashes are short.",
+        "fr": "Padma Legian est concu autour des familles, avec un bloc familial dedie et des chambres dimensionnees pour de vrais voyages. La Premier Double Double offre a une chambre deux lits queen et une baignoire, ideale pour tout-petits et jeunes enfants, tandis que les suites montent a deux chambres et les unites Presidential ajoutent trois chambres avec piscine privee. Les enfants logent gratuitement dans la literie existante sur de nombreux tarifs, les lits bebe sont fournis, et les chambres familiales sont proches de la piscine a toboggans et du Wolly Kids Club, ce qui raccourcit les allers-retours de la sieste."
+      },
+      "intro": {
+        "en": "Padma Legian is the family favourite of Bali's west coast, a big, green, beachfront resort with a genuinely brilliant pool complex. The star for children is the family pool, with three waterslides, water spouts and a shallow splash area right next to the free Wolly Kids Club, which runs from 9am to 9pm. It sits directly across a quiet lane from Legian Beach, calmer than neighbouring Kuta but still an open surf beach, so it is one to watch. With sunset over the sea, a lively but not chaotic setting and shops and restaurants a short stroll away, it is the classic all-action west-coast family week.",
+        "fr": "Padma Legian est le favori des familles sur la cote ouest de Bali, un grand resort verdoyant en bord de plage avec un complexe de piscines vraiment epatant. La vedette pour les enfants est la piscine familiale, avec trois toboggans, des jets d'eau et une zone de pataugeoire juste a cote du Wolly Kids Club gratuit, ouvert de 9h a 21h. Il se trouve juste en face, de l'autre cote d'une ruelle tranquille, de la plage de Legian, plus calme que Kuta voisine mais toujours une plage ouverte a vagues, donc a surveiller. Avec le coucher de soleil sur la mer, un cadre anime mais pas chaotique et des boutiques et restaurants a courte distance, c'est la classique semaine familiale pleine d'action de la cote ouest."
+      },
+      "highlights": {
+        "en": [
+          "Family pool with three waterslides and spouts",
+          "Free Wolly Kids Club, ages 4 to 12, open till 9pm",
+          "Games centre with consoles for ages 6 to 12",
+          "Beachfront on Legian, calmer than Kuta"
+        ],
+        "fr": [
+          "Piscine familiale avec trois toboggans et jets d'eau",
+          "Wolly Kids Club gratuit, 4 a 12 ans, ouvert jusqu'a 21h",
+          "Salle de jeux avec consoles pour les 6 a 12 ans",
+          "En bord de la plage de Legian, plus calme que Kuta"
+        ]
+      },
+      "pros": {
+        "en": [
+          "One of the best family pools in Bali",
+          "Free kids club open unusually late",
+          "Great value beachfront for what you get",
+          "Shops, restaurants and sunset all within a short walk"
+        ],
+        "fr": [
+          "L'une des meilleures piscines familiales de Bali",
+          "Club enfants gratuit ouvert exceptionnellement tard",
+          "Excellent rapport qualite-prix en bord de mer",
+          "Boutiques, restaurants et coucher de soleil a courte distance"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Legian is an open surf beach with rip currents, swim at the pools with young kids",
+          "The west coast is busier and less polished than Nusa Dua",
+          "A large, popular resort that can feel full in high season"
+        ],
+        "fr": [
+          "Legian est une plage ouverte a vagues avec des courants d'arrachement, baignez-vous aux piscines avec de jeunes enfants",
+          "La cote ouest est plus animee et moins soignee que Nusa Dua",
+          "Un grand resort populaire qui peut sembler plein en haute saison"
+        ]
+      },
+      "verdict": {
+        "en": "The west coast family champ: a superb three-slide family pool, a free late-opening kids club and beachfront value at Legian.",
+        "fr": "Le champion familial de la cote ouest : une superbe piscine familiale a trois toboggans, un club enfants gratuit ouvert tard et le rapport qualite-prix du bord de mer a Legian."
+      },
+      "parentTip": {
+        "en": "Keep young children swimming in the family pool, not the sea: Legian has real surf and rip currents, so save the beach for sandcastles and sunset walks.",
+        "fr": "Faites nager les jeunes enfants dans la piscine familiale, pas dans la mer : Legian a de vraies vagues et des courants d'arrachement, gardez donc la plage pour les chateaux de sable et les balades au coucher."
+      },
+      "atAGlance": [
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Family pool",
+            "fr": "Piscine familiale"
+          },
+          "value": {
+            "en": "Three waterslides, spouts and a splash area",
+            "fr": "Trois toboggans, jets et zone pataugeoire"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free Wolly Club, 9am to 9pm",
+            "fr": "Wolly Club gratuit, 9h a 21h"
+          }
+        },
+        {
+          "icon": "🛏️",
+          "label": {
+            "en": "Best family room",
+            "fr": "Meilleure chambre famille"
+          },
+          "value": {
+            "en": "Premier Double Double with two queens",
+            "fr": "Premier Double Double avec deux lits queen"
+          }
+        },
+        {
+          "icon": "🏖️",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Legian sands, surf beach, swim at the pools",
+            "fr": "Sable de Legian, plage a vagues, baignade aux piscines"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "Waterslide sessions",
+            "fr": "Sessions toboggans"
+          },
+          "detail": {
+            "en": "Three slides and water spouts in the family pool keep kids busy for hours.",
+            "fr": "Trois toboggans et des jets d'eau dans la piscine familiale occupent les enfants des heures."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Apres-midi"
+          }
+        },
+        {
+          "emoji": "🐢",
+          "name": {
+            "en": "Turtle feeding at the club",
+            "fr": "Nourrissage des tortues au club"
+          },
+          "detail": {
+            "en": "Turtle feeding, towel origami and Balinese dancing fill the Wolly programme.",
+            "fr": "Nourrissage des tortues, origami de serviettes et danse balinaise remplissent le programme Wolly."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🌅",
+          "name": {
+            "en": "Sunset beach walk",
+            "fr": "Balade sur la plage au coucher"
+          },
+          "detail": {
+            "en": "Legian faces west, so evenings deliver Bali's famous fiery sunsets.",
+            "fr": "Legian regarde a l'ouest, les soirees offrent les celebres couchers de soleil flamboyants de Bali."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soir"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Buffet breakfast",
+            "fr": "Petit-dejeuner buffet"
+          },
+          "note": {
+            "en": "Plenty of choice before the pool opens up.",
+            "fr": "Beaucoup de choix avant l'ouverture de la piscine."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Family pool and slides",
+            "fr": "Piscine familiale et toboggans"
+          },
+          "note": {
+            "en": "Grab shade early near the splash area.",
+            "fr": "Prenez de l'ombre tot pres de la zone pataugeoire."
+          }
+        },
+        {
+          "time": "14:00",
+          "title": {
+            "en": "Wolly Kids Club",
+            "fr": "Wolly Kids Club"
+          },
+          "note": {
+            "en": "Turtle feeding and crafts while parents relax.",
+            "fr": "Nourrissage des tortues et bricolage pendant que les parents se reposent."
+          }
+        },
+        {
+          "time": "18:00",
+          "title": {
+            "en": "Beach sunset",
+            "fr": "Coucher de soleil sur la plage"
+          },
+          "note": {
+            "en": "Sandcastles on Legian as the sky turns orange.",
+            "fr": "Chateaux de sable a Legian tandis que le ciel vire a l'orange."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "The shallow splash pool and free cots work well, and the short airport transfer helps after a long flight.",
+          "fr": "La pataugeoire peu profonde et les lits bebe gratuits conviennent bien, et le court transfert de l'aeroport aide apres un long vol."
+        },
+        "toddler": {
+          "en": "The splash area next to the club is ideal, but keep toddlers well away from the surf on the beach.",
+          "fr": "La zone pataugeoire a cote du club est ideale, mais gardez les tout-petits bien loin des vagues sur la plage."
+        },
+        "kid": {
+          "en": "The prime age here: three waterslides, the games centre and a late-opening club.",
+          "fr": "L'age ideal ici : trois toboggans, la salle de jeux et un club ouvert tard."
+        },
+        "teen": {
+          "en": "Surf lessons on Legian, the games consoles and Seminyak's shops nearby keep teens busy.",
+          "fr": "Cours de surf a Legian, consoles de jeux et boutiques de Seminyak tout proches occupent les ados."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the kids club free?",
+            "fr": "Le club enfants est-il gratuit?"
+          },
+          "a": {
+            "en": "Yes, the Wolly Kids Club is complimentary for guests aged 4 to 12, and it stays open unusually late, from 9am to 9pm.",
+            "fr": "Oui, le Wolly Kids Club est gratuit pour les clients de 4 a 12 ans, et il reste ouvert exceptionnellement tard, de 9h a 21h."
+          }
+        },
+        {
+          "q": {
+            "en": "Can children swim in the sea?",
+            "fr": "Les enfants peuvent-ils se baigner dans la mer?"
+          },
+          "a": {
+            "en": "Legian is an open surf beach with rip currents, so young children should swim in the pools, and older ones only near the flags with close supervision.",
+            "fr": "Legian est une plage ouverte a vagues avec des courants d'arrachement, les jeunes enfants doivent donc nager dans les piscines, et les plus grands seulement pres des drapeaux et bien surveilles."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it walkable to shops and restaurants?",
+            "fr": "Est-ce accessible a pied aux boutiques et restaurants?"
+          },
+          "a": {
+            "en": "Yes, Legian and Seminyak's shops, cafes and restaurants are a short flat walk, which is a big plus over the more isolated Nusa Dua strip.",
+            "fr": "Oui, les boutiques, cafes et restaurants de Legian et Seminyak sont a courte distance a pied sur du plat, un vrai atout face a la zone plus isolee de Nusa Dua."
+          }
+        }
+      ]
+    },
+    {
+      "key": "bali-the-anvaya-beach-resort-bali",
+      "destinationKey": "bali",
+      "name": "The Anvaya Beach Resort Bali",
+      "area": {
+        "en": "Kuta",
+        "fr": "Kuta"
+      },
+      "lat": -8.7305,
+      "lng": 115.169,
+      "zoom": 14,
+      "address": "Jl. Kartika Plaza, Tuban, Kuta, Badung, Bali 80361, Indonesia",
+      "priceTier": 3,
+      "priceFrom": 160,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "city-base"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolDusk",
+        "resortLoungers",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 82,
+        "baby": 80,
+        "pool": 86,
+        "dining": 82,
+        "safety": 78,
+        "convenience": 90,
+        "location": 84,
+        "extras": 82
+      },
+      "roomsSummary": {
+        "en": "The Anvaya keeps things simple and roomy for families. Premier Family rooms add a sofa bed for the children and thoughtful kid touches, and connecting rooms are available for larger groups who want a door between the generations. Rooms are soundproofed, which is a genuine bonus in busy Kuta, and cots are provided on request. Ground-floor and pool-view rooms keep the buggy on the level, and the beachfront location means the sand and the pools are both a couple of minutes away.",
+        "fr": "L'Anvaya reste simple et spacieux pour les familles. Les chambres Premier Family ajoutent un canape-lit pour les enfants et des attentions pensees pour eux, et des chambres communicantes sont disponibles pour les grands groupes qui veulent une porte entre les generations. Les chambres sont insonorisees, un vrai plus dans le Kuta anime, et les lits bebe sont fournis sur demande. Les chambres de plain-pied et avec vue piscine gardent la poussette a niveau, et l'emplacement en bord de plage met le sable et les piscines a quelques minutes."
+      },
+      "intro": {
+        "en": "The Anvaya is the family pick for parents who want the buzz of Kuta without the backpacker chaos. It is a polished five-star right on Kuta beach, with five outdoor pools, a dedicated children's pool with slides and a playground, and the Anvaya Kids Club for ages 3 to 12 with Balinese crafts, cooking and dance. What sets it apart is convenience: you are a short walk from the Beachwalk mall, Waterbom Bali water park and endless restaurants, and only ten minutes from the airport. Kuta's beach has real surf, so keep swimming to the pools, but as a lively, walkable, well-connected base it is hard to beat for the money.",
+        "fr": "L'Anvaya est le choix familial pour les parents qui veulent l'animation de Kuta sans le chaos routard. C'est un cinq etoiles soigne juste sur la plage de Kuta, avec cinq piscines exterieures, une piscine enfants dediee avec toboggans et une aire de jeux, et l'Anvaya Kids Club pour les 3 a 12 ans avec bricolage balinais, cuisine et danse. Ce qui le distingue, c'est la commodite : vous etes a courte distance a pied du centre commercial Beachwalk, du parc aquatique Waterbom Bali et d'innombrables restaurants, et a seulement dix minutes de l'aeroport. La plage de Kuta a de vraies vagues, gardez donc la baignade pour les piscines, mais comme base animee, accessible a pied et bien reliee, difficile de faire mieux pour le prix."
+      },
+      "highlights": {
+        "en": [
+          "Five pools plus a children's pool with slides",
+          "Free Anvaya Kids Club, ages 3 to 12",
+          "Ten minutes from the airport, on Kuta beach",
+          "Walk to Beachwalk mall and Waterbom water park"
+        ],
+        "fr": [
+          "Cinq piscines et une piscine enfants a toboggans",
+          "Anvaya Kids Club gratuit, 3 a 12 ans",
+          "A dix minutes de l'aeroport, sur la plage de Kuta",
+          "A pied du centre Beachwalk et du parc Waterbom"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Superb location: beach, mall and airport all close",
+          "Free kids club and a dedicated children's pool",
+          "Soundproofed rooms tame the Kuta noise",
+          "Great value five-star for a lively base"
+        ],
+        "fr": [
+          "Emplacement superbe : plage, centre commercial et aeroport tout proches",
+          "Club enfants gratuit et piscine enfants dediee",
+          "Chambres insonorisees qui domptent le bruit de Kuta",
+          "Cinq etoiles au bon rapport qualite-prix pour une base animee"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Kuta beach has strong surf and rips, swim at the pools",
+          "Busy, built-up Kuta is not a serene escape",
+          "Airport flight paths mean the odd plane overhead"
+        ],
+        "fr": [
+          "La plage de Kuta a de fortes vagues et des courants, baignez-vous aux piscines",
+          "Le Kuta anime et urbanise n'est pas une evasion sereine",
+          "Les trajectoires de l'aeroport font passer parfois un avion au-dessus"
+        ]
+      },
+      "verdict": {
+        "en": "The convenient Kuta base: a polished beachfront five-star with a free kids club, ten minutes from the airport and steps from the mall.",
+        "fr": "La base pratique de Kuta : un cinq etoiles soigne en bord de plage avec un club enfants gratuit, a dix minutes de l'aeroport et a deux pas du centre commercial."
+      },
+      "parentTip": {
+        "en": "Its ten-minute airport hop makes it a smart first or last night of a trip: land, decompress by the pool, then move on to a calmer beach without a long transfer straight off the plane.",
+        "fr": "Son saut de dix minutes depuis l'aeroport en fait une premiere ou derniere nuit maligne : atterrissez, decompressez au bord de la piscine, puis filez vers une plage plus calme sans long transfert au sortir de l'avion."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Five pools and a kids pool with slides",
+            "fr": "Cinq piscines et une piscine enfants a toboggans"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free Anvaya Club, ages 3 to 12",
+            "fr": "Anvaya Club gratuit, 3 a 12 ans"
+          }
+        },
+        {
+          "icon": "✈️",
+          "label": {
+            "en": "Airport",
+            "fr": "Aeroport"
+          },
+          "value": {
+            "en": "About ten minutes by car",
+            "fr": "Environ dix minutes en voiture"
+          }
+        },
+        {
+          "icon": "🛍️",
+          "label": {
+            "en": "Nearby",
+            "fr": "A proximite"
+          },
+          "value": {
+            "en": "Beachwalk mall and Waterbom on foot",
+            "fr": "Centre Beachwalk et Waterbom a pied"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "💦",
+          "name": {
+            "en": "Waterbom Bali day",
+            "fr": "Journee a Waterbom Bali"
+          },
+          "detail": {
+            "en": "Asia's top water park, with slides for all ages, is a short walk from the resort.",
+            "fr": "Le meilleur parc aquatique d'Asie, avec des toboggans pour tous les ages, est a courte distance a pied du resort."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Anytime",
+            "fr": "A toute heure"
+          }
+        },
+        {
+          "emoji": "🎨",
+          "name": {
+            "en": "Kids club crafts and dance",
+            "fr": "Bricolage et danse au club enfants"
+          },
+          "detail": {
+            "en": "Balinese handicrafts, dress-up and dance sessions fill the daily programme.",
+            "fr": "Artisanat balinais, deguisements et sessions de danse remplissent le programme quotidien."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Apres-midi"
+          }
+        },
+        {
+          "emoji": "🏄",
+          "name": {
+            "en": "Beginner surf lesson",
+            "fr": "Cours de surf debutant"
+          },
+          "detail": {
+            "en": "Kuta's gentle beach breaks are where many kids catch their first wave, with an instructor.",
+            "fr": "Les vagues douces de la plage de Kuta sont ou beaucoup d'enfants prennent leur premiere vague, avec un moniteur."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Beachfront breakfast",
+            "fr": "Petit-dejeuner face a la plage"
+          },
+          "note": {
+            "en": "Eat early and watch the surfers head out.",
+            "fr": "Mangez tot et regardez les surfeurs partir a l'eau."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Waterbom water park",
+            "fr": "Parc aquatique Waterbom"
+          },
+          "note": {
+            "en": "Walk over for a morning of slides before the queues build.",
+            "fr": "Rejoignez-le a pied pour une matinee de toboggans avant les files."
+          }
+        },
+        {
+          "time": "14:00",
+          "title": {
+            "en": "Resort pools and kids club",
+            "fr": "Piscines du resort et club enfants"
+          },
+          "note": {
+            "en": "Cool off at the kids pool and drop into the club.",
+            "fr": "Rafraichissez-vous a la piscine enfants et passez au club."
+          }
+        },
+        {
+          "time": "18:00",
+          "title": {
+            "en": "Kuta sunset",
+            "fr": "Coucher de soleil a Kuta"
+          },
+          "note": {
+            "en": "The wide beach is famous for its sunsets, watch from the sand.",
+            "fr": "La large plage est celebre pour ses couchers de soleil, admirez depuis le sable."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "The very short airport transfer and soundproofed rooms help with a baby, though busy Kuta is less serene than Nusa Dua or Sanur.",
+          "fr": "Le tres court transfert de l'aeroport et les chambres insonorisees aident avec un bebe, meme si le Kuta anime est moins serein que Nusa Dua ou Sanur."
+        },
+        "toddler": {
+          "en": "The children's pool and playground are ideal, but keep toddlers off the surf beach and in the pools.",
+          "fr": "La piscine enfants et l'aire de jeux sont ideales, mais gardez les tout-petits hors de la plage a vagues et dans les piscines."
+        },
+        "kid": {
+          "en": "A dream for this age: the water park next door, the free club and beginner surf lessons.",
+          "fr": "Un reve pour cet age : le parc aquatique a cote, le club gratuit et les cours de surf debutant."
+        },
+        "teen": {
+          "en": "Surfing, Waterbom and the shops and cafes of Kuta give teens plenty of independence.",
+          "fr": "Surf, Waterbom et les boutiques et cafes de Kuta donnent aux ados beaucoup d'independance."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the kids club free?",
+            "fr": "Le club enfants est-il gratuit?"
+          },
+          "a": {
+            "en": "Yes, the Anvaya Kids Club is complimentary for guests aged 3 to 12, open 9am to 6pm, with under-threes welcome accompanied by an adult.",
+            "fr": "Oui, l'Anvaya Kids Club est gratuit pour les clients de 3 a 12 ans, ouvert de 9h a 18h, les moins de trois ans etant admis accompagnes d'un adulte."
+          }
+        },
+        {
+          "q": {
+            "en": "Is Kuta beach safe for children?",
+            "fr": "La plage de Kuta est-elle sure pour les enfants?"
+          },
+          "a": {
+            "en": "Kuta has strong surf and rip currents, so young children should swim in the resort pools, and older ones only between the flags where lifeguards patrol.",
+            "fr": "Kuta a de fortes vagues et des courants d'arrachement, les jeunes enfants doivent donc nager dans les piscines du resort, et les plus grands seulement entre les drapeaux ou les sauveteurs patrouillent."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it noisy being so close to the airport?",
+            "fr": "Est-ce bruyant, si pres de l'aeroport?"
+          },
+          "a": {
+            "en": "You will see and occasionally hear planes, but the rooms are soundproofed and the ten-minute transfer is a real gift at the start and end of a long trip.",
+            "fr": "Vous verrez et entendrez parfois des avions, mais les chambres sont insonorisees et le transfert de dix minutes est un vrai cadeau au debut et a la fin d'un long voyage."
+          }
+        }
+      ]
+    },
+    {
+      "key": "bali-courtyard-by-marriott-bali-seminyak-resort",
+      "destinationKey": "bali",
+      "name": "Courtyard by Marriott Bali Seminyak Resort",
+      "area": {
+        "en": "Seminyak",
+        "fr": "Seminyak"
+      },
+      "lat": -8.687,
+      "lng": 115.162,
+      "zoom": 14,
+      "address": "Jl. Camplung Tanduk No.103SP, Seminyak, Kuta, Badung, Bali 80361, Indonesia",
+      "priceTier": 2,
+      "priceFrom": 110,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "baby-friendly",
+        "family-suites",
+        "toddler-friendly",
+        "city-base"
+      ],
+      "clubFree": false,
+      "photos": [
+        "poolPalms",
+        "whiteResortPool",
+        "poolCabanas"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 78,
+        "pool": 84,
+        "dining": 80,
+        "safety": 80,
+        "convenience": 90,
+        "location": 88,
+        "extras": 80
+      },
+      "roomsSummary": {
+        "en": "The Courtyard keeps costs down without cramping families. Deluxe and Deluxe Pool View rooms are generously sized with private balconies, and a connecting room is available on request, which is the smart move for parents who want a door to close at bedtime. Rooms take a cot easily and children stay free in existing bedding on many rates. The lagoon pool winds right through the resort, so most rooms are only a short stroll from the water, and the flat, central Seminyak setting is easy with a buggy.",
+        "fr": "Le Courtyard maitrise les couts sans serrer les familles. Les chambres Deluxe et Deluxe Pool View sont genereusement dimensionnees avec balcon prive, et une chambre communicante est disponible sur demande, le choix malin pour les parents qui veulent une porte a fermer au coucher. Les chambres accueillent un lit bebe sans peine et les enfants logent gratuitement dans la literie existante sur de nombreux tarifs. La piscine lagon serpente a travers le resort, si bien que la plupart des chambres sont a courte distance de l'eau, et le cadre plat et central de Seminyak est facile en poussette."
+      },
+      "intro": {
+        "en": "The Courtyard by Marriott is the value family choice in Seminyak, Bali's most fashionable beach town. It trades big-resort extras for a genuinely useful package: a lovely three-tier lagoon pool that winds through the grounds, a children's pool beside the kids club, and daily activities from kids yoga to Balinese dance. It sits a short walk from Seminyak's beach, boutiques and famous restaurants, so you get a real neighbourhood rather than an isolated compound. The kids club gives two free hours a day, and for the price this is one of the best-value family bases on the island.",
+        "fr": "Le Courtyard by Marriott est le choix familial economique de Seminyak, la station balneaire la plus en vogue de Bali. Il echange les extras des grands resorts contre un ensemble vraiment utile : une jolie piscine lagon sur trois niveaux qui serpente dans le domaine, une piscine enfants a cote du club, et des activites quotidiennes du yoga enfants a la danse balinaise. Il se trouve a courte distance a pied de la plage, des boutiques et des celebres restaurants de Seminyak, offrant un vrai quartier plutot qu'un enclos isole. Le club enfants offre deux heures gratuites par jour, et pour le prix c'est l'une des meilleures bases familiales en rapport qualite-prix de l'ile."
+      },
+      "highlights": {
+        "en": [
+          "Winding three-tier lagoon pool through the resort",
+          "Children's pool next to the kids club",
+          "Two free kids club hours a day, ages 4 to 12",
+          "Short walk to Seminyak beach, shops and restaurants"
+        ],
+        "fr": [
+          "Piscine lagon sinueuse sur trois niveaux dans le resort",
+          "Piscine enfants a cote du club",
+          "Deux heures de club enfants gratuites par jour, 4 a 12 ans",
+          "A courte distance a pied de la plage, boutiques et restaurants de Seminyak"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Excellent value for a central Seminyak base",
+          "Fun lagoon pool that most rooms sit close to",
+          "Walkable to Bali's best shops and dining",
+          "Connecting rooms keep bedtime separate"
+        ],
+        "fr": [
+          "Excellent rapport qualite-prix pour une base centrale a Seminyak",
+          "Piscine lagon amusante, proche de la plupart des chambres",
+          "Accessible a pied aux meilleures boutiques et tables de Bali",
+          "Chambres communicantes qui separent l'heure du coucher"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The kids club is only free for two hours a day",
+          "Not beachfront, the beach is a walk away",
+          "Seminyak's beach has surf and rips, swim at the pool"
+        ],
+        "fr": [
+          "Le club enfants n'est gratuit que deux heures par jour",
+          "Pas en bord de plage, la plage est a distance de marche",
+          "La plage de Seminyak a des vagues et des courants, baignez-vous a la piscine"
+        ]
+      },
+      "verdict": {
+        "en": "The smart-value family base in fashionable Seminyak: a fun lagoon pool and a walkable town, for a fraction of the flagship prices.",
+        "fr": "La base familiale au bon rapport qualite-prix dans le branche Seminyak : une piscine lagon amusante et une ville accessible a pied, pour une fraction des prix des grands resorts."
+      },
+      "parentTip": {
+        "en": "Ask for a room on the lagoon pool loop rather than the street side, so the water is on your doorstep and you are further from the evening buzz of Seminyak's bars.",
+        "fr": "Demandez une chambre sur la boucle de la piscine lagon plutot que cote rue, pour avoir l'eau au pas de la porte et etre plus loin de l'animation nocturne des bars de Seminyak."
+      },
+      "atAGlance": [
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "Three-tier lagoon pool plus a kids pool",
+            "fr": "Piscine lagon sur trois niveaux et pataugeoire"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Two hours free daily, ages 4 to 12",
+            "fr": "Deux heures gratuites par jour, 4 a 12 ans"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Value",
+            "fr": "Rapport qualite-prix"
+          },
+          "value": {
+            "en": "Best-value family base in Seminyak",
+            "fr": "Meilleure base familiale abordable de Seminyak"
+          }
+        },
+        {
+          "icon": "🛍️",
+          "label": {
+            "en": "Location",
+            "fr": "Emplacement"
+          },
+          "value": {
+            "en": "Walk to beach, shops and restaurants",
+            "fr": "A pied de la plage, boutiques et restaurants"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🧘",
+          "name": {
+            "en": "Kids yoga",
+            "fr": "Yoga enfants"
+          },
+          "detail": {
+            "en": "Gentle morning kids yoga is part of the daily activity programme.",
+            "fr": "Un yoga enfants doux le matin fait partie du programme d'activites quotidien."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "💃",
+          "name": {
+            "en": "Balinese dance and canang making",
+            "fr": "Danse balinaise et fabrication de canang"
+          },
+          "detail": {
+            "en": "Kids learn traditional dance and how to make canang offerings at the club.",
+            "fr": "Les enfants apprennent la danse traditionnelle et a fabriquer des offrandes canang au club."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Apres-midi"
+          }
+        },
+        {
+          "emoji": "🌅",
+          "name": {
+            "en": "Seminyak beach sunset",
+            "fr": "Coucher de soleil sur la plage de Seminyak"
+          },
+          "detail": {
+            "en": "A short walk to the sand for Seminyak's famous west-facing sunsets.",
+            "fr": "Une courte marche jusqu'au sable pour les celebres couchers de soleil de Seminyak, tournes vers l'ouest."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soir"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast then pool",
+            "fr": "Petit-dejeuner puis piscine"
+          },
+          "note": {
+            "en": "The lagoon pool is quietest first thing.",
+            "fr": "La piscine lagon est la plus calme en tout debut de journee."
+          }
+        },
+        {
+          "time": "11:00",
+          "title": {
+            "en": "Kids club free hours",
+            "fr": "Heures gratuites du club enfants"
+          },
+          "note": {
+            "en": "Two complimentary hours of yoga and crafts.",
+            "fr": "Deux heures gratuites de yoga et bricolage."
+          }
+        },
+        {
+          "time": "13:30",
+          "title": {
+            "en": "Lunch in Seminyak",
+            "fr": "Dejeuner a Seminyak"
+          },
+          "note": {
+            "en": "Walk out to one of the town's many family cafes.",
+            "fr": "Sortez a pied vers l'un des nombreux cafes familiaux de la ville."
+          }
+        },
+        {
+          "time": "18:00",
+          "title": {
+            "en": "Beach sunset walk",
+            "fr": "Balade au coucher sur la plage"
+          },
+          "note": {
+            "en": "Stroll to the sand as the sky turns pink and gold.",
+            "fr": "Flanez jusqu'au sable tandis que le ciel rosit et dore."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Cots, connecting rooms and a flat, central location work for a baby, though it is not beachfront.",
+          "fr": "Lits bebe, chambres communicantes et emplacement plat et central conviennent avec un bebe, meme si ce n'est pas en bord de plage."
+        },
+        "toddler": {
+          "en": "The kids pool and the winding lagoon pool are ideal, and the buggy rolls easily around central Seminyak.",
+          "fr": "La piscine enfants et la piscine lagon sinueuse sont ideales, et la poussette roule facilement dans le centre de Seminyak."
+        },
+        "kid": {
+          "en": "The lagoon pool, the daily club activities and the walkable town keep this age happy on a budget.",
+          "fr": "La piscine lagon, les activites quotidiennes du club et la ville accessible a pied contentent cet age sans se ruiner."
+        },
+        "teen": {
+          "en": "Seminyak's shops, cafes and surf beach give teens the most to do of any age here.",
+          "fr": "Les boutiques, cafes et la plage a surf de Seminyak donnent aux ados le plus a faire de tous les ages ici."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the kids club free?",
+            "fr": "Le club enfants est-il gratuit?"
+          },
+          "a": {
+            "en": "Guests get the first two hours a day free at the kids club for ages 4 to 12, and under-fours can join accompanied by an adult, with extra hours charged.",
+            "fr": "Les clients beneficient des deux premieres heures gratuites par jour au club enfants pour les 4 a 12 ans, et les moins de quatre ans peuvent participer accompagnes d'un adulte, les heures supplementaires etant facturees."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it on the beach?",
+            "fr": "Est-ce en bord de plage?"
+          },
+          "a": {
+            "en": "No, it is a short walk from Seminyak beach, which many families prefer as the beach has surf and rips, so pool swimming is safer for young children anyway.",
+            "fr": "Non, c'est a courte distance a pied de la plage de Seminyak, ce que beaucoup de familles preferent car la plage a des vagues et des courants, la baignade en piscine etant de toute facon plus sure pour les jeunes enfants."
+          }
+        },
+        {
+          "q": {
+            "en": "Is Seminyak too lively for a family?",
+            "fr": "Seminyak est-elle trop animee pour une famille?"
+          },
+          "a": {
+            "en": "It is Bali's most fashionable town, busy in the evenings, but the resort is a calm base and its central spot means great restaurants and shops are all within an easy walk.",
+            "fr": "C'est la ville la plus en vogue de Bali, animee le soir, mais le resort est une base calme et sa position centrale met de superbes restaurants et boutiques a une marche facile."
+          }
+        }
+      ]
+    }
+  ],
+  "destinationMeta": {
+    "heroKicker": {
+      "en": "Tropical island adventure for families",
+      "fr": "Aventure d'ile tropicale pour les familles"
+    },
+    "intro": {
+      "en": "Bali is one of the great family destinations, once you get past the long-haul flight to reach it. The island packs an enormous amount into a small space: calm, reef-protected swimming bays in the south, jungle and rice terraces around Ubud in the cool highlands, temples, monkeys, waterfalls and some of the friendliest people anywhere for children. Family resorts are excellent value compared with the Maldives or the Caribbean, and most come with a kids club, a big pool and family rooms as standard. The two things to plan around are the seasons and the sea: aim for the dry season, and know that the calm family beaches are at Nusa Dua and Sanur in the east, while the famous surf beaches of Kuta, Legian and Seminyak have real rip currents, so young children swim in the pools there. Split a trip between a beach base and a few days in the Ubud jungle and you get the full sweep of Bali with barely any driving stress.",
+      "fr": "Bali est l'une des grandes destinations familiales, une fois passe le vol long-courrier qu'il faut pour l'atteindre. L'ile concentre enormement de choses dans un petit espace : des baies de baignade calmes et protegees par le recif au sud, la jungle et les rizieres en terrasses autour d'Ubud sur les hauteurs fraiches, des temples, des singes, des cascades et parmi les gens les plus accueillants au monde envers les enfants. Les resorts familiaux offrent un excellent rapport qualite-prix face aux Maldives ou aux Caraibes, et la plupart proposent en standard un club enfants, une grande piscine et des chambres familiales. Les deux choses a anticiper sont les saisons et la mer : visez la saison seche, et sachez que les plages familiales calmes sont a Nusa Dua et Sanur a l'est, tandis que les celebres plages a surf de Kuta, Legian et Seminyak ont de vrais courants d'arrachement, les jeunes enfants s'y baignant donc dans les piscines. Partagez un voyage entre une base plage et quelques jours dans la jungle d'Ubud et vous obtenez tout l'eventail de Bali avec presque aucun stress de conduite."
+    },
+    "whyKids": {
+      "en": [
+        "Calm, reef-protected swimming bays at Nusa Dua and Sanur, gentle for first sea swims",
+        "Family resorts are outstanding value, most with a kids club, big pools and family rooms",
+        "Waterbom Bali and resort waterslides give endless water-park fun",
+        "Jungle, rice terraces, temples, monkeys and waterfalls all within easy reach",
+        "Balinese culture is warm and genuinely welcoming to children everywhere you go"
+      ],
+      "fr": [
+        "Des baies de baignade calmes et protegees par le recif a Nusa Dua et Sanur, douces pour les premieres baignades",
+        "Des resorts familiaux au rapport qualite-prix remarquable, la plupart avec club enfants, grandes piscines et chambres familiales",
+        "Waterbom Bali et les toboggans des resorts offrent un plaisir aquatique sans fin",
+        "Jungle, rizieres en terrasses, temples, singes et cascades tous a portee de main",
+        "La culture balinaise est chaleureuse et vraiment accueillante envers les enfants partout"
+      ]
+    },
+    "bestAreas": {
+      "en": [
+        "Nusa Dua: the calmest, safest family beaches, gated resort zone, ten minutes to Uluwatu",
+        "Sanur: quiet old-Bali beach town, a flat seafront promenade and calm lagoon swimming",
+        "Jimbaran: villa resorts and famous seafood grills on a sheltered bay",
+        "Ubud and Payangan: jungle, rice terraces and cool air, best paired with a beach base",
+        "Kuta, Legian and Seminyak: lively, walkable and close to the airport, but surf beaches, so swim in the pools"
+      ],
+      "fr": [
+        "Nusa Dua : les plages familiales les plus calmes et sures, zone resort fermee, a dix minutes d'Uluwatu",
+        "Sanur : station balneaire tranquille du vieux Bali, promenade plate en front de mer et baignade calme dans le lagon",
+        "Jimbaran : resorts de villas et celebres grillades de fruits de mer sur une baie abritee",
+        "Ubud et Payangan : jungle, rizieres en terrasses et air frais, a associer de preference a une base plage",
+        "Kuta, Legian et Seminyak : animes, accessibles a pied et proches de l'aeroport, mais plages a vagues, alors baignez-vous dans les piscines"
+      ]
+    },
+    "stats": [
+      {
+        "value": "~15h+",
+        "label": {
+          "en": "Flight time from Europe",
+          "fr": "Temps de vol depuis l'Europe"
+        }
+      },
+      {
+        "value": "Apr to Oct",
+        "label": {
+          "en": "Dry season, best for families",
+          "fr": "Saison seche, la meilleure pour les familles"
+        }
+      },
+      {
+        "value": "~29C",
+        "label": {
+          "en": "Warm year-round temperature",
+          "fr": "Temperature chaude toute l'annee"
+        }
+      },
+      {
+        "value": "10 to 60 min",
+        "label": {
+          "en": "Airport to most resorts",
+          "fr": "Aeroport aux principaux resorts"
+        }
+      }
+    ],
+    "activities": [
+      {
+        "emoji": "💦",
+        "name": {
+          "en": "Waterbom Bali",
+          "fr": "Waterbom Bali"
+        },
+        "detail": {
+          "en": "Asia's top-rated water park in Kuta has slides for toddlers to teens and shady gardens for parents.",
+          "fr": "Le parc aquatique le mieux note d'Asie, a Kuta, a des toboggans des tout-petits aux ados et des jardins ombrages pour les parents."
+        },
+        "ages": [
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Anytime",
+          "fr": "A toute heure"
+        }
+      },
+      {
+        "emoji": "🐒",
+        "name": {
+          "en": "Ubud Monkey Forest",
+          "fr": "Foret des singes d'Ubud"
+        },
+        "detail": {
+          "en": "A leafy sanctuary of temples and cheeky macaques, always a hit with children, hold tight to snacks.",
+          "fr": "Un sanctuaire verdoyant de temples et de macaques espiegles, toujours un succes aupres des enfants, tenez bien vos encas."
+        },
+        "ages": [
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Morning",
+          "fr": "Matin"
+        }
+      },
+      {
+        "emoji": "🌾",
+        "name": {
+          "en": "Rice terrace walk",
+          "fr": "Balade dans les rizieres en terrasses"
+        },
+        "detail": {
+          "en": "The green stairways of Tegallalang and Jatiluwih are a gentle, memorable family stroll.",
+          "fr": "Les escaliers verts de Tegallalang et Jatiluwih font une balade familiale douce et memorable."
+        },
+        "ages": [
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Morning",
+          "fr": "Matin"
+        }
+      },
+      {
+        "emoji": "🐢",
+        "name": {
+          "en": "Turtle and snorkel trip",
+          "fr": "Sortie tortues et snorkeling"
+        },
+        "detail": {
+          "en": "Boats from Sanur reach the calm reefs of Nusa Lembongan, great for spotting turtles.",
+          "fr": "Des bateaux depuis Sanur atteignent les recifs calmes de Nusa Lembongan, parfaits pour observer les tortues."
+        },
+        "ages": [
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Anytime",
+          "fr": "A toute heure"
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "q": {
+          "en": "Is Bali good for a family with young children?",
+          "fr": "Bali est-elle bien pour une famille avec de jeunes enfants?"
+        },
+        "a": {
+          "en": "Yes, very. Family resorts are excellent value with kids clubs and big pools, the culture is warm and child-friendly, and the calm bays of Nusa Dua and Sanur are gentle for little swimmers. The main hurdle is the long flight to get there.",
+          "fr": "Oui, tout a fait. Les resorts familiaux offrent un excellent rapport qualite-prix avec clubs enfants et grandes piscines, la culture est chaleureuse et accueillante envers les enfants, et les baies calmes de Nusa Dua et Sanur sont douces pour les petits nageurs. Le principal obstacle est le long vol pour y arriver."
+        }
+      },
+      {
+        "q": {
+          "en": "Which beaches are safe for children?",
+          "fr": "Quelles plages sont sures pour les enfants?"
+        },
+        "a": {
+          "en": "Nusa Dua and Sanur on the east coast have reef-protected lagoons that stay calm and shallow, ideal for young children. The west-coast beaches of Kuta, Legian and Seminyak have real surf and rip currents, so young children should swim in the resort pools there.",
+          "fr": "Nusa Dua et Sanur sur la cote est ont des lagons proteges par le recif qui restent calmes et peu profonds, ideaux pour les jeunes enfants. Les plages de la cote ouest, Kuta, Legian et Seminyak, ont de vraies vagues et des courants d'arrachement, les jeunes enfants doivent donc s'y baigner dans les piscines des resorts."
+        }
+      },
+      {
+        "q": {
+          "en": "When is the best time to visit Bali with kids?",
+          "fr": "Quelle est la meilleure periode pour visiter Bali avec des enfants?"
+        },
+        "a": {
+          "en": "The dry season from April to October brings the most reliable sunshine and calmest seas, and lines up with the European summer holidays. The wet season from November to March is warm but sees heavy afternoon downpours and higher humidity.",
+          "fr": "La saison seche, d'avril a octobre, offre le soleil le plus fiable et les mers les plus calmes, et coincide avec les vacances d'ete europeennes. La saison des pluies, de novembre a mars, est chaude mais connait de fortes averses l'apres-midi et une humidite plus elevee."
+        }
+      },
+      {
+        "q": {
+          "en": "Should we split our stay between beach and jungle?",
+          "fr": "Faut-il partager le sejour entre plage et jungle?"
+        },
+        "a": {
+          "en": "It is the classic Bali family trip: a few days by a calm beach at Nusa Dua or Sanur, then a few in the cooler Ubud jungle for rice terraces, temples and monkeys. The drive between them is about an hour, so you see two very different sides of the island with little travel stress.",
+          "fr": "C'est le voyage familial balinais classique : quelques jours au bord d'une plage calme a Nusa Dua ou Sanur, puis quelques-uns dans la jungle plus fraiche d'Ubud pour les rizieres, les temples et les singes. Le trajet entre les deux dure environ une heure, vous decouvrez donc deux facettes tres differentes de l'ile avec peu de stress de deplacement."
+        }
+      }
+    ],
+    "parentTip": {
+      "en": "Match the coast to your children's ages: for babies and toddlers base yourself at Nusa Dua or Sanur where the reef keeps the sea calm and shallow, and treat the surf beaches of the west coast as pool-and-sunset spots rather than places to swim.",
+      "fr": "Adaptez la cote a l'age de vos enfants : pour les bebes et tout-petits, installez-vous a Nusa Dua ou Sanur ou le recif garde la mer calme et peu profonde, et considerez les plages a vagues de la cote ouest comme des lieux de piscine et de coucher de soleil plutot que de baignade."
+    },
+    "goodToKnow": {
+      "en": "Most families arrive at Denpasar's Ngurah Rai airport after a long-haul flight of around fifteen hours or more from Europe, usually with one stop, so plan a gentle first day and a resort close to the airport such as Kuta or Nusa Dua for the first night. Traffic in the south is heavy and journeys take longer than the map suggests, so use resort drivers and avoid long transfers with tired children. Tap water is not safe to drink, so stick to bottled or filtered water, including for brushing teeth. Pack high-factor sun cream, hats, rash vests and mosquito repellent, as the equatorial sun is strong and dengue exists. The dry season runs April to October, while November to March is wet with heavy afternoon rain. There are good private hospitals and clinics in the south of the island, but travel insurance with medical cover is essential, and consider standard travel vaccinations before you go.",
+      "fr": "La plupart des familles arrivent a l'aeroport Ngurah Rai de Denpasar apres un vol long-courrier d'environ quinze heures ou plus depuis l'Europe, en general avec une escale, prevoyez donc une premiere journee douce et un resort proche de l'aeroport comme Kuta ou Nusa Dua pour la premiere nuit. Le trafic dans le sud est dense et les trajets prennent plus de temps que la carte ne le laisse croire, utilisez donc les chauffeurs du resort et evitez les longs transferts avec des enfants fatigues. L'eau du robinet n'est pas potable, tenez-vous en a l'eau en bouteille ou filtree, y compris pour se brosser les dents. Emportez une creme solaire haute protection, des chapeaux, des tee-shirts anti-UV et du repulsif anti-moustiques, car le soleil equatorial est fort et la dengue existe. La saison seche va d'avril a octobre, tandis que novembre a mars est humide avec de fortes pluies l'apres-midi. Il y a de bons hopitaux et cliniques prives dans le sud de l'ile, mais une assurance voyage avec couverture medicale est indispensable, et pensez aux vaccins de voyage habituels avant de partir."
+    },
+    "emoji": "🌺",
+    "name": {
+      "en": "Bali",
+      "fr": "Bali"
+    },
+    "country": {
+      "en": "Indonesia",
+      "fr": "Indonesie"
+    },
+    "geo": {
+      "lat": -8.4095,
+      "lng": 115.1889,
+      "zoom": 9
+    },
+    "accent": "1f9e8a",
+    "photos": [
+      "poolTropicalMtn",
+      "beachSunset",
+      "infinityPoolSea"
+    ]
+  }
+}

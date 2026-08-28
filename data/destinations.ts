@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META, COSTA_ALMERIA_META, PUNTA_CANA_META, FRENCH_ALPS_META, MAR_MENOR_META, NAXOS_PAROS_META, COSTA_NAVARINO_META, MARSA_ALAM_META, HAMMAMET_META, RIVIERA_MAYA_META, KEFALONIA_META, RIMINI_META, BELEK_META, ABU_DHABI_META, DISNEYLAND_PARIS_META, ALULA_META, JEDDAH_META, MALDIVES_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META, COSTA_ALMERIA_META, PUNTA_CANA_META, FRENCH_ALPS_META, MAR_MENOR_META, NAXOS_PAROS_META, COSTA_NAVARINO_META, MARSA_ALAM_META, HAMMAMET_META, RIVIERA_MAYA_META, KEFALONIA_META, RIMINI_META, BELEK_META, ABU_DHABI_META, DISNEYLAND_PARIS_META, ALULA_META, JEDDAH_META, MALDIVES_META, SEYCHELLES_META, PHUKET_META, BALI_META, ZANZIBAR_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -114,6 +114,10 @@ const DLP = (DISNEYLAND_PARIS_META ?? {}) as any;
 const ALU = (ALULA_META ?? {}) as any;
 const JED = (JEDDAH_META ?? {}) as any;
 const MDV = (MALDIVES_META ?? {}) as any;
+const SEY = (SEYCHELLES_META ?? {}) as any;
+const PHU = (PHUKET_META ?? {}) as any;
+const BAL = (BALI_META ?? {}) as any;
+const ZAN = (ZANZIBAR_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -2279,6 +2283,106 @@ export const DESTINATIONS: Destination[] = src([
     faqs: MDV.faqs,
     parentTip: MDV.parentTip,
     goodToKnow: MDV.goodToKnow,
+  },
+  {
+    key: "seychelles",
+    name: SEY.name ?? { en: "Seychelles", fr: "Seychelles" },
+    country: SEY.country ?? { en: "Seychelles", fr: "Seychelles" },
+    inPhrase: { en: "in the Seychelles", fr: "aux Seychelles" },
+    slug: { en: "family-hotels-seychelles", fr: "hotels-famille-seychelles" },
+    geo: SEY.geo ?? { lat: -4.6796, lng: 55.492, zoom: 8 },
+    heroKicker: SEY.heroKicker ?? {
+      en: "Real island beaches for families, kids clubs and villas (no adults-only)",
+      fr: "De vraies plages d'îles pour les familles, clubs enfants et villas (aucun adults-only)",
+    },
+    intro: SEY.intro ?? { en: "", fr: "" },
+    whyKids: SEY.whyKids ?? { en: [], fr: [] },
+    bestAreas: SEY.bestAreas ?? { en: [], fr: [] },
+    emoji: SEY.emoji ?? "🐢",
+    accent: SEY.accent ?? "0e7c86",
+    hotelKeys: [],
+    related: ["mauritius", "maldives", "reunion"],
+    photos: SEY.photos,
+    stats: SEY.stats,
+    activities: SEY.activities,
+    faqs: SEY.faqs,
+    parentTip: SEY.parentTip,
+    goodToKnow: SEY.goodToKnow,
+  },
+  {
+    key: "phuket",
+    name: PHU.name ?? { en: "Phuket", fr: "Phuket" },
+    country: PHU.country ?? { en: "Thailand", fr: "Thaïlande" },
+    inPhrase: { en: "in Phuket", fr: "à Phuket" },
+    slug: { en: "family-hotels-phuket", fr: "hotels-famille-phuket" },
+    geo: PHU.geo ?? { lat: 7.9519, lng: 98.3381, zoom: 11 },
+    heroKicker: PHU.heroKicker ?? {
+      en: "Winter-sun family resorts with free kids clubs, honestly picked (no adults-only)",
+      fr: "Des resorts famille au soleil d'hiver avec clubs enfants gratuits, choisis honnêtement (aucun adults-only)",
+    },
+    intro: PHU.intro ?? { en: "", fr: "" },
+    whyKids: PHU.whyKids ?? { en: [], fr: [] },
+    bestAreas: PHU.bestAreas ?? { en: [], fr: [] },
+    emoji: PHU.emoji ?? "🐘",
+    accent: PHU.accent ?? "c2410c",
+    hotelKeys: [],
+    related: ["dubai", "maldives", "mauritius"],
+    photos: PHU.photos,
+    stats: PHU.stats,
+    activities: PHU.activities,
+    faqs: PHU.faqs,
+    parentTip: PHU.parentTip,
+    goodToKnow: PHU.goodToKnow,
+  },
+  {
+    key: "bali",
+    name: BAL.name ?? { en: "Bali", fr: "Bali" },
+    country: BAL.country ?? { en: "Indonesia", fr: "Indonésie" },
+    inPhrase: { en: "in Bali", fr: "à Bali" },
+    slug: { en: "family-hotels-bali", fr: "hotels-famille-bali" },
+    geo: BAL.geo ?? { lat: -8.4095, lng: 115.1889, zoom: 9 },
+    heroKicker: BAL.heroKicker ?? {
+      en: "Winter-sun family resorts with kids clubs and pools, honestly picked (no adults-only)",
+      fr: "Des resorts famille au soleil d'hiver avec clubs enfants et piscines, choisis honnêtement (aucun adults-only)",
+    },
+    intro: BAL.intro ?? { en: "", fr: "" },
+    whyKids: BAL.whyKids ?? { en: [], fr: [] },
+    bestAreas: BAL.bestAreas ?? { en: [], fr: [] },
+    emoji: BAL.emoji ?? "🌺",
+    accent: BAL.accent ?? "1f9e8a",
+    hotelKeys: [],
+    related: ["phuket", "maldives", "mauritius"],
+    photos: BAL.photos,
+    stats: BAL.stats,
+    activities: BAL.activities,
+    faqs: BAL.faqs,
+    parentTip: BAL.parentTip,
+    goodToKnow: BAL.goodToKnow,
+  },
+  {
+    key: "zanzibar",
+    name: ZAN.name ?? { en: "Zanzibar", fr: "Zanzibar" },
+    country: ZAN.country ?? { en: "Tanzania", fr: "Tanzanie" },
+    inPhrase: { en: "in Zanzibar", fr: "à Zanzibar" },
+    slug: { en: "family-hotels-zanzibar", fr: "hotels-famille-zanzibar" },
+    geo: ZAN.geo ?? { lat: -6.1659, lng: 39.2026, zoom: 10 },
+    heroKicker: ZAN.heroKicker ?? {
+      en: "Indian Ocean family resorts with kids clubs and pools, honestly picked (no adults-only)",
+      fr: "Des resorts famille de l'océan Indien avec clubs enfants et piscines, choisis honnêtement (aucun adults-only)",
+    },
+    intro: ZAN.intro ?? { en: "", fr: "" },
+    whyKids: ZAN.whyKids ?? { en: [], fr: [] },
+    bestAreas: ZAN.bestAreas ?? { en: [], fr: [] },
+    emoji: ZAN.emoji ?? "🐢",
+    accent: ZAN.accent ?? "0fb5ae",
+    hotelKeys: [],
+    related: ["seychelles", "mauritius", "maldives"],
+    photos: ZAN.photos,
+    stats: ZAN.stats,
+    activities: ZAN.activities,
+    faqs: ZAN.faqs,
+    parentTip: ZAN.parentTip,
+    goodToKnow: ZAN.goodToKnow,
   },
 ]);
 

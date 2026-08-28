@@ -1,0 +1,1015 @@
+{
+  "hotels": [
+    {
+      "key": "seychelles-constance-ephelia",
+      "destinationKey": "seychelles",
+      "name": "Constance Ephelia",
+      "area": {
+        "en": "Mahe, Port Launay",
+        "fr": "Mahe, Port Launay"
+      },
+      "lat": -4.649,
+      "lng": 55.4035,
+      "zoom": 13,
+      "address": "Constance Ephelia, Port Launay, Mahe, Seychelles",
+      "priceTier": 3,
+      "priceFrom": 420,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolTropicalMtn",
+        "beachSunset",
+        "infinityPoolSea"
+      ],
+      "scores": {
+        "rooms": 86,
+        "baby": 82,
+        "pool": 88,
+        "dining": 88,
+        "safety": 84,
+        "convenience": 80,
+        "location": 90,
+        "extras": 90
+      },
+      "roomsSummary": {
+        "en": "Ephelia spreads over 120 hectares with two beaches, so there is a lot of choice for families. The 17 Family Villas have two bedrooms and a private plunge pool, ideal when a toddler needs a dark room for naps, while Junior and Senior Suites handle a family of three or four. Cots are free on request and connecting options are easy to arrange. A shuttle buggy runs around the grounds, which helps because the estate is large.",
+        "fr": "Ephelia s'etend sur 120 hectares avec deux plages, ce qui laisse beaucoup de choix aux familles. Les 17 Family Villas offrent deux chambres et une petite piscine privee, parfait quand un tout-petit a besoin d'une chambre sombre pour la sieste, tandis que les Junior et Senior Suites logent une famille de trois ou quatre. Les lits bebe sont gratuits sur demande et les chambres communicantes se reservent facilement. Une navette en voiturette circule dans le domaine, bien utile car le site est vaste."
+      },
+      "intro": {
+        "en": "Constance Ephelia is the Seychelles at full scale: a big, green resort on Mahe wrapped around the Port Launay marine park, with two beaches, five pools and a genuinely good free kids club. It suits families who want everything in one place, from tortoise feeding at four o'clock to kayaking in the mangroves. The setting under forested granite hills is dramatic, and there is enough space that it never feels crowded. It is upscale without tipping into the price of the Praslin ultra-luxe resorts.",
+        "fr": "Le Constance Ephelia, c'est les Seychelles en grand : un vaste resort verdoyant sur Mahe, blotti autour du parc marin de Port Launay, avec deux plages, cinq piscines et un club enfants gratuit vraiment reussi. Il convient aux familles qui veulent tout au meme endroit, du nourrissage des tortues a seize heures au kayak dans la mangrove. Le decor, au pied de collines de granit boisees, est spectaculaire, et l'espace est tel qu'on ne s'y sent jamais a l'etroit. Le style est haut de gamme sans atteindre les tarifs des resorts de grand luxe de Praslin."
+      },
+      "highlights": {
+        "en": [
+          "Free kids club for ages 4 to 11 with daily tortoise feeding",
+          "Two-bedroom Family Villas with a private plunge pool",
+          "Two beaches and five pools across the grounds",
+          "On the Port Launay marine park for easy snorkelling"
+        ],
+        "fr": [
+          "Club enfants gratuit de 4 a 11 ans avec nourrissage quotidien des tortues",
+          "Family Villas deux chambres avec petite piscine privee",
+          "Deux plages et cinq piscines dans le domaine",
+          "En bordure du parc marin de Port Launay pour le snorkeling"
+        ]
+      },
+      "pros": {
+        "en": [
+          "One of the best free kids clubs in the Seychelles",
+          "Huge grounds with two beaches and five pools",
+          "Family villas with two bedrooms and a plunge pool",
+          "Sheltered marine park water, calm for young snorkellers"
+        ],
+        "fr": [
+          "L'un des meilleurs clubs enfants gratuits des Seychelles",
+          "Immense domaine avec deux plages et cinq piscines",
+          "Villas familiales a deux chambres avec petite piscine",
+          "Eaux abritees du parc marin, calmes pour les jeunes plongeurs"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The site is very large, so expect a wait for the buggy shuttle",
+          "About an hour by road from the airport",
+          "Dining and drinks add up over a week"
+        ],
+        "fr": [
+          "Le site est tres etendu, prevoyez d'attendre la navette",
+          "Environ une heure de route depuis l'aeroport",
+          "La restauration et les boissons montent sur une semaine"
+        ]
+      }
+    },
+    {
+      "key": "seychelles-kempinski-seychelles-resort-baie-lazare",
+      "destinationKey": "seychelles",
+      "name": "Kempinski Seychelles Resort Baie Lazare",
+      "area": {
+        "en": "Mahe, Baie Lazare",
+        "fr": "Mahe, Baie Lazare"
+      },
+      "lat": -4.7486,
+      "lng": 55.4867,
+      "zoom": 13,
+      "address": "Kempinski Seychelles Resort, Baie Lazare, Mahe, Seychelles",
+      "priceTier": 3,
+      "priceFrom": 340,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "infinityPoolSea",
+        "poolPalms",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 82,
+        "baby": 84,
+        "pool": 85,
+        "dining": 82,
+        "safety": 85,
+        "convenience": 84,
+        "location": 86,
+        "extras": 84
+      },
+      "roomsSummary": {
+        "en": "Rooms are large and most have a balcony or terrace facing the bay. Families usually take a Garden or Sea View room with an extra bed, or connecting rooms for more space, and the resort sleeps children easily with free cots. The layout is compact and mostly step-free, which is a relief with a pushchair. A children's pool sits beside the main pool near the kids club.",
+        "fr": "Les chambres sont grandes et la plupart ont un balcon ou une terrasse face a la baie. Les familles prennent en general une chambre Garden ou Sea View avec un lit supplementaire, ou des chambres communicantes pour plus d'espace, et l'hotel accueille facilement les enfants avec des lits bebe gratuits. L'implantation est compacte et le plus souvent de plain-pied, un soulagement avec une poussette. Une piscine enfants jouxte la piscine principale, pres du club."
+      },
+      "intro": {
+        "en": "The Kempinski at Baie Lazare has quietly become one of the easiest luxury family bases on Mahe. Its free kids club runs from eight to six for ages 4 to 12, with tortoise feeding and an Adventure Garden, and a dedicated children's pool sits right by it. The beach at Baie Lazare is broad and the resort is compact enough to walk with little legs. It hits a sweet spot between comfort, price and genuine child-friendliness.",
+        "fr": "Le Kempinski de Baie Lazare est devenu discretement l'un des camps de base familiaux de luxe les plus simples de Mahe. Son club enfants gratuit ouvre de huit a dix-huit heures pour les 4 a 12 ans, avec nourrissage des tortues et un Jardin d'Aventure, et une piscine enfants dediee se trouve juste a cote. La plage de Baie Lazare est large et le resort assez compact pour se parcourir avec de petites jambes. Il trouve le juste equilibre entre confort, prix et vraie attention aux enfants."
+      },
+      "highlights": {
+        "en": [
+          "Free kids club, ages 4 to 12, open 8am to 6pm",
+          "Dedicated children's pool by the kids club",
+          "Compact, mostly step-free layout for pushchairs",
+          "Broad sandy beach at Baie Lazare"
+        ],
+        "fr": [
+          "Club enfants gratuit, 4 a 12 ans, ouvert de 8h a 18h",
+          "Piscine enfants dediee pres du club",
+          "Implantation compacte et de plain-pied pour les poussettes",
+          "Large plage de sable a Baie Lazare"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Free, well-run kids club with long hours",
+          "Children's pool and an Adventure Garden on site",
+          "Easy to walk with a toddler or pushchair",
+          "Good value for a five-star on Mahe"
+        ],
+        "fr": [
+          "Club enfants gratuit et bien tenu, avec de larges horaires",
+          "Piscine enfants et Jardin d'Aventure sur place",
+          "Facile a parcourir avec un tout-petit ou une poussette",
+          "Bon rapport qualite-prix pour un cinq etoiles a Mahe"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The bay can have seaweed and stronger surf at times",
+          "Around forty-five minutes by road from the airport",
+          "Fewer restaurants than the biggest resorts"
+        ],
+        "fr": [
+          "La baie peut connaitre des algues et une houle plus forte par moments",
+          "Environ quarante-cinq minutes de route depuis l'aeroport",
+          "Moins de restaurants que les plus grands resorts"
+        ]
+      }
+    },
+    {
+      "key": "seychelles-savoy-seychelles-resort-spa",
+      "destinationKey": "seychelles",
+      "name": "Savoy Seychelles Resort & Spa",
+      "area": {
+        "en": "Mahe, Beau Vallon",
+        "fr": "Mahe, Beau Vallon"
+      },
+      "lat": -4.6178,
+      "lng": 55.427,
+      "zoom": 13,
+      "address": "Savoy Seychelles Resort & Spa, Beau Vallon, Mahe, Seychelles",
+      "priceTier": 3,
+      "priceFrom": 300,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "baby-friendly",
+        "beach-access",
+        "family-suites"
+      ],
+      "clubFree": false,
+      "photos": [
+        "whiteResortPool",
+        "poolCabanas",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 76,
+        "pool": 82,
+        "dining": 80,
+        "safety": 82,
+        "convenience": 88,
+        "location": 88,
+        "extras": 78
+      },
+      "roomsSummary": {
+        "en": "The Savoy is a large, modern resort right on Beau Vallon beach, with Family Rooms and interconnecting rooms that suit four comfortably. Standard rooms take an extra bed or cot, provided free, and the flat, walkable grounds are simple with a pushchair. Being in the middle of Beau Vallon means shops, restaurants and a supermarket are a short stroll away, which is handy with a baby.",
+        "fr": "Le Savoy est un grand resort moderne les pieds dans le sable a Beau Vallon, avec des Family Rooms et des chambres communicantes qui logent quatre personnes confortablement. Les chambres standard acceptent un lit d'appoint ou un lit bebe, fournis gratuitement, et le domaine plat et parcourable est simple en poussette. Etre au coeur de Beau Vallon signifie que boutiques, restaurants et supermarche sont a courte distance a pied, bien pratique avec un bebe."
+      },
+      "intro": {
+        "en": "The Savoy sits on the liveliest beach on Mahe, the long golden sweep of Beau Vallon, with the island's biggest choice of restaurants and shops right outside. It is a practical family base rather than a hidden hideaway: an easy transfer from the airport, a huge pool and a supervised kids club. Because it is in a real village, you can walk out for an ice cream or a casual dinner, which many parents prefer to being locked inside one resort. It is one of the better-value five-star options on the island.",
+        "fr": "Le Savoy occupe la plage la plus animee de Mahe, le long ruban dore de Beau Vallon, avec le plus grand choix de restaurants et de boutiques de l'ile juste devant. C'est un camp de base familial pratique plutot qu'un refuge cache : transfert facile depuis l'aeroport, immense piscine et club enfants encadre. Comme on est dans un vrai village, on peut sortir a pied pour une glace ou un diner simple, ce que beaucoup de parents preferent a l'enfermement dans un seul resort. C'est l'une des meilleures affaires cinq etoiles de l'ile."
+      },
+      "highlights": {
+        "en": [
+          "On Beau Vallon, the island's best swimming beach",
+          "Walk to restaurants, shops and a supermarket",
+          "Very large pool and a supervised kids club",
+          "Short, easy transfer from the airport"
+        ],
+        "fr": [
+          "Sur Beau Vallon, la meilleure plage de baignade de l'ile",
+          "Restaurants, boutiques et supermarche a pied",
+          "Tres grande piscine et club enfants encadre",
+          "Transfert court et facile depuis l'aeroport"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Unbeatable location in the middle of Beau Vallon",
+          "Everything walkable, easy with a baby or toddler",
+          "Good value for a beachfront five-star"
+        ],
+        "fr": [
+          "Emplacement imbattable au coeur de Beau Vallon",
+          "Tout accessible a pied, facile avec un bebe ou un tout-petit",
+          "Bon rapport qualite-prix pour un cinq etoiles en bord de plage"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The main pool is designated adults-only, so children swim in the sea or a separate area",
+          "Beau Vallon is busy and public, not a private beach",
+          "The kids club has limited hours and no free club for under-fives on their own"
+        ],
+        "fr": [
+          "La piscine principale est reservee aux adultes, les enfants se baignent en mer ou dans un espace a part",
+          "Beau Vallon est animee et publique, ce n'est pas une plage privee",
+          "Le club enfants a des horaires limites et n'accueille pas seuls les moins de cinq ans"
+        ]
+      }
+    },
+    {
+      "key": "seychelles-doubletree-hilton-allamanda",
+      "destinationKey": "seychelles",
+      "name": "DoubleTree by Hilton Seychelles Allamanda Resort & Spa",
+      "area": {
+        "en": "Mahe, Anse Forbans",
+        "fr": "Mahe, Anse Forbans"
+      },
+      "lat": -4.7746,
+      "lng": 55.517,
+      "zoom": 13,
+      "address": "DoubleTree by Hilton Seychelles - Allamanda Resort & Spa, Anse Forbans, Takamaka, Mahe, Seychelles",
+      "priceTier": 2,
+      "priceFrom": 210,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "baby-friendly",
+        "beach-access",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "infinityPoolSea",
+        "deckLoungersSea",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 74,
+        "baby": 78,
+        "pool": 78,
+        "dining": 74,
+        "safety": 84,
+        "convenience": 80,
+        "location": 82,
+        "extras": 70
+      },
+      "roomsSummary": {
+        "en": "Allamanda is a small, low-key resort of around thirty rooms, most a few steps from the beach. Rooms are simple and comfortable rather than lavish, and up to two children under twelve stay free sharing with parents, which keeps costs down. Cots are available and the ground-floor beachfront rooms are easy with a pushchair. There are no big family suites, so larger families take two connecting rooms.",
+        "fr": "Allamanda est un petit resort discret d'une trentaine de chambres, la plupart a quelques pas de la plage. Les chambres sont simples et confortables plutot que luxueuses, et jusqu'a deux enfants de moins de douze ans logent gratuitement avec les parents, ce qui allege la note. Des lits bebe sont disponibles et les chambres de plain-pied en bord de plage sont faciles en poussette. Il n'y a pas de grandes suites familiales, les grandes familles prennent donc deux chambres communicantes."
+      },
+      "intro": {
+        "en": "This DoubleTree is the value pick on Mahe, a small and calm resort on the quiet southeast coast at Anse Forbans. There is no kids club, but the sheltered reef-protected beach is one of the safest on the island for a paddle, and the infinity pool looks straight out to sea. It suits families who want a simple, affordable beach base and are happy to make their own days rather than lean on organised children's activities. With children under twelve staying free, it is one of the least expensive ways to bring a family to the Seychelles.",
+        "fr": "Ce DoubleTree est le choix malin de Mahe, un petit resort tranquille sur la cote sud-est paisible, a Anse Forbans. Il n'y a pas de club enfants, mais la plage abritee et protegee par le recif est l'une des plus sures de l'ile pour barboter, et la piscine a debordement donne droit sur la mer. Il convient aux familles qui veulent un pied-a-terre balneaire simple et abordable, et qui preferent organiser leurs journees plutot que de compter sur des activites encadrees. Avec les moins de douze ans gratuits, c'est l'une des facons les moins cheres d'emmener une famille aux Seychelles."
+      },
+      "highlights": {
+        "en": [
+          "Great value, children under 12 stay free",
+          "Sheltered, reef-protected beach that is calm for paddling",
+          "Small and quiet, easy to relax with little ones",
+          "Ocean-view infinity pool"
+        ],
+        "fr": [
+          "Excellent rapport qualite-prix, moins de 12 ans gratuits",
+          "Plage abritee et protegee par le recif, calme pour barboter",
+          "Petit et tranquille, facile pour se detendre avec des petits",
+          "Piscine a debordement avec vue sur l'ocean"
+        ]
+      },
+      "pros": {
+        "en": [
+          "One of the most affordable beach resorts in the Seychelles",
+          "Calm, safe, reef-sheltered swimming",
+          "Relaxed, uncrowded and unpretentious"
+        ],
+        "fr": [
+          "L'un des resorts de plage les plus abordables des Seychelles",
+          "Baignade calme et sure, abritee par le recif",
+          "Detendu, peu frequente et sans pretention"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No kids club or dedicated children's play area",
+          "Just one restaurant, so limited dining variety",
+          "The quiet southeast coast means little to do off the resort"
+        ],
+        "fr": [
+          "Pas de club enfants ni d'aire de jeux dediee",
+          "Un seul restaurant, donc peu de choix a table",
+          "La cote sud-est tranquille offre peu d'activites hors du resort"
+        ]
+      }
+    },
+    {
+      "key": "seychelles-hilton-labriz-silhouette",
+      "destinationKey": "seychelles",
+      "name": "Hilton Seychelles Labriz Resort & Spa",
+      "area": {
+        "en": "Silhouette Island",
+        "fr": "Ile de Silhouette"
+      },
+      "lat": -4.4842,
+      "lng": 55.2394,
+      "zoom": 13,
+      "address": "Hilton Seychelles Labriz Resort & Spa, La Passe, Silhouette Island, Seychelles",
+      "priceTier": 3,
+      "priceFrom": 400,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolTropicalMtn",
+        "beachSunset",
+        "villaPoolGreen"
+      ],
+      "scores": {
+        "rooms": 84,
+        "baby": 82,
+        "pool": 82,
+        "dining": 86,
+        "safety": 84,
+        "convenience": 74,
+        "location": 88,
+        "extras": 88
+      },
+      "roomsSummary": {
+        "en": "Labriz is a village of villas along a two-kilometre beach, and families do well in the Garden Villas or the larger Beachfront and Pool Villas that sleep up to six. Cots and kids' amenities like bottle warmers come on request, and connecting arrangements are possible. The island is flat and green, so buggies and bikes make getting around fun rather than a chore. Villas with their own pool are worth it for a napping toddler.",
+        "fr": "Labriz est un village de villas le long d'une plage de deux kilometres, et les familles sont a l'aise dans les Garden Villas ou les plus grandes Beachfront et Pool Villas qui logent jusqu'a six personnes. Lits bebe et equipements pour enfants comme les chauffe-biberons arrivent sur demande, et les configurations communicantes sont possibles. L'ile est plate et verdoyante, si bien que voiturettes et velos rendent les deplacements amusants plutot que penibles. Les villas avec piscine privee valent la peine pour un tout-petit qui fait la sieste."
+      },
+      "intro": {
+        "en": "Hilton Labriz has the whole of Silhouette Island almost to itself, a wild, mountainous national park just a short boat ride off Mahe. That remoteness is the appeal: a huge protected beach, jungle walks, a turtle and tortoise programme, and a free kids club for ages 4 to 12. Getting here means a road transfer plus a thirty-minute boat, which is more effort with a baby, but the reward is one of the most beautiful and unspoilt settings in the Seychelles. It is a proper nature adventure with five-star comfort.",
+        "fr": "Le Hilton Labriz a presque pour lui seul toute l'ile de Silhouette, un parc national sauvage et montagneux a une courte traversee de Mahe. Cet isolement fait tout son charme : une immense plage protegee, des randonnees dans la jungle, un programme tortues marines et terrestres, et un club enfants gratuit de 4 a 12 ans. Y venir demande un transfert routier puis trente minutes de bateau, plus d'efforts avec un bebe, mais la recompense est l'un des cadres les plus beaux et preserves des Seychelles. C'est une vraie aventure nature avec le confort cinq etoiles."
+      },
+      "highlights": {
+        "en": [
+          "A whole national-park island with a two-kilometre beach",
+          "Free kids club for ages 4 to 12",
+          "Pool villas that sleep up to six",
+          "Turtle and giant tortoise programme on the island"
+        ],
+        "fr": [
+          "Une ile entiere de parc national avec une plage de deux kilometres",
+          "Club enfants gratuit de 4 a 12 ans",
+          "Villas avec piscine qui logent jusqu'a six personnes",
+          "Programme tortues marines et geantes sur l'ile"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Spectacular, unspoilt island setting",
+          "Free kids club and a genuine nature programme",
+          "Large villas, some with a private pool, for bigger families",
+          "Long protected beach with calm swimming"
+        ],
+        "fr": [
+          "Cadre insulaire spectaculaire et preserve",
+          "Club enfants gratuit et vrai programme nature",
+          "Grandes villas, certaines avec piscine privee, pour les familles nombreuses",
+          "Longue plage protegee a la baignade calme"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The longest transfer here: road plus a thirty-minute boat",
+          "Remote, so no shops or village to wander to",
+          "Higher prices and pricey extras once on the island"
+        ],
+        "fr": [
+          "Le transfert le plus long de cette liste : route puis trente minutes de bateau",
+          "Isole, donc aucune boutique ni village ou flaner",
+          "Tarifs eleves et extras chers une fois sur l'ile"
+        ]
+      }
+    },
+    {
+      "key": "seychelles-constance-lemuria",
+      "destinationKey": "seychelles",
+      "name": "Constance Lemuria",
+      "area": {
+        "en": "Praslin, Anse Kerlan",
+        "fr": "Praslin, Anse Kerlan"
+      },
+      "lat": -4.3027,
+      "lng": 55.6903,
+      "zoom": 13,
+      "address": "Constance Lemuria, Anse Kerlan, Praslin, Seychelles",
+      "priceTier": 4,
+      "priceFrom": 620,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "infinityPoolSea",
+        "poolPalms",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 90,
+        "baby": 82,
+        "pool": 88,
+        "dining": 88,
+        "safety": 85,
+        "convenience": 80,
+        "location": 92,
+        "extras": 90
+      },
+      "roomsSummary": {
+        "en": "Lemuria is all suites and villas, and families spread out in a Junior Suite with an extra bed or, better, a two-bedroom Villa with a private pool and space for everyone. Cots are free and the resort is used to babies. Buggies ferry you around the hilly, green estate, and the three beaches include the famous Anse Georgette. The children's pool and playground sit near the kids club.",
+        "fr": "Lemuria n'est que suites et villas, et les familles s'etalent dans une Junior Suite avec lit supplementaire ou, mieux, une Villa deux chambres avec piscine privee et de la place pour tous. Les lits bebe sont gratuits et l'hotel a l'habitude des bebes. Des voiturettes vous transportent sur le domaine vallonne et verdoyant, et les trois plages comptent la celebre Anse Georgette. La piscine enfants et l'aire de jeux se trouvent pres du club."
+      },
+      "intro": {
+        "en": "Constance Lemuria is Praslin's grande dame, a polished ultra-luxe resort with three of the most beautiful beaches in the Seychelles, including the postcard-perfect Anse Georgette. It is a couples favourite that also does families very well, with a free kids club for ages 4 to 11, a children's pool and playground, and villas big enough for everyone. There is a championship golf course, a turtle-nesting beach and superb snorkelling on the doorstep. This is the splurge choice on Praslin, and it earns it.",
+        "fr": "Le Constance Lemuria est la grande dame de Praslin, un resort de grand luxe raffine avec trois des plus belles plages des Seychelles, dont la carte postale qu'est Anse Georgette. C'est un favori des couples qui reussit aussi tres bien aux familles, avec un club enfants gratuit de 4 a 11 ans, une piscine enfants et une aire de jeux, et des villas assez grandes pour tous. Il y a un parcours de golf de championnat, une plage de ponte des tortues et un snorkeling superbe juste devant. C'est le choix coup de coeur sur Praslin, et il le merite."
+      },
+      "highlights": {
+        "en": [
+          "Three stunning beaches including Anse Georgette",
+          "Free kids club for ages 4 to 11, plus children's pool and playground",
+          "Two-bedroom villas with a private pool",
+          "Turtle nesting and excellent snorkelling on site"
+        ],
+        "fr": [
+          "Trois plages magnifiques dont Anse Georgette",
+          "Club enfants gratuit de 4 a 11 ans, avec piscine enfants et aire de jeux",
+          "Villas deux chambres avec piscine privee",
+          "Ponte des tortues et snorkeling excellent sur place"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Some of the finest beaches in the country",
+          "Free kids club plus a children's pool and playground",
+          "Spacious villas that suit larger families",
+          "Polished service used to families"
+        ],
+        "fr": [
+          "Parmi les plus belles plages du pays",
+          "Club enfants gratuit avec piscine enfants et aire de jeux",
+          "Villas spacieuses adaptees aux familles nombreuses",
+          "Service soigne, habitue aux familles"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Ultra-luxe prices, the biggest splurge here",
+          "The hilly estate means relying on buggies to get around",
+          "Anse Georgette can be a walk or buggy ride from your villa"
+        ],
+        "fr": [
+          "Tarifs de grand luxe, la plus grosse depense de cette liste",
+          "Le domaine vallonne oblige a compter sur les voiturettes",
+          "Anse Georgette peut etre loin de votre villa, a pied ou en voiturette"
+        ]
+      }
+    },
+    {
+      "key": "seychelles-raffles-seychelles",
+      "destinationKey": "seychelles",
+      "name": "Raffles Seychelles",
+      "area": {
+        "en": "Praslin, Anse Takamaka",
+        "fr": "Praslin, Anse Takamaka"
+      },
+      "lat": -4.301,
+      "lng": 55.7595,
+      "zoom": 13,
+      "address": "Raffles Seychelles, Anse Takamaka, Praslin, Seychelles",
+      "priceTier": 4,
+      "priceFrom": 650,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "villaPoolGreen",
+        "infinityPoolSea",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 90,
+        "baby": 84,
+        "pool": 86,
+        "dining": 88,
+        "safety": 85,
+        "convenience": 82,
+        "location": 88,
+        "extras": 90
+      },
+      "roomsSummary": {
+        "en": "Every room at Raffles is a private villa, and many have their own pool, which is a huge win with a napping toddler or an early bedtime. One and two-bedroom Pool Villas suit families, and up to five children thirteen and under stay free using existing bedding, which softens the cost. A creche looks after younger children while the Sugar Palm Kids' Club takes ages four and up. Cots and baby kit come on request.",
+        "fr": "Chaque chambre du Raffles est une villa privee, et beaucoup ont leur propre piscine, un enorme atout avec un tout-petit qui fait la sieste ou un coucher tot. Les Pool Villas une et deux chambres conviennent aux familles, et jusqu'a cinq enfants de treize ans et moins logent gratuitement avec la literie existante, ce qui adoucit la note. Une garderie s'occupe des plus jeunes tandis que le Sugar Palm Kids' Club prend les quatre ans et plus. Lits bebe et materiel de puericulture sur demande."
+      },
+      "intro": {
+        "en": "Raffles sits above Anse Takamaka on the north coast of Praslin, a resort of all-villa suites with a rare combination for the Seychelles: proper luxury and a serious commitment to families. There is a free kids club for ages four and up and a creche for the little ones, and up to five children stay free. Private-pool villas mean you get quiet evenings once children are asleep. It pairs beautifully with a trip to nearby Vallee de Mai and the beaches of La Digue.",
+        "fr": "Le Raffles domine Anse Takamaka, sur la cote nord de Praslin, un resort de suites toutes en villa avec une combinaison rare aux Seychelles : un vrai luxe et un engagement serieux envers les familles. Il y a un club enfants gratuit des quatre ans et une garderie pour les plus petits, et jusqu'a cinq enfants logent gratuitement. Les villas avec piscine privee offrent des soirees tranquilles une fois les enfants endormis. Il se marie a merveille avec une sortie a la Vallee de Mai toute proche et aux plages de La Digue."
+      },
+      "highlights": {
+        "en": [
+          "Every room is a private villa, many with a pool",
+          "Free kids club for ages 4 and up, plus a creche for younger children",
+          "Up to five children 13 and under stay free",
+          "Steps from Anse Takamaka and near Vallee de Mai"
+        ],
+        "fr": [
+          "Chaque chambre est une villa privee, beaucoup avec piscine",
+          "Club enfants gratuit des 4 ans, avec garderie pour les plus jeunes",
+          "Jusqu'a cinq enfants de 13 ans et moins gratuits",
+          "A deux pas d'Anse Takamaka et pres de la Vallee de Mai"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Private-pool villas, ideal for early bedtimes and naps",
+          "One of the few Seychelles luxury resorts with a creche",
+          "Generous kids-stay-free policy",
+          "Great launchpad for Vallee de Mai and La Digue"
+        ],
+        "fr": [
+          "Villas avec piscine privee, ideales pour les couchers tot et les siestes",
+          "L'un des rares resorts de luxe des Seychelles avec une garderie",
+          "Politique genereuse d'enfants gratuits",
+          "Excellent point de depart pour la Vallee de Mai et La Digue"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Ultra-luxe prices once dining is added",
+          "The hillside villas involve steps and buggy rides",
+          "The beach can drop off quickly, so watch young swimmers"
+        ],
+        "fr": [
+          "Tarifs de grand luxe une fois la restauration comptee",
+          "Les villas a flanc de colline impliquent des marches et des voiturettes",
+          "La plage peut descendre vite, surveillez les jeunes nageurs"
+        ]
+      }
+    },
+    {
+      "key": "seychelles-le-domaine-de-lorangeraie",
+      "destinationKey": "seychelles",
+      "name": "Le Domaine de L'Orangeraie Resort & Spa",
+      "area": {
+        "en": "La Digue, Anse Severe",
+        "fr": "La Digue, Anse Severe"
+      },
+      "lat": -4.343,
+      "lng": 55.838,
+      "zoom": 13,
+      "address": "Le Domaine de L'Orangeraie Resort & Spa, Anse Severe, La Digue, Seychelles",
+      "priceTier": 3,
+      "priceFrom": 320,
+      "ages": [
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "beach-access",
+        "family-suites"
+      ],
+      "clubFree": false,
+      "photos": [
+        "poolTropicalMtn",
+        "villaPoolGreen",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 82,
+        "baby": 66,
+        "pool": 74,
+        "dining": 82,
+        "safety": 74,
+        "convenience": 70,
+        "location": 90,
+        "extras": 80
+      },
+      "roomsSummary": {
+        "en": "Orangeraie is a garden of villas climbing a hillside on car-free La Digue. Families are best in the flatter Garden Villas or a Garden Suite Residence, and the Villa de Charme offers connecting rooms for larger groups. There is no kids club, so the villas are your base for downtime. With a deep unfenced pool and steep paths, the resort recommends a ground-level villa without a balcony for children under six.",
+        "fr": "L'Orangeraie est un jardin de villas gravissant une colline sur La Digue sans voiture. Les familles sont mieux dans les Garden Villas plus plates ou une Garden Suite Residence, et la Villa de Charme propose des chambres communicantes pour les grands groupes. Il n'y a pas de club enfants, les villas servent donc de repere pour les temps calmes. Avec une piscine profonde non securisee et des chemins pentus, l'hotel conseille une villa de plain-pied sans balcon pour les enfants de moins de six ans."
+      },
+      "intro": {
+        "en": "Le Domaine de L'Orangeraie is the loveliest place to stay on La Digue, the tiny, car-free island where you get around by bike and ox-cart and the beaches look unreal. The resort itself is a lush hillside garden of Creole villas with a beautiful pool and a good buffet that children like. It has no kids club and some steep paths, so it suits families with school-age children more than toddlers. What you come for is the island: the world-famous Anse Source d'Argent is a short cycle away, and giant tortoises roam nearby.",
+        "fr": "Le Domaine de L'Orangeraie est le plus bel endroit ou loger a La Digue, la petite ile sans voiture ou l'on se deplace a velo et en char a boeufs et ou les plages semblent irreelles. Le resort lui-meme est un jardin luxuriant a flanc de colline, fait de villas creoles, avec une belle piscine et un bon buffet que les enfants apprecient. Il n'a pas de club enfants et quelques chemins pentus, il convient donc mieux aux familles avec des enfants d'age scolaire qu'avec des tout-petits. Ce que l'on vient chercher, c'est l'ile : la mondialement celebre Anse Source d'Argent est a un court coup de pedale, et des tortues geantes se promenent tout pres."
+      },
+      "highlights": {
+        "en": [
+          "On magical, car-free La Digue",
+          "A short cycle from Anse Source d'Argent",
+          "Beautiful Creole villas and a lovely pool",
+          "Buffet restaurant that children enjoy"
+        ],
+        "fr": [
+          "Sur la magique La Digue, sans voiture",
+          "A un court coup de pedale d'Anse Source d'Argent",
+          "De belles villas creoles et une jolie piscine",
+          "Restaurant buffet apprecie des enfants"
+        ]
+      },
+      "pros": {
+        "en": [
+          "The best base for exploring La Digue's famous beaches",
+          "Gorgeous, peaceful garden setting",
+          "Family villas and connecting rooms available"
+        ],
+        "fr": [
+          "Le meilleur camp de base pour explorer les plages celebres de La Digue",
+          "Cadre de jardin magnifique et paisible",
+          "Villas familiales et chambres communicantes disponibles"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No kids club and a deep, unfenced pool, so watch young children",
+          "Steep hillside paths, harder with a pushchair or toddler",
+          "Reaching La Digue needs a ferry, so it is a longer journey"
+        ],
+        "fr": [
+          "Pas de club enfants et une piscine profonde non securisee, surveillez les jeunes enfants",
+          "Chemins pentus a flanc de colline, plus durs en poussette ou avec un tout-petit",
+          "Rejoindre La Digue demande un ferry, le trajet est donc plus long"
+        ]
+      }
+    }
+  ],
+  "destinationMeta": {
+    "heroKicker": {
+      "en": "Granite islands, giant tortoises and calm family beaches",
+      "fr": "Iles de granit, tortues geantes et plages familiales tranquilles"
+    },
+    "intro": {
+      "en": "The Seychelles feels like a different kind of tropical holiday from the Maldives. Instead of one resort marooned on a tiny sand island, these are real granite-and-jungle islands you can explore, with villages, restaurants, nature reserves and roads to wander. You fly straight into Mahe, then reach the other islands by a quick domestic flight or a scheduled ferry, so there is no seaplane to wrangle. Children are welcome everywhere, the bays are warm, shallow and calm, and giant Aldabra tortoises wander freely on several islands. Toddlers tend to find it easier than the Maldives because there is more to do off the resort, from beach-hopping by bike on La Digue to a boat trip in a marine park. It is not a budget destination, and moving between islands means a short ferry or a domestic hop, so plan those legs in advance. But for families who want beaches and adventure in one trip, few places do both so well. Best of all, the Seychelles is malaria-free, which takes a real worry off the table with young children.",
+      "fr": "Les Seychelles offrent un tout autre genre de vacances tropicales que les Maldives. Au lieu d'un resort isole sur un minuscule ilot de sable, ce sont de vraies iles de granit et de jungle que l'on peut explorer, avec des villages, des restaurants, des reserves naturelles et des routes ou flaner. On atterrit directement a Mahe, puis on rejoint les autres iles par un court vol interieur ou un ferry regulier, sans hydravion a gerer. Les enfants sont les bienvenus partout, les baies sont chaudes, peu profondes et calmes, et des tortues geantes d'Aldabra se promenent librement sur plusieurs iles. Les tout-petits s'y sentent souvent mieux qu'aux Maldives car il y a plus a faire hors du resort, de la tournee des plages a velo sur La Digue a une sortie en bateau dans un parc marin. Ce n'est pas une destination economique, et passer d'une ile a l'autre implique un court ferry ou un saut en avion, alors planifiez ces trajets a l'avance. Mais pour les familles qui veulent plages et aventure en un seul voyage, peu d'endroits reunissent aussi bien les deux. Et surtout, les Seychelles sont exemptes de paludisme, ce qui enleve un vrai souci avec de jeunes enfants."
+    },
+    "whyKids": {
+      "en": [
+        "Warm, shallow, calm bays that are ideal for first swims",
+        "Giant Aldabra tortoises roaming freely on several islands",
+        "Real islands to explore by bike, boat and on foot, not just one resort",
+        "Malaria-free, which is a genuine relief with young children",
+        "Nature everywhere: marine parks, rainforest reserves and rare birds"
+      ],
+      "fr": [
+        "Des baies chaudes, peu profondes et calmes, ideales pour les premieres baignades",
+        "Des tortues geantes d'Aldabra en liberte sur plusieurs iles",
+        "De vraies iles a explorer a velo, en bateau et a pied, pas un seul resort",
+        "Sans paludisme, un vrai soulagement avec de jeunes enfants",
+        "La nature partout : parcs marins, reserves de foret tropicale et oiseaux rares"
+      ]
+    },
+    "bestAreas": {
+      "en": [
+        "Mahe: the main island, with the airport, the best beach choice at Beau Vallon and the widest range of resorts",
+        "Praslin: greener and quieter, home to the Vallee de Mai palm forest and superb beaches like Anse Lazio",
+        "La Digue: tiny and car-free, reached by ferry, with the iconic Anse Source d'Argent and travel by bike",
+        "Getting between islands: quick domestic flights from Mahe to Praslin, or a fast ferry of about an hour, then a short ferry to La Digue",
+        "Choosing an island: base on Mahe for ease and value, Praslin for beaches and nature, La Digue for a car-free adventure with older kids"
+      ],
+      "fr": [
+        "Mahe : l'ile principale, avec l'aeroport, le meilleur choix de plages a Beau Vallon et la plus large offre de resorts",
+        "Praslin : plus verte et plus calme, avec la foret de palmiers de la Vallee de Mai et de superbes plages comme Anse Lazio",
+        "La Digue : minuscule et sans voiture, accessible en ferry, avec l'iconique Anse Source d'Argent et les deplacements a velo",
+        "Passer d'une ile a l'autre : vols interieurs rapides de Mahe a Praslin, ou ferry rapide d'environ une heure, puis court ferry vers La Digue",
+        "Choisir son ile : Mahe pour la facilite et le budget, Praslin pour les plages et la nature, La Digue pour une aventure sans voiture avec de grands enfants"
+      ]
+    },
+    "stats": [
+      {
+        "value": "27 to 29C",
+        "label": {
+          "en": "Sea temperature year-round",
+          "fr": "Temperature de la mer toute l'annee"
+        }
+      },
+      {
+        "value": "Apr-May, Oct-Nov",
+        "label": {
+          "en": "Calmest months for families",
+          "fr": "Les mois les plus calmes pour les familles"
+        }
+      },
+      {
+        "value": "~10 hours",
+        "label": {
+          "en": "Direct flight time from Europe",
+          "fr": "Duree de vol direct depuis l'Europe"
+        }
+      },
+      {
+        "value": "~1 hour",
+        "label": {
+          "en": "Fast ferry Mahe to Praslin",
+          "fr": "Ferry rapide Mahe-Praslin"
+        }
+      }
+    ],
+    "activities": [
+      {
+        "emoji": "🐢",
+        "name": {
+          "en": "Meet giant tortoises",
+          "fr": "Rencontrer les tortues geantes"
+        },
+        "detail": {
+          "en": "Curieuse Island and La Digue are home to free-roaming Aldabra giant tortoises that children can walk right up to.",
+          "fr": "L'ile Curieuse et La Digue abritent des tortues geantes d'Aldabra en liberte que les enfants peuvent approcher tout pres."
+        },
+        "ages": [
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Half day",
+          "fr": "Demi-journee"
+        }
+      },
+      {
+        "emoji": "🏖️",
+        "name": {
+          "en": "Anse Source d'Argent",
+          "fr": "Anse Source d'Argent"
+        },
+        "detail": {
+          "en": "The Seychelles' most famous beach, a shallow, sheltered lagoon behind giant granite boulders, reached by bike on La Digue.",
+          "fr": "La plage la plus celebre des Seychelles, un lagon peu profond et abrite derriere d'enormes rochers de granit, que l'on rejoint a velo sur La Digue."
+        },
+        "ages": [
+          "baby",
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Morning",
+          "fr": "Matin"
+        }
+      },
+      {
+        "emoji": "🤿",
+        "name": {
+          "en": "Snorkel Sainte Anne marine park",
+          "fr": "Snorkeling au parc marin de Sainte Anne"
+        },
+        "detail": {
+          "en": "A short boat trip from Mahe to a protected bay with calm, shallow water and easy snorkelling for children.",
+          "fr": "Une courte sortie en bateau depuis Mahe vers une baie protegee, aux eaux calmes et peu profondes, faciles pour le snorkeling des enfants."
+        },
+        "ages": [
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Half day",
+          "fr": "Demi-journee"
+        }
+      },
+      {
+        "emoji": "🌴",
+        "name": {
+          "en": "Vallee de Mai nature reserve",
+          "fr": "Reserve naturelle de la Vallee de Mai"
+        },
+        "detail": {
+          "en": "A UNESCO palm forest on Praslin where the giant coco de mer grows and rare black parrots call, on shaded, easy trails.",
+          "fr": "Une foret de palmiers classee a l'UNESCO sur Praslin, ou pousse le geant coco de mer et ou chantent de rares perroquets noirs, sur des sentiers ombrages et faciles."
+        },
+        "ages": [
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Half day",
+          "fr": "Demi-journee"
+        }
+      },
+      {
+        "emoji": "🚤",
+        "name": {
+          "en": "Glass-bottom boat trip",
+          "fr": "Sortie en bateau a fond de verre"
+        },
+        "detail": {
+          "en": "A gentle way for little ones to watch fish and coral without getting in the water.",
+          "fr": "Une facon douce pour les petits d'observer poissons et coraux sans se mettre a l'eau."
+        },
+        "ages": [
+          "baby",
+          "toddler",
+          "kid"
+        ],
+        "time": {
+          "en": "Morning",
+          "fr": "Matin"
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "q": {
+          "en": "Which island is best for young children?",
+          "fr": "Quelle ile convient le mieux aux jeunes enfants?"
+        },
+        "a": {
+          "en": "Mahe is the easiest with toddlers: it has the airport, so no extra ferry, plus the calm beach at Beau Vallon and the widest choice of family resorts. Praslin is a close second and pairs well with a day trip to La Digue.",
+          "fr": "Mahe est la plus simple avec des tout-petits : elle a l'aeroport, donc pas de ferry supplementaire, plus la plage calme de Beau Vallon et le plus grand choix de resorts familiaux. Praslin arrive juste derriere et se combine bien avec une excursion a La Digue."
+        }
+      },
+      {
+        "q": {
+          "en": "Is the Seychelles malaria-free?",
+          "fr": "Les Seychelles sont-elles exemptes de paludisme?"
+        },
+        "a": {
+          "en": "Yes, the Seychelles is malaria-free, so no antimalarial tablets are needed, which is a real plus with children. Standard sun and mosquito precautions still apply for comfort.",
+          "fr": "Oui, les Seychelles sont exemptes de paludisme, donc aucun traitement antipaludeen n'est necessaire, un vrai atout avec des enfants. Les precautions habituelles contre le soleil et les moustiques restent utiles pour le confort."
+        }
+      },
+      {
+        "q": {
+          "en": "How do you get between the islands?",
+          "fr": "Comment passe-t-on d'une ile a l'autre?"
+        },
+        "a": {
+          "en": "Mahe to Praslin is a fifteen-minute domestic flight or a fast catamaran ferry of about an hour. La Digue is a short fifteen-minute ferry from Praslin. Book ferries ahead in high season.",
+          "fr": "De Mahe a Praslin, comptez un vol interieur de quinze minutes ou un ferry catamaran rapide d'environ une heure. La Digue est a un court ferry de quinze minutes depuis Praslin. Reservez les ferries a l'avance en haute saison."
+        }
+      },
+      {
+        "q": {
+          "en": "When is the best time to visit with children?",
+          "fr": "Quelle est la meilleure periode pour venir avec des enfants?"
+        },
+        "a": {
+          "en": "April to May and October to November are the calmest, with light winds and clear seas, ideal for swimming and snorkelling. It is warm year-round, with a wetter, windier spell from June to August and December to January.",
+          "fr": "D'avril a mai et d'octobre a novembre, la mer est la plus calme, avec des vents legers et une eau claire, ideale pour la baignade et le snorkeling. Il fait chaud toute l'annee, avec une periode plus humide et plus ventee de juin a aout et de decembre a janvier."
+        }
+      },
+      {
+        "q": {
+          "en": "Do the resorts have kids clubs?",
+          "fr": "Les resorts ont-ils des clubs enfants?"
+        },
+        "a": {
+          "en": "Some do and some do not. The bigger resorts on Mahe and Praslin, like Constance Ephelia, Kempinski, Constance Lemuria and Raffles, run free kids clubs, while smaller properties and the La Digue hotels usually do not, so check before booking.",
+          "fr": "Certains oui, d'autres non. Les grands resorts de Mahe et Praslin, comme le Constance Ephelia, le Kempinski, le Constance Lemuria et le Raffles, proposent des clubs enfants gratuits, tandis que les etablissements plus petits et les hotels de La Digue n'en ont generalement pas, verifiez donc avant de reserver."
+        }
+      },
+      {
+        "q": {
+          "en": "Is it safe and easy to get around?",
+          "fr": "Est-ce sur et facile de se deplacer?"
+        },
+        "a": {
+          "en": "Yes, the Seychelles is relaxed and very safe by day, and the islands are small. You can walk, cycle or take a taxi, and La Digue is car-free and explored by bike, which children love.",
+          "fr": "Oui, les Seychelles sont paisibles et tres sures en journee, et les iles sont petites. On se deplace a pied, a velo ou en taxi, et La Digue est sans voiture et s'explore a velo, ce que les enfants adorent."
+        }
+      }
+    ],
+    "parentTip": {
+      "en": "Base yourself on one island for most of the week rather than hopping every two nights: pick Mahe or Praslin, settle in, and do La Digue and the tortoise islands as day trips so you are not packing bags with tired children.",
+      "fr": "Installez-vous sur une seule ile pour l'essentiel de la semaine plutot que de changer tous les deux soirs : choisissez Mahe ou Praslin, posez vos valises, et faites La Digue et les iles aux tortues en excursions a la journee pour ne pas refaire les bagages avec des enfants fatigues."
+    },
+    "goodToKnow": [
+      {
+        "en": "The Seychelles is malaria-free, so no antimalarial tablets are needed.",
+        "fr": "Les Seychelles sont exemptes de paludisme, aucun traitement antipaludeen n'est necessaire."
+      },
+      {
+        "en": "Tap water is generally treated, but many families stick to bottled or filtered water for young children.",
+        "fr": "L'eau du robinet est generalement traitee, mais beaucoup de familles preferent l'eau en bouteille ou filtree pour les jeunes enfants."
+      },
+      {
+        "en": "Check tide times: some beautiful beaches, like Anse Source d'Argent, are shallowest and best at low to mid tide.",
+        "fr": "Verifiez les horaires des marees : certaines belles plages, comme Anse Source d'Argent, sont les plus basses et les plus agreables a maree basse ou moyenne."
+      },
+      {
+        "en": "The sun is very strong near the equator, so bring high-factor cream, rash vests and hats even on cloudy days.",
+        "fr": "Le soleil est tres fort pres de l'equateur, emportez une creme haute protection, des tee-shirts anti-UV et des chapeaux meme par temps couvert."
+      },
+      {
+        "en": "Domestic flights between islands have tight luggage limits, so travel light or leave a bag with your onward hotel.",
+        "fr": "Les vols interieurs entre les iles ont des limites de bagages serrees, voyagez leger ou laissez un sac a votre hotel suivant."
+      }
+    ],
+    "emoji": "🐢",
+    "name": {
+      "en": "Seychelles",
+      "fr": "Seychelles"
+    },
+    "country": {
+      "en": "Seychelles",
+      "fr": "Seychelles"
+    },
+    "geo": {
+      "lat": -4.6796,
+      "lng": 55.492,
+      "zoom": 8
+    },
+    "accent": "0e7c86",
+    "photos": [
+      "beachSunset",
+      "poolTropicalMtn",
+      "coastTown",
+      "infinityPoolSea"
+    ]
+  }
+}

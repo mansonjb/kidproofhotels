@@ -1,0 +1,1025 @@
+{
+  "hotels": [
+    {
+      "key": "phuket-jw-marriott-phuket-resort-spa",
+      "destinationKey": "phuket",
+      "name": "JW Marriott Phuket Resort & Spa",
+      "area": {
+        "en": "Mai Khao Beach",
+        "fr": "Plage de Mai Khao"
+      },
+      "lat": 8.1543,
+      "lng": 98.2971,
+      "zoom": 13,
+      "address": "231 Moo 3, Mai Khao, Thalang District, Phuket 83110, Thailand",
+      "priceTier": 4,
+      "priceFrom": 320,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolPalms",
+        "beachSunset",
+        "resortLoungers"
+      ],
+      "scores": {
+        "rooms": 90,
+        "baby": 88,
+        "pool": 90,
+        "dining": 90,
+        "safety": 88,
+        "convenience": 82,
+        "location": 84,
+        "extras": 92
+      },
+      "roomsSummary": {
+        "en": "Rooms are large and calm, and the Family Studios and two-bedroom suites are built for parents who need space and a door to close at nap time. Most rooms sleep a family of four comfortably, cots and bed rails come free on request, and interconnecting options let bigger families spread out. Ground-floor rooms with direct lawn or pool access save a lot of pushchair wrangling.",
+        "fr": "Les chambres sont vastes et paisibles, et les Family Studios et suites deux chambres sont pensees pour des parents qui veulent de l'espace et une porte a fermer a l'heure de la sieste. La plupart des chambres logent une famille de quatre sans probleme, les lits bebe et barrieres sont gratuits sur demande, et les chambres communicantes permettent aux familles nombreuses de s'etaler. Les chambres de plain-pied avec acces direct au jardin ou a la piscine evitent bien des manoeuvres en poussette."
+      },
+      "intro": {
+        "en": "This is the polished, do-everything family flagship on the long quiet sweep of Mai Khao, near the airport but a world away from the crowds. A genuinely huge Kids Club by JW runs day and night camps with a ball pit, soft play and a kids cinema, and there is an on-site turtle shelter where children learn about the resort's marine conservation work. Lagoon-style pools, a kids pool with slides and a calm beach keep every age busy. It is grown-up and refined, yet nothing about it feels off-limits to children.",
+        "fr": "Voici le navire amiral familial soigne et complet sur la longue etendue tranquille de Mai Khao, pres de l'aeroport mais a mille lieues de la foule. Un Kids Club by JW vraiment immense propose des camps de jour et de nuit avec piscine a balles, aire de jeux souple et cinema pour enfants, et une clinique des tortues sur place ou les enfants decouvrent le travail de conservation marine du resort. Des piscines a lagon, une piscine enfants avec toboggans et une plage calme occupent tous les ages. C'est raffine et adulte, et pourtant rien n'y semble interdit aux enfants."
+      },
+      "highlights": {
+        "en": [
+          "Huge free Kids Club by JW with day and night camps",
+          "On-site turtle shelter and Kids Turtle Warriors programme",
+          "Lagoon pools plus a kids pool with slides",
+          "Long, quiet Mai Khao beach ten minutes from the airport"
+        ],
+        "fr": [
+          "Immense Kids Club by JW gratuit avec camps de jour et de nuit",
+          "Clinique des tortues sur place et programme Kids Turtle Warriors",
+          "Piscines a lagon et une piscine enfants avec toboggans",
+          "Longue plage tranquille de Mai Khao a dix minutes de l'aeroport"
+        ]
+      },
+      "pros": {
+        "en": [
+          "One of the best-equipped kids clubs on the island, and free",
+          "Very short transfer from the airport, easy with a baby",
+          "Refined dining that still welcomes children",
+          "Quiet, uncrowded beach away from the party scene"
+        ],
+        "fr": [
+          "L'un des clubs enfants les mieux equipes de l'ile, et gratuit",
+          "Transfert tres court depuis l'aeroport, facile avec un bebe",
+          "Restauration raffinee qui accueille tout de meme les enfants",
+          "Plage calme et peu frequentee, loin de l'ambiance festive"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Far from Old Town and the busy beaches, so day trips mean a drive",
+          "Mai Khao surf and rip currents are strong from May to October",
+          "Premium prices for rooms, dining and drinks"
+        ],
+        "fr": [
+          "Loin de la vieille ville et des plages animees, les excursions imposent la route",
+          "Le ressac et les courants de Mai Khao sont forts de mai a octobre",
+          "Tarifs eleves pour les chambres, la table et les boissons"
+        ]
+      }
+    },
+    {
+      "key": "phuket-club-med-phuket",
+      "destinationKey": "phuket",
+      "name": "Club Med Phuket",
+      "area": {
+        "en": "Kata",
+        "fr": "Kata"
+      },
+      "lat": 7.8206,
+      "lng": 98.2986,
+      "zoom": 13,
+      "address": "3 Kata Road, Karon, Muang District, Phuket 83100, Thailand",
+      "priceTier": 4,
+      "priceFrom": 450,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "baby-friendly",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolCabanas",
+        "poolTropicalMtn",
+        "poolPalms"
+      ],
+      "scores": {
+        "rooms": 82,
+        "baby": 85,
+        "pool": 88,
+        "dining": 86,
+        "safety": 86,
+        "convenience": 88,
+        "location": 82,
+        "extras": 90
+      },
+      "roomsSummary": {
+        "en": "The new Lai Thai Family Oasis adds Family Superior and Family Themed rooms that sleep two adults, two children under eleven and a baby, some with baby gear, kids toiletries and activity kits built in. Cots are provided, and the all-inclusive setup means no wallet at meals or at the bar. Themed family rooms with a partitioned kids area are the pick if you want the little ones to settle while you stay up.",
+        "fr": "Le nouveau Lai Thai Family Oasis ajoute des chambres Family Superior et Family Themed qui logent deux adultes, deux enfants de moins de onze ans et un bebe, certaines avec equipement bebe, produits de toilette enfants et kits d'activites integres. Les lits bebe sont fournis, et la formule tout inclus supprime le portefeuille aux repas comme au bar. Les chambres familiales a theme avec coin enfants separe sont le bon choix si vous voulez que les petits s'endorment pendant que vous veillez."
+      },
+      "intro": {
+        "en": "Club Med Phuket is the all-inclusive answer for families who want the day sorted before it begins. Its 2025 Lai Thai Family Oasis brought a big splash park with slides and sprays, plus age-based kids clubs that take children from four months right up to seventeen, all included in the price. Meals, snacks, drinks and most activities are covered, so there is no daily maths and no nickel-and-diming. It sits a short walk back from Kata Beach, with a separate Zen area if the grown-ups want a quiet pool.",
+        "fr": "Club Med Phuket est la reponse tout inclus pour les familles qui veulent la journee reglee avant meme qu'elle commence. Son Lai Thai Family Oasis, ouvert en 2025, a apporte un grand espace aquatique avec toboggans et jets, ainsi que des clubs enfants par tranche d'age qui accueillent les petits de quatre mois jusqu'a dix-sept ans, le tout compris dans le prix. Repas, collations, boissons et la plupart des activites sont inclus, donc pas de comptes quotidiens ni de petits supplements. Le resort se trouve a courte distance a pied de la plage de Kata, avec un espace Zen a part si les adultes veulent une piscine au calme."
+      },
+      "highlights": {
+        "en": [
+          "All-inclusive: meals, snacks, drinks and most activities",
+          "Included kids clubs from four months to seventeen",
+          "New splash park with slides and water sprays",
+          "Family Themed rooms with a separate kids zone"
+        ],
+        "fr": [
+          "Tout inclus : repas, collations, boissons et la plupart des activites",
+          "Clubs enfants inclus de quatre mois a dix-sept ans",
+          "Nouvel espace aquatique avec toboggans et jets d'eau",
+          "Chambres Family Themed avec coin enfants separe"
+        ]
+      },
+      "pros": {
+        "en": [
+          "One price covers almost everything, easy to budget",
+          "Clubs for every age including babies and teens",
+          "Excellent splash park for toddlers and young kids",
+          "Friendly, activity-packed atmosphere with lots of staff"
+        ],
+        "fr": [
+          "Un seul prix couvre presque tout, facile a budgeter",
+          "Des clubs pour tous les ages, bebes et ados compris",
+          "Excellent espace aquatique pour tout-petits et jeunes enfants",
+          "Ambiance conviviale et riche en activites, avec un personnel nombreux"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Set back from Kata Beach, so the sea is a short walk not on the doorstep",
+          "The lively, organised style will not suit families wanting total calm",
+          "Baby and toddler clubs may carry a small extra charge, so confirm"
+        ],
+        "fr": [
+          "En retrait de la plage de Kata, la mer est a courte distance et non au pied du resort",
+          "Le style anime et organise ne conviendra pas aux familles en quete de calme total",
+          "Les clubs bebe et tout-petits peuvent comporter un leger supplement, a confirmer"
+        ]
+      }
+    },
+    {
+      "key": "phuket-katathani-phuket-beach-resort",
+      "destinationKey": "phuket",
+      "name": "Katathani Phuket Beach Resort",
+      "area": {
+        "en": "Kata Noi Beach",
+        "fr": "Plage de Kata Noi"
+      },
+      "lat": 7.8082,
+      "lng": 98.2967,
+      "zoom": 13,
+      "address": "14 Kata Noi Road, Karon, Muang District, Phuket 83100, Thailand",
+      "priceTier": 3,
+      "priceFrom": 160,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "beachSunset",
+        "poolPalms",
+        "deckLoungersSea"
+      ],
+      "scores": {
+        "rooms": 84,
+        "baby": 84,
+        "pool": 90,
+        "dining": 82,
+        "safety": 85,
+        "convenience": 80,
+        "location": 86,
+        "extras": 84
+      },
+      "roomsSummary": {
+        "en": "The Pool Access Family Room sleeps two adults and three children under twelve, with a bunk bed, trundle beds and a small fenced plunge pool on the terrace. Families tend to prefer the Bhuri Wing across the road, which sits closest to the kids pool and Club Tully. Cots are available on request, and the sheer choice of room types makes it easy to match your family size.",
+        "fr": "La Pool Access Family Room loge deux adultes et trois enfants de moins de douze ans, avec un lit superpose, des lits gigognes et un petit bassin cloture sur la terrasse. Les familles preferent en general le Bhuri Wing, de l'autre cote de la route, le plus proche de la piscine enfants et du Club Tully. Les lits bebe sont disponibles sur demande, et le large choix de categories permet de coller facilement a la taille de votre famille."
+      },
+      "intro": {
+        "en": "Katathani sprawls along almost the whole of quiet Kata Noi, one of the prettiest and calmest beaches in south Phuket. Six swimming pools, three kids pools and a couple of small water slides mean the children rarely run out of water, and the two-level Club Tully kids club is a genuine highlight. It is a big, well-run classic that families return to year after year, helped by a beach that stays gentle for much of the dry season. The trade-off is a location away from the busier hubs, which for many parents is exactly the appeal.",
+        "fr": "Katathani s'etire sur presque toute la plage tranquille de Kata Noi, l'une des plus jolies et des plus calmes du sud de Phuket. Six piscines, trois bassins enfants et quelques petits toboggans font que les enfants manquent rarement d'eau, et le Club Tully sur deux niveaux est un vrai point fort. C'est un grand classique bien tenu ou les familles reviennent annee apres annee, aide par une plage qui reste douce une bonne partie de la saison seche. En contrepartie, l'emplacement est loin des poles animes, ce qui pour bien des parents fait precisement tout son charme."
+      },
+      "highlights": {
+        "en": [
+          "Six pools, three kids pools and small water slides",
+          "Two-level Club Tully kids club for all ages",
+          "Long, calm and pretty Kata Noi beach out front",
+          "Family rooms sleeping two adults and three children"
+        ],
+        "fr": [
+          "Six piscines, trois bassins enfants et de petits toboggans",
+          "Club Tully sur deux niveaux pour tous les ages",
+          "Longue plage de Kata Noi, calme et jolie, juste devant",
+          "Chambres familiales logeant deux adultes et trois enfants"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Outstanding pool count for water-loving kids",
+          "Directly on one of Phuket's calmest beaches",
+          "Great-value family rooms for the location",
+          "Long-standing family reputation and repeat guests"
+        ],
+        "fr": [
+          "Nombre de piscines exceptionnel pour les enfants amateurs d'eau",
+          "En bord direct de l'une des plages les plus calmes de Phuket",
+          "Chambres familiales d'un bon rapport qualite-prix pour le secteur",
+          "Reputation familiale ancienne et clientele fidele"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The resort straddles a road, so the far wing means crossing to the beach",
+          "It is a big property that can feel busy in peak season",
+          "Kata Noi surf and rip currents pick up from May to October"
+        ],
+        "fr": [
+          "Le resort est coupe par une route, l'aile eloignee impose de traverser pour la plage",
+          "C'est un grand etablissement qui peut sembler charge en haute saison",
+          "Le ressac et les courants de Kata Noi se renforcent de mai a octobre"
+        ]
+      }
+    },
+    {
+      "key": "phuket-centara-grand-beach-resort-phuket",
+      "destinationKey": "phuket",
+      "name": "Centara Grand Beach Resort Phuket",
+      "area": {
+        "en": "Karon Beach",
+        "fr": "Plage de Karon"
+      },
+      "lat": 7.83,
+      "lng": 98.2946,
+      "zoom": 13,
+      "address": "683 Patak Road, Karon Beach, Muang District, Phuket 83100, Thailand",
+      "priceTier": 3,
+      "priceFrom": 150,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "whiteResortPool",
+        "poolPalms",
+        "poolOrange"
+      ],
+      "scores": {
+        "rooms": 82,
+        "baby": 82,
+        "pool": 92,
+        "dining": 84,
+        "safety": 84,
+        "convenience": 84,
+        "location": 84,
+        "extras": 90
+      },
+      "roomsSummary": {
+        "en": "Deluxe Family Rooms and family suites sleep four, and many connect so larger groups can open a door between two rooms. Cots are free on request, and the layout keeps most families a short walk from the water park and the kids clubs. Ask for a room facing the pools rather than the road if you want the little ones to nap without street noise.",
+        "fr": "Les Deluxe Family Rooms et les suites familiales logent quatre personnes, et beaucoup communiquent pour ouvrir une porte entre deux chambres avec un plus grand groupe. Les lits bebe sont gratuits sur demande, et l'agencement garde la plupart des familles a courte distance du parc aquatique et des clubs enfants. Demandez une chambre cote piscines plutot que cote route si vous voulez que les petits fassent la sieste sans bruit de rue."
+      },
+      "intro": {
+        "en": "Centara Grand is the water park resort at the quiet southern end of Karon, and for a certain age of child it is close to perfect. The centrepiece is a proper aquatic playground with waterslides, a lazy river and a dedicated kids pool, backed up by a Camp Safari club for ages four to nine and an E-Zone for ten to seventeen. That teen club is rare and useful, so this is one of the few Phuket resorts that keeps older kids happy too. The beach is just across the road, and Karon village puts restaurants and shops within easy reach.",
+        "fr": "Le Centara Grand est le resort a parc aquatique, a l'extremite sud et tranquille de Karon, et pour un certain age d'enfant il frole la perfection. La piece maitresse est un vrai terrain de jeu aquatique avec toboggans, riviere lente et bassin enfants dedie, complete par un club Camp Safari pour les quatre a neuf ans et un E-Zone pour les dix a dix-sept ans. Ce club ados est rare et bien utile, ce qui en fait l'un des rares resorts de Phuket a contenter aussi les plus grands. La plage est juste en face, et le village de Karon met restaurants et boutiques a portee de main."
+      },
+      "highlights": {
+        "en": [
+          "Water park with slides, lazy river and kids pool",
+          "Camp Safari club for ages 4 to 9",
+          "E-Zone teen club for ages 10 to 17",
+          "Karon beach and village a short walk away"
+        ],
+        "fr": [
+          "Parc aquatique avec toboggans, riviere lente et bassin enfants",
+          "Club Camp Safari pour les 4 a 9 ans",
+          "Club ados E-Zone pour les 10 a 17 ans",
+          "Plage et village de Karon a courte distance"
+        ]
+      },
+      "pros": {
+        "en": [
+          "One of the best on-site water parks in Phuket",
+          "Rare dedicated teen club as well as a young kids club",
+          "Connecting family rooms for larger groups",
+          "Good value for the facilities on offer"
+        ],
+        "fr": [
+          "L'un des meilleurs parcs aquatiques sur place de Phuket",
+          "Rare club ados dedie en plus du club jeunes enfants",
+          "Chambres familiales communicantes pour les grands groupes",
+          "Bon rapport qualite-prix pour les equipements proposes"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The water park draws crowds, so it can be loud and busy",
+          "The beach is across a road rather than at your feet",
+          "Karon surf and rip currents are dangerous from May to October"
+        ],
+        "fr": [
+          "Le parc aquatique attire du monde, l'ambiance peut etre bruyante et chargee",
+          "La plage se trouve de l'autre cote d'une route, pas au pied du resort",
+          "Le ressac et les courants de Karon sont dangereux de mai a octobre"
+        ]
+      }
+    },
+    {
+      "key": "phuket-angsana-laguna-phuket",
+      "destinationKey": "phuket",
+      "name": "Angsana Laguna Phuket",
+      "area": {
+        "en": "Bang Tao / Laguna",
+        "fr": "Bang Tao / Laguna"
+      },
+      "lat": 8,
+      "lng": 98.2967,
+      "zoom": 13,
+      "address": "10 Moo 4, Srisoonthorn Road, Bang Tao Bay, Cherngtalay, Thalang District, Phuket 83110, Thailand",
+      "priceTier": 3,
+      "priceFrom": 180,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "infinityPoolSea",
+        "poolPalms",
+        "resortLoungers"
+      ],
+      "scores": {
+        "rooms": 84,
+        "baby": 84,
+        "pool": 88,
+        "dining": 84,
+        "safety": 84,
+        "convenience": 82,
+        "location": 84,
+        "extras": 88
+      },
+      "roomsSummary": {
+        "en": "Loft and two-bedroom family suites give parents a real separate space, and many rooms open onto the huge lagoon-fed pool that snakes through the resort. Cots are provided on request, and the size of the grounds means it is worth asking for a room near the Treehouse kids club. Interconnecting options work well for families travelling with grandparents.",
+        "fr": "Les suites familiales en duplex et deux chambres offrent aux parents un vrai espace separe, et beaucoup de chambres ouvrent sur l'immense piscine alimentee par le lagon qui serpente dans le resort. Les lits bebe sont fournis sur demande, et l'etendue du domaine invite a demander une chambre pres du club enfants Treehouse. Les options communicantes conviennent bien aux familles qui voyagent avec les grands-parents."
+      },
+      "intro": {
+        "en": "Angsana sits inside the Laguna Phuket enclave on Bang Tao, a gated cluster of resorts around a lagoon where free shuttle boats and buggies take you from pool to beach to golf. The Treehouse Kids Club runs complimentary activities for ages four to twelve, welcomes little ones from age one with a parent, and even has a teens area. The vast free-form pool is a genuine draw, and the long, gentle Bang Tao beach is a short stroll or shuttle away. It is relaxed, green and made for pottering about with children in tow.",
+        "fr": "Angsana se trouve dans l'enclave de Laguna Phuket, sur Bang Tao, un ensemble ferme de resorts autour d'un lagon ou bateaux-navettes et voiturettes gratuits vous emmenent de la piscine a la plage au golf. Le Treehouse Kids Club propose des activites gratuites pour les quatre a douze ans, accueille les tout-petits des un an avec un parent et dispose meme d'un coin ados. La vaste piscine a forme libre est un vrai atout, et la longue plage douce de Bang Tao est a courte distance a pied ou en navette. C'est detendu, verdoyant et fait pour flaner avec des enfants dans les pattes."
+      },
+      "highlights": {
+        "en": [
+          "Free Treehouse Kids Club, little ones welcome from age one",
+          "Enormous lagoon-style pool through the resort",
+          "Free shuttle boats and buggies around the Laguna enclave",
+          "Long, gentle Bang Tao beach nearby"
+        ],
+        "fr": [
+          "Treehouse Kids Club gratuit, tout-petits admis des un an",
+          "Enorme piscine facon lagon a travers le resort",
+          "Bateaux-navettes et voiturettes gratuits dans l'enclave de Laguna",
+          "Longue plage douce de Bang Tao a proximite"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Free kids club that takes younger children with a parent",
+          "One of the most fun resort pools on the island",
+          "Safe, gated enclave with free transport to explore",
+          "Good spread of family suites with separate space"
+        ],
+        "fr": [
+          "Club enfants gratuit qui prend les plus jeunes avec un parent",
+          "L'une des piscines de resort les plus amusantes de l'ile",
+          "Enclave fermee et sure, avec transport gratuit pour explorer",
+          "Bon choix de suites familiales avec espace separe"
+        ]
+      },
+      "cons": {
+        "en": [
+          "A large resort, so expect a walk or shuttle to the beach",
+          "Some kids activities and classes carry an extra charge",
+          "Bang Tao surf and rip currents strengthen from May to October"
+        ],
+        "fr": [
+          "Un grand resort, prevoyez de la marche ou une navette jusqu'a la plage",
+          "Certaines activites et certains ateliers enfants sont en supplement",
+          "Le ressac et les courants de Bang Tao se renforcent de mai a octobre"
+        ]
+      }
+    },
+    {
+      "key": "phuket-le-meridien-phuket-beach-resort",
+      "destinationKey": "phuket",
+      "name": "Le Meridien Phuket Beach Resort",
+      "area": {
+        "en": "Relax Bay",
+        "fr": "Relax Bay"
+      },
+      "lat": 7.8489,
+      "lng": 98.2919,
+      "zoom": 13,
+      "address": "29 Soi Karon Nui, Karon, Muang District, Phuket 83100, Thailand",
+      "priceTier": 3,
+      "priceFrom": 170,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolPalms",
+        "beachSunset",
+        "poolDuskPalms"
+      ],
+      "scores": {
+        "rooms": 82,
+        "baby": 82,
+        "pool": 86,
+        "dining": 82,
+        "safety": 86,
+        "convenience": 80,
+        "location": 82,
+        "extras": 86
+      },
+      "roomsSummary": {
+        "en": "Family rooms and larger suites sleep four, and the sprawling grounds mean it is worth asking for a room near the main pool and the kids club. Cots come free on request, and the resort's own gentle bay is a big reassurance with young paddlers. Interconnecting rooms are available for families who want a door between the kids and the grown-ups.",
+        "fr": "Les chambres familiales et les suites plus grandes logent quatre personnes, et l'etendue du domaine invite a demander une chambre pres de la piscine principale et du club enfants. Les lits bebe sont gratuits sur demande, et la baie douce et privee du resort rassure beaucoup avec de jeunes baigneurs. Des chambres communicantes sont disponibles pour les familles qui veulent une porte entre les enfants et les adultes."
+      },
+      "intro": {
+        "en": "Le Meridien has one big advantage for families: it owns almost the whole of Relax Bay, a sheltered private beach that stays calmer than the open coast. Behind it stretch two enormous pools, tennis and squash courts, a climbing wall and a free Penguin kids club for ages four to twelve, with plenty to keep active children busy for a week. It is a big, older-school resort rather than a design hotel, and that is exactly why it works so well with children who just want space to run. The private bay also means fewer worries about crowds or traffic.",
+        "fr": "Le Meridien possede un gros atout pour les familles : il occupe presque toute Relax Bay, une plage privee et abritee qui reste plus calme que la cote ouverte. Derriere s'etendent deux piscines immenses, des courts de tennis et de squash, un mur d'escalade et un club enfants Penguin gratuit pour les quatre a douze ans, de quoi occuper des enfants actifs toute une semaine. C'est un grand resort a l'ancienne plutot qu'un hotel de design, et c'est justement pourquoi il fonctionne si bien avec des enfants qui veulent surtout de l'espace pour courir. La baie privee limite aussi les soucis de foule et de circulation."
+      },
+      "highlights": {
+        "en": [
+          "Almost private, sheltered Relax Bay beach",
+          "Two huge pools plus tennis, squash and a climbing wall",
+          "Free Penguin kids club for ages 4 to 12",
+          "Lots of space and activities for active children"
+        ],
+        "fr": [
+          "Plage de Relax Bay presque privee et abritee",
+          "Deux immenses piscines, tennis, squash et mur d'escalade",
+          "Club enfants Penguin gratuit pour les 4 a 12 ans",
+          "Beaucoup d'espace et d'activites pour les enfants actifs"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Its own calm private bay, reassuring with young kids",
+          "Big pools and a strong free kids club",
+          "Plenty of sport and space for restless children",
+          "Quiet setting yet close to Patong and Karon"
+        ],
+        "fr": [
+          "Sa propre baie privee et calme, rassurante avec de jeunes enfants",
+          "Grandes piscines et un solide club enfants gratuit",
+          "Beaucoup de sport et d'espace pour les enfants qui bougent",
+          "Cadre tranquille et pourtant proche de Patong et Karon"
+        ]
+      },
+      "cons": {
+        "en": [
+          "A large older resort, so decor is comfortable rather than stylish",
+          "You need a taxi to reach restaurants beyond the resort",
+          "Relax Bay develops surf and rip currents from May to October"
+        ],
+        "fr": [
+          "Un grand resort ancien, deco confortable plutot que tendance",
+          "Il faut un taxi pour rejoindre des restaurants hors du resort",
+          "Relax Bay developpe ressac et courants de mai a octobre"
+        ]
+      }
+    },
+    {
+      "key": "phuket-holiday-inn-resort-phuket",
+      "destinationKey": "phuket",
+      "name": "Holiday Inn Resort Phuket",
+      "area": {
+        "en": "Patong Beach",
+        "fr": "Plage de Patong"
+      },
+      "lat": 7.8925,
+      "lng": 98.2955,
+      "zoom": 13,
+      "address": "52 Thaweewong Road, Patong Beach, Kathu District, Phuket 83150, Thailand",
+      "priceTier": 2,
+      "priceFrom": 110,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolPalms",
+        "poolCabanas",
+        "roomCozy"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 84,
+        "pool": 82,
+        "dining": 82,
+        "safety": 82,
+        "convenience": 90,
+        "location": 84,
+        "extras": 82
+      },
+      "roomsSummary": {
+        "en": "The clever Kids Suites are the reason families book here: a partitioned kids zone with themed bunk beds, soft toys and their own TV, in a Pirate or Sea World design, next to the parents' room. Standard Family Rooms take two adults and two children under twelve, and cots are available on request. Kids stay and eat free on the right rate, which softens the bill for a week by the beach.",
+        "fr": "Les astucieuses Kids Suites sont la raison pour laquelle les familles reservent ici : un coin enfants separe avec lits superposes a theme, peluches et leur propre television, dans un decor Pirate ou Sea World, a cote de la chambre des parents. Les Family Rooms standard prennent deux adultes et deux enfants de moins de douze ans, et les lits bebe sont disponibles sur demande. Les enfants logent et mangent gratuitement selon le tarif, ce qui allege la note d'une semaine en bord de mer."
+      },
+      "intro": {
+        "en": "This is the smart-value family pick right in Patong, a short walk from the sand and the shops but set just far enough back from the nightlife. The draw is a proper set of children's facilities: a complimentary kids club, a kids pool with waterslides, a toddler pool and a splash zone, plus themed Kids Suites that children adore. Kids stay and eat free on many rates, which makes it one of the better-value family bases on the island. Patong itself is loud and busy, but that means everything is close and the resort works as a launchpad for day trips.",
+        "fr": "Voici le choix familial malin et abordable en plein Patong, a courte distance du sable et des boutiques mais juste assez en retrait de la vie nocturne. L'attrait tient a un vrai ensemble d'installations pour enfants : un club enfants gratuit, une piscine enfants avec toboggans, un bassin pour tout-petits et une zone de jets, plus des Kids Suites a theme que les enfants adorent. Les enfants logent et mangent gratuitement sur de nombreux tarifs, ce qui en fait l'une des meilleures bases familiales de l'ile pour le budget. Patong est bruyant et anime, mais tout est proche et le resort sert de camp de base ideal pour les excursions."
+      },
+      "highlights": {
+        "en": [
+          "Themed Kids Suites with bunk beds and their own TV",
+          "Free kids club, kids pool with slides and a splash zone",
+          "Kids stay and eat free on many rates",
+          "Walkable to Patong beach, shops and restaurants"
+        ],
+        "fr": [
+          "Kids Suites a theme avec lits superposes et television propre",
+          "Club enfants gratuit, piscine enfants a toboggans et zone de jets",
+          "Enfants loges et nourris gratuitement sur de nombreux tarifs",
+          "Plage de Patong, boutiques et restaurants accessibles a pied"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Excellent value with kids-stay-and-eat-free rates",
+          "Themed kids suites and a genuine free kids club",
+          "Very central, so day trips and dining are easy",
+          "Several pools including a proper kids pool with slides"
+        ],
+        "fr": [
+          "Excellent rapport qualite-prix avec les tarifs enfants gratuits",
+          "Suites enfants a theme et un vrai club enfants gratuit",
+          "Tres central, excursions et restaurants faciles",
+          "Plusieurs piscines dont une vraie piscine enfants a toboggans"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Patong is loud, busy and has a full-on nightlife nearby",
+          "Traffic and crowds make the walk to the beach less relaxing",
+          "Patong Beach has strong rip currents from May to October"
+        ],
+        "fr": [
+          "Patong est bruyant, anime et sa vie nocturne est toute proche",
+          "La circulation et la foule rendent la marche vers la plage moins reposante",
+          "La plage de Patong a de forts courants de mai a octobre"
+        ]
+      }
+    },
+    {
+      "key": "phuket-phuket-marriott-resort-spa-merlin-beach",
+      "destinationKey": "phuket",
+      "name": "Phuket Marriott Resort & Spa, Merlin Beach",
+      "area": {
+        "en": "Tri-Trang / Merlin Beach",
+        "fr": "Tri-Trang / Merlin Beach"
+      },
+      "lat": 7.8836,
+      "lng": 98.279,
+      "zoom": 13,
+      "address": "99 Muen-Ngern Road, Tri-Trang Beach, Patong, Kathu District, Phuket 83150, Thailand",
+      "priceTier": 3,
+      "priceFrom": 160,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "water-slides",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolTropicalMtn",
+        "beachSunset",
+        "deckLoungersSea"
+      ],
+      "scores": {
+        "rooms": 84,
+        "baby": 84,
+        "pool": 86,
+        "dining": 86,
+        "safety": 86,
+        "convenience": 84,
+        "location": 82,
+        "extras": 86
+      },
+      "roomsSummary": {
+        "en": "Family rooms and suites sleep four, and the terraced hillside layout means the best family rooms sit close to the family pool and the Bam Bam club. Cots are free on request, and connecting rooms suit larger groups. The resort's ten restaurants and bars make fussy-eater nights much easier than a one-restaurant island.",
+        "fr": "Les chambres et suites familiales logent quatre personnes, et l'agencement en terrasses a flanc de colline place les meilleures chambres familiales pres de la piscine famille et du club Bam Bam. Les lits bebe sont gratuits sur demande, et les chambres communicantes conviennent aux grands groupes. Les dix restaurants et bars du resort facilitent grandement les soirs d'enfants difficiles, bien plus qu'une ile a un seul restaurant."
+      },
+      "intro": {
+        "en": "Tucked into its own quiet cove at Tri-Trang, just south of Patong, this Marriott gives families a secluded beach with the buzz of town only five minutes away by taxi. Three pools include a family pool with a waterslide and splash pad, and the Bam Bam kids club looks after ages four to twelve with crafts, Thai games and a butterfly sanctuary visit. Ten restaurants and bars mean nobody goes hungry or bored. It is the sweet spot for families who want a calm base but still like being close to the action.",
+        "fr": "Nichee dans sa propre crique tranquille de Tri-Trang, juste au sud de Patong, cette adresse Marriott offre aux familles une plage retiree avec l'animation de la ville a cinq minutes de taxi seulement. Trois piscines dont une piscine famille avec toboggan et pataugeoire a jets, et le club enfants Bam Bam s'occupe des quatre a douze ans avec bricolage, jeux thais et visite d'une ferme aux papillons. Dix restaurants et bars font que personne n'a faim ni ne s'ennuie. C'est l'equilibre ideal pour les familles qui veulent une base calme tout en restant proches de l'animation."
+      },
+      "highlights": {
+        "en": [
+          "Secluded Tri-Trang cove, five minutes from Patong",
+          "Family pool with waterslide and splash pad",
+          "Free Bam Bam kids club for ages 4 to 12",
+          "Ten restaurants and bars on site"
+        ],
+        "fr": [
+          "Crique retiree de Tri-Trang, a cinq minutes de Patong",
+          "Piscine famille avec toboggan et pataugeoire a jets",
+          "Club enfants Bam Bam gratuit pour les 4 a 12 ans",
+          "Dix restaurants et bars sur place"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Quiet private beach yet close to Patong",
+          "Excellent choice of dining for picky eaters",
+          "Family pool with a slide plus a free kids club",
+          "Well-run Marriott service at a mid-range price"
+        ],
+        "fr": [
+          "Plage privee et calme, et pourtant proche de Patong",
+          "Excellent choix de restaurants pour les enfants difficiles",
+          "Piscine famille avec toboggan et un club enfants gratuit",
+          "Service Marriott bien rode a un prix intermediaire"
+        ]
+      },
+      "cons": {
+        "en": [
+          "The hillside layout means steps and slopes with a pushchair",
+          "The small beach can shrink at high tide",
+          "Tri-Trang water gets rough with rip currents from May to October"
+        ],
+        "fr": [
+          "L'agencement a flanc de colline implique marches et pentes en poussette",
+          "La petite plage peut retrecir a maree haute",
+          "L'eau de Tri-Trang devient agitee avec des courants de mai a octobre"
+        ]
+      }
+    }
+  ],
+  "destinationMeta": {
+    "heroKicker": {
+      "en": "Winter sun and family resorts in Thailand",
+      "fr": "Soleil d'hiver et resorts familiaux en Thailande"
+    },
+    "intro": {
+      "en": "Phuket is one of the easiest long-haul beach holidays to do with children, especially from November to April when Europe is cold and grey and the island turns on reliable dry-season sun. The choice of family resorts is huge, with free kids clubs, water parks and pools almost everywhere, and prices that still feel gentle once you land. Calm, gently shelving beaches like Mai Khao, Bang Tao and Kata suit little paddlers, while busy Patong keeps everything close if you would rather have the action on your doorstep. Off the sand there is plenty to fill a fortnight: ethical elephant sanctuaries, the pretty Sino-Portuguese Old Town, boat trips to islands and a couple of proper water parks. The sea is warm and shallow through the dry season, around 28 to 29 degrees, so first swims are a joy. The honest caveat is the monsoon from May to October, when the west-coast surf turns rough, rip currents are dangerous and red flags go up, so time a beach-swimming trip for the dry months. Flights from Europe run about eleven to twelve hours direct, with plenty of one-stop options, and the seven-hour time difference means a day or two of early mornings while small bodies adjust.",
+      "fr": "Phuket est l'une des destinations balneaires long-courrier les plus simples a faire avec des enfants, surtout de novembre a avril, quand l'Europe est froide et grise et que l'ile offre le soleil fiable de la saison seche. Le choix de resorts familiaux est immense, avec clubs enfants gratuits, parcs aquatiques et piscines presque partout, et des prix qui restent doux une fois sur place. Des plages calmes et en pente douce comme Mai Khao, Bang Tao et Kata conviennent aux petits baigneurs, tandis que l'anime Patong garde tout a portee de main si vous preferez l'animation au pied de l'hotel. Hors du sable, de quoi remplir deux semaines : sanctuaires d'elephants ethiques, jolie vieille ville sino-portugaise, sorties en bateau vers les iles et quelques vrais parcs aquatiques. La mer est chaude et peu profonde pendant la saison seche, autour de 28 a 29 degres, si bien que les premieres baignades sont un bonheur. Le bemol honnete, c'est la mousson de mai a octobre, quand le ressac de la cote ouest devient rude, les courants dangereux et les drapeaux rouges montent, alors calez un sejour de baignade sur les mois secs. Les vols depuis l'Europe durent environ onze a douze heures en direct, avec de nombreuses options avec une escale, et les sept heures de decalage imposent un jour ou deux de reveils tot le temps que les petits s'ajustent."
+    },
+    "whyKids": {
+      "en": [
+        "Warm, shallow, gently shelving beaches like Mai Khao, Bang Tao and Kata for first swims",
+        "A huge choice of resorts with free kids clubs, pools and water parks",
+        "Reliable winter sun from November to April when Europe is cold",
+        "Exciting easy day trips: elephant sanctuaries, islands and water parks",
+        "Great-value dining and a famously warm Thai welcome for children"
+      ],
+      "fr": [
+        "Des plages chaudes, peu profondes et en pente douce comme Mai Khao, Bang Tao et Kata pour les premieres baignades",
+        "Un choix immense de resorts avec clubs enfants gratuits, piscines et parcs aquatiques",
+        "Un soleil d'hiver fiable de novembre a avril, quand l'Europe est froide",
+        "Des excursions faciles et palpitantes : sanctuaires d'elephants, iles et parcs aquatiques",
+        "Une restauration au bon rapport qualite-prix et un accueil thai chaleureux pour les enfants"
+      ]
+    },
+    "bestAreas": {
+      "en": [
+        "Mai Khao in the north: a long, quiet beach with big luxe family resorts, minutes from the airport",
+        "Bang Tao and Laguna: a gated resort enclave around a lagoon, calm beach and strong kids clubs",
+        "Karon and Kata: classic wide family beaches with resorts, restaurants and water parks",
+        "Patong: the liveliest and most convenient base, but loud with a full-on nightlife, so pick a resort set back from the strip",
+        "How to choose: north and west for calm and space, Patong for buzz and value, and avoid the May to October surf if beach swimming is the point"
+      ],
+      "fr": [
+        "Mai Khao au nord : une longue plage tranquille avec de grands resorts familiaux de luxe, a quelques minutes de l'aeroport",
+        "Bang Tao et Laguna : une enclave fermee de resorts autour d'un lagon, plage calme et solides clubs enfants",
+        "Karon et Kata : de larges plages familiales classiques avec resorts, restaurants et parcs aquatiques",
+        "Patong : la base la plus animee et la plus pratique, mais bruyante avec une vie nocturne intense, choisissez un resort en retrait de l'avenue",
+        "Comment choisir : le nord et l'ouest pour le calme et l'espace, Patong pour l'animation et le budget, et evitez le ressac de mai a octobre si la baignade est votre objectif"
+      ]
+    },
+    "stats": [
+      {
+        "value": "Nov to Apr",
+        "label": {
+          "en": "Dry season, best for families",
+          "fr": "Saison seche, la meilleure pour les familles"
+        }
+      },
+      {
+        "value": "~28-29C",
+        "label": {
+          "en": "Dry-season sea temperature",
+          "fr": "Temperature de la mer en saison seche"
+        }
+      },
+      {
+        "value": "~11-12h",
+        "label": {
+          "en": "Flight from Europe, plus possible stop",
+          "fr": "Vol depuis l'Europe, escale possible en plus"
+        }
+      },
+      {
+        "value": "GMT+7",
+        "label": {
+          "en": "Time zone, no daylight saving",
+          "fr": "Fuseau horaire, sans changement d'heure"
+        }
+      }
+    ],
+    "activities": [
+      {
+        "emoji": "🐘",
+        "name": {
+          "en": "Ethical elephant sanctuary",
+          "fr": "Sanctuaire d'elephants ethique"
+        },
+        "detail": {
+          "en": "Watch and feed rescued elephants at a no-riding sanctuary in the north of the island, a highlight for most kids.",
+          "fr": "Observez et nourrissez des elephants secourus dans un sanctuaire sans balade au nord de l'ile, un moment fort pour la plupart des enfants."
+        },
+        "ages": [
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Half day",
+          "fr": "Demi-journee"
+        }
+      },
+      {
+        "emoji": "🏙️",
+        "name": {
+          "en": "Phuket Old Town",
+          "fr": "Vieille ville de Phuket"
+        },
+        "detail": {
+          "en": "Stroll the colourful Sino-Portuguese streets, ice cream in hand, and time it for the Sunday walking street market.",
+          "fr": "Flanez dans les rues sino-portugaises colorees, une glace a la main, et visez le marche de la rue pietonne du dimanche."
+        },
+        "ages": [
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Afternoon",
+          "fr": "Apres-midi"
+        }
+      },
+      {
+        "emoji": "🛥️",
+        "name": {
+          "en": "Island day trip",
+          "fr": "Excursion vers les iles"
+        },
+        "detail": {
+          "en": "A boat trip to Coral Island or the Phi Phi islands for snorkelling and shallow bays, best in the dry season.",
+          "fr": "Une sortie en bateau vers Coral Island ou les iles Phi Phi pour le snorkeling et les baies peu profondes, ideale en saison seche."
+        },
+        "ages": [
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Full day",
+          "fr": "Journee complete"
+        }
+      },
+      {
+        "emoji": "🌊",
+        "name": {
+          "en": "Splash Jungle water park",
+          "fr": "Parc aquatique Splash Jungle"
+        },
+        "detail": {
+          "en": "Slides, a wave pool and a lazy river at Mai Khao, with gentler zones for toddlers.",
+          "fr": "Toboggans, piscine a vagues et riviere lente a Mai Khao, avec des zones plus douces pour les tout-petits."
+        },
+        "ages": [
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Half day",
+          "fr": "Demi-journee"
+        }
+      },
+      {
+        "emoji": "🙏",
+        "name": {
+          "en": "Big Buddha viewpoint",
+          "fr": "Point de vue du Grand Bouddha"
+        },
+        "detail": {
+          "en": "A short drive up for sweeping island views and a giant white marble Buddha, with a temple dress code to respect.",
+          "fr": "Une courte montee en voiture pour de vastes panoramas sur l'ile et un Bouddha geant en marbre blanc, avec un code vestimentaire de temple a respecter."
+        },
+        "ages": [
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Morning",
+          "fr": "Matin"
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "q": {
+          "en": "When is the best time to visit Phuket with kids?",
+          "fr": "Quelle est la meilleure periode pour visiter Phuket avec des enfants?"
+        },
+        "a": {
+          "en": "The dry season from November to April brings the most reliable sun and the calmest sea, ideal for families. The May to October monsoon is cheaper and often still sunny in the mornings, but the west-coast surf turns rough and swimming can be unsafe.",
+          "fr": "La saison seche, de novembre a avril, offre le soleil le plus fiable et la mer la plus calme, ideale pour les familles. La mousson de mai a octobre est moins chere et souvent encore ensoleillee le matin, mais le ressac de la cote ouest se durcit et la baignade peut devenir dangereuse."
+        }
+      },
+      {
+        "q": {
+          "en": "Which area is best for young children?",
+          "fr": "Quel secteur est le meilleur pour de jeunes enfants?"
+        },
+        "a": {
+          "en": "For calm and space, choose Mai Khao, Bang Tao or Kata, where the beaches shelve gently and the resorts are built around families. Patong is livelier and more convenient but loud, so pick a resort set back from the nightlife.",
+          "fr": "Pour le calme et l'espace, choisissez Mai Khao, Bang Tao ou Kata, ou les plages descendent en pente douce et les resorts sont penses pour les familles. Patong est plus anime et plus pratique mais bruyant, alors optez pour un resort en retrait de la vie nocturne."
+        }
+      },
+      {
+        "q": {
+          "en": "Is the sea safe for children?",
+          "fr": "La mer est-elle sure pour les enfants?"
+        },
+        "a": {
+          "en": "In the dry season the west-coast beaches are usually warm, shallow and calm. From May to October rip currents are strong and dangerous, and drownings happen every year when swimmers ignore the red flags, so always obey the flags and keep children close.",
+          "fr": "En saison seche, les plages de la cote ouest sont en general chaudes, peu profondes et calmes. De mai a octobre, les courants d'arrachement sont forts et dangereux, et des noyades surviennent chaque annee quand les baigneurs ignorent les drapeaux rouges, alors respectez toujours les drapeaux et gardez les enfants pres de vous."
+        }
+      },
+      {
+        "q": {
+          "en": "How do we get around the island?",
+          "fr": "Comment se deplacer sur l'ile?"
+        },
+        "a": {
+          "en": "Metered taxis are scarce and tuk-tuks are pricey, so most families use the Grab app for fair, fixed fares, or arrange a car and driver for day trips. Resort shuttles cover short hops in some areas.",
+          "fr": "Les taxis au compteur sont rares et les tuk-tuks chers, la plupart des familles utilisent donc l'application Grab pour des tarifs justes et fixes, ou reservent une voiture avec chauffeur pour les excursions. Des navettes de resort assurent les courts trajets dans certains secteurs."
+        }
+      },
+      {
+        "q": {
+          "en": "Any health or jet lag tips with kids?",
+          "fr": "Des conseils sante ou decalage horaire avec des enfants?"
+        },
+        "a": {
+          "en": "No vaccines are required for a standard resort holiday, but check routine jabs and pack insect repellent, high-factor sun cream and rehydration sachets. Drink bottled or filtered water only. The seven-hour time difference usually settles within a couple of days of early mornings.",
+          "fr": "Aucun vaccin n'est exige pour un sejour classique en resort, mais verifiez les rappels habituels et emportez repulsif, creme solaire haute protection et sachets de rehydratation. Buvez uniquement de l'eau en bouteille ou filtree. Le decalage de sept heures se resorbe en general en un a deux jours de reveils matinaux."
+        }
+      }
+    ],
+    "parentTip": {
+      "en": "Book a resort with its own big pool and a free kids club, and treat the sea as a bonus rather than the plan from May to October, when red flags fly on the west-coast beaches.",
+      "fr": "Reservez un resort avec sa propre grande piscine et un club enfants gratuit, et considerez la mer comme un bonus plutot que le programme de mai a octobre, quand les drapeaux rouges flottent sur les plages de la cote ouest."
+    },
+    "goodToKnow": [
+      {
+        "en": "From May to October the west-coast surf is rough and rip currents are deadly. Always obey the red flags and never let children swim when they are up.",
+        "fr": "De mai a octobre, le ressac de la cote ouest est rude et les courants d'arrachement sont mortels. Respectez toujours les drapeaux rouges et ne laissez jamais les enfants se baigner quand ils sont hisses."
+      },
+      {
+        "en": "Mosquitoes carry dengue on the island, so use repellent morning and evening and cover little arms and legs at dusk.",
+        "fr": "Les moustiques transmettent la dengue sur l'ile, utilisez donc du repulsif matin et soir et couvrez les petits bras et jambes au crepuscule."
+      },
+      {
+        "en": "Tap water is not safe to drink. Stick to bottled or filtered water, and use it for babies bottles and brushing teeth.",
+        "fr": "L'eau du robinet n'est pas potable. Tenez-vous en a l'eau en bouteille ou filtree, y compris pour les biberons et le brossage des dents."
+      },
+      {
+        "en": "Download the Grab app before you arrive. It gives fair fixed fares and saves haggling with taxis and tuk-tuks with tired kids in tow.",
+        "fr": "Telechargez l'application Grab avant d'arriver. Elle donne des tarifs fixes et justes et evite de marchander avec taxis et tuk-tuks quand les enfants sont fatigues."
+      },
+      {
+        "en": "The equatorial sun is strong even under cloud, and temples like the Big Buddha ask visitors to cover shoulders and knees, so pack rash vests, hats and a light cover-up.",
+        "fr": "Le soleil equatorial est fort meme sous les nuages, et les temples comme le Grand Bouddha demandent de couvrir epaules et genoux, alors emportez tee-shirts anti-UV, chapeaux et un vetement leger pour se couvrir."
+      }
+    ],
+    "emoji": "🐘",
+    "name": {
+      "en": "Phuket",
+      "fr": "Phuket"
+    },
+    "country": {
+      "en": "Thailand",
+      "fr": "Thailande"
+    },
+    "geo": {
+      "lat": 7.9519,
+      "lng": 98.3381,
+      "zoom": 11
+    },
+    "accent": "c2410c",
+    "photos": [
+      "beachSunset",
+      "poolPalms",
+      "poolTropicalMtn",
+      "deckLoungersSea"
+    ]
+  }
+}

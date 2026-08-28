@@ -1,0 +1,2646 @@
+{
+  "hotels": [
+    {
+      "key": "zanzibar-hideaway-of-nungwi-resort-and-spa",
+      "destinationKey": "zanzibar",
+      "name": "Hideaway of Nungwi Resort & Spa",
+      "area": {
+        "en": "Nungwi",
+        "fr": "Nungwi"
+      },
+      "lat": -5.73,
+      "lng": 39.292,
+      "zoom": 14,
+      "address": "Hideaway of Nungwi Resort & Spa, Nungwi, Unguja North, Zanzibar, Tanzania",
+      "priceTier": 4,
+      "priceFrom": 420,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "infinityPoolSea",
+        "beachSunset",
+        "poolPalms"
+      ],
+      "scores": {
+        "rooms": 88,
+        "baby": 85,
+        "pool": 90,
+        "dining": 84,
+        "safety": 86,
+        "convenience": 78,
+        "location": 88,
+        "extras": 86
+      },
+      "roomsSummary": {
+        "en": "Spread over ten hectares of gardens at the northern tip of the island, Hideaway has a wide choice of rooms, and families are well served. The larger 90 sqm suites sleep three or four with a big sofa bed in the living room, and several categories add a private pool. Cots come free on request, and ground-level garden rooms keep a pushchair easy. Ask for a room near the 50 metre pool and its separate children's pool rather than a far garden corner.",
+        "fr": "Etale sur dix hectares de jardins a la pointe nord de l'ile, l'Hideaway offre un large choix de chambres, et les familles y sont bien servies. Les suites plus grandes de 90 m2 logent trois ou quatre personnes avec un grand canape-lit dans le salon, et plusieurs categories ajoutent une piscine privee. Les lits bebe sont gratuits sur demande, et les chambres de jardin de plain-pied facilitent la poussette. Demandez une chambre pres de la piscine de 50 metres et de sa piscine enfants separee plutot qu'un coin de jardin eloigne."
+      },
+      "intro": {
+        "en": "Hideaway sits on the northwest corner of Zanzibar, where the beach stays swimmable at every tide, which is the single most important thing to know when you travel with children. It is the island's only member of the Leading Hotels of the World, so the polish is real, yet the mood stays relaxed and family-minded. A big infinity pool, a separate kids pool, a Hide and Seek kids club and a playground give little ones a full day without ever leaving the grounds. For a first Zanzibar with young kids and a generous budget, it is one of the safest picks.",
+        "fr": "L'Hideaway occupe l'angle nord-ouest de Zanzibar, la ou la plage reste baignable a toutes les marees, ce qui est la chose la plus importante a savoir quand on voyage avec des enfants. C'est le seul etablissement de l'ile membre des Leading Hotels of the World, donc le raffinement est bien reel, mais l'ambiance reste detendue et pensee pour les familles. Une grande piscine a debordement, une piscine enfants separee, un club Hide and Seek et une aire de jeux occupent les petits toute la journee sans jamais quitter le domaine. Pour un premier Zanzibar avec de jeunes enfants et un budget genereux, c'est l'un des choix les plus surs."
+      },
+      "highlights": {
+        "en": [
+          "Northwest beach swimmable at every tide",
+          "50 metre pool with a separate children's pool",
+          "Free Hide and Seek kids club and playground",
+          "Suites of 90 sqm that sleep a family of four"
+        ],
+        "fr": [
+          "Plage nord-ouest baignable a toutes les marees",
+          "Piscine de 50 metres avec piscine enfants separee",
+          "Club Hide and Seek gratuit et aire de jeux",
+          "Suites de 90 m2 pour une famille de quatre"
+        ]
+      },
+      "pros": {
+        "en": [
+          "One of the best swimming beaches on the island",
+          "Genuine luxury with a warm family welcome",
+          "Big pool complex with a dedicated kids pool",
+          "Quiet, green gardens away from the Nungwi crowds"
+        ],
+        "fr": [
+          "L'une des meilleures plages de baignade de l'ile",
+          "Vrai luxe avec un accueil familial chaleureux",
+          "Grand ensemble de piscines avec une piscine enfants dediee",
+          "Jardins calmes et verdoyants a l'ecart de la foule de Nungwi"
+        ]
+      },
+      "cons": {
+        "en": [
+          "A long transfer of about an hour from the airport",
+          "The full luxury price, high season stings",
+          "The grounds are large, so expect a fair bit of walking"
+        ],
+        "fr": [
+          "Un long transfert d'environ une heure depuis l'aeroport",
+          "Le plein tarif luxe, la haute saison pique",
+          "Le domaine est vaste, prevoyez pas mal de marche"
+        ]
+      },
+      "verdict": {
+        "en": "A polished flagship on a rare all-tide swimming beach, with a free kids club and a proper children's pool, ideal for a first Zanzibar with little ones.",
+        "fr": "Un fleuron raffine sur une rare plage baignable a toutes les marees, avec un club enfants gratuit et une vraie piscine enfants, ideal pour un premier Zanzibar avec des petits."
+      },
+      "parentTip": {
+        "en": "The northwest tide barely moves here, so unlike the east coast you can plan a swim any time. Still ask for a room near the kids pool to cut nap-time walks.",
+        "fr": "La maree ne bouge presque pas ici au nord-ouest, donc contrairement a la cote est vous pouvez prevoir une baignade a toute heure. Demandez tout de meme une chambre pres de la piscine enfants pour reduire les trajets de la sieste."
+      },
+      "atAGlance": [
+        {
+          "icon": "🚗",
+          "label": {
+            "en": "Transfer",
+            "fr": "Transfert"
+          },
+          "value": {
+            "en": "About 1 hour by road from the airport",
+            "fr": "Environ 1 heure de route depuis l'aeroport"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free Hide and Seek club",
+            "fr": "Club Hide and Seek gratuit"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "50 m pool plus a children's pool",
+            "fr": "Piscine 50 m et une piscine enfants"
+          }
+        },
+        {
+          "icon": "🌊",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Swimmable at all tides",
+            "fr": "Baignable a toutes les marees"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🐢",
+          "name": {
+            "en": "Mnarani turtle sanctuary",
+            "fr": "Sanctuaire des tortues de Mnarani"
+          },
+          "detail": {
+            "en": "A short trip into Nungwi village to see green turtles in a tidal lagoon and feed them seaweed.",
+            "fr": "Une courte sortie au village de Nungwi pour voir des tortues vertes dans un lagon de maree et les nourrir d'algues."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🎨",
+          "name": {
+            "en": "Kids club crafts",
+            "fr": "Bricolage au club enfants"
+          },
+          "detail": {
+            "en": "Supervised games, painting and beach play run through the day at the Hide and Seek club.",
+            "fr": "Jeux encadres, peinture et activites de plage tout au long de la journee au club Hide and Seek."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Apres-midi"
+          }
+        },
+        {
+          "emoji": "⛵",
+          "name": {
+            "en": "Sunset dhow sail",
+            "fr": "Voile en boutre au coucher"
+          },
+          "detail": {
+            "en": "A gentle sail on a traditional wooden dhow as the sky turns orange off the north coast.",
+            "fr": "Une navigation douce sur un boutre traditionnel en bois tandis que le ciel vire a l'orange au large de la cote nord."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soir"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast in the garden",
+            "fr": "Petit-dejeuner au jardin"
+          },
+          "note": {
+            "en": "A big buffet under the palms before the heat builds.",
+            "fr": "Un grand buffet sous les palmiers avant que la chaleur ne monte."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Pool and kids club",
+            "fr": "Piscine et club enfants"
+          },
+          "note": {
+            "en": "Drop the little ones at Hide and Seek and claim a lounger.",
+            "fr": "Deposez les petits au Hide and Seek et prenez un transat."
+          }
+        },
+        {
+          "time": "13:00",
+          "title": {
+            "en": "Lunch then a tide-free swim",
+            "fr": "Dejeuner puis baignade sans souci de maree"
+          },
+          "note": {
+            "en": "The northwest beach stays deep enough to swim all afternoon.",
+            "fr": "La plage nord-ouest reste assez profonde pour nager tout l'apres-midi."
+          }
+        },
+        {
+          "time": "17:30",
+          "title": {
+            "en": "Turtle sanctuary visit",
+            "fr": "Visite du sanctuaire des tortues"
+          },
+          "note": {
+            "en": "See the green turtles before an early dinner.",
+            "fr": "Voyez les tortues vertes avant un diner tot."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "The all-tide beach and free cots make this easy with a baby, though the hour-long transfer needs planning around naps.",
+          "fr": "La plage baignable a toutes les marees et les lits bebe gratuits facilitent la vie avec un bebe, mais le transfert d'une heure se planifie autour des siestes."
+        },
+        "toddler": {
+          "en": "The children's pool and a beach you can actually paddle at any hour suit toddlers perfectly.",
+          "fr": "La piscine enfants et une plage ou l'on peut vraiment patauger a toute heure conviennent parfaitement aux tout-petits."
+        },
+        "kid": {
+          "en": "The free club, the turtle sanctuary and safe snorkelling fill every day for this age.",
+          "fr": "Le club gratuit, le sanctuaire des tortues et le snorkeling sur conviennent parfaitement a cet age."
+        },
+        "teen": {
+          "en": "Diving, dhow sails and the lively Nungwi village nearby give teens room to roam.",
+          "fr": "La plongee, les sorties en boutre et le village anime de Nungwi tout proche laissent aux ados de quoi s'occuper."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the beach really swimmable at low tide?",
+            "fr": "La plage est-elle vraiment baignable a maree basse?"
+          },
+          "a": {
+            "en": "Yes. The northwest corner of Zanzibar keeps deep water close to shore at all tides, unlike the east coast where the sea can retreat far out.",
+            "fr": "Oui. L'angle nord-ouest de Zanzibar garde de l'eau profonde pres du rivage a toutes les marees, contrairement a la cote est ou la mer peut se retirer tres loin."
+          }
+        },
+        {
+          "q": {
+            "en": "Is the kids club free?",
+            "fr": "Le club enfants est-il gratuit?"
+          },
+          "a": {
+            "en": "Yes, the Hide and Seek kids club is complimentary for guests, with supervised activities and a playground through the day.",
+            "fr": "Oui, le club Hide and Seek est offert aux clients, avec des activites encadrees et une aire de jeux tout au long de la journee."
+          }
+        },
+        {
+          "q": {
+            "en": "How long is the transfer?",
+            "fr": "Combien de temps dure le transfert?"
+          },
+          "a": {
+            "en": "About an hour by road from Abeid Amani Karume International Airport, so plan snacks and a nap window for the drive north.",
+            "fr": "Environ une heure de route depuis l'aeroport international Abeid Amani Karume, prevoyez donc des encas et un creneau de sieste pour le trajet vers le nord."
+          }
+        }
+      ]
+    },
+    {
+      "key": "zanzibar-melia-zanzibar",
+      "destinationKey": "zanzibar",
+      "name": "Melia Zanzibar",
+      "area": {
+        "en": "Kiwengwa",
+        "fr": "Kiwengwa"
+      },
+      "lat": -5.993,
+      "lng": 39.377,
+      "zoom": 14,
+      "address": "Melia Zanzibar, Kiwengwa, Unguja North, Zanzibar, Tanzania",
+      "priceTier": 4,
+      "priceFrom": 400,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "villaPoolGreen",
+        "poolPalms",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 90,
+        "baby": 84,
+        "pool": 88,
+        "dining": 86,
+        "safety": 85,
+        "convenience": 80,
+        "location": 86,
+        "extras": 88
+      },
+      "roomsSummary": {
+        "en": "Melia spans a huge, leafy estate above a long Kiwengwa beach, with a room range that runs from Garden Rooms to one, two and three-bedroom villas, many with a private pool. For families the villas are the star: masses of space, an enclosed garden and a pool of your own where a toddler can splash safely. Cots and highchairs are provided, and the main pool has a shallow children's section. Note that the adults-only areas, The Level and the spa pool, are for guests 16 and over.",
+        "fr": "Le Melia s'etend sur un immense domaine verdoyant surplombant une longue plage de Kiwengwa, avec une gamme de chambres allant des Garden Rooms aux villas de une, deux et trois chambres, souvent dotees d'une piscine privee. Pour les familles, les villas sont la vedette : enormement d'espace, un jardin clos et une piscine a soi ou un tout-petit peut barboter en securite. Les lits bebe et les chaises hautes sont fournis, et la piscine principale a une section enfants peu profonde. A noter que les espaces reserves aux adultes, The Level et la piscine du spa, sont pour les clients de 16 ans et plus."
+      },
+      "intro": {
+        "en": "Melia Zanzibar is the polished all-rounder on the east coast, a big five-star estate that still feels genuinely built for families. The seasonal kids club takes ages 4 to 12 with dedicated staff and a play room right by the pool, and the private-pool villas are among the best rooms on the island for parents of small children. The Kiwengwa beach is classic east coast, with a wide tidal swing, so mornings and pool time carry the day and the sea comes in for a big swim later. It blends real comfort, space and easy family logistics.",
+        "fr": "Le Melia Zanzibar est le polyvalent raffine de la cote est, un grand domaine cinq etoiles qui reste vraiment pense pour les familles. Le club enfants saisonnier accueille les 4 a 12 ans avec un personnel dedie et une salle de jeux juste a cote de la piscine, et les villas avec piscine privee comptent parmi les meilleures chambres de l'ile pour des parents de jeunes enfants. La plage de Kiwengwa est typique de la cote est, avec une forte amplitude de maree, donc les matinees et la piscine menent la journee et la mer revient pour une grande baignade plus tard. Le tout melange vrai confort, espace et logistique familiale facile."
+      },
+      "highlights": {
+        "en": [
+          "Villas with a private pool, brilliant for toddlers",
+          "Seasonal kids club for ages 4 to 12 by the pool",
+          "Main pool with a shallow children's section",
+          "Huge green estate with plenty of shade"
+        ],
+        "fr": [
+          "Villas avec piscine privee, parfaites pour les tout-petits",
+          "Club enfants saisonnier de 4 a 12 ans pres de la piscine",
+          "Piscine principale avec section enfants peu profonde",
+          "Immense domaine verdoyant avec beaucoup d'ombre"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Private-pool villas are a game changer with small kids",
+          "Spacious, green and never feels cramped",
+          "Strong dining choice across several restaurants",
+          "Kids club run by attentive, friendly staff"
+        ],
+        "fr": [
+          "Les villas avec piscine privee changent tout avec de jeunes enfants",
+          "Spacieux, verdoyant et jamais a l'etroit",
+          "Beau choix de restaurants",
+          "Club enfants encadre par un personnel attentif et sympathique"
+        ]
+      },
+      "cons": {
+        "en": [
+          "East coast tides mean the sea retreats far at low water",
+          "The kids club runs seasonally, so check dates before booking",
+          "The best adults-only pools are off limits to children"
+        ],
+        "fr": [
+          "Les marees de la cote est font que la mer se retire loin a basse eau",
+          "Le club enfants fonctionne par saison, verifiez les dates avant de reserver",
+          "Les meilleures piscines reservees aux adultes sont interdites aux enfants"
+        ]
+      },
+      "verdict": {
+        "en": "A spacious five-star estate where a private-pool villa and a poolside kids club make family life genuinely easy, tides aside.",
+        "fr": "Un vaste domaine cinq etoiles ou une villa avec piscine privee et un club enfants au bord de la piscine rendent la vie de famille vraiment simple, marees mises a part."
+      },
+      "parentTip": {
+        "en": "Book a one-bedroom villa with a private pool. On the tidal east coast your own pool means water play whenever you want, not only when the sea is in.",
+        "fr": "Reservez une villa une chambre avec piscine privee. Sur la cote est a fortes marees, votre propre piscine garantit des jeux d'eau quand vous voulez, pas seulement quand la mer est haute."
+      },
+      "atAGlance": [
+        {
+          "icon": "🚗",
+          "label": {
+            "en": "Transfer",
+            "fr": "Transfert"
+          },
+          "value": {
+            "en": "About 50 minutes by road",
+            "fr": "Environ 50 minutes de route"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free seasonal club, ages 4 to 12",
+            "fr": "Club saisonnier gratuit, 4 a 12 ans"
+          }
+        },
+        {
+          "icon": "🏡",
+          "label": {
+            "en": "Best family room",
+            "fr": "Meilleure chambre famille"
+          },
+          "value": {
+            "en": "One-bedroom villa with private pool",
+            "fr": "Villa une chambre avec piscine privee"
+          }
+        },
+        {
+          "icon": "🌊",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "East coast, strong tidal swing",
+            "fr": "Cote est, forte amplitude de maree"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🐠",
+          "name": {
+            "en": "Reef and sandbank trip",
+            "fr": "Sortie recif et banc de sable"
+          },
+          "detail": {
+            "en": "A boat out to Mnemba atoll waters to snorkel over coral and stop at a sandbank.",
+            "fr": "Une sortie en bateau vers les eaux de l'atoll de Mnemba pour faire du snorkeling au-dessus du corail et s'arreter sur un banc de sable."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🍕",
+          "name": {
+            "en": "Kids club afternoon",
+            "fr": "Apres-midi au club enfants"
+          },
+          "detail": {
+            "en": "Games, crafts and pool play with dedicated staff while parents rest.",
+            "fr": "Jeux, bricolage et activites piscine avec un personnel dedie pendant que les parents se reposent."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Apres-midi"
+          }
+        },
+        {
+          "emoji": "🌿",
+          "name": {
+            "en": "Spice farm tour",
+            "fr": "Visite d'une ferme aux epices"
+          },
+          "detail": {
+            "en": "A guided walk to smell and taste cloves, vanilla and cinnamon, fun and hands-on for kids.",
+            "fr": "Une balade guidee pour sentir et gouter clous de girofle, vanille et cannelle, ludique et interactive pour les enfants."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Midday",
+            "fr": "Midi"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Breakfast then villa pool",
+            "fr": "Petit-dejeuner puis piscine de la villa"
+          },
+          "note": {
+            "en": "An early splash in your own pool before the sun is high.",
+            "fr": "Une baignade matinale dans votre propre piscine avant que le soleil ne monte."
+          }
+        },
+        {
+          "time": "10:30",
+          "title": {
+            "en": "Snorkel trip",
+            "fr": "Sortie snorkeling"
+          },
+          "note": {
+            "en": "Out to the reef while the tide is high.",
+            "fr": "Vers le recif tant que la maree est haute."
+          }
+        },
+        {
+          "time": "14:00",
+          "title": {
+            "en": "Kids club and rest",
+            "fr": "Club enfants et repos"
+          },
+          "note": {
+            "en": "Kids to the club, parents to a lounger.",
+            "fr": "Les enfants au club, les parents sur un transat."
+          }
+        },
+        {
+          "time": "18:00",
+          "title": {
+            "en": "Sunset on the beach",
+            "fr": "Coucher de soleil sur la plage"
+          },
+          "note": {
+            "en": "The wide beach glows at low tide for a barefoot stroll.",
+            "fr": "La large plage brille a maree basse pour une balade pieds nus."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "A private-pool villa and provided cots make it comfortable, and the estate is quiet and shady for naps.",
+          "fr": "Une villa avec piscine privee et des lits bebe fournis la rendent confortable, et le domaine est calme et ombrage pour les siestes."
+        },
+        "toddler": {
+          "en": "Your own pool is the whole point at this age, safe splashing whatever the tide is doing.",
+          "fr": "Votre propre piscine est tout l'interet a cet age, des jeux d'eau surs quelle que soit la maree."
+        },
+        "kid": {
+          "en": "The seasonal club, snorkel trips and spice farms keep this age busy from morning to night.",
+          "fr": "Le club saisonnier, les sorties snorkeling et les fermes aux epices occupent cet age du matin au soir."
+        },
+        "teen": {
+          "en": "Diving, water sports and boat trips to Mnemba waters give teens plenty to do.",
+          "fr": "La plongee, les sports nautiques et les sorties en bateau vers les eaux de Mnemba donnent aux ados de quoi faire."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the kids club always open?",
+            "fr": "Le club enfants est-il toujours ouvert?"
+          },
+          "a": {
+            "en": "It runs seasonally, mainly in busier holiday periods, so confirm the dates for your stay before booking if the club matters to you.",
+            "fr": "Il fonctionne par saison, surtout pendant les periodes de vacances chargees, alors confirmez les dates de votre sejour avant de reserver si le club compte pour vous."
+          }
+        },
+        {
+          "q": {
+            "en": "How bad are the tides for swimming?",
+            "fr": "Les marees genent-elles beaucoup la baignade?"
+          },
+          "a": {
+            "en": "Kiwengwa is east coast, so the sea retreats a long way at low tide. A private-pool villa or the main pool solves it, and the sea is lovely at high water.",
+            "fr": "Kiwengwa est sur la cote est, donc la mer se retire loin a maree basse. Une villa avec piscine privee ou la piscine principale regle le probleme, et la mer est superbe a maree haute."
+          }
+        },
+        {
+          "q": {
+            "en": "Are children allowed everywhere?",
+            "fr": "Les enfants sont-ils admis partout?"
+          },
+          "a": {
+            "en": "Almost. The Level lounge area and the spa pool are reserved for guests aged 16 and over, but the main pool, beach and restaurants welcome families.",
+            "fr": "Presque. L'espace lounge The Level et la piscine du spa sont reserves aux clients de 16 ans et plus, mais la piscine principale, la plage et les restaurants accueillent les familles."
+          }
+        }
+      ]
+    },
+    {
+      "key": "zanzibar-park-hyatt-zanzibar",
+      "destinationKey": "zanzibar",
+      "name": "Park Hyatt Zanzibar",
+      "area": {
+        "en": "Stone Town",
+        "fr": "Stone Town"
+      },
+      "lat": -6.162,
+      "lng": 39.1875,
+      "zoom": 15,
+      "address": "Park Hyatt Zanzibar, Shangani Street, Stone Town, Zanzibar, Tanzania",
+      "priceTier": 4,
+      "priceFrom": 450,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "city-base",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "infinityPoolSea",
+        "coastTown",
+        "deckLoungersSea"
+      ],
+      "scores": {
+        "rooms": 92,
+        "baby": 80,
+        "pool": 78,
+        "dining": 88,
+        "safety": 88,
+        "convenience": 90,
+        "location": 92,
+        "extras": 84
+      },
+      "roomsSummary": {
+        "en": "Right on the Stone Town seafront, Park Hyatt has generous rooms and suites, several of which connect or take an extra bed for a child. Cots and highchairs come on request and there are some child-friendly menu choices. There is no kids club, but this is the rare Stone Town hotel with a real pool and a bit of beach, so it works as a comfortable one or two-night city base at the start or end of a beach trip rather than a week-long family resort.",
+        "fr": "En plein front de mer de Stone Town, le Park Hyatt propose des chambres et suites genereuses, dont plusieurs communiquent ou acceptent un lit d'appoint pour un enfant. Les lits bebe et chaises hautes arrivent sur demande et quelques options de menu conviennent aux enfants. Il n'y a pas de club enfants, mais c'est le rare hotel de Stone Town avec une vraie piscine et un bout de plage, donc il fonctionne comme une base urbaine confortable d'une a deux nuits au debut ou a la fin d'un sejour plage plutot que comme un resort familial d'une semaine."
+      },
+      "intro": {
+        "en": "Park Hyatt is the smart way to give Stone Town its due without losing a pool. It sits inside the UNESCO old town on the waterfront, so you step out into a maze of spice markets, carved doors and history, then come back to an 18 metre infinity pool over the sea. There is no kids club and it is not a splash-all-day resort, but children of all ages are welcome, babysitting can be arranged, and the location is unbeatable for a day or two of culture. Pair it with a beach resort in the north for the best of both.",
+        "fr": "Le Park Hyatt est la maniere intelligente de rendre justice a Stone Town sans renoncer a une piscine. Il se trouve dans la vieille ville classee UNESCO, sur le front de mer, donc on sort dans un dedale de marches aux epices, de portes sculptees et d'histoire, puis on revient a une piscine a debordement de 18 metres au-dessus de la mer. Il n'y a pas de club enfants et ce n'est pas un resort ou l'on barbote toute la journee, mais les enfants de tous ages sont bienvenus, un service de garde peut etre organise, et l'emplacement est imbattable pour un ou deux jours de culture. Associez-le a un resort de plage au nord pour profiter des deux."
+      },
+      "highlights": {
+        "en": [
+          "Rare Stone Town hotel with a real seafront pool",
+          "In the heart of the UNESCO old town",
+          "Connecting rooms and extra beds for children",
+          "Babysitting on request for a grown-up dinner"
+        ],
+        "fr": [
+          "Rare hotel de Stone Town avec une vraie piscine face a la mer",
+          "Au coeur de la vieille ville classee UNESCO",
+          "Chambres communicantes et lits d'appoint pour enfants",
+          "Service de garde sur demande pour un diner entre adultes"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Unbeatable location for Stone Town culture",
+          "A cooling pool and beach in the middle of the city",
+          "Polished service and excellent dining",
+          "Easy first or last night, close to the airport"
+        ],
+        "fr": [
+          "Emplacement imbattable pour la culture de Stone Town",
+          "Une piscine rafraichissante et une plage au coeur de la ville",
+          "Service raffine et excellente restauration",
+          "Premiere ou derniere nuit facile, proche de l'aeroport"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No kids club and not a full beach resort",
+          "The small city beach is not for long swims",
+          "A city hotel, so less running-around space than a resort"
+        ],
+        "fr": [
+          "Pas de club enfants et pas un vrai resort de plage",
+          "La petite plage de ville ne se prete pas aux longues baignades",
+          "Un hotel de ville, donc moins d'espace pour se defouler qu'un resort"
+        ]
+      },
+      "verdict": {
+        "en": "The best family base for exploring Stone Town, with a real pool and connecting rooms, best used for a night or two, not a full week.",
+        "fr": "La meilleure base familiale pour explorer Stone Town, avec une vraie piscine et des chambres communicantes, ideale pour une nuit ou deux, pas pour une semaine entiere."
+      },
+      "parentTip": {
+        "en": "Use Park Hyatt for one or two nights of culture and cool pool dips, then move north to a beach resort. Stone Town is fascinating but hot and busy for small legs.",
+        "fr": "Utilisez le Park Hyatt pour une ou deux nuits de culture et de baignades rafraichissantes, puis filez au nord vers un resort de plage. Stone Town est fascinante mais chaude et animee pour de petites jambes."
+      },
+      "atAGlance": [
+        {
+          "icon": "🚗",
+          "label": {
+            "en": "Transfer",
+            "fr": "Transfert"
+          },
+          "value": {
+            "en": "About 15 minutes from the airport",
+            "fr": "Environ 15 minutes de l'aeroport"
+          }
+        },
+        {
+          "icon": "🏛️",
+          "label": {
+            "en": "Setting",
+            "fr": "Cadre"
+          },
+          "value": {
+            "en": "UNESCO old town seafront",
+            "fr": "Front de mer de la vieille ville UNESCO"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "18 m infinity pool over the sea",
+            "fr": "Piscine a debordement de 18 m au-dessus de la mer"
+          }
+        },
+        {
+          "icon": "👶",
+          "label": {
+            "en": "Little ones",
+            "fr": "Les petits"
+          },
+          "value": {
+            "en": "Cots and babysitting on request",
+            "fr": "Lits bebe et garde sur demande"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🚪",
+          "name": {
+            "en": "Stone Town walking tour",
+            "fr": "Visite a pied de Stone Town"
+          },
+          "detail": {
+            "en": "A guided wander past carved doors, the old fort and the market, best in the cooler morning.",
+            "fr": "Une balade guidee devant les portes sculptees, le vieux fort et le marche, ideale le matin quand il fait plus frais."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🐢",
+          "name": {
+            "en": "Prison Island turtles",
+            "fr": "Tortues de Prison Island"
+          },
+          "detail": {
+            "en": "A short boat hop to meet giant Aldabra tortoises, a big hit with children.",
+            "fr": "Une courte traversee en bateau pour rencontrer les tortues geantes d'Aldabra, un grand succes aupres des enfants."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Midday",
+            "fr": "Midi"
+          }
+        },
+        {
+          "emoji": "🍢",
+          "name": {
+            "en": "Forodhani night market",
+            "fr": "Marche nocturne de Forodhani"
+          },
+          "detail": {
+            "en": "Grilled seafood and Zanzibar pizza at the seafront food gardens after sunset.",
+            "fr": "Fruits de mer grilles et pizza zanzibarite aux jardins gourmands du front de mer apres le coucher du soleil."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soir"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Breakfast by the sea",
+            "fr": "Petit-dejeuner face a la mer"
+          },
+          "note": {
+            "en": "Fuel up before a cool-morning walk into town.",
+            "fr": "Faites le plein avant une balade en ville au frais du matin."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Old town tour",
+            "fr": "Visite de la vieille ville"
+          },
+          "note": {
+            "en": "Doors, markets and the House of Wonders from outside.",
+            "fr": "Portes, marches et la Maison des Merveilles vue de l'exterieur."
+          }
+        },
+        {
+          "time": "12:30",
+          "title": {
+            "en": "Pool break",
+            "fr": "Pause piscine"
+          },
+          "note": {
+            "en": "Back to the infinity pool through the hottest hours.",
+            "fr": "Retour a la piscine a debordement aux heures les plus chaudes."
+          }
+        },
+        {
+          "time": "18:30",
+          "title": {
+            "en": "Forodhani food gardens",
+            "fr": "Jardins gourmands de Forodhani"
+          },
+          "note": {
+            "en": "Street food and a harbour sunset.",
+            "fr": "Cuisine de rue et coucher de soleil sur le port."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Doable for a night or two with cots and a quick airport transfer, though Stone Town heat and crowds suit older children better.",
+          "fr": "Faisable une nuit ou deux avec des lits bebe et un transfert rapide depuis l'aeroport, meme si la chaleur et la foule de Stone Town conviennent mieux aux plus grands."
+        },
+        "toddler": {
+          "en": "The pool is a lifesaver between short outings, and the Prison Island tortoises are a gentle, easy win.",
+          "fr": "La piscine sauve la mise entre de courtes sorties, et les tortues de Prison Island sont une valeur sure et douce."
+        },
+        "kid": {
+          "en": "History, tortoises and the night market make this a rich culture stop for curious children.",
+          "fr": "Histoire, tortues et marche nocturne en font une riche etape culturelle pour les enfants curieux."
+        },
+        "teen": {
+          "en": "The layered history, food scene and boat trips give teens a real sense of place.",
+          "fr": "L'histoire en couches, la scene culinaire et les sorties en bateau donnent aux ados un vrai sens du lieu."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is there a kids club?",
+            "fr": "Y a-t-il un club enfants?"
+          },
+          "a": {
+            "en": "No. Park Hyatt is a city hotel, not a beach resort, so there is no kids club, though children are welcome and babysitting can be arranged.",
+            "fr": "Non. Le Park Hyatt est un hotel de ville, pas un resort de plage, donc il n'y a pas de club enfants, mais les enfants sont bienvenus et un service de garde peut etre organise."
+          }
+        },
+        {
+          "q": {
+            "en": "How many nights should we stay?",
+            "fr": "Combien de nuits faut-il y rester?"
+          },
+          "a": {
+            "en": "One or two is ideal. Use it to explore Stone Town at the start or end of a trip, then base the rest of the holiday at a beach resort in the north or east.",
+            "fr": "Une ou deux est ideal. Utilisez-le pour explorer Stone Town au debut ou a la fin d'un voyage, puis passez le reste des vacances dans un resort de plage au nord ou a l'est."
+          }
+        },
+        {
+          "q": {
+            "en": "Can children swim here?",
+            "fr": "Les enfants peuvent-ils nager ici?"
+          },
+          "a": {
+            "en": "Yes, in the 18 metre infinity pool, which is the real draw. The small city beach is fine for a paddle but not for proper swimming.",
+            "fr": "Oui, dans la piscine a debordement de 18 metres, qui est le vrai atout. La petite plage de ville convient pour patauger mais pas pour une vraie baignade."
+          }
+        }
+      ]
+    },
+    {
+      "key": "zanzibar-gold-zanzibar-beach-house-and-spa",
+      "destinationKey": "zanzibar",
+      "name": "Gold Zanzibar Beach House & Spa",
+      "area": {
+        "en": "Kendwa",
+        "fr": "Kendwa"
+      },
+      "lat": -5.739,
+      "lng": 39.293,
+      "zoom": 14,
+      "address": "Gold Zanzibar Beach House & Spa, Kendwa, Unguja North, Zanzibar, Tanzania",
+      "priceTier": 3,
+      "priceFrom": 300,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolCabanas",
+        "beachSunset",
+        "whiteResortPool"
+      ],
+      "scores": {
+        "rooms": 86,
+        "baby": 86,
+        "pool": 88,
+        "dining": 82,
+        "safety": 88,
+        "convenience": 80,
+        "location": 88,
+        "extras": 84
+      },
+      "roomsSummary": {
+        "en": "Gold sits right on Kendwa beach, and its rooms run from deluxe rooms to large beachfront villas with their own pool. Many rooms have interconnecting doors or a sofa bed, so a family of four fits easily, and cots are provided. Best of all for the youngest, there is a shallow paddling pool built just for toddlers alongside two larger pools. Ask for a room near the main pool and beach rather than the quieter far pool if you have small children.",
+        "fr": "Le Gold se trouve directement sur la plage de Kendwa, et ses chambres vont des chambres deluxe aux grandes villas en bord de plage avec piscine privee. Beaucoup de chambres ont des portes communicantes ou un canape-lit, si bien qu'une famille de quatre y tient facilement, et les lits bebe sont fournis. Le meilleur pour les plus petits : une pataugeoire peu profonde concue pour les tout-petits, en plus de deux piscines plus grandes. Demandez une chambre pres de la piscine principale et de la plage plutot que de la piscine eloignee plus calme si vous avez de jeunes enfants."
+      },
+      "intro": {
+        "en": "Gold Zanzibar has the thing that matters most with young children and a mid-luxe budget: it sits on Kendwa, one of the few beaches where the tide barely moves and you can swim in calm, clear water whatever the clock says. The kids club is warm and hands-on, with pizza-making, beach games and Swahili lessons, and there is a dedicated toddler paddling pool. Rooms are comfortable, the beach is picture-perfect and the mood is relaxed rather than showy. It is a strong choice for a first family Zanzibar without the very top price.",
+        "fr": "Le Gold Zanzibar possede l'atout le plus important avec de jeunes enfants et un budget mi-luxe : il se trouve a Kendwa, l'une des rares plages ou la maree bouge a peine et ou l'on peut nager dans une eau calme et claire quelle que soit l'heure. Le club enfants est chaleureux et interactif, avec ateliers pizza, jeux de plage et cours de swahili, et il y a une pataugeoire dediee aux tout-petits. Les chambres sont confortables, la plage est parfaite et l'ambiance est detendue plutot que tape-a-l'oeil. C'est un choix solide pour un premier Zanzibar en famille sans le tarif le plus eleve."
+      },
+      "highlights": {
+        "en": [
+          "On Kendwa, swimmable at every tide",
+          "Shallow paddling pool built for toddlers",
+          "Warm kids club with pizza-making and games",
+          "Beachfront villas with a private pool"
+        ],
+        "fr": [
+          "A Kendwa, baignable a toutes les marees",
+          "Pataugeoire peu profonde concue pour les tout-petits",
+          "Club enfants chaleureux avec ateliers pizza et jeux",
+          "Villas en bord de plage avec piscine privee"
+        ]
+      },
+      "pros": {
+        "en": [
+          "One of the best all-tide swimming beaches on the island",
+          "A real toddler paddling pool, rare in Zanzibar",
+          "Friendly, engaged kids club staff",
+          "Luxe feel at a slightly gentler price than the top tier"
+        ],
+        "fr": [
+          "L'une des meilleures plages baignables a toutes les marees de l'ile",
+          "Une vraie pataugeoire pour tout-petits, rare a Zanzibar",
+          "Personnel du club enfants sympathique et implique",
+          "Ambiance luxe a un prix un peu plus doux que le haut de gamme"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Kendwa can get busy and its beach bars are lively at night",
+          "A transfer of around an hour from the airport",
+          "It is a mid-size resort, not a hidden-away retreat"
+        ],
+        "fr": [
+          "Kendwa peut etre frequentee et ses bars de plage sont animes le soir",
+          "Un transfert d'environ une heure depuis l'aeroport",
+          "C'est un resort de taille moyenne, pas une retraite isolee"
+        ]
+      },
+      "verdict": {
+        "en": "A relaxed mid-luxe resort on an all-tide swimming beach, with a rare toddler pool and a friendly kids club, ideal value for young families.",
+        "fr": "Un resort mi-luxe et detendu sur une plage baignable a toutes les marees, avec une rare pataugeoire pour tout-petits et un club enfants chaleureux, un excellent rapport qualite-prix pour les jeunes familles."
+      },
+      "parentTip": {
+        "en": "Kendwa nightlife can carry across the sand at weekends. Ask for a room set back from the beach bars so an early bedtime actually sticks.",
+        "fr": "La vie nocturne de Kendwa peut porter sur le sable le week-end. Demandez une chambre en retrait des bars de plage pour qu'un coucher tot tienne vraiment."
+      },
+      "atAGlance": [
+        {
+          "icon": "🚗",
+          "label": {
+            "en": "Transfer",
+            "fr": "Transfert"
+          },
+          "value": {
+            "en": "About 1 hour by road",
+            "fr": "Environ 1 heure de route"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free club with pizza-making and games",
+            "fr": "Club gratuit avec ateliers pizza et jeux"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Two pools plus a toddler paddling pool",
+            "fr": "Deux piscines et une pataugeoire pour tout-petits"
+          }
+        },
+        {
+          "icon": "🌊",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Kendwa, swimmable at all tides",
+            "fr": "Kendwa, baignable a toutes les marees"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🍕",
+          "name": {
+            "en": "Kids club pizza-making",
+            "fr": "Atelier pizza au club enfants"
+          },
+          "detail": {
+            "en": "A daily favourite where children make and bake their own pizzas.",
+            "fr": "Un incontournable quotidien ou les enfants preparent et cuisent leurs propres pizzas."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Apres-midi"
+          }
+        },
+        {
+          "emoji": "🐬",
+          "name": {
+            "en": "Sunset dhow cruise",
+            "fr": "Croisiere en boutre au coucher"
+          },
+          "detail": {
+            "en": "A calm sail off Kendwa with a good chance of dolphins as the sun drops.",
+            "fr": "Une navigation calme au large de Kendwa avec de bonnes chances d'apercevoir des dauphins au coucher du soleil."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soir"
+          }
+        },
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Toddler pool time",
+            "fr": "Pataugeoire pour tout-petits"
+          },
+          "detail": {
+            "en": "The shallow paddling pool is a safe splash zone for the very youngest all day.",
+            "fr": "La pataugeoire peu profonde est une zone de baignade sure pour les tout-petits toute la journee."
+          },
+          "ages": [
+            "baby",
+            "toddler"
+          ],
+          "time": {
+            "en": "Anytime",
+            "fr": "A toute heure"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Beach breakfast",
+            "fr": "Petit-dejeuner sur la plage"
+          },
+          "note": {
+            "en": "A relaxed start with the calm Kendwa water in view.",
+            "fr": "Un debut tranquille avec l'eau calme de Kendwa en vue."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Sea swim",
+            "fr": "Baignade en mer"
+          },
+          "note": {
+            "en": "Kendwa lets you swim early, no waiting for the tide.",
+            "fr": "Kendwa permet de nager tot, sans attendre la maree."
+          }
+        },
+        {
+          "time": "15:00",
+          "title": {
+            "en": "Kids club pizzas",
+            "fr": "Pizzas au club enfants"
+          },
+          "note": {
+            "en": "Little chefs at work while parents relax.",
+            "fr": "De petits chefs a l'oeuvre pendant que les parents se detendent."
+          }
+        },
+        {
+          "time": "18:00",
+          "title": {
+            "en": "Sunset dhow",
+            "fr": "Boutre au coucher"
+          },
+          "note": {
+            "en": "Head out for the famous Kendwa sunset.",
+            "fr": "Sortez pour le celebre coucher de soleil de Kendwa."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "The toddler pool, calm sea and provided cots make this genuinely easy with a baby.",
+          "fr": "La pataugeoire, la mer calme et les lits bebe fournis rendent la vie vraiment facile avec un bebe."
+        },
+        "toddler": {
+          "en": "The dedicated paddling pool and all-tide beach are close to ideal for this age.",
+          "fr": "La pataugeoire dediee et la plage baignable a toutes les marees sont proches de l'ideal pour cet age."
+        },
+        "kid": {
+          "en": "The kids club, swimming and boat trips keep this age happily busy all day.",
+          "fr": "Le club enfants, la baignade et les sorties en bateau occupent joyeusement cet age toute la journee."
+        },
+        "teen": {
+          "en": "Snorkelling, diving and the lively Kendwa beach scene give teens plenty to do.",
+          "fr": "Le snorkeling, la plongee et l'ambiance animee de la plage de Kendwa donnent aux ados de quoi faire."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Can you swim at low tide here?",
+            "fr": "Peut-on nager a maree basse ici?"
+          },
+          "a": {
+            "en": "Yes. Kendwa is one of the few Zanzibar beaches where the tide barely moves, so you can swim in calm, clear water at any time of day.",
+            "fr": "Oui. Kendwa est l'une des rares plages de Zanzibar ou la maree bouge a peine, donc on peut nager dans une eau calme et claire a toute heure de la journee."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there something for toddlers?",
+            "fr": "Y a-t-il quelque chose pour les tout-petits?"
+          },
+          "a": {
+            "en": "Yes, a shallow paddling pool built just for toddlers sits beside the two main pools, which is unusual and very welcome in Zanzibar.",
+            "fr": "Oui, une pataugeoire peu profonde concue pour les tout-petits jouxte les deux piscines principales, ce qui est rare et tres appreciable a Zanzibar."
+          }
+        },
+        {
+          "q": {
+            "en": "Is Kendwa noisy at night?",
+            "fr": "Kendwa est-elle bruyante la nuit?"
+          },
+          "a": {
+            "en": "Kendwa has some lively beach bars, busiest at weekends. Ask for a room set back from the beachfront if you have early bedtimes to protect.",
+            "fr": "Kendwa compte quelques bars de plage animes, surtout le week-end. Demandez une chambre en retrait du front de mer si vous devez proteger des couchers tot."
+          }
+        }
+      ]
+    },
+    {
+      "key": "zanzibar-breezes-beach-club-and-spa",
+      "destinationKey": "zanzibar",
+      "name": "Breezes Beach Club & Spa",
+      "area": {
+        "en": "Michamvi",
+        "fr": "Michamvi"
+      },
+      "lat": -6.245,
+      "lng": 39.53,
+      "zoom": 14,
+      "address": "Breezes Beach Club & Spa, Bwejuu-Michamvi, Unguja South, Zanzibar, Tanzania",
+      "priceTier": 3,
+      "priceFrom": 260,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolPalms",
+        "resortLoungers",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 84,
+        "baby": 82,
+        "pool": 82,
+        "dining": 84,
+        "safety": 84,
+        "convenience": 74,
+        "location": 82,
+        "extras": 88
+      },
+      "roomsSummary": {
+        "en": "Breezes is a warm, owner-run resort on the southeast coast, and it leans into families. Deluxe Rooms take up to two children under twelve free when sharing with parents, and there are larger rooms and family arrangements with extra beds. Cots and highchairs are provided, and the whole place is designed to keep several ages happy at once. Ask about connecting or garden rooms near the pool and the children's club for the smoothest days with little ones.",
+        "fr": "Le Breezes est un resort chaleureux gere par ses proprietaires sur la cote sud-est, et il mise sur les familles. Les Deluxe Rooms accueillent gratuitement jusqu'a deux enfants de moins de douze ans partageant avec les parents, et il existe des chambres plus grandes et des formules familiales avec lits d'appoint. Les lits bebe et chaises hautes sont fournis, et tout l'endroit est concu pour satisfaire plusieurs ages a la fois. Renseignez-vous sur les chambres communicantes ou de jardin pres de la piscine et du club enfants pour des journees plus fluides avec les petits."
+      },
+      "intro": {
+        "en": "Breezes is the family favourite that still feels personal, a mid-size resort on the quiet southeast coast run with genuine warmth. The children's club, a games room and even a small cinema room give parents real breaks, and the activity list for kids is huge: guided reef walks, sandcastle-building, cookery workshops, palm-weaving and Swahili lessons. Two children under twelve stay free in a Deluxe Room, which softens the cost. The beach is east coast with a strong tide, so the pool and morning sea are your friends, and the calm setting away from the crowds is a big part of the charm.",
+        "fr": "Le Breezes est le favori des familles qui garde une touche personnelle, un resort de taille moyenne sur la cote sud-est tranquille, gere avec une vraie chaleur. Le club enfants, une salle de jeux et meme une petite salle de cinema offrent de vraies pauses aux parents, et la liste d'activites pour enfants est enorme : balades guidees sur le recif, chateaux de sable, ateliers cuisine, tressage de palmes et cours de swahili. Deux enfants de moins de douze ans logent gratuitement en Deluxe Room, ce qui adoucit la note. La plage est cote est avec une forte maree, donc la piscine et la mer du matin sont vos allies, et le cadre calme a l'ecart de la foule fait une grande partie du charme."
+      },
+      "highlights": {
+        "en": [
+          "Two under-12s stay free in a Deluxe Room",
+          "Free children's club plus a games and cinema room",
+          "Huge kids activity list, from reef walks to cookery",
+          "Quiet, warm, owner-run feel away from the crowds"
+        ],
+        "fr": [
+          "Deux moins de 12 ans gratuits en Deluxe Room",
+          "Club enfants gratuit avec salle de jeux et de cinema",
+          "Enorme liste d'activites enfants, des balades sur le recif a la cuisine",
+          "Ambiance calme et chaleureuse geree par ses proprietaires, loin de la foule"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Genuinely family-focused with a big activity programme",
+          "Two children under twelve stay free",
+          "Rainy-day backup with a games room and cinema",
+          "Peaceful stretch of the southeast coast"
+        ],
+        "fr": [
+          "Vraiment tourne vers les familles avec un grand programme d'activites",
+          "Deux enfants de moins de douze ans gratuits",
+          "Solution de repli les jours de pluie avec salle de jeux et cinema",
+          "Portion paisible de la cote sud-est"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Strong east coast tides limit midday sea swimming",
+          "One of the longer transfers, around an hour",
+          "Quiet by design, so limited off-site nightlife nearby"
+        ],
+        "fr": [
+          "Les fortes marees de la cote est limitent la baignade en mer a midi",
+          "L'un des transferts les plus longs, environ une heure",
+          "Calme par nature, donc peu de vie nocturne a proximite hors du resort"
+        ]
+      },
+      "verdict": {
+        "en": "A warm, activity-packed family resort where two under-12s stay free and a games room and cinema cover the odd tide-out afternoon.",
+        "fr": "Un resort familial chaleureux et riche en activites ou deux moins de 12 ans logent gratuitement et ou une salle de jeux et un cinema comblent les apres-midi de maree basse."
+      },
+      "parentTip": {
+        "en": "Check the tide chart on arrival and swim the sea in the morning, then move to the pool and club for the low-tide afternoon. The cinema room saves a rainy hour too.",
+        "fr": "Consultez l'horaire des marees a l'arrivee et nagez en mer le matin, puis passez a la piscine et au club pour l'apres-midi de maree basse. La salle de cinema sauve aussi une heure de pluie."
+      },
+      "atAGlance": [
+        {
+          "icon": "🚗",
+          "label": {
+            "en": "Transfer",
+            "fr": "Transfert"
+          },
+          "value": {
+            "en": "About 1 hour by road",
+            "fr": "Environ 1 heure de route"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free club with a big activity list",
+            "fr": "Club gratuit avec une grande liste d'activites"
+          }
+        },
+        {
+          "icon": "👨‍👩‍👧",
+          "label": {
+            "en": "Kids free",
+            "fr": "Enfants gratuits"
+          },
+          "value": {
+            "en": "Two under-12s free in a Deluxe Room",
+            "fr": "Deux moins de 12 ans gratuits en Deluxe Room"
+          }
+        },
+        {
+          "icon": "🎬",
+          "label": {
+            "en": "Rainy day",
+            "fr": "Jour de pluie"
+          },
+          "value": {
+            "en": "Games room and cinema room",
+            "fr": "Salle de jeux et salle de cinema"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🐚",
+          "name": {
+            "en": "Guided reef walk",
+            "fr": "Balade guidee sur le recif"
+          },
+          "detail": {
+            "en": "At low tide, a guide leads children across the exposed reef to spot starfish and sea creatures.",
+            "fr": "A maree basse, un guide emmene les enfants sur le recif decouvert pour observer etoiles de mer et petites betes."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Midday",
+            "fr": "Midi"
+          }
+        },
+        {
+          "emoji": "👨‍🍳",
+          "name": {
+            "en": "Kids cookery workshop",
+            "fr": "Atelier cuisine pour enfants"
+          },
+          "detail": {
+            "en": "A hands-on session making local dishes, part of the club's daily programme.",
+            "fr": "Une session pratique pour cuisiner des plats locaux, au programme quotidien du club."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Apres-midi"
+          }
+        },
+        {
+          "emoji": "🌴",
+          "name": {
+            "en": "Palm-weaving and games",
+            "fr": "Tressage de palmes et jeux"
+          },
+          "detail": {
+            "en": "Palm-weaving, sandcastle-building and beach volleyball keep the club buzzing.",
+            "fr": "Tressage de palmes, chateaux de sable et beach-volley animent le club."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Anytime",
+            "fr": "A toute heure"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Breakfast then morning swim",
+            "fr": "Petit-dejeuner puis baignade du matin"
+          },
+          "note": {
+            "en": "Catch the high-tide sea before the water pulls back.",
+            "fr": "Profitez de la mer a maree haute avant qu'elle ne se retire."
+          }
+        },
+        {
+          "time": "11:00",
+          "title": {
+            "en": "Reef walk at low tide",
+            "fr": "Balade sur le recif a maree basse"
+          },
+          "note": {
+            "en": "Turn the low tide into an adventure with a guide.",
+            "fr": "Transformez la maree basse en aventure avec un guide."
+          }
+        },
+        {
+          "time": "15:00",
+          "title": {
+            "en": "Kids club cookery",
+            "fr": "Atelier cuisine au club"
+          },
+          "note": {
+            "en": "Children cook while parents hit the spa or a lounger.",
+            "fr": "Les enfants cuisinent pendant que les parents filent au spa ou sur un transat."
+          }
+        },
+        {
+          "time": "19:00",
+          "title": {
+            "en": "Cinema room film",
+            "fr": "Film a la salle de cinema"
+          },
+          "note": {
+            "en": "A family film to wind down after dinner.",
+            "fr": "Un film en famille pour se detendre apres le diner."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Provided cots and a calm, caring resort make it workable, with the pool covering low-tide afternoons.",
+          "fr": "Les lits bebe fournis et un resort calme et attentionne le rendent gerable, la piscine couvrant les apres-midi de maree basse."
+        },
+        "toddler": {
+          "en": "The pool and gentle club activities suit toddlers, though the tidal beach needs timing.",
+          "fr": "La piscine et les activites douces du club conviennent aux tout-petits, meme si la plage a maree demande un peu d'organisation."
+        },
+        "kid": {
+          "en": "This is the sweet spot: reef walks, cookery, palm-weaving and games fill every day.",
+          "fr": "C'est l'age ideal : balades sur le recif, cuisine, tressage de palmes et jeux remplissent chaque journee."
+        },
+        "teen": {
+          "en": "Water sports, diving nearby and the cinema room give teens their own space.",
+          "fr": "Les sports nautiques, la plongee a proximite et la salle de cinema offrent aux ados leur propre espace."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Do children really stay free?",
+            "fr": "Les enfants sont-ils vraiment gratuits?"
+          },
+          "a": {
+            "en": "Up to two children under twelve stay free in a Deluxe Room sharing with parents. Meals and transfers can still be charged, so confirm the details at booking.",
+            "fr": "Jusqu'a deux enfants de moins de douze ans logent gratuitement en Deluxe Room avec les parents. Les repas et transferts peuvent rester factures, confirmez les details a la reservation."
+          }
+        },
+        {
+          "q": {
+            "en": "What about the tides?",
+            "fr": "Et les marees?"
+          },
+          "a": {
+            "en": "This is east coast, so the sea retreats far at low tide. Swim in the morning, use the pool at midday, and turn the low tide into a guided reef walk.",
+            "fr": "C'est la cote est, donc la mer se retire loin a maree basse. Nagez le matin, utilisez la piscine a midi, et transformez la maree basse en balade guidee sur le recif."
+          }
+        },
+        {
+          "q": {
+            "en": "Is there enough to do on a rainy day?",
+            "fr": "Y a-t-il de quoi faire un jour de pluie?"
+          },
+          "a": {
+            "en": "Yes, an indoor games room and a small cinema room, plus the covered kids club, mean a wet hour or two is easy to fill.",
+            "fr": "Oui, une salle de jeux couverte et une petite salle de cinema, en plus du club enfants abrite, permettent de combler facilement une heure ou deux de pluie."
+          }
+        }
+      ]
+    },
+    {
+      "key": "zanzibar-doubletree-by-hilton-resort-zanzibar-nungwi",
+      "destinationKey": "zanzibar",
+      "name": "DoubleTree by Hilton Resort Zanzibar Nungwi",
+      "area": {
+        "en": "Nungwi",
+        "fr": "Nungwi"
+      },
+      "lat": -5.725,
+      "lng": 39.2965,
+      "zoom": 14,
+      "address": "DoubleTree Resort by Hilton Zanzibar Nungwi, Nungwi, Unguja North, Zanzibar, Tanzania",
+      "priceTier": 3,
+      "priceFrom": 220,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "whiteResortPool",
+        "poolDuskPalms",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 80,
+        "baby": 82,
+        "pool": 84,
+        "dining": 78,
+        "safety": 84,
+        "convenience": 82,
+        "location": 86,
+        "extras": 80
+      },
+      "roomsSummary": {
+        "en": "This is a reliable, comfortable Hilton-branded resort on the Nungwi coast, with rooms that suit families well. Some rooms adjoin, which is the easy way to give kids their own space, and cots come on request. The beach is the northwest kind that stays swimmable at every tide, and there is a big main pool with a small kiddie pool that has a fun mini-slide. Dependable rather than boutique, it is a safe, good-value pick for a first trip.",
+        "fr": "Voici un resort fiable et confortable sous la marque Hilton, sur la cote de Nungwi, avec des chambres bien adaptees aux familles. Certaines chambres communiquent, la maniere simple d'offrir aux enfants leur propre espace, et les lits bebe arrivent sur demande. La plage est du type nord-ouest qui reste baignable a toutes les marees, et il y a une grande piscine principale avec une petite pataugeoire dotee d'un mini-toboggan amusant. Fiable plutot que boutique, c'est un choix sur et de bon rapport qualite-prix pour un premier voyage."
+      },
+      "intro": {
+        "en": "The DoubleTree at Nungwi is the safe, familiar option, a well-run Hilton resort on the northwest coast where the sea stays swimmable at every tide. That single fact makes it far easier with children than most east coast resorts. There is a kids club and a games room, a big pool with a little mini-slide for the small ones, and babysitting if you want an evening off. It is not the flashiest resort on the island, but the branding brings a predictable standard, the beach is excellent and the price is sensible for a family week.",
+        "fr": "Le DoubleTree de Nungwi est l'option sure et familiere, un resort Hilton bien gere sur la cote nord-ouest ou la mer reste baignable a toutes les marees. Ce seul fait le rend bien plus simple avec des enfants que la plupart des resorts de la cote est. Il y a un club enfants et une salle de jeux, une grande piscine avec un petit mini-toboggan pour les petits, et un service de garde si vous voulez une soiree de repos. Ce n'est pas le resort le plus tape-a-l'oeil de l'ile, mais la marque garantit un standard previsible, la plage est excellente et le prix reste raisonnable pour une semaine en famille."
+      },
+      "highlights": {
+        "en": [
+          "Northwest beach swimmable at every tide",
+          "Kids club and an indoor games room",
+          "Big pool with a small kiddie pool and mini-slide",
+          "Adjoining rooms and babysitting on request"
+        ],
+        "fr": [
+          "Plage nord-ouest baignable a toutes les marees",
+          "Club enfants et salle de jeux couverte",
+          "Grande piscine avec petite pataugeoire et mini-toboggan",
+          "Chambres communicantes et service de garde sur demande"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Swimmable beach at all tides on the northwest coast",
+          "Predictable Hilton standard and service",
+          "Good value for a branded family resort",
+          "Close to Nungwi village and the turtle sanctuary"
+        ],
+        "fr": [
+          "Plage baignable a toutes les marees sur la cote nord-ouest",
+          "Standard et service Hilton previsibles",
+          "Bon rapport qualite-prix pour un resort familial de marque",
+          "Proche du village de Nungwi et du sanctuaire des tortues"
+        ]
+      },
+      "cons": {
+        "en": [
+          "Dining is solid rather than a highlight",
+          "A large resort that can feel busy in high season",
+          "The transfer runs around an hour from the airport"
+        ],
+        "fr": [
+          "La restauration est correcte plutot qu'un point fort",
+          "Un grand resort qui peut sembler anime en haute saison",
+          "Le transfert dure environ une heure depuis l'aeroport"
+        ]
+      },
+      "verdict": {
+        "en": "A dependable, good-value Hilton resort on an all-tide swimming beach, with a kids club and a mini-slide pool, ideal for a fuss-free first family trip.",
+        "fr": "Un resort Hilton fiable et de bon rapport qualite-prix sur une plage baignable a toutes les marees, avec un club enfants et une pataugeoire a mini-toboggan, ideal pour un premier voyage familial sans souci."
+      },
+      "parentTip": {
+        "en": "The northwest tide barely drops, so you can swim in the sea any time. Base yourselves near the main pool and its mini-slide for the easiest days with small children.",
+        "fr": "La maree nord-ouest baisse a peine, vous pouvez donc nager en mer a toute heure. Installez-vous pres de la piscine principale et de son mini-toboggan pour des journees plus simples avec de jeunes enfants."
+      },
+      "atAGlance": [
+        {
+          "icon": "🚗",
+          "label": {
+            "en": "Transfer",
+            "fr": "Transfert"
+          },
+          "value": {
+            "en": "About 1 hour by road",
+            "fr": "Environ 1 heure de route"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Kids club and games room",
+            "fr": "Club enfants et salle de jeux"
+          }
+        },
+        {
+          "icon": "🛝",
+          "label": {
+            "en": "Pool",
+            "fr": "Piscine"
+          },
+          "value": {
+            "en": "Kiddie pool with a mini-slide",
+            "fr": "Pataugeoire avec un mini-toboggan"
+          }
+        },
+        {
+          "icon": "🌊",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "Swimmable at all tides",
+            "fr": "Baignable a toutes les marees"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🐢",
+          "name": {
+            "en": "Nungwi turtle sanctuary",
+            "fr": "Sanctuaire des tortues de Nungwi"
+          },
+          "detail": {
+            "en": "A short walk to the Mnarani lagoon to see and feed green turtles.",
+            "fr": "Une courte marche jusqu'au lagon de Mnarani pour voir et nourrir les tortues vertes."
+          },
+          "ages": [
+            "toddler",
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🛝",
+          "name": {
+            "en": "Mini-slide pool play",
+            "fr": "Jeux a la pataugeoire mini-toboggan"
+          },
+          "detail": {
+            "en": "The small pool's mini-slide is an instant hit with toddlers and young kids.",
+            "fr": "Le mini-toboggan de la petite piscine fait un carton immediat aupres des tout-petits et des jeunes enfants."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Apres-midi"
+          }
+        },
+        {
+          "emoji": "🤿",
+          "name": {
+            "en": "Beach snorkelling",
+            "fr": "Snorkeling depuis la plage"
+          },
+          "detail": {
+            "en": "Calm, clear northwest water makes for easy, safe snorkelling off the beach.",
+            "fr": "L'eau calme et claire du nord-ouest permet un snorkeling facile et sur depuis la plage."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Midday",
+            "fr": "Midi"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:30",
+          "title": {
+            "en": "Buffet breakfast",
+            "fr": "Petit-dejeuner buffet"
+          },
+          "note": {
+            "en": "Plenty of kid-friendly options to start the day.",
+            "fr": "De nombreuses options adaptees aux enfants pour bien demarrer."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Sea and snorkel",
+            "fr": "Mer et snorkeling"
+          },
+          "note": {
+            "en": "No tide worries, just get in the water.",
+            "fr": "Pas de souci de maree, il suffit d'entrer dans l'eau."
+          }
+        },
+        {
+          "time": "14:00",
+          "title": {
+            "en": "Pool and mini-slide",
+            "fr": "Piscine et mini-toboggan"
+          },
+          "note": {
+            "en": "Kiddie pool fun through the hottest hours.",
+            "fr": "Amusement a la pataugeoire aux heures les plus chaudes."
+          }
+        },
+        {
+          "time": "17:00",
+          "title": {
+            "en": "Turtle sanctuary",
+            "fr": "Sanctuaire des tortues"
+          },
+          "note": {
+            "en": "Walk over to feed the green turtles.",
+            "fr": "Rejoignez a pied les tortues vertes pour les nourrir."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "The all-tide beach, provided cots and a predictable standard make it a low-stress choice with a baby.",
+          "fr": "La plage baignable a toutes les marees, les lits bebe fournis et un standard previsible en font un choix sans stress avec un bebe."
+        },
+        "toddler": {
+          "en": "The kiddie pool with its mini-slide and the calm sea are just right for toddlers.",
+          "fr": "La pataugeoire avec son mini-toboggan et la mer calme conviennent parfaitement aux tout-petits."
+        },
+        "kid": {
+          "en": "The club, snorkelling and the turtle sanctuary keep this age busy all day.",
+          "fr": "Le club, le snorkeling et le sanctuaire des tortues occupent cet age toute la journee."
+        },
+        "teen": {
+          "en": "Diving, water sports and lively Nungwi village nearby give teens options.",
+          "fr": "La plongee, les sports nautiques et le village anime de Nungwi tout proche donnent des options aux ados."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is the kids club free?",
+            "fr": "Le club enfants est-il gratuit?"
+          },
+          "a": {
+            "en": "Yes, the resort runs a kids club and a games room for guests, and babysitting can be arranged separately if you want an evening out.",
+            "fr": "Oui, le resort propose un club enfants et une salle de jeux pour les clients, et un service de garde peut etre organise a part si vous souhaitez sortir le soir."
+          }
+        },
+        {
+          "q": {
+            "en": "Can we swim at low tide?",
+            "fr": "Peut-on nager a maree basse?"
+          },
+          "a": {
+            "en": "Yes. On the northwest coast the sea stays close and deep enough to swim at every tide, which is a big advantage with children.",
+            "fr": "Oui. Sur la cote nord-ouest, la mer reste proche et assez profonde pour nager a toutes les marees, un grand avantage avec des enfants."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it good value?",
+            "fr": "Est-ce un bon rapport qualite-prix?"
+          },
+          "a": {
+            "en": "For a branded resort on a top beach, yes. Dining is solid rather than special, but the reliability and the swimming beach make it a smart family pick.",
+            "fr": "Pour un resort de marque sur une belle plage, oui. La restauration est correcte plutot qu'exceptionnelle, mais la fiabilite et la plage de baignade en font un choix familial avise."
+          }
+        }
+      ]
+    },
+    {
+      "key": "zanzibar-bluebay-beach-resort-and-spa",
+      "destinationKey": "zanzibar",
+      "name": "Bluebay Beach Resort & Spa",
+      "area": {
+        "en": "Kiwengwa",
+        "fr": "Kiwengwa"
+      },
+      "lat": -6.006,
+      "lng": 39.388,
+      "zoom": 14,
+      "address": "Bluebay Beach Resort & Spa, Kiwengwa, Unguja North, Zanzibar, Tanzania",
+      "priceTier": 2,
+      "priceFrom": 160,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "free-kids-club",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": true,
+      "photos": [
+        "poolPalms",
+        "resortLoungers",
+        "deckLoungersSea"
+      ],
+      "scores": {
+        "rooms": 78,
+        "baby": 82,
+        "pool": 82,
+        "dining": 80,
+        "safety": 82,
+        "convenience": 78,
+        "location": 80,
+        "extras": 82
+      },
+      "roomsSummary": {
+        "en": "Bluebay is an all-inclusive resort set in 30 acres of gardens on Kiwengwa beach, which keeps the family maths simple. Rooms and suites are comfortable and spread through the palms, with family arrangements and extra beds available, and cots on request. The all-inclusive plan covers meals, snacks and drinks, so kids can graze happily all day. Ask for a room near the pool and the children's club rather than a far garden corner if you have little ones.",
+        "fr": "Le Bluebay est un resort tout inclus installe dans 12 hectares de jardins sur la plage de Kiwengwa, ce qui simplifie les comptes pour la famille. Chambres et suites sont confortables et reparties parmi les palmiers, avec des formules familiales et des lits d'appoint disponibles, et des lits bebe sur demande. La formule tout inclus couvre repas, encas et boissons, si bien que les enfants peuvent grignoter joyeusement toute la journee. Demandez une chambre pres de la piscine et du club enfants plutot qu'un coin de jardin eloigne si vous avez des petits."
+      },
+      "intro": {
+        "en": "Bluebay is the value all-inclusive that takes the stress out of a family week: one price covers meals, drinks and snacks, so no one is counting extras. It sits in a big, palm-filled garden on Kiwengwa beach, with a children's club for ages 3 to 13, weekly themed programmes, a playground and professional babysitting for day or evening. The beach is east coast, so the tide swings a long way and the pool carries midday, but the value, the space and the easy all-in plan make it a favourite for families watching the budget without giving up comfort.",
+        "fr": "Le Bluebay est le tout inclus economique qui enleve le stress d'une semaine en famille : un seul prix couvre repas, boissons et encas, donc personne ne compte les extras. Il occupe un grand jardin plein de palmiers sur la plage de Kiwengwa, avec un club enfants de 3 a 13 ans, des programmes a theme chaque semaine, une aire de jeux et un service de garde professionnel de jour comme de soir. La plage est cote est, donc la maree se retire loin et la piscine assure a midi, mais le rapport qualite-prix, l'espace et la formule tout inclus facile en font un favori des familles attentives au budget sans renoncer au confort."
+      },
+      "highlights": {
+        "en": [
+          "All-inclusive, so meals, drinks and snacks are covered",
+          "Children's club for ages 3 to 13 with weekly themes",
+          "Playground and professional babysitting available",
+          "Big palm garden with plenty of space to roam"
+        ],
+        "fr": [
+          "Tout inclus, donc repas, boissons et encas compris",
+          "Club enfants de 3 a 13 ans avec themes hebdomadaires",
+          "Aire de jeux et service de garde professionnel disponibles",
+          "Grand jardin de palmiers avec beaucoup d'espace"
+        ]
+      },
+      "pros": {
+        "en": [
+          "Excellent value with the all-inclusive plan",
+          "No bill anxiety, kids can eat and drink freely",
+          "Big grounds and a real children's programme",
+          "Babysitting for a grown-up evening"
+        ],
+        "fr": [
+          "Excellent rapport qualite-prix avec la formule tout inclus",
+          "Pas d'angoisse de la note, les enfants mangent et boivent librement",
+          "Grand domaine et un vrai programme enfants",
+          "Service de garde pour une soiree entre adultes"
+        ]
+      },
+      "cons": {
+        "en": [
+          "East coast tides pull the sea far out at low water",
+          "All-inclusive dining is varied but not gourmet",
+          "A big resort, so it can feel busy at peak times"
+        ],
+        "fr": [
+          "Les marees de la cote est retirent la mer loin a basse eau",
+          "La restauration tout inclus est variee mais pas gastronomique",
+          "Un grand resort, qui peut sembler anime aux periodes de pointe"
+        ]
+      },
+      "verdict": {
+        "en": "A great-value all-inclusive with a proper kids club and babysitting, where one price covers a relaxed family week, tides aside.",
+        "fr": "Un tout inclus d'excellent rapport qualite-prix avec un vrai club enfants et un service de garde, ou un seul prix couvre une semaine familiale detendue, marees mises a part."
+      },
+      "parentTip": {
+        "en": "Swim the sea at high tide and lean on the pool at low tide, and make the most of the all-inclusive snacks and drinks to keep everyone fuelled without extra bills.",
+        "fr": "Nagez en mer a maree haute et misez sur la piscine a maree basse, et profitez a fond des encas et boissons du tout inclus pour garder tout le monde repu sans note supplementaire."
+      },
+      "atAGlance": [
+        {
+          "icon": "🚗",
+          "label": {
+            "en": "Transfer",
+            "fr": "Transfert"
+          },
+          "value": {
+            "en": "About 50 minutes by road",
+            "fr": "Environ 50 minutes de route"
+          }
+        },
+        {
+          "icon": "🧒",
+          "label": {
+            "en": "Kids club",
+            "fr": "Club enfants"
+          },
+          "value": {
+            "en": "Free club, ages 3 to 13",
+            "fr": "Club gratuit, 3 a 13 ans"
+          }
+        },
+        {
+          "icon": "🍽️",
+          "label": {
+            "en": "Board",
+            "fr": "Formule"
+          },
+          "value": {
+            "en": "All-inclusive meals, snacks and drinks",
+            "fr": "Tout inclus repas, encas et boissons"
+          }
+        },
+        {
+          "icon": "🌊",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "East coast, strong tidal swing",
+            "fr": "Cote est, forte amplitude de maree"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🎭",
+          "name": {
+            "en": "Kids club themed day",
+            "fr": "Journee a theme au club enfants"
+          },
+          "detail": {
+            "en": "Weekly themes bring crafts, pool games and indoor play for ages 3 to 13.",
+            "fr": "Des themes hebdomadaires apportent bricolage, jeux de piscine et jeux d'interieur pour les 3 a 13 ans."
+          },
+          "ages": [
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Afternoon",
+            "fr": "Apres-midi"
+          }
+        },
+        {
+          "emoji": "🚣",
+          "name": {
+            "en": "Kayak and paddle",
+            "fr": "Kayak et paddle"
+          },
+          "detail": {
+            "en": "At high tide the lagoon is great for kayaks and stand-up paddleboards.",
+            "fr": "A maree haute, le lagon est ideal pour le kayak et le stand-up paddle."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🌿",
+          "name": {
+            "en": "Spice tour outing",
+            "fr": "Sortie ferme aux epices"
+          },
+          "detail": {
+            "en": "A guided spice farm visit, an easy half-day trip the resort can arrange.",
+            "fr": "Une visite guidee de ferme aux epices, une sortie d'une demi-journee facile que le resort peut organiser."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Midday",
+            "fr": "Midi"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "All-inclusive breakfast",
+            "fr": "Petit-dejeuner tout inclus"
+          },
+          "note": {
+            "en": "Load up with no thought for the bill.",
+            "fr": "Faites le plein sans penser a la note."
+          }
+        },
+        {
+          "time": "10:00",
+          "title": {
+            "en": "High-tide water sports",
+            "fr": "Sports nautiques a maree haute"
+          },
+          "note": {
+            "en": "Kayaks and paddleboards while the lagoon is full.",
+            "fr": "Kayaks et paddles tant que le lagon est plein."
+          }
+        },
+        {
+          "time": "15:00",
+          "title": {
+            "en": "Kids club and pool",
+            "fr": "Club enfants et piscine"
+          },
+          "note": {
+            "en": "Themed club fun through the low-tide afternoon.",
+            "fr": "Amusement a theme au club pendant l'apres-midi de maree basse."
+          }
+        },
+        {
+          "time": "18:30",
+          "title": {
+            "en": "Family dinner",
+            "fr": "Diner en famille"
+          },
+          "note": {
+            "en": "Buffet with lots of choice for fussy eaters.",
+            "fr": "Buffet avec beaucoup de choix pour les difficiles."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "Provided cots and the all-inclusive ease help with a baby, and the pool covers low-tide hours.",
+          "fr": "Les lits bebe fournis et la simplicite du tout inclus aident avec un bebe, et la piscine couvre les heures de maree basse."
+        },
+        "toddler": {
+          "en": "The pool and the gentle themed club suit toddlers, with the tidal beach needing a little timing.",
+          "fr": "La piscine et le club a themes en douceur conviennent aux tout-petits, la plage a maree demandant un peu d'organisation."
+        },
+        "kid": {
+          "en": "The club, water sports and free-flowing snacks make this a happy age here.",
+          "fr": "Le club, les sports nautiques et les encas a volonte rendent cet age heureux ici."
+        },
+        "teen": {
+          "en": "Diving, water sports and the all-inclusive freedom to graze suit teens well.",
+          "fr": "La plongee, les sports nautiques et la liberte de grignoter du tout inclus conviennent bien aux ados."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "What does all-inclusive cover?",
+            "fr": "Que couvre le tout inclus?"
+          },
+          "a": {
+            "en": "Meals, snacks and a range of drinks are included, which is a real help with children who graze through the day, though premium items may cost extra.",
+            "fr": "Les repas, les encas et une gamme de boissons sont inclus, ce qui aide vraiment avec des enfants qui grignotent toute la journee, meme si les articles premium peuvent etre en supplement."
+          }
+        },
+        {
+          "q": {
+            "en": "How old must children be for the club?",
+            "fr": "Quel age faut-il pour le club?"
+          },
+          "a": {
+            "en": "The children's club is for ages 3 to 13, with weekly themed programmes, and professional babysitting is available for younger children or evenings.",
+            "fr": "Le club enfants est pour les 3 a 13 ans, avec des programmes a theme hebdomadaires, et un service de garde professionnel est disponible pour les plus jeunes ou le soir."
+          }
+        },
+        {
+          "q": {
+            "en": "Do the tides spoil the beach?",
+            "fr": "Les marees gachent-elles la plage?"
+          },
+          "a": {
+            "en": "Kiwengwa is east coast, so the sea goes far out at low tide. The beach is beautiful and swimmable at high water, and the pool bridges the gap.",
+            "fr": "Kiwengwa est sur la cote est, donc la mer se retire loin a maree basse. La plage est magnifique et baignable a maree haute, et la piscine comble l'intervalle."
+          }
+        }
+      ]
+    },
+    {
+      "key": "zanzibar-uroa-bay-beach-resort",
+      "destinationKey": "zanzibar",
+      "name": "Uroa Bay Beach Resort",
+      "area": {
+        "en": "Uroa",
+        "fr": "Uroa"
+      },
+      "lat": -6.116,
+      "lng": 39.487,
+      "zoom": 14,
+      "address": "Uroa Bay Beach Resort, Uroa, Unguja Central, Zanzibar, Tanzania",
+      "priceTier": 2,
+      "priceFrom": 110,
+      "ages": [
+        "baby",
+        "toddler",
+        "kid",
+        "teen"
+      ],
+      "amenities": [
+        "pool",
+        "baby-friendly",
+        "beach-access",
+        "family-suites",
+        "toddler-friendly"
+      ],
+      "clubFree": false,
+      "photos": [
+        "poolOrange",
+        "resortLoungers",
+        "beachSunset"
+      ],
+      "scores": {
+        "rooms": 72,
+        "baby": 80,
+        "pool": 80,
+        "dining": 74,
+        "safety": 80,
+        "convenience": 76,
+        "location": 76,
+        "extras": 74
+      },
+      "roomsSummary": {
+        "en": "Uroa Bay is a lively, good-value resort strung along a 300 metre private beach on the east coast, with 135 rooms including dedicated family rooms. Sea Front, Sea View and Garden View rooms cover most needs, and the larger family rooms suit four. Cots are available on request. There are two freshwater pools, one shallow for children and a deeper one with massage jets, so the youngest have a safe splash whatever the tide is doing.",
+        "fr": "Uroa Bay est un resort anime et de bon rapport qualite-prix, aligne le long d'une plage privee de 300 metres sur la cote est, avec 135 chambres dont des chambres familiales dediees. Les chambres Sea Front, Sea View et Garden View couvrent la plupart des besoins, et les plus grandes chambres familiales conviennent a quatre. Les lits bebe sont disponibles sur demande. Il y a deux piscines d'eau douce, une peu profonde pour les enfants et une plus profonde avec jets de massage, si bien que les plus petits ont une baignade sure quelle que soit la maree."
+      },
+      "intro": {
+        "en": "Uroa Bay is the budget-friendly beach resort that lets a family do Zanzibar without the big price tag. It is cheerful and unfussy, sitting on a long private beach on the central east coast, a short walk from Uroa village. There is no dedicated kids club, but the two freshwater pools, including a shallow one for children, do a lot of the entertaining, and family rooms keep everyone together. The beach is east coast, so the tide swings, but for beach time, pool play and honest value, it is a solid, down-to-earth choice for families.",
+        "fr": "Uroa Bay est le resort de plage abordable qui permet a une famille de decouvrir Zanzibar sans le gros budget. Il est gai et sans chichi, installe sur une longue plage privee de la cote est centrale, a courte distance a pied du village d'Uroa. Il n'y a pas de club enfants dedie, mais les deux piscines d'eau douce, dont une peu profonde pour les enfants, assurent une bonne part de l'animation, et les chambres familiales gardent tout le monde ensemble. La plage est cote est, donc la maree bouge, mais pour la plage, les jeux de piscine et un vrai rapport qualite-prix, c'est un choix solide et sans pretention pour les familles."
+      },
+      "highlights": {
+        "en": [
+          "Genuine value for a family beach week",
+          "Two freshwater pools, one shallow for children",
+          "Long 300 metre private beach",
+          "Family rooms that keep everyone together"
+        ],
+        "fr": [
+          "Vrai rapport qualite-prix pour une semaine plage en famille",
+          "Deux piscines d'eau douce, une peu profonde pour les enfants",
+          "Longue plage privee de 300 metres",
+          "Chambres familiales qui gardent tout le monde ensemble"
+        ]
+      },
+      "pros": {
+        "en": [
+          "One of the best-value family resorts on the island",
+          "A shallow children's pool for safe splashing",
+          "Relaxed, friendly and unpretentious",
+          "Walkable to Uroa village for a taste of local life"
+        ],
+        "fr": [
+          "L'un des resorts familiaux au meilleur rapport qualite-prix de l'ile",
+          "Une piscine enfants peu profonde pour barboter en securite",
+          "Detendu, accueillant et sans pretention",
+          "Village d'Uroa accessible a pied pour un apercu de la vie locale"
+        ]
+      },
+      "cons": {
+        "en": [
+          "No dedicated kids club or supervised programme",
+          "East coast tides pull the sea far out at low water",
+          "Rooms and dining are simple, value rather than luxury"
+        ],
+        "fr": [
+          "Pas de club enfants dedie ni de programme encadre",
+          "Les marees de la cote est retirent la mer loin a basse eau",
+          "Chambres et restauration simples, rapport qualite-prix plutot que luxe"
+        ]
+      },
+      "verdict": {
+        "en": "The value pick for families: a cheerful east coast beach resort with a shallow kids pool and family rooms, honest and easy on the budget.",
+        "fr": "Le choix rapport qualite-prix pour les familles : un resort de plage gai sur la cote est avec une piscine enfants peu profonde et des chambres familiales, honnete et doux pour le budget."
+      },
+      "parentTip": {
+        "en": "There is no kids club here, so plan a couple of easy outings, a spice farm or Jozani forest, and let the shallow pool do the rest between beach walks.",
+        "fr": "Il n'y a pas de club enfants ici, alors prevoyez deux ou trois sorties simples, une ferme aux epices ou la foret de Jozani, et laissez la piscine peu profonde faire le reste entre les balades sur la plage."
+      },
+      "atAGlance": [
+        {
+          "icon": "🚗",
+          "label": {
+            "en": "Transfer",
+            "fr": "Transfert"
+          },
+          "value": {
+            "en": "About 50 minutes by road",
+            "fr": "Environ 50 minutes de route"
+          }
+        },
+        {
+          "icon": "🏊",
+          "label": {
+            "en": "Pools",
+            "fr": "Piscines"
+          },
+          "value": {
+            "en": "Two pools, one shallow for children",
+            "fr": "Deux piscines, une peu profonde pour enfants"
+          }
+        },
+        {
+          "icon": "💶",
+          "label": {
+            "en": "Value",
+            "fr": "Budget"
+          },
+          "value": {
+            "en": "One of the most affordable family resorts",
+            "fr": "L'un des resorts familiaux les plus abordables"
+          }
+        },
+        {
+          "icon": "🌊",
+          "label": {
+            "en": "Beach",
+            "fr": "Plage"
+          },
+          "value": {
+            "en": "East coast, strong tidal swing",
+            "fr": "Cote est, forte amplitude de maree"
+          }
+        }
+      ],
+      "activities": [
+        {
+          "emoji": "🏊",
+          "name": {
+            "en": "Shallow pool splash",
+            "fr": "Baignade a la piscine peu profonde"
+          },
+          "detail": {
+            "en": "The children's freshwater pool is a safe splash zone whatever the tide.",
+            "fr": "La piscine enfants en eau douce est une zone de baignade sure quelle que soit la maree."
+          },
+          "ages": [
+            "baby",
+            "toddler",
+            "kid"
+          ],
+          "time": {
+            "en": "Anytime",
+            "fr": "A toute heure"
+          }
+        },
+        {
+          "emoji": "🌳",
+          "name": {
+            "en": "Jozani forest trip",
+            "fr": "Sortie foret de Jozani"
+          },
+          "detail": {
+            "en": "A half-day trip to spot the rare red colobus monkeys, easy and fun for kids.",
+            "fr": "Une sortie d'une demi-journee pour observer les rares singes colobes roux, facile et amusante pour les enfants."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Morning",
+            "fr": "Matin"
+          }
+        },
+        {
+          "emoji": "🚶",
+          "name": {
+            "en": "Uroa village walk",
+            "fr": "Balade au village d'Uroa"
+          },
+          "detail": {
+            "en": "A gentle stroll into the fishing village for a glimpse of everyday Zanzibar.",
+            "fr": "Une balade tranquille jusqu'au village de pecheurs pour un apercu du Zanzibar du quotidien."
+          },
+          "ages": [
+            "kid",
+            "teen"
+          ],
+          "time": {
+            "en": "Evening",
+            "fr": "Soir"
+          }
+        }
+      ],
+      "sampleDay": [
+        {
+          "time": "8:00",
+          "title": {
+            "en": "Buffet breakfast",
+            "fr": "Petit-dejeuner buffet"
+          },
+          "note": {
+            "en": "Local and western dishes to start the day.",
+            "fr": "Plats locaux et occidentaux pour bien commencer."
+          }
+        },
+        {
+          "time": "9:30",
+          "title": {
+            "en": "Jozani forest",
+            "fr": "Foret de Jozani"
+          },
+          "note": {
+            "en": "Head out early to see the red colobus monkeys.",
+            "fr": "Partez tot pour voir les singes colobes roux."
+          }
+        },
+        {
+          "time": "14:00",
+          "title": {
+            "en": "Shallow pool time",
+            "fr": "Temps a la piscine peu profonde"
+          },
+          "note": {
+            "en": "Safe splashing while the tide is out.",
+            "fr": "Baignade sure pendant que la maree est basse."
+          }
+        },
+        {
+          "time": "17:30",
+          "title": {
+            "en": "Village and sunset",
+            "fr": "Village et coucher de soleil"
+          },
+          "note": {
+            "en": "A short walk to Uroa village as the light softens.",
+            "fr": "Une courte marche au village d'Uroa quand la lumiere s'adoucit."
+          }
+        }
+      ],
+      "ageNotes": {
+        "baby": {
+          "en": "The shallow freshwater pool and provided cots help with a baby, though there is no supervised childcare.",
+          "fr": "La piscine peu profonde en eau douce et les lits bebe fournis aident avec un bebe, meme s'il n'y a pas de garde encadree."
+        },
+        "toddler": {
+          "en": "The children's pool is the safe centre of the day, with the tidal beach for exploring at high water.",
+          "fr": "La piscine enfants est le centre sur de la journee, avec la plage a maree pour explorer a maree haute."
+        },
+        "kid": {
+          "en": "Pool play plus easy trips to Jozani forest and the village keep this age content.",
+          "fr": "Les jeux de piscine et des sorties faciles a la foret de Jozani et au village comblent cet age."
+        },
+        "teen": {
+          "en": "Snorkelling, diving nearby and local excursions give teens enough to explore.",
+          "fr": "Le snorkeling, la plongee a proximite et les excursions locales donnent aux ados de quoi explorer."
+        }
+      },
+      "faqs": [
+        {
+          "q": {
+            "en": "Is there a kids club?",
+            "fr": "Y a-t-il un club enfants?"
+          },
+          "a": {
+            "en": "No, Uroa Bay has no dedicated kids club or supervised programme. Families rely on the shallow children's pool, the beach and day trips instead.",
+            "fr": "Non, Uroa Bay n'a pas de club enfants dedie ni de programme encadre. Les familles comptent plutot sur la piscine enfants peu profonde, la plage et les excursions."
+          }
+        },
+        {
+          "q": {
+            "en": "Is it really good value?",
+            "fr": "Est-ce vraiment un bon rapport qualite-prix?"
+          },
+          "a": {
+            "en": "Yes, it is one of the most affordable family resorts on Zanzibar. Rooms and dining are simple, but the beach, pools and price make it a strong budget choice.",
+            "fr": "Oui, c'est l'un des resorts familiaux les plus abordables de Zanzibar. Chambres et restauration sont simples, mais la plage, les piscines et le prix en font un solide choix economique."
+          }
+        },
+        {
+          "q": {
+            "en": "How are the tides?",
+            "fr": "Comment sont les marees?"
+          },
+          "a": {
+            "en": "This is the east coast, so the sea retreats a long way at low tide. Swim in the morning, use the shallow pool at midday, and enjoy the wide beach at low water.",
+            "fr": "C'est la cote est, donc la mer se retire loin a maree basse. Nagez le matin, utilisez la piscine peu profonde a midi, et profitez de la large plage a maree basse."
+          }
+        }
+      ]
+    }
+  ],
+  "destinationMeta": {
+    "heroKicker": {
+      "en": "Indian Ocean spice-island beaches for families",
+      "fr": "Plages de l'ile aux epices de l'ocean Indien pour les familles"
+    },
+    "intro": {
+      "en": "Zanzibar mixes powder-white beaches, warm turquoise water and a rich Swahili culture, and it works beautifully with children if you choose the right coast. The single biggest decision is tides. On the north and northwest, at Nungwi and Kendwa, the sea stays swimmable at every tide, which is far easier with little ones. On the long east coast, from Kiwengwa to Paje, the water retreats a long way at low tide, so a good pool becomes essential and you time sea swims to the morning. Most family resorts sit on the beach with a kids club, family rooms and a pool, and Stone Town adds a day or two of history at the start or end. The flight from Europe is long, often with a connection, and it is a malaria area, so plan for antimalarials and repellent. Get the coast and the season right, and it is a magical family trip.",
+      "fr": "Zanzibar melange plages d'un blanc poudreux, eau turquoise et chaude et une riche culture swahilie, et elle fonctionne a merveille avec des enfants si l'on choisit la bonne cote. La plus grande decision, ce sont les marees. Au nord et au nord-ouest, a Nungwi et Kendwa, la mer reste baignable a toutes les marees, bien plus simple avec des petits. Sur la longue cote est, de Kiwengwa a Paje, l'eau se retire loin a maree basse, donc une bonne piscine devient indispensable et l'on cale les baignades en mer sur le matin. La plupart des resorts familiaux sont en bord de plage avec un club enfants, des chambres familiales et une piscine, et Stone Town ajoute un jour ou deux d'histoire au debut ou a la fin. Le vol depuis l'Europe est long, souvent avec une correspondance, et c'est une zone de paludisme, prevoyez donc antipaludeens et repulsif. Choisissez la bonne cote et la bonne saison, et c'est un voyage familial magique."
+    },
+    "whyKids": {
+      "en": [
+        "Warm, calm turquoise water and soft white-sand beaches",
+        "North and northwest beaches stay swimmable at every tide",
+        "Most family resorts have a kids club, a pool and family rooms",
+        "Green turtles, giant tortoises and red colobus monkeys to meet up close",
+        "Rich Swahili culture and spice farms make easy, hands-on days out"
+      ],
+      "fr": [
+        "Une eau turquoise chaude et calme et des plages de sable blanc et doux",
+        "Les plages du nord et du nord-ouest restent baignables a toutes les marees",
+        "La plupart des resorts familiaux ont un club enfants, une piscine et des chambres familiales",
+        "Tortues vertes, tortues geantes et singes colobes roux a rencontrer de pres",
+        "Une riche culture swahilie et des fermes aux epices pour des sorties faciles et interactives"
+      ]
+    },
+    "bestAreas": {
+      "en": [
+        "Nungwi and Kendwa (north and northwest): swimmable at all tides, the easiest beaches with babies and toddlers",
+        "Kiwengwa (east): big resorts and long beaches, but strong tides, so a pool is essential",
+        "Michamvi and the southeast: quiet, warm and family-run resorts away from the crowds",
+        "Uroa and the central east coast: good-value beach resorts and local village life",
+        "Stone Town: a day or two of UNESCO culture, best paired with a beach base"
+      ],
+      "fr": [
+        "Nungwi et Kendwa (nord et nord-ouest) : baignables a toutes les marees, les plages les plus simples avec bebes et tout-petits",
+        "Kiwengwa (est) : grands resorts et longues plages, mais fortes marees, donc une piscine est indispensable",
+        "Michamvi et le sud-est : resorts calmes, chaleureux et familiaux a l'ecart de la foule",
+        "Uroa et la cote est centrale : resorts de plage de bon rapport qualite-prix et vie de village locale",
+        "Stone Town : un jour ou deux de culture classee UNESCO, a associer de preference a une base plage"
+      ]
+    },
+    "stats": [
+      {
+        "value": "~28C",
+        "label": {
+          "en": "Year-round sea temperature",
+          "fr": "Temperature de la mer toute l'annee"
+        }
+      },
+      {
+        "value": "Jun to Oct",
+        "label": {
+          "en": "Cooler dry season, great for families",
+          "fr": "Saison seche plus fraiche, ideale pour les familles"
+        }
+      },
+      {
+        "value": "Dec to Feb",
+        "label": {
+          "en": "Hot, sunny short-dry season",
+          "fr": "Petite saison seche chaude et ensoleillee"
+        }
+      },
+      {
+        "value": "North coast",
+        "label": {
+          "en": "Swimmable at every tide",
+          "fr": "Baignable a toutes les marees"
+        }
+      }
+    ],
+    "activities": [
+      {
+        "emoji": "🐢",
+        "name": {
+          "en": "Meet the turtles",
+          "fr": "Rencontrer les tortues"
+        },
+        "detail": {
+          "en": "Feed green turtles at Nungwi's Mnarani lagoon or meet giant tortoises on Prison Island near Stone Town.",
+          "fr": "Nourrissez les tortues vertes au lagon de Mnarani a Nungwi ou rencontrez les tortues geantes de Prison Island pres de Stone Town."
+        },
+        "ages": [
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Morning",
+          "fr": "Matin"
+        }
+      },
+      {
+        "emoji": "🌿",
+        "name": {
+          "en": "Spice farm tour",
+          "fr": "Visite d'une ferme aux epices"
+        },
+        "detail": {
+          "en": "Smell, touch and taste cloves, vanilla, cinnamon and nutmeg on a guided farm walk, a hit with curious kids.",
+          "fr": "Sentez, touchez et goutez clous de girofle, vanille, cannelle et noix de muscade lors d'une balade guidee, un succes aupres des enfants curieux."
+        },
+        "ages": [
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Midday",
+          "fr": "Midi"
+        }
+      },
+      {
+        "emoji": "🐒",
+        "name": {
+          "en": "Jozani forest monkeys",
+          "fr": "Singes de la foret de Jozani"
+        },
+        "detail": {
+          "en": "A short forest walk to spot the rare red colobus monkeys found only on Zanzibar.",
+          "fr": "Une courte marche en foret pour observer les rares singes colobes roux que l'on ne trouve qu'a Zanzibar."
+        },
+        "ages": [
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Morning",
+          "fr": "Matin"
+        }
+      },
+      {
+        "emoji": "⛵",
+        "name": {
+          "en": "Sunset dhow sail",
+          "fr": "Voile en boutre au coucher"
+        },
+        "detail": {
+          "en": "A gentle sail on a traditional wooden dhow as the sun drops over the Indian Ocean.",
+          "fr": "Une navigation douce sur un boutre traditionnel en bois tandis que le soleil descend sur l'ocean Indien."
+        },
+        "ages": [
+          "toddler",
+          "kid",
+          "teen"
+        ],
+        "time": {
+          "en": "Evening",
+          "fr": "Soir"
+        }
+      }
+    ],
+    "faqs": [
+      {
+        "q": {
+          "en": "Which coast is best with young children?",
+          "fr": "Quelle cote est la meilleure avec de jeunes enfants?"
+        },
+        "a": {
+          "en": "The north and northwest, around Nungwi and Kendwa, where the sea stays deep enough to swim at every tide. The east coast is stunning but the tide retreats a long way, so you rely more on the pool with little ones.",
+          "fr": "Le nord et le nord-ouest, autour de Nungwi et Kendwa, ou la mer reste assez profonde pour nager a toutes les marees. La cote est est magnifique mais la maree se retire loin, donc on compte davantage sur la piscine avec des petits."
+        }
+      },
+      {
+        "q": {
+          "en": "When is the best time to go?",
+          "fr": "Quelle est la meilleure periode pour partir?"
+        },
+        "a": {
+          "en": "The cooler dry season from June to October is ideal for families, and the hot, sunny short-dry season from December to February is also good. Avoid the long rains of March to May.",
+          "fr": "La saison seche plus fraiche, de juin a octobre, est ideale pour les familles, et la petite saison seche chaude et ensoleillee, de decembre a fevrier, convient aussi. Evitez les longues pluies de mars a mai."
+        }
+      },
+      {
+        "q": {
+          "en": "Is malaria a concern for families?",
+          "fr": "Le paludisme est-il un souci pour les familles?"
+        },
+        "a": {
+          "en": "Zanzibar is a malaria area, so speak to a travel clinic about antimalarial tablets for the whole family, and pack good insect repellent, long sleeves for dusk and a plug-in or net. It is manageable with the right precautions.",
+          "fr": "Zanzibar est une zone de paludisme, parlez donc a un centre de vaccination des comprimes antipaludeens pour toute la famille, et emportez un bon repulsif, des manches longues pour le crepuscule et un diffuseur ou une moustiquaire. C'est gerable avec les bonnes precautions."
+        }
+      },
+      {
+        "q": {
+          "en": "How do we avoid an adults-only hotel?",
+          "fr": "Comment eviter un hotel reserve aux adultes?"
+        },
+        "a": {
+          "en": "Zanzibar has several honeymoon and adults-only resorts, so always check for a kids club, family rooms and a children's pool before booking. Every hotel in this guide has been verified as genuinely family-friendly.",
+          "fr": "Zanzibar compte plusieurs resorts lune de miel et reserves aux adultes, verifiez donc toujours la presence d'un club enfants, de chambres familiales et d'une piscine pour enfants avant de reserver. Chaque hotel de ce guide a ete verifie comme reellement adapte aux familles."
+        }
+      }
+    ],
+    "parentTip": {
+      "en": "Pick your coast around tides, not just looks. With babies and toddlers, base yourselves at Nungwi or Kendwa in the north so you can swim any time. On the east coast, only book a resort with a proper pool, ideally a private-pool villa or a shallow children's pool.",
+      "fr": "Choisissez votre cote en fonction des marees, pas seulement du decor. Avec des bebes et des tout-petits, installez-vous a Nungwi ou Kendwa au nord pour pouvoir nager a toute heure. Sur la cote est, ne reservez qu'un resort avec une vraie piscine, idealement une villa avec piscine privee ou une piscine enfants peu profonde."
+    },
+    "goodToKnow": {
+      "en": "Flights from Europe are long, usually with a connection, though some seasonal charters fly close to direct in around ten hours, so plan for a travel day with young children. Arrivals land at Abeid Amani Karume International Airport near Stone Town, and resort transfers run by road, from about fifteen minutes for Stone Town to an hour for the north. Tides rule the beaches: the north and northwest stay swimmable at every tide, while the east coast retreats a long way at low water, so a pool matters there. Zanzibar is a malaria area, so bring antimalarials and repellent and cover up at dusk. It is a mostly Muslim island, so dress modestly away from the beach and resorts, especially in Stone Town. Pack reef shoes, high-factor sun cream and hats, drink bottled water, and take out proper travel insurance, as medical facilities are limited outside Stone Town. The cooler dry season runs June to October, with a hot, sunny window from December to February.",
+      "fr": "Les vols depuis l'Europe sont longs, en general avec une correspondance, meme si certains charters saisonniers volent presque en direct en une dizaine d'heures, prevoyez donc une journee de voyage avec de jeunes enfants. Les arrivees se font a l'aeroport international Abeid Amani Karume pres de Stone Town, et les transferts vers les resorts se font par la route, d'environ quinze minutes pour Stone Town a une heure pour le nord. Les marees regissent les plages : le nord et le nord-ouest restent baignables a toutes les marees, tandis que la cote est se retire loin a basse eau, donc une piscine y est importante. Zanzibar est une zone de paludisme, emportez donc antipaludeens et repulsif et couvrez-vous au crepuscule. C'est une ile majoritairement musulmane, habillez-vous donc sobrement hors de la plage et des resorts, surtout a Stone Town. Emportez des chaussures d'eau, une creme solaire haute protection et des chapeaux, buvez de l'eau en bouteille et souscrivez une bonne assurance voyage, car les structures medicales sont limitees hors de Stone Town. La saison seche plus fraiche va de juin a octobre, avec une fenetre chaude et ensoleillee de decembre a fevrier."
+    },
+    "emoji": "🐢",
+    "name": {
+      "en": "Zanzibar",
+      "fr": "Zanzibar"
+    },
+    "country": {
+      "en": "Tanzania",
+      "fr": "Tanzanie"
+    },
+    "geo": {
+      "lat": -6.1659,
+      "lng": 39.2026,
+      "zoom": 10
+    },
+    "accent": "0fb5ae",
+    "photos": [
+      "beachSunset",
+      "poolPalms",
+      "infinityPoolSea"
+    ]
+  }
+}
