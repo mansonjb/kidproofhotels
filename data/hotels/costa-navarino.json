@@ -6,7 +6,11 @@
       "name": "The Westin Resort Costa Navarino",
       "area": {
         "en": "Navarino Dunes (Romanos)",
-        "fr": "Navarino Dunes (Romanos)"
+        "fr": "Navarino Dunes (Romanos)",
+        "it": "Navarino Dunes (Romanos)",
+        "de": "Navarino Dunes (Romanos)",
+        "es": "Navarino Dunes (Romanos)",
+        "pt": "Navarino Dunes (Romanos)"
       },
       "lat": 36.9832,
       "lng": 21.6688,
@@ -42,11 +46,19 @@
       },
       "roomsSummary": {
         "en": "Big, bright rooms and family suites, many opening straight onto pool or garden, so little ones can be watched from the sofa. Family suites and interconnecting rooms sleep four to five comfortably, with room for cots, and the Family Guestrooms come pre-stocked with kid touches. Ground-floor swim-up options let toddlers reach the water without stairs.",
-        "fr": "Grandes chambres lumineuses et suites familiales, beaucoup ouvrant de plain-pied sur la piscine ou le jardin, on garde ainsi un oeil sur les petits depuis le canapé. Les suites familiales et les chambres communicantes accueillent facilement quatre à cinq personnes, avec la place pour un lit bébé, et les chambres familiales arrivent déjà équipées de petites attentions pour enfants. Les options swim-up au rez-de-chaussée permettent aux tout-petits d'atteindre l'eau sans escalier."
+        "fr": "Grandes chambres lumineuses et suites familiales, beaucoup ouvrant de plain-pied sur la piscine ou le jardin, on garde ainsi un oeil sur les petits depuis le canapé. Les suites familiales et les chambres communicantes accueillent facilement quatre à cinq personnes, avec la place pour un lit bébé, et les chambres familiales arrivent déjà équipées de petites attentions pour enfants. Les options swim-up au rez-de-chaussée permettent aux tout-petits d'atteindre l'eau sans escalier.",
+        "it": "Camere grandi e luminose e suite familiari, molte con accesso diretto alla piscina o al giardino, così i più piccoli si tengono d'occhio dal divano. Le suite familiari e le camere comunicanti ospitano comodamente da quattro a cinque persone, con spazio per la culla, e le Family Guestrooms arrivano già attrezzate con pensieri per i bambini. Le soluzioni swim-up al piano terra permettono ai più piccoli di raggiungere l'acqua senza scale.",
+        "de": "Große, helle Zimmer und Familiensuiten, viele mit direktem Zugang zum Pool oder Garten, sodass die Kleinen vom Sofa aus im Blick bleiben. Familiensuiten und Verbindungszimmer beherbergen bequem vier bis fünf Personen, mit Platz für ein Kinderbett, und die Family Guestrooms sind bereits mit kindgerechten Extras ausgestattet. Swim-up-Optionen im Erdgeschoss lassen Kleinkinder das Wasser ohne Treppen erreichen.",
+        "es": "Habitaciones grandes y luminosas y suites familiares, muchas con salida directa a la piscina o al jardín, para vigilar a los pequeños desde el sofá. Las suites familiares y las habitaciones comunicadas alojan con holgura a cuatro o cinco personas, con sitio para una cuna, y las Family Guestrooms llegan ya preparadas con detalles para los niños. Las opciones swim-up en la planta baja permiten a los más pequeños llegar al agua sin escaleras.",
+        "pt": "Quartos grandes e luminosos e suites familiares, muitos com saída direta para a piscina ou o jardim, para vigiar os pequenos a partir do sofá. As suites familiares e os quartos comunicantes acomodam com folga quatro a cinco pessoas, com espaço para um berço, e os Family Guestrooms chegam já preparados com mimos para as crianças. As opções swim-up no rés do chão deixam os mais pequenos chegar à água sem escadas."
       },
       "intro": {
         "en": "This is the family engine of Costa Navarino: the Westin sits right on the 1km sandy Dunes Beach and shares the resort's headline kids facilities, the Aqua Park with slides, multiple pools and the SandCastle youth hub. Younger babies are covered by the resort's supervised care, older kids can pick between tennis camps, football and cycling, and everyone is a short buggy push from soft golden sand. It is polished, busy and built end to end for families who want the children genuinely entertained while the grown-ups get a break too.",
-        "fr": "Voici le moteur familial de Costa Navarino : le Westin donne directement sur la plage de sable des Dunes, longue d'un kilomètre, et partage les installations enfants phares du domaine, l'Aqua Park avec toboggans, plusieurs piscines et le pôle jeunesse SandCastle. Les tout-petits sont pris en charge par la garderie encadrée du domaine, les plus grands choisissent entre stages de tennis, football et vélo, et tout le monde n'est qu'à une courte poussée de poussette du sable doré. C'est soigné, animé et pensé de bout en bout pour les familles qui veulent des enfants réellement occupés pendant que les parents soufflent aussi."
+        "fr": "Voici le moteur familial de Costa Navarino : le Westin donne directement sur la plage de sable des Dunes, longue d'un kilomètre, et partage les installations enfants phares du domaine, l'Aqua Park avec toboggans, plusieurs piscines et le pôle jeunesse SandCastle. Les tout-petits sont pris en charge par la garderie encadrée du domaine, les plus grands choisissent entre stages de tennis, football et vélo, et tout le monde n'est qu'à une courte poussée de poussette du sable doré. C'est soigné, animé et pensé de bout en bout pour les familles qui veulent des enfants réellement occupés pendant que les parents soufflent aussi.",
+        "it": "È questo il motore per le famiglie di Costa Navarino: il Westin sorge proprio sulla spiaggia sabbiosa di Dunes Beach, lunga 1 km, e condivide le strutture per bambini di punta del resort, l'Aqua Park con scivoli, le numerose piscine e il polo giovani SandCastle. I neonati sono coperti dall'assistenza qualificata del resort, i bambini più grandi possono scegliere tra campus di tennis, calcio e ciclismo, e tutti sono a una breve spinta di passeggino dalla sabbia dorata. È curato, vivace e pensato dall'inizio alla fine per le famiglie che vogliono i bambini davvero intrattenuti mentre anche i grandi si concedono una pausa.",
+        "de": "Das hier ist der Familienmotor von Costa Navarino: Das Westin liegt direkt am 1 km langen Sandstrand Dunes Beach und teilt die herausragenden Kinderangebote des Resorts, den Aqua Park mit Rutschen, mehrere Pools und den Jugendtreff SandCastle. Für die jüngsten Babys sorgt die betreute Kinderbetreuung des Resorts, ältere Kinder können zwischen Tenniscamps, Fußball und Radfahren wählen, und alle sind nur einen kurzen Kinderwagenschub vom weichen goldenen Sand entfernt. Es ist gepflegt, belebt und von A bis Z für Familien gebaut, die ihre Kinder wirklich beschäftigt wissen wollen, während auch die Erwachsenen eine Pause bekommen.",
+        "es": "Este es el motor familiar de Costa Navarino: el Westin se asienta justo sobre la playa de arena Dunes Beach, de 1 km, y comparte las instalaciones estrella para niños del resort, el Aqua Park con toboganes, varias piscinas y el centro juvenil SandCastle. Los bebés más pequeños están cubiertos por el cuidado supervisado del resort, los niños mayores pueden elegir entre campamentos de tenis, fútbol y ciclismo, y todos están a un breve empujón de carrito de la suave arena dorada. Es pulido, animado y construido de principio a fin para las familias que quieren a los niños realmente entretenidos mientras los mayores también descansan.",
+        "pt": "Este é o motor familiar de Costa Navarino: o Westin fica mesmo sobre a praia de areia Dunes Beach, com 1 km, e partilha as instalações de eleição para crianças do resort, o Aqua Park com escorregas, várias piscinas e o polo jovem SandCastle. Os bebés mais pequenos estão cobertos pelo acompanhamento supervisionado do resort, os miúdos mais velhos podem escolher entre campos de ténis, futebol e ciclismo, e todos estão a um breve empurrão de carrinho da suave areia dourada. É cuidado, animado e construído de ponta a ponta para as famílias que querem as crianças realmente entretidas enquanto os graúdos também descansam."
       },
       "highlights": {
         "en": [
@@ -60,6 +72,30 @@
           "En bord de plage de sable des Dunes, longue d'un kilomètre",
           "Pôle jeunesse SandCastle et garderie pour les bébés",
           "Stages sportifs : tennis, football, basket, vélo"
+        ],
+        "it": [
+          "Aqua Park con scivoli e zone giochi d'acqua per tutte le età",
+          "Direttamente sulla spiaggia sabbiosa di Dunes Beach, lunga 1 km",
+          "Polo giovani SandCastle e assistenza per i neonati",
+          "Campus sportivi: tennis, calcio, basket, ciclismo"
+        ],
+        "de": [
+          "Aqua Park mit Rutschen und Spritzbereichen für alle Altersgruppen",
+          "Direkt am 1 km langen Sandstrand Dunes Beach",
+          "Jugendtreff SandCastle plus Betreuung für Babys",
+          "Sportcamps: Tennis, Fußball, Basketball, Radfahren"
+        ],
+        "es": [
+          "Aqua Park con toboganes y zonas de chapoteo para todas las edades",
+          "Directamente sobre la playa de arena Dunes Beach, de 1 km",
+          "Centro juvenil SandCastle y cuidado para bebés",
+          "Campamentos deportivos: tenis, fútbol, baloncesto, ciclismo"
+        ],
+        "pt": [
+          "Aqua Park com escorregas e zonas de chapinhar para todas as idades",
+          "Diretamente sobre a praia de areia Dunes Beach, com 1 km",
+          "Polo jovem SandCastle e cuidado para bebés",
+          "Campos desportivos: ténis, futebol, basquetebol, ciclismo"
         ]
       },
       "pros": {
@@ -74,6 +110,30 @@
           "Plage de sable juste devant, pas un lido rocheux",
           "De quoi occuper tous les âges, du lit bébé aux ados",
           "Vaste complexe de piscines qui dilue la foule"
+        ],
+        "it": [
+          "Le migliori strutture per bambini a tutto tondo della tenuta",
+          "Spiaggia di sabbia sull'uscio, non un lido roccioso",
+          "Qualcosa per ogni età, dalla culla agli adolescenti",
+          "Enorme complesso di piscine per diluire la folla"
+        ],
+        "de": [
+          "Die besten Rundum-Kinderangebote des Anwesens",
+          "Sandstrand vor der Tür, kein felsiges Strandbad",
+          "Für jedes Alter etwas, vom Kinderbett bis zum Teenager",
+          "Riesige Poolanlage, die die Menge verteilt"
+        ],
+        "es": [
+          "Las mejores instalaciones integrales para niños de la finca",
+          "Playa de arena en la puerta, no un balneario rocoso",
+          "Algo para cada edad, de la cuna a los adolescentes",
+          "Enorme complejo de piscinas para repartir a la gente"
+        ],
+        "pt": [
+          "As melhores instalações completas para crianças da propriedade",
+          "Praia de areia à porta, não um areal rochoso",
+          "Algo para cada idade, do berço aos adolescentes",
+          "Enorme complexo de piscinas para diluir a multidão"
         ]
       },
       "cons": {
@@ -86,59 +146,119 @@
           "Tarifs premium, surtout en plein été",
           "Grand et animé, pas une retraite au calme",
           "Le domaine est étendu, prévoyez poussette et navettes"
+        ],
+        "it": [
+          "Prezzi premium, soprattutto in piena estate",
+          "Grande e vivace, non un rifugio tranquillo",
+          "La tenuta è estesa, mettete in conto passeggini e navette"
+        ],
+        "de": [
+          "Premiumpreise, besonders im Hochsommer",
+          "Groß und lebhaft, kein ruhiger Rückzugsort",
+          "Das Anwesen ist weitläufig, rechnen Sie mit Kinderwagen und Shuttles"
+        ],
+        "es": [
+          "Precios premium, sobre todo en pleno verano",
+          "Grande y animado, no un retiro tranquilo",
+          "La finca está muy repartida, contad con carritos y lanzaderas"
+        ],
+        "pt": [
+          "Preços premium, sobretudo em pleno verão",
+          "Grande e animado, não um retiro tranquilo",
+          "A propriedade é extensa, contem com carrinhos e transferes"
         ]
       },
       "verdict": {
         "en": "If you want a proper luxury family holiday where the kids are thrilled from breakfast to bedtime and the beach is real sand, this is the safe, brilliant pick at Costa Navarino.",
-        "fr": "Si vous voulez de vraies vacances familiales haut de gamme où les enfants sont ravis du petit-déjeuner au coucher et où la plage est du vrai sable, c'est le choix sûr et brillant à Costa Navarino."
+        "fr": "Si vous voulez de vraies vacances familiales haut de gamme où les enfants sont ravis du petit-déjeuner au coucher et où la plage est du vrai sable, c'est le choix sûr et brillant à Costa Navarino.",
+        "it": "Se volete una vera vacanza di lusso in famiglia dove i bambini sono entusiasti dalla colazione alla nanna e la spiaggia è di sabbia vera, questa è la scelta sicura e brillante a Costa Navarino.",
+        "de": "Wenn Sie einen echten Luxus-Familienurlaub möchten, bei dem die Kinder vom Frühstück bis zur Schlafenszeit begeistert sind und der Strand aus echtem Sand besteht, ist das die sichere, brillante Wahl in Costa Navarino.",
+        "es": "Si quieres unas verdaderas vacaciones familiares de lujo donde los niños estén encantados del desayuno a la hora de dormir y la playa sea de arena de verdad, esta es la elección segura y brillante en Costa Navarino.",
+        "pt": "Se quer umas verdadeiras férias de luxo em família onde as crianças ficam encantadas do pequeno-almoço à hora de dormir e a praia é de areia a sério, esta é a escolha segura e brilhante em Costa Navarino."
       },
       "parentTip": {
         "en": "Book the Aqua Park slides for first thing in the morning when it is quiet and shaded, then move to the beach after lunch when the pools get busy.",
-        "fr": "Faites les toboggans de l'Aqua Park dès l'ouverture, quand c'est calme et à l'ombre, puis filez à la plage après le déjeuner quand les piscines se remplissent."
+        "fr": "Faites les toboggans de l'Aqua Park dès l'ouverture, quand c'est calme et à l'ombre, puis filez à la plage après le déjeuner quand les piscines se remplissent.",
+        "it": "Prenotate gli scivoli dell'Aqua Park per prima mattina, quando è tranquillo e in ombra, poi spostatevi in spiaggia dopo pranzo, quando le piscine si affollano.",
+        "de": "Reservieren Sie die Aqua-Park-Rutschen für den frühen Morgen, wenn es ruhig und schattig ist, und wechseln Sie nach dem Mittagessen an den Strand, wenn die Pools voller werden.",
+        "es": "Reservad los toboganes del Aqua Park a primera hora de la mañana, cuando está tranquilo y con sombra, y pasad a la playa después de comer, cuando las piscinas se llenan.",
+        "pt": "Reservem os escorregas do Aqua Park para o início da manhã, quando está calmo e à sombra, e passem para a praia depois do almoço, quando as piscinas enchem."
       },
       "atAGlance": [
         {
           "icon": "🛝",
           "label": {
             "en": "Water park",
-            "fr": "Parc aquatique"
+            "fr": "Parc aquatique",
+            "it": "Parco acquatico",
+            "de": "Wasserpark",
+            "es": "Parque acuático",
+            "pt": "Parque aquático"
           },
           "value": {
             "en": "Aqua Park with slides on site",
-            "fr": "Aqua Park avec toboggans sur place"
+            "fr": "Aqua Park avec toboggans sur place",
+            "it": "Aqua Park con scivoli in loco",
+            "de": "Aqua Park mit Rutschen vor Ort",
+            "es": "Aqua Park con toboganes en el recinto",
+            "pt": "Aqua Park com escorregas no local"
           }
         },
         {
           "icon": "🧒",
           "label": {
             "en": "Kids club",
-            "fr": "Club enfants"
+            "fr": "Club enfants",
+            "it": "Club per bambini",
+            "de": "Kinderclub",
+            "es": "Club infantil",
+            "pt": "Clube infantil"
           },
           "value": {
             "en": "SandCastle hub plus baby care",
-            "fr": "Pôle SandCastle et garderie bébés"
+            "fr": "Pôle SandCastle et garderie bébés",
+            "it": "Polo SandCastle e assistenza neonati",
+            "de": "SandCastle-Treff plus Babybetreuung",
+            "es": "Centro SandCastle y cuidado de bebés",
+            "pt": "Polo SandCastle e cuidado de bebés"
           }
         },
         {
           "icon": "🏖️",
           "label": {
             "en": "Beach",
-            "fr": "Plage"
+            "fr": "Plage",
+            "it": "Spiaggia",
+            "de": "Strand",
+            "es": "Playa",
+            "pt": "Praia"
           },
           "value": {
             "en": "Sandy Dunes Beach, 1km long",
-            "fr": "Plage de sable des Dunes, 1 km"
+            "fr": "Plage de sable des Dunes, 1 km",
+            "it": "Spiaggia sabbiosa Dunes, lunga 1 km",
+            "de": "Sandstrand Dunes Beach, 1 km lang",
+            "es": "Playa de arena Dunes, de 1 km",
+            "pt": "Praia de areia Dunes, com 1 km"
           }
         },
         {
           "icon": "🎾",
           "label": {
             "en": "Sports",
-            "fr": "Sports"
+            "fr": "Sports",
+            "it": "Sport",
+            "de": "Sport",
+            "es": "Deportes",
+            "pt": "Desportos"
           },
           "value": {
             "en": "Tennis, football and cycling camps",
-            "fr": "Stages tennis, football et vélo"
+            "fr": "Stages tennis, football et vélo",
+            "it": "Campus di tennis, calcio e ciclismo",
+            "de": "Tennis-, Fußball- und Radcamps",
+            "es": "Campamentos de tenis, fútbol y ciclismo",
+            "pt": "Campos de ténis, futebol e ciclismo"
           }
         }
       ],
@@ -146,31 +266,55 @@
         {
           "q": {
             "en": "How young can the kids club take children?",
-            "fr": "À partir de quel âge le club accueille-t-il les enfants?"
+            "fr": "À partir de quel âge le club accueille-t-il les enfants?",
+            "it": "Da che età il club per bambini accoglie i piccoli?",
+            "de": "Ab welchem Alter nimmt der Kinderclub Kinder auf?",
+            "es": "¿Desde qué edad admite niños el club infantil?",
+            "pt": "A partir de que idade o clube infantil aceita crianças?"
           },
           "a": {
             "en": "The resort has supervised care for babies and toddlers alongside the SandCastle hub for older children, so even families with little ones get real time off.",
-            "fr": "Le domaine propose une garderie encadrée pour bébés et tout-petits, en plus du pôle SandCastle pour les plus grands, si bien que même les familles avec de jeunes enfants profitent de vrais moments à eux."
+            "fr": "Le domaine propose une garderie encadrée pour bébés et tout-petits, en plus du pôle SandCastle pour les plus grands, si bien que même les familles avec de jeunes enfants profitent de vrais moments à eux.",
+            "it": "Il resort dispone di assistenza qualificata per neonati e bambini piccoli, oltre al polo SandCastle per i più grandi, così anche le famiglie con i più piccoli hanno del vero tempo libero.",
+            "de": "Das Resort bietet betreute Betreuung für Babys und Kleinkinder neben dem SandCastle-Treff für ältere Kinder, sodass selbst Familien mit den Kleinsten echte freie Zeit bekommen.",
+            "es": "El resort cuenta con cuidado supervisado para bebés y niños pequeños junto al centro SandCastle para los mayores, así que incluso las familias con los más pequeños disfrutan de tiempo libre de verdad.",
+            "pt": "O resort tem acompanhamento supervisionado para bebés e crianças pequenas, além do polo SandCastle para os mais velhos, por isso mesmo as famílias com os mais pequenos têm tempo livre a sério."
           }
         },
         {
           "q": {
             "en": "Is the beach safe for toddlers?",
-            "fr": "La plage est-elle sûre pour les tout-petits?"
+            "fr": "La plage est-elle sûre pour les tout-petits?",
+            "it": "La spiaggia è sicura per i bambini piccoli?",
+            "de": "Ist der Strand sicher für Kleinkinder?",
+            "es": "¿Es segura la playa para los más pequeños?",
+            "pt": "A praia é segura para os mais pequenos?"
           },
           "a": {
             "en": "Dunes Beach is long, sandy and gently shelving, but it faces the open Ionian, so the sea can pick up on windy afternoons. Check conditions and keep little ones in the shallows.",
-            "fr": "La plage des Dunes est longue, sablonneuse et en pente douce, mais elle fait face à la mer Ionienne ouverte, la houle peut donc se lever les après-midis venteux. Vérifiez les conditions et gardez les petits dans le bassin peu profond."
+            "fr": "La plage des Dunes est longue, sablonneuse et en pente douce, mais elle fait face à la mer Ionienne ouverte, la houle peut donc se lever les après-midis venteux. Vérifiez les conditions et gardez les petits dans le bassin peu profond.",
+            "it": "Dunes Beach è lunga, sabbiosa e con un fondale in lieve pendenza, ma è esposta al mar Ionio aperto, quindi il mare può alzarsi nei pomeriggi ventosi. Controllate le condizioni e tenete i piccoli sulla riva.",
+            "de": "Dunes Beach ist lang, sandig und flach abfallend, liegt aber zum offenen Ionischen Meer, sodass die See an windigen Nachmittagen auffrischen kann. Prüfen Sie die Bedingungen und halten Sie die Kleinen im flachen Wasser.",
+            "es": "Dunes Beach es larga, de arena y con pendiente suave, pero da al mar Jónico abierto, así que el mar puede levantarse en las tardes de viento. Comprobad las condiciones y mantened a los pequeños en la orilla.",
+            "pt": "A Dunes Beach é longa, de areia e com declive suave, mas fica virada para o mar Jónico aberto, por isso o mar pode agitar-se nas tardes de vento. Verifiquem as condições e mantenham os pequenos na zona pouco profunda."
           }
         },
         {
           "q": {
             "en": "Which Costa Navarino hotel is best for young families?",
-            "fr": "Quel hôtel de Costa Navarino est le meilleur pour les jeunes familles?"
+            "fr": "Quel hôtel de Costa Navarino est le meilleur pour les jeunes familles?",
+            "it": "Quale hotel di Costa Navarino è il migliore per le famiglie con bambini piccoli?",
+            "de": "Welches Hotel in Costa Navarino ist am besten für junge Familien?",
+            "es": "¿Qué hotel de Costa Navarino es el mejor para familias con niños pequeños?",
+            "pt": "Qual hotel de Costa Navarino é o melhor para famílias com crianças pequenas?"
           },
           "a": {
             "en": "The Westin is the most complete for mixed ages thanks to the Aqua Park and broad kids programme, while The Romanos next door leans a touch calmer and more polished.",
-            "fr": "Le Westin est le plus complet pour les âges mélangés grâce à l'Aqua Park et au large programme enfants, tandis que Le Romanos, juste à côté, penche vers un peu plus de calme et de raffinement."
+            "fr": "Le Westin est le plus complet pour les âges mélangés grâce à l'Aqua Park et au large programme enfants, tandis que Le Romanos, juste à côté, penche vers un peu plus de calme et de raffinement.",
+            "it": "Il Westin è il più completo per età miste grazie all'Aqua Park e all'ampio programma per bambini, mentre The Romanos accanto tende a essere un po' più tranquillo e raffinato.",
+            "de": "Das Westin ist dank Aqua Park und breitem Kinderprogramm am vollständigsten für gemischte Altersgruppen, während The Romanos nebenan eine Spur ruhiger und gepflegter ist.",
+            "es": "El Westin es el más completo para edades mixtas gracias al Aqua Park y su amplio programa infantil, mientras que The Romanos, al lado, tiende a ser algo más tranquilo y pulido.",
+            "pt": "O Westin é o mais completo para idades mistas graças ao Aqua Park e ao amplo programa infantil, enquanto o The Romanos, ao lado, é um pouco mais calmo e requintado."
           }
         }
       ]
@@ -181,7 +325,11 @@
       "name": "The Romanos, a Luxury Collection Resort, Costa Navarino",
       "area": {
         "en": "Navarino Dunes (Romanos)",
-        "fr": "Navarino Dunes (Romanos)"
+        "fr": "Navarino Dunes (Romanos)",
+        "it": "Navarino Dunes (Romanos)",
+        "de": "Navarino Dunes (Romanos)",
+        "es": "Navarino Dunes (Romanos)",
+        "pt": "Navarino Dunes (Romanos)"
       },
       "lat": 36.9848,
       "lng": 21.6702,
@@ -217,11 +365,19 @@
       },
       "roomsSummary": {
         "en": "The most polished rooms in the Dunes, with infinity-view suites and family options that sleep four to five. Many ground-floor rooms have private or shared pools you step straight into, ideal for toddlers, and cots, bottle warmers and baby kit come on request. Interconnecting family suites give teens their own door while keeping everyone together.",
-        "fr": "Les chambres les plus soignées des Dunes, avec suites à vue infinie et formules familiales pour quatre à cinq personnes. Beaucoup de chambres au rez-de-chaussée ont une piscine privée ou partagée où l'on entre de plain-pied, idéale pour les tout-petits, et lit bébé, chauffe-biberon et matériel bébé sont fournis sur demande. Les suites familiales communicantes offrent aux ados leur propre porte tout en gardant la famille réunie."
+        "fr": "Les chambres les plus soignées des Dunes, avec suites à vue infinie et formules familiales pour quatre à cinq personnes. Beaucoup de chambres au rez-de-chaussée ont une piscine privée ou partagée où l'on entre de plain-pied, idéale pour les tout-petits, et lit bébé, chauffe-biberon et matériel bébé sont fournis sur demande. Les suites familiales communicantes offrent aux ados leur propre porte tout en gardant la famille réunie.",
+        "it": "Le camere più raffinate delle Dunes, con suite con vista infinity e soluzioni familiari per quattro o cinque persone. Molte camere al piano terra hanno piscine private o condivise in cui si entra di slancio, ideali per i più piccoli, e culle, scaldabiberon e kit per neonati arrivano su richiesta. Le suite familiari comunicanti danno agli adolescenti la loro porta, tenendo tutti insieme.",
+        "de": "Die gepflegtesten Zimmer der Dunes, mit Suiten mit Infinity-Blick und Familienoptionen für vier bis fünf Personen. Viele Erdgeschosszimmer haben private oder gemeinschaftliche Pools, in die man direkt einsteigt, ideal für Kleinkinder, und Kinderbetten, Fläschchenwärmer und Baby-Ausstattung gibt es auf Anfrage. Verbundene Familiensuiten geben Teenagern ihre eigene Tür und halten trotzdem alle beisammen.",
+        "es": "Las habitaciones más pulidas de las Dunes, con suites con vistas infinity y opciones familiares para cuatro o cinco personas. Muchas habitaciones en planta baja tienen piscinas privadas o compartidas a las que se accede directamente, ideales para los más pequeños, y cunas, calientabiberones y kit de bebé llegan bajo petición. Las suites familiares comunicadas dan a los adolescentes su propia puerta manteniendo a todos juntos.",
+        "pt": "Os quartos mais requintados das Dunes, com suites com vista infinity e opções familiares para quatro a cinco pessoas. Muitos quartos no rés do chão têm piscinas privadas ou partilhadas às quais se acede diretamente, ideais para os mais pequenos, e berços, aquecedores de biberão e kit de bebé chegam a pedido. As suites familiares comunicantes dão aos adolescentes a sua própria porta, mantendo todos juntos."
       },
       "intro": {
         "en": "The Romanos is the calmer, more refined sibling on the Navarino Dunes, sharing the Aqua Park, sandy beach and youth facilities with the Westin next door but wrapping it in Luxury Collection polish. Its standout for parents is the supervised kids programme that takes children from just a few months old, so even families with a baby get proper downtime by the infinity pool. Add private-pool rooms, standout food and a private stretch of the Ionian, and you have a grown-up-feeling resort that still delights children.",
-        "fr": "Le Romanos est le petit frère plus calme et plus raffiné des Navarino Dunes : il partage l'Aqua Park, la plage de sable et les installations jeunesse avec le Westin voisin, mais y ajoute le soin de la collection Luxury. Son atout pour les parents, c'est le programme enfants encadré qui accueille les petits dès quelques mois, si bien que même les familles avec un bébé profitent de vrais moments de repos au bord de la piscine à débordement. Ajoutez des chambres à piscine privée, une cuisine remarquable et une portion privée de mer Ionienne, et vous obtenez un resort à l'ambiance adulte qui ravit malgré tout les enfants."
+        "fr": "Le Romanos est le petit frère plus calme et plus raffiné des Navarino Dunes : il partage l'Aqua Park, la plage de sable et les installations jeunesse avec le Westin voisin, mais y ajoute le soin de la collection Luxury. Son atout pour les parents, c'est le programme enfants encadré qui accueille les petits dès quelques mois, si bien que même les familles avec un bébé profitent de vrais moments de repos au bord de la piscine à débordement. Ajoutez des chambres à piscine privée, une cuisine remarquable et une portion privée de mer Ionienne, et vous obtenez un resort à l'ambiance adulte qui ravit malgré tout les enfants.",
+        "it": "The Romanos è il fratello più tranquillo e raffinato delle Navarino Dunes: condivide l'Aqua Park, la spiaggia di sabbia e le strutture per giovani con il Westin accanto, ma li avvolge nella cura della Luxury Collection. Il suo punto di forza per i genitori è il programma bambini qualificato che accoglie i piccoli già da pochi mesi, così anche le famiglie con un neonato si godono vero riposo a bordo della piscina infinity. Aggiungete camere con piscina privata, cucina di livello e un tratto privato di mar Ionio, e avrete un resort dall'atmosfera adulta che delizia comunque i bambini.",
+        "de": "The Romanos ist das ruhigere, edlere Geschwister der Navarino Dunes: Es teilt Aqua Park, Sandstrand und Jugendeinrichtungen mit dem Westin nebenan, verpackt sie aber in den Schliff der Luxury Collection. Der Höhepunkt für Eltern ist das betreute Kinderprogramm, das Kinder schon ab wenigen Monaten aufnimmt, sodass selbst Familien mit Baby echte Erholung am Infinity-Pool bekommen. Dazu Zimmer mit privatem Pool, herausragendes Essen und ein privater Abschnitt des Ionischen Meeres, und Sie haben ein Resort mit erwachsener Note, das trotzdem Kinder begeistert.",
+        "es": "The Romanos es el hermano más tranquilo y refinado de las Navarino Dunes: comparte el Aqua Park, la playa de arena y las instalaciones juveniles con el Westin de al lado, pero lo envuelve en el pulido de la Luxury Collection. Su punto fuerte para los padres es el programa infantil supervisado que admite a los pequeños desde solo unos meses, así que hasta las familias con un bebé disfrutan de descanso de verdad junto a la piscina infinity. Añade habitaciones con piscina privada, gastronomía destacada y un tramo privado del mar Jónico, y tienes un resort de ambiente adulto que aun así encanta a los niños.",
+        "pt": "O The Romanos é o irmão mais calmo e requintado das Navarino Dunes: partilha o Aqua Park, a praia de areia e as instalações juvenis com o Westin ao lado, mas envolve tudo no requinte da Luxury Collection. O seu ponto forte para os pais é o programa infantil supervisionado que acolhe os pequenos já a partir de poucos meses, por isso mesmo as famílias com um bebé têm descanso a sério junto à piscina infinity. Acrescente quartos com piscina privada, gastronomia notável e um trecho privado do mar Jónico, e tem um resort de ambiente adulto que na mesma encanta as crianças."
       },
       "highlights": {
         "en": [
@@ -235,6 +391,30 @@
           "Partage l'Aqua Park et les toboggans des Dunes",
           "Chambres à piscine privée ou swim-up pour tout-petits",
           "Plage de sable privée sur l'Ionienne et piscines à débordement"
+        ],
+        "it": [
+          "Programma bambini qualificato già da pochi mesi",
+          "Condivide l'Aqua Park e gli scivoli delle Dunes",
+          "Camere con piscina privata o swim-up per i più piccoli",
+          "Spiaggia di sabbia privata sullo Ionio e piscine infinity"
+        ],
+        "de": [
+          "Betreutes Kinderprogramm schon ab wenigen Monaten",
+          "Teilt den Aqua Park und die Rutschen der Dunes",
+          "Zimmer mit Privat- oder Swim-up-Pool für Kleinkinder",
+          "Privater Sandstrand am Ionischen Meer und Infinity-Pools"
+        ],
+        "es": [
+          "Programa infantil supervisado desde unos pocos meses",
+          "Comparte el Aqua Park y los toboganes de las Dunes",
+          "Habitaciones con piscina privada o swim-up para los pequeños",
+          "Playa de arena privada en el Jónico y piscinas infinity"
+        ],
+        "pt": [
+          "Programa infantil supervisionado já a partir de poucos meses",
+          "Partilha o Aqua Park e os escorregas das Dunes",
+          "Quartos com piscina privada ou swim-up para os pequenos",
+          "Praia de areia privada no Jónico e piscinas infinity"
         ]
       },
       "pros": {
@@ -249,6 +429,30 @@
           "Plus calme et plus soigné que son voisin",
           "Restauration superbe dans tout le resort",
           "Mêmes toboggans phares et même plage juste devant"
+        ],
+        "it": [
+          "Assistenza neonati che comincia davvero presto",
+          "Più tranquillo e curato del vicino",
+          "Cucina superba in tutto il resort",
+          "Stessi scivoli di punta e stessa spiaggia sull'uscio"
+        ],
+        "de": [
+          "Babybetreuung, die wirklich früh beginnt",
+          "Ruhiger und gepflegter als der Nachbar",
+          "Hervorragende Küche im ganzen Resort",
+          "Dieselben Top-Rutschen und derselbe Strand vor der Tür"
+        ],
+        "es": [
+          "Cuidado de bebés que empieza de verdad pronto",
+          "Más tranquilo y pulido que su vecino",
+          "Gastronomía magnífica en todo el resort",
+          "Los mismos toboganes estrella y la misma playa en la puerta"
+        ],
+        "pt": [
+          "Cuidado de bebés que começa mesmo cedo",
+          "Mais calmo e cuidado do que o vizinho",
+          "Gastronomia soberba em todo o resort",
+          "Os mesmos escorregas de eleição e a mesma praia à porta"
         ]
       },
       "cons": {
@@ -261,59 +465,119 @@
           "Parmi les séjours les plus chers de la région",
           "Grand domaine, donc navettes et marche",
           "La plage de l'Ionienne peut avoir de la houle les jours de vent"
+        ],
+        "it": [
+          "Tra i soggiorni più cari della regione",
+          "Tenuta ampia, quindi navette e camminate",
+          "La spiaggia sullo Ionio può avere onde nei giorni ventosi"
+        ],
+        "de": [
+          "Zu den teuersten Aufenthalten der Region",
+          "Großes Anwesen bedeutet Shuttles und Laufen",
+          "Der Ionische Strand kann an windigen Tagen lebhaften Wellengang bekommen"
+        ],
+        "es": [
+          "Entre las estancias más caras de la región",
+          "Finca grande, lo que implica lanzaderas y caminar",
+          "La playa del Jónico puede tener oleaje animado en días de viento"
+        ],
+        "pt": [
+          "Entre as estadias mais caras da região",
+          "Propriedade grande significa transferes e caminhadas",
+          "A praia do Jónico pode ter ondulação animada em dias de vento"
         ]
       },
       "verdict": {
         "en": "The pick for families with a baby or younger toddler who still want the full Costa Navarino playground: early-years care, private-pool rooms and Luxury Collection calm, all sharing the slides next door.",
-        "fr": "Le choix des familles avec un bébé ou un jeune tout-petit qui veulent quand même tout le terrain de jeu de Costa Navarino : garderie petite enfance, chambres à piscine privée et calme de la collection Luxury, avec les toboggans partagés juste à côté."
+        "fr": "Le choix des familles avec un bébé ou un jeune tout-petit qui veulent quand même tout le terrain de jeu de Costa Navarino : garderie petite enfance, chambres à piscine privée et calme de la collection Luxury, avec les toboggans partagés juste à côté.",
+        "it": "La scelta per le famiglie con un neonato o un bimbo piccolo che vogliono comunque tutto il parco giochi di Costa Navarino: assistenza per la prima infanzia, camere con piscina privata e la calma della Luxury Collection, con gli scivoli condivisi proprio accanto.",
+        "de": "Die Wahl für Familien mit Baby oder jüngerem Kleinkind, die trotzdem den vollen Spielplatz von Costa Navarino wollen: Betreuung für die ganz Kleinen, Zimmer mit privatem Pool und die Ruhe der Luxury Collection, mit den Rutschen gleich nebenan.",
+        "es": "La elección para familias con un bebé o un niño pequeño que aun así quieren todo el parque de juegos de Costa Navarino: cuidado para la primera infancia, habitaciones con piscina privada y la calma de la Luxury Collection, con los toboganes compartidos justo al lado.",
+        "pt": "A escolha para famílias com um bebé ou uma criança pequena que na mesma querem todo o parque de diversões de Costa Navarino: cuidado para a primeira infância, quartos com piscina privada e a calma da Luxury Collection, com os escorregas partilhados mesmo ao lado."
       },
       "parentTip": {
         "en": "Ask for a garden or ground-floor room with a shared pool: toddlers can paddle two steps from the door while you keep a coffee in hand.",
-        "fr": "Demandez une chambre jardin ou rez-de-chaussée avec piscine partagée : les tout-petits barbotent à deux pas de la porte pendant que vous gardez le café à la main."
+        "fr": "Demandez une chambre jardin ou rez-de-chaussée avec piscine partagée : les tout-petits barbotent à deux pas de la porte pendant que vous gardez le café à la main.",
+        "it": "Chiedete una camera con giardino o al piano terra con piscina condivisa: i più piccoli sguazzano a due passi dalla porta mentre voi tenete il caffè in mano.",
+        "de": "Fragen Sie nach einem Garten- oder Erdgeschosszimmer mit gemeinschaftlichem Pool: Kleinkinder planschen zwei Schritte von der Tür entfernt, während Sie den Kaffee in der Hand halten.",
+        "es": "Pedid una habitación con jardín o en planta baja con piscina compartida: los pequeños chapotean a dos pasos de la puerta mientras vosotros sujetáis el café.",
+        "pt": "Peçam um quarto com jardim ou no rés do chão com piscina partilhada: os pequenos chapinham a dois passos da porta enquanto vocês seguram o café."
       },
       "atAGlance": [
         {
           "icon": "👶",
           "label": {
             "en": "Baby care",
-            "fr": "Garderie bébé"
+            "fr": "Garderie bébé",
+            "it": "Assistenza neonati",
+            "de": "Babybetreuung",
+            "es": "Cuidado de bebés",
+            "pt": "Cuidado de bebés"
           },
           "value": {
             "en": "Supervised from a few months old",
-            "fr": "Encadrée dès quelques mois"
+            "fr": "Encadrée dès quelques mois",
+            "it": "Qualificata già da pochi mesi",
+            "de": "Betreut schon ab wenigen Monaten",
+            "es": "Supervisado desde unos pocos meses",
+            "pt": "Supervisionado já a partir de poucos meses"
           }
         },
         {
           "icon": "🛝",
           "label": {
             "en": "Water park",
-            "fr": "Parc aquatique"
+            "fr": "Parc aquatique",
+            "it": "Parco acquatico",
+            "de": "Wasserpark",
+            "es": "Parque acuático",
+            "pt": "Parque aquático"
           },
           "value": {
             "en": "Shared Aqua Park with slides",
-            "fr": "Aqua Park partagé avec toboggans"
+            "fr": "Aqua Park partagé avec toboggans",
+            "it": "Aqua Park condiviso con scivoli",
+            "de": "Gemeinsamer Aqua Park mit Rutschen",
+            "es": "Aqua Park compartido con toboganes",
+            "pt": "Aqua Park partilhado com escorregas"
           }
         },
         {
           "icon": "🏊",
           "label": {
             "en": "Pools",
-            "fr": "Piscines"
+            "fr": "Piscines",
+            "it": "Piscine",
+            "de": "Pools",
+            "es": "Piscinas",
+            "pt": "Piscinas"
           },
           "value": {
             "en": "Private and swim-up pool rooms",
-            "fr": "Chambres à piscine privée et swim-up"
+            "fr": "Chambres à piscine privée et swim-up",
+            "it": "Camere con piscina privata e swim-up",
+            "de": "Zimmer mit Privat- und Swim-up-Pool",
+            "es": "Habitaciones con piscina privada y swim-up",
+            "pt": "Quartos com piscina privada e swim-up"
           }
         },
         {
           "icon": "🏖️",
           "label": {
             "en": "Beach",
-            "fr": "Plage"
+            "fr": "Plage",
+            "it": "Spiaggia",
+            "de": "Strand",
+            "es": "Playa",
+            "pt": "Praia"
           },
           "value": {
             "en": "Private sandy Ionian stretch",
-            "fr": "Portion de sable privée sur l'Ionienne"
+            "fr": "Portion de sable privée sur l'Ionienne",
+            "it": "Tratto di sabbia privato sullo Ionio",
+            "de": "Privater Sandabschnitt am Ionischen Meer",
+            "es": "Tramo de arena privado en el Jónico",
+            "pt": "Trecho de areia privado no Jónico"
           }
         }
       ],
@@ -321,31 +585,55 @@
         {
           "q": {
             "en": "Can the kids club really take a baby?",
-            "fr": "Le club peut-il vraiment accueillir un bébé?"
+            "fr": "Le club peut-il vraiment accueillir un bébé?",
+            "it": "Il club per bambini può davvero accogliere un neonato?",
+            "de": "Kann der Kinderclub wirklich ein Baby aufnehmen?",
+            "es": "¿El club infantil puede admitir de verdad a un bebé?",
+            "pt": "O clube infantil pode mesmo acolher um bebé?"
           },
           "a": {
             "en": "Yes, the supervised programme here takes children from a few months old, which is unusually young and a big draw for parents of babies.",
-            "fr": "Oui, le programme encadré accueille ici les enfants dès quelques mois, un âge inhabituellement bas et un vrai argument pour les parents de bébés."
+            "fr": "Oui, le programme encadré accueille ici les enfants dès quelques mois, un âge inhabituellement bas et un vrai argument pour les parents de bébés.",
+            "it": "Sì, il programma qualificato qui accoglie i bambini già da pochi mesi, un'età insolitamente bassa e un grande richiamo per i genitori di neonati.",
+            "de": "Ja, das betreute Programm hier nimmt Kinder schon ab wenigen Monaten auf, ein ungewöhnlich junges Alter und ein großer Anreiz für Eltern von Babys.",
+            "es": "Sí, el programa supervisado admite aquí a los niños desde unos pocos meses, una edad inusualmente baja y un gran reclamo para los padres de bebés.",
+            "pt": "Sim, o programa supervisionado acolhe aqui as crianças já a partir de poucos meses, uma idade invulgarmente baixa e um grande atrativo para os pais de bebés."
           }
         },
         {
           "q": {
             "en": "What is the difference from the Westin next door?",
-            "fr": "Quelle différence avec le Westin voisin?"
+            "fr": "Quelle différence avec le Westin voisin?",
+            "it": "Qual è la differenza con il Westin accanto?",
+            "de": "Was ist der Unterschied zum Westin nebenan?",
+            "es": "¿Cuál es la diferencia con el Westin de al lado?",
+            "pt": "Qual é a diferença em relação ao Westin ao lado?"
           },
           "a": {
             "en": "They share the Aqua Park, beach and youth facilities on the Dunes. The Romanos is calmer, more design-led and stronger on early-years care and private-pool rooms; the Westin is the busier all-rounder.",
-            "fr": "Ils partagent l'Aqua Park, la plage et les installations jeunesse des Dunes. Le Romanos est plus calme, plus design et plus fort sur la petite enfance et les chambres à piscine privée ; le Westin est le plus animé et polyvalent."
+            "fr": "Ils partagent l'Aqua Park, la plage et les installations jeunesse des Dunes. Le Romanos est plus calme, plus design et plus fort sur la petite enfance et les chambres à piscine privée ; le Westin est le plus animé et polyvalent.",
+            "it": "Condividono l'Aqua Park, la spiaggia e le strutture per giovani delle Dunes. The Romanos è più tranquillo, più orientato al design e più forte sull'assistenza alla prima infanzia e sulle camere con piscina privata; il Westin è il più vivace e completo.",
+            "de": "Sie teilen Aqua Park, Strand und Jugendeinrichtungen der Dunes. The Romanos ist ruhiger, designorientierter und stärker bei der Betreuung der ganz Kleinen und den Zimmern mit privatem Pool; das Westin ist der belebtere Allrounder.",
+            "es": "Comparten el Aqua Park, la playa y las instalaciones juveniles de las Dunes. The Romanos es más tranquilo, más orientado al diseño y más fuerte en el cuidado de la primera infancia y las habitaciones con piscina privada; el Westin es el todoterreno más animado.",
+            "pt": "Partilham o Aqua Park, a praia e as instalações juvenis das Dunes. O The Romanos é mais calmo, mais orientado ao design e mais forte no cuidado da primeira infância e nos quartos com piscina privada; o Westin é o mais animado e versátil."
           }
         },
         {
           "q": {
             "en": "Do family suites have space for a cot?",
-            "fr": "Les suites familiales ont-elles la place pour un lit bébé?"
+            "fr": "Les suites familiales ont-elles la place pour un lit bébé?",
+            "it": "Le suite familiari hanno spazio per una culla?",
+            "de": "Haben die Familiensuiten Platz für ein Kinderbett?",
+            "es": "¿Las suites familiares tienen sitio para una cuna?",
+            "pt": "As suites familiares têm espaço para um berço?"
           },
           "a": {
             "en": "Yes, family suites and interconnecting rooms are generous and cots, bottle warmers and other baby kit come on request.",
-            "fr": "Oui, les suites familiales et les chambres communicantes sont spacieuses, et lit bébé, chauffe-biberon et autre matériel arrivent sur demande."
+            "fr": "Oui, les suites familiales et les chambres communicantes sont spacieuses, et lit bébé, chauffe-biberon et autre matériel arrivent sur demande.",
+            "it": "Sì, le suite familiari e le camere comunicanti sono generose e culle, scaldabiberon e altro kit per neonati arrivano su richiesta.",
+            "de": "Ja, die Familiensuiten und Verbindungszimmer sind großzügig und Kinderbetten, Fläschchenwärmer und weitere Baby-Ausstattung gibt es auf Anfrage.",
+            "es": "Sí, las suites familiares y las habitaciones comunicadas son amplias y las cunas, calientabiberones y demás kit de bebé llegan bajo petición.",
+            "pt": "Sim, as suites familiares e os quartos comunicantes são generosos e os berços, aquecedores de biberão e restante kit de bebé chegam a pedido."
           }
         }
       ]
@@ -356,7 +644,11 @@
       "name": "Mandarin Oriental, Costa Navarino",
       "area": {
         "en": "Navarino Bay (Pylos)",
-        "fr": "Navarino Bay (Pylos)"
+        "fr": "Navarino Bay (Pylos)",
+        "it": "Navarino Bay (Pylos)",
+        "de": "Navarino Bay (Pylos)",
+        "es": "Navarino Bay (Pylos)",
+        "pt": "Navarino Bay (Pylos)"
       },
       "lat": 36.9436,
       "lng": 21.6875,
@@ -391,11 +683,19 @@
       },
       "roomsSummary": {
         "en": "The most spacious and private accommodation on the estate: suites with pools plus three to five-bedroom villas of 139 to over 1,000 square metres, built for extended families and multi-generation stays. Villas come with kitchens or kitchenettes and gated private pools, a reassuring setup with toddlers, and cots and baby amenities are provided on request.",
-        "fr": "L'hébergement le plus spacieux et le plus intime du domaine : suites avec piscine et villas de trois à cinq chambres, de 139 à plus de 1 000 mètres carrés, pensées pour les familles nombreuses et les séjours multigénérationnels. Les villas disposent d'une cuisine ou kitchenette et d'une piscine privée close, un dispositif rassurant avec des tout-petits, et lit bébé et équipements bébé sont fournis sur demande."
+        "fr": "L'hébergement le plus spacieux et le plus intime du domaine : suites avec piscine et villas de trois à cinq chambres, de 139 à plus de 1 000 mètres carrés, pensées pour les familles nombreuses et les séjours multigénérationnels. Les villas disposent d'une cuisine ou kitchenette et d'une piscine privée close, un dispositif rassurant avec des tout-petits, et lit bébé et équipements bébé sont fournis sur demande.",
+        "it": "L'alloggio più spazioso e riservato della tenuta: suite con piscina più ville da tre a cinque camere, da 139 a oltre 1.000 metri quadrati, costruite per famiglie allargate e soggiorni multigenerazionali. Le ville dispongono di cucina o angolo cottura e piscine private recintate, una soluzione rassicurante con i più piccoli, e culle e dotazioni per neonati sono fornite su richiesta.",
+        "de": "Die geräumigste und privateste Unterkunft des Anwesens: Suiten mit Pool sowie Villen mit drei bis fünf Schlafzimmern von 139 bis über 1.000 Quadratmetern, gebaut für Großfamilien und Aufenthalte über mehrere Generationen. Die Villen haben Küchen oder Küchenzeilen und umzäunte Privatpools, eine beruhigende Ausstattung mit Kleinkindern, und Kinderbetten sowie Baby-Ausstattung werden auf Anfrage gestellt.",
+        "es": "El alojamiento más espacioso y privado de la finca: suites con piscina más villas de tres a cinco dormitorios, de 139 a más de 1.000 metros cuadrados, construidas para familias numerosas y estancias multigeneracionales. Las villas cuentan con cocina o cocina americana y piscinas privadas valladas, una disposición tranquilizadora con los pequeños, y las cunas y artículos de bebé se facilitan bajo petición.",
+        "pt": "O alojamento mais espaçoso e reservado da propriedade: suites com piscina e villas de três a cinco quartos, de 139 a mais de 1.000 metros quadrados, construídas para famílias numerosas e estadias multigeracionais. As villas dispõem de cozinha ou kitchenette e piscinas privadas vedadas, uma solução tranquilizadora com os mais pequenos, e berços e artigos de bebé são fornecidos a pedido."
       },
       "intro": {
         "en": "Set on the quieter Navarino Bay, a few minutes from the Dunes, the Mandarin Oriental is the estate's grown-up, villa-led choice, all low-rise stone and wood terraces stepping down to a calm private beach. It is not a splash-and-slides waterpark resort, it is a serene, spacious base with a Coral & Friends kids club for four to twelves and villas roomy enough that grandparents, parents and kids each get their own corner. Families wanting space, privacy and calm over crowds and slides book here.",
-        "fr": "Posé sur la baie de Navarino plus tranquille, à quelques minutes des Dunes, le Mandarin Oriental est le choix adulte et orienté villas du domaine, tout en terrasses basses de pierre et de bois qui descendent vers une plage privée paisible. Ce n'est pas un resort à toboggans et éclaboussures, c'est une base sereine et spacieuse, avec un club enfants Coral & Friends pour les quatre à douze ans et des villas assez grandes pour que grands-parents, parents et enfants aient chacun leur coin. Les familles qui privilégient l'espace, l'intimité et le calme plutôt que la foule et les toboggans réservent ici."
+        "fr": "Posé sur la baie de Navarino plus tranquille, à quelques minutes des Dunes, le Mandarin Oriental est le choix adulte et orienté villas du domaine, tout en terrasses basses de pierre et de bois qui descendent vers une plage privée paisible. Ce n'est pas un resort à toboggans et éclaboussures, c'est une base sereine et spacieuse, avec un club enfants Coral & Friends pour les quatre à douze ans et des villas assez grandes pour que grands-parents, parents et enfants aient chacun leur coin. Les familles qui privilégient l'espace, l'intimité et le calme plutôt que la foule et les toboggans réservent ici.",
+        "it": "Affacciato sulla più tranquilla Navarino Bay, a pochi minuti dalle Dunes, il Mandarin Oriental è la scelta adulta e orientata alle ville della tenuta, tutta terrazze basse di pietra e legno che scendono verso una spiaggia privata calma. Non è un resort da parco acquatico con scivoli ed eclaboussure: è una base serena e spaziosa, con un club per bambini Coral & Friends per i quattro-dodici anni e ville abbastanza grandi da dare a nonni, genitori e figli ciascuno il proprio angolo. Le famiglie che vogliono spazio, riservatezza e calma anziché folla e scivoli prenotano qui.",
+        "de": "An der ruhigeren Navarino Bay gelegen, wenige Minuten von den Dunes entfernt, ist das Mandarin Oriental die erwachsene, villenorientierte Wahl des Anwesens, ganz aus niedrigen Stein- und Holzterrassen, die zu einem ruhigen Privatstrand hinabführen. Es ist kein Wasserpark-Resort mit Rutschen, sondern eine gelassene, geräumige Basis mit einem Coral-&-Friends-Kinderclub für Vier- bis Zwölfjährige und Villen, die groß genug sind, dass Großeltern, Eltern und Kinder jeweils ihre eigene Ecke bekommen. Familien, die Platz, Privatsphäre und Ruhe statt Trubel und Rutschen wollen, buchen hier.",
+        "es": "Situado en la más tranquila Navarino Bay, a pocos minutos de las Dunes, el Mandarin Oriental es la opción adulta y orientada a las villas de la finca, todo terrazas bajas de piedra y madera que descienden hacia una playa privada en calma. No es un resort de parque acuático con toboganes y chapoteos: es una base serena y espaciosa, con un club infantil Coral & Friends para los cuatro-doce años y villas lo bastante amplias para que abuelos, padres e hijos tengan cada uno su rincón. Las familias que quieren espacio, privacidad y calma antes que multitud y toboganes reservan aquí.",
+        "pt": "Situado na mais tranquila Navarino Bay, a poucos minutos das Dunes, o Mandarin Oriental é a opção adulta e orientada às villas da propriedade, tudo em terraços baixos de pedra e madeira que descem para uma praia privada calma. Não é um resort de parque aquático com escorregas e chapinhices: é uma base serena e espaçosa, com um clube infantil Coral & Friends para os quatro-doze anos e villas grandes o suficiente para que avós, pais e filhos tenham cada um o seu canto. As famílias que querem espaço, privacidade e calma em vez de multidão e escorregas reservam aqui."
       },
       "highlights": {
         "en": [
@@ -409,6 +709,30 @@
           "Villas de trois à cinq chambres avec piscine privée",
           "Plage privée paisible sur la baie de Navarino abritée",
           "Cuisines dans les villas pour les repas bébé et tout-petit faciles"
+        ],
+        "it": [
+          "Club per bambini Coral & Friends per i 4-12 anni",
+          "Ville da tre a cinque camere con piscine private",
+          "Spiaggia privata calma sulla riparata Navarino Bay",
+          "Cucine nelle ville per pasti facili per neonati e bimbi"
+        ],
+        "de": [
+          "Coral-&-Friends-Kinderclub für 4 bis 12 Jahre",
+          "Villen mit drei bis fünf Schlafzimmern und privaten Pools",
+          "Ruhiger Privatstrand an der geschützten Navarino Bay",
+          "Küchen in den Villen für einfache Baby- und Kleinkindmahlzeiten"
+        ],
+        "es": [
+          "Club infantil Coral & Friends para edades de 4 a 12",
+          "Villas de tres a cinco dormitorios con piscinas privadas",
+          "Playa privada en calma en la resguardada Navarino Bay",
+          "Cocinas en las villas para comidas fáciles de bebés y pequeños"
+        ],
+        "pt": [
+          "Clube infantil Coral & Friends para idades de 4 a 12",
+          "Villas de três a cinco quartos com piscinas privadas",
+          "Praia privada calma na abrigada Navarino Bay",
+          "Cozinhas nas villas para refeições fáceis de bebés e pequenos"
         ]
       },
       "pros": {
@@ -423,6 +747,30 @@
           "Plus calme et plus intime que les resorts des Dunes",
           "Piscines privées closes, rassurantes avec des tout-petits",
           "Design superbe et restauration remarquable"
+        ],
+        "it": [
+          "Ville enormi, ideali per viaggi multigenerazionali",
+          "Più calmo e riservato dei resort delle Dunes",
+          "Piscine private recintate, rassicuranti con i più piccoli",
+          "Design splendido e cucina di primo piano"
+        ],
+        "de": [
+          "Riesige Villen, ideal für Reisen über mehrere Generationen",
+          "Ruhiger und privater als die Dunes-Resorts",
+          "Umzäunte Privatpools, beruhigend mit Kleinkindern",
+          "Wunderschönes Design und herausragende Küche"
+        ],
+        "es": [
+          "Villas enormes, ideales para viajes multigeneracionales",
+          "Más tranquilo y privado que los resorts de las Dunes",
+          "Piscinas privadas valladas, tranquilizadoras con los pequeños",
+          "Diseño precioso y gastronomía destacada"
+        ],
+        "pt": [
+          "Villas enormes, ideais para viagens multigeracionais",
+          "Mais calmo e reservado do que os resorts das Dunes",
+          "Piscinas privadas vedadas, tranquilizadoras com os pequenos",
+          "Design deslumbrante e gastronomia de primeira"
         ]
       },
       "cons": {
@@ -437,59 +785,123 @@
           "Pas de grand parc aquatique, les fans de toboggans restent sur leur faim",
           "Ouverture saisonnière, fermé en hiver",
           "Plan étendu, donc un peu de marche"
+        ],
+        "it": [
+          "La base più cara della zona",
+          "Nessun grande parco acquatico, quindi gli amanti degli scivoli restano a bocca asciutta",
+          "Apertura stagionale, chiuso in inverno",
+          "Disposizione estesa, quindi un po' di cammino"
+        ],
+        "de": [
+          "Die teuerste Basis der Gegend",
+          "Kein großer Wasserpark, Rutschenfans gehen leer aus",
+          "Saisonale Öffnung, im Winter geschlossen",
+          "Weitläufige Anlage, also etwas Laufen"
+        ],
+        "es": [
+          "La base más cara de la zona",
+          "Sin gran parque acuático, así que los fans de los toboganes se quedan sin",
+          "Apertura de temporada, cerrado en invierno",
+          "Distribución muy repartida, así que algo de caminar"
+        ],
+        "pt": [
+          "A base mais cara da zona",
+          "Sem grande parque aquático, por isso os fãs de escorregas ficam a ver navios",
+          "Abertura sazonal, fechado no inverno",
+          "Disposição extensa, por isso alguma caminhada"
         ]
       },
       "verdict": {
         "en": "The choice for families who want space, privacy and calm: a villa with its own pool, a gentle kids club and a sheltered bay, rather than the buzz and slides of the Dunes.",
-        "fr": "Le choix des familles qui veulent espace, intimité et calme : une villa avec sa propre piscine, un club enfants tout en douceur et une baie abritée, plutôt que l'effervescence et les toboggans des Dunes."
+        "fr": "Le choix des familles qui veulent espace, intimité et calme : une villa avec sa propre piscine, un club enfants tout en douceur et une baie abritée, plutôt que l'effervescence et les toboggans des Dunes.",
+        "it": "La scelta per le famiglie che vogliono spazio, riservatezza e calma: una villa con piscina propria, un club per bambini soft e una baia riparata, anziché il fermento e gli scivoli delle Dunes.",
+        "de": "Die Wahl für Familien, die Platz, Privatsphäre und Ruhe wollen: eine Villa mit eigenem Pool, ein sanfter Kinderclub und eine geschützte Bucht statt des Trubels und der Rutschen der Dunes.",
+        "es": "La elección para familias que quieren espacio, privacidad y calma: una villa con piscina propia, un club infantil suave y una bahía resguardada, en lugar del bullicio y los toboganes de las Dunes.",
+        "pt": "A escolha para famílias que querem espaço, privacidade e calma: uma villa com piscina própria, um clube infantil tranquilo e uma baía abrigada, em vez do burburinho e dos escorregas das Dunes."
       },
       "parentTip": {
         "en": "A villa with a gated private pool is worth the splurge with a toddler: naptime, snacks and a swim all happen without leaving your own terrace.",
-        "fr": "Une villa avec piscine privée close vaut la dépense avec un tout-petit : sieste, goûter et baignade se passent tous sans quitter votre terrasse."
+        "fr": "Une villa avec piscine privée close vaut la dépense avec un tout-petit : sieste, goûter et baignade se passent tous sans quitter votre terrasse.",
+        "it": "Una villa con piscina privata recintata vale la spesa con un bimbo piccolo: pisolino, merenda e nuotata avvengono tutti senza lasciare la vostra terrazza.",
+        "de": "Eine Villa mit umzäuntem Privatpool ist mit einem Kleinkind den Aufpreis wert: Mittagsschlaf, Snacks und Schwimmen finden alle statt, ohne die eigene Terrasse zu verlassen.",
+        "es": "Una villa con piscina privada vallada merece el gasto con un niño pequeño: la siesta, los tentempiés y el baño ocurren todos sin salir de vuestra terraza.",
+        "pt": "Uma villa com piscina privada vedada vale o gasto com uma criança pequena: a sesta, os lanches e o mergulho acontecem todos sem sair do vosso terraço."
       },
       "atAGlance": [
         {
           "icon": "🏡",
           "label": {
             "en": "Villas",
-            "fr": "Villas"
+            "fr": "Villas",
+            "it": "Ville",
+            "de": "Villen",
+            "es": "Villas",
+            "pt": "Villas"
           },
           "value": {
             "en": "3 to 5 bedrooms, private pools",
-            "fr": "3 à 5 chambres, piscines privées"
+            "fr": "3 à 5 chambres, piscines privées",
+            "it": "Da 3 a 5 camere, piscine private",
+            "de": "3 bis 5 Schlafzimmer, private Pools",
+            "es": "De 3 a 5 dormitorios, piscinas privadas",
+            "pt": "De 3 a 5 quartos, piscinas privadas"
           }
         },
         {
           "icon": "🧒",
           "label": {
             "en": "Kids club",
-            "fr": "Club enfants"
+            "fr": "Club enfants",
+            "it": "Club per bambini",
+            "de": "Kinderclub",
+            "es": "Club infantil",
+            "pt": "Clube infantil"
           },
           "value": {
             "en": "Coral & Friends, ages 4 to 12",
-            "fr": "Coral & Friends, 4 à 12 ans"
+            "fr": "Coral & Friends, 4 à 12 ans",
+            "it": "Coral & Friends, 4-12 anni",
+            "de": "Coral & Friends, 4 bis 12 Jahre",
+            "es": "Coral & Friends, de 4 a 12 años",
+            "pt": "Coral & Friends, 4 a 12 anos"
           }
         },
         {
           "icon": "🏖️",
           "label": {
             "en": "Beach",
-            "fr": "Plage"
+            "fr": "Plage",
+            "it": "Spiaggia",
+            "de": "Strand",
+            "es": "Playa",
+            "pt": "Praia"
           },
           "value": {
             "en": "Calm private Navarino Bay",
-            "fr": "Baie de Navarino privée et calme"
+            "fr": "Baie de Navarino privée et calme",
+            "it": "Navarino Bay privata e calma",
+            "de": "Ruhige, private Navarino Bay",
+            "es": "Navarino Bay privada y en calma",
+            "pt": "Navarino Bay privada e calma"
           }
         },
         {
           "icon": "🍽️",
           "label": {
             "en": "Self-catering",
-            "fr": "Cuisine sur place"
+            "fr": "Cuisine sur place",
+            "it": "Cucina autonoma",
+            "de": "Selbstverpflegung",
+            "es": "Con cocina propia",
+            "pt": "Com cozinha própria"
           },
           "value": {
             "en": "Villa kitchens for baby meals",
-            "fr": "Cuisines de villa pour repas bébé"
+            "fr": "Cuisines de villa pour repas bébé",
+            "it": "Cucine delle ville per pasti dei neonati",
+            "de": "Villenküchen für Babymahlzeiten",
+            "es": "Cocinas de villa para comidas de bebé",
+            "pt": "Cozinhas de villa para refeições de bebé"
           }
         }
       ],
@@ -497,31 +909,55 @@
         {
           "q": {
             "en": "Is there a water park here?",
-            "fr": "Y a-t-il un parc aquatique ici?"
+            "fr": "Y a-t-il un parc aquatique ici?",
+            "it": "C'è un parco acquatico qui?",
+            "de": "Gibt es hier einen Wasserpark?",
+            "es": "¿Hay un parque acuático aquí?",
+            "pt": "Há um parque aquático aqui?"
           },
           "a": {
             "en": "No, the big Aqua Park and slides are over at the Navarino Dunes. Mandarin Oriental is about calm pools, villas and a sheltered beach, a few minutes' drive away.",
-            "fr": "Non, le grand Aqua Park et les toboggans sont aux Navarino Dunes. Le Mandarin Oriental mise sur des piscines calmes, des villas et une plage abritée, à quelques minutes en voiture."
+            "fr": "Non, le grand Aqua Park et les toboggans sont aux Navarino Dunes. Le Mandarin Oriental mise sur des piscines calmes, des villas et une plage abritée, à quelques minutes en voiture.",
+            "it": "No, il grande Aqua Park e gli scivoli sono alle Navarino Dunes. Il Mandarin Oriental punta su piscine calme, ville e una spiaggia riparata, a pochi minuti d'auto.",
+            "de": "Nein, der große Aqua Park und die Rutschen sind drüben an den Navarino Dunes. Das Mandarin Oriental setzt auf ruhige Pools, Villen und einen geschützten Strand, wenige Autominuten entfernt.",
+            "es": "No, el gran Aqua Park y los toboganes están en las Navarino Dunes. El Mandarin Oriental apuesta por piscinas tranquilas, villas y una playa resguardada, a pocos minutos en coche.",
+            "pt": "Não, o grande Aqua Park e os escorregas ficam nas Navarino Dunes. O Mandarin Oriental aposta em piscinas calmas, villas e uma praia abrigada, a poucos minutos de carro."
           }
         },
         {
           "q": {
             "en": "What age does the kids club take?",
-            "fr": "Quel âge le club enfants accueille-t-il?"
+            "fr": "Quel âge le club enfants accueille-t-il?",
+            "it": "Che età accoglie il club per bambini?",
+            "de": "Welches Alter nimmt der Kinderclub auf?",
+            "es": "¿Qué edad admite el club infantil?",
+            "pt": "Que idade o clube infantil aceita?"
           },
           "a": {
             "en": "The Coral & Friends kids club welcomes children aged 4 to 12. For younger babies, the villa kitchens and private pools make self-managed days easy.",
-            "fr": "Le club Coral & Friends accueille les enfants de 4 à 12 ans. Pour les plus jeunes bébés, les cuisines de villa et les piscines privées facilitent les journées gérées en autonomie."
+            "fr": "Le club Coral & Friends accueille les enfants de 4 à 12 ans. Pour les plus jeunes bébés, les cuisines de villa et les piscines privées facilitent les journées gérées en autonomie.",
+            "it": "Il club per bambini Coral & Friends accoglie i bambini dai 4 ai 12 anni. Per i neonati più piccoli, le cucine delle ville e le piscine private rendono facili le giornate gestite in autonomia.",
+            "de": "Der Coral-&-Friends-Kinderclub empfängt Kinder von 4 bis 12 Jahren. Für jüngere Babys machen die Villenküchen und Privatpools selbst organisierte Tage leicht.",
+            "es": "El club infantil Coral & Friends acoge a niños de 4 a 12 años. Para los bebés más pequeños, las cocinas de las villas y las piscinas privadas facilitan los días gestionados por cuenta propia.",
+            "pt": "O clube infantil Coral & Friends acolhe crianças dos 4 aos 12 anos. Para os bebés mais pequenos, as cozinhas das villas e as piscinas privadas facilitam os dias geridos de forma autónoma."
           }
         },
         {
           "q": {
             "en": "Is it good for a multi-generation trip?",
-            "fr": "Est-ce adapté à un voyage multigénérationnel?"
+            "fr": "Est-ce adapté à un voyage multigénérationnel?",
+            "it": "È adatto a un viaggio multigenerazionale?",
+            "de": "Ist es für eine Reise über mehrere Generationen geeignet?",
+            "es": "¿Es bueno para un viaje multigeneracional?",
+            "pt": "É bom para uma viagem multigeracional?"
           },
           "a": {
             "en": "Very. The three to five-bedroom villas are large and private, so grandparents, parents and children can share a base while each keeping their own space.",
-            "fr": "Tout à fait. Les villas de trois à cinq chambres sont grandes et intimes, si bien que grands-parents, parents et enfants partagent une base tout en gardant chacun leur espace."
+            "fr": "Tout à fait. Les villas de trois à cinq chambres sont grandes et intimes, si bien que grands-parents, parents et enfants partagent une base tout en gardant chacun leur espace.",
+            "it": "Moltissimo. Le ville da tre a cinque camere sono grandi e riservate, così nonni, genitori e figli possono condividere una base mantenendo ciascuno il proprio spazio.",
+            "de": "Sehr. Die Villen mit drei bis fünf Schlafzimmern sind groß und privat, sodass Großeltern, Eltern und Kinder eine Basis teilen und dennoch jeder seinen eigenen Raum behält.",
+            "es": "Muchísimo. Las villas de tres a cinco dormitorios son grandes y privadas, así que abuelos, padres e hijos pueden compartir una base manteniendo cada uno su propio espacio.",
+            "pt": "Muitíssimo. As villas de três a cinco quartos são grandes e reservadas, por isso avós, pais e filhos podem partilhar uma base mantendo cada um o seu próprio espaço."
           }
         }
       ]
@@ -532,7 +968,11 @@
       "name": "Grecotel Filoxenia Kalamata",
       "area": {
         "en": "Kalamata",
-        "fr": "Kalamata"
+        "fr": "Kalamata",
+        "it": "Kalamata",
+        "de": "Kalamata",
+        "es": "Kalamata",
+        "pt": "Kalamata"
       },
       "lat": 37.0103,
       "lng": 22.1188,
@@ -567,11 +1007,19 @@
       },
       "roomsSummary": {
         "en": "Renovated rooms and family suites among olive gardens, many with balconies over the pools or sea. Family rooms and connecting options sleep four, children up to 12 stay free in select room types, and the GrecoBaby service supplies cots, sterilisers, monitors and more so you can pack light with an infant.",
-        "fr": "Chambres et suites familiales rénovées au milieu des oliveraies, beaucoup avec balcon sur les piscines ou la mer. Les chambres familiales et les options communicantes accueillent quatre personnes, les enfants jusqu'à 12 ans séjournent gratuitement dans certaines catégories, et le service GrecoBaby fournit lit bébé, stérilisateurs, écoute-bébé et plus encore, de quoi voyager léger avec un nourrisson."
+        "fr": "Chambres et suites familiales rénovées au milieu des oliveraies, beaucoup avec balcon sur les piscines ou la mer. Les chambres familiales et les options communicantes accueillent quatre personnes, les enfants jusqu'à 12 ans séjournent gratuitement dans certaines catégories, et le service GrecoBaby fournit lit bébé, stérilisateurs, écoute-bébé et plus encore, de quoi voyager léger avec un nourrisson.",
+        "it": "Camere e suite familiari rinnovate tra gli uliveti, molte con balcone sulle piscine o sul mare. Le camere familiari e le opzioni comunicanti ospitano quattro persone, i bambini fino a 12 anni soggiornano gratis in alcune categorie, e il servizio GrecoBaby fornisce culle, sterilizzatori, baby monitor e altro, così potete viaggiare leggeri con un neonato.",
+        "de": "Renovierte Zimmer und Familiensuiten inmitten von Olivengärten, viele mit Balkon über den Pools oder dem Meer. Familienzimmer und Verbindungsoptionen beherbergen vier Personen, Kinder bis 12 Jahre übernachten in ausgewählten Kategorien gratis, und der GrecoBaby-Service liefert Kinderbetten, Sterilisatoren, Babyfone und mehr, sodass Sie mit einem Säugling leicht packen können.",
+        "es": "Habitaciones y suites familiares renovadas entre olivares, muchas con balcón sobre las piscinas o el mar. Las habitaciones familiares y las opciones comunicadas alojan a cuatro personas, los niños de hasta 12 años se alojan gratis en categorías selectas, y el servicio GrecoBaby facilita cunas, esterilizadores, vigilabebés y más, para que viajéis ligeros con un bebé.",
+        "pt": "Quartos e suites familiares renovados entre olivais, muitos com varanda sobre as piscinas ou o mar. Os quartos familiares e as opções comunicantes acomodam quatro pessoas, as crianças até 12 anos ficam grátis em categorias selecionadas, e o serviço GrecoBaby fornece berços, esterilizadores, intercomunicadores de bebé e mais, para que viajem leves com um bebé."
       },
       "intro": {
         "en": "For premium family comfort without the Costa Navarino price tag, Grecotel Filoxenia is the smart Messinia pick: 300 metres of Kalamata beachfront, three infinity pools including a dedicated children's pool, and olive gardens running down to the sea under Mount Taygetus. The Grecoland kids club looks after four to twelves, the excellent GrecoBaby service means you barely need to pack for an infant, and complimentary kids' dining keeps mealtimes cheap and stress-free. It is polished, well run and genuinely built around families.",
-        "fr": "Pour un confort familial haut de gamme sans le tarif de Costa Navarino, le Grecotel Filoxenia est le choix malin en Messinie : 300 mètres de front de mer à Kalamata, trois piscines à débordement dont un bassin dédié aux enfants, et des oliveraies qui descendent vers la mer au pied du mont Taygète. Le club enfants Grecoland s'occupe des quatre à douze ans, l'excellent service GrecoBaby fait qu'on n'a presque rien à emporter pour un nourrisson, et la restauration enfants offerte rend les repas économiques et sans stress. C'est soigné, bien tenu et vraiment pensé autour des familles."
+        "fr": "Pour un confort familial haut de gamme sans le tarif de Costa Navarino, le Grecotel Filoxenia est le choix malin en Messinie : 300 mètres de front de mer à Kalamata, trois piscines à débordement dont un bassin dédié aux enfants, et des oliveraies qui descendent vers la mer au pied du mont Taygète. Le club enfants Grecoland s'occupe des quatre à douze ans, l'excellent service GrecoBaby fait qu'on n'a presque rien à emporter pour un nourrisson, et la restauration enfants offerte rend les repas économiques et sans stress. C'est soigné, bien tenu et vraiment pensé autour des familles.",
+        "it": "Per un comfort familiare di livello senza il prezzo di Costa Navarino, il Grecotel Filoxenia è la scelta intelligente della Messenia: 300 metri di fronte mare a Kalamata, tre piscine infinity tra cui una dedicata ai bambini, e uliveti che scendono verso il mare sotto il monte Taigeto. Il club per bambini Grecoland si prende cura dei quattro-dodici anni, l'eccellente servizio GrecoBaby fa sì che non dobbiate quasi preparare nulla per un neonato, e la ristorazione per bambini gratuita rende i pasti economici e senza stress. È curato, ben gestito e davvero costruito attorno alle famiglie.",
+        "de": "Für gehobenen Familienkomfort ohne das Preisschild von Costa Navarino ist das Grecotel Filoxenia die clevere Wahl in Messenien: 300 Meter Strandfront in Kalamata, drei Infinity-Pools inklusive eines eigenen Kinderpools und Olivengärten, die unterhalb des Taygetos zum Meer hinablaufen. Der Grecoland-Kinderclub kümmert sich um die Vier- bis Zwölfjährigen, der ausgezeichnete GrecoBaby-Service sorgt dafür, dass Sie für einen Säugling kaum packen müssen, und das kostenlose Kinderessen hält die Mahlzeiten günstig und stressfrei. Es ist gepflegt, gut geführt und wirklich um Familien herum gebaut.",
+        "es": "Para un confort familiar de gama alta sin el precio de Costa Navarino, el Grecotel Filoxenia es la opción inteligente de Mesenia: 300 metros de frente de playa en Kalamata, tres piscinas infinity incluida una dedicada a los niños, y olivares que descienden hacia el mar bajo el monte Taigeto. El club infantil Grecoland cuida de los cuatro-doce años, el excelente servicio GrecoBaby hace que apenas tengáis que preparar nada para un bebé, y la restauración infantil gratuita mantiene las comidas baratas y sin estrés. Es pulido, bien gestionado y realmente construido en torno a las familias.",
+        "pt": "Para um conforto familiar de gama alta sem o preço de Costa Navarino, o Grecotel Filoxenia é a escolha inteligente da Messénia: 300 metros de frente de praia em Kalamata, três piscinas infinity incluindo uma dedicada às crianças, e olivais que descem para o mar sob o monte Taigeto. O clube infantil Grecoland cuida dos quatro-doze anos, o excelente serviço GrecoBaby faz com que quase não tenha de arrumar nada para um bebé, e a restauração infantil gratuita mantém as refeições baratas e sem stress. É cuidado, bem gerido e verdadeiramente construído à volta das famílias."
       },
       "highlights": {
         "en": [
@@ -585,6 +1033,30 @@
           "Trois piscines à débordement dont un bassin enfants",
           "300 m de front de mer à Kalamata et oliveraies",
           "Restauration enfants offerte et gratuité pour les moins de 12 ans"
+        ],
+        "it": [
+          "Club per bambini Grecoland e servizio GrecoBaby",
+          "Tre piscine infinity tra cui un bacino per bambini",
+          "300 m di fronte mare a Kalamata e uliveti",
+          "Ristorazione per bambini gratuita e soggiorni gratis sotto i 12 anni"
+        ],
+        "de": [
+          "Grecoland-Kinderclub plus GrecoBaby-Service",
+          "Drei Infinity-Pools inklusive eines Kinderpools",
+          "300 m Strandfront in Kalamata und Olivengärten",
+          "Kostenloses Kinderessen und Gratisaufenthalt unter 12"
+        ],
+        "es": [
+          "Club infantil Grecoland y servicio GrecoBaby",
+          "Tres piscinas infinity incluida una piscina para niños",
+          "300 m de frente de playa en Kalamata y olivares",
+          "Restauración infantil gratuita y estancias gratis para menores de 12"
+        ],
+        "pt": [
+          "Clube infantil Grecoland e serviço GrecoBaby",
+          "Três piscinas infinity incluindo uma piscina para crianças",
+          "300 m de frente de praia em Kalamata e olivais",
+          "Restauração infantil gratuita e estadias grátis para menores de 12"
         ]
       },
       "pros": {
@@ -599,6 +1071,30 @@
           "Bon rapport qualité-prix face aux resorts de Costa Navarino",
           "Accès direct à la plage et bassin enfants dédié",
           "Les enfants mangent gratuitement, facile pour le budget"
+        ],
+        "it": [
+          "Ottimo servizio per neonati, si viaggia leggeri con un bebè",
+          "Grande valore rispetto ai resort di Costa Navarino",
+          "Spiaggia diretta e una piscina dedicata ai bambini",
+          "I bambini mangiano gratis, facile per il budget"
+        ],
+        "de": [
+          "Ausgezeichneter Babyservice, mit Säugling leicht packen",
+          "Großer Gegenwert gegenüber den Costa-Navarino-Resorts",
+          "Direkter Strand und ein eigener Kinderpool",
+          "Kinder essen gratis, schonend fürs Budget"
+        ],
+        "es": [
+          "Excelente servicio de bebés, viajar ligero con un bebé",
+          "Gran valor frente a los resorts de Costa Navarino",
+          "Playa directa y una piscina dedicada a los niños",
+          "Los niños comen gratis, fácil para el presupuesto"
+        ],
+        "pt": [
+          "Excelente serviço de bebés, viajar leve com um bebé",
+          "Grande valor face aos resorts de Costa Navarino",
+          "Praia direta e uma piscina dedicada às crianças",
+          "As crianças comem grátis, fácil para o orçamento"
         ]
       },
       "cons": {
@@ -611,59 +1107,119 @@
           "La plage de Kalamata est de sable caillouteux, pas des dunes douces",
           "Pas de grand parc aquatique avec toboggans",
           "La ville de Kalamata se rejoint en voiture plutôt qu'à pied"
+        ],
+        "it": [
+          "La spiaggia di Kalamata è di sabbia ciottolosa, non morbide dune",
+          "Nessun grande parco acquatico con scivoli",
+          "La città di Kalamata è raggiungibile in auto più che a piedi"
+        ],
+        "de": [
+          "Kalamatas Strand ist kieseliger Sand, keine weichen Dünen",
+          "Kein großer Wasserpark mit Rutschen",
+          "Die Stadt Kalamata erreicht man eher mit dem Auto als zu Fuß"
+        ],
+        "es": [
+          "La playa de Kalamata es de arena con guijarros, no de suaves dunas",
+          "Sin gran parque acuático con toboganes",
+          "La ciudad de Kalamata queda en coche más que a un paseo"
+        ],
+        "pt": [
+          "A praia de Kalamata é de areia com seixos, não de dunas suaves",
+          "Sem grande parque aquático com escorregas",
+          "A cidade de Kalamata fica a uma ida de carro, não a um passeio"
         ]
       },
       "verdict": {
         "en": "The value champion of Messinia for young families: outstanding baby kit, a proper kids club, free children's dining and a beachfront base, all for a good deal less than the big-name Navarino resorts.",
-        "fr": "Le champion du rapport qualité-prix en Messinie pour les jeunes familles : équipement bébé remarquable, vrai club enfants, restauration enfants offerte et base en bord de mer, le tout bien moins cher que les grands resorts de Navarino."
+        "fr": "Le champion du rapport qualité-prix en Messinie pour les jeunes familles : équipement bébé remarquable, vrai club enfants, restauration enfants offerte et base en bord de mer, le tout bien moins cher que les grands resorts de Navarino.",
+        "it": "Il campione del rapporto qualità-prezzo della Messenia per le famiglie con bambini piccoli: dotazioni per neonati eccezionali, un vero club per bambini, ristorazione per bambini gratuita e una base sul mare, tutto a molto meno dei famosi resort di Navarino.",
+        "de": "Der Preis-Leistungs-Champion Messeniens für junge Familien: herausragende Baby-Ausstattung, ein echter Kinderclub, kostenloses Kinderessen und eine Basis am Strand, alles für deutlich weniger als die namhaften Navarino-Resorts.",
+        "es": "El campeón de la relación calidad-precio de Mesenia para familias con niños pequeños: equipamiento de bebé excepcional, un club infantil de verdad, restauración infantil gratuita y una base frente al mar, todo por bastante menos que los resorts de renombre de Navarino.",
+        "pt": "O campeão da relação qualidade-preço da Messénia para famílias com crianças pequenas: equipamento de bebé excecional, um verdadeiro clube infantil, restauração infantil gratuita e uma base à beira-mar, tudo por bastante menos do que os resorts de renome de Navarino."
       },
       "parentTip": {
         "en": "Pre-book the GrecoBaby kit when you reserve so the cot, steriliser and monitor are waiting in the room, then leave the bulky gear at home.",
-        "fr": "Réservez le kit GrecoBaby au moment de la réservation pour que lit bébé, stérilisateur et écoute-bébé attendent dans la chambre, et laissez le matériel encombrant à la maison."
+        "fr": "Réservez le kit GrecoBaby au moment de la réservation pour que lit bébé, stérilisateur et écoute-bébé attendent dans la chambre, et laissez le matériel encombrant à la maison.",
+        "it": "Prenotate in anticipo il kit GrecoBaby al momento della prenotazione, così culla, sterilizzatore e baby monitor vi aspettano in camera, e lasciate a casa l'attrezzatura ingombrante.",
+        "de": "Buchen Sie das GrecoBaby-Set schon bei der Reservierung vor, sodass Kinderbett, Sterilisator und Babyfon im Zimmer bereitstehen, und lassen Sie das sperrige Gepäck zu Hause.",
+        "es": "Reservad el kit GrecoBaby al hacer la reserva para que la cuna, el esterilizador y el vigilabebés os esperen en la habitación, y dejad en casa el equipo voluminoso.",
+        "pt": "Reservem o kit GrecoBaby na altura da reserva para que o berço, o esterilizador e o intercomunicador vos esperem no quarto, e deixem em casa o equipamento volumoso."
       },
       "atAGlance": [
         {
           "icon": "👶",
           "label": {
             "en": "Baby service",
-            "fr": "Service bébé"
+            "fr": "Service bébé",
+            "it": "Servizio bebè",
+            "de": "Babyservice",
+            "es": "Servicio de bebé",
+            "pt": "Serviço de bebé"
           },
           "value": {
             "en": "GrecoBaby cots and gear",
-            "fr": "Lit bébé et équipement GrecoBaby"
+            "fr": "Lit bébé et équipement GrecoBaby",
+            "it": "Culle e attrezzatura GrecoBaby",
+            "de": "GrecoBaby-Kinderbetten und -Ausstattung",
+            "es": "Cunas y equipo GrecoBaby",
+            "pt": "Berços e equipamento GrecoBaby"
           }
         },
         {
           "icon": "🧒",
           "label": {
             "en": "Kids club",
-            "fr": "Club enfants"
+            "fr": "Club enfants",
+            "it": "Club per bambini",
+            "de": "Kinderclub",
+            "es": "Club infantil",
+            "pt": "Clube infantil"
           },
           "value": {
             "en": "Grecoland, ages 4 to 12",
-            "fr": "Grecoland, 4 à 12 ans"
+            "fr": "Grecoland, 4 à 12 ans",
+            "it": "Grecoland, 4-12 anni",
+            "de": "Grecoland, 4 bis 12 Jahre",
+            "es": "Grecoland, de 4 a 12 años",
+            "pt": "Grecoland, 4 a 12 anos"
           }
         },
         {
           "icon": "🏊",
           "label": {
             "en": "Pools",
-            "fr": "Piscines"
+            "fr": "Piscines",
+            "it": "Piscine",
+            "de": "Pools",
+            "es": "Piscinas",
+            "pt": "Piscinas"
           },
           "value": {
             "en": "Three pools plus a kids' pool",
-            "fr": "Trois piscines et un bassin enfants"
+            "fr": "Trois piscines et un bassin enfants",
+            "it": "Tre piscine più un bacino per bambini",
+            "de": "Drei Pools plus ein Kinderpool",
+            "es": "Tres piscinas más una piscina para niños",
+            "pt": "Três piscinas mais uma piscina para crianças"
           }
         },
         {
           "icon": "🍽️",
           "label": {
             "en": "Kids eat free",
-            "fr": "Enfants gratuits"
+            "fr": "Enfants gratuits",
+            "it": "Bambini mangiano gratis",
+            "de": "Kinder essen gratis",
+            "es": "Los niños comen gratis",
+            "pt": "Crianças comem grátis"
           },
           "value": {
             "en": "Complimentary children's dining",
-            "fr": "Restauration enfants offerte"
+            "fr": "Restauration enfants offerte",
+            "it": "Ristorazione per bambini gratuita",
+            "de": "Kostenloses Kinderessen",
+            "es": "Restauración infantil gratuita",
+            "pt": "Restauração infantil gratuita"
           }
         }
       ],
@@ -671,31 +1227,55 @@
         {
           "q": {
             "en": "How is this different from Costa Navarino?",
-            "fr": "En quoi est-ce différent de Costa Navarino?"
+            "fr": "En quoi est-ce différent de Costa Navarino?",
+            "it": "In cosa è diverso da Costa Navarino?",
+            "de": "Worin unterscheidet es sich von Costa Navarino?",
+            "es": "¿En qué se diferencia de Costa Navarino?",
+            "pt": "Em que é diferente de Costa Navarino?"
           },
           "a": {
             "en": "It is more of a classic beachfront family resort at a friendlier price, about 45 minutes east in Kalamata. You lose the huge Aqua Park but gain great value, a superb baby service and free kids' dining.",
-            "fr": "C'est davantage un resort familial classique en bord de mer, à un prix plus doux, à environ 45 minutes à l'est, à Kalamata. On perd l'immense Aqua Park mais on gagne un excellent rapport qualité-prix, un superbe service bébé et la restauration enfants offerte."
+            "fr": "C'est davantage un resort familial classique en bord de mer, à un prix plus doux, à environ 45 minutes à l'est, à Kalamata. On perd l'immense Aqua Park mais on gagne un excellent rapport qualité-prix, un superbe service bébé et la restauration enfants offerte.",
+            "it": "È più un classico resort familiare sul mare a un prezzo più abbordabile, a circa 45 minuti a est, a Kalamata. Perdete l'enorme Aqua Park ma guadagnate un ottimo rapporto qualità-prezzo, un superbo servizio per neonati e la ristorazione per bambini gratuita.",
+            "de": "Es ist eher ein klassisches Familien-Strandresort zu einem freundlicheren Preis, etwa 45 Minuten östlich in Kalamata. Sie verlieren den riesigen Aqua Park, gewinnen aber tolles Preis-Leistungs-Verhältnis, einen hervorragenden Babyservice und kostenloses Kinderessen.",
+            "es": "Es más un clásico resort familiar frente al mar a un precio más amable, unos 45 minutos al este, en Kalamata. Pierdes el enorme Aqua Park pero ganas una gran relación calidad-precio, un magnífico servicio de bebés y restauración infantil gratuita.",
+            "pt": "É mais um clássico resort familiar à beira-mar a um preço mais amigável, a cerca de 45 minutos a leste, em Kalamata. Perde o enorme Aqua Park mas ganha uma ótima relação qualidade-preço, um soberbo serviço de bebés e restauração infantil gratuita."
           }
         },
         {
           "q": {
             "en": "Is the beach sandy?",
-            "fr": "La plage est-elle sablonneuse?"
+            "fr": "La plage est-elle sablonneuse?",
+            "it": "La spiaggia è sabbiosa?",
+            "de": "Ist der Strand sandig?",
+            "es": "¿Es de arena la playa?",
+            "pt": "A praia é de areia?"
           },
           "a": {
             "en": "Kalamata's long beach is a mix of sand and small pebbles rather than soft dune sand, so water shoes are handy for little feet. The pools pick up the slack for the youngest paddlers.",
-            "fr": "La longue plage de Kalamata mêle sable et petits galets plutôt qu'un sable de dune tout doux, des chaussures d'eau sont donc pratiques pour les petits pieds. Les piscines prennent le relais pour les plus jeunes baigneurs."
+            "fr": "La longue plage de Kalamata mêle sable et petits galets plutôt qu'un sable de dune tout doux, des chaussures d'eau sont donc pratiques pour les petits pieds. Les piscines prennent le relais pour les plus jeunes baigneurs.",
+            "it": "La lunga spiaggia di Kalamata è un mix di sabbia e piccoli ciottoli anziché morbida sabbia di duna, quindi le scarpette da scoglio sono comode per i piedini. Le piscine colmano il vuoto per i baginanti più piccoli.",
+            "de": "Der lange Strand von Kalamata ist eine Mischung aus Sand und kleinen Kieseln statt weichem Dünensand, daher sind Wasserschuhe für kleine Füße praktisch. Die Pools gleichen das für die jüngsten Planscher aus.",
+            "es": "La larga playa de Kalamata es una mezcla de arena y pequeños guijarros en lugar de suave arena de duna, así que las escarpines vienen bien para los piececitos. Las piscinas compensan para los bañistas más pequeños.",
+            "pt": "A longa praia de Kalamata é uma mistura de areia e pequenos seixos em vez de areia macia de duna, por isso os sapatos de água dão jeito para os pezinhos. As piscinas compensam para os banhistas mais pequenos."
           }
         },
         {
           "q": {
             "en": "Do children really stay and eat free?",
-            "fr": "Les enfants séjournent-ils et mangent-ils vraiment gratuitement?"
+            "fr": "Les enfants séjournent-ils et mangent-ils vraiment gratuitement?",
+            "it": "I bambini soggiornano e mangiano davvero gratis?",
+            "de": "Übernachten und essen Kinder wirklich gratis?",
+            "es": "¿Los niños se alojan y comen de verdad gratis?",
+            "pt": "As crianças ficam e comem mesmo grátis?"
           },
           "a": {
             "en": "Children up to 12 stay free in select room types and the resort includes complimentary kids' dining, which makes a real difference to a family budget.",
-            "fr": "Les enfants jusqu'à 12 ans séjournent gratuitement dans certaines catégories et le resort inclut une restauration enfants offerte, ce qui change vraiment le budget d'une famille."
+            "fr": "Les enfants jusqu'à 12 ans séjournent gratuitement dans certaines catégories et le resort inclut une restauration enfants offerte, ce qui change vraiment le budget d'une famille.",
+            "it": "I bambini fino a 12 anni soggiornano gratis in alcune categorie e il resort include la ristorazione per bambini gratuita, il che fa una vera differenza per il budget di una famiglia.",
+            "de": "Kinder bis 12 Jahre übernachten in ausgewählten Kategorien gratis und das Resort schließt kostenloses Kinderessen ein, was für ein Familienbudget einen echten Unterschied macht.",
+            "es": "Los niños de hasta 12 años se alojan gratis en categorías selectas y el resort incluye restauración infantil gratuita, lo que marca una diferencia real en el presupuesto de una familia.",
+            "pt": "As crianças até 12 anos ficam grátis em categorias selecionadas e o resort inclui restauração infantil gratuita, o que faz uma diferença real no orçamento de uma família."
           }
         }
       ]
@@ -706,7 +1286,11 @@
       "name": "Elite City Resort Kalamata",
       "area": {
         "en": "Kalamata town seafront",
-        "fr": "Front de mer de Kalamata"
+        "fr": "Front de mer de Kalamata",
+        "it": "Fronte mare della città di Kalamata",
+        "de": "Strandpromenade der Stadt Kalamata",
+        "es": "Frente marítimo de la ciudad de Kalamata",
+        "pt": "Frente de mar da cidade de Kalamata"
       },
       "lat": 37.0169,
       "lng": 22.1129,
@@ -740,11 +1324,19 @@
       },
       "roomsSummary": {
         "en": "Spacious rooms and family suites overlooking the Messinian Bay, with connecting options that sleep four and cots on request. It reads as a comfortable city beach hotel rather than a sprawling resort, so families are close together and the seafront promenade is right outside the door.",
-        "fr": "Chambres spacieuses et suites familiales avec vue sur le golfe de Messénie, options communicantes pour quatre personnes et lit bébé sur demande. On est plus proche d'un hôtel de plage urbain confortable que d'un vaste resort, la famille reste donc groupée et la promenade du front de mer se trouve juste devant la porte."
+        "fr": "Chambres spacieuses et suites familiales avec vue sur le golfe de Messénie, options communicantes pour quatre personnes et lit bébé sur demande. On est plus proche d'un hôtel de plage urbain confortable que d'un vaste resort, la famille reste donc groupée et la promenade du front de mer se trouve juste devant la porte.",
+        "it": "Camere spaziose e suite familiari affacciate sul golfo di Messenia, con opzioni comunicanti per quattro persone e culle su richiesta. Si presenta come un comodo hotel di spiaggia cittadino più che come un resort esteso, così le famiglie restano vicine e la passeggiata sul lungomare è proprio fuori dalla porta.",
+        "de": "Geräumige Zimmer und Familiensuiten mit Blick auf den Messenischen Golf, mit Verbindungsoptionen für vier Personen und Kinderbetten auf Anfrage. Es wirkt eher wie ein komfortables Stadt-Strandhotel als ein weitläufiges Resort, sodass Familien nah beieinander sind und die Strandpromenade direkt vor der Tür liegt.",
+        "es": "Habitaciones espaciosas y suites familiares con vistas al golfo de Mesenia, con opciones comunicadas para cuatro personas y cunas bajo petición. Se lee como un cómodo hotel de playa urbano más que como un resort extenso, así que las familias están juntas y el paseo marítimo queda justo fuera de la puerta.",
+        "pt": "Quartos espaçosos e suites familiares com vista para o golfo da Messénia, com opções comunicantes para quatro pessoas e berços a pedido. Lê-se como um confortável hotel de praia urbano mais do que como um resort extenso, por isso as famílias ficam juntas e a marginal do passeio fica mesmo à porta."
       },
       "intro": {
         "en": "Elite City Resort is the practical family base right on Kalamata's seafront, where the long beach, the promenade cafes, the harbour and the old town are all walkable, no hire car needed to keep everyone fed and entertained. Separate adult and children's pools, a playground and direct beach access cover the little ones, while being in town means gelato runs, playgrounds and easy dinners are steps away. It is not a big kids-club resort, it is a comfortable, convenient city-beach hotel that suits families who like to explore.",
-        "fr": "L'Elite City Resort est la base familiale pratique en plein sur le front de mer de Kalamata, où la longue plage, les cafés de la promenade, le port et la vieille ville se font tous à pied, sans voiture de location pour nourrir et occuper tout le monde. Piscines adultes et enfants séparées, aire de jeux et accès direct à la plage s'occupent des petits, tandis qu'être en ville met glaces, jeux et dîners faciles à quelques pas. Ce n'est pas un grand resort à club enfants, c'est un hôtel de plage urbain confortable et bien placé qui convient aux familles qui aiment explorer."
+        "fr": "L'Elite City Resort est la base familiale pratique en plein sur le front de mer de Kalamata, où la longue plage, les cafés de la promenade, le port et la vieille ville se font tous à pied, sans voiture de location pour nourrir et occuper tout le monde. Piscines adultes et enfants séparées, aire de jeux et accès direct à la plage s'occupent des petits, tandis qu'être en ville met glaces, jeux et dîners faciles à quelques pas. Ce n'est pas un grand resort à club enfants, c'est un hôtel de plage urbain confortable et bien placé qui convient aux familles qui aiment explorer.",
+        "it": "L'Elite City Resort è la base familiare pratica proprio sul lungomare di Kalamata, dove la lunga spiaggia, i caffè della passeggiata, il porto e la città vecchia sono tutti raggiungibili a piedi, senza auto a noleggio per tenere tutti sfamati e occupati. Piscine separate per adulti e bambini, un'area giochi e l'accesso diretto alla spiaggia pensano ai più piccoli, mentre essere in città significa avere gelati, parchi giochi e cene facili a pochi passi. Non è un grande resort con club per bambini: è un comodo e ben posizionato hotel di città-spiaggia adatto alle famiglie a cui piace esplorare.",
+        "de": "Das Elite City Resort ist die praktische Familienbasis direkt an der Strandpromenade von Kalamata, wo der lange Strand, die Cafés der Promenade, der Hafen und die Altstadt alle zu Fuß erreichbar sind, ohne Mietwagen, um alle satt und beschäftigt zu halten. Getrennte Pools für Erwachsene und Kinder, ein Spielplatz und direkter Strandzugang kümmern sich um die Kleinen, während man in der Stadt Eisdielen, Spielplätze und einfache Abendessen nur Schritte entfernt hat. Es ist kein großes Kinderclub-Resort, sondern ein komfortables, praktisches Stadt-Strandhotel für Familien, die gern erkunden.",
+        "es": "El Elite City Resort es la base familiar práctica justo en el frente marítimo de Kalamata, donde la larga playa, los cafés del paseo, el puerto y el casco antiguo se hacen todos a pie, sin coche de alquiler para tener a todos alimentados y entretenidos. Piscinas separadas para adultos y niños, una zona de juegos y el acceso directo a la playa cubren a los pequeños, mientras que estar en la ciudad significa que los helados, los parques infantiles y las cenas fáciles quedan a unos pasos. No es un gran resort con club infantil: es un cómodo y bien situado hotel de ciudad-playa que conviene a las familias a las que les gusta explorar.",
+        "pt": "O Elite City Resort é a base familiar prática mesmo na frente de mar de Kalamata, onde a longa praia, os cafés da marginal, o porto e a cidade velha se fazem todos a pé, sem carro de aluguer para manter todos alimentados e entretidos. Piscinas separadas para adultos e crianças, um parque infantil e o acesso direto à praia tratam dos mais pequenos, enquanto estar na cidade significa ter gelados, parques infantis e jantares fáceis a poucos passos. Não é um grande resort com clube infantil: é um confortável e bem localizado hotel de cidade-praia que serve as famílias que gostam de explorar."
       },
       "highlights": {
         "en": [
@@ -758,6 +1350,30 @@
           "Piscines adultes et enfants séparées et aire de jeux",
           "Accès direct à la plage de la ville",
           "Vieille ville, port et cafés à pied, sans voiture"
+        ],
+        "it": [
+          "Proprio sulla passeggiata pedonabile del lungomare di Kalamata",
+          "Piscine separate per adulti e bambini più un'area giochi",
+          "Accesso diretto alla spiaggia cittadina",
+          "Città vecchia, porto e caffè a piedi, senza auto"
+        ],
+        "de": [
+          "Direkt an der begehbaren Strandpromenade von Kalamata",
+          "Getrennte Pools für Erwachsene und Kinder plus Spielplatz",
+          "Direkter Zugang zum Stadtstrand",
+          "Altstadt, Hafen und Cafés zu Fuß, kein Auto nötig"
+        ],
+        "es": [
+          "Justo en el paseo marítimo peatonal de Kalamata",
+          "Piscinas separadas para adultos y niños más una zona de juegos",
+          "Acceso directo a la playa de la ciudad",
+          "Casco antiguo, puerto y cafés a pie, sin coche"
+        ],
+        "pt": [
+          "Mesmo na marginal pedonal de Kalamata",
+          "Piscinas separadas para adultos e crianças mais um parque infantil",
+          "Acesso direto à praia da cidade",
+          "Cidade velha, porto e cafés a pé, sem carro"
         ]
       },
       "pros": {
@@ -772,6 +1388,30 @@
           "Tout à pied, facile sans voiture",
           "Bassin enfants et aire de jeux sur place",
           "Vraie vie de ville grecque juste devant"
+        ],
+        "it": [
+          "Ottimo valore e posizione centrale",
+          "Tutto raggiungibile a piedi, facile senza auto",
+          "Bacino per bambini e area giochi in loco",
+          "Vera vita di città greca sull'uscio"
+        ],
+        "de": [
+          "Toller Gegenwert und zentrale Lage",
+          "Alles zu Fuß erreichbar, einfach ohne Auto",
+          "Kinderpool und Spielplatz vor Ort",
+          "Echtes griechisches Stadtleben vor der Tür"
+        ],
+        "es": [
+          "Gran valor y ubicación céntrica",
+          "Todo a pie, fácil sin coche",
+          "Piscina para niños y zona de juegos en el recinto",
+          "Verdadera vida de ciudad griega en la puerta"
+        ],
+        "pt": [
+          "Ótimo valor e localização central",
+          "Tudo a pé, fácil sem carro",
+          "Piscina para crianças e parque infantil no local",
+          "Verdadeira vida de cidade grega à porta"
         ]
       },
       "cons": {
@@ -784,59 +1424,119 @@
           "Pas de club enfants ni de grand programme de resort",
           "Cadre de plage urbaine, plus animé et moins calme qu'un resort",
           "L'espace piscine est plus petit que dans les grands resorts"
+        ],
+        "it": [
+          "Nessun club per bambini né grande programma da resort",
+          "Ambiente di spiaggia cittadina, più animato e meno calmo di un resort",
+          "L'area piscina è più piccola di quella dei grandi resort"
+        ],
+        "de": [
+          "Kein Kinderclub oder großes Resortprogramm",
+          "Stadtstrand-Umfeld, belebter und weniger resortruhig",
+          "Der Poolbereich ist kleiner als bei den großen Resorts"
+        ],
+        "es": [
+          "Sin club infantil ni gran programa de resort",
+          "Entorno de playa urbana, más animado y menos tranquilo que un resort",
+          "La zona de piscina es más pequeña que la de los grandes resorts"
+        ],
+        "pt": [
+          "Sem clube infantil nem grande programa de resort",
+          "Ambiente de praia urbana, mais animado e menos calmo do que um resort",
+          "A zona da piscina é mais pequena do que a dos grandes resorts"
         ]
       },
       "verdict": {
         "en": "A well-priced, walk-everywhere city-beach base for families who want to explore Kalamata and Messinia rather than stay parked inside a resort all week.",
-        "fr": "Une base de plage urbaine bien placée et abordable, tout à pied, pour les familles qui veulent explorer Kalamata et la Messénie plutôt que rester enfermées dans un resort toute la semaine."
+        "fr": "Une base de plage urbaine bien placée et abordable, tout à pied, pour les familles qui veulent explorer Kalamata et la Messénie plutôt que rester enfermées dans un resort toute la semaine.",
+        "it": "Una base di città-spiaggia dal buon prezzo, tutto a piedi, per le famiglie che vogliono esplorare Kalamata e la Messenia anziché restare parcheggiate in un resort tutta la settimana.",
+        "de": "Eine preisgünstige Stadt-Strandbasis, alles zu Fuß, für Familien, die Kalamata und Messenien erkunden möchten, statt die ganze Woche in einem Resort geparkt zu bleiben.",
+        "es": "Una base de ciudad-playa bien de precio, todo a pie, para las familias que quieren explorar Kalamata y Mesenia en lugar de quedarse aparcadas dentro de un resort toda la semana.",
+        "pt": "Uma base de cidade-praia com bom preço, tudo a pé, para as famílias que querem explorar Kalamata e a Messénia em vez de ficarem estacionadas dentro de um resort a semana toda."
       },
       "parentTip": {
         "en": "Base here if you plan day trips to Voidokilia, Ancient Messene and the Costa Navarino beaches; you get town convenience by night and a car-free evening stroll for gelato.",
-        "fr": "Installez-vous ici si vous prévoyez des excursions à Voidokilia, à l'antique Messène et aux plages de Costa Navarino : vous avez le confort de la ville le soir et une balade glace sans voiture."
+        "fr": "Installez-vous ici si vous prévoyez des excursions à Voidokilia, à l'antique Messène et aux plages de Costa Navarino : vous avez le confort de la ville le soir et une balade glace sans voiture.",
+        "it": "Prendete come base questo posto se pianificate gite a Voidokilia, all'antica Messene e alle spiagge di Costa Navarino: avete la comodità della città di sera e una passeggiata serale senz'auto per un gelato.",
+        "de": "Nehmen Sie das hier als Basis, wenn Sie Tagesausflüge nach Voidokilia, ins antike Messene und zu den Stränden von Costa Navarino planen: Sie haben abends den Komfort der Stadt und einen autofreien Abendspaziergang zum Eis.",
+        "es": "Usad esto como base si planeáis excursiones a Voidokilia, la antigua Mesene y las playas de Costa Navarino: tenéis la comodidad de la ciudad por la noche y un paseo nocturno sin coche para un helado.",
+        "pt": "Usem isto como base se planeiam passeios a Voidokilia, à antiga Messene e às praias de Costa Navarino: têm o conforto da cidade à noite e um passeio noturno sem carro para um gelado."
       },
       "atAGlance": [
         {
           "icon": "🚶",
           "label": {
             "en": "Location",
-            "fr": "Emplacement"
+            "fr": "Emplacement",
+            "it": "Posizione",
+            "de": "Lage",
+            "es": "Ubicación",
+            "pt": "Localização"
           },
           "value": {
             "en": "Walkable Kalamata seafront",
-            "fr": "Front de mer de Kalamata à pied"
+            "fr": "Front de mer de Kalamata à pied",
+            "it": "Lungomare di Kalamata a piedi",
+            "de": "Strandpromenade Kalamata zu Fuß",
+            "es": "Frente marítimo de Kalamata a pie",
+            "pt": "Frente de mar de Kalamata a pé"
           }
         },
         {
           "icon": "🏊",
           "label": {
             "en": "Pools",
-            "fr": "Piscines"
+            "fr": "Piscines",
+            "it": "Piscine",
+            "de": "Pools",
+            "es": "Piscinas",
+            "pt": "Piscinas"
           },
           "value": {
             "en": "Adult and children's pools",
-            "fr": "Piscines adultes et enfants"
+            "fr": "Piscines adultes et enfants",
+            "it": "Piscine per adulti e bambini",
+            "de": "Pools für Erwachsene und Kinder",
+            "es": "Piscinas para adultos y niños",
+            "pt": "Piscinas para adultos e crianças"
           }
         },
         {
           "icon": "🛝",
           "label": {
             "en": "Playground",
-            "fr": "Aire de jeux"
+            "fr": "Aire de jeux",
+            "it": "Area giochi",
+            "de": "Spielplatz",
+            "es": "Zona de juegos",
+            "pt": "Parque infantil"
           },
           "value": {
             "en": "On-site play area for kids",
-            "fr": "Aire de jeux enfants sur place"
+            "fr": "Aire de jeux enfants sur place",
+            "it": "Area giochi per bambini in loco",
+            "de": "Spielbereich für Kinder vor Ort",
+            "es": "Zona de juegos infantil en el recinto",
+            "pt": "Zona de brincadeira para crianças no local"
           }
         },
         {
           "icon": "🏖️",
           "label": {
             "en": "Beach",
-            "fr": "Plage"
+            "fr": "Plage",
+            "it": "Spiaggia",
+            "de": "Strand",
+            "es": "Playa",
+            "pt": "Praia"
           },
           "value": {
             "en": "Direct access to the town beach",
-            "fr": "Accès direct à la plage de la ville"
+            "fr": "Accès direct à la plage de la ville",
+            "it": "Accesso diretto alla spiaggia cittadina",
+            "de": "Direkter Zugang zum Stadtstrand",
+            "es": "Acceso directo a la playa de la ciudad",
+            "pt": "Acesso direto à praia da cidade"
           }
         }
       ],
@@ -844,31 +1544,55 @@
         {
           "q": {
             "en": "Is there a kids club?",
-            "fr": "Y a-t-il un club enfants?"
+            "fr": "Y a-t-il un club enfants?",
+            "it": "C'è un club per bambini?",
+            "de": "Gibt es einen Kinderclub?",
+            "es": "¿Hay un club infantil?",
+            "pt": "Há um clube infantil?"
           },
           "a": {
             "en": "No, this is a city beach hotel rather than a club resort. It has a children's pool and a playground, but for a full kids' programme look at Grecotel Filoxenia or the Costa Navarino resorts.",
-            "fr": "Non, c'est un hôtel de plage urbain plutôt qu'un resort à club. Il y a un bassin enfants et une aire de jeux, mais pour un vrai programme enfants, regardez le Grecotel Filoxenia ou les resorts de Costa Navarino."
+            "fr": "Non, c'est un hôtel de plage urbain plutôt qu'un resort à club. Il y a un bassin enfants et une aire de jeux, mais pour un vrai programme enfants, regardez le Grecotel Filoxenia ou les resorts de Costa Navarino.",
+            "it": "No, questo è un hotel di spiaggia cittadino più che un resort con club. Ha un bacino per bambini e un'area giochi, ma per un programma bambini completo guardate il Grecotel Filoxenia o i resort di Costa Navarino.",
+            "de": "Nein, das ist eher ein Stadt-Strandhotel als ein Club-Resort. Es hat einen Kinderpool und einen Spielplatz, aber für ein vollständiges Kinderprogramm schauen Sie sich das Grecotel Filoxenia oder die Costa-Navarino-Resorts an.",
+            "es": "No, esto es un hotel de playa urbano más que un resort con club. Tiene una piscina para niños y una zona de juegos, pero para un programa infantil completo mirad el Grecotel Filoxenia o los resorts de Costa Navarino.",
+            "pt": "Não, isto é um hotel de praia urbano mais do que um resort com clube. Tem uma piscina para crianças e um parque infantil, mas para um programa infantil completo vejam o Grecotel Filoxenia ou os resorts de Costa Navarino."
           }
         },
         {
           "q": {
             "en": "Do we need a car?",
-            "fr": "Faut-il une voiture?"
+            "fr": "Faut-il une voiture?",
+            "it": "Serve un'auto?",
+            "de": "Brauchen wir ein Auto?",
+            "es": "¿Necesitamos coche?",
+            "pt": "Precisamos de carro?"
           },
           "a": {
             "en": "Not for the stay itself, as the beach, promenade and old town are all walkable. A hire car helps for day trips to Voidokilia, Costa Navarino and Ancient Messene.",
-            "fr": "Pas pour le séjour lui-même, car la plage, la promenade et la vieille ville se font à pied. Une voiture de location aide pour les excursions à Voidokilia, Costa Navarino et l'antique Messène."
+            "fr": "Pas pour le séjour lui-même, car la plage, la promenade et la vieille ville se font à pied. Une voiture de location aide pour les excursions à Voidokilia, Costa Navarino et l'antique Messène.",
+            "it": "Non per il soggiorno in sé, dato che spiaggia, passeggiata e città vecchia sono tutte raggiungibili a piedi. Un'auto a noleggio aiuta per le gite a Voidokilia, Costa Navarino e l'antica Messene.",
+            "de": "Nicht für den Aufenthalt selbst, da Strand, Promenade und Altstadt alle zu Fuß erreichbar sind. Ein Mietwagen hilft für Tagesausflüge nach Voidokilia, Costa Navarino und ins antike Messene.",
+            "es": "No para la estancia en sí, ya que la playa, el paseo y el casco antiguo se hacen todos a pie. Un coche de alquiler ayuda para las excursiones a Voidokilia, Costa Navarino y la antigua Mesene.",
+            "pt": "Não para a estadia em si, pois a praia, a marginal e a cidade velha fazem-se todas a pé. Um carro de aluguer ajuda para os passeios a Voidokilia, Costa Navarino e à antiga Messene."
           }
         },
         {
           "q": {
             "en": "Is it good with a baby?",
-            "fr": "Est-ce adapté avec un bébé?"
+            "fr": "Est-ce adapté avec un bébé?",
+            "it": "È adatto con un neonato?",
+            "de": "Ist es mit einem Baby geeignet?",
+            "es": "¿Es bueno con un bebé?",
+            "pt": "É bom com um bebé?"
           },
           "a": {
             "en": "It works well thanks to the central, walkable setting and cots on request, though it lacks the dedicated baby services of the bigger resorts, so bring your own kit.",
-            "fr": "Cela fonctionne bien grâce au cadre central et accessible à pied et au lit bébé sur demande, même s'il manque les services bébé dédiés des grands resorts, prévoyez donc votre propre matériel."
+            "fr": "Cela fonctionne bien grâce au cadre central et accessible à pied et au lit bébé sur demande, même s'il manque les services bébé dédiés des grands resorts, prévoyez donc votre propre matériel.",
+            "it": "Funziona bene grazie all'ambiente centrale e pedonabile e alle culle su richiesta, anche se mancano i servizi per neonati dedicati dei resort più grandi, quindi portate la vostra attrezzatura.",
+            "de": "Es funktioniert gut dank der zentralen, fußläufigen Lage und Kinderbetten auf Anfrage, auch wenn die eigenen Babyservices der größeren Resorts fehlen, bringen Sie also Ihre eigene Ausstattung mit.",
+            "es": "Funciona bien gracias al entorno céntrico y peatonal y a las cunas bajo petición, aunque carece de los servicios de bebé dedicados de los resorts más grandes, así que llevad vuestro propio equipo.",
+            "pt": "Funciona bem graças ao ambiente central e pedonal e aos berços a pedido, embora lhe faltem os serviços de bebé dedicados dos resorts maiores, por isso levem o vosso próprio equipamento."
           }
         }
       ]
@@ -879,7 +1603,11 @@
       "name": "Zoe Seaside Resort, Gialova",
       "area": {
         "en": "Gialova (Navarino Bay)",
-        "fr": "Gialova (baie de Navarino)"
+        "fr": "Gialova (baie de Navarino)",
+        "it": "Gialova (Navarino Bay)",
+        "de": "Gialova (Navarino Bay)",
+        "es": "Gialova (Navarino Bay)",
+        "pt": "Gialova (Navarino Bay)"
       },
       "lat": 36.9558,
       "lng": 21.7004,
@@ -913,11 +1641,19 @@
       },
       "roomsSummary": {
         "en": "Family-run and family-shaped: two-room Family Suites for four with a double and a twin, plus top-floor loft rooms, all air-conditioned and set in mature gardens. The layout keeps parents and children in the same suite with a door between, and cots come on request, an easygoing, unfussy base a few steps from the sand.",
-        "fr": "Tenu par une famille et pensé pour les familles : suites familiales de deux pièces pour quatre, avec une chambre double et une chambre twin, plus des lofts au dernier étage, le tout climatisé et niché dans des jardins matures. La disposition garde parents et enfants dans la même suite avec une porte entre les deux, et le lit bébé arrive sur demande, une base décontractée et sans chichi à quelques pas du sable."
+        "fr": "Tenu par une famille et pensé pour les familles : suites familiales de deux pièces pour quatre, avec une chambre double et une chambre twin, plus des lofts au dernier étage, le tout climatisé et niché dans des jardins matures. La disposition garde parents et enfants dans la même suite avec une porte entre les deux, et le lit bébé arrive sur demande, une base décontractée et sans chichi à quelques pas du sable.",
+        "it": "A gestione familiare e su misura per le famiglie: suite familiari di due stanze per quattro persone con un letto matrimoniale e uno a due piazze singole, più camere loft all'ultimo piano, tutte climatizzate e immerse in giardini maturi. La disposizione tiene genitori e figli nella stessa suite con una porta in mezzo, e le culle arrivano su richiesta, una base rilassata e senza pretese a pochi passi dalla sabbia.",
+        "de": "Familiengeführt und familiengerecht: Zweiraum-Familiensuiten für vier mit einem Doppelbett und einem Zweibettzimmer, dazu Loftzimmer im obersten Stock, alle klimatisiert und in gewachsene Gärten eingebettet. Der Grundriss hält Eltern und Kinder in derselben Suite mit einer Tür dazwischen, und Kinderbetten gibt es auf Anfrage, eine unkomplizierte, schnörkellose Basis wenige Schritte vom Sand.",
+        "es": "De gestión familiar y pensado para familias: suites familiares de dos estancias para cuatro con una cama de matrimonio y una doble de individuales, más habitaciones loft en la última planta, todas climatizadas y enclavadas en jardines maduros. La distribución mantiene a padres e hijos en la misma suite con una puerta en medio, y las cunas llegan bajo petición, una base relajada y sin pretensiones a unos pasos de la arena.",
+        "pt": "De gestão familiar e pensado para famílias: suites familiares de duas divisões para quatro com uma cama de casal e uma dupla de solteiros, mais quartos loft no último piso, todos climatizados e envoltos em jardins maduros. A disposição mantém pais e filhos na mesma suite com uma porta pelo meio, e os berços chegam a pedido, uma base descontraída e sem pretensões a poucos passos da areia."
       },
       "intro": {
         "en": "Zoe is the friendly, affordable heart of Gialova, a family-run resort that was the village's very first hotel back in the 1970s and still feels personal. A huge 250 square-metre freshwater pool sits in shady gardens, the sandy beach is 30 seconds away, and miles of soft sand run north to famous Voidokilia. Gialova's little pedestrian street of tavernas and shops is a stroll from the door, so evenings are easy. There is no kids club, but with shallow calm water, a big pool and low-key village life, younger children are very happy here.",
-        "fr": "Le Zoe est le coeur chaleureux et abordable de Gialova, un resort familial qui fut le tout premier hôtel du village dans les années 1970 et garde une âme personnelle. Une immense piscine d'eau douce de 250 mètres carrés s'étend dans des jardins ombragés, la plage de sable est à 30 secondes, et des kilomètres de sable doux filent vers le nord jusqu'à la célèbre Voidokilia. La petite rue piétonne de tavernes et de boutiques de Gialova se rejoint à pied depuis la porte, les soirées sont donc simples. Il n'y a pas de club enfants, mais avec une eau calme et peu profonde, une grande piscine et une vie de village tranquille, les jeunes enfants sont très heureux ici."
+        "fr": "Le Zoe est le coeur chaleureux et abordable de Gialova, un resort familial qui fut le tout premier hôtel du village dans les années 1970 et garde une âme personnelle. Une immense piscine d'eau douce de 250 mètres carrés s'étend dans des jardins ombragés, la plage de sable est à 30 secondes, et des kilomètres de sable doux filent vers le nord jusqu'à la célèbre Voidokilia. La petite rue piétonne de tavernes et de boutiques de Gialova se rejoint à pied depuis la porte, les soirées sont donc simples. Il n'y a pas de club enfants, mais avec une eau calme et peu profonde, une grande piscine et une vie de village tranquille, les jeunes enfants sont très heureux ici.",
+        "it": "Lo Zoe è il cuore accogliente e conveniente di Gialova, un resort a gestione familiare che fu il primissimo hotel del villaggio negli anni '70 e conserva ancora un'anima personale. Un'enorme piscina d'acqua dolce di 250 metri quadrati sorge in giardini ombreggiati, la spiaggia di sabbia è a 30 secondi e chilometri di sabbia morbida corrono verso nord fino alla celebre Voidokilia. La piccola via pedonale di taverne e negozi di Gialova è a due passi dalla porta, così le serate sono facili. Non c'è un club per bambini, ma con acqua calma e poco profonda, una grande piscina e la vita tranquilla del villaggio, i bambini più piccoli sono felicissimi qui.",
+        "de": "Das Zoe ist das freundliche, günstige Herz von Gialova, ein familiengeführtes Resort, das in den 1970ern das allererste Hotel des Dorfes war und sich noch immer persönlich anfühlt. Ein riesiger Süßwasserpool von 250 Quadratmetern liegt in schattigen Gärten, der Sandstrand ist 30 Sekunden entfernt, und kilometerweiter weicher Sand zieht sich nach Norden bis zum berühmten Voidokilia. Gialovas kleine Fußgängerstraße mit Tavernen und Läden ist von der Tür aus ein Spaziergang, sodass die Abende leicht sind. Es gibt keinen Kinderclub, aber mit ruhigem, flachem Wasser, einem großen Pool und gemächlichem Dorfleben sind jüngere Kinder hier sehr glücklich.",
+        "es": "El Zoe es el corazón acogedor y asequible de Gialova, un resort de gestión familiar que fue el primerísimo hotel del pueblo allá por los años 70 y aún se siente personal. Una enorme piscina de agua dulce de 250 metros cuadrados se asienta en jardines sombreados, la playa de arena está a 30 segundos, y kilómetros de arena suave corren hacia el norte hasta la célebre Voidokilia. La pequeña calle peatonal de tabernas y tiendas de Gialova está a un paseo de la puerta, así que las tardes son fáciles. No hay club infantil, pero con agua tranquila y poco profunda, una gran piscina y la vida sosegada del pueblo, los niños más pequeños son felicísimos aquí.",
+        "pt": "O Zoe é o coração acolhedor e acessível de Gialova, um resort de gestão familiar que foi o primeiríssimo hotel da aldeia lá pelos anos 70 e ainda se sente pessoal. Uma enorme piscina de água doce de 250 metros quadrados assenta em jardins sombreados, a praia de areia fica a 30 segundos, e quilómetros de areia macia correm para norte até à célebre Voidokilia. A pequena rua pedonal de tabernas e lojas de Gialova fica a um passeio da porta, por isso as noites são fáceis. Não há clube infantil, mas com água calma e pouco profunda, uma grande piscina e a vida sossegada da aldeia, as crianças mais pequenas ficam felicíssimas aqui."
       },
       "highlights": {
         "en": [
@@ -931,6 +1667,30 @@
           "Plage de sable à 30 secondes de la porte",
           "Des kilomètres de sable doux vers le nord jusqu'à Voidokilia",
           "Tenu par une famille, suites familiales de deux pièces pour quatre"
+        ],
+        "it": [
+          "Enorme piscina d'acqua dolce di 250 m2 in giardini ombreggiati",
+          "Spiaggia di sabbia a 30 secondi dalla porta",
+          "Chilometri di sabbia morbida verso nord fino a Voidokilia",
+          "A gestione familiare, con suite familiari di due stanze per quattro"
+        ],
+        "de": [
+          "Riesiger Süßwasserpool von 250 m2 in schattigen Gärten",
+          "Sandstrand 30 Sekunden von der Tür",
+          "Kilometerweiter weicher Sand nach Norden bis Voidokilia",
+          "Familiengeführt, mit Zweiraum-Familiensuiten für vier"
+        ],
+        "es": [
+          "Enorme piscina de agua dulce de 250 m2 en jardines sombreados",
+          "Playa de arena a 30 segundos de la puerta",
+          "Kilómetros de arena suave hacia el norte hasta Voidokilia",
+          "De gestión familiar, con suites familiares de dos estancias para cuatro"
+        ],
+        "pt": [
+          "Enorme piscina de água doce de 250 m2 em jardins sombreados",
+          "Praia de areia a 30 segundos da porta",
+          "Quilómetros de areia macia para norte até Voidokilia",
+          "De gestão familiar, com suites familiares de duas divisões para quatro"
         ]
       },
       "pros": {
@@ -945,6 +1705,30 @@
           "Service familial chaleureux et personnel",
           "Plage de sable peu profonde juste devant",
           "Tavernes et boutiques de Gialova à pied"
+        ],
+        "it": [
+          "Davvero conveniente in una zona cara",
+          "Servizio a gestione familiare caloroso e personale",
+          "Spiaggia di sabbia poco profonda proprio fuori",
+          "A piedi verso le taverne e i negozi di Gialova"
+        ],
+        "de": [
+          "Wirklich günstig in einer teuren Gegend",
+          "Herzlicher, persönlicher familiengeführter Service",
+          "Flacher Sandstrand direkt vor der Tür",
+          "Zu Fuß zu Gialovas Tavernen und Läden"
+        ],
+        "es": [
+          "Realmente asequible en una zona cara",
+          "Servicio de gestión familiar cálido y personal",
+          "Playa de arena poco profunda justo fuera",
+          "A pie hasta las tabernas y tiendas de Gialova"
+        ],
+        "pt": [
+          "Realmente acessível numa zona cara",
+          "Serviço de gestão familiar caloroso e pessoal",
+          "Praia de areia pouco profunda mesmo à porta",
+          "A pé até às tabernas e lojas de Gialova"
         ]
       },
       "cons": {
@@ -957,59 +1741,119 @@
           "Pas de club enfants ni de grandes installations de resort",
           "Chambres plus simples et plus traditionnelles",
           "Une voiture aide pour les plages et les sorties"
+        ],
+        "it": [
+          "Nessun club per bambini né grandi strutture da resort",
+          "Camere più semplici e tradizionali",
+          "Un'auto aiuta per le spiagge e le gite"
+        ],
+        "de": [
+          "Kein Kinderclub oder große Resorteinrichtungen",
+          "Einfachere, traditionellere Zimmer",
+          "Ein Auto hilft für Strände und Tagesausflüge"
+        ],
+        "es": [
+          "Sin club infantil ni grandes instalaciones de resort",
+          "Habitaciones más sencillas y tradicionales",
+          "Un coche ayuda para las playas y las salidas"
+        ],
+        "pt": [
+          "Sem clube infantil nem grandes instalações de resort",
+          "Quartos mais simples e tradicionais",
+          "Um carro ajuda para as praias e os passeios"
         ]
       },
       "verdict": {
         "en": "The value gem of the Navarino coast for young families: a big pool, a shallow sandy beach and warm family-run care, minutes from Voidokilia and the Costa Navarino resorts without their price.",
-        "fr": "La pépite abordable de la côte de Navarino pour les jeunes familles : une grande piscine, une plage de sable peu profonde et un accueil familial chaleureux, à quelques minutes de Voidokilia et des resorts de Costa Navarino sans leur tarif."
+        "fr": "La pépite abordable de la côte de Navarino pour les jeunes familles : une grande piscine, une plage de sable peu profonde et un accueil familial chaleureux, à quelques minutes de Voidokilia et des resorts de Costa Navarino sans leur tarif.",
+        "it": "La gemma conveniente della costa di Navarino per le famiglie con bambini piccoli: una grande piscina, una spiaggia di sabbia poco profonda e un caloroso servizio a gestione familiare, a pochi minuti da Voidokilia e dai resort di Costa Navarino senza il loro prezzo.",
+        "de": "Das Preis-Leistungs-Juwel der Navarino-Küste für junge Familien: ein großer Pool, ein flacher Sandstrand und herzliche familiengeführte Betreuung, wenige Minuten von Voidokilia und den Costa-Navarino-Resorts, ohne deren Preis.",
+        "es": "La joya asequible de la costa de Navarino para familias con niños pequeños: una gran piscina, una playa de arena poco profunda y un cálido servicio de gestión familiar, a pocos minutos de Voidokilia y de los resorts de Costa Navarino sin su precio.",
+        "pt": "A joia acessível da costa de Navarino para famílias com crianças pequenas: uma grande piscina, uma praia de areia pouco profunda e um caloroso serviço de gestão familiar, a poucos minutos de Voidokilia e dos resorts de Costa Navarino sem o seu preço."
       },
       "parentTip": {
         "en": "Walk north along the beach early to reach the shallow lagoon end towards Voidokilia, where the water is calmest for toddlers before the afternoon breeze picks up.",
-        "fr": "Longez la plage vers le nord tôt le matin pour rejoindre l'extrémité en lagune peu profonde vers Voidokilia, où l'eau est la plus calme pour les tout-petits avant que la brise d'après-midi ne se lève."
+        "fr": "Longez la plage vers le nord tôt le matin pour rejoindre l'extrémité en lagune peu profonde vers Voidokilia, où l'eau est la plus calme pour les tout-petits avant que la brise d'après-midi ne se lève.",
+        "it": "Camminate verso nord lungo la spiaggia di prima mattina per raggiungere l'estremità della laguna poco profonda verso Voidokilia, dove l'acqua è la più calma per i più piccoli prima che la brezza pomeridiana si alzi.",
+        "de": "Gehen Sie früh am Strand nach Norden, um das flache Lagunenende Richtung Voidokilia zu erreichen, wo das Wasser für Kleinkinder am ruhigsten ist, bevor die Nachmittagsbrise auffrischt.",
+        "es": "Caminad hacia el norte por la playa temprano para llegar al extremo de la laguna poco profunda hacia Voidokilia, donde el agua está más tranquila para los pequeños antes de que se levante la brisa de la tarde.",
+        "pt": "Caminhem para norte ao longo da praia de manhã cedo para chegar à extremidade da lagoa pouco profunda em direção a Voidokilia, onde a água está mais calma para os pequenos antes de a brisa da tarde se levantar."
       },
       "atAGlance": [
         {
           "icon": "🏊",
           "label": {
             "en": "Pool",
-            "fr": "Piscine"
+            "fr": "Piscine",
+            "it": "Piscina",
+            "de": "Pool",
+            "es": "Piscina",
+            "pt": "Piscina"
           },
           "value": {
             "en": "250 sqm freshwater pool",
-            "fr": "Piscine d'eau douce de 250 m2"
+            "fr": "Piscine d'eau douce de 250 m2",
+            "it": "Piscina d'acqua dolce di 250 m2",
+            "de": "Süßwasserpool von 250 m2",
+            "es": "Piscina de agua dulce de 250 m2",
+            "pt": "Piscina de água doce de 250 m2"
           }
         },
         {
           "icon": "🏖️",
           "label": {
             "en": "Beach",
-            "fr": "Plage"
+            "fr": "Plage",
+            "it": "Spiaggia",
+            "de": "Strand",
+            "es": "Playa",
+            "pt": "Praia"
           },
           "value": {
             "en": "Sandy beach 30 seconds away",
-            "fr": "Plage de sable à 30 secondes"
+            "fr": "Plage de sable à 30 secondes",
+            "it": "Spiaggia di sabbia a 30 secondi",
+            "de": "Sandstrand 30 Sekunden entfernt",
+            "es": "Playa de arena a 30 segundos",
+            "pt": "Praia de areia a 30 segundos"
           }
         },
         {
           "icon": "👨‍👩‍👧",
           "label": {
             "en": "Family-run",
-            "fr": "Familial"
+            "fr": "Familial",
+            "it": "A gestione familiare",
+            "de": "Familiengeführt",
+            "es": "De gestión familiar",
+            "pt": "De gestão familiar"
           },
           "value": {
             "en": "Personal service since the 1970s",
-            "fr": "Service personnel depuis les années 1970"
+            "fr": "Service personnel depuis les années 1970",
+            "it": "Servizio personale dagli anni '70",
+            "de": "Persönlicher Service seit den 1970ern",
+            "es": "Servicio personal desde los años 70",
+            "pt": "Serviço pessoal desde os anos 70"
           }
         },
         {
           "icon": "💶",
           "label": {
             "en": "Value",
-            "fr": "Prix"
+            "fr": "Prix",
+            "it": "Prezzo",
+            "de": "Preis",
+            "es": "Precio",
+            "pt": "Preço"
           },
           "value": {
             "en": "Affordable for the Navarino coast",
-            "fr": "Abordable pour la côte de Navarino"
+            "fr": "Abordable pour la côte de Navarino",
+            "it": "Conveniente per la costa di Navarino",
+            "de": "Erschwinglich für die Navarino-Küste",
+            "es": "Asequible para la costa de Navarino",
+            "pt": "Acessível para a costa de Navarino"
           }
         }
       ],
@@ -1017,31 +1861,55 @@
         {
           "q": {
             "en": "Is Zoe close to Costa Navarino?",
-            "fr": "Le Zoe est-il proche de Costa Navarino?"
+            "fr": "Le Zoe est-il proche de Costa Navarino?",
+            "it": "Lo Zoe è vicino a Costa Navarino?",
+            "de": "Liegt das Zoe nahe an Costa Navarino?",
+            "es": "¿Está el Zoe cerca de Costa Navarino?",
+            "pt": "O Zoe fica perto de Costa Navarino?"
           },
           "a": {
             "en": "Yes, it sits on the northern shore of Navarino Bay at Gialova, a short drive from the Costa Navarino resorts and their beaches, and walking distance to Gialova village.",
-            "fr": "Oui, il se trouve sur la rive nord de la baie de Navarino, à Gialova, à quelques minutes en voiture des resorts de Costa Navarino et de leurs plages, et à pied du village de Gialova."
+            "fr": "Oui, il se trouve sur la rive nord de la baie de Navarino, à Gialova, à quelques minutes en voiture des resorts de Costa Navarino et de leurs plages, et à pied du village de Gialova.",
+            "it": "Sì, si trova sulla riva settentrionale di Navarino Bay a Gialova, a pochi minuti d'auto dai resort di Costa Navarino e dalle loro spiagge, e a piedi dal villaggio di Gialova.",
+            "de": "Ja, es liegt am Nordufer der Navarino Bay bei Gialova, wenige Autominuten von den Costa-Navarino-Resorts und ihren Stränden, und zu Fuß vom Dorf Gialova.",
+            "es": "Sí, se sitúa en la orilla norte de Navarino Bay en Gialova, a pocos minutos en coche de los resorts de Costa Navarino y sus playas, y a un paseo del pueblo de Gialova.",
+            "pt": "Sim, fica na margem norte de Navarino Bay em Gialova, a poucos minutos de carro dos resorts de Costa Navarino e das suas praias, e a pé da aldeia de Gialova."
           }
         },
         {
           "q": {
             "en": "Is the beach good for toddlers?",
-            "fr": "La plage est-elle bonne pour les tout-petits?"
+            "fr": "La plage est-elle bonne pour les tout-petits?",
+            "it": "La spiaggia è buona per i più piccoli?",
+            "de": "Ist der Strand gut für Kleinkinder?",
+            "es": "¿Es buena la playa para los más pequeños?",
+            "pt": "A praia é boa para os mais pequenos?"
           },
           "a": {
             "en": "The sand right outside is soft and the water shallow, and it gets calmer still towards the Voidokilia lagoon. As with all this coast, an afternoon breeze can bring small waves, so mornings are gentlest.",
-            "fr": "Le sable juste devant est doux et l'eau peu profonde, et cela se calme encore vers la lagune de Voidokilia. Comme sur toute cette côte, la brise d'après-midi peut apporter de petites vagues, les matins sont donc les plus doux."
+            "fr": "Le sable juste devant est doux et l'eau peu profonde, et cela se calme encore vers la lagune de Voidokilia. Comme sur toute cette côte, la brise d'après-midi peut apporter de petites vagues, les matins sont donc les plus doux.",
+            "it": "La sabbia proprio fuori è morbida e l'acqua poco profonda, e si calma ancora di più verso la laguna di Voidokilia. Come su tutta questa costa, la brezza pomeridiana può portare piccole onde, quindi le mattine sono le più dolci.",
+            "de": "Der Sand direkt vor der Tür ist weich und das Wasser flach, und es wird Richtung Voidokilia-Lagune noch ruhiger. Wie an dieser ganzen Küste kann die Nachmittagsbrise kleine Wellen bringen, daher sind die Morgenstunden am sanftesten.",
+            "es": "La arena justo fuera es suave y el agua poco profunda, y se calma aún más hacia la laguna de Voidokilia. Como en toda esta costa, la brisa de la tarde puede traer pequeñas olas, así que las mañanas son las más suaves.",
+            "pt": "A areia mesmo à porta é macia e a água pouco profunda, e acalma-se ainda mais em direção à lagoa de Voidokilia. Como em toda esta costa, a brisa da tarde pode trazer pequenas ondas, por isso as manhãs são as mais suaves."
           }
         },
         {
           "q": {
             "en": "Is there a kids club?",
-            "fr": "Y a-t-il un club enfants?"
+            "fr": "Y a-t-il un club enfants?",
+            "it": "C'è un club per bambini?",
+            "de": "Gibt es einen Kinderclub?",
+            "es": "¿Hay un club infantil?",
+            "pt": "Há um clube infantil?"
           },
           "a": {
             "en": "No, Zoe is a relaxed family-run hotel without a formal kids club. The big pool, shallow beach and village setting keep children happy the low-key way.",
-            "fr": "Non, le Zoe est un hôtel familial décontracté sans club enfants formel. La grande piscine, la plage peu profonde et le cadre de village rendent les enfants heureux de façon toute simple."
+            "fr": "Non, le Zoe est un hôtel familial décontracté sans club enfants formel. La grande piscine, la plage peu profonde et le cadre de village rendent les enfants heureux de façon toute simple.",
+            "it": "No, lo Zoe è un rilassato hotel a gestione familiare senza un club per bambini formale. La grande piscina, la spiaggia poco profonda e l'ambiente del villaggio tengono felici i bambini alla maniera più semplice.",
+            "de": "Nein, das Zoe ist ein entspanntes familiengeführtes Hotel ohne formellen Kinderclub. Der große Pool, der flache Strand und die Dorfatmosphäre machen Kinder auf die unkomplizierte Art glücklich.",
+            "es": "No, el Zoe es un relajado hotel de gestión familiar sin un club infantil formal. La gran piscina, la playa poco profunda y el entorno del pueblo mantienen felices a los niños de la manera más sencilla.",
+            "pt": "Não, o Zoe é um descontraído hotel de gestão familiar sem um clube infantil formal. A grande piscina, a praia pouco profunda e o ambiente da aldeia mantêm as crianças felizes da maneira mais simples."
           }
         }
       ]
@@ -1052,7 +1920,11 @@
       "name": "Porto Finissia, Finikounda",
       "area": {
         "en": "Finikounda",
-        "fr": "Finikounda"
+        "fr": "Finikounda",
+        "it": "Finikounda",
+        "de": "Finikounda",
+        "es": "Finikounda",
+        "pt": "Finikounda"
       },
       "lat": 36.7686,
       "lng": 21.8094,
@@ -1085,11 +1957,19 @@
       },
       "roomsSummary": {
         "en": "Simple, comfortable rooms with strong air-conditioning and balconies, many facing the beach and bay. Larger rooms take a family of four, and the setup is unfussy rather than luxurious, a straightforward beach base where the sea and the pool, not the room, are the point.",
-        "fr": "Chambres simples et confortables avec une climatisation efficace et des balcons, beaucoup face à la plage et à la baie. Les plus grandes accueillent une famille de quatre, et l'ensemble est sans chichi plutôt que luxueux, une base de plage directe où la mer et la piscine, pas la chambre, sont l'essentiel."
+        "fr": "Chambres simples et confortables avec une climatisation efficace et des balcons, beaucoup face à la plage et à la baie. Les plus grandes accueillent une famille de quatre, et l'ensemble est sans chichi plutôt que luxueux, une base de plage directe où la mer et la piscine, pas la chambre, sont l'essentiel.",
+        "it": "Camere semplici e confortevoli con climatizzazione efficace e balconi, molte affacciate sulla spiaggia e sulla baia. Le camere più grandi ospitano una famiglia di quattro, e l'insieme è senza pretese anziché lussuoso, una base di spiaggia diretta dove il mare e la piscina, non la camera, sono l'essenziale.",
+        "de": "Einfache, komfortable Zimmer mit starker Klimaanlage und Balkonen, viele mit Blick auf Strand und Bucht. Größere Zimmer nehmen eine vierköpfige Familie auf, und die Ausstattung ist schnörkellos statt luxuriös, eine unkomplizierte Strandbasis, bei der das Meer und der Pool, nicht das Zimmer, zählen.",
+        "es": "Habitaciones sencillas y cómodas con aire acondicionado potente y balcones, muchas de cara a la playa y a la bahía. Las habitaciones más grandes acogen a una familia de cuatro, y el conjunto es sin pretensiones más que lujoso, una base de playa directa donde el mar y la piscina, no la habitación, son lo importante.",
+        "pt": "Quartos simples e confortáveis com ar condicionado potente e varandas, muitos virados para a praia e a baía. Os quartos maiores acomodam uma família de quatro, e o conjunto é sem pretensões mais do que luxuoso, uma base de praia direta onde o mar e a piscina, não o quarto, são o essencial."
       },
       "intro": {
         "en": "Down at the southern tip of Messinia, Finikounda is a proper little Greek beach village, and Porto Finissia sits right on its blue-flag sandy bay. This is the low-key, great-value end of the coast: a pool with sea views, a bar behind it and a shallow, safe, gently shelving beach that is ideal for young children right in front. There is no kids club or waterpark, just sand, warm calm water, tavernas along the seafront and the easy rhythm of a village holiday. Families who want simple, sandy and affordable pick here.",
-        "fr": "Tout au sud de la Messénie, Finikounda est un vrai petit village de plage grec, et le Porto Finissia se trouve en plein sur sa baie de sable au pavillon bleu. C'est l'extrémité tranquille et avantageuse de la côte : une piscine avec vue mer, un bar derrière et, juste devant, une plage peu profonde, sûre et en pente douce, idéale pour les jeunes enfants. Pas de club enfants ni de parc aquatique, seulement du sable, une eau chaude et calme, des tavernes le long du front de mer et le rythme facile de vacances au village. Les familles qui veulent simple, sablonneux et abordable choisissent ici."
+        "fr": "Tout au sud de la Messénie, Finikounda est un vrai petit village de plage grec, et le Porto Finissia se trouve en plein sur sa baie de sable au pavillon bleu. C'est l'extrémité tranquille et avantageuse de la côte : une piscine avec vue mer, un bar derrière et, juste devant, une plage peu profonde, sûre et en pente douce, idéale pour les jeunes enfants. Pas de club enfants ni de parc aquatique, seulement du sable, une eau chaude et calme, des tavernes le long du front de mer et le rythme facile de vacances au village. Les familles qui veulent simple, sablonneux et abordable choisissent ici.",
+        "it": "Giù, all'estremità meridionale della Messenia, Finikounda è un vero piccolo villaggio di spiaggia greco, e il Porto Finissia sorge proprio sulla sua baia sabbiosa con bandiera blu. È l'estremità tranquilla e dall'ottimo valore della costa: una piscina con vista mare, un bar dietro e, proprio davanti, una spiaggia poco profonda, sicura e in lieve pendenza, ideale per i bambini piccoli. Non c'è un club per bambini né un parco acquatico, solo sabbia, acqua calda e calma, taverne lungo il fronte mare e il ritmo facile di una vacanza al villaggio. Le famiglie che vogliono semplice, sabbioso e conveniente scelgono qui.",
+        "de": "Ganz unten an der Südspitze Messeniens ist Finikounda ein richtiges kleines griechisches Stranddorf, und das Porto Finissia liegt direkt an seiner sandigen Blaue-Flagge-Bucht. Das ist das gemächliche, preislich starke Ende der Küste: ein Pool mit Meerblick, eine Bar dahinter und direkt davor ein flacher, sicherer, sanft abfallender Strand, ideal für kleine Kinder. Es gibt keinen Kinderclub und keinen Wasserpark, nur Sand, warmes ruhiges Wasser, Tavernen entlang der Strandpromenade und den gemächlichen Rhythmus eines Dorfurlaubs. Familien, die es einfach, sandig und günstig mögen, wählen hier.",
+        "es": "Abajo, en el extremo sur de Mesenia, Finikounda es un auténtico pueblecito de playa griego, y el Porto Finissia se asienta justo sobre su bahía de arena con bandera azul. Es el extremo sosegado y de gran valor de la costa: una piscina con vistas al mar, un bar detrás y, justo delante, una playa poco profunda, segura y de pendiente suave, ideal para los niños pequeños. No hay club infantil ni parque acuático, solo arena, agua cálida y tranquila, tabernas a lo largo del frente marítimo y el ritmo fácil de unas vacaciones de pueblo. Las familias que quieren algo sencillo, de arena y asequible eligen aquí.",
+        "pt": "Lá em baixo, na ponta sul da Messénia, Finikounda é uma verdadeira aldeola de praia grega, e o Porto Finissia fica mesmo sobre a sua baía de areia com bandeira azul. É a extremidade sossegada e de grande valor da costa: uma piscina com vista para o mar, um bar atrás e, mesmo em frente, uma praia pouco profunda, segura e de declive suave, ideal para as crianças pequenas. Não há clube infantil nem parque aquático, só areia, água quente e calma, tabernas ao longo da frente de mar e o ritmo fácil de umas férias de aldeia. As famílias que querem algo simples, de areia e acessível escolhem aqui."
       },
       "highlights": {
         "en": [
@@ -1103,6 +1983,30 @@
           "Piscine avec vue mer et bar au bord",
           "Eau peu profonde et sûre, idéale pour les jeunes enfants",
           "Tavernes du front de mer à quelques pas"
+        ],
+        "it": [
+          "Proprio sulla spiaggia sabbiosa con bandiera blu di Finikounda",
+          "Piscina con vista mare e bar a bordo piscina",
+          "Acqua poco profonda e sicura, ideale per i bambini piccoli",
+          "Taverne del fronte mare a pochi passi"
+        ],
+        "de": [
+          "Direkt am sandigen Blaue-Flagge-Strand von Finikounda",
+          "Pool mit Meerblick und Poolbar",
+          "Flaches, sicheres Wasser, ideal für kleine Kinder",
+          "Tavernen an der Strandpromenade nur einen kurzen Spaziergang entfernt"
+        ],
+        "es": [
+          "Justo en la playa de arena con bandera azul de Finikounda",
+          "Piscina con vistas al mar y bar junto a la piscina",
+          "Agua poco profunda y segura, ideal para los niños pequeños",
+          "Tabernas del frente marítimo a un corto paseo"
+        ],
+        "pt": [
+          "Mesmo na praia de areia com bandeira azul de Finikounda",
+          "Piscina com vista para o mar e bar junto à piscina",
+          "Água pouco profunda e segura, ideal para as crianças pequenas",
+          "Tabernas da frente de mar a um curto passeio"
         ]
       },
       "pros": {
@@ -1117,6 +2021,30 @@
           "Plage peu profonde et calme juste devant",
           "Cadre de village détendu, facile avec des petits",
           "Chambres vue mer et une bonne piscine"
+        ],
+        "it": [
+          "Ottimo valore su una bella baia sabbiosa",
+          "Spiaggia poco profonda e calma proprio davanti",
+          "Ambiente di villaggio rilassato, facile con i più piccoli",
+          "Camere vista mare e una buona piscina"
+        ],
+        "de": [
+          "Ausgezeichneter Gegenwert an einer schönen Sandbucht",
+          "Flacher, ruhiger Strand direkt davor",
+          "Entspannte Dorfatmosphäre, einfach mit den Kleinen",
+          "Zimmer mit Meerblick und ein guter Pool"
+        ],
+        "es": [
+          "Excelente valor en una preciosa bahía de arena",
+          "Playa poco profunda y tranquila justo delante",
+          "Entorno de pueblo relajado, fácil con los pequeños",
+          "Habitaciones con vistas al mar y una buena piscina"
+        ],
+        "pt": [
+          "Excelente valor numa bonita baía de areia",
+          "Praia pouco profunda e calma mesmo em frente",
+          "Ambiente de aldeia descontraído, fácil com os pequenos",
+          "Quartos com vista para o mar e uma boa piscina"
         ]
       },
       "cons": {
@@ -1131,59 +2059,123 @@
           "Pas de club enfants, de parc aquatique ni de grandes installations",
           "Finikounda est isolée, une voiture est indispensable",
           "Les avis sont partagés, demandez une chambre rénovée"
+        ],
+        "it": [
+          "Camere semplici e un po' datate, non di lusso",
+          "Nessun club per bambini, parco acquatico o grandi strutture",
+          "Finikounda è isolata, l'auto è indispensabile",
+          "Le recensioni sono contrastanti, chiedete una camera rinnovata"
+        ],
+        "de": [
+          "Einfache Zimmer im älteren Stil, kein Luxus",
+          "Kein Kinderclub, Wasserpark oder große Einrichtungen",
+          "Finikounda ist abgelegen, ein Auto ist unverzichtbar",
+          "Die Bewertungen sind gemischt, fragen Sie nach einem renovierten Zimmer"
+        ],
+        "es": [
+          "Habitaciones sencillas y de estilo antiguo, no de lujo",
+          "Sin club infantil, parque acuático ni grandes instalaciones",
+          "Finikounda es remota, un coche es imprescindible",
+          "Las reseñas son dispares, pedid una habitación renovada"
+        ],
+        "pt": [
+          "Quartos simples e de estilo antigo, não de luxo",
+          "Sem clube infantil, parque aquático ou grandes instalações",
+          "Finikounda é remota, um carro é indispensável",
+          "As avaliações são mistas, peçam um quarto renovado"
         ]
       },
       "verdict": {
         "en": "For families who want the real Greek village and a shallow sandy beach over polish and price, Finikounda's Porto Finissia is a simple, sunny, great-value base at the quiet end of Messinia.",
-        "fr": "Pour les familles qui préfèrent le vrai village grec et une plage de sable peu profonde au raffinement et au prix, le Porto Finissia de Finikounda est une base simple, ensoleillée et avantageuse, à l'extrémité tranquille de la Messénie."
+        "fr": "Pour les familles qui préfèrent le vrai village grec et une plage de sable peu profonde au raffinement et au prix, le Porto Finissia de Finikounda est une base simple, ensoleillée et avantageuse, à l'extrémité tranquille de la Messénie.",
+        "it": "Per le famiglie che preferiscono il vero villaggio greco e una spiaggia di sabbia poco profonda al raffinamento e al prezzo, il Porto Finissia di Finikounda è una base semplice, soleggiata e dall'ottimo valore, all'estremità tranquilla della Messenia.",
+        "de": "Für Familien, die das echte griechische Dorf und einen flachen Sandstrand dem Schliff und dem Preis vorziehen, ist das Porto Finissia in Finikounda eine einfache, sonnige, preisstarke Basis am ruhigen Ende Messeniens.",
+        "es": "Para las familias que prefieren el auténtico pueblo griego y una playa de arena poco profunda al pulido y al precio, el Porto Finissia de Finikounda es una base sencilla, soleada y de gran valor, en el extremo tranquilo de Mesenia.",
+        "pt": "Para as famílias que preferem a autêntica aldeia grega e uma praia de areia pouco profunda ao requinte e ao preço, o Porto Finissia de Finikounda é uma base simples, solarenga e de grande valor, na extremidade tranquila da Messénia."
       },
       "parentTip": {
         "en": "Rooms vary a lot here, so ask specifically for a renovated, sea-facing room, and hire a car: Finikounda is beautiful but a fair drive from the airport and the sights.",
-        "fr": "Les chambres varient beaucoup ici, demandez donc expressément une chambre rénovée face à la mer, et louez une voiture : Finikounda est superbe mais loin de l'aéroport et des sites."
+        "fr": "Les chambres varient beaucoup ici, demandez donc expressément une chambre rénovée face à la mer, et louez une voiture : Finikounda est superbe mais loin de l'aéroport et des sites.",
+        "it": "Le camere variano molto qui, quindi chiedete espressamente una camera rinnovata affacciata sul mare, e noleggiate un'auto: Finikounda è splendida ma abbastanza lontana dall'aeroporto e dai siti.",
+        "de": "Die Zimmer variieren hier stark, fragen Sie also gezielt nach einem renovierten Zimmer mit Meerblick, und mieten Sie ein Auto: Finikounda ist wunderschön, aber ein ordentliches Stück vom Flughafen und den Sehenswürdigkeiten entfernt.",
+        "es": "Las habitaciones varían mucho aquí, así que pedid expresamente una habitación renovada de cara al mar, y alquilad un coche: Finikounda es preciosa pero está a una buena distancia en coche del aeropuerto y de los lugares de interés.",
+        "pt": "Os quartos variam muito aqui, por isso peçam expressamente um quarto renovado virado para o mar, e aluguem um carro: Finikounda é linda mas fica a uma boa distância de carro do aeroporto e dos locais de interesse."
       },
       "atAGlance": [
         {
           "icon": "🏖️",
           "label": {
             "en": "Beach",
-            "fr": "Plage"
+            "fr": "Plage",
+            "it": "Spiaggia",
+            "de": "Strand",
+            "es": "Playa",
+            "pt": "Praia"
           },
           "value": {
             "en": "Blue-flag sandy bay in front",
-            "fr": "Baie de sable pavillon bleu devant"
+            "fr": "Baie de sable pavillon bleu devant",
+            "it": "Baia sabbiosa bandiera blu di fronte",
+            "de": "Blaue-Flagge-Sandbucht direkt davor",
+            "es": "Bahia de arena con bandera azul enfrente",
+            "pt": "Baia de areia com bandeira azul em frente"
           }
         },
         {
           "icon": "🏊",
           "label": {
             "en": "Pool",
-            "fr": "Piscine"
+            "fr": "Piscine",
+            "it": "Piscina",
+            "de": "Pool",
+            "es": "Piscina",
+            "pt": "Piscina"
           },
           "value": {
             "en": "Sea-view pool and bar",
-            "fr": "Piscine vue mer et bar"
+            "fr": "Piscine vue mer et bar",
+            "it": "Piscina vista mare e bar",
+            "de": "Pool mit Meerblick und Bar",
+            "es": "Piscina con vistas al mar y bar",
+            "pt": "Piscina com vista para o mar e bar"
           }
         },
         {
           "icon": "🌊",
           "label": {
             "en": "Water",
-            "fr": "Eau"
+            "fr": "Eau",
+            "it": "Acqua",
+            "de": "Wasser",
+            "es": "Agua",
+            "pt": "Agua"
           },
           "value": {
             "en": "Shallow and calm for little ones",
-            "fr": "Peu profonde et calme pour les petits"
+            "fr": "Peu profonde et calme pour les petits",
+            "it": "Bassa e calma per i piu piccoli",
+            "de": "Flach und ruhig fur die Kleinen",
+            "es": "Poco profunda y tranquila para los mas pequenos",
+            "pt": "Rasa e calma para os mais pequenos"
           }
         },
         {
           "icon": "💶",
           "label": {
             "en": "Value",
-            "fr": "Prix"
+            "fr": "Prix",
+            "it": "Prezzo",
+            "de": "Preis",
+            "es": "Precio",
+            "pt": "Preco"
           },
           "value": {
             "en": "The affordable, simple option",
-            "fr": "L'option simple et abordable"
+            "fr": "L'option simple et abordable",
+            "it": "L'opzione semplice e conveniente",
+            "de": "Die erschwingliche, einfache Option",
+            "es": "La opcion sencilla y asequible",
+            "pt": "A opcao simples e acessivel"
           }
         }
       ],
@@ -1191,31 +2183,55 @@
         {
           "q": {
             "en": "Is Finikounda good for young children?",
-            "fr": "Finikounda est-elle bonne pour les jeunes enfants?"
+            "fr": "Finikounda est-elle bonne pour les jeunes enfants?",
+            "it": "Finikounda e adatta ai bambini piccoli?",
+            "de": "Ist Finikounda gut fur kleine Kinder geeignet?",
+            "es": "¿Es Finikounda buena para los ninos pequenos?",
+            "pt": "Finikounda e boa para criancas pequenas?"
           },
           "a": {
             "en": "Very. The blue-flag bay is sandy, shallow and gently shelving with warm, calm water, which is about as safe and easy as a Greek beach gets for toddlers.",
-            "fr": "Tout à fait. La baie au pavillon bleu est sablonneuse, peu profonde et en pente douce, avec une eau chaude et calme, ce qui est à peu près aussi sûr et facile qu'une plage grecque puisse l'être pour les tout-petits."
+            "fr": "Tout à fait. La baie au pavillon bleu est sablonneuse, peu profonde et en pente douce, avec une eau chaude et calme, ce qui est à peu près aussi sûr et facile qu'une plage grecque puisse l'être pour les tout-petits.",
+            "it": "Moltissimo. La baia bandiera blu e sabbiosa, poco profonda e digrada dolcemente, con acqua calda e calma, il che e piu o meno il massimo della sicurezza e della comodita che una spiaggia greca possa offrire ai piu piccoli.",
+            "de": "Sehr. Die Blaue-Flagge-Bucht ist sandig, flach und fallt sanft ab, mit warmem, ruhigem Wasser, was etwa so sicher und einfach ist, wie ein griechischer Strand fur Kleinkinder nur sein kann.",
+            "es": "Muchisimo. La bahia con bandera azul es de arena, poco profunda y con pendiente suave, con agua calida y tranquila, lo que es mas o menos lo mas seguro y comodo que puede ofrecer una playa griega para los mas pequenos.",
+            "pt": "Muitissimo. A baia com bandeira azul e de areia, rasa e com declive suave, com agua quente e calma, o que e praticamente o mais seguro e facil que uma praia grega pode oferecer aos mais pequenos."
           }
         },
         {
           "q": {
             "en": "Do we need a car?",
-            "fr": "Faut-il une voiture?"
+            "fr": "Faut-il une voiture?",
+            "it": "Serve un'auto?",
+            "de": "Brauchen wir ein Auto?",
+            "es": "¿Necesitamos coche?",
+            "pt": "Precisamos de carro?"
           },
           "a": {
             "en": "Yes. Finikounda is a remote village at the south of Messinia, roughly an hour and a half from Kalamata airport, so a hire car is essential for getting there and exploring.",
-            "fr": "Oui. Finikounda est un village isolé au sud de la Messénie, à environ une heure et demie de l'aéroport de Kalamata, une voiture de location est donc indispensable pour y aller et explorer."
+            "fr": "Oui. Finikounda est un village isolé au sud de la Messénie, à environ une heure et demie de l'aéroport de Kalamata, une voiture de location est donc indispensable pour y aller et explorer.",
+            "it": "Si. Finikounda e un villaggio isolato nel sud della Messenia, a circa un'ora e mezza dall'aeroporto di Kalamata, quindi un'auto a noleggio e indispensabile per arrivarci ed esplorare.",
+            "de": "Ja. Finikounda ist ein abgelegenes Dorf im Suden von Messenien, etwa eineinhalb Stunden vom Flughafen Kalamata entfernt, daher ist ein Mietwagen unverzichtbar, um dorthin zu gelangen und die Umgebung zu erkunden.",
+            "es": "Si. Finikounda es un pueblo remoto al sur de Mesenia, a aproximadamente una hora y media del aeropuerto de Kalamata, asi que un coche de alquiler es imprescindible para llegar y explorar.",
+            "pt": "Sim. Finikounda e uma aldeia isolada no sul da Messenia, a cerca de uma hora e meia do aeroporto de Kalamata, por isso um carro alugado e essencial para la chegar e explorar."
           }
         },
         {
           "q": {
             "en": "Is it a luxury hotel?",
-            "fr": "Est-ce un hôtel de luxe?"
+            "fr": "Est-ce un hôtel de luxe?",
+            "it": "E un hotel di lusso?",
+            "de": "Ist es ein Luxushotel?",
+            "es": "¿Es un hotel de lujo?",
+            "pt": "E um hotel de luxo?"
           },
           "a": {
             "en": "No, it is a simple, good-value village beach hotel. Rooms are unfussy and reviews vary, so request a renovated sea-facing room. For luxury, look to the Costa Navarino resorts to the north.",
-            "fr": "Non, c'est un hôtel de plage de village simple et d'un bon rapport qualité-prix. Les chambres sont sans chichi et les avis varient, demandez donc une chambre rénovée face à la mer. Pour le luxe, tournez-vous vers les resorts de Costa Navarino, au nord."
+            "fr": "Non, c'est un hôtel de plage de village simple et d'un bon rapport qualité-prix. Les chambres sont sans chichi et les avis varient, demandez donc une chambre rénovée face à la mer. Pour le luxe, tournez-vous vers les resorts de Costa Navarino, au nord.",
+            "it": "No, e un semplice hotel di spiaggia di villaggio con un buon rapporto qualita-prezzo. Le camere sono essenziali e le recensioni variano, quindi richiedete una camera ristrutturata fronte mare. Per il lusso, guardate ai resort di Costa Navarino piu a nord.",
+            "de": "Nein, es ist ein einfaches, preiswertes Strandhotel im Dorf. Die Zimmer sind schlicht und die Bewertungen fallen unterschiedlich aus, fragen Sie also nach einem renovierten Zimmer zur Meerseite. Fur Luxus schauen Sie sich die Resorts von Costa Navarino im Norden an.",
+            "es": "No, es un sencillo hotel de playa de pueblo con buena relacion calidad-precio. Las habitaciones son sin florituras y las opiniones varian, asi que pide una habitacion renovada con vistas al mar. Para lujo, mira los resorts de Costa Navarino al norte.",
+            "pt": "Nao, e um hotel de praia de aldeia simples e com boa relacao qualidade-preco. Os quartos sao sem luxos e as avaliacoes variam, por isso peca um quarto renovado virado para o mar. Para luxo, procure os resorts de Costa Navarino a norte."
           }
         }
       ]
@@ -1224,11 +2240,19 @@
   "destinationMeta": {
     "name": {
       "en": "Costa Navarino",
-      "fr": "Costa Navarino"
+      "fr": "Costa Navarino",
+      "it": "Costa Navarino",
+      "de": "Costa Navarino",
+      "es": "Costa Navarino",
+      "pt": "Costa Navarino"
     },
     "country": {
       "en": "Greece",
-      "fr": "Grèce"
+      "fr": "Grèce",
+      "it": "Grecia",
+      "de": "Griechenland",
+      "es": "Grecia",
+      "pt": "Grecia"
     },
     "emoji": "🏖️",
     "accent": "2e8f9c",
@@ -1239,11 +2263,19 @@
     },
     "heroKicker": {
       "en": "World-class kids clubs, an Aqua Park and soft sandy dunes on the green Peloponnese coast",
-      "fr": "Clubs enfants d'exception, un Aqua Park et de douces dunes de sable sur la côte verte du Péloponnèse"
+      "fr": "Clubs enfants d'exception, un Aqua Park et de douces dunes de sable sur la côte verte du Péloponnèse",
+      "it": "Kids club di livello mondiale, un Aqua Park e morbide dune di sabbia sulla verde costa del Peloponneso",
+      "de": "Weltklasse-Kinderclubs, ein Aqua Park und weiche Sandddunen an der grunen Peloponnes-Kuste",
+      "es": "Clubs infantiles de primer nivel, un Aqua Park y suaves dunas de arena en la verde costa del Peloponeso",
+      "pt": "Clubes infantis de nivel mundial, um Aqua Park e suaves dunas de areia na verde costa do Peloponeso"
     },
     "intro": {
       "en": "Costa Navarino is where a premium family holiday in Greece comes into its own. On this green, olive-covered stretch of the Messinian coast, a cluster of luxury resorts on the Navarino Dunes and Navarino Bay pair some of the best kids facilities in the country, an Aqua Park with slides, supervised care that starts in babyhood, sports academies and youth hubs, with long, soft, sandy beaches that are far gentler underfoot than the pebbles much of Greece offers. Beyond the estate, the toddler-shallow bays of Gialova and Finikounda, the storybook curve of Voidokilia and the family beachfronts of Kalamata add depth and value, while ancient Messene, the Bay of Navarino and hilltop castles give parents history and children an adventure. It is not a budget corner of Greece, but for families who want the children genuinely looked after while everyone relaxes on real sand, few places do it better.",
-      "fr": "Costa Navarino, c'est là que des vacances familiales haut de gamme en Grèce prennent tout leur sens. Sur cette portion verte et couverte d'oliviers de la côte messénienne, un ensemble de resorts de luxe sur les Navarino Dunes et la baie de Navarino associe certaines des meilleures installations enfants du pays, un Aqua Park à toboggans, une garderie encadrée qui commence dès le plus jeune âge, des académies sportives et des pôles jeunesse, à de longues plages de sable doux bien plus agréables sous les pieds que les galets d'une grande partie de la Grèce. Au-delà du domaine, les baies peu profondes de Gialova et Finikounda, la courbe de carte postale de Voidokilia et les fronts de mer familiaux de Kalamata apportent profondeur et bons prix, tandis que l'antique Messène, la baie de Navarino et les châteaux perchés offrent de l'histoire aux parents et de l'aventure aux enfants. Ce n'est pas le coin le moins cher de Grèce, mais pour les familles qui veulent des enfants vraiment pris en charge pendant que tout le monde se détend sur du vrai sable, peu d'endroits font mieux."
+      "fr": "Costa Navarino, c'est là que des vacances familiales haut de gamme en Grèce prennent tout leur sens. Sur cette portion verte et couverte d'oliviers de la côte messénienne, un ensemble de resorts de luxe sur les Navarino Dunes et la baie de Navarino associe certaines des meilleures installations enfants du pays, un Aqua Park à toboggans, une garderie encadrée qui commence dès le plus jeune âge, des académies sportives et des pôles jeunesse, à de longues plages de sable doux bien plus agréables sous les pieds que les galets d'une grande partie de la Grèce. Au-delà du domaine, les baies peu profondes de Gialova et Finikounda, la courbe de carte postale de Voidokilia et les fronts de mer familiaux de Kalamata apportent profondeur et bons prix, tandis que l'antique Messène, la baie de Navarino et les châteaux perchés offrent de l'histoire aux parents et de l'aventure aux enfants. Ce n'est pas le coin le moins cher de Grèce, mais pour les familles qui veulent des enfants vraiment pris en charge pendant que tout le monde se détend sur du vrai sable, peu d'endroits font mieux.",
+      "it": "Costa Navarino e il luogo in cui una vacanza in famiglia di alto livello in Grecia da il meglio di se. Su questo tratto verde e coperto di ulivi della costa messenica, un insieme di resort di lusso sulle Navarino Dunes e sulla Navarino Bay abbina alcune delle migliori strutture per bambini del paese, un Aqua Park con scivoli, assistenza supervisionata che inizia gia nella prima infanzia, accademie sportive e spazi per ragazzi, a lunghe spiagge di sabbia morbida molto piu piacevoli sotto i piedi dei ciottoli che gran parte della Grecia offre. Oltre la tenuta, le baie basse e a misura di bambino di Gialova e Finikounda, la curva da fiaba di Voidokilia e i lungomare per famiglie di Kalamata aggiungono profondita e convenienza, mentre l'antica Messene, la baia di Navarino e i castelli in cima alle colline offrono storia ai genitori e avventura ai bambini. Non e un angolo economico della Grecia, ma per le famiglie che vogliono bambini davvero seguiti mentre tutti si rilassano su vera sabbia, pochi posti lo fanno meglio.",
+      "de": "Costa Navarino ist der Ort, an dem ein hochwertiger Familienurlaub in Griechenland zu seiner Bestform auflauft. An diesem grunen, olivenbewachsenen Abschnitt der messenischen Kuste vereint eine Ansammlung von Luxusresorts an den Navarino Dunes und der Navarino Bay einige der besten Kindereinrichtungen des Landes, einen Aqua Park mit Rutschen, betreute Betreuung ab dem Sauglingsalter, Sportakademien und Jugendtreffs mit langen, weichen Sandstranden, die unter den Fussen weitaus sanfter sind als die Kieselsteine, die ein Grossteil Griechenlands bietet. Jenseits des Anwesens verleihen die fur Kleinkinder flachen Buchten von Gialova und Finikounda, der marchenhafte Bogen von Voidokilia und die familienfreundlichen Strandpromenaden von Kalamata Tiefe und ein gutes Preis-Leistungs-Verhaltnis, wahrend das antike Messene, die Bucht von Navarino und die Bergkastelle den Eltern Geschichte und den Kindern ein Abenteuer bieten. Es ist kein gunstiger Winkel Griechenlands, aber fur Familien, die ihre Kinder wirklich betreut wissen wollen, wahrend alle sich auf echtem Sand entspannen, machen es nur wenige Orte besser.",
+      "es": "Costa Navarino es donde unas vacaciones familiares de alto nivel en Grecia alcanzan su plenitud. En este tramo verde y cubierto de olivos de la costa mesenia, un conjunto de resorts de lujo en las Navarino Dunes y la Navarino Bay combina algunas de las mejores instalaciones infantiles del pais, un Aqua Park con toboganes, cuidado supervisado que comienza en la primera infancia, academias deportivas y espacios para jovenes, con playas largas, suaves y de arena mucho mas agradables bajo los pies que los guijarros que ofrece buena parte de Grecia. Mas alla de la finca, las bahias poco profundas y aptas para bebes de Gialova y Finikounda, la curva de cuento de Voidokilia y los frentes de playa familiares de Kalamata anaden profundidad y buen precio, mientras que la antigua Mesene, la bahia de Navarino y los castillos en las colinas dan historia a los padres y aventura a los ninos. No es un rincon barato de Grecia, pero para las familias que quieren que los ninos esten realmente atendidos mientras todos se relajan sobre arena de verdad, pocos lugares lo hacen mejor.",
+      "pt": "Costa Navarino e onde umas ferias em familia de alto nivel na Grecia atingem o seu auge. Neste trecho verde e coberto de oliveiras da costa da Messenia, um conjunto de resorts de luxo nas Navarino Dunes e na Navarino Bay combina algumas das melhores instalacoes para criancas do pais, um Aqua Park com escorregas, cuidados supervisionados que comecam ainda na primeira infancia, academias desportivas e espacos para jovens, com praias longas, suaves e de areia muito mais agradaveis sob os pes do que os seixos que grande parte da Grecia oferece. Para alem da propriedade, as baias rasas e adequadas a bebes de Gialova e Finikounda, a curva de conto de fadas de Voidokilia e as frentes de praia familiares de Kalamata acrescentam profundidade e bom preco, enquanto a antiga Messene, a baia de Navarino e os castelos no alto das colinas dao historia aos pais e aventura as criancas. Nao e um canto barato da Grecia, mas para as familias que querem que as criancas sejam genuinamente cuidadas enquanto todos relaxam em areia a serio, poucos lugares o fazem melhor."
     },
     "whyKids": {
       "en": [
@@ -1259,6 +2291,34 @@
         "Des académies sportives pour les grands : tennis, football, basket et vélo",
         "De longues plages de sable doux plutôt que les galets d'une grande partie de la Grèce",
         "Voidokilia et la lagune peu profonde de Gialova, une baignade calme et de rêve pour les tout-petits"
+      ],
+      "it": [
+        "L'Aqua Park delle Navarino Dunes ha scivoli e zone di giochi d'acqua per tutte le eta",
+        "Assistenza supervisionata che inizia gia nella prima infanzia, cosi anche i genitori dei neonati si prendono una pausa",
+        "Accademie sportive per i piu grandi: tennis, calcio, basket e ciclismo",
+        "Lunghe spiagge di sabbia morbida invece dei ciottoli diffusi in gran parte della Grecia",
+        "Voidokilia e la laguna bassa di Gialova sono un sogno, un tuffo calmo per i piu piccoli"
+      ],
+      "de": [
+        "Der Aqua Park an den Navarino Dunes hat Rutschen und Wasserspielbereiche fur alle Altersgruppen",
+        "Betreute Betreuung ab dem Sauglingsalter, sodass selbst Eltern von Babys eine Pause bekommen",
+        "Sportakademien fur altere Kinder: Tennis, Fussball, Basketball und Radfahren",
+        "Lange, weiche Sandstrande statt der Kieselsteine, die man in weiten Teilen Griechenlands findet",
+        "Voidokilia und die flache Lagune von Gialova sind traumhaftes, ruhiges Planschen fur Kleinkinder"
+      ],
+      "es": [
+        "El Aqua Park de las Navarino Dunes tiene toboganes y zonas de juegos de agua para todas las edades",
+        "Cuidado supervisado que comienza en la primera infancia, asi que hasta los padres de bebes descansan",
+        "Academias deportivas para los mayores: tenis, futbol, baloncesto y ciclismo",
+        "Playas largas y de arena suave en lugar de los guijarros que hay por gran parte de Grecia",
+        "Voidokilia y la laguna poco profunda de Gialova son un chapoteo tranquilo y de ensueno para los mas pequenos"
+      ],
+      "pt": [
+        "O Aqua Park nas Navarino Dunes tem escorregas e zonas de jogos de agua para todas as idades",
+        "Cuidados supervisionados que comecam ainda na primeira infancia, para que ate os pais de bebes descansem",
+        "Academias desportivas para os mais crescidos: tenis, futebol, basquetebol e ciclismo",
+        "Praias longas e de areia suave em vez dos seixos que se encontram por grande parte da Grecia",
+        "Voidokilia e a lagoa rasa de Gialova sao um chapinhar calmo e de sonho para os mais pequenos"
       ]
     },
     "bestAreas": {
@@ -1273,15 +2333,47 @@
         "Baie de Navarino : le versant plus calme et orienté villas, avec le Mandarin Oriental, une plage privée abritée et une eau plus tranquille",
         "Gialova et Voidokilia : une base de village détendue et plus avantageuse, avec une lagune peu profonde et la célèbre plage en croissant tout près",
         "Kalamata : la ville régionale animée, avec un long front de mer, des resorts familiaux, un aéroport et tout accessible à pied"
+      ],
+      "it": [
+        "Navarino Dunes: il cuore per famiglie della tenuta, sede dell'Aqua Park, del Westin e del The Romanos, proprio sulla sabbiosa Dunes Beach",
+        "Navarino Bay: il versante piu tranquillo e orientato alle ville, con il Mandarin Oriental, una spiaggia privata riparata e acqua piu calma",
+        "Gialova e Voidokilia: una base di villaggio rilassata e piu conveniente, con una laguna bassa e la celebre spiaggia a mezzaluna li vicino",
+        "Kalamata: la vivace citta regionale con un lungo lungomare, resort per famiglie, un aeroporto e tutto raggiungibile a piedi"
+      ],
+      "de": [
+        "Navarino Dunes: das Familienherz des Anwesens, Heimat des Aqua Parks, des Westin und des The Romanos, direkt am sandigen Dunes Beach",
+        "Navarino Bay: die ruhigere, villenbetonte Seite mit dem Mandarin Oriental, einem geschutzten Privatstrand und ruhigerem Wasser",
+        "Gialova und Voidokilia: eine entspannte, preiswertere Dorfbasis mit einer flachen Lagune und dem beruhmten halbmondformigen Strand in der Nahe",
+        "Kalamata: die lebhafte Regionalstadt mit langer Strandpromenade, Familienresorts, einem Flughafen und allem zu Fuss erreichbar"
+      ],
+      "es": [
+        "Navarino Dunes: el corazon familiar de la finca, hogar del Aqua Park, el Westin y The Romanos, justo en la arenosa Dunes Beach",
+        "Navarino Bay: el lado mas tranquilo y orientado a las villas, con el Mandarin Oriental, una playa privada resguardada y aguas mas calmas",
+        "Gialova y Voidokilia: una base de pueblo relajada y mas economica, con una laguna poco profunda y la famosa playa en forma de media luna cerca",
+        "Kalamata: la animada ciudad regional con un largo frente de playa, resorts familiares, un aeropuerto y todo a pie"
+      ],
+      "pt": [
+        "Navarino Dunes: o coracao familiar da propriedade, onde ficam o Aqua Park, o Westin e o The Romanos, mesmo na arenosa Dunes Beach",
+        "Navarino Bay: o lado mais tranquilo e orientado a moradias, com o Mandarin Oriental, uma praia privada abrigada e agua mais calma",
+        "Gialova e Voidokilia: uma base de aldeia descontraida e com melhor preco, com uma lagoa rasa e a famosa praia em meia-lua ali perto",
+        "Kalamata: a animada cidade regional com uma longa frente de praia, resorts familiares, um aeroporto e tudo acessivel a pe"
       ]
     },
     "goodToKnow": {
       "en": "The nearest airport is Kalamata (KLX), about 45 minutes to an hour from Costa Navarino, with seasonal flights from much of Europe in summer. This is a premium destination: the Navarino Dunes and Bay resorts sit at the top of the price range, so Gialova, Finikounda and Kalamata are where families find value. A hire car is well worth it, as the best beaches and the ancient sites are spread out and public transport is thin. Most beaches here are genuinely sandy and gently shelving, but they face the open Ionian, so an afternoon breeze can bring small waves; mornings are calmest, and the Gialova lagoon and Voidokilia are the most sheltered for toddlers. The resorts are seasonal, generally open spring to autumn.",
-      "fr": "L'aéroport le plus proche est Kalamata (KLX), à environ 45 minutes à une heure de Costa Navarino, avec des vols saisonniers depuis une grande partie de l'Europe en été. C'est une destination haut de gamme : les resorts des Navarino Dunes et de la baie sont en haut de la fourchette de prix, Gialova, Finikounda et Kalamata sont donc là où les familles trouvent de bons tarifs. Une voiture de location vaut vraiment le coup, car les plus belles plages et les sites antiques sont dispersés et les transports en commun rares. La plupart des plages ici sont réellement sablonneuses et en pente douce, mais elles font face à la mer Ionienne ouverte, une brise d'après-midi peut donc apporter de petites vagues ; les matins sont les plus calmes, et la lagune de Gialova et Voidokilia sont les plus abritées pour les tout-petits. Les resorts sont saisonniers, généralement ouverts du printemps à l'automne."
+      "fr": "L'aéroport le plus proche est Kalamata (KLX), à environ 45 minutes à une heure de Costa Navarino, avec des vols saisonniers depuis une grande partie de l'Europe en été. C'est une destination haut de gamme : les resorts des Navarino Dunes et de la baie sont en haut de la fourchette de prix, Gialova, Finikounda et Kalamata sont donc là où les familles trouvent de bons tarifs. Une voiture de location vaut vraiment le coup, car les plus belles plages et les sites antiques sont dispersés et les transports en commun rares. La plupart des plages ici sont réellement sablonneuses et en pente douce, mais elles font face à la mer Ionienne ouverte, une brise d'après-midi peut donc apporter de petites vagues ; les matins sont les plus calmes, et la lagune de Gialova et Voidokilia sont les plus abritées pour les tout-petits. Les resorts sont saisonniers, généralement ouverts du printemps à l'automne.",
+      "it": "L'aeroporto piu vicino e Kalamata (KLX), a circa 45 minuti-un'ora da Costa Navarino, con voli stagionali da gran parte dell'Europa in estate. Questa e una destinazione di alto livello: i resort delle Navarino Dunes e Bay si collocano nella fascia di prezzo piu alta, quindi Gialova, Finikounda e Kalamata sono i posti dove le famiglie trovano prezzi convenienti. Un'auto a noleggio vale davvero la pena, perche le spiagge migliori e i siti antichi sono sparsi e i trasporti pubblici scarsi. La maggior parte delle spiagge qui e davvero sabbiosa e digrada dolcemente, ma sono esposte allo Ionio aperto, quindi una brezza pomeridiana puo portare piccole onde; le mattine sono le piu calme, e la laguna di Gialova e Voidokilia sono le piu riparate per i piu piccoli. I resort sono stagionali, in genere aperti dalla primavera all'autunno.",
+      "de": "Der nachstgelegene Flughafen ist Kalamata (KLX), etwa 45 Minuten bis eine Stunde von Costa Navarino entfernt, mit saisonalen Fluegen aus weiten Teilen Europas im Sommer. Dies ist ein Premium-Reiseziel: die Resorts der Navarino Dunes und Bay liegen am oberen Ende der Preisspanne, daher sind Gialova, Finikounda und Kalamata die Orte, an denen Familien ein gutes Preis-Leistungs-Verhaltnis finden. Ein Mietwagen lohnt sich sehr, denn die besten Strande und die antiken Statten liegen weit verstreut und der offentliche Nahverkehr ist dunn. Die meisten Strande hier sind wirklich sandig und fallen sanft ab, doch sie liegen zum offenen Ionischen Meer, sodass eine Nachmittagsbrise kleine Wellen bringen kann; die Morgenstunden sind am ruhigsten, und die Lagune von Gialova und Voidokilia sind fur Kleinkinder am geschutztesten. Die Resorts sind saisonal, in der Regel von Fruhjahr bis Herbst geoffnet.",
+      "es": "El aeropuerto mas cercano es Kalamata (KLX), a unos 45 minutos o una hora de Costa Navarino, con vuelos de temporada desde buena parte de Europa en verano. Este es un destino premium: los resorts de las Navarino Dunes y Bay estan en la parte alta de la franja de precios, asi que Gialova, Finikounda y Kalamata son donde las familias encuentran buenos precios. Un coche de alquiler vale mucho la pena, ya que las mejores playas y los sitios antiguos estan dispersos y el transporte publico es escaso. La mayoria de las playas de aqui son realmente de arena y de pendiente suave, pero dan al Jonico abierto, asi que una brisa de tarde puede traer pequenas olas; las mananas son las mas tranquilas, y la laguna de Gialova y Voidokilia son las mas resguardadas para los mas pequenos. Los resorts son de temporada, por lo general abiertos de primavera a otono.",
+      "pt": "O aeroporto mais proximo e Kalamata (KLX), a cerca de 45 minutos a uma hora de Costa Navarino, com voos sazonais de grande parte da Europa no verao. Este e um destino premium: os resorts das Navarino Dunes e Bay situam-se no topo da faixa de precos, por isso Gialova, Finikounda e Kalamata sao onde as familias encontram bons precos. Um carro alugado vale bem a pena, pois as melhores praias e os sitios antigos estao dispersos e os transportes publicos sao escassos. A maioria das praias aqui e genuinamente de areia e com declive suave, mas ficam voltadas para o Jonico aberto, por isso uma brisa da tarde pode trazer pequenas ondas; as manhas sao as mais calmas, e a lagoa de Gialova e Voidokilia sao as mais abrigadas para os mais pequenos. Os resorts sao sazonais, geralmente abertos da primavera ao outono."
     },
     "parentTip": {
       "en": "Split your week: a few nights at a Navarino Dunes resort for the Aqua Park and kids clubs, then a couple at value-friendly Gialova or Kalamata to explore Voidokilia, Pylos castle and ancient Messene. Do the beaches in the morning while the sea is calmest for little ones.",
-      "fr": "Découpez votre semaine : quelques nuits dans un resort des Navarino Dunes pour l'Aqua Park et les clubs enfants, puis deux à Gialova ou Kalamata, plus abordables, pour explorer Voidokilia, le château de Pylos et l'antique Messène. Faites les plages le matin, quand la mer est la plus calme pour les petits."
+      "fr": "Découpez votre semaine : quelques nuits dans un resort des Navarino Dunes pour l'Aqua Park et les clubs enfants, puis deux à Gialova ou Kalamata, plus abordables, pour explorer Voidokilia, le château de Pylos et l'antique Messène. Faites les plages le matin, quand la mer est la plus calme pour les petits.",
+      "it": "Dividete la settimana: qualche notte in un resort delle Navarino Dunes per l'Aqua Park e i kids club, poi un paio nella piu conveniente Gialova o a Kalamata per esplorare Voidokilia, il castello di Pylos e l'antica Messene. Fate le spiagge al mattino, quando il mare e piu calmo per i piu piccoli.",
+      "de": "Teilen Sie Ihre Woche auf: ein paar Nachte in einem Resort der Navarino Dunes fur den Aqua Park und die Kinderclubs, dann ein paar im preiswerteren Gialova oder in Kalamata, um Voidokilia, die Burg von Pylos und das antike Messene zu erkunden. Gehen Sie morgens an die Strande, wenn das Meer fur die Kleinen am ruhigsten ist.",
+      "es": "Reparte tu semana: unas noches en un resort de las Navarino Dunes para el Aqua Park y los clubs infantiles, y luego un par en la mas economica Gialova o en Kalamata para explorar Voidokilia, el castillo de Pylos y la antigua Mesene. Ve a las playas por la manana, cuando el mar esta mas tranquilo para los mas pequenos.",
+      "pt": "Divida a sua semana: umas noites num resort das Navarino Dunes para o Aqua Park e os clubes infantis, depois umas duas na mais economica Gialova ou em Kalamata para explorar Voidokilia, o castelo de Pylos e a antiga Messene. Va as praias de manha, quando o mar esta mais calmo para os mais pequenos."
     }
   }
 }

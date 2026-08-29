@@ -6,7 +6,11 @@
       "name": "Club Med Arcs Panorama",
       "area": {
         "en": "Les Arcs",
-        "fr": "Les Arcs"
+        "fr": "Les Arcs",
+        "it": "Les Arcs",
+        "de": "Les Arcs",
+        "es": "Les Arcs",
+        "pt": "Les Arcs"
       },
       "lat": 45.5962801,
       "lng": 6.8009425,
@@ -40,11 +44,19 @@
       },
       "roomsSummary": {
         "en": "This flagship is the newest of Club Med's Alpine villages, with wide family rooms and connecting configurations that sleep four or five, most facing the mountains. Cots, bottle warmers and space for a pram come as standard, and the design keeps ski gear, boots and buggies out of the sleeping area.",
-        "fr": "Ce village phare est le plus récent des villages alpins du Club Med : chambres familiales spacieuses et configurations communicantes pour quatre ou cinq personnes, la plupart face à la montagne. Lit bébé, chauffe-biberon et place pour la poussette sont prévus, et l'agencement garde le matériel de ski, les chaussures et la poussette hors de l'espace nuit."
+        "fr": "Ce village phare est le plus récent des villages alpins du Club Med : chambres familiales spacieuses et configurations communicantes pour quatre ou cinq personnes, la plupart face à la montagne. Lit bébé, chauffe-biberon et place pour la poussette sont prévus, et l'agencement garde le matériel de ski, les chaussures et la poussette hors de l'espace nuit.",
+        "it": "Questo villaggio di punta è il più recente tra i villaggi alpini del Club Med, con ampie camere per famiglie e configurazioni comunicanti che ospitano quattro o cinque persone, la maggior parte affacciate sulle montagne. Lettini, scaldabiberon e spazio per il passeggino sono di serie, e la disposizione tiene attrezzatura da sci, scarponi e passeggini fuori dalla zona notte.",
+        "de": "Dieses Vorzeigedorf ist das neueste der alpinen Feriendörfer von Club Med, mit geräumigen Familienzimmern und verbundenen Konfigurationen für vier oder fünf Personen, die meisten mit Blick auf die Berge. Babybetten, Fläschchenwärmer und Platz für einen Kinderwagen gehören zur Grundausstattung, und die Aufteilung hält Skiausrüstung, Skischuhe und Buggys aus dem Schlafbereich fern.",
+        "es": "Este buque insignia es el más reciente de los pueblos alpinos de Club Med, con amplias habitaciones familiares y configuraciones comunicadas para cuatro o cinco personas, la mayoría orientadas a las montañas. Cunas, calientabiberones y espacio para el cochecito vienen de serie, y el diseño mantiene el equipo de esquí, las botas y los carritos fuera de la zona de descanso.",
+        "pt": "Esta unidade principal é a mais recente das aldeias alpinas do Club Med, com quartos familiares amplos e configurações comunicantes para quatro ou cinco pessoas, a maioria virada para as montanhas. Berços, aquecedores de biberão e espaço para o carrinho vêm de série, e a disposição mantém o material de esqui, as botas e os carrinhos fora da zona de dormir."
       },
       "intro": {
         "en": "Arcs Panorama is Club Med's polished do-it-all ski village, dropped straight onto the snow at Arc 1600 with the lifts a few strides from the door. The whole week is bundled: lift passes, kids' group ski school with ESF, all meals with wine, and the Mini Club that keeps 4 to 10s busy while parents ski. After the last run there is an indoor pool and spa to thaw everyone out.",
-        "fr": "Arcs Panorama, c'est le village de ski tout compris du Club Med, posé directement sur la neige à Arc 1600, remontées à quelques pas de la porte. La semaine entière est incluse : forfaits, cours de ski collectifs des enfants avec l'ESF, tous les repas avec le vin, et le Mini Club qui occupe les 4 à 10 ans pendant que les parents skient. Après la dernière descente, la piscine intérieure et le spa réchauffent tout le monde."
+        "fr": "Arcs Panorama, c'est le village de ski tout compris du Club Med, posé directement sur la neige à Arc 1600, remontées à quelques pas de la porte. La semaine entière est incluse : forfaits, cours de ski collectifs des enfants avec l'ESF, tous les repas avec le vin, et le Mini Club qui occupe les 4 à 10 ans pendant que les parents skient. Après la dernière descente, la piscine intérieure et le spa réchauffent tout le monde.",
+        "it": "Arcs Panorama è il curatissimo villaggio sciistico tutto compreso del Club Med, posato direttamente sulla neve ad Arc 1600, con gli impianti a pochi passi dalla porta. L'intera settimana è inclusa: skipass, corsi di sci di gruppo per bambini con la ESF, tutti i pasti con il vino e il Mini Club che tiene occupati i 4-10 anni mentre i genitori sciano. Dopo l'ultima discesa, una piscina coperta e una spa per scaldare tutti.",
+        "de": "Arcs Panorama ist das elegante Rundum-sorglos-Skidorf von Club Med, direkt auf dem Schnee in Arc 1600 gelegen, mit den Liften nur wenige Schritte von der Tür entfernt. Die ganze Woche ist im Paket enthalten: Skipässe, Ski-Gruppenunterricht für Kinder mit der ESF, alle Mahlzeiten mit Wein und der Mini Club, der die 4- bis 10-Jährigen beschäftigt, während die Eltern Ski fahren. Nach der letzten Abfahrt wärmen ein Hallenbad und ein Spa alle wieder auf.",
+        "es": "Arcs Panorama es el pulido pueblo de esquí todo incluido de Club Med, situado directamente sobre la nieve en Arc 1600, con los remontes a pocos pasos de la puerta. Toda la semana viene en un solo paquete: forfaits, clases de esquí en grupo para niños con la ESF, todas las comidas con vino y el Mini Club que mantiene ocupados a los de 4 a 10 años mientras los padres esquían. Tras la última bajada, hay una piscina cubierta y un spa para que todos entren en calor.",
+        "pt": "O Arcs Panorama é a cuidada aldeia de esqui com tudo incluído do Club Med, colocada diretamente sobre a neve em Arc 1600, com os teleféricos a poucos passos da porta. A semana inteira está incluída: passes de esqui, aulas de esqui em grupo para crianças com a ESF, todas as refeições com vinho e o Mini Club que mantém os 4 aos 10 anos ocupados enquanto os pais esquiam. Depois da última descida, há uma piscina interior e um spa para aquecer toda a gente."
       },
       "highlights": {
         "en": [
@@ -60,6 +72,34 @@
           "Mini Club Med (4 à 10 ans) inclus pendant que vous skiez",
           "Piscine intérieure et spa pour les jambes fatiguées après le ski",
           "Le plus récent et le plus moderne des villages alpins"
+        ],
+        "it": [
+          "Vero ski-in, ski-out ad Arc 1600 con gli impianti davanti alla porta",
+          "Corsi di sci di gruppo per bambini con la ESF inclusi nel prezzo",
+          "Mini Club Med (4-10 anni) incluso mentre sciate",
+          "Piscina coperta e spa per le gambe stanche dopo lo sci",
+          "Il più recente e moderno dei villaggi alpini"
+        ],
+        "de": [
+          "Echtes Ski-in, Ski-out in Arc 1600 mit den Liften vor der Tür",
+          "Ski-Gruppenunterricht für Kinder mit der ESF im Preis inbegriffen",
+          "Mini Club Med (4 bis 10 Jahre) inklusive, während Sie Ski fahren",
+          "Hallenbad und Spa für müde Beine nach dem Skifahren",
+          "Das neueste und modernste der alpinen Feriendörfer"
+        ],
+        "es": [
+          "Auténtico ski-in, ski-out en Arc 1600 con los remontes junto a la puerta",
+          "Clases de esquí en grupo para niños con la ESF incluidas en el precio",
+          "Mini Club Med (4 a 10 años) incluido mientras esquías",
+          "Piscina cubierta y spa para las piernas cansadas tras esquiar",
+          "El más reciente y moderno de los pueblos alpinos"
+        ],
+        "pt": [
+          "Verdadeiro ski-in, ski-out em Arc 1600 com os teleféricos à porta",
+          "Aulas de esqui em grupo para crianças com a ESF incluídas no preço",
+          "Mini Club Med (4 aos 10 anos) incluído enquanto esquia",
+          "Piscina interior e spa para as pernas cansadas depois de esquiar",
+          "A mais recente e moderna das aldeias alpinas"
         ]
       },
       "pros": {
@@ -74,6 +114,30 @@
           "Le ski aux pieds évite la navette glacée avec des tout-petits fatigués",
           "Le tout compris couvre repas, goûters et boissons toute la journée",
           "Vue panoramique sur la montagne depuis la plupart des chambres familiales"
+        ],
+        "it": [
+          "Sci ai piedi, pensieri via: impianti, lezioni e assistenza ai bambini tutto gestito",
+          "Lo ski-in, ski-out evita la navetta gelida con i piccoli stanchi",
+          "Il tutto compreso copre pasti, spuntini e bevande per l'intera giornata",
+          "Vista panoramica sulle montagne dalla maggior parte delle camere familiari"
+        ],
+        "de": [
+          "Ski an, Sorgen aus: Lifte, Unterricht und Kinderbetreuung sind alle geregelt",
+          "Ski-in, Ski-out bedeutet kein kalter Shuttle mit müden Kleinkindern",
+          "All-inclusive deckt Mahlzeiten, Snacks und Getränke den ganzen Tag ab",
+          "Panoramablick auf die Berge aus den meisten Familienzimmern"
+        ],
+        "es": [
+          "Esquís puestos, preocupaciones fuera: remontes, clases y cuidado infantil resueltos",
+          "El ski-in, ski-out evita el traslado helado con los pequeños cansados",
+          "El todo incluido cubre comidas, meriendas y bebidas todo el día",
+          "Vistas panorámicas a la montaña desde la mayoría de las habitaciones familiares"
+        ],
+        "pt": [
+          "Esquis calçados, preocupações de lado: teleféricos, aulas e apoio às crianças tudo tratado",
+          "O ski-in, ski-out evita a viagem gelada com os pequenos cansados",
+          "O tudo incluído cobre refeições, lanches e bebidas o dia todo",
+          "Vistas panorâmicas da montanha da maioria dos quartos familiares"
         ]
       },
       "cons": {
@@ -86,59 +150,119 @@
           "Tarif premium, la façon la plus chère de skier aux Arcs",
           "Arc 1600 est fonctionnel plutôt qu'un village de carte postale",
           "Très fréquenté pendant les vacances scolaires françaises et britanniques"
+        ],
+        "it": [
+          "Prezzo premium, il modo più caro per sciare a Les Arcs",
+          "Arc 1600 è funzionale più che un villaggio da cartolina",
+          "Molto affollato durante le vacanze scolastiche francesi e britanniche"
+        ],
+        "de": [
+          "Premium-Preis, die teuerste Art, in Les Arcs Ski zu fahren",
+          "Arc 1600 ist eher funktional als ein Bilderbuchdorf",
+          "Sehr voll in den französischen und britischen Schulferien"
+        ],
+        "es": [
+          "Precio premium, la forma más cara de esquiar en Les Arcs",
+          "Arc 1600 es funcional más que un pueblo de postal",
+          "Muy concurrido en las vacaciones escolares francesas y británicas"
+        ],
+        "pt": [
+          "Preço premium, a forma mais cara de esquiar em Les Arcs",
+          "Arc 1600 é funcional em vez de uma aldeia de postal",
+          "Muito movimentado nas férias escolares francesas e britânicas"
         ]
       },
       "verdict": {
         "en": "If you want to ski hard while the children are taught, fed and entertained without a single logistics headache, this is the most complete family ski week Club Med runs in France.",
-        "fr": "Si vous voulez skier à fond pendant que les enfants sont encadrés, nourris et occupés sans le moindre casse-tête logistique, c'est la semaine de ski en famille la plus complète que le Club Med propose en France."
+        "fr": "Si vous voulez skier à fond pendant que les enfants sont encadrés, nourris et occupés sans le moindre casse-tête logistique, c'est la semaine de ski en famille la plus complète que le Club Med propose en France.",
+        "it": "Se volete sciare intensamente mentre i bambini vengono seguiti, nutriti e intrattenuti senza il minimo grattacapo logistico, questa è la settimana di sci in famiglia più completa che il Club Med proponga in Francia.",
+        "de": "Wenn Sie kräftig Ski fahren möchten, während die Kinder unterrichtet, verpflegt und unterhalten werden, ohne einen einzigen logistischen Kopfschmerz, ist dies die kompletteste Familien-Skiwoche, die Club Med in Frankreich anbietet.",
+        "es": "Si quieres esquiar a fondo mientras a los niños se les enseña, alimenta y entretiene sin un solo quebradero de cabeza logístico, esta es la semana de esquí en familia más completa que Club Med ofrece en Francia.",
+        "pt": "Se quer esquiar a fundo enquanto as crianças são acompanhadas, alimentadas e entretidas sem a menor dor de cabeça logística, esta é a semana de esqui em família mais completa que o Club Med oferece em França."
       },
       "parentTip": {
         "en": "Book the kids into ESF ski school for the first morning slot: they start fresh, and you get a clear run on empty pistes before the lifts fill up.",
-        "fr": "Inscrivez les enfants au premier créneau de l'ESF le matin : ils démarrent en forme, et vous profitez de pistes vides avant l'affluence sur les remontées."
+        "fr": "Inscrivez les enfants au premier créneau de l'ESF le matin : ils démarrent en forme, et vous profitez de pistes vides avant l'affluence sur les remontées.",
+        "it": "Iscrivete i bambini alla scuola di sci ESF nel primo turno del mattino: partono freschi e voi avete campo libero su piste vuote prima che gli impianti si affollino.",
+        "de": "Buchen Sie die Kinder für den ersten Vormittagstermin in die ESF-Skischule: Sie starten ausgeruht, und Sie haben freie Bahn auf leeren Pisten, bevor sich die Lifte füllen.",
+        "es": "Apunta a los niños a la escuela de esquí ESF en el primer turno de la mañana: empiezan frescos y tú tienes vía libre en pistas vacías antes de que los remontes se llenen.",
+        "pt": "Inscreva as crianças na escola de esqui ESF no primeiro horário da manhã: começam descansadas e você tem caminho livre em pistas vazias antes de os teleféricos encherem."
       },
       "atAGlance": [
         {
           "icon": "⛷️",
           "label": {
             "en": "Ski access",
-            "fr": "Accès au ski"
+            "fr": "Accès au ski",
+            "it": "Accesso alle piste",
+            "de": "Skizugang",
+            "es": "Acceso al esquí",
+            "pt": "Acesso ao esqui"
           },
           "value": {
             "en": "Ski-in, ski-out at Arc 1600",
-            "fr": "Ski aux pieds à Arc 1600"
+            "fr": "Ski aux pieds à Arc 1600",
+            "it": "Ski-in, ski-out ad Arc 1600",
+            "de": "Ski-in, Ski-out in Arc 1600",
+            "es": "Ski-in, ski-out en Arc 1600",
+            "pt": "Ski-in, ski-out em Arc 1600"
           }
         },
         {
           "icon": "🧒",
           "label": {
             "en": "Kids club",
-            "fr": "Club enfants"
+            "fr": "Club enfants",
+            "it": "Club per bambini",
+            "de": "Kinderclub",
+            "es": "Club infantil",
+            "pt": "Clube infantil"
           },
           "value": {
             "en": "Mini Club (4 to 10) and ski school included",
-            "fr": "Mini Club (4 à 10 ans) et école de ski inclus"
+            "fr": "Mini Club (4 à 10 ans) et école de ski inclus",
+            "it": "Mini Club (4-10 anni) e scuola di sci inclusi",
+            "de": "Mini Club (4 bis 10 Jahre) und Skischule inklusive",
+            "es": "Mini Club (4 a 10 años) y escuela de esquí incluidos",
+            "pt": "Mini Club (4 aos 10 anos) e escola de esqui incluídos"
           }
         },
         {
           "icon": "👶",
           "label": {
             "en": "Little ones",
-            "fr": "Tout-petits"
+            "fr": "Tout-petits",
+            "it": "I più piccoli",
+            "de": "Die Kleinsten",
+            "es": "Los más pequeños",
+            "pt": "Os mais pequenos"
           },
           "value": {
             "en": "Baby and Petit Club from 4 months, extra cost",
-            "fr": "Baby et Petit Club dès 4 mois, en supplément"
+            "fr": "Baby et Petit Club dès 4 mois, en supplément",
+            "it": "Baby e Petit Club dai 4 mesi, con supplemento",
+            "de": "Baby und Petit Club ab 4 Monaten, gegen Aufpreis",
+            "es": "Baby y Petit Club desde 4 meses, con coste extra",
+            "pt": "Baby e Petit Club a partir dos 4 meses, com custo extra"
           }
         },
         {
           "icon": "🏊",
           "label": {
             "en": "After ski",
-            "fr": "Après-ski"
+            "fr": "Après-ski",
+            "it": "Dopo lo sci",
+            "de": "Après-Ski",
+            "es": "Después del esquí",
+            "pt": "Depois do esqui"
           },
           "value": {
             "en": "Indoor pool and spa",
-            "fr": "Piscine intérieure et spa"
+            "fr": "Piscine intérieure et spa",
+            "it": "Piscina coperta e spa",
+            "de": "Hallenbad und Spa",
+            "es": "Piscina cubierta y spa",
+            "pt": "Piscina interior e spa"
           }
         }
       ],
@@ -146,31 +270,55 @@
         {
           "q": {
             "en": "Are children's ski lessons included?",
-            "fr": "Les cours de ski des enfants sont-ils inclus?"
+            "fr": "Les cours de ski des enfants sont-ils inclus?",
+            "it": "Le lezioni di sci per bambini sono incluse?",
+            "de": "Ist der Skiunterricht für Kinder inbegriffen?",
+            "es": "¿Están incluidas las clases de esquí para niños?",
+            "pt": "As aulas de esqui para crianças estão incluídas?"
           },
           "a": {
             "en": "Yes. Group ski lessons with ESF instructors for children aged 4 and up are part of the all-inclusive package, along with lift passes for the whole family.",
-            "fr": "Oui. Les cours de ski collectifs avec les moniteurs de l'ESF pour les enfants dès 4 ans font partie de la formule tout compris, avec les forfaits pour toute la famille."
+            "fr": "Oui. Les cours de ski collectifs avec les moniteurs de l'ESF pour les enfants dès 4 ans font partie de la formule tout compris, avec les forfaits pour toute la famille.",
+            "it": "Sì. I corsi di sci di gruppo con i maestri della ESF per i bambini dai 4 anni fanno parte del pacchetto tutto compreso, insieme agli skipass per tutta la famiglia.",
+            "de": "Ja. Ski-Gruppenunterricht mit ESF-Lehrern für Kinder ab 4 Jahren gehört zum All-inclusive-Paket, ebenso wie die Skipässe für die ganze Familie.",
+            "es": "Sí. Las clases de esquí en grupo con monitores de la ESF para niños a partir de 4 años forman parte del paquete todo incluido, junto con los forfaits para toda la familia.",
+            "pt": "Sim. As aulas de esqui em grupo com instrutores da ESF para crianças a partir dos 4 anos fazem parte do pacote com tudo incluído, juntamente com os passes de esqui para toda a família."
           }
         },
         {
           "q": {
             "en": "Is there childcare for babies and toddlers?",
-            "fr": "Y a-t-il une garde pour les bébés et les tout-petits?"
+            "fr": "Y a-t-il une garde pour les bébés et les tout-petits?",
+            "it": "C'è assistenza per neonati e bambini piccoli?",
+            "de": "Gibt es Betreuung für Babys und Kleinkinder?",
+            "es": "¿Hay cuidado para bebés y niños pequeños?",
+            "pt": "Há apoio para bebés e crianças pequenas?"
           },
           "a": {
             "en": "Yes. Baby Club Med takes little ones from 4 to 23 months and Petit Club Med covers 2 to 3 year olds. Both are supervised by trained staff and available at an extra charge, so it is worth booking ahead.",
-            "fr": "Oui. Le Baby Club Med accueille les petits de 4 à 23 mois et le Petit Club Med les 2 à 3 ans. Les deux sont encadrés par du personnel formé et proposés en supplément, mieux vaut donc réserver à l'avance."
+            "fr": "Oui. Le Baby Club Med accueille les petits de 4 à 23 mois et le Petit Club Med les 2 à 3 ans. Les deux sont encadrés par du personnel formé et proposés en supplément, mieux vaut donc réserver à l'avance.",
+            "it": "Sì. Il Baby Club Med accoglie i piccoli dai 4 ai 23 mesi e il Petit Club Med copre i bambini dai 2 ai 3 anni. Entrambi sono seguiti da personale qualificato e disponibili con supplemento, quindi conviene prenotare in anticipo.",
+            "de": "Ja. Der Baby Club Med nimmt die Kleinen von 4 bis 23 Monaten auf und der Petit Club Med betreut die 2- bis 3-Jährigen. Beide werden von geschultem Personal beaufsichtigt und sind gegen Aufpreis verfügbar, daher lohnt es sich, vorab zu buchen.",
+            "es": "Sí. El Baby Club Med acoge a los más pequeños de 4 a 23 meses y el Petit Club Med cubre a los de 2 a 3 años. Ambos están supervisados por personal cualificado y disponibles con coste adicional, así que conviene reservar con antelación.",
+            "pt": "Sim. O Baby Club Med acolhe os pequenos dos 4 aos 23 meses e o Petit Club Med abrange as crianças dos 2 aos 3 anos. Ambos são supervisionados por pessoal qualificado e disponíveis com custo extra, por isso vale a pena reservar com antecedência."
           }
         },
         {
           "q": {
             "en": "Is it really ski-in, ski-out?",
-            "fr": "Est-ce vraiment du ski aux pieds?"
+            "fr": "Est-ce vraiment du ski aux pieds?",
+            "it": "È davvero ski-in, ski-out?",
+            "de": "Ist es wirklich Ski-in, Ski-out?",
+            "es": "¿Es realmente ski-in, ski-out?",
+            "pt": "É mesmo ski-in, ski-out?"
           },
           "a": {
             "en": "Yes. The village sits on the snow at Arc 1600 with lifts a few steps from the ski room, so you clip in at the door rather than walking or shuttling to the slopes.",
-            "fr": "Oui. Le village est posé sur la neige à Arc 1600, remontées à quelques pas du local à skis : vous chaussez devant la porte au lieu de marcher ou de prendre une navette jusqu'aux pistes."
+            "fr": "Oui. Le village est posé sur la neige à Arc 1600, remontées à quelques pas du local à skis : vous chaussez devant la porte au lieu de marcher ou de prendre une navette jusqu'aux pistes.",
+            "it": "Sì. Il villaggio sorge sulla neve ad Arc 1600 con gli impianti a pochi passi dal deposito sci, quindi vi allacciate gli sci davanti alla porta invece di camminare o prendere una navetta fino alle piste.",
+            "de": "Ja. Das Dorf liegt auf dem Schnee in Arc 1600 mit den Liften nur wenige Schritte vom Skiraum entfernt, sodass Sie direkt an der Tür einsteigen, statt zu den Pisten zu laufen oder einen Shuttle zu nehmen.",
+            "es": "Sí. El pueblo se asienta sobre la nieve en Arc 1600 con los remontes a pocos pasos de la sala de esquís, así que te calzas los esquís en la puerta en lugar de caminar o tomar un traslado hasta las pistas.",
+            "pt": "Sim. A aldeia assenta sobre a neve em Arc 1600 com os teleféricos a poucos passos da sala de esquis, por isso calça os esquis à porta em vez de caminhar ou apanhar uma viagem até às pistas."
           }
         }
       ]
@@ -181,7 +329,11 @@
       "name": "Club Med Tignes",
       "area": {
         "en": "Tignes",
-        "fr": "Tignes"
+        "fr": "Tignes",
+        "it": "Tignes",
+        "de": "Tignes",
+        "es": "Tignes",
+        "pt": "Tignes"
       },
       "lat": 45.4553833,
       "lng": 6.8978877,
@@ -215,11 +367,19 @@
       },
       "roomsSummary": {
         "en": "Family rooms and connecting suites sleep four to five, many looking straight onto the Grande Motte glacier. Cots, bottle warmers and quiet corners for an early bedtime are standard, and there is dry storage so wet gloves and boots never end up in the room.",
-        "fr": "Chambres familiales et suites communicantes pour quatre à cinq personnes, beaucoup avec vue directe sur le glacier de la Grande Motte. Lit bébé, chauffe-biberon et coins calmes pour un coucher tôt sont prévus, avec un séchage pour que gants et chaussures mouillés ne finissent jamais dans la chambre."
+        "fr": "Chambres familiales et suites communicantes pour quatre à cinq personnes, beaucoup avec vue directe sur le glacier de la Grande Motte. Lit bébé, chauffe-biberon et coins calmes pour un coucher tôt sont prévus, avec un séchage pour que gants et chaussures mouillés ne finissent jamais dans la chambre.",
+        "it": "Camere familiari e suite comunicanti ospitano da quattro a cinque persone, molte con vista diretta sul ghiacciaio della Grande Motte. Lettini, scaldabiberon e angoli tranquilli per una nanna anticipata sono di serie, e c'è un deposito asciutto perché guanti e scarponi bagnati non finiscano mai in camera.",
+        "de": "Familienzimmer und verbundene Suiten bieten Platz für vier bis fünf Personen, viele mit direktem Blick auf den Grande-Motte-Gletscher. Babybetten, Fläschchenwärmer und ruhige Ecken für ein frühes Zubettgehen gehören zur Standardausstattung, und es gibt einen Trockenraum, damit nasse Handschuhe und Skischuhe nie im Zimmer landen.",
+        "es": "Las habitaciones familiares y suites comunicadas alojan de cuatro a cinco personas, muchas con vistas directas al glaciar de la Grande Motte. Cunas, calientabiberones y rincones tranquilos para acostarse pronto vienen de serie, y hay un secadero para que los guantes y las botas mojadas nunca acaben en la habitación.",
+        "pt": "Os quartos familiares e as suites comunicantes acomodam quatro a cinco pessoas, muitos com vista direta para o glaciar da Grande Motte. Berços, aquecedores de biberão e cantos tranquilos para deitar cedo vêm de série, e há um espaço de secagem para que luvas e botas molhadas nunca acabem no quarto."
       },
       "intro": {
         "en": "Tignes sits high and snow-sure, wired to the Grande Motte glacier so the season runs long and the pistes stay reliable. Club Med's village puts you in the middle of it with lift passes, ESF ski school for the children, all meals and drinks, and a Mini Club for 4 to 10s. It is the pick for families who want guaranteed snow and a lot of skiing.",
-        "fr": "Tignes est haute et sûre côté neige, reliée au glacier de la Grande Motte : la saison est longue et les pistes restent fiables. Le village Club Med vous installe au cœur de la station avec les forfaits, l'école de ski ESF pour les enfants, tous les repas et boissons, et un Mini Club pour les 4 à 10 ans. C'est le choix des familles qui veulent de la neige garantie et beaucoup de ski."
+        "fr": "Tignes est haute et sûre côté neige, reliée au glacier de la Grande Motte : la saison est longue et les pistes restent fiables. Le village Club Med vous installe au cœur de la station avec les forfaits, l'école de ski ESF pour les enfants, tous les repas et boissons, et un Mini Club pour les 4 à 10 ans. C'est le choix des familles qui veulent de la neige garantie et beaucoup de ski.",
+        "it": "Tignes sorge in alta quota e ha neve sicura, collegata al ghiacciaio della Grande Motte: la stagione è lunga e le piste restano affidabili. Il villaggio Club Med vi mette proprio al centro, con skipass, scuola di sci ESF per i bambini, tutti i pasti e le bevande e un Mini Club per i 4-10 anni. È la scelta per le famiglie che vogliono neve garantita e tanto sci.",
+        "de": "Tignes liegt hoch und schneesicher, angebunden an den Grande-Motte-Gletscher, sodass die Saison lang ist und die Pisten zuverlässig bleiben. Das Club-Med-Dorf bringt Sie mitten hinein, mit Skipässen, ESF-Skischule für die Kinder, allen Mahlzeiten und Getränken und einem Mini Club für die 4- bis 10-Jährigen. Es ist die Wahl für Familien, die garantierten Schnee und viel Skifahren wollen.",
+        "es": "Tignes está en altura y con nieve segura, conectada al glaciar de la Grande Motte, así que la temporada es larga y las pistas siguen fiables. El pueblo de Club Med te pone en el centro con forfaits, escuela de esquí ESF para los niños, todas las comidas y bebidas y un Mini Club para los de 4 a 10 años. Es la elección para las familias que quieren nieve garantizada y mucho esquí.",
+        "pt": "Tignes fica em altitude e com neve garantida, ligada ao glaciar da Grande Motte, por isso a época é longa e as pistas continuam fiáveis. A aldeia do Club Med põe-no bem no centro, com passes de esqui, escola de esqui ESF para as crianças, todas as refeições e bebidas e um Mini Club para os 4 aos 10 anos. É a escolha para famílias que querem neve garantida e muito esqui."
       },
       "highlights": {
         "en": [
@@ -235,6 +395,34 @@
           "Mini Club Med (4 à 10 ans) inclus pendant les heures de ski",
           "Saison longue grâce au glacier de la Grande Motte",
           "Tout compris complet avec repas, vin et goûters"
+        ],
+        "it": [
+          "Alta quota e un ghiacciaio, la scelta più sicura per la neve",
+          "Corsi di sci di gruppo ESF per bambini inclusi",
+          "Mini Club Med (4-10 anni) incluso durante le ore di sci",
+          "Stagione lunga grazie al ghiacciaio della Grande Motte",
+          "Tutto compreso completo con pasti, vino e spuntini"
+        ],
+        "de": [
+          "Große Höhe und ein Gletscher, die schneesicherste Wahl",
+          "ESF-Ski-Gruppenunterricht für Kinder inklusive",
+          "Mini Club Med (4 bis 10 Jahre) während der Skizeiten inklusive",
+          "Lange Saison dank des Grande-Motte-Gletschers",
+          "Volles All-inclusive mit Mahlzeiten, Wein und Snacks"
+        ],
+        "es": [
+          "Gran altitud y un glaciar, la opción más segura en nieve",
+          "Clases de esquí en grupo ESF para niños incluidas",
+          "Mini Club Med (4 a 10 años) incluido durante las horas de esquí",
+          "Temporada larga gracias al glaciar de la Grande Motte",
+          "Todo incluido completo con comidas, vino y meriendas"
+        ],
+        "pt": [
+          "Altitude elevada e um glaciar, a escolha mais garantida em neve",
+          "Aulas de esqui em grupo ESF para crianças incluídas",
+          "Mini Club Med (4 aos 10 anos) incluído durante as horas de esqui",
+          "Época longa graças ao glaciar da Grande Motte",
+          "Tudo incluído completo com refeições, vinho e lanches"
         ]
       },
       "pros": {
@@ -249,6 +437,30 @@
           "Grand domaine relié pour les parents qui veulent avaler du kilomètre",
           "Tout réglé d'avance, pas de gestion quotidienne des forfaits",
           "Vue sur le glacier depuis de nombreuses chambres familiales"
+        ],
+        "it": [
+          "Neve affidabile anche in un inverno mite",
+          "Ampio comprensorio collegato per i genitori che vogliono macinare chilometri",
+          "Tutto pagato in anticipo, nessuna gestione quotidiana degli skipass",
+          "Vista sul ghiacciaio da molte camere familiari"
+        ],
+        "de": [
+          "Zuverlässiger Schnee auch in einem milden Winter",
+          "Großes verbundenes Skigebiet für Eltern, die Kilometer machen wollen",
+          "Alles im Voraus bezahlt, keine tägliche Skipass-Verwaltung",
+          "Gletscherblick aus vielen Familienzimmern"
+        ],
+        "es": [
+          "Nieve fiable incluso en un invierno suave",
+          "Gran dominio conectado para los padres que quieren acumular kilómetros",
+          "Todo pagado por adelantado, sin gestión diaria de forfaits",
+          "Vistas al glaciar desde muchas habitaciones familiares"
+        ],
+        "pt": [
+          "Neve fiável mesmo num inverno ameno",
+          "Grande domínio ligado para os pais que querem somar quilómetros",
+          "Tudo pago à cabeça, sem gestão diária de passes",
+          "Vista para o glaciar de muitos quartos familiares"
         ]
       },
       "cons": {
@@ -261,59 +473,119 @@
           "Station d'altitude à l'ambiance minérale, pas un village pittoresque",
           "Le temps en altitude peut vite tourner, prévoyez des plans en intérieur",
           "Tarif premium en pleines vacances scolaires"
+        ],
+        "it": [
+          "La stazione d'alta quota ha un'atmosfera spoglia, non è un villaggio da cartolina",
+          "Il tempo in quota può cambiare in fretta, prevedete alternative al coperto",
+          "Prezzo premium nelle vacanze scolastiche di alta stagione"
+        ],
+        "de": [
+          "Der Hochgebirgsort wirkt karg, kein malerisches Bilderbuchdorf",
+          "Das Wetter in der Höhe kann schnell umschlagen, planen Sie Alternativen für drinnen",
+          "Premium-Preis in den Hauptschulferien"
+        ],
+        "es": [
+          "La estación de altura resulta austera, no es un pueblo de cuento",
+          "El tiempo en altura puede cambiar rápido, planifica alternativas en interior",
+          "Precio premium en las vacaciones escolares de temporada alta"
+        ],
+        "pt": [
+          "A estação de altitude tem um ambiente despojado, não é uma aldeia pitoresca",
+          "O tempo em altitude pode mudar depressa, planeie alternativas em espaços interiores",
+          "Preço premium nas férias escolares de época alta"
         ]
       },
       "verdict": {
         "en": "For families who care most about guaranteed snow and serious ski terrain, Tignes is the safe bet, with the childcare and lessons sorted so parents actually get to ski.",
-        "fr": "Pour les familles qui privilégient la neige garantie et un vrai terrain de ski, Tignes est la valeur sûre, avec la garde et les cours réglés pour que les parents skient vraiment."
+        "fr": "Pour les familles qui privilégient la neige garantie et un vrai terrain de ski, Tignes est la valeur sûre, avec la garde et les cours réglés pour que les parents skient vraiment.",
+        "it": "Per le famiglie a cui interessa soprattutto la neve garantita e un terreno di sci serio, Tignes è la scelta sicura, con l'assistenza ai bambini e le lezioni già organizzate perché i genitori sciino davvero.",
+        "de": "Für Familien, denen garantierter Schnee und ernsthaftes Skigelände am wichtigsten sind, ist Tignes die sichere Bank, mit geregelter Kinderbetreuung und Unterricht, damit die Eltern wirklich zum Skifahren kommen.",
+        "es": "Para las familias a las que más les importa la nieve garantizada y un terreno de esquí serio, Tignes es la apuesta segura, con el cuidado infantil y las clases resueltos para que los padres esquíen de verdad.",
+        "pt": "Para as famílias que mais valorizam a neve garantida e um terreno de esqui a sério, Tignes é a aposta segura, com o apoio às crianças e as aulas tratados para que os pais esquiem mesmo."
       },
       "parentTip": {
         "en": "At this altitude the sun is fierce even when it is cold, so slather the kids in high-factor cream and pack lip balm before every Mini Club drop-off.",
-        "fr": "À cette altitude le soleil tape fort même par temps froid : tartinez les enfants de crème haute protection et glissez un stick à lèvres avant chaque dépose au Mini Club."
+        "fr": "À cette altitude le soleil tape fort même par temps froid : tartinez les enfants de crème haute protection et glissez un stick à lèvres avant chaque dépose au Mini Club.",
+        "it": "A questa quota il sole è intenso anche quando fa freddo, quindi spalmate bene i bambini di crema ad alta protezione e mettete in tasca un burrocacao prima di ogni consegna al Mini Club.",
+        "de": "In dieser Höhe ist die Sonne selbst bei Kälte intensiv, also cremen Sie die Kinder mit hohem Lichtschutzfaktor ein und stecken Sie vor jeder Abgabe im Mini Club einen Lippenbalsam ein.",
+        "es": "A esta altura el sol pega fuerte incluso con frío, así que embadurna a los niños con crema de alta protección y lleva cacao labial antes de cada entrega en el Mini Club.",
+        "pt": "A esta altitude o sol é forte mesmo quando está frio, por isso barre bem as crianças com creme de proteção alta e leve um protetor labial antes de cada entrega no Mini Club."
       },
       "atAGlance": [
         {
           "icon": "⛷️",
           "label": {
             "en": "Ski access",
-            "fr": "Accès au ski"
+            "fr": "Accès au ski",
+            "it": "Accesso alle piste",
+            "de": "Skizugang",
+            "es": "Acceso al esquí",
+            "pt": "Acesso ao esqui"
           },
           "value": {
             "en": "In-resort at Tignes, glacier-linked",
-            "fr": "Dans la station de Tignes, relié au glacier"
+            "fr": "Dans la station de Tignes, relié au glacier",
+            "it": "Nella stazione di Tignes, collegata al ghiacciaio",
+            "de": "Im Ort Tignes, mit Gletscheranbindung",
+            "es": "En la estación de Tignes, conectada al glaciar",
+            "pt": "Na estação de Tignes, ligada ao glaciar"
           }
         },
         {
           "icon": "🧒",
           "label": {
             "en": "Kids club",
-            "fr": "Club enfants"
+            "fr": "Club enfants",
+            "it": "Club per bambini",
+            "de": "Kinderclub",
+            "es": "Club infantil",
+            "pt": "Clube infantil"
           },
           "value": {
             "en": "Mini Club (4 to 10) and ESF lessons included",
-            "fr": "Mini Club (4 à 10 ans) et cours ESF inclus"
+            "fr": "Mini Club (4 à 10 ans) et cours ESF inclus",
+            "it": "Mini Club (4-10 anni) e lezioni ESF inclusi",
+            "de": "Mini Club (4 bis 10 Jahre) und ESF-Unterricht inklusive",
+            "es": "Mini Club (4 a 10 años) y clases ESF incluidos",
+            "pt": "Mini Club (4 aos 10 anos) e aulas ESF incluídos"
           }
         },
         {
           "icon": "👶",
           "label": {
             "en": "Little ones",
-            "fr": "Tout-petits"
+            "fr": "Tout-petits",
+            "it": "I più piccoli",
+            "de": "Die Kleinsten",
+            "es": "Los más pequeños",
+            "pt": "Os mais pequenos"
           },
           "value": {
             "en": "Baby and Petit Club from 4 months, extra cost",
-            "fr": "Baby et Petit Club dès 4 mois, en supplément"
+            "fr": "Baby et Petit Club dès 4 mois, en supplément",
+            "it": "Baby e Petit Club dai 4 mesi, con supplemento",
+            "de": "Baby und Petit Club ab 4 Monaten, gegen Aufpreis",
+            "es": "Baby y Petit Club desde 4 meses, con coste extra",
+            "pt": "Baby e Petit Club a partir dos 4 meses, com custo extra"
           }
         },
         {
           "icon": "❄️",
           "label": {
             "en": "Snow",
-            "fr": "Neige"
+            "fr": "Neige",
+            "it": "Neve",
+            "de": "Schnee",
+            "es": "Nieve",
+            "pt": "Neve"
           },
           "value": {
             "en": "High altitude and glacier, snow-sure",
-            "fr": "Haute altitude et glacier, neige assurée"
+            "fr": "Haute altitude et glacier, neige assurée",
+            "it": "Alta quota e ghiacciaio, neve sicura",
+            "de": "Große Höhe und Gletscher, schneesicher",
+            "es": "Gran altitud y glaciar, nieve segura",
+            "pt": "Altitude elevada e glaciar, neve garantida"
           }
         }
       ],
@@ -321,31 +593,55 @@
         {
           "q": {
             "en": "Is the snow reliable at Tignes?",
-            "fr": "La neige est-elle fiable à Tignes?"
+            "fr": "La neige est-elle fiable à Tignes?",
+            "it": "La neve è affidabile a Tignes?",
+            "de": "Ist der Schnee in Tignes zuverlässig?",
+            "es": "¿Es fiable la nieve en Tignes?",
+            "pt": "A neve é fiável em Tignes?"
           },
           "a": {
             "en": "Very. Tignes is one of France's highest resorts and is linked to the Grande Motte glacier, so it holds snow long into spring and rarely disappoints even in a mild winter.",
-            "fr": "Très. Tignes est l'une des stations les plus hautes de France et est reliée au glacier de la Grande Motte : elle garde la neige jusqu'au printemps et déçoit rarement, même par hiver doux."
+            "fr": "Très. Tignes est l'une des stations les plus hautes de France et est reliée au glacier de la Grande Motte : elle garde la neige jusqu'au printemps et déçoit rarement, même par hiver doux.",
+            "it": "Molto. Tignes è una delle stazioni più alte della Francia ed è collegata al ghiacciaio della Grande Motte, quindi mantiene la neve fino a primavera inoltrata e delude di rado, anche in un inverno mite.",
+            "de": "Sehr. Tignes ist einer der höchstgelegenen Orte Frankreichs und mit dem Grande-Motte-Gletscher verbunden, sodass der Schnee bis weit in den Frühling hält und selbst in einem milden Winter selten enttäuscht.",
+            "es": "Mucho. Tignes es una de las estaciones más altas de Francia y está conectada al glaciar de la Grande Motte, así que conserva la nieve hasta bien entrada la primavera y rara vez decepciona, incluso en un invierno suave.",
+            "pt": "Muito. Tignes é uma das estações mais altas de França e está ligada ao glaciar da Grande Motte, por isso mantém a neve até à primavera avançada e raramente desilude, mesmo num inverno ameno."
           }
         },
         {
           "q": {
             "en": "Are kids' lessons and childcare covered?",
-            "fr": "Les cours des enfants et la garde sont-ils couverts?"
+            "fr": "Les cours des enfants et la garde sont-ils couverts?",
+            "it": "Le lezioni per bambini e l'assistenza sono incluse?",
+            "de": "Sind Kinderunterricht und Betreuung abgedeckt?",
+            "es": "¿Están cubiertas las clases infantiles y el cuidado?",
+            "pt": "As aulas para crianças e o apoio estão cobertos?"
           },
           "a": {
             "en": "Group ski lessons with ESF and the Mini Club Med for 4 to 10s are included. Baby Club Med (4 to 23 months) and Petit Club Med (2 to 3 years) are available for an extra charge and should be reserved ahead.",
-            "fr": "Les cours de ski collectifs ESF et le Mini Club Med pour les 4 à 10 ans sont inclus. Le Baby Club Med (4 à 23 mois) et le Petit Club Med (2 à 3 ans) sont proposés en supplément et à réserver à l'avance."
+            "fr": "Les cours de ski collectifs ESF et le Mini Club Med pour les 4 à 10 ans sont inclus. Le Baby Club Med (4 à 23 mois) et le Petit Club Med (2 à 3 ans) sont proposés en supplément et à réserver à l'avance.",
+            "it": "I corsi di sci di gruppo con la ESF e il Mini Club Med per i 4-10 anni sono inclusi. Il Baby Club Med (4-23 mesi) e il Petit Club Med (2-3 anni) sono disponibili con supplemento e vanno prenotati in anticipo.",
+            "de": "Ski-Gruppenunterricht mit der ESF und der Mini Club Med für die 4- bis 10-Jährigen sind inbegriffen. Der Baby Club Med (4 bis 23 Monate) und der Petit Club Med (2 bis 3 Jahre) sind gegen Aufpreis verfügbar und sollten vorab reserviert werden.",
+            "es": "Las clases de esquí en grupo con la ESF y el Mini Club Med para los de 4 a 10 años están incluidos. El Baby Club Med (4 a 23 meses) y el Petit Club Med (2 a 3 años) están disponibles con coste extra y conviene reservarlos con antelación.",
+            "pt": "As aulas de esqui em grupo com a ESF e o Mini Club Med para os 4 aos 10 anos estão incluídos. O Baby Club Med (4 aos 23 meses) e o Petit Club Med (2 aos 3 anos) estão disponíveis com custo extra e devem ser reservados com antecedência."
           }
         },
         {
           "q": {
             "en": "Is Tignes good for young children given the altitude?",
-            "fr": "Tignes convient-elle aux jeunes enfants vu l'altitude?"
+            "fr": "Tignes convient-elle aux jeunes enfants vu l'altitude?",
+            "it": "Tignes è adatta ai bambini piccoli vista l'altitudine?",
+            "de": "Ist Tignes angesichts der Höhe für kleine Kinder geeignet?",
+            "es": "¿Es Tignes bueno para niños pequeños dada la altitud?",
+            "pt": "Tignes é adequada para crianças pequenas dada a altitude?"
           },
           "a": {
             "en": "Yes, but give little ones a gentle first day to adjust, keep them hydrated, and use the indoor pool and clubs on very cold or windy afternoons.",
-            "fr": "Oui, mais accordez aux plus petits une première journée tranquille pour s'acclimater, veillez à bien les hydrater, et profitez de la piscine intérieure et des clubs les après-midis très froids ou venteux."
+            "fr": "Oui, mais accordez aux plus petits une première journée tranquille pour s'acclimater, veillez à bien les hydrater, et profitez de la piscine intérieure et des clubs les après-midis très froids ou venteux.",
+            "it": "Sì, ma concedete ai più piccoli una prima giornata tranquilla per abituarsi, teneteli ben idratati e sfruttate la piscina coperta e i club nei pomeriggi molto freddi o ventosi.",
+            "de": "Ja, aber gönnen Sie den Kleinen einen ruhigen ersten Tag zur Eingewöhnung, halten Sie sie gut hydriert und nutzen Sie das Hallenbad und die Clubs an sehr kalten oder windigen Nachmittagen.",
+            "es": "Sí, pero dale a los más pequeños un primer día tranquilo para aclimatarse, mantenlos bien hidratados y aprovecha la piscina cubierta y los clubs en las tardes muy frías o con viento.",
+            "pt": "Sim, mas dê aos mais pequenos um primeiro dia tranquilo para se adaptarem, mantenha-os bem hidratados e aproveite a piscina interior e os clubes nas tardes muito frias ou ventosas."
           }
         }
       ]
@@ -356,7 +652,11 @@
       "name": "Club Med Alpe d'Huez",
       "area": {
         "en": "Alpe d'Huez",
-        "fr": "Alpe d'Huez"
+        "fr": "Alpe d'Huez",
+        "it": "Alpe d'Huez",
+        "de": "Alpe d'Huez",
+        "es": "Alpe d'Huez",
+        "pt": "Alpe d'Huez"
       },
       "lat": 45.0889511,
       "lng": 6.08152,
@@ -390,11 +690,19 @@
       },
       "roomsSummary": {
         "en": "Bright family rooms and connecting options sleep four to five, with the sunny south-facing aspect Alpe d'Huez is known for. Cots and bottle warmers are on hand, and the layout keeps a sleeping baby separate from parents winding down after a day on the snow.",
-        "fr": "Chambres familiales lumineuses et options communicantes pour quatre à cinq personnes, avec l'exposition sud ensoleillée qui fait la réputation de l'Alpe d'Huez. Lit bébé et chauffe-biberon sont disponibles, et l'agencement sépare le bébé qui dort des parents qui décompressent après une journée sur la neige."
+        "fr": "Chambres familiales lumineuses et options communicantes pour quatre à cinq personnes, avec l'exposition sud ensoleillée qui fait la réputation de l'Alpe d'Huez. Lit bébé et chauffe-biberon sont disponibles, et l'agencement sépare le bébé qui dort des parents qui décompressent après une journée sur la neige.",
+        "it": "Camere familiari luminose e opzioni comunicanti ospitano da quattro a cinque persone, con la soleggiata esposizione a sud per cui l'Alpe d'Huez è famosa. Lettini e scaldabiberon sono a disposizione, e la disposizione tiene il neonato che dorme separato dai genitori che si rilassano dopo una giornata sulla neve.",
+        "de": "Helle Familienzimmer und verbundene Optionen bieten Platz für vier bis fünf Personen, mit der sonnigen Südlage, für die Alpe d'Huez bekannt ist. Babybetten und Fläschchenwärmer stehen bereit, und die Aufteilung trennt das schlafende Baby von den Eltern, die nach einem Tag im Schnee zur Ruhe kommen.",
+        "es": "Habitaciones familiares luminosas y opciones comunicadas alojan de cuatro a cinco personas, con la soleada orientación sur por la que Alpe d'Huez es conocida. Hay cunas y calientabiberones a mano, y la distribución mantiene al bebé dormido separado de los padres que se relajan tras un día en la nieve.",
+        "pt": "Quartos familiares luminosos e opções comunicantes acomodam quatro a cinco pessoas, com a exposição sul soalheira pela qual Alpe d'Huez é conhecida. Há berços e aquecedores de biberão à mão, e a disposição mantém o bebé a dormir separado dos pais que descontraem depois de um dia na neve."
       },
       "intro": {
         "en": "Alpe d'Huez is the big, sunny, wide-open ski area, nicknamed the Island in the Sun, with long gentle runs that suit families learning together. Club Med's village bundles lift passes, ESF ski school for the children, all meals and drinks and the Mini Club, plus one of the best indoor pools of the Alpine line-up for the end of the day.",
-        "fr": "L'Alpe d'Huez, c'est le grand domaine ensoleillé et dégagé, surnommé l'Île au Soleil, avec de longues pistes douces parfaites pour apprendre en famille. Le village Club Med regroupe les forfaits, l'école de ski ESF pour les enfants, tous les repas et boissons et le Mini Club, avec l'une des plus belles piscines intérieures des villages alpins pour la fin de journée."
+        "fr": "L'Alpe d'Huez, c'est le grand domaine ensoleillé et dégagé, surnommé l'Île au Soleil, avec de longues pistes douces parfaites pour apprendre en famille. Le village Club Med regroupe les forfaits, l'école de ski ESF pour les enfants, tous les repas et boissons et le Mini Club, avec l'une des plus belles piscines intérieures des villages alpins pour la fin de journée.",
+        "it": "L'Alpe d'Huez è il grande comprensorio soleggiato e aperto, soprannominato l'Isola al Sole, con lunghe piste dolci perfette per imparare in famiglia. Il villaggio Club Med raggruppa skipass, scuola di sci ESF per i bambini, tutti i pasti e le bevande e il Mini Club, oltre a una delle piscine coperte più belle tra i villaggi alpini per la fine della giornata.",
+        "de": "Alpe d'Huez ist das große, sonnige, weitläufige Skigebiet, genannt die Insel in der Sonne, mit langen sanften Abfahrten, die sich fürs gemeinsame Lernen in der Familie eignen. Das Club-Med-Dorf bündelt Skipässe, ESF-Skischule für die Kinder, alle Mahlzeiten und Getränke und den Mini Club, dazu eines der besten Hallenbäder der alpinen Feriendörfer für den Tagesausklang.",
+        "es": "Alpe d'Huez es el gran dominio soleado y abierto, apodado la Isla al Sol, con largas pistas suaves ideales para aprender en familia. El pueblo de Club Med agrupa forfaits, escuela de esquí ESF para los niños, todas las comidas y bebidas y el Mini Club, además de una de las mejores piscinas cubiertas de los pueblos alpinos para el final del día.",
+        "pt": "Alpe d'Huez é o grande domínio soalheiro e aberto, apelidado de Ilha ao Sol, com longas pistas suaves perfeitas para aprender em família. A aldeia do Club Med reúne passes de esqui, escola de esqui ESF para as crianças, todas as refeições e bebidas e o Mini Club, além de uma das melhores piscinas interiores das aldeias alpinas para o fim do dia."
       },
       "highlights": {
         "en": [
@@ -410,6 +718,34 @@
           "Mini Club Med (4 à 10 ans) inclus pendant que vous skiez",
           "L'une des plus belles piscines intérieures des villages alpins",
           "Souvent la semaine de ski Club Med la plus abordable de France"
+        ],
+        "it": [
+          "Piste larghe e soleggiate, ideali per principianti e famiglie",
+          "Corsi di sci di gruppo ESF per bambini inclusi",
+          "Mini Club Med (4-10 anni) incluso mentre sciate",
+          "Una delle piscine coperte più belle dei villaggi alpini",
+          "Spesso la settimana di sci Club Med più conveniente di Francia"
+        ],
+        "de": [
+          "Sonnige, breite Pisten, ideal für Anfänger und Familien",
+          "ESF-Ski-Gruppenunterricht für Kinder inklusive",
+          "Mini Club Med (4 bis 10 Jahre) inklusive, während Sie Ski fahren",
+          "Eines der besten Hallenbäder der alpinen Feriendörfer",
+          "Oft die preiswerteste Club-Med-Skiwoche in Frankreich"
+        ],
+        "es": [
+          "Pistas amplias y soleadas, ideales para principiantes y familias",
+          "Clases de esquí en grupo ESF para niños incluidas",
+          "Mini Club Med (4 a 10 años) incluido mientras esquías",
+          "Una de las mejores piscinas cubiertas de los pueblos alpinos",
+          "A menudo la semana de esquí Club Med más económica de Francia"
+        ],
+        "pt": [
+          "Pistas largas e soalheiras, ideais para principiantes e famílias",
+          "Aulas de esqui em grupo ESF para crianças incluídas",
+          "Mini Club Med (4 aos 10 anos) incluído enquanto esquia",
+          "Uma das melhores piscinas interiores das aldeias alpinas",
+          "Muitas vezes a semana de esqui Club Med mais em conta de França"
         ]
       },
       "pros": {
@@ -424,6 +760,30 @@
           "Bon rapport qualité-prix face aux villages de plus haute altitude",
           "Grande piscine intérieure chauffée pour les jambes fatiguées",
           "Tous les repas, le vin et les goûters inclus toute la journée"
+        ],
+        "it": [
+          "Tanto sole e piste dolci, indulgenti con i principianti timorosi",
+          "Ottimo rapporto qualità-prezzo rispetto ai villaggi di quota più alta",
+          "Grande piscina coperta e calda per le gambe stanche dopo lo sci",
+          "Tutti i pasti, il vino e gli spuntini inclusi per l'intera giornata"
+        ],
+        "de": [
+          "Viel Sonne und sanfte Abfahrten, schonend für nervöse Neulinge",
+          "Gutes Preis-Leistungs-Verhältnis im Vergleich zu den höher gelegenen Dörfern",
+          "Großes, warmes Hallenbad für müde Beine nach dem Skifahren",
+          "Alle Mahlzeiten, Wein und Snacks den ganzen Tag inklusive"
+        ],
+        "es": [
+          "Mucho sol y pistas suaves, amables con los primerizos nerviosos",
+          "Buena relación calidad-precio frente a los pueblos de mayor altitud",
+          "Gran piscina cubierta y climatizada para las piernas cansadas tras esquiar",
+          "Todas las comidas, el vino y las meriendas incluidos todo el día"
+        ],
+        "pt": [
+          "Muito sol e pistas suaves, acolhedoras para os principiantes nervosos",
+          "Boa relação qualidade-preço face às aldeias de maior altitude",
+          "Grande piscina interior e aquecida para as pernas cansadas depois de esquiar",
+          "Todas as refeições, o vinho e os lanches incluídos o dia todo"
         ]
       },
       "cons": {
@@ -436,59 +796,119 @@
           "Plus basse et plus ensoleillée, la neige peut ramollir l'après-midi",
           "La station elle-même est étendue plutôt que jolie",
           "Prisée, réservez tôt pour les vacances scolaires"
+        ],
+        "it": [
+          "Più bassa e più soleggiata, la neve può ammorbidirsi nei pomeriggi caldi",
+          "La stazione in sé è estesa più che carina",
+          "Molto richiesta, prenotate presto per le vacanze scolastiche"
+        ],
+        "de": [
+          "Niedriger und sonniger gelegen, sodass der Schnee an warmen Nachmittagen weich werden kann",
+          "Der Ort selbst ist weitläufig statt hübsch",
+          "Beliebt, buchen Sie die Schulferien früh"
+        ],
+        "es": [
+          "Más baja y soleada, así que la nieve puede ablandarse en las tardes cálidas",
+          "La estación en sí es extensa más que bonita",
+          "Popular, así que reserva pronto las vacaciones escolares"
+        ],
+        "pt": [
+          "Mais baixa e soalheira, por isso a neve pode amolecer nas tardes quentes",
+          "A estação em si é extensa em vez de bonita",
+          "Procurada, por isso reserve cedo as férias escolares"
         ]
       },
       "verdict": {
         "en": "The friendliest Club Med Alpine week for a first family ski trip: sunshine, easy slopes and a great pool, with lessons and childcare that let everyone find their feet.",
-        "fr": "La semaine alpine Club Med la plus accueillante pour un premier séjour ski en famille : soleil, pistes faciles et belle piscine, avec des cours et une garde qui laissent à chacun le temps de prendre ses marques."
+        "fr": "La semaine alpine Club Med la plus accueillante pour un premier séjour ski en famille : soleil, pistes faciles et belle piscine, avec des cours et une garde qui laissent à chacun le temps de prendre ses marques.",
+        "it": "La settimana alpina Club Med più accogliente per un primo viaggio di sci in famiglia: sole, piste facili e una bella piscina, con lezioni e assistenza ai bambini che lasciano a tutti il tempo di ambientarsi.",
+        "de": "Die freundlichste alpine Club-Med-Woche für die erste Familien-Skireise: Sonne, leichte Pisten und ein tolles Schwimmbad, mit Unterricht und Kinderbetreuung, die jedem Zeit geben, sich einzugewöhnen.",
+        "es": "La semana alpina Club Med más acogedora para un primer viaje de esquí en familia: sol, pistas fáciles y una gran piscina, con clases y cuidado infantil que dejan a todos tiempo para hacerse con el terreno.",
+        "pt": "A semana alpina Club Med mais acolhedora para uma primeira viagem de esqui em família: sol, pistas fáceis e uma bela piscina, com aulas e apoio às crianças que dão a todos tempo para se ambientarem."
       },
       "parentTip": {
         "en": "Because it faces the sun, ski the higher runs in the morning while the snow is firm and save the pool and Mini Club for the softer, warmer afternoons.",
-        "fr": "Comme la station est exposée au sud, skiez les pistes hautes le matin quand la neige est ferme et gardez la piscine et le Mini Club pour les après-midis plus doux."
+        "fr": "Comme la station est exposée au sud, skiez les pistes hautes le matin quand la neige est ferme et gardez la piscine et le Mini Club pour les après-midis plus doux.",
+        "it": "Poiché è esposta al sole, sciate le piste più alte al mattino quando la neve è compatta e tenete la piscina e il Mini Club per i pomeriggi più morbidi e caldi.",
+        "de": "Da der Ort nach Süden ausgerichtet ist, fahren Sie die höheren Abfahrten am Vormittag, wenn der Schnee fest ist, und sparen Sie sich das Schwimmbad und den Mini Club für die weicheren, wärmeren Nachmittage auf.",
+        "es": "Como está orientada al sol, esquía las pistas más altas por la mañana cuando la nieve está firme y reserva la piscina y el Mini Club para las tardes más blandas y cálidas.",
+        "pt": "Como está exposta ao sol, esquie as pistas mais altas de manhã enquanto a neve está firme e guarde a piscina e o Mini Club para as tardes mais moles e quentes."
       },
       "atAGlance": [
         {
           "icon": "⛷️",
           "label": {
             "en": "Ski access",
-            "fr": "Accès au ski"
+            "fr": "Accès au ski",
+            "it": "Accesso alle piste",
+            "de": "Skizugang",
+            "es": "Acceso al esquí",
+            "pt": "Acesso ao esqui"
           },
           "value": {
             "en": "In-resort at Alpe d'Huez",
-            "fr": "Dans la station de l'Alpe d'Huez"
+            "fr": "Dans la station de l'Alpe d'Huez",
+            "it": "Nella stazione dell'Alpe d'Huez",
+            "de": "Im Ort Alpe d'Huez",
+            "es": "En la estación de Alpe d'Huez",
+            "pt": "Na estação de Alpe d'Huez"
           }
         },
         {
           "icon": "🧒",
           "label": {
             "en": "Kids club",
-            "fr": "Club enfants"
+            "fr": "Club enfants",
+            "it": "Club per bambini",
+            "de": "Kinderclub",
+            "es": "Club infantil",
+            "pt": "Clube infantil"
           },
           "value": {
             "en": "Mini Club (4 to 10) and ESF lessons included",
-            "fr": "Mini Club (4 à 10 ans) et cours ESF inclus"
+            "fr": "Mini Club (4 à 10 ans) et cours ESF inclus",
+            "it": "Mini Club (4-10 anni) e lezioni ESF inclusi",
+            "de": "Mini Club (4 bis 10 Jahre) und ESF-Unterricht inklusive",
+            "es": "Mini Club (4 a 10 años) y clases ESF incluidos",
+            "pt": "Mini Club (4 aos 10 anos) e aulas ESF incluídos"
           }
         },
         {
           "icon": "👶",
           "label": {
             "en": "Little ones",
-            "fr": "Tout-petits"
+            "fr": "Tout-petits",
+            "it": "I più piccoli",
+            "de": "Die Kleinsten",
+            "es": "Los más pequeños",
+            "pt": "Os mais pequenos"
           },
           "value": {
             "en": "Baby and Petit Club from 4 months, extra cost",
-            "fr": "Baby et Petit Club dès 4 mois, en supplément"
+            "fr": "Baby et Petit Club dès 4 mois, en supplément",
+            "it": "Baby e Petit Club dai 4 mesi, con supplemento",
+            "de": "Baby und Petit Club ab 4 Monaten, gegen Aufpreis",
+            "es": "Baby y Petit Club desde 4 meses, con coste extra",
+            "pt": "Baby e Petit Club a partir dos 4 meses, com custo extra"
           }
         },
         {
           "icon": "☀️",
           "label": {
             "en": "Aspect",
-            "fr": "Exposition"
+            "fr": "Exposition",
+            "it": "Esposizione",
+            "de": "Ausrichtung",
+            "es": "Orientación",
+            "pt": "Exposição"
           },
           "value": {
             "en": "Sunny, gentle beginner slopes",
-            "fr": "Ensoleillée, pistes douces pour débuter"
+            "fr": "Ensoleillée, pistes douces pour débuter",
+            "it": "Soleggiata, piste dolci per principianti",
+            "de": "Sonnig, sanfte Anfängerpisten",
+            "es": "Soleada, pistas suaves para principiantes",
+            "pt": "Soalheira, pistas suaves para principiantes"
           }
         }
       ],
@@ -496,31 +916,55 @@
         {
           "q": {
             "en": "Is Alpe d'Huez good for beginners and children?",
-            "fr": "L'Alpe d'Huez convient-elle aux débutants et aux enfants?"
+            "fr": "L'Alpe d'Huez convient-elle aux débutants et aux enfants?",
+            "it": "L'Alpe d'Huez è adatta a principianti e bambini?",
+            "de": "Ist Alpe d'Huez für Anfänger und Kinder geeignet?",
+            "es": "¿Es Alpe d'Huez bueno para principiantes y niños?",
+            "pt": "Alpe d'Huez é boa para principiantes e crianças?"
           },
           "a": {
             "en": "Very. It has plenty of wide, sunny, gentle runs and a big beginner area, which makes it one of the easier places for children and nervous parents to learn together.",
-            "fr": "Très. Elle offre de nombreuses pistes larges, ensoleillées et douces et un grand espace débutant, ce qui en fait l'un des endroits les plus faciles pour apprendre ensemble, enfants comme parents peu assurés."
+            "fr": "Très. Elle offre de nombreuses pistes larges, ensoleillées et douces et un grand espace débutant, ce qui en fait l'un des endroits les plus faciles pour apprendre ensemble, enfants comme parents peu assurés.",
+            "it": "Moltissimo. Ha numerose piste larghe, soleggiate e dolci e un ampio spazio per principianti, il che ne fa uno dei posti più facili dove imparare insieme, sia per i bambini sia per i genitori poco sicuri.",
+            "de": "Sehr. Es gibt viele breite, sonnige, sanfte Abfahrten und einen großen Anfängerbereich, was es zu einem der einfacheren Orte macht, an dem Kinder und nervöse Eltern gemeinsam lernen können.",
+            "es": "Muchísimo. Tiene numerosas pistas amplias, soleadas y suaves y una gran zona de principiantes, lo que lo convierte en uno de los lugares más fáciles para que niños y padres nerviosos aprendan juntos.",
+            "pt": "Muitíssimo. Tem muitas pistas largas, soalheiras e suaves e uma grande zona de principiantes, o que faz dela um dos sítios mais fáceis para crianças e pais nervosos aprenderem juntos."
           }
         },
         {
           "q": {
             "en": "What is included for the children?",
-            "fr": "Qu'est-ce qui est inclus pour les enfants?"
+            "fr": "Qu'est-ce qui est inclus pour les enfants?",
+            "it": "Cosa è incluso per i bambini?",
+            "de": "Was ist für die Kinder inbegriffen?",
+            "es": "¿Qué está incluido para los niños?",
+            "pt": "O que está incluído para as crianças?"
           },
           "a": {
             "en": "ESF group ski lessons and the Mini Club Med for ages 4 to 10 are included with the package. Baby Club Med (4 to 23 months) and Petit Club Med (2 to 3 years) are supervised childcare at an extra charge.",
-            "fr": "Les cours de ski collectifs ESF et le Mini Club Med pour les 4 à 10 ans sont inclus dans la formule. Le Baby Club Med (4 à 23 mois) et le Petit Club Med (2 à 3 ans) sont une garde encadrée proposée en supplément."
+            "fr": "Les cours de ski collectifs ESF et le Mini Club Med pour les 4 à 10 ans sont inclus dans la formule. Le Baby Club Med (4 à 23 mois) et le Petit Club Med (2 à 3 ans) sont une garde encadrée proposée en supplément.",
+            "it": "I corsi di sci di gruppo ESF e il Mini Club Med per i 4-10 anni sono inclusi nel pacchetto. Il Baby Club Med (4-23 mesi) e il Petit Club Med (2-3 anni) sono un'assistenza sorvegliata con supplemento.",
+            "de": "ESF-Ski-Gruppenunterricht und der Mini Club Med für die 4- bis 10-Jährigen sind im Paket enthalten. Der Baby Club Med (4 bis 23 Monate) und der Petit Club Med (2 bis 3 Jahre) sind betreute Kinderbetreuung gegen Aufpreis.",
+            "es": "Las clases de esquí en grupo ESF y el Mini Club Med para los de 4 a 10 años están incluidos en el paquete. El Baby Club Med (4 a 23 meses) y el Petit Club Med (2 a 3 años) son cuidado infantil supervisado con coste extra.",
+            "pt": "As aulas de esqui em grupo ESF e o Mini Club Med para os 4 aos 10 anos estão incluídos no pacote. O Baby Club Med (4 aos 23 meses) e o Petit Club Med (2 aos 3 anos) são apoio supervisionado com custo extra."
           }
         },
         {
           "q": {
             "en": "Is there anything to do beyond skiing?",
-            "fr": "Y a-t-il autre chose à faire que le ski?"
+            "fr": "Y a-t-il autre chose à faire que le ski?",
+            "it": "C'è qualcosa da fare oltre allo sci?",
+            "de": "Gibt es außer Skifahren noch etwas zu tun?",
+            "es": "¿Hay algo que hacer aparte de esquiar?",
+            "pt": "Há alguma coisa para fazer além de esquiar?"
           },
           "a": {
             "en": "Yes. The village has a large indoor pool and spa, evening entertainment and clubs for every age, so non-skiing days and tired afternoons are easy to fill.",
-            "fr": "Oui. Le village dispose d'une grande piscine intérieure et d'un spa, d'animations en soirée et de clubs pour tous les âges : les jours sans ski et les après-midis fatigués se remplissent facilement."
+            "fr": "Oui. Le village dispose d'une grande piscine intérieure et d'un spa, d'animations en soirée et de clubs pour tous les âges : les jours sans ski et les après-midis fatigués se remplissent facilement.",
+            "it": "Sì. Il villaggio ha una grande piscina coperta e una spa, spettacoli serali e club per ogni età, così le giornate senza sci e i pomeriggi stanchi si riempiono facilmente.",
+            "de": "Ja. Das Dorf hat ein großes Hallenbad und einen Spa, Abendunterhaltung und Clubs für jedes Alter, sodass skifreie Tage und müde Nachmittage leicht zu füllen sind.",
+            "es": "Sí. El pueblo tiene una gran piscina cubierta y spa, animación nocturna y clubs para todas las edades, así que los días sin esquí y las tardes cansadas se llenan con facilidad.",
+            "pt": "Sim. A aldeia tem uma grande piscina interior e spa, animação à noite e clubes para todas as idades, por isso os dias sem esqui e as tardes cansadas preenchem-se facilmente."
           }
         }
       ]
@@ -531,7 +975,11 @@
       "name": "Club Med La Rosière",
       "area": {
         "en": "La Rosière",
-        "fr": "La Rosière"
+        "fr": "La Rosière",
+        "it": "La Rosière",
+        "de": "La Rosière",
+        "es": "La Rosière",
+        "pt": "La Rosière"
       },
       "lat": 45.6298103,
       "lng": 6.8571944,
@@ -565,11 +1013,19 @@
       },
       "roomsSummary": {
         "en": "Warm, chalet-style family rooms and connecting suites sleep four to five, with plenty facing the valley and the sun. Cots, bottle warmers and a boot room mean the practical side of skiing with small children is handled without cluttering the bedroom.",
-        "fr": "Chambres familiales chaleureuses façon chalet et suites communicantes pour quatre à cinq personnes, beaucoup tournées vers la vallée et le soleil. Lit bébé, chauffe-biberon et local à chaussures : l'intendance du ski avec de jeunes enfants est réglée sans encombrer la chambre."
+        "fr": "Chambres familiales chaleureuses façon chalet et suites communicantes pour quatre à cinq personnes, beaucoup tournées vers la vallée et le soleil. Lit bébé, chauffe-biberon et local à chaussures : l'intendance du ski avec de jeunes enfants est réglée sans encombrer la chambre.",
+        "it": "Calde camere familiari in stile chalet e suite comunicanti ospitano da quattro a cinque persone, molte affacciate sulla valle e sul sole. Lettini, scaldabiberon e un locale per gli scarponi fanno sì che il lato pratico dello sci con bambini piccoli sia gestito senza ingombrare la camera.",
+        "de": "Warme Familienzimmer im Chalet-Stil und verbundene Suiten bieten Platz für vier bis fünf Personen, viele mit Blick auf das Tal und die Sonne. Babybetten, Fläschchenwärmer und ein Skischuhraum sorgen dafür, dass die praktische Seite des Skifahrens mit kleinen Kindern geregelt ist, ohne das Schlafzimmer vollzustellen.",
+        "es": "Cálidas habitaciones familiares estilo chalet y suites comunicadas alojan de cuatro a cinco personas, muchas orientadas al valle y al sol. Cunas, calientabiberones y un cuarto para las botas hacen que el lado práctico de esquiar con niños pequeños quede resuelto sin llenar el dormitorio.",
+        "pt": "Quartos familiares acolhedores em estilo chalé e suites comunicantes acomodam quatro a cinco pessoas, muitos virados para o vale e para o sol. Berços, aquecedores de biberão e uma sala para as botas fazem com que o lado prático de esquiar com crianças pequenas fique tratado sem encher o quarto."
       },
       "intro": {
         "en": "La Rosière is the sunny, gentle, family-first side of the Espace San Bernardo, with easy slopes on the doorstep and the novelty of skiing across to La Thuile in Italy for lunch. Club Med's village is ski-in, ski-out with lift passes, ESF ski school for the children, all meals and drinks and the Mini Club, making it one of the softest landings for a young family.",
-        "fr": "La Rosière, c'est le versant ensoleillé, doux et tourné vers les familles de l'Espace San Bernardo, avec des pistes faciles au pied du village et le plaisir de skier jusqu'à La Thuile en Italie pour déjeuner. Le village Club Med est skis aux pieds, avec forfaits, école de ski ESF pour les enfants, tous les repas et boissons et le Mini Club : l'un des atterrissages les plus doux pour une jeune famille."
+        "fr": "La Rosière, c'est le versant ensoleillé, doux et tourné vers les familles de l'Espace San Bernardo, avec des pistes faciles au pied du village et le plaisir de skier jusqu'à La Thuile en Italie pour déjeuner. Le village Club Med est skis aux pieds, avec forfaits, école de ski ESF pour les enfants, tous les repas et boissons et le Mini Club : l'un des atterrissages les plus doux pour une jeune famille.",
+        "it": "La Rosière è il versante soleggiato, dolce e a misura di famiglia dell'Espace San Bernardo, con piste facili appena fuori dalla porta e la novità di sciare fino a La Thuile, in Italia, per pranzo. Il villaggio Club Med è ski-in, ski-out con skipass, scuola di sci ESF per i bambini, tutti i pasti e le bevande e il Mini Club, uno degli approdi più dolci per una giovane famiglia.",
+        "de": "La Rosière ist die sonnige, sanfte, familienorientierte Seite des Espace San Bernardo, mit leichten Pisten direkt vor der Tür und dem Reiz, zum Mittagessen ins italienische La Thuile hinüberzufahren. Das Club-Med-Dorf ist Ski-in, Ski-out mit Skipässen, ESF-Skischule für die Kinder, allen Mahlzeiten und Getränken und dem Mini Club, eine der sanftesten Landungen für eine junge Familie.",
+        "es": "La Rosière es la vertiente soleada, suave y orientada a la familia del Espace San Bernardo, con pistas fáciles junto a la puerta y la novedad de esquiar hasta La Thuile, en Italia, para comer. El pueblo de Club Med es ski-in, ski-out con forfaits, escuela de esquí ESF para los niños, todas las comidas y bebidas y el Mini Club, uno de los aterrizajes más suaves para una familia joven.",
+        "pt": "La Rosière é a vertente soalheira, suave e virada para as famílias do Espace San Bernardo, com pistas fáceis mesmo à porta e a novidade de esquiar até La Thuile, em Itália, para almoçar. A aldeia do Club Med é ski-in, ski-out com passes de esqui, escola de esqui ESF para as crianças, todas as refeições e bebidas e o Mini Club, uma das aterragens mais suaves para uma família jovem."
       },
       "highlights": {
         "en": [
@@ -585,6 +1041,34 @@
           "Cours de ski collectifs ESF pour les enfants inclus",
           "Mini Club Med (4 à 10 ans) inclus pendant que vous skiez",
           "Station calme et familiale plutôt que festive"
+        ],
+        "it": [
+          "Ski-in, ski-out con dolci piste soleggiate per principianti",
+          "Sciate fino a La Thuile, in Italia, per un'avventura a pranzo",
+          "Corsi di sci di gruppo ESF per bambini inclusi",
+          "Mini Club Med (4-10 anni) incluso mentre sciate",
+          "Stazione tranquilla e a misura di famiglia più che festaiola"
+        ],
+        "de": [
+          "Ski-in, Ski-out mit sanften, sonnigen Anfängerpisten",
+          "Fahren Sie zum Mittagessen ins italienische La Thuile hinüber",
+          "ESF-Ski-Gruppenunterricht für Kinder inklusive",
+          "Mini Club Med (4 bis 10 Jahre) inklusive, während Sie Ski fahren",
+          "Ruhiger, familienorientierter Ort statt Partyhochburg"
+        ],
+        "es": [
+          "Ski-in, ski-out con suaves pistas soleadas para principiantes",
+          "Esquía hasta La Thuile, en Italia, para una aventura a la hora de comer",
+          "Clases de esquí en grupo ESF para niños incluidas",
+          "Mini Club Med (4 a 10 años) incluido mientras esquías",
+          "Estación tranquila y familiar más que de fiesta"
+        ],
+        "pt": [
+          "Ski-in, ski-out com pistas suaves e soalheiras para principiantes",
+          "Esquie até La Thuile, em Itália, para uma aventura ao almoço",
+          "Aulas de esqui em grupo ESF para crianças incluídas",
+          "Mini Club Med (4 aos 10 anos) incluído enquanto esquia",
+          "Estação calma e familiar em vez de festiva"
         ]
       },
       "pros": {
@@ -599,6 +1083,30 @@
           "Le ski aux pieds évite les marches glacées avec de petites jambes",
           "Le ski transfrontalier vers l'Italie fait une journée mémorable",
           "Village tranquille et discret, idéal pour les jeunes familles"
+        ],
+        "it": [
+          "Tra le piste di apprendimento più dolci delle Alpi",
+          "Lo ski-in, ski-out evita le camminate gelide con le gambe piccole",
+          "Lo sci transfrontaliero verso l'Italia è una gita memorabile",
+          "Villaggio rilassato e discreto, ideale per le giovani famiglie"
+        ],
+        "de": [
+          "Zu den sanftesten Lernpisten der Alpen",
+          "Ski-in, Ski-out erspart kalte Fußwege mit kleinen Beinen",
+          "Das grenzüberschreitende Skifahren nach Italien ist ein unvergesslicher Ausflug",
+          "Entspanntes, unaufgeregtes Dorf, das jungen Familien liegt"
+        ],
+        "es": [
+          "Entre las pistas de aprendizaje más suaves de los Alpes",
+          "El ski-in, ski-out evita las caminatas heladas con piernas pequeñas",
+          "Esquiar cruzando la frontera a Italia es una salida memorable",
+          "Pueblo relajado y discreto, ideal para familias jóvenes"
+        ],
+        "pt": [
+          "Entre as pistas de aprendizagem mais suaves dos Alpes",
+          "O ski-in, ski-out evita as caminhadas geladas com pernas pequenas",
+          "Esquiar até Itália, atravessando a fronteira, é um passeio memorável",
+          "Aldeia descontraída e discreta, ideal para famílias jovens"
         ]
       },
       "cons": {
@@ -611,59 +1119,119 @@
           "L'exposition ensoleillée peut rendre la neige lourde l'après-midi",
           "Station plus calme, moins d'animation hors piste pour les ados",
           "Pistes exposées, parfois ventées par mauvais temps"
+        ],
+        "it": [
+          "L'esposizione soleggiata può rendere la neve molle nel pomeriggio",
+          "Stazione più tranquilla, meno vivacità fuori pista per gli adolescenti",
+          "Piste esposte, che possono essere ventose con brutto tempo"
+        ],
+        "de": [
+          "Die sonnige Ausrichtung kann den Schnee am Nachmittag sulzig machen",
+          "Ruhigerer Ort mit weniger Abwechslung abseits der Pisten für Teenager",
+          "Exponierte Pisten können bei schlechtem Wetter windig sein"
+        ],
+        "es": [
+          "La orientación soleada puede volver la nieve blanda por la tarde",
+          "Estación más tranquila, con menos ambiente fuera de pista para los adolescentes",
+          "Pistas expuestas, que pueden ser ventosas con mal tiempo"
+        ],
+        "pt": [
+          "A exposição soalheira pode tornar a neve mole à tarde",
+          "Estação mais calma, com menos animação fora da pista para os adolescentes",
+          "Pistas expostas, que podem ser ventosas com mau tempo"
         ]
       },
       "verdict": {
         "en": "A gentle, sunny, ski-in ski-out week built for young families finding their ski legs, with the bonus of a lunchtime hop into Italy.",
-        "fr": "Une semaine douce, ensoleillée et skis aux pieds pensée pour les jeunes familles qui trouvent leurs marques, avec en prime une escapade déjeuner en Italie."
+        "fr": "Une semaine douce, ensoleillée et skis aux pieds pensée pour les jeunes familles qui trouvent leurs marques, avec en prime une escapade déjeuner en Italie.",
+        "it": "Una settimana dolce, soleggiata e ski-in ski-out pensata per le giovani famiglie che stanno trovando le loro gambe da sciatori, con il bonus di una scappata in Italia all'ora di pranzo.",
+        "de": "Eine sanfte, sonnige Ski-in-Ski-out-Woche, geschaffen für junge Familien, die ihre Skibeine finden, mit dem Bonus eines Mittagsabstechers nach Italien.",
+        "es": "Una semana suave, soleada y de ski-in ski-out pensada para familias jóvenes que van encontrando sus piernas de esquiador, con el aliciente de una escapada a Italia a la hora de comer.",
+        "pt": "Uma semana suave, soalheira e de ski-in ski-out pensada para famílias jovens que vão ganhando as suas pernas de esquiador, com o bónus de uma escapadela a Itália à hora de almoço."
       },
       "parentTip": {
         "en": "The ski across to La Thuile is a lovely half-day with confident young skiers, but check the last lift home carefully so you are not caught on the Italian side at closing.",
-        "fr": "Le ski jusqu'à La Thuile fait une jolie demi-journée avec de jeunes skieurs à l'aise, mais vérifiez bien l'horaire de la dernière remontée pour ne pas rester bloqués côté italien à la fermeture."
+        "fr": "Le ski jusqu'à La Thuile fait une jolie demi-journée avec de jeunes skieurs à l'aise, mais vérifiez bien l'horaire de la dernière remontée pour ne pas rester bloqués côté italien à la fermeture.",
+        "it": "Lo sci fino a La Thuile è una bella mezza giornata con giovani sciatori sicuri, ma controllate bene l'orario dell'ultima risalita per non restare bloccati sul versante italiano alla chiusura.",
+        "de": "Die Skifahrt hinüber nach La Thuile ist ein schöner halber Tag mit sicheren jungen Skifahrern, aber prüfen Sie den letzten Lift nach Hause genau, damit Sie bei Betriebsschluss nicht auf der italienischen Seite festsitzen.",
+        "es": "Esquiar hasta La Thuile es una bonita media jornada con jóvenes esquiadores seguros, pero mira bien el último remonte de vuelta para no quedarte atrapado en el lado italiano al cierre.",
+        "pt": "Esquiar até La Thuile é uma bela meia-jornada com jovens esquiadores confiantes, mas verifique bem o horário do último teleférico de regresso para não ficar preso do lado italiano ao fecho."
       },
       "atAGlance": [
         {
           "icon": "⛷️",
           "label": {
             "en": "Ski access",
-            "fr": "Accès au ski"
+            "fr": "Accès au ski",
+            "it": "Accesso alle piste",
+            "de": "Skizugang",
+            "es": "Acceso al esquí",
+            "pt": "Acesso ao esqui"
           },
           "value": {
             "en": "Ski-in, ski-out at La Rosière",
-            "fr": "Ski aux pieds à La Rosière"
+            "fr": "Ski aux pieds à La Rosière",
+            "it": "Ski-in, ski-out a La Rosière",
+            "de": "Ski-in, Ski-out in La Rosière",
+            "es": "Ski-in, ski-out en La Rosière",
+            "pt": "Ski-in, ski-out em La Rosière"
           }
         },
         {
           "icon": "🧒",
           "label": {
             "en": "Kids club",
-            "fr": "Club enfants"
+            "fr": "Club enfants",
+            "it": "Club per bambini",
+            "de": "Kinderclub",
+            "es": "Club infantil",
+            "pt": "Clube infantil"
           },
           "value": {
             "en": "Mini Club (4 to 10) and ESF lessons included",
-            "fr": "Mini Club (4 à 10 ans) et cours ESF inclus"
+            "fr": "Mini Club (4 à 10 ans) et cours ESF inclus",
+            "it": "Mini Club (4-10 anni) e lezioni ESF inclusi",
+            "de": "Mini Club (4 bis 10 Jahre) und ESF-Unterricht inklusive",
+            "es": "Mini Club (4 a 10 años) y clases ESF incluidos",
+            "pt": "Mini Club (4 aos 10 anos) e aulas ESF incluídos"
           }
         },
         {
           "icon": "👶",
           "label": {
             "en": "Little ones",
-            "fr": "Tout-petits"
+            "fr": "Tout-petits",
+            "it": "I più piccoli",
+            "de": "Die Kleinsten",
+            "es": "Los más pequeños",
+            "pt": "Os mais pequenos"
           },
           "value": {
             "en": "Baby and Petit Club from 4 months, extra cost",
-            "fr": "Baby et Petit Club dès 4 mois, en supplément"
+            "fr": "Baby et Petit Club dès 4 mois, en supplément",
+            "it": "Baby e Petit Club dai 4 mesi, con supplemento",
+            "de": "Baby und Petit Club ab 4 Monaten, gegen Aufpreis",
+            "es": "Baby y Petit Club desde 4 meses, con coste extra",
+            "pt": "Baby e Petit Club a partir dos 4 meses, com custo extra"
           }
         },
         {
           "icon": "🇮🇹",
           "label": {
             "en": "Bonus",
-            "fr": "Petit plus"
+            "fr": "Petit plus",
+            "it": "Extra",
+            "de": "Bonus",
+            "es": "Extra",
+            "pt": "Extra"
           },
           "value": {
             "en": "Ski across to Italy and back",
-            "fr": "Ski vers l'Italie et retour"
+            "fr": "Ski vers l'Italie et retour",
+            "it": "Sciare in Italia e ritorno",
+            "de": "Ski-Ausflug nach Italien und zurück",
+            "es": "Esquiar hasta Italia y volver",
+            "pt": "Esquiar até Itália e voltar"
           }
         }
       ],
@@ -671,31 +1239,55 @@
         {
           "q": {
             "en": "Is La Rosière a good choice for first-time skiers?",
-            "fr": "La Rosière est-elle un bon choix pour skier la première fois?"
+            "fr": "La Rosière est-elle un bon choix pour skier la première fois?",
+            "it": "La Rosière è una buona scelta per chi scia per la prima volta?",
+            "de": "Ist La Rosière eine gute Wahl für Ski-Anfänger?",
+            "es": "¿Es La Rosière una buena opción para esquiadores primerizos?",
+            "pt": "La Rosière é uma boa escolha para quem esquia pela primeira vez?"
           },
           "a": {
             "en": "Yes. It has wide, gentle, sunny beginner runs right by the village and a calm, family atmosphere, which makes it one of the easier resorts for children and nervous parents to start on.",
-            "fr": "Oui. Elle offre des pistes débutantes larges, douces et ensoleillées au pied du village et une ambiance calme et familiale, ce qui en fait l'une des stations les plus faciles pour débuter, enfants comme parents peu rassurés."
+            "fr": "Oui. Elle offre des pistes débutantes larges, douces et ensoleillées au pied du village et une ambiance calme et familiale, ce qui en fait l'une des stations les plus faciles pour débuter, enfants comme parents peu rassurés.",
+            "it": "Sì. Ha piste per principianti larghe, dolci e soleggiate proprio accanto al villaggio e un'atmosfera tranquilla e familiare, il che ne fa una delle stazioni più facili dove iniziare, sia per i bambini sia per i genitori poco sicuri.",
+            "de": "Ja. Es gibt breite, sanfte, sonnige Anfängerpisten direkt am Dorf und eine ruhige, familiäre Atmosphäre, was es zu einem der einfacheren Orte für Kinder und nervöse Eltern macht, um anzufangen.",
+            "es": "Sí. Tiene pistas de principiantes amplias, suaves y soleadas junto al pueblo y un ambiente tranquilo y familiar, lo que la convierte en una de las estaciones más fáciles para empezar, tanto para niños como para padres nerviosos.",
+            "pt": "Sim. Tem pistas de principiantes largas, suaves e soalheiras mesmo ao lado da aldeia e um ambiente calmo e familiar, o que faz dela uma das estações mais fáceis para começar, tanto para crianças como para pais nervosos."
           }
         },
         {
           "q": {
             "en": "Can we really ski to Italy?",
-            "fr": "Peut-on vraiment skier jusqu'en Italie?"
+            "fr": "Peut-on vraiment skier jusqu'en Italie?",
+            "it": "Possiamo davvero sciare fino in Italia?",
+            "de": "Können wir wirklich nach Italien fahren?",
+            "es": "¿Podemos esquiar de verdad hasta Italia?",
+            "pt": "Podemos mesmo esquiar até Itália?"
           },
           "a": {
             "en": "Yes. La Rosière links over the ridge to La Thuile in Italy via the Espace San Bernardo, so confident skiers can ski across for an Italian lunch and back, all on one lift pass.",
-            "fr": "Oui. La Rosière est reliée par-dessus la crête à La Thuile en Italie via l'Espace San Bernardo : les skieurs à l'aise peuvent y aller pour un déjeuner italien et revenir, le tout sur un seul forfait."
+            "fr": "Oui. La Rosière est reliée par-dessus la crête à La Thuile en Italie via l'Espace San Bernardo : les skieurs à l'aise peuvent y aller pour un déjeuner italien et revenir, le tout sur un seul forfait.",
+            "it": "Sì. La Rosière è collegata oltre il crinale a La Thuile, in Italia, tramite l'Espace San Bernardo, così gli sciatori sicuri possono raggiungerla per un pranzo italiano e tornare, il tutto con un solo skipass.",
+            "de": "Ja. La Rosière ist über den Grat hinweg mit dem italienischen La Thuile über den Espace San Bernardo verbunden, sodass sichere Skifahrer für ein italienisches Mittagessen hinüberfahren und zurückkehren können, alles mit einem Skipass.",
+            "es": "Sí. La Rosière conecta al otro lado de la cresta con La Thuile, en Italia, a través del Espace San Bernardo, así que los esquiadores seguros pueden cruzar para comer a la italiana y volver, todo con un solo forfait.",
+            "pt": "Sim. La Rosière liga-se, por cima da crista, a La Thuile, em Itália, através do Espace San Bernardo, por isso os esquiadores confiantes podem ir almoçar à italiana e voltar, tudo com um único passe de esqui."
           }
         },
         {
           "q": {
             "en": "What childcare is available for the youngest?",
-            "fr": "Quelle garde est disponible pour les plus petits?"
+            "fr": "Quelle garde est disponible pour les plus petits?",
+            "it": "Quale assistenza c'è per i più piccoli?",
+            "de": "Welche Betreuung gibt es für die Jüngsten?",
+            "es": "¿Qué cuidado hay disponible para los más pequeños?",
+            "pt": "Que apoio há disponível para os mais pequenos?"
           },
           "a": {
             "en": "Baby Club Med welcomes babies from 4 to 23 months and Petit Club Med covers 2 to 3 year olds, both supervised by trained staff at an extra charge. From age 4, the Mini Club Med and ski lessons are included.",
-            "fr": "Le Baby Club Med accueille les bébés de 4 à 23 mois et le Petit Club Med les 2 à 3 ans, encadrés par du personnel formé et proposés en supplément. Dès 4 ans, le Mini Club Med et les cours de ski sont inclus."
+            "fr": "Le Baby Club Med accueille les bébés de 4 à 23 mois et le Petit Club Med les 2 à 3 ans, encadrés par du personnel formé et proposés en supplément. Dès 4 ans, le Mini Club Med et les cours de ski sont inclus.",
+            "it": "Il Baby Club Med accoglie i neonati dai 4 ai 23 mesi e il Petit Club Med copre i bambini dai 2 ai 3 anni, entrambi seguiti da personale qualificato con supplemento. Dai 4 anni, il Mini Club Med e le lezioni di sci sono inclusi.",
+            "de": "Der Baby Club Med nimmt Babys von 4 bis 23 Monaten auf und der Petit Club Med betreut die 2- bis 3-Jährigen, beide von geschultem Personal gegen Aufpreis beaufsichtigt. Ab 4 Jahren sind der Mini Club Med und der Skiunterricht inbegriffen.",
+            "es": "El Baby Club Med acoge a los bebés de 4 a 23 meses y el Petit Club Med cubre a los de 2 a 3 años, ambos supervisados por personal cualificado con coste extra. A partir de los 4 años, el Mini Club Med y las clases de esquí están incluidos.",
+            "pt": "O Baby Club Med acolhe os bebés dos 4 aos 23 meses e o Petit Club Med abrange as crianças dos 2 aos 3 anos, ambos supervisionados por pessoal qualificado com custo extra. A partir dos 4 anos, o Mini Club Med e as aulas de esqui estão incluídos."
           }
         }
       ]
@@ -706,7 +1298,11 @@
       "name": "Club Med Grand Massif Samoëns Morillon",
       "area": {
         "en": "Samoëns",
-        "fr": "Samoëns"
+        "fr": "Samoëns",
+        "it": "Samoëns",
+        "de": "Samoëns",
+        "es": "Samoëns",
+        "pt": "Samoëns"
       },
       "lat": 46.0558929,
       "lng": 6.7038602,
@@ -740,11 +1336,19 @@
       },
       "roomsSummary": {
         "en": "One of the newest and most stylish Alpine villages, with generous eco-designed family rooms and connecting suites sleeping four to five, most opening onto the Grand Massif. Cots, bottle warmers and a proper drying room come as standard, and the modern layout gives babies a quiet corner of their own.",
-        "fr": "L'un des villages alpins les plus récents et les plus élégants, avec de grandes chambres familiales éco-conçues et des suites communicantes pour quatre à cinq personnes, la plupart ouvertes sur le Grand Massif. Lit bébé, chauffe-biberon et vrai local de séchage sont prévus, et l'agencement moderne offre aux bébés un coin calme rien qu'à eux."
+        "fr": "L'un des villages alpins les plus récents et les plus élégants, avec de grandes chambres familiales éco-conçues et des suites communicantes pour quatre à cinq personnes, la plupart ouvertes sur le Grand Massif. Lit bébé, chauffe-biberon et vrai local de séchage sont prévus, et l'agencement moderne offre aux bébés un coin calme rien qu'à eux.",
+        "it": "Uno dei villaggi alpini più recenti ed eleganti, con ampie camere familiari eco-progettate e suite comunicanti che ospitano da quattro a cinque persone, la maggior parte affacciate sul Grand Massif. Lettini, scaldabiberon e un vero locale asciugatura sono di serie, e la disposizione moderna dà ai neonati un angolo tranquillo tutto per loro.",
+        "de": "Eines der neuesten und stilvollsten alpinen Feriendörfer, mit großzügigen, ökologisch gestalteten Familienzimmern und verbundenen Suiten für vier bis fünf Personen, die meisten mit Blick auf das Grand Massif. Babybetten, Fläschchenwärmer und ein richtiger Trockenraum gehören zur Standardausstattung, und die moderne Aufteilung gibt Babys eine eigene ruhige Ecke.",
+        "es": "Uno de los pueblos alpinos más recientes y con más estilo, con amplias habitaciones familiares de diseño ecológico y suites comunicadas para cuatro o cinco personas, la mayoría abiertas al Grand Massif. Cunas, calientabiberones y un auténtico secadero vienen de serie, y la distribución moderna da a los bebés un rincón tranquilo propio.",
+        "pt": "Uma das aldeias alpinas mais recentes e elegantes, com amplos quartos familiares de conceção ecológica e suites comunicantes para quatro a cinco pessoas, a maioria aberta para o Grand Massif. Berços, aquecedores de biberão e uma verdadeira sala de secagem vêm de série, e a disposição moderna dá aos bebés um canto tranquilo só para eles."
       },
       "intro": {
         "en": "This is Club Med's showpiece modern village on the plateau des Saix above Samoëns, opening onto the vast Grand Massif ski area. The week covers lift passes, ESF ski school for the children, all meals and drinks, a spa and a beautiful indoor pool, plus the Mini Club. A gondola links the plateau to the valley, so it works like a self-contained mountain base for families.",
-        "fr": "C'est le village moderne vitrine du Club Med, sur le plateau des Saix au-dessus de Samoëns, ouvert sur l'immense domaine du Grand Massif. La semaine couvre les forfaits, l'école de ski ESF pour les enfants, tous les repas et boissons, un spa et une superbe piscine intérieure, ainsi que le Mini Club. Une télécabine relie le plateau à la vallée : c'est une base de montagne autonome pour les familles."
+        "fr": "C'est le village moderne vitrine du Club Med, sur le plateau des Saix au-dessus de Samoëns, ouvert sur l'immense domaine du Grand Massif. La semaine couvre les forfaits, l'école de ski ESF pour les enfants, tous les repas et boissons, un spa et une superbe piscine intérieure, ainsi que le Mini Club. Une télécabine relie le plateau à la vallée : c'est une base de montagne autonome pour les familles.",
+        "it": "Questo è il villaggio moderno di punta del Club Med, sul plateau des Saix sopra Samoëns, aperto sull'immenso comprensorio del Grand Massif. La settimana copre skipass, scuola di sci ESF per i bambini, tutti i pasti e le bevande, una spa e una splendida piscina coperta, oltre al Mini Club. Una cabinovia collega il plateau alla valle, così funziona come una base di montagna autonoma per le famiglie.",
+        "de": "Dies ist das moderne Vorzeigedorf von Club Med, auf dem Plateau des Saix oberhalb von Samoëns, mit Zugang zum riesigen Skigebiet Grand Massif. Die Woche umfasst Skipässe, ESF-Skischule für die Kinder, alle Mahlzeiten und Getränke, einen Spa und ein wunderschönes Hallenbad sowie den Mini Club. Eine Gondelbahn verbindet das Plateau mit dem Tal, sodass es wie eine autarke Bergbasis für Familien funktioniert.",
+        "es": "Este es el pueblo moderno estrella de Club Med, en el plateau des Saix por encima de Samoëns, abierto al vasto dominio del Grand Massif. La semana cubre forfaits, escuela de esquí ESF para los niños, todas las comidas y bebidas, un spa y una preciosa piscina cubierta, además del Mini Club. Un telecabina conecta la meseta con el valle, así que funciona como una base de montaña autosuficiente para las familias.",
+        "pt": "Esta é a aldeia moderna de referência do Club Med, no plateau des Saix acima de Samoëns, aberta para o imenso domínio do Grand Massif. A semana cobre passes de esqui, escola de esqui ESF para as crianças, todas as refeições e bebidas, um spa e uma bela piscina interior, além do Mini Club. Um teleférico liga o planalto ao vale, por isso funciona como uma base de montanha autónoma para as famílias."
       },
       "highlights": {
         "en": [
@@ -760,6 +1364,34 @@
           "Cours de ski collectifs ESF pour les enfants inclus",
           "Mini Club Med (4 à 10 ans) inclus pendant que vous skiez",
           "Éco-conçu et plus calme que les stations très courues"
+        ],
+        "it": [
+          "Villaggio nuovissimo e di design, con una spa e una piscina notevoli",
+          "Aperto sull'enorme comprensorio del Grand Massif",
+          "Corsi di sci di gruppo ESF per bambini inclusi",
+          "Mini Club Med (4-10 anni) incluso mentre sciate",
+          "Eco-progettato e più tranquillo delle stazioni più rinomate"
+        ],
+        "de": [
+          "Brandneues, designorientiertes Dorf mit herausragendem Spa und Pool",
+          "Zugang zum riesigen Skigebiet Grand Massif",
+          "ESF-Ski-Gruppenunterricht für Kinder inklusive",
+          "Mini Club Med (4 bis 10 Jahre) inklusive, während Sie Ski fahren",
+          "Ökologisch gestaltet und ruhiger als die namhaften Orte"
+        ],
+        "es": [
+          "Pueblo totalmente nuevo y de diseño, con un spa y una piscina destacados",
+          "Abierto al enorme dominio del Grand Massif",
+          "Clases de esquí en grupo ESF para niños incluidas",
+          "Mini Club Med (4 a 10 años) incluido mientras esquías",
+          "De diseño ecológico y más tranquilo que las estaciones más famosas"
+        ],
+        "pt": [
+          "Aldeia novíssima e de design, com um spa e uma piscina notáveis",
+          "Aberta para o enorme domínio do Grand Massif",
+          "Aulas de esqui em grupo ESF para crianças incluídas",
+          "Mini Club Med (4 aos 10 anos) incluído enquanto esquia",
+          "De conceção ecológica e mais calma do que as estações mais famosas"
         ]
       },
       "pros": {
@@ -774,6 +1406,30 @@
           "Excellent spa et piscine intérieure pour récupérer après le ski",
           "Grand domaine avec beaucoup de pistes boisées et abritées",
           "Cadre calme sur le plateau, à l'écart de la foule des stations"
+        ],
+        "it": [
+          "Il villaggio alpino più moderno e confortevole",
+          "Spa e piscina coperta eccellenti per il recupero dopo lo sci",
+          "Grande comprensorio con molte piste boscose e riparate",
+          "Posizione tranquilla sul plateau, lontano dalla folla delle stazioni"
+        ],
+        "de": [
+          "Das modernste und komfortabelste alpine Feriendorf",
+          "Ausgezeichneter Spa und Hallenbad zur Erholung nach dem Skifahren",
+          "Großes Skigebiet mit vielen von Bäumen gesäumten, geschützten Abfahrten",
+          "Ruhige Lage auf dem Plateau, abseits des Trubels der Orte"
+        ],
+        "es": [
+          "El pueblo alpino más moderno y cómodo",
+          "Excelente spa y piscina cubierta para recuperarse tras el esquí",
+          "Gran dominio con muchas pistas arboladas y resguardadas",
+          "Entorno tranquilo en la meseta, lejos de las multitudes de las estaciones"
+        ],
+        "pt": [
+          "A aldeia alpina mais moderna e confortável",
+          "Excelente spa e piscina interior para recuperar depois do esqui",
+          "Grande domínio com muitas pistas arborizadas e abrigadas",
+          "Cenário calmo no planalto, longe da multidão das estações"
         ]
       },
       "cons": {
@@ -786,59 +1442,119 @@
           "Le plateau est relié au grand domaine par télécabine, pas skis aux pieds sur chaque piste",
           "Altitude plus basse que Tignes, surveillez la neige en fin de saison",
           "Tarif premium pour le village le plus récent"
+        ],
+        "it": [
+          "Il plateau si collega al comprensorio più ampio tramite cabinovia, non è skis aux pieds su ogni pista",
+          "Quota più bassa di Tignes, quindi attenzione alla neve di fine stagione",
+          "Prezzo premium per il villaggio più recente"
+        ],
+        "de": [
+          "Das Plateau ist per Gondelbahn an das größere Gebiet angebunden, nicht auf jeder Abfahrt Ski-in",
+          "Niedrigere Höhe als Tignes, achten Sie also auf den Schnee spät in der Saison",
+          "Premium-Preis für das neueste Dorf"
+        ],
+        "es": [
+          "La meseta conecta con el dominio más amplio en telecabina, no es ski-in en cada pista",
+          "Menor altitud que Tignes, así que vigila la nieve de final de temporada",
+          "Precio premium por el pueblo más reciente"
+        ],
+        "pt": [
+          "O planalto liga-se ao domínio mais amplo por teleférico, não é ski-in em todas as pistas",
+          "Altitude mais baixa do que Tignes, por isso atenção à neve de fim de época",
+          "Preço premium pela aldeia mais recente"
         ]
       },
       "verdict": {
         "en": "The most modern and comfortable Club Med ski village, with a knockout spa and pool, ideal for families who want a smart base and a big ski area without the resort bustle.",
-        "fr": "Le village de ski Club Med le plus moderne et le plus confortable, avec un spa et une piscine bluffants, idéal pour les familles qui veulent une base soignée et un grand domaine sans l'agitation d'une station."
+        "fr": "Le village de ski Club Med le plus moderne et le plus confortable, avec un spa et une piscine bluffants, idéal pour les familles qui veulent une base soignée et un grand domaine sans l'agitation d'une station.",
+        "it": "Il villaggio di sci Club Med più moderno e confortevole, con una spa e una piscina da urlo, ideale per le famiglie che vogliono una base curata e un grande comprensorio senza la frenesia della stazione.",
+        "de": "Das modernste und komfortabelste Club-Med-Skidorf, mit einem umwerfenden Spa und Pool, ideal für Familien, die eine schicke Basis und ein großes Skigebiet ohne den Trubel des Ortes wollen.",
+        "es": "El pueblo de esquí Club Med más moderno y cómodo, con un spa y una piscina de impresión, ideal para las familias que quieren una base cuidada y un gran dominio sin el bullicio de la estación.",
+        "pt": "A aldeia de esqui Club Med mais moderna e confortável, com um spa e uma piscina impressionantes, ideal para famílias que querem uma base cuidada e um grande domínio sem o alvoroço da estação."
       },
       "parentTip": {
         "en": "The spa and pool here are genuinely worth using, so book a treatment slot for yourself during a Mini Club afternoon rather than squeezing in one more chilly run.",
-        "fr": "Le spa et la piscine valent vraiment le détour : réservez-vous un soin pendant un après-midi de Mini Club plutôt que de caser une descente de plus dans le froid."
+        "fr": "Le spa et la piscine valent vraiment le détour : réservez-vous un soin pendant un après-midi de Mini Club plutôt que de caser une descente de plus dans le froid.",
+        "it": "La spa e la piscina qui valgono davvero la pena, quindi prenotatevi un trattamento durante un pomeriggio di Mini Club invece di infilare un'altra discesa al freddo.",
+        "de": "Der Spa und der Pool hier lohnen sich wirklich, buchen Sie sich also während eines Mini-Club-Nachmittags einen Behandlungstermin, statt noch eine kalte Abfahrt einzuschieben.",
+        "es": "El spa y la piscina de aquí merecen la pena de verdad, así que reserva un tratamiento para ti durante una tarde de Mini Club en lugar de encajar una bajada más con frío.",
+        "pt": "O spa e a piscina aqui valem mesmo a pena, por isso reserve um tratamento para si durante uma tarde de Mini Club em vez de encaixar mais uma descida ao frio."
       },
       "atAGlance": [
         {
           "icon": "⛷️",
           "label": {
             "en": "Ski access",
-            "fr": "Accès au ski"
+            "fr": "Accès au ski",
+            "it": "Accesso alle piste",
+            "de": "Skizugang",
+            "es": "Acceso al esquí",
+            "pt": "Acesso ao esqui"
           },
           "value": {
             "en": "On the plateau des Saix, Grand Massif",
-            "fr": "Sur le plateau des Saix, Grand Massif"
+            "fr": "Sur le plateau des Saix, Grand Massif",
+            "it": "Sul plateau des Saix, Grand Massif",
+            "de": "Auf dem Plateau des Saix, Grand Massif",
+            "es": "En el plateau des Saix, Grand Massif",
+            "pt": "No plateau des Saix, Grand Massif"
           }
         },
         {
           "icon": "🧒",
           "label": {
             "en": "Kids club",
-            "fr": "Club enfants"
+            "fr": "Club enfants",
+            "it": "Club per bambini",
+            "de": "Kinderclub",
+            "es": "Club infantil",
+            "pt": "Clube infantil"
           },
           "value": {
             "en": "Mini Club (4 to 10) and ESF lessons included",
-            "fr": "Mini Club (4 à 10 ans) et cours ESF inclus"
+            "fr": "Mini Club (4 à 10 ans) et cours ESF inclus",
+            "it": "Mini Club (4-10 anni) e lezioni ESF inclusi",
+            "de": "Mini Club (4 bis 10 Jahre) und ESF-Unterricht inklusive",
+            "es": "Mini Club (4 a 10 años) y clases ESF incluidos",
+            "pt": "Mini Club (4 aos 10 anos) e aulas ESF incluídos"
           }
         },
         {
           "icon": "👶",
           "label": {
             "en": "Little ones",
-            "fr": "Tout-petits"
+            "fr": "Tout-petits",
+            "it": "I più piccoli",
+            "de": "Die Kleinsten",
+            "es": "Los más pequeños",
+            "pt": "Os mais pequenos"
           },
           "value": {
             "en": "Baby and Petit Club from 4 months, extra cost",
-            "fr": "Baby et Petit Club dès 4 mois, en supplément"
+            "fr": "Baby et Petit Club dès 4 mois, en supplément",
+            "it": "Baby e Petit Club dai 4 mesi, con supplemento",
+            "de": "Baby und Petit Club ab 4 Monaten, gegen Aufpreis",
+            "es": "Baby y Petit Club desde 4 meses, con coste extra",
+            "pt": "Baby e Petit Club a partir dos 4 meses, com custo extra"
           }
         },
         {
           "icon": "🧖",
           "label": {
             "en": "After ski",
-            "fr": "Après-ski"
+            "fr": "Après-ski",
+            "it": "Dopo lo sci",
+            "de": "Après-Ski",
+            "es": "Después del esquí",
+            "pt": "Depois do esqui"
           },
           "value": {
             "en": "Standout spa and indoor pool",
-            "fr": "Spa et piscine intérieure remarquables"
+            "fr": "Spa et piscine intérieure remarquables",
+            "it": "Spa e piscina coperta notevoli",
+            "de": "Herausragender Spa und Hallenbad",
+            "es": "Spa y piscina cubierta destacados",
+            "pt": "Spa e piscina interior notáveis"
           }
         }
       ],
@@ -846,31 +1562,55 @@
         {
           "q": {
             "en": "Is this village ski-in, ski-out?",
-            "fr": "Ce village est-il skis aux pieds?"
+            "fr": "Ce village est-il skis aux pieds?",
+            "it": "Questo villaggio è ski-in, ski-out?",
+            "de": "Ist dieses Dorf Ski-in, Ski-out?",
+            "es": "¿Es este pueblo ski-in, ski-out?",
+            "pt": "Esta aldeia é ski-in, ski-out?"
           },
           "a": {
             "en": "It sits on the plateau des Saix with direct access to Grand Massif pistes, and a gondola links down to Samoëns village. You ski from the door onto the local slopes, with the gondola handy for reaching the rest of the area and the valley.",
-            "fr": "Il est situé sur le plateau des Saix avec accès direct aux pistes du Grand Massif, et une télécabine descend jusqu'au village de Samoëns. Vous skiez depuis la porte sur les pistes locales, la télécabine restant pratique pour rejoindre le reste du domaine et la vallée."
+            "fr": "Il est situé sur le plateau des Saix avec accès direct aux pistes du Grand Massif, et une télécabine descend jusqu'au village de Samoëns. Vous skiez depuis la porte sur les pistes locales, la télécabine restant pratique pour rejoindre le reste du domaine et la vallée.",
+            "it": "Sorge sul plateau des Saix con accesso diretto alle piste del Grand Massif, e una cabinovia scende fino al villaggio di Samoëns. Sciate dalla porta sulle piste locali, con la cabinovia comoda per raggiungere il resto del comprensorio e la valle.",
+            "de": "Es liegt auf dem Plateau des Saix mit direktem Zugang zu den Pisten des Grand Massif, und eine Gondelbahn führt hinunter ins Dorf Samoëns. Sie fahren von der Tür aus auf die lokalen Pisten, wobei die Gondel praktisch ist, um den Rest des Gebiets und das Tal zu erreichen.",
+            "es": "Se asienta en el plateau des Saix con acceso directo a las pistas del Grand Massif, y un telecabina baja hasta el pueblo de Samoëns. Esquías desde la puerta a las pistas locales, con el telecabina a mano para llegar al resto del dominio y al valle.",
+            "pt": "Assenta no plateau des Saix com acesso direto às pistas do Grand Massif, e um teleférico desce até à aldeia de Samoëns. Esquia da porta para as pistas locais, com o teleférico à mão para chegar ao resto do domínio e ao vale."
           }
         },
         {
           "q": {
             "en": "Is it a good choice with a baby or toddler?",
-            "fr": "Est-ce un bon choix avec un bébé ou un tout-petit?"
+            "fr": "Est-ce un bon choix avec un bébé ou un tout-petit?",
+            "it": "È una buona scelta con un neonato o un bambino piccolo?",
+            "de": "Ist es eine gute Wahl mit einem Baby oder Kleinkind?",
+            "es": "¿Es una buena opción con un bebé o niño pequeño?",
+            "pt": "É uma boa escolha com um bebé ou uma criança pequena?"
           },
           "a": {
             "en": "Yes. It is the newest and most comfortable village, with Baby Club Med from 4 to 23 months and Petit Club Med for 2 to 3 year olds, both at an extra charge, plus spacious modern rooms that suit little ones.",
-            "fr": "Oui. C'est le village le plus récent et le plus confortable, avec le Baby Club Med de 4 à 23 mois et le Petit Club Med pour les 2 à 3 ans, tous deux en supplément, ainsi que des chambres modernes et spacieuses adaptées aux petits."
+            "fr": "Oui. C'est le village le plus récent et le plus confortable, avec le Baby Club Med de 4 à 23 mois et le Petit Club Med pour les 2 à 3 ans, tous deux en supplément, ainsi que des chambres modernes et spacieuses adaptées aux petits.",
+            "it": "Sì. È il villaggio più recente e confortevole, con il Baby Club Med dai 4 ai 23 mesi e il Petit Club Med per i 2-3 anni, entrambi con supplemento, oltre a camere moderne e spaziose adatte ai più piccoli.",
+            "de": "Ja. Es ist das neueste und komfortabelste Dorf, mit dem Baby Club Med von 4 bis 23 Monaten und dem Petit Club Med für die 2- bis 3-Jährigen, beide gegen Aufpreis, sowie geräumigen modernen Zimmern, die den Kleinen liegen.",
+            "es": "Sí. Es el pueblo más reciente y cómodo, con el Baby Club Med de 4 a 23 meses y el Petit Club Med para los de 2 a 3 años, ambos con coste extra, además de habitaciones modernas y espaciosas que van bien con los pequeños.",
+            "pt": "Sim. É a aldeia mais recente e confortável, com o Baby Club Med dos 4 aos 23 meses e o Petit Club Med para os 2 aos 3 anos, ambos com custo extra, além de quartos modernos e espaçosos adequados aos mais pequenos."
           }
         },
         {
           "q": {
             "en": "What is included for older children?",
-            "fr": "Qu'est-ce qui est inclus pour les plus grands?"
+            "fr": "Qu'est-ce qui est inclus pour les plus grands?",
+            "it": "Cosa è incluso per i bambini più grandi?",
+            "de": "Was ist für ältere Kinder inbegriffen?",
+            "es": "¿Qué está incluido para los niños mayores?",
+            "pt": "O que está incluído para as crianças mais velhas?"
           },
           "a": {
             "en": "From age 4, ESF group ski lessons and the Mini Club Med are included, and there are supervised clubs and activities for teens too, all within the all-inclusive package.",
-            "fr": "Dès 4 ans, les cours de ski collectifs ESF et le Mini Club Med sont inclus, et il existe aussi des clubs et activités encadrés pour les ados, le tout dans la formule tout compris."
+            "fr": "Dès 4 ans, les cours de ski collectifs ESF et le Mini Club Med sont inclus, et il existe aussi des clubs et activités encadrés pour les ados, le tout dans la formule tout compris.",
+            "it": "Dai 4 anni, i corsi di sci di gruppo ESF e il Mini Club Med sono inclusi, e ci sono anche club e attività sorvegliate per gli adolescenti, tutto all'interno del pacchetto tutto compreso.",
+            "de": "Ab 4 Jahren sind ESF-Ski-Gruppenunterricht und der Mini Club Med inbegriffen, und es gibt auch betreute Clubs und Aktivitäten für Teenager, alles innerhalb des All-inclusive-Pakets.",
+            "es": "A partir de los 4 años, las clases de esquí en grupo ESF y el Mini Club Med están incluidos, y también hay clubs y actividades supervisados para adolescentes, todo dentro del paquete todo incluido.",
+            "pt": "A partir dos 4 anos, as aulas de esqui em grupo ESF e o Mini Club Med estão incluídos, e há também clubes e atividades supervisionados para adolescentes, tudo dentro do pacote com tudo incluído."
           }
         }
       ]
@@ -881,7 +1621,11 @@
       "name": "Club Med Peisey-Vallandry",
       "area": {
         "en": "Peisey-Vallandry",
-        "fr": "Peisey-Vallandry"
+        "fr": "Peisey-Vallandry",
+        "it": "Peisey-Vallandry",
+        "de": "Peisey-Vallandry",
+        "es": "Peisey-Vallandry",
+        "pt": "Peisey-Vallandry"
       },
       "lat": 45.5516046,
       "lng": 6.7637599,
@@ -915,11 +1659,19 @@
       },
       "roomsSummary": {
         "en": "Cosy chalet-style family rooms and connecting suites sleep four to five, tucked among the pines with mountain or forest views. Cots, bottle warmers and a boot room keep the practical side of a ski week tidy, and the sheltered setting is calm at bedtime.",
-        "fr": "Chambres familiales douillettes façon chalet et suites communicantes pour quatre à cinq personnes, nichées au milieu des sapins avec vue montagne ou forêt. Lit bébé, chauffe-biberon et local à chaussures gardent l'intendance de la semaine de ski bien rangée, et le cadre abrité reste calme à l'heure du coucher."
+        "fr": "Chambres familiales douillettes façon chalet et suites communicantes pour quatre à cinq personnes, nichées au milieu des sapins avec vue montagne ou forêt. Lit bébé, chauffe-biberon et local à chaussures gardent l'intendance de la semaine de ski bien rangée, et le cadre abrité reste calme à l'heure du coucher.",
+        "it": "Accoglienti camere familiari in stile chalet e suite comunicanti ospitano da quattro a cinque persone, immerse tra i pini con vista sulla montagna o sulla foresta. Lettini, scaldabiberon e un locale per gli scarponi tengono in ordine il lato pratico della settimana di sci, e il contesto riparato resta tranquillo all'ora della nanna.",
+        "de": "Gemütliche Familienzimmer im Chalet-Stil und verbundene Suiten bieten Platz für vier bis fünf Personen, eingebettet zwischen den Kiefern mit Blick auf die Berge oder den Wald. Babybetten, Fläschchenwärmer und ein Skischuhraum halten die praktische Seite der Skiwoche ordentlich, und die geschützte Lage bleibt zur Schlafenszeit ruhig.",
+        "es": "Acogedoras habitaciones familiares estilo chalet y suites comunicadas alojan de cuatro a cinco personas, escondidas entre los pinos con vistas a la montaña o al bosque. Cunas, calientabiberones y un cuarto para las botas mantienen ordenado el lado práctico de la semana de esquí, y el entorno resguardado se queda tranquilo a la hora de dormir.",
+        "pt": "Acolhedores quartos familiares em estilo chalé e suites comunicantes acomodam quatro a cinco pessoas, escondidos entre os pinheiros com vista para a montanha ou a floresta. Berços, aquecedores de biberão e uma sala para as botas mantêm arrumado o lado prático da semana de esqui, e o cenário abrigado fica calmo à hora de dormir."
       },
       "intro": {
         "en": "Peisey-Vallandry is the wooded, sheltered gateway into Paradiski, one of the largest linked ski areas in the world, yet it keeps a gentle, low-key village feel. Club Med sits ski-in, ski-out among the trees with lift passes, ESF ski school for the children, all meals and drinks and the Mini Club, giving families a huge ski area from a calm, forested base.",
-        "fr": "Peisey-Vallandry, c'est la porte d'entrée boisée et abritée du Paradiski, l'un des plus grands domaines reliés au monde, tout en gardant une ambiance de village douce et discrète. Le Club Med y est skis aux pieds au milieu des arbres, avec forfaits, école de ski ESF pour les enfants, tous les repas et boissons et le Mini Club : un domaine immense depuis une base calme et forestière."
+        "fr": "Peisey-Vallandry, c'est la porte d'entrée boisée et abritée du Paradiski, l'un des plus grands domaines reliés au monde, tout en gardant une ambiance de village douce et discrète. Le Club Med y est skis aux pieds au milieu des arbres, avec forfaits, école de ski ESF pour les enfants, tous les repas et boissons et le Mini Club : un domaine immense depuis une base calme et forestière.",
+        "it": "Peisey-Vallandry è la porta d'accesso boscosa e riparata al Paradiski, uno dei comprensori collegati più grandi al mondo, e conserva comunque un'atmosfera di villaggio dolce e discreta. Il Club Med è ski-in, ski-out tra gli alberi con skipass, scuola di sci ESF per i bambini, tutti i pasti e le bevande e il Mini Club, offrendo alle famiglie un comprensorio immenso da una base tranquilla e immersa nel bosco.",
+        "de": "Peisey-Vallandry ist das bewaldete, geschützte Tor zum Paradiski, einem der größten verbundenen Skigebiete der Welt, und behält doch ein sanftes, unaufgeregtes Dorfgefühl. Club Med liegt Ski-in, Ski-out zwischen den Bäumen mit Skipässen, ESF-Skischule für die Kinder, allen Mahlzeiten und Getränken und dem Mini Club und bietet Familien ein riesiges Skigebiet von einer ruhigen, bewaldeten Basis aus.",
+        "es": "Peisey-Vallandry es la puerta boscosa y resguardada al Paradiski, uno de los dominios conectados más grandes del mundo, y aun así conserva un ambiente de pueblo suave y discreto. El Club Med es ski-in, ski-out entre los árboles con forfaits, escuela de esquí ESF para los niños, todas las comidas y bebidas y el Mini Club, dando a las familias un dominio inmenso desde una base tranquila y arbolada.",
+        "pt": "Peisey-Vallandry é a porta de entrada arborizada e abrigada para o Paradiski, um dos domínios ligados maiores do mundo, e mantém ainda assim um ambiente de aldeia suave e discreto. O Club Med é ski-in, ski-out entre as árvores com passes de esqui, escola de esqui ESF para as crianças, todas as refeições e bebidas e o Mini Club, dando às famílias um domínio imenso a partir de uma base calma e arborizada."
       },
       "highlights": {
         "en": [
@@ -935,6 +1687,34 @@
           "Cours de ski collectifs ESF pour les enfants inclus",
           "Mini Club Med (4 à 10 ans) inclus pendant que vous skiez",
           "Village calme et forestier à l'ambiance familiale douce"
+        ],
+        "it": [
+          "Porta d'accesso ski-in, ski-out all'immenso comprensorio Paradiski",
+          "Piste riparate e boscose, clementi con il brutto tempo",
+          "Corsi di sci di gruppo ESF per bambini inclusi",
+          "Mini Club Med (4-10 anni) incluso mentre sciate",
+          "Villaggio tranquillo e immerso nel bosco, dall'atmosfera familiare e dolce"
+        ],
+        "de": [
+          "Ski-in, Ski-out-Tor zum riesigen Paradiski-Gebiet",
+          "Geschützte, von Bäumen gesäumte Pisten, die bei schlechtem Wetter angenehm sind",
+          "ESF-Ski-Gruppenunterricht für Kinder inklusive",
+          "Mini Club Med (4 bis 10 Jahre) inklusive, während Sie Ski fahren",
+          "Ruhiges, bewaldetes Dorf mit sanftem Familiengefühl"
+        ],
+        "es": [
+          "Puerta ski-in, ski-out al vasto dominio Paradiski",
+          "Pistas resguardadas y arboladas, amables con el mal tiempo",
+          "Clases de esquí en grupo ESF para niños incluidas",
+          "Mini Club Med (4 a 10 años) incluido mientras esquías",
+          "Pueblo tranquilo y arbolado, con un ambiente familiar y suave"
+        ],
+        "pt": [
+          "Porta de entrada ski-in, ski-out para o imenso domínio Paradiski",
+          "Pistas abrigadas e arborizadas, amenas com o mau tempo",
+          "Aulas de esqui em grupo ESF para crianças incluídas",
+          "Mini Club Med (4 aos 10 anos) incluído enquanto esquia",
+          "Aldeia calma e arborizada, com um ambiente familiar e suave"
         ]
       },
       "pros": {
@@ -949,6 +1729,30 @@
           "Pistes boisées offrant une meilleure visibilité les jours de neige",
           "Ski aux pieds pour éviter les marches glacées avec les enfants",
           "Village paisible, loin des stations bruyantes et festives"
+        ],
+        "it": [
+          "Accesso a un comprensorio gigante da una base tranquilla",
+          "Le piste boscose offrono una migliore visibilità nei giorni di neve",
+          "Lo ski-in, ski-out elimina le camminate gelide con i bambini",
+          "Villaggio rilassato, non una rumorosa stazione festaiola"
+        ],
+        "de": [
+          "Zugang zu einem riesigen Skigebiet von einer ruhigen Basis aus",
+          "Von Bäumen gesäumte Pisten bieten bessere Sicht an Schneetagen",
+          "Ski-in, Ski-out erspart kalte Fußwege mit Kindern",
+          "Entspanntes Dorf, kein lauter Partyort"
+        ],
+        "es": [
+          "Acceso a un dominio gigante desde una base tranquila",
+          "Las pistas arboladas dan mejor visibilidad en los días de nieve",
+          "El ski-in, ski-out elimina las caminatas heladas con los niños",
+          "Pueblo relajado, no una ruidosa estación de fiesta"
+        ],
+        "pt": [
+          "Acesso a um domínio gigante a partir de uma base tranquila",
+          "As pistas arborizadas dão melhor visibilidade nos dias de neve",
+          "O ski-in, ski-out elimina as caminhadas geladas com as crianças",
+          "Aldeia descontraída, não uma estação de festa barulhenta"
         ]
       },
       "cons": {
@@ -961,59 +1765,119 @@
           "Moins de commerces et de vie nocturne que les grandes stations",
           "Le village classique est douillet plutôt que luxueux",
           "La grande boucle Paradiski fait une longue journée avec de jeunes skieurs"
+        ],
+        "it": [
+          "Meno negozi e vita notturna rispetto alle grandi stazioni",
+          "Il villaggio classico è accogliente più che sfarzoso",
+          "L'intero giro del Paradiski è una lunga giornata con giovani sciatori"
+        ],
+        "de": [
+          "Weniger Geschäfte und Nachtleben als in den namhaften Orten",
+          "Das klassische Dorf ist gemütlich statt luxuriös",
+          "Die komplette Paradiski-Runde ist ein langer Tag mit jungen Skifahrern"
+        ],
+        "es": [
+          "Menos tiendas y vida nocturna que las estaciones famosas",
+          "El pueblo clásico es acogedor más que lujoso",
+          "La vuelta completa al Paradiski es una larga jornada con jóvenes esquiadores"
+        ],
+        "pt": [
+          "Menos lojas e vida noturna do que as estações famosas",
+          "A aldeia clássica é acolhedora em vez de luxuosa",
+          "A volta completa ao Paradiski é uma longa jornada com jovens esquiadores"
         ]
       },
       "verdict": {
         "en": "A calm, forested, ski-in ski-out base that quietly opens onto one of the world's biggest ski areas, ideal for families who want big skiing without a big, noisy resort.",
-        "fr": "Une base calme, forestière et skis aux pieds qui ouvre discrètement sur l'un des plus grands domaines du monde, idéale pour les familles qui veulent du grand ski sans une grande station bruyante."
+        "fr": "Une base calme, forestière et skis aux pieds qui ouvre discrètement sur l'un des plus grands domaines du monde, idéale pour les familles qui veulent du grand ski sans une grande station bruyante.",
+        "it": "Una base tranquilla, immersa nel bosco e ski-in ski-out che si apre discretamente su uno dei comprensori più grandi al mondo, ideale per le famiglie che vogliono grande sci senza una grande e rumorosa stazione.",
+        "de": "Eine ruhige, bewaldete Ski-in-Ski-out-Basis, die sich unauffällig auf eines der größten Skigebiete der Welt öffnet, ideal für Familien, die großes Skifahren ohne einen großen, lauten Ort wollen.",
+        "es": "Una base tranquila, arbolada y de ski-in ski-out que se abre discretamente a uno de los dominios más grandes del mundo, ideal para las familias que quieren gran esquí sin una gran y ruidosa estación.",
+        "pt": "Uma base calma, arborizada e de ski-in ski-out que se abre discretamente para um dos domínios maiores do mundo, ideal para famílias que querem grande esqui sem uma grande e barulhenta estação."
       },
       "parentTip": {
         "en": "The Vanoise Express cable car links Peisey across to Les Arcs, but it is a big outing for little legs, so save the full Paradiski crossing for a day when the children are skiing confidently.",
-        "fr": "Le téléphérique Vanoise Express relie Peisey aux Arcs, mais c'est une grande sortie pour de petites jambes : gardez la traversée complète du Paradiski pour un jour où les enfants skient avec assurance."
+        "fr": "Le téléphérique Vanoise Express relie Peisey aux Arcs, mais c'est une grande sortie pour de petites jambes : gardez la traversée complète du Paradiski pour un jour où les enfants skient avec assurance.",
+        "it": "La funivia Vanoise Express collega Peisey ai Arcs, ma è una grande uscita per le gambe piccole, quindi tenete la traversata completa del Paradiski per un giorno in cui i bambini sciano con sicurezza.",
+        "de": "Die Seilbahn Vanoise Express verbindet Peisey mit Les Arcs, aber es ist ein großer Ausflug für kleine Beine, also heben Sie sich die komplette Paradiski-Überquerung für einen Tag auf, an dem die Kinder sicher Ski fahren.",
+        "es": "El teleférico Vanoise Express une Peisey con Les Arcs, pero es una gran salida para piernas pequeñas, así que reserva la travesía completa del Paradiski para un día en que los niños esquíen con seguridad.",
+        "pt": "O teleférico Vanoise Express liga Peisey a Les Arcs, mas é um grande passeio para pernas pequenas, por isso guarde a travessia completa do Paradiski para um dia em que as crianças esquiem com segurança."
       },
       "atAGlance": [
         {
           "icon": "⛷️",
           "label": {
             "en": "Ski access",
-            "fr": "Accès au ski"
+            "fr": "Accès au ski",
+            "it": "Accesso alle piste",
+            "de": "Skizugang",
+            "es": "Acceso al esquí",
+            "pt": "Acesso ao esqui"
           },
           "value": {
             "en": "Ski-in, ski-out, gateway to Paradiski",
-            "fr": "Ski aux pieds, porte du Paradiski"
+            "fr": "Ski aux pieds, porte du Paradiski",
+            "it": "Ski-in, ski-out, porta d'accesso al Paradiski",
+            "de": "Ski-in, Ski-out, Tor zum Paradiski",
+            "es": "Ski-in, ski-out, puerta al Paradiski",
+            "pt": "Ski-in, ski-out, porta de entrada para o Paradiski"
           }
         },
         {
           "icon": "🧒",
           "label": {
             "en": "Kids club",
-            "fr": "Club enfants"
+            "fr": "Club enfants",
+            "it": "Club per bambini",
+            "de": "Kinderclub",
+            "es": "Club infantil",
+            "pt": "Clube infantil"
           },
           "value": {
             "en": "Mini Club (4 to 10) and ESF lessons included",
-            "fr": "Mini Club (4 à 10 ans) et cours ESF inclus"
+            "fr": "Mini Club (4 à 10 ans) et cours ESF inclus",
+            "it": "Mini Club (4-10 anni) e lezioni ESF inclusi",
+            "de": "Mini Club (4 bis 10 Jahre) und ESF-Unterricht inklusive",
+            "es": "Mini Club (4 a 10 años) y clases ESF incluidos",
+            "pt": "Mini Club (4 aos 10 anos) e aulas ESF incluídos"
           }
         },
         {
           "icon": "👶",
           "label": {
             "en": "Little ones",
-            "fr": "Tout-petits"
+            "fr": "Tout-petits",
+            "it": "I più piccoli",
+            "de": "Die Kleinsten",
+            "es": "Los más pequeños",
+            "pt": "Os mais pequenos"
           },
           "value": {
             "en": "Baby and Petit Club from 4 months, extra cost",
-            "fr": "Baby et Petit Club dès 4 mois, en supplément"
+            "fr": "Baby et Petit Club dès 4 mois, en supplément",
+            "it": "Baby e Petit Club dai 4 mesi, con supplemento",
+            "de": "Baby und Petit Club ab 4 Monaten, gegen Aufpreis",
+            "es": "Baby y Petit Club desde 4 meses, con coste extra",
+            "pt": "Baby e Petit Club a partir dos 4 meses, com custo extra"
           }
         },
         {
           "icon": "🌲",
           "label": {
             "en": "Setting",
-            "fr": "Cadre"
+            "fr": "Cadre",
+            "it": "Contesto",
+            "de": "Umgebung",
+            "es": "Entorno",
+            "pt": "Cenário"
           },
           "value": {
             "en": "Sheltered, tree-lined and calm",
-            "fr": "Abrité, boisé et calme"
+            "fr": "Abrité, boisé et calme",
+            "it": "Riparato, boscoso e tranquillo",
+            "de": "Geschützt, bewaldet und ruhig",
+            "es": "Resguardado, arbolado y tranquilo",
+            "pt": "Abrigado, arborizado e calmo"
           }
         }
       ],
@@ -1021,31 +1885,55 @@
         {
           "q": {
             "en": "How big is the ski area from Peisey-Vallandry?",
-            "fr": "Quelle est la taille du domaine depuis Peisey-Vallandry?"
+            "fr": "Quelle est la taille du domaine depuis Peisey-Vallandry?",
+            "it": "Quanto è grande il comprensorio da Peisey-Vallandry?",
+            "de": "Wie groß ist das Skigebiet von Peisey-Vallandry aus?",
+            "es": "¿Cómo de grande es el dominio desde Peisey-Vallandry?",
+            "pt": "Qual é o tamanho do domínio a partir de Peisey-Vallandry?"
           },
           "a": {
             "en": "Huge. Peisey-Vallandry is part of Paradiski, which links to Les Arcs and La Plagne via the Vanoise Express cable car, giving access to one of the largest connected ski areas in the world.",
-            "fr": "Immense. Peisey-Vallandry fait partie du Paradiski, relié aux Arcs et à La Plagne par le téléphérique Vanoise Express, ce qui donne accès à l'un des plus grands domaines reliés au monde."
+            "fr": "Immense. Peisey-Vallandry fait partie du Paradiski, relié aux Arcs et à La Plagne par le téléphérique Vanoise Express, ce qui donne accès à l'un des plus grands domaines reliés au monde.",
+            "it": "Immenso. Peisey-Vallandry fa parte del Paradiski, collegato ai Arcs e a La Plagne tramite la funivia Vanoise Express, dando accesso a uno dei comprensori collegati più grandi al mondo.",
+            "de": "Riesig. Peisey-Vallandry ist Teil des Paradiski, das über die Seilbahn Vanoise Express mit Les Arcs und La Plagne verbunden ist und Zugang zu einem der größten verbundenen Skigebiete der Welt bietet.",
+            "es": "Inmenso. Peisey-Vallandry forma parte del Paradiski, conectado con Les Arcs y La Plagne mediante el teleférico Vanoise Express, lo que da acceso a uno de los dominios conectados más grandes del mundo.",
+            "pt": "Imenso. Peisey-Vallandry faz parte do Paradiski, ligado a Les Arcs e a La Plagne pelo teleférico Vanoise Express, dando acesso a um dos domínios ligados maiores do mundo."
           }
         },
         {
           "q": {
             "en": "Is it suitable for babies and toddlers?",
-            "fr": "Convient-il aux bébés et aux tout-petits?"
+            "fr": "Convient-il aux bébés et aux tout-petits?",
+            "it": "È adatto a neonati e bambini piccoli?",
+            "de": "Ist es für Babys und Kleinkinder geeignet?",
+            "es": "¿Es adecuado para bebés y niños pequeños?",
+            "pt": "É adequado para bebés e crianças pequenas?"
           },
           "a": {
             "en": "Yes. Baby Club Med takes children from 4 to 23 months and Petit Club Med covers 2 to 3 year olds, both supervised and available at an extra charge. The calm, sheltered village suits young families well.",
-            "fr": "Oui. Le Baby Club Med accueille les enfants de 4 à 23 mois et le Petit Club Med les 2 à 3 ans, tous deux encadrés et proposés en supplément. Le village calme et abrité convient bien aux jeunes familles."
+            "fr": "Oui. Le Baby Club Med accueille les enfants de 4 à 23 mois et le Petit Club Med les 2 à 3 ans, tous deux encadrés et proposés en supplément. Le village calme et abrité convient bien aux jeunes familles.",
+            "it": "Sì. Il Baby Club Med accoglie i bambini dai 4 ai 23 mesi e il Petit Club Med copre i 2-3 anni, entrambi sorvegliati e disponibili con supplemento. Il villaggio tranquillo e riparato è molto adatto alle giovani famiglie.",
+            "de": "Ja. Der Baby Club Med nimmt Kinder von 4 bis 23 Monaten auf und der Petit Club Med betreut die 2- bis 3-Jährigen, beide beaufsichtigt und gegen Aufpreis verfügbar. Das ruhige, geschützte Dorf eignet sich gut für junge Familien.",
+            "es": "Sí. El Baby Club Med acoge a los niños de 4 a 23 meses y el Petit Club Med cubre a los de 2 a 3 años, ambos supervisados y disponibles con coste extra. El pueblo tranquilo y resguardado va muy bien con las familias jóvenes.",
+            "pt": "Sim. O Baby Club Med acolhe as crianças dos 4 aos 23 meses e o Petit Club Med abrange os 2 aos 3 anos, ambos supervisionados e disponíveis com custo extra. A aldeia calma e abrigada adequa-se muito bem às famílias jovens."
           }
         },
         {
           "q": {
             "en": "Is it too quiet for families who want some buzz?",
-            "fr": "Est-ce trop calme pour des familles qui veulent un peu d'animation?"
+            "fr": "Est-ce trop calme pour des familles qui veulent un peu d'animation?",
+            "it": "È troppo tranquillo per le famiglie che vogliono un po' di movimento?",
+            "de": "Ist es zu ruhig für Familien, die etwas Trubel wollen?",
+            "es": "¿Es demasiado tranquilo para las familias que quieren algo de ambiente?",
+            "pt": "É demasiado calmo para famílias que querem alguma animação?"
           },
           "a": {
             "en": "It is a laid-back, forested village rather than a lively resort. Evenings centre on the Club Med village entertainment and clubs, which suits families happy to stay in after a day on the snow.",
-            "fr": "C'est un village tranquille et boisé plutôt qu'une station animée. Les soirées tournent autour des animations et des clubs du village Club Med, ce qui convient aux familles qui aiment rester sur place après une journée de neige."
+            "fr": "C'est un village tranquille et boisé plutôt qu'une station animée. Les soirées tournent autour des animations et des clubs du village Club Med, ce qui convient aux familles qui aiment rester sur place après une journée de neige.",
+            "it": "È un villaggio rilassato e immerso nel bosco più che una stazione vivace. Le serate ruotano intorno agli spettacoli e ai club del villaggio Club Med, il che si adatta alle famiglie contente di restare in casa dopo una giornata sulla neve.",
+            "de": "Es ist ein entspanntes, bewaldetes Dorf statt eines lebhaften Ortes. Die Abende drehen sich um die Unterhaltung und die Clubs des Club-Med-Dorfs, was Familien liegt, die nach einem Tag im Schnee gerne drinnen bleiben.",
+            "es": "Es un pueblo relajado y arbolado más que una estación animada. Las noches giran en torno a la animación y los clubs del pueblo de Club Med, lo que va bien con las familias contentas de quedarse dentro tras un día en la nieve.",
+            "pt": "É uma aldeia descontraída e arborizada em vez de uma estação animada. As noites giram em torno da animação e dos clubes da aldeia do Club Med, o que se adequa às famílias que gostam de ficar dentro depois de um dia na neve."
           }
         }
       ]
@@ -1054,11 +1942,19 @@
   "destinationMeta": {
     "name": {
       "en": "French Alps",
-      "fr": "Alpes françaises"
+      "fr": "Alpes françaises",
+      "it": "Alpi francesi",
+      "de": "Französische Alpen",
+      "es": "Alpes franceses",
+      "pt": "Alpes franceses"
     },
     "country": {
       "en": "France",
-      "fr": "France"
+      "fr": "France",
+      "it": "Francia",
+      "de": "Frankreich",
+      "es": "Francia",
+      "pt": "França"
     },
     "emoji": "⛷️",
     "accent": "185fa5",
@@ -1069,11 +1965,19 @@
     },
     "heroKicker": {
       "en": "All-inclusive family skiing where lessons, childcare and lift passes come sorted",
-      "fr": "Ski en famille tout compris, cours, garde d'enfants et forfaits déjà réglés"
+      "fr": "Ski en famille tout compris, cours, garde d'enfants et forfaits déjà réglés",
+      "it": "Sci in famiglia tutto compreso, con lezioni, assistenza ai bambini e skipass già organizzati",
+      "de": "All-inclusive-Familienskifahren, bei dem Unterricht, Kinderbetreuung und Skipässe geregelt sind",
+      "es": "Esquí en familia todo incluido, con clases, cuidado infantil y forfaits ya resueltos",
+      "pt": "Esqui em família com tudo incluído, com aulas, apoio às crianças e passes de esqui já tratados"
     },
     "intro": {
       "en": "The French Alps are the classic first family ski trip, and Club Med has quietly made them the easiest. Instead of juggling ski school bookings, lift passes, boot hire, lunches and childcare separately, a Club Med village bundles the lot into one price: kids' group ski lessons with ESF, the free Mini Club for 4 to 10 year olds while you ski, all meals with wine, and an indoor pool and spa to thaw everyone out at the end of the day. Most of these villages are ski-in, ski-out, so there is no cold morning shuffle to the lifts with tired toddlers. Pick your resort by what your family needs: guaranteed snow, gentle beginner slopes, a giant ski area or a brand-new spa village.",
-      "fr": "Les Alpes françaises sont le grand classique du premier séjour ski en famille, et le Club Med les a discrètement rendues plus simples que jamais. Au lieu de jongler séparément avec l'école de ski, les forfaits, la location de chaussures, les déjeuners et la garde d'enfants, un village Club Med réunit le tout dans un seul prix : cours de ski collectifs des enfants avec l'ESF, Mini Club gratuit pour les 4 à 10 ans pendant que vous skiez, tous les repas avec le vin, et une piscine intérieure et un spa pour réchauffer tout le monde en fin de journée. La plupart de ces villages sont skis aux pieds : plus de marche glacée jusqu'aux remontées avec des tout-petits fatigués. Choisissez votre station selon les besoins de la famille : neige garantie, pistes douces pour débuter, domaine géant ou village spa tout neuf."
+      "fr": "Les Alpes françaises sont le grand classique du premier séjour ski en famille, et le Club Med les a discrètement rendues plus simples que jamais. Au lieu de jongler séparément avec l'école de ski, les forfaits, la location de chaussures, les déjeuners et la garde d'enfants, un village Club Med réunit le tout dans un seul prix : cours de ski collectifs des enfants avec l'ESF, Mini Club gratuit pour les 4 à 10 ans pendant que vous skiez, tous les repas avec le vin, et une piscine intérieure et un spa pour réchauffer tout le monde en fin de journée. La plupart de ces villages sont skis aux pieds : plus de marche glacée jusqu'aux remontées avec des tout-petits fatigués. Choisissez votre station selon les besoins de la famille : neige garantie, pistes douces pour débuter, domaine géant ou village spa tout neuf.",
+      "it": "Le Alpi francesi sono il classico primo viaggio di sci in famiglia, e il Club Med le ha rese, in sordina, le più facili. Invece di destreggiarsi separatamente tra prenotazioni della scuola di sci, skipass, noleggio scarponi, pranzi e assistenza ai bambini, un villaggio Club Med riunisce il tutto in un unico prezzo: corsi di sci di gruppo per bambini con la ESF, il Mini Club gratuito per i 4-10 anni mentre sciate, tutti i pasti con il vino e una piscina coperta e una spa per scaldare tutti alla fine della giornata. La maggior parte di questi villaggi è ski-in, ski-out, così non c'è la gelida camminata mattutina fino agli impianti con i piccoli stanchi. Scegliete la vostra stazione in base a ciò di cui la famiglia ha bisogno: neve garantita, piste dolci per principianti, un comprensorio gigante o un villaggio spa nuovo di zecca.",
+      "de": "Die Französischen Alpen sind die klassische erste Familien-Skireise, und Club Med hat sie klammheimlich zur einfachsten gemacht. Statt Skischulbuchungen, Skipässe, Skischuhverleih, Mittagessen und Kinderbetreuung einzeln zu jonglieren, bündelt ein Club-Med-Dorf alles zu einem Preis: Ski-Gruppenunterricht für Kinder mit der ESF, den kostenlosen Mini Club für die 4- bis 10-Jährigen, während Sie Ski fahren, alle Mahlzeiten mit Wein und ein Hallenbad und einen Spa, um am Ende des Tages alle aufzuwärmen. Die meisten dieser Dörfer sind Ski-in, Ski-out, sodass es kein kaltes morgendliches Getrappel zu den Liften mit müden Kleinkindern gibt. Wählen Sie Ihren Ort danach, was Ihre Familie braucht: garantierten Schnee, sanfte Anfängerpisten, ein riesiges Skigebiet oder ein brandneues Spa-Dorf.",
+      "es": "Los Alpes franceses son el clásico primer viaje de esquí en familia, y Club Med los ha convertido, discretamente, en los más fáciles. En lugar de hacer malabares por separado con las reservas de la escuela de esquí, los forfaits, el alquiler de botas, las comidas y el cuidado infantil, un pueblo de Club Med lo reúne todo en un solo precio: clases de esquí en grupo para niños con la ESF, el Mini Club gratuito para los de 4 a 10 años mientras esquías, todas las comidas con vino y una piscina cubierta y un spa para que todos entren en calor al final del día. La mayoría de estos pueblos son ski-in, ski-out, así que no hay que caminar por la mañana con frío hasta los remontes con los pequeños cansados. Elige tu estación según lo que necesite tu familia: nieve garantizada, pistas suaves para principiantes, un dominio gigante o un pueblo spa recién estrenado.",
+      "pt": "Os Alpes franceses são a clássica primeira viagem de esqui em família, e o Club Med tornou-os, discretamente, nos mais fáceis. Em vez de fazer malabarismos em separado com reservas da escola de esqui, passes de esqui, aluguer de botas, almoços e apoio às crianças, uma aldeia do Club Med reúne tudo num só preço: aulas de esqui em grupo para crianças com a ESF, o Mini Club gratuito para os 4 aos 10 anos enquanto esquia, todas as refeições com vinho e uma piscina interior e um spa para aquecer toda a gente ao fim do dia. A maioria destas aldeias é ski-in, ski-out, por isso não há a caminhada gelada da manhã até aos teleféricos com os pequenos cansados. Escolha a sua estação segundo aquilo de que a família precisa: neve garantida, pistas suaves para principiantes, um domínio gigante ou uma aldeia spa acabada de estrear."
     },
     "whyKids": {
       "en": [
@@ -1091,6 +1995,38 @@
         "Baby Club Med (4 à 23 mois) et Petit Club Med (2 à 3 ans) dans certains villages, en supplément",
         "Repas, goûters et boissons tout compris : plus de budget quotidien ni de file d'attente au déjeuner",
         "Une piscine intérieure et un spa dans chaque village pour la fin d'une journée froide"
+      ],
+      "it": [
+        "I corsi di sci di gruppo per bambini con la ESF sono inclusi nel prezzo, non un extra",
+        "Il Mini Club Med (4-10 anni) è gratuito e funziona mentre i genitori sciano",
+        "La maggior parte dei villaggi è ski-in, ski-out, così niente navetta gelida con le gambe piccole",
+        "Baby Club Med (4-23 mesi) e Petit Club Med (2-3 anni) in villaggi selezionati, con supplemento",
+        "Pasti, spuntini e bevande tutto compreso significano niente budget quotidiano né code al pranzo",
+        "Una piscina coperta e una spa in ogni villaggio per la fine di una giornata fredda"
+      ],
+      "de": [
+        "Ski-Gruppenunterricht für Kinder mit der ESF ist im Preis inbegriffen, kein Zusatz",
+        "Der Mini Club Med (4 bis 10 Jahre) ist kostenlos und läuft, während die Eltern Ski fahren",
+        "Die meisten Dörfer sind Ski-in, Ski-out, also kein kalter Shuttle mit kleinen Beinen",
+        "Baby Club Med (4 bis 23 Monate) und Petit Club Med (2 bis 3 Jahre) in ausgewählten Dörfern, gegen Aufpreis",
+        "All-inclusive-Mahlzeiten, -Snacks und -Getränke bedeuten keine tägliche Budgetplanung und keine Mittagsschlangen",
+        "Ein Hallenbad und ein Spa in jedem Dorf für das Ende eines kalten Tages"
+      ],
+      "es": [
+        "Las clases de esquí en grupo para niños con la ESF están incluidas en el precio, no son un extra",
+        "El Mini Club Med (4 a 10 años) es gratuito y funciona mientras los padres esquían",
+        "La mayoría de los pueblos son ski-in, ski-out, así que sin traslado helado con piernas pequeñas",
+        "Baby Club Med (4 a 23 meses) y Petit Club Med (2 a 3 años) en pueblos seleccionados, con coste extra",
+        "Comidas, meriendas y bebidas todo incluido: sin presupuesto diario ni colas a la hora de comer",
+        "Una piscina cubierta y un spa en cada pueblo para el final de un día frío"
+      ],
+      "pt": [
+        "As aulas de esqui em grupo para crianças com a ESF estão incluídas no preço, não são um extra",
+        "O Mini Club Med (4 aos 10 anos) é gratuito e funciona enquanto os pais esquiam",
+        "A maioria das aldeias é ski-in, ski-out, por isso sem viagem gelada com pernas pequenas",
+        "Baby Club Med (4 aos 23 meses) e Petit Club Med (2 aos 3 anos) em aldeias selecionadas, com custo extra",
+        "Refeições, lanches e bebidas com tudo incluído: sem orçamento diário nem filas ao almoço",
+        "Uma piscina interior e um spa em cada aldeia para o fim de um dia frio"
       ]
     },
     "bestAreas": {
@@ -1109,6 +2045,38 @@
         "La Rosière : pistes douces, ensoleillées et skis aux pieds, avec le plaisir de skier jusqu'en Italie",
         "Samoëns Morillon : le village spa le plus récent et le plus élégant, ouvert sur l'immense Grand Massif",
         "Peisey-Vallandry : porte d'entrée calme et forestière, skis aux pieds, vers l'immense domaine Paradiski"
+      ],
+      "it": [
+        "Les Arcs: il villaggio di punta più recente, vero ski-in ski-out ad Arc 1600, ideale per le famiglie che vogliono cura dei dettagli e praticità",
+        "Tignes: alta quota e un ghiacciaio, la scelta più sicura per la neve in un grande comprensorio",
+        "Alpe d'Huez: piste per principianti larghe e soleggiate e una bella piscina, spesso il miglior rapporto qualità-prezzo per un primo viaggio",
+        "La Rosière: piste dolci, soleggiate e ski-in ski-out con la novità di sciare fino in Italia",
+        "Samoëns Morillon: il villaggio spa più recente ed elegante, aperto sull'immenso Grand Massif",
+        "Peisey-Vallandry: una porta d'accesso tranquilla, boscosa e ski-in ski-out al gigantesco comprensorio Paradiski"
+      ],
+      "de": [
+        "Les Arcs: das neueste Vorzeigedorf, echtes Ski-in Ski-out in Arc 1600, am besten für Familien, die Feinschliff und Bequemlichkeit wollen",
+        "Tignes: große Höhe und ein Gletscher, die schneesicherste Wahl für ein großes Skigebiet",
+        "Alpe d'Huez: sonnige, breite Anfängerpisten und ein tolles Schwimmbad, oft das beste Preis-Leistungs-Verhältnis für eine erste Reise",
+        "La Rosière: sanfte, sonnige Ski-in-Ski-out-Pisten mit dem Reiz, nach Italien hinüberzufahren",
+        "Samoëns Morillon: das neueste, stilvollste Spa-Dorf, mit Zugang zum riesigen Grand Massif",
+        "Peisey-Vallandry: ein ruhiges, bewaldetes Ski-in-Ski-out-Tor zum riesigen Paradiski-Gebiet"
+      ],
+      "es": [
+        "Les Arcs: el buque insignia más reciente, auténtico ski-in ski-out en Arc 1600, lo mejor para las familias que quieren pulcritud y comodidad",
+        "Tignes: gran altitud y un glaciar, la opción más segura en nieve para un gran dominio",
+        "Alpe d'Huez: pistas de principiantes amplias y soleadas y una gran piscina, a menudo la mejor relación calidad-precio para un primer viaje",
+        "La Rosière: pistas suaves, soleadas y de ski-in ski-out con la novedad de esquiar hasta Italia",
+        "Samoëns Morillon: el pueblo spa más reciente y con más estilo, abierto al vasto Grand Massif",
+        "Peisey-Vallandry: una puerta tranquila, arbolada y de ski-in ski-out al gigantesco dominio Paradiski"
+      ],
+      "pt": [
+        "Les Arcs: a unidade principal mais recente, verdadeiro ski-in ski-out em Arc 1600, melhor para famílias que querem requinte e conveniência",
+        "Tignes: altitude elevada e um glaciar, a escolha mais garantida em neve para um grande domínio",
+        "Alpe d'Huez: pistas de principiantes largas e soalheiras e uma bela piscina, muitas vezes a melhor relação qualidade-preço para uma primeira viagem",
+        "La Rosière: pistas suaves, soalheiras e de ski-in ski-out com a novidade de esquiar até Itália",
+        "Samoëns Morillon: a aldeia spa mais recente e elegante, aberta para o imenso Grand Massif",
+        "Peisey-Vallandry: uma porta de entrada calma, arborizada e de ski-in ski-out para o gigantesco domínio Paradiski"
       ]
     },
     "stats": [
@@ -1116,38 +2084,62 @@
         "value": "1 price",
         "label": {
           "en": "Lessons, lift pass, meals and childcare bundled",
-          "fr": "Cours, forfait, repas et garde réunis"
+          "fr": "Cours, forfait, repas et garde réunis",
+          "it": "Lezioni, skipass, pasti e assistenza ai bambini in un unico pacchetto",
+          "de": "Unterricht, Skipass, Mahlzeiten und Kinderbetreuung im Paket",
+          "es": "Clases, forfait, comidas y cuidado infantil en un solo paquete",
+          "pt": "Aulas, passe de esqui, refeições e apoio às crianças num só pacote"
         }
       },
       {
         "value": "4 to 10",
         "label": {
           "en": "Ages covered by the free Mini Club Med",
-          "fr": "Âges couverts par le Mini Club Med gratuit"
+          "fr": "Âges couverts par le Mini Club Med gratuit",
+          "it": "Età coperte dal Mini Club Med gratuito",
+          "de": "Vom kostenlosen Mini Club Med abgedeckte Altersgruppen",
+          "es": "Edades cubiertas por el Mini Club Med gratuito",
+          "pt": "Idades cobertas pelo Mini Club Med gratuito"
         }
       },
       {
         "value": "From 4 mo",
         "label": {
           "en": "Baby childcare at select villages, extra cost",
-          "fr": "Garde des bébés dans certains villages, en supplément"
+          "fr": "Garde des bébés dans certains villages, en supplément",
+          "it": "Servizio di nido per neonati in alcuni villaggi, a pagamento",
+          "de": "Babybetreuung in ausgewählten Feriendörfern, gegen Aufpreis",
+          "es": "Cuidado de bebés en algunos pueblos, con coste adicional",
+          "pt": "Creche para bebés em alguns resorts, com custo adicional"
         }
       },
       {
         "value": "Dec to Apr",
         "label": {
           "en": "Typical Alpine ski season",
-          "fr": "Saison de ski alpine habituelle"
+          "fr": "Saison de ski alpine habituelle",
+          "it": "Tipica stagione sciistica alpina",
+          "de": "Typische alpine Skisaison",
+          "es": "Temporada de esquí alpino habitual",
+          "pt": "Época de esqui alpino habitual"
         }
       }
     ],
     "goodToKnow": {
       "en": "Kids' group ski lessons with ESF and the Mini Club Med for 4 to 10 year olds are included in the all-inclusive price, along with lift passes, meals and drinks. Baby Club Med (4 to 23 months) and Petit Club Med (2 to 3 years) run at these villages but cost extra and fill up fast, so reserve them when you book. Most villages are ski-in, ski-out, though at Samoëns Morillon a gondola links the plateau base to the wider area. Higher resorts like Tignes are the most snow-sure, while sunnier, lower ones like Alpe d'Huez and La Rosière suit beginners but can soften in the afternoon. School holidays in France and the UK are the busiest and priciest weeks, so book early.",
-      "fr": "Les cours de ski collectifs des enfants avec l'ESF et le Mini Club Med pour les 4 à 10 ans sont inclus dans le prix tout compris, avec les forfaits, les repas et les boissons. Le Baby Club Med (4 à 23 mois) et le Petit Club Med (2 à 3 ans) existent dans ces villages mais coûtent un supplément et se remplissent vite, réservez-les dès l'inscription. La plupart des villages sont skis aux pieds, même si à Samoëns Morillon une télécabine relie la base du plateau au reste du domaine. Les stations hautes comme Tignes sont les plus sûres côté neige, tandis que les plus basses et ensoleillées comme l'Alpe d'Huez et La Rosière conviennent aux débutants mais peuvent ramollir l'après-midi. Les vacances scolaires en France et au Royaume-Uni sont les semaines les plus fréquentées et les plus chères, réservez tôt."
+      "fr": "Les cours de ski collectifs des enfants avec l'ESF et le Mini Club Med pour les 4 à 10 ans sont inclus dans le prix tout compris, avec les forfaits, les repas et les boissons. Le Baby Club Med (4 à 23 mois) et le Petit Club Med (2 à 3 ans) existent dans ces villages mais coûtent un supplément et se remplissent vite, réservez-les dès l'inscription. La plupart des villages sont skis aux pieds, même si à Samoëns Morillon une télécabine relie la base du plateau au reste du domaine. Les stations hautes comme Tignes sont les plus sûres côté neige, tandis que les plus basses et ensoleillées comme l'Alpe d'Huez et La Rosière conviennent aux débutants mais peuvent ramollir l'après-midi. Les vacances scolaires en France et au Royaume-Uni sont les semaines les plus fréquentées et les plus chères, réservez tôt.",
+      "it": "Le lezioni di sci di gruppo per bambini con la ESF e il Mini Club Med per i 4-10 anni sono incluse nel prezzo all inclusive, insieme agli skipass, ai pasti e alle bevande. Il Baby Club Med (4-23 mesi) e il Petit Club Med (2-3 anni) sono presenti in questi villaggi ma hanno un costo aggiuntivo e si riempiono in fretta, quindi prenotateli al momento della prenotazione. La maggior parte dei villaggi è ski-in, ski-out, anche se a Samoëns Morillon una cabinovia collega la base del plateau al resto del comprensorio. Le stazioni più alte come Tignes sono le più sicure quanto a neve, mentre quelle più soleggiate e più basse come Alpe d'Huez e La Rosière sono adatte ai principianti ma nel pomeriggio la neve può ammorbidirsi. Le vacanze scolastiche in Francia e nel Regno Unito sono le settimane più affollate e più care, perciò prenotate per tempo.",
+      "de": "Skigruppenkurse für Kinder mit der ESF und der Mini Club Med für 4- bis 10-Jährige sind im All-inclusive-Preis enthalten, ebenso wie Liftpässe, Mahlzeiten und Getränke. Der Baby Club Med (4 bis 23 Monate) und der Petit Club Med (2 bis 3 Jahre) gibt es in diesen Feriendörfern, kosten jedoch extra und sind schnell ausgebucht, reservieren Sie sie also gleich bei der Buchung. Die meisten Feriendörfer sind ski-in, ski-out, in Samoëns Morillon verbindet allerdings eine Gondelbahn die Talstation des Plateaus mit dem übrigen Gebiet. Höher gelegene Orte wie Tignes sind am schneesichersten, während sonnigere, tiefer gelegene wie Alpe d'Huez und La Rosière sich für Anfänger eignen, am Nachmittag aber weich werden können. Die Schulferien in Frankreich und Großbritannien sind die vollsten und teuersten Wochen, buchen Sie also früh.",
+      "es": "Las clases de esquí en grupo para niños con la ESF y el Mini Club Med para los de 4 a 10 años están incluidas en el precio todo incluido, junto con los forfaits, las comidas y las bebidas. El Baby Club Med (de 4 a 23 meses) y el Petit Club Med (de 2 a 3 años) funcionan en estos pueblos, pero cuestan aparte y se llenan rápido, así que resérvalos al hacer la reserva. La mayoría de los pueblos son ski-in, ski-out, aunque en Samoëns Morillon un telecabina une la base del plateau con el resto del dominio. Las estaciones más altas como Tignes son las que tienen la nieve más asegurada, mientras que las más soleadas y bajas como Alpe d'Huez y La Rosière son ideales para principiantes, pero por la tarde la nieve puede ablandarse. Las vacaciones escolares en Francia y el Reino Unido son las semanas más concurridas y más caras, así que reserva con antelación.",
+      "pt": "As aulas de esqui em grupo para crianças com a ESF e o Mini Club Med para os 4 aos 10 anos estão incluídas no preço tudo incluído, juntamente com os passes de esqui, as refeições e as bebidas. O Baby Club Med (4 a 23 meses) e o Petit Club Med (2 a 3 anos) funcionam nestes resorts, mas têm um custo adicional e enchem depressa, por isso reserve-os logo na altura da reserva. A maioria dos resorts é ski-in, ski-out, embora em Samoëns Morillon um teleférico ligue a base do planalto ao resto do domínio. As estações mais altas como Tignes são as que têm neve mais garantida, enquanto as mais soalheiras e mais baixas como Alpe d'Huez e La Rosière são ideais para principiantes, mas podem amolecer à tarde. As férias escolares em França e no Reino Unido são as semanas com mais gente e mais caras, por isso reserve com antecedência."
     },
     "parentTip": {
       "en": "Book the children into ESF ski school and, if you have a baby or toddler, reserve Baby or Petit Club the moment you book the holiday: the included Mini Club is easy, but the under-4 childcare places are limited and go early.",
-      "fr": "Inscrivez les enfants à l'école de ski ESF et, si vous avez un bébé ou un tout-petit, réservez le Baby ou le Petit Club dès la réservation du séjour : le Mini Club inclus est facile, mais les places de garde des moins de 4 ans sont limitées et partent tôt."
+      "fr": "Inscrivez les enfants à l'école de ski ESF et, si vous avez un bébé ou un tout-petit, réservez le Baby ou le Petit Club dès la réservation du séjour : le Mini Club inclus est facile, mais les places de garde des moins de 4 ans sont limitées et partent tôt.",
+      "it": "Iscrivete i bambini alla scuola di sci ESF e, se avete un neonato o un bimbo piccolo, prenotate il Baby o il Petit Club nel momento stesso in cui prenotate la vacanza: il Mini Club incluso è comodo, ma i posti per la custodia dei bambini sotto i 4 anni sono limitati e si esauriscono presto.",
+      "de": "Melden Sie die Kinder in der ESF-Skischule an und reservieren Sie, wenn Sie ein Baby oder Kleinkind haben, den Baby- oder Petit Club gleich bei der Buchung des Urlaubs: Der inbegriffene Mini Club ist unkompliziert, aber die Betreuungsplätze für unter Vierjährige sind begrenzt und früh vergeben.",
+      "es": "Apunta a los niños a la escuela de esquí ESF y, si tienes un bebé o un niño pequeño, reserva el Baby o el Petit Club en el momento de reservar las vacaciones: el Mini Club incluido es cómodo, pero las plazas de cuidado para menores de 4 años son limitadas y se agotan pronto.",
+      "pt": "Inscreva as crianças na escola de esqui ESF e, se tiver um bebé ou uma criança pequena, reserve o Baby ou o Petit Club no momento em que reservar as férias: o Mini Club incluído é prático, mas as vagas de creche para menores de 4 anos são limitadas e esgotam cedo."
     }
   }
 }

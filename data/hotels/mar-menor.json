@@ -6,7 +6,11 @@
       "name": "Hotel Izán Cavanna",
       "area": {
         "en": "La Manga del Mar Menor",
-        "fr": "La Manga del Mar Menor"
+        "fr": "La Manga del Mar Menor",
+        "it": "La Manga del Mar Menor",
+        "de": "La Manga del Mar Menor",
+        "es": "La Manga del Mar Menor",
+        "pt": "La Manga del Mar Menor"
       },
       "lat": 37.629,
       "lng": -0.746,
@@ -45,11 +49,19 @@
       },
       "roomsSummary": {
         "en": "Simple, bright rooms, most with a balcony and a view over the lagoon or the pool. Family rooms sleep up to four, and the hotel sits on the narrow strip of land with the calm Mar Menor on one side and the open sea on the other, so you are never more than a couple of minutes from shallow water.",
-        "fr": "Chambres simples et lumineuses, la plupart avec balcon et vue sur le lagon ou la piscine. Les chambres familiales accueillent jusqu'à quatre personnes, et l'hôtel se trouve sur la mince bande de terre avec le Mar Menor tout calme d'un côté et la mer ouverte de l'autre : vous n'êtes jamais à plus de deux minutes d'une eau peu profonde."
+        "fr": "Chambres simples et lumineuses, la plupart avec balcon et vue sur le lagon ou la piscine. Les chambres familiales accueillent jusqu'à quatre personnes, et l'hôtel se trouve sur la mince bande de terre avec le Mar Menor tout calme d'un côté et la mer ouverte de l'autre : vous n'êtes jamais à plus de deux minutes d'une eau peu profonde.",
+        "it": "Camere semplici e luminose, la maggior parte con balcone e vista sulla laguna o sulla piscina. Le camere familiari ospitano fino a quattro persone, e l'hotel sorge sulla stretta lingua di terra, con il tranquillo Mar Menor da un lato e il mare aperto dall'altro: non siete mai a più di un paio di minuti dall'acqua bassa.",
+        "de": "Schlichte, helle Zimmer, die meisten mit Balkon und Blick auf die Lagune oder den Pool. Familienzimmer bieten Platz für bis zu vier Personen, und das Hotel liegt auf dem schmalen Landstreifen mit dem ruhigen Mar Menor auf der einen und dem offenen Meer auf der anderen Seite, sodass ihr nie mehr als ein paar Minuten vom flachen Wasser entfernt seid.",
+        "es": "Habitaciones sencillas y luminosas, la mayoría con balcón y vistas a la laguna o a la piscina. Las habitaciones familiares acogen hasta cuatro personas, y el hotel se asienta sobre la estrecha franja de tierra, con el tranquilo Mar Menor a un lado y el mar abierto al otro, así que nunca estáis a más de un par de minutos del agua poco profunda.",
+        "pt": "Quartos simples e luminosos, a maioria com varanda e vista para a laguna ou para a piscina. Os quartos familiares acomodam até quatro pessoas, e o hotel fica na estreita faixa de terra, com o tranquilo Mar Menor de um lado e o mar aberto do outro, por isso nunca estão a mais do que um par de minutos da água pouco profunda."
       },
       "intro": {
         "en": "This is the classic Mar Menor family hotel: a big, friendly, no-frills place right on the calm lagoon side of La Manga. The water in front is warm, clear and so shallow you can walk a toddler out a long way with the surface still around their knees. There is a children's pool, a kids club and evening shows in the main hall, and the sandy Mediterranean beach is a two-minute stroll across the strip when you fancy a change. It is not luxurious, it is easy, and for parents of very young children that is exactly the point.",
-        "fr": "Voici l'hôtel familial classique du Mar Menor : un grand établissement sympathique et sans chichis, posé juste sur le côté lagon tout calme de La Manga. L'eau devant est chaude, claire et si peu profonde que vous pouvez faire marcher un tout-petit très loin, la surface encore au niveau de ses genoux. Il y a une pataugeoire, un club enfants et des spectacles le soir dans la grande salle, et la plage de sable côté Méditerranée est à deux minutes à pied de l'autre côté de la bande quand vous voulez changer. Ce n'est pas luxueux, c'est facile, et pour des parents de tout-petits, c'est précisément l'essentiel."
+        "fr": "Voici l'hôtel familial classique du Mar Menor : un grand établissement sympathique et sans chichis, posé juste sur le côté lagon tout calme de La Manga. L'eau devant est chaude, claire et si peu profonde que vous pouvez faire marcher un tout-petit très loin, la surface encore au niveau de ses genoux. Il y a une pataugeoire, un club enfants et des spectacles le soir dans la grande salle, et la plage de sable côté Méditerranée est à deux minutes à pied de l'autre côté de la bande quand vous voulez changer. Ce n'est pas luxueux, c'est facile, et pour des parents de tout-petits, c'est précisément l'essentiel.",
+        "it": "Questo è il classico hotel per famiglie del Mar Menor: un posto grande, cordiale e senza fronzoli, proprio sul lato tranquillo della laguna a La Manga. L'acqua davanti è calda, limpida e così bassa che potete portare un bimbo piccolo molto al largo con la superficie ancora alle sue ginocchia. C'è una piscina per bambini, un miniclub e spettacoli serali nella sala principale, e la spiaggia sabbiosa del Mediterraneo è a due minuti a piedi attraverso la lingua di terra quando avete voglia di cambiare. Non è lussuoso, è comodo, e per i genitori di bimbi molto piccoli è esattamente quello che conta.",
+        "de": "Das ist das klassische Familienhotel am Mar Menor: ein großes, freundliches, unkompliziertes Haus direkt an der ruhigen Lagunenseite von La Manga. Das Wasser davor ist warm, klar und so flach, dass ihr ein Kleinkind weit hinauslaufen lassen könnt und die Oberfläche noch immer um seine Knie reicht. Es gibt einen Kinderpool, einen Kinderclub und Abendshows im großen Saal, und der sandige Mittelmeerstrand ist einen Zwei-Minuten-Spaziergang über den Landstreifen entfernt, wenn euch nach Abwechslung ist. Es ist nicht luxuriös, es ist unkompliziert, und für Eltern sehr kleiner Kinder ist genau das der Punkt.",
+        "es": "Este es el clásico hotel familiar del Mar Menor: un lugar grande, cordial y sin florituras, justo en el tranquilo lado de la laguna de La Manga. El agua de enfrente es cálida, clara y tan poco profunda que podéis llevar a un pequeño mar adentro con la superficie todavía por sus rodillas. Hay una piscina infantil, un club de niños y espectáculos nocturnos en la sala principal, y la playa de arena del Mediterráneo está a dos minutos a pie cruzando la franja cuando os apetece cambiar. No es lujoso, es cómodo, y para los padres de niños muy pequeños esa es justamente la cuestión.",
+        "pt": "Este é o clássico hotel de família do Mar Menor: um lugar grande, acolhedor e sem grandes luxos, mesmo no lado tranquilo da laguna de La Manga. A água à frente é quente, límpida e tão pouco profunda que podem levar um bebé bem para longe com a superfície ainda pelos joelhos dele. Há uma piscina infantil, um clube de crianças e espetáculos à noite na sala principal, e a praia de areia do Mediterrâneo fica a dois minutos a pé atravessando a faixa de terra quando lhes apetece mudar. Não é luxuoso, é fácil, e para os pais de crianças muito pequenas é precisamente esse o ponto."
       },
       "highlights": {
         "en": [
@@ -63,6 +75,30 @@
           "Pataugeoire et club enfants gratuit",
           "Plage de sable côté mer à deux minutes à pied",
           "Chambres familiales jusqu'à quatre personnes"
+        ],
+        "it": [
+          "Direttamente sulla laguna tranquilla e bassa del Mar Menor",
+          "Piscina per bambini e miniclub gratuito",
+          "Spiaggia di mare sabbiosa a due minuti a piedi attraverso la lingua di terra",
+          "Camere familiari fino a quattro persone"
+        ],
+        "de": [
+          "Direkt an der ruhigen, flachen Lagune des Mar Menor",
+          "Kinderpool und kostenloser Kinderclub",
+          "Sandiger Meeresstrand einen Zwei-Minuten-Spaziergang über den Landstreifen entfernt",
+          "Familienzimmer für bis zu vier Personen"
+        ],
+        "es": [
+          "Directamente sobre la tranquila y poco profunda laguna del Mar Menor",
+          "Piscina infantil y club de niños gratuito",
+          "Playa de mar de arena a dos minutos a pie cruzando la franja",
+          "Habitaciones familiares para hasta cuatro personas"
+        ],
+        "pt": [
+          "Diretamente sobre a laguna tranquila e pouco profunda do Mar Menor",
+          "Piscina infantil e clube de crianças gratuito",
+          "Praia de mar de areia a dois minutos a pé atravessando a faixa de terra",
+          "Quartos familiares para até quatro pessoas"
         ]
       },
       "pros": {
@@ -77,6 +113,30 @@
           "Deux mers à deux minutes de marche l'une de l'autre",
           "Base familiale détendue et au bon prix",
           "Club enfants et animations en soirée compris"
+        ],
+        "it": [
+          "Acqua della laguna calda, all'altezza della vita, perfetta per i primi bagnetti",
+          "Due mari a due minuti a piedi l'uno dall'altro",
+          "Base familiare rilassata e dal buon prezzo",
+          "Miniclub e intrattenimento serale inclusi"
+        ],
+        "de": [
+          "Warmes, hüfttiefes Lagunenwasser, perfekt für die ersten Planschversuche",
+          "Zwei Meere in einem Zwei-Minuten-Spaziergang voneinander entfernt",
+          "Entspannte, preiswerte Familienbasis",
+          "Kinderclub und Abendunterhaltung inklusive"
+        ],
+        "es": [
+          "Agua de la laguna cálida, a la altura de la cintura, perfecta para los primeros chapoteos",
+          "Dos mares a dos minutos a pie el uno del otro",
+          "Base familiar relajada y a buen precio",
+          "Club de niños y entretenimiento nocturno incluidos"
+        ],
+        "pt": [
+          "Água da laguna quente, pela cintura, perfeita para os primeiros mergulhos",
+          "Dois mares a dois minutos a pé um do outro",
+          "Base familiar descontraída e com bom preço",
+          "Clube de crianças e animação à noite incluídos"
         ]
       },
       "cons": {
@@ -89,59 +149,119 @@
           "Chambres et déco datées plutôt que stylées",
           "Animé et bondé en juillet et août",
           "Le lagon peut charrier des algues par moments"
+        ],
+        "it": [
+          "Camere e arredi datati più che eleganti",
+          "Affollato e animato a luglio e agosto",
+          "La laguna a volte porta alghe"
+        ],
+        "de": [
+          "Zimmer und Einrichtung eher altmodisch als stilvoll",
+          "Voll und lebhaft im Juli und August",
+          "Die Lagune kann zeitweise Seetang oder Algen mit sich führen"
+        ],
+        "es": [
+          "Habitaciones y decoración anticuadas más que con estilo",
+          "Concurrido y animado en julio y agosto",
+          "La laguna puede arrastrar algas a veces"
+        ],
+        "pt": [
+          "Quartos e decoração datados em vez de elegantes",
+          "Movimentado e animado em julho e agosto",
+          "A laguna pode trazer algas por vezes"
         ]
       },
       "verdict": {
         "en": "For a first beach holiday with a baby or toddler, few spots in Europe beat wading into knee-deep, bath-warm water straight in front of your hotel. Cavanna trades polish for exactly that.",
-        "fr": "Pour de premières vacances plage avec un bébé ou un tout-petit, peu d'endroits en Europe valent le fait de patauger dans une eau tiède aux genoux juste devant votre hôtel. Le Cavanna troque le raffinement contre précisément cela."
+        "fr": "Pour de premières vacances plage avec un bébé ou un tout-petit, peu d'endroits en Europe valent le fait de patauger dans une eau tiède aux genoux juste devant votre hôtel. Le Cavanna troque le raffinement contre précisément cela.",
+        "it": "Per una prima vacanza al mare con un neonato o un bimbo piccolo, pochi posti in Europa battono l'idea di camminare in acqua alta fino alle ginocchia e calda come un bagnetto proprio davanti al vostro hotel. Il Cavanna scambia la raffinatezza esattamente con questo.",
+        "de": "Für den ersten Strandurlaub mit einem Baby oder Kleinkind gibt es in Europa kaum einen Ort, der es damit aufnehmen kann, direkt vor dem Hotel in knietiefes, badewarmes Wasser zu waten. Das Cavanna tauscht Politur genau dagegen ein.",
+        "es": "Para unas primeras vacaciones de playa con un bebé o un niño pequeño, pocos lugares en Europa superan la idea de meterte en agua hasta las rodillas y cálida como un baño justo delante de tu hotel. El Cavanna cambia la sofisticación exactamente por eso.",
+        "pt": "Para umas primeiras férias de praia com um bebé ou uma criança pequena, poucos lugares na Europa superam a ideia de entrar em água pelos joelhos e quente como um banho mesmo em frente ao vosso hotel. O Cavanna troca o requinte exatamente por isso."
       },
       "parentTip": {
         "en": "Set up on the lagoon side in the morning when the water is glassy and calm, and cross to the sea beach in the afternoon if the little ones want proper sand to dig.",
-        "fr": "Installez-vous côté lagon le matin quand l'eau est lisse et calme, et passez sur la plage côté mer l'après-midi si les petits veulent du vrai sable à creuser."
+        "fr": "Installez-vous côté lagon le matin quand l'eau est lisse et calme, et passez sur la plage côté mer l'après-midi si les petits veulent du vrai sable à creuser.",
+        "it": "Sistematevi sul lato della laguna al mattino, quando l'acqua è liscia e calma, e passate alla spiaggia di mare nel pomeriggio se i piccoli vogliono sabbia vera da scavare.",
+        "de": "Richtet euch morgens auf der Lagunenseite ein, wenn das Wasser spiegelglatt und ruhig ist, und wechselt am Nachmittag zum Meeresstrand, wenn die Kleinen richtigen Sand zum Graben wollen.",
+        "es": "Instalaos en el lado de la laguna por la mañana, cuando el agua está lisa y en calma, y pasad a la playa de mar por la tarde si los pequeños quieren arena de verdad para cavar.",
+        "pt": "Instalem-se no lado da laguna de manhã, quando a água está lisa e calma, e passem para a praia de mar à tarde se os pequenos quiserem areia a sério para cavar."
       },
       "atAGlance": [
         {
           "icon": "🌊",
           "label": {
             "en": "Lagoon",
-            "fr": "Lagon"
+            "fr": "Lagon",
+            "it": "Laguna",
+            "de": "Lagune",
+            "es": "Laguna",
+            "pt": "Laguna"
           },
           "value": {
             "en": "Shallow, warm water right in front",
-            "fr": "Eau peu profonde et chaude juste devant"
+            "fr": "Eau peu profonde et chaude juste devant",
+            "it": "Acqua bassa e calda proprio davanti",
+            "de": "Flaches, warmes Wasser direkt davor",
+            "es": "Agua poco profunda y cálida justo delante",
+            "pt": "Água pouco profunda e quente mesmo à frente"
           }
         },
         {
           "icon": "🧒",
           "label": {
             "en": "Kids club",
-            "fr": "Club enfants"
+            "fr": "Club enfants",
+            "it": "Miniclub",
+            "de": "Kinderclub",
+            "es": "Club de niños",
+            "pt": "Clube de crianças"
           },
           "value": {
             "en": "Free, plus evening shows",
-            "fr": "Gratuit, avec spectacles en soirée"
+            "fr": "Gratuit, avec spectacles en soirée",
+            "it": "Gratuito, con spettacoli serali",
+            "de": "Kostenlos, plus Abendshows",
+            "es": "Gratuito, con espectáculos nocturnos",
+            "pt": "Gratuito, com espetáculos à noite"
           }
         },
         {
           "icon": "🏖️",
           "label": {
             "en": "Two seas",
-            "fr": "Deux mers"
+            "fr": "Deux mers",
+            "it": "Due mari",
+            "de": "Zwei Meere",
+            "es": "Dos mares",
+            "pt": "Dois mares"
           },
           "value": {
             "en": "Sea beach a two-minute walk away",
-            "fr": "Plage côté mer à deux minutes à pied"
+            "fr": "Plage côté mer à deux minutes à pied",
+            "it": "Spiaggia di mare a due minuti a piedi",
+            "de": "Meeresstrand einen Zwei-Minuten-Spaziergang entfernt",
+            "es": "Playa de mar a dos minutos a pie",
+            "pt": "Praia de mar a dois minutos a pé"
           }
         },
         {
           "icon": "🏊",
           "label": {
             "en": "Pool",
-            "fr": "Piscine"
+            "fr": "Piscine",
+            "it": "Piscina",
+            "de": "Pool",
+            "es": "Piscina",
+            "pt": "Piscina"
           },
           "value": {
             "en": "Outdoor pool plus a children's pool",
-            "fr": "Piscine extérieure et pataugeoire"
+            "fr": "Piscine extérieure et pataugeoire",
+            "it": "Piscina all'aperto e piscina per bambini",
+            "de": "Außenpool plus Kinderpool",
+            "es": "Piscina exterior y piscina infantil",
+            "pt": "Piscina exterior e piscina infantil"
           }
         }
       ],
@@ -149,31 +269,55 @@
         {
           "q": {
             "en": "How shallow is the lagoon in front of the hotel?",
-            "fr": "Le lagon devant l'hôtel est-il très peu profond?"
+            "fr": "Le lagon devant l'hôtel est-il très peu profond?",
+            "it": "Quanto è bassa la laguna davanti all'hotel?",
+            "de": "Wie flach ist die Lagune vor dem Hotel?",
+            "es": "¿Qué tan poco profunda es la laguna delante del hotel?",
+            "pt": "Quão pouco profunda é a laguna em frente ao hotel?"
           },
           "a": {
             "en": "Very. The Mar Menor is famously shallow and calm, so you can walk a small child a long way out with the water still around their knees or waist, and there are no waves to knock them over.",
-            "fr": "Très. Le Mar Menor est réputé peu profond et calme, vous pouvez faire avancer un petit enfant très loin avec l'eau encore aux genoux ou à la taille, et il n'y a pas de vagues pour le faire tomber."
+            "fr": "Très. Le Mar Menor est réputé peu profond et calme, vous pouvez faire avancer un petit enfant très loin avec l'eau encore aux genoux ou à la taille, et il n'y a pas de vagues pour le faire tomber.",
+            "it": "Molto. Il Mar Menor è notoriamente basso e calmo, così potete portare un bimbo piccolo molto al largo con l'acqua ancora alle ginocchia o alla vita, e non ci sono onde a farlo cadere.",
+            "de": "Sehr. Der Mar Menor ist bekanntlich flach und ruhig, sodass ihr ein kleines Kind weit hinauslaufen lassen könnt und das Wasser noch immer um seine Knie oder Hüfte reicht, und es gibt keine Wellen, die es umwerfen.",
+            "es": "Mucho. El Mar Menor es famoso por ser poco profundo y tranquilo, así que podéis llevar a un niño pequeño muy adentro con el agua todavía por las rodillas o la cintura, y no hay olas que lo tumben.",
+            "pt": "Muito. O Mar Menor é famoso por ser pouco profundo e calmo, por isso podem levar uma criança pequena bem para longe com a água ainda pelos joelhos ou pela cintura, e não há ondas que a derrubem."
           }
         },
         {
           "q": {
             "en": "Is there sand or is it a rocky shore?",
-            "fr": "Est-ce du sable ou une rive rocheuse?"
+            "fr": "Est-ce du sable ou une rive rocheuse?",
+            "it": "C'è sabbia o è una riva rocciosa?",
+            "de": "Gibt es Sand oder ist es ein felsiges Ufer?",
+            "es": "¿Hay arena o es una orilla rocosa?",
+            "pt": "Há areia ou é uma costa rochosa?"
           },
           "a": {
             "en": "Both seas here are sandy. The lagoon shore is gentle and soft for paddling, and the open-sea beach on the other side of the strip has proper sand for digging.",
-            "fr": "Les deux mers ici sont de sable. La rive du lagon est douce et souple pour barboter, et la plage côté mer ouverte, de l'autre côté de la bande, a du vrai sable à creuser."
+            "fr": "Les deux mers ici sont de sable. La rive du lagon est douce et souple pour barboter, et la plage côté mer ouverte, de l'autre côté de la bande, a du vrai sable à creuser.",
+            "it": "Entrambi i mari qui sono sabbiosi. La riva della laguna è dolce e morbida per sguazzare, e la spiaggia sul mare aperto, dall'altro lato della lingua di terra, ha sabbia vera da scavare.",
+            "de": "Beide Meere sind hier sandig. Das Lagunenufer ist sanft und weich zum Planschen, und der Strand am offenen Meer auf der anderen Seite des Landstreifens hat richtigen Sand zum Graben.",
+            "es": "Ambos mares aquí son de arena. La orilla de la laguna es suave y blanda para chapotear, y la playa de mar abierto al otro lado de la franja tiene arena de verdad para cavar.",
+            "pt": "Ambos os mares aqui são de areia. A margem da laguna é suave e macia para chapinhar, e a praia de mar aberto do outro lado da faixa tem areia a sério para cavar."
           }
         },
         {
           "q": {
             "en": "Is the kids club really free?",
-            "fr": "Le club enfants est-il vraiment gratuit?"
+            "fr": "Le club enfants est-il vraiment gratuit?",
+            "it": "Il miniclub è davvero gratuito?",
+            "de": "Ist der Kinderclub wirklich kostenlos?",
+            "es": "¿El club de niños es realmente gratuito?",
+            "pt": "O clube de crianças é mesmo gratuito?"
           },
           "a": {
             "en": "Yes, the mini club and the evening entertainment are included for guests during the main season, with a playground on site too.",
-            "fr": "Oui, le mini club et les animations du soir sont compris pour les clients en pleine saison, avec une aire de jeux sur place également."
+            "fr": "Oui, le mini club et les animations du soir sont compris pour les clients en pleine saison, avec une aire de jeux sur place également.",
+            "it": "Sì, il miniclub e l'intrattenimento serale sono inclusi per gli ospiti in alta stagione, con anche un'area giochi in loco.",
+            "de": "Ja, der Miniclub und die Abendunterhaltung sind für Gäste in der Hauptsaison inbegriffen, mit einem Spielplatz vor Ort obendrein.",
+            "es": "Sí, el miniclub y el entretenimiento nocturno están incluidos para los huéspedes durante la temporada alta, con un parque infantil en el recinto también.",
+            "pt": "Sim, o miniclube e a animação à noite estão incluídos para os hóspedes durante a época alta, com um parque infantil no local também."
           }
         }
       ]
@@ -184,7 +328,11 @@
       "name": "AluaSun Doblemar",
       "area": {
         "en": "La Manga del Mar Menor",
-        "fr": "La Manga del Mar Menor"
+        "fr": "La Manga del Mar Menor",
+        "it": "La Manga del Mar Menor",
+        "de": "La Manga del Mar Menor",
+        "es": "La Manga del Mar Menor",
+        "pt": "La Manga del Mar Menor"
       },
       "lat": 37.647,
       "lng": -0.72,
@@ -224,11 +372,19 @@
       },
       "roomsSummary": {
         "en": "The biggest resort in La Manga, with plenty of family rooms, many looking straight over the lagoon. Rooms are comfortable and practical rather than boutique, and half-board or all-inclusive boards make it an easy, budget-friendly base for a week with young children.",
-        "fr": "Le plus grand complexe de La Manga, avec de nombreuses chambres familiales, beaucoup donnant droit sur le lagon. Les chambres sont confortables et pratiques plutôt que boutique, et les formules demi-pension ou tout inclus en font une base facile et économique pour une semaine avec de jeunes enfants."
+        "fr": "Le plus grand complexe de La Manga, avec de nombreuses chambres familiales, beaucoup donnant droit sur le lagon. Les chambres sont confortables et pratiques plutôt que boutique, et les formules demi-pension ou tout inclus en font une base facile et économique pour une semaine avec de jeunes enfants.",
+        "it": "Il complesso più grande di La Manga, con tante camere familiari, molte affacciate direttamente sulla laguna. Le camere sono comode e pratiche più che di design, e i trattamenti di mezza pensione o all inclusive ne fanno una base facile ed economica per una settimana con bambini piccoli.",
+        "de": "Die größte Anlage in La Manga, mit vielen Familienzimmern, viele davon mit direktem Blick auf die Lagune. Die Zimmer sind komfortabel und praktisch statt boutiquehaft, und Halbpension oder All-Inclusive machen sie zu einer unkomplizierten, preiswerten Basis für eine Woche mit kleinen Kindern.",
+        "es": "El complejo más grande de La Manga, con muchas habitaciones familiares, muchas con vistas directas a la laguna. Las habitaciones son cómodas y prácticas más que de diseño, y los regímenes de media pensión o todo incluido lo convierten en una base fácil y económica para una semana con niños pequeños.",
+        "pt": "O maior resort de La Manga, com muitos quartos familiares, muitos com vista direta para a laguna. Os quartos são confortáveis e práticos em vez de boutique, e os regimes de meia pensão ou tudo incluído fazem dele uma base fácil e económica para uma semana com crianças pequenas."
       },
       "intro": {
         "en": "Doblemar is the big beachfront machine of La Manga, sitting right on the calm Mar Menor with its own stretch of shallow, warm lagoon. The Astro mini club keeps four to twelve year olds busy morning and afternoon, there is a children's pool alongside the main ones, and the whole place is geared to families who want to step out of their room and be on gentle sand in a minute. It is large and can feel busy, but for toddler-safe swimming with everything on tap, it delivers.",
-        "fr": "Le Doblemar est la grande machine en front de mer de La Manga, posée juste sur le Mar Menor tout calme avec sa portion de lagon peu profond et chaud. Le mini club Astro occupe les quatre à douze ans matin et après-midi, il y a une pataugeoire à côté des piscines principales, et tout est pensé pour les familles qui veulent sortir de leur chambre et se retrouver sur du sable doux en une minute. C'est grand et parfois animé, mais pour une baignade sûre pour les tout-petits avec tout à portée de main, il tient ses promesses."
+        "fr": "Le Doblemar est la grande machine en front de mer de La Manga, posée juste sur le Mar Menor tout calme avec sa portion de lagon peu profond et chaud. Le mini club Astro occupe les quatre à douze ans matin et après-midi, il y a une pataugeoire à côté des piscines principales, et tout est pensé pour les familles qui veulent sortir de leur chambre et se retrouver sur du sable doux en une minute. C'est grand et parfois animé, mais pour une baignade sûre pour les tout-petits avec tout à portée de main, il tient ses promesses.",
+        "it": "Il Doblemar è la grande macchina fronte spiaggia di La Manga, affacciato proprio sul tranquillo Mar Menor con il suo tratto di laguna bassa e calda. Il miniclub Astro tiene occupati i bambini dai quattro ai dodici anni mattina e pomeriggio, c'è una piscina per bambini accanto a quelle principali, e tutto è pensato per le famiglie che vogliono uscire dalla camera e trovarsi sulla sabbia dolce in un minuto. È grande e può risultare affollato, ma per nuotate sicure per i più piccoli con tutto a portata di mano, mantiene le promesse.",
+        "de": "Das Doblemar ist die große Strandmaschine von La Manga, direkt am ruhigen Mar Menor mit seinem eigenen Abschnitt flacher, warmer Lagune. Der Astro-Miniclub hält Vier- bis Zwölfjährige morgens und nachmittags auf Trab, es gibt einen Kinderpool neben den Hauptbecken, und die ganze Anlage ist auf Familien ausgerichtet, die aus ihrem Zimmer treten und in einer Minute auf sanftem Sand stehen wollen. Sie ist groß und kann voll wirken, aber für kleinkindsicheres Baden mit allem in Reichweite liefert sie.",
+        "es": "El Doblemar es la gran máquina frente a la playa de La Manga, situado justo sobre el tranquilo Mar Menor con su propio tramo de laguna poco profunda y cálida. El miniclub Astro mantiene ocupados a los niños de cuatro a doce años por la mañana y por la tarde, hay una piscina infantil junto a las principales, y todo el lugar está pensado para familias que quieren salir de su habitación y estar sobre arena suave en un minuto. Es grande y puede sentirse concurrido, pero para un baño seguro para los pequeños con todo a mano, cumple.",
+        "pt": "O Doblemar é a grande máquina à beira-mar de La Manga, situado mesmo sobre o tranquilo Mar Menor com o seu próprio trecho de laguna pouco profunda e quente. O miniclube Astro mantém as crianças dos quatro aos doze anos ocupadas de manhã e à tarde, há uma piscina infantil ao lado das principais, e tudo é pensado para famílias que querem sair do quarto e estar sobre areia macia num minuto. É grande e pode parecer movimentado, mas para nadar em segurança com os pequenos e com tudo à mão, cumpre."
       },
       "highlights": {
         "en": [
@@ -242,6 +398,30 @@
           "Mini club Astro pour les quatre à douze ans",
           "Pataugeoire à côté des piscines principales",
           "Formules demi-pension et tout inclus"
+        ],
+        "it": [
+          "Proprio sul fronte spiaggia basso e calmo del Mar Menor",
+          "Miniclub Astro per bambini dai quattro ai dodici anni",
+          "Piscina per bambini accanto alle piscine principali",
+          "Opzioni mezza pensione e all inclusive"
+        ],
+        "de": [
+          "Direkt am flachen, ruhigen Strand des Mar Menor",
+          "Astro-Miniclub für Kinder von vier bis zwölf Jahren",
+          "Kinderpool neben den Hauptbecken",
+          "Optionen mit Halbpension und All-Inclusive"
+        ],
+        "es": [
+          "Justo sobre el frente de playa poco profundo y tranquilo del Mar Menor",
+          "Miniclub Astro para niños de cuatro a doce años",
+          "Piscina infantil junto a las piscinas principales",
+          "Opciones de media pensión y todo incluido"
+        ],
+        "pt": [
+          "Mesmo sobre a frente de praia pouco profunda e calma do Mar Menor",
+          "Miniclube Astro para crianças dos quatro aos doze anos",
+          "Piscina infantil ao lado das piscinas principais",
+          "Opções de meia pensão e tudo incluído"
         ]
       },
       "pros": {
@@ -256,6 +436,30 @@
           "Une eau vraiment sûre pour les tout-petits, sans vagues",
           "Bon rapport qualité-prix, formules comprises",
           "Grand complexe de piscines avec une partie enfants"
+        ],
+        "it": [
+          "Dalla camera direttamente sulla sabbia dolce della laguna",
+          "Acqua davvero sicura per i più piccoli, senza onde",
+          "Buon rapporto qualità-prezzo con i trattamenti inclusi",
+          "Grande complesso di piscine con una zona bimbi"
+        ],
+        "de": [
+          "Vom Zimmer direkt auf den sanften Lagunensand",
+          "Wirklich kleinkindsicheres, wellenfreies Wasser",
+          "Gutes Preis-Leistungs-Verhältnis mit inbegriffener Verpflegung",
+          "Großer Poolkomplex mit einem Kinderbereich"
+        ],
+        "es": [
+          "De la habitación directamente a la suave arena de la laguna",
+          "Agua realmente segura para los pequeños, sin olas",
+          "Buena relación calidad-precio con los regímenes incluidos",
+          "Gran complejo de piscinas con una zona infantil"
+        ],
+        "pt": [
+          "Do quarto diretamente para a areia macia da laguna",
+          "Água verdadeiramente segura para os pequenos, sem ondas",
+          "Boa relação qualidade-preço com os regimes incluídos",
+          "Grande complexo de piscinas com uma zona infantil"
         ]
       },
       "cons": {
@@ -268,59 +472,119 @@
           "Grand et impersonnel en semaines de pointe",
           "Chambres fonctionnelles, pas stylées",
           "La cuisine du buffet est abondante plutôt que raffinée"
+        ],
+        "it": [
+          "Grande e impersonale nelle settimane di punta",
+          "Camere funzionali, non eleganti",
+          "Il cibo a buffet è abbondante più che raffinato"
+        ],
+        "de": [
+          "Groß und unpersönlich in den Hauptwochen",
+          "Zimmer sind funktional, nicht stilvoll",
+          "Das Buffetessen ist reichlich statt raffiniert"
+        ],
+        "es": [
+          "Grande e impersonal en las semanas de máxima afluencia",
+          "Habitaciones funcionales, no con estilo",
+          "La comida de buffet es abundante más que refinada"
+        ],
+        "pt": [
+          "Grande e impessoal nas semanas de maior afluência",
+          "Quartos funcionais, não elegantes",
+          "A comida de buffet é abundante em vez de refinada"
         ]
       },
       "verdict": {
         "en": "If you want the reassurance of shallow, calm water a few steps from a big all-in resort, Doblemar is La Manga's most complete family option on the lagoon.",
-        "fr": "Si vous voulez la tranquillité d'une eau calme et peu profonde à quelques pas d'un grand complexe tout compris, le Doblemar est l'option familiale la plus complète de La Manga sur le lagon."
+        "fr": "Si vous voulez la tranquillité d'une eau calme et peu profonde à quelques pas d'un grand complexe tout compris, le Doblemar est l'option familiale la plus complète de La Manga sur le lagon.",
+        "it": "Se volete la tranquillità di acqua bassa e calma a pochi passi da un grande complesso all inclusive, il Doblemar è l'opzione familiare più completa di La Manga sulla laguna.",
+        "de": "Wenn ihr die Sicherheit von flachem, ruhigem Wasser nur wenige Schritte von einer großen All-Inclusive-Anlage entfernt wollt, ist das Doblemar die kompletteste Familienoption von La Manga an der Lagune.",
+        "es": "Si queréis la tranquilidad de agua poco profunda y en calma a unos pasos de un gran complejo todo incluido, el Doblemar es la opción familiar más completa de La Manga en la laguna.",
+        "pt": "Se querem a tranquilidade de água pouco profunda e calma a poucos passos de um grande resort tudo incluído, o Doblemar é a opção familiar mais completa de La Manga na laguna."
       },
       "parentTip": {
         "en": "Ask for a room on the Mar Menor side: the lagoon water is calmest first thing, and you can be paddling before the pool loungers fill up.",
-        "fr": "Demandez une chambre côté Mar Menor : l'eau du lagon est plus calme au petit matin, et vous pouvez barboter avant que les transats de la piscine ne se remplissent."
+        "fr": "Demandez une chambre côté Mar Menor : l'eau du lagon est plus calme au petit matin, et vous pouvez barboter avant que les transats de la piscine ne se remplissent.",
+        "it": "Chiedete una camera sul lato del Mar Menor: l'acqua della laguna è più calma al primo mattino, e potete sguazzare prima che i lettini della piscina si riempiano.",
+        "de": "Fragt nach einem Zimmer auf der Mar-Menor-Seite: Das Lagunenwasser ist früh am Morgen am ruhigsten, und ihr könnt planschen, bevor sich die Poolliegen füllen.",
+        "es": "Pedid una habitación en el lado del Mar Menor: el agua de la laguna está más tranquila a primera hora, y podéis chapotear antes de que se llenen las tumbonas de la piscina.",
+        "pt": "Peçam um quarto no lado do Mar Menor: a água da laguna está mais calma logo de manhã, e podem chapinhar antes de as espreguiçadeiras da piscina se encherem."
       },
       "atAGlance": [
         {
           "icon": "🌊",
           "label": {
             "en": "Beachfront",
-            "fr": "Front de mer"
+            "fr": "Front de mer",
+            "it": "Fronte spiaggia",
+            "de": "Strandlage",
+            "es": "Frente a la playa",
+            "pt": "Frente à praia"
           },
           "value": {
             "en": "Directly on the shallow lagoon",
-            "fr": "Directement sur le lagon peu profond"
+            "fr": "Directement sur le lagon peu profond",
+            "it": "Direttamente sulla laguna bassa",
+            "de": "Direkt an der flachen Lagune",
+            "es": "Directamente sobre la laguna poco profunda",
+            "pt": "Diretamente sobre a laguna pouco profunda"
           }
         },
         {
           "icon": "🧒",
           "label": {
             "en": "Mini club",
-            "fr": "Mini club"
+            "fr": "Mini club",
+            "it": "Miniclub",
+            "de": "Miniclub",
+            "es": "Miniclub",
+            "pt": "Miniclube"
           },
           "value": {
             "en": "Astro club, ages four to twelve",
-            "fr": "Club Astro, quatre à douze ans"
+            "fr": "Club Astro, quatre à douze ans",
+            "it": "Club Astro, dai quattro ai dodici anni",
+            "de": "Astro-Club, vier bis zwölf Jahre",
+            "es": "Club Astro, de cuatro a doce años",
+            "pt": "Clube Astro, dos quatro aos doze anos"
           }
         },
         {
           "icon": "🏊",
           "label": {
             "en": "Pools",
-            "fr": "Piscines"
+            "fr": "Piscines",
+            "it": "Piscine",
+            "de": "Pools",
+            "es": "Piscinas",
+            "pt": "Piscinas"
           },
           "value": {
             "en": "Two pool areas plus a children's pool",
-            "fr": "Deux zones de piscine et une pataugeoire"
+            "fr": "Deux zones de piscine et une pataugeoire",
+            "it": "Due aree piscina e una piscina per bambini",
+            "de": "Zwei Poolbereiche plus ein Kinderpool",
+            "es": "Dos zonas de piscina y una piscina infantil",
+            "pt": "Duas zonas de piscina e uma piscina infantil"
           }
         },
         {
           "icon": "🍽️",
           "label": {
             "en": "Board",
-            "fr": "Formule"
+            "fr": "Formule",
+            "it": "Trattamento",
+            "de": "Verpflegung",
+            "es": "Régimen",
+            "pt": "Regime"
           },
           "value": {
             "en": "Half-board or all-inclusive",
-            "fr": "Demi-pension ou tout inclus"
+            "fr": "Demi-pension ou tout inclus",
+            "it": "Mezza pensione o all inclusive",
+            "de": "Halbpension oder All-Inclusive",
+            "es": "Media pensión o todo incluido",
+            "pt": "Meia pensão ou tudo incluído"
           }
         }
       ],
@@ -328,31 +592,55 @@
         {
           "q": {
             "en": "Is the hotel right on the beach?",
-            "fr": "L'hôtel est-il juste sur la plage?"
+            "fr": "L'hôtel est-il juste sur la plage?",
+            "it": "L'hotel è proprio sulla spiaggia?",
+            "de": "Liegt das Hotel direkt am Strand?",
+            "es": "¿El hotel está justo en la playa?",
+            "pt": "O hotel fica mesmo na praia?"
           },
           "a": {
             "en": "Yes, it is the big beachfront resort on the lagoon side of La Manga, so you step out onto shallow, calm Mar Menor sand within a minute of the room.",
-            "fr": "Oui, c'est le grand complexe en front de mer côté lagon de La Manga, vous rejoignez le sable peu profond et calme du Mar Menor en une minute depuis la chambre."
+            "fr": "Oui, c'est le grand complexe en front de mer côté lagon de La Manga, vous rejoignez le sable peu profond et calme du Mar Menor en une minute depuis la chambre.",
+            "it": "Sì, è il grande complesso fronte spiaggia sul lato della laguna di La Manga, così mettete piede sulla sabbia bassa e calma del Mar Menor in un minuto dalla camera.",
+            "de": "Ja, es ist die große Strandanlage auf der Lagunenseite von La Manga, sodass ihr innerhalb einer Minute vom Zimmer auf den flachen, ruhigen Sand des Mar Menor tretet.",
+            "es": "Sí, es el gran complejo frente a la playa en el lado de la laguna de La Manga, así que pisáis la arena poco profunda y tranquila del Mar Menor en un minuto desde la habitación.",
+            "pt": "Sim, é o grande resort à beira-mar no lado da laguna de La Manga, por isso pisam a areia pouco profunda e calma do Mar Menor num minuto a partir do quarto."
           }
         },
         {
           "q": {
             "en": "What ages is the kids club for?",
-            "fr": "Le club enfants est-il pour quels âges?"
+            "fr": "Le club enfants est-il pour quels âges?",
+            "it": "Per quali età è il miniclub?",
+            "de": "Für welche Altersgruppen ist der Kinderclub?",
+            "es": "¿Para qué edades es el club de niños?",
+            "pt": "Para que idades é o clube de crianças?"
           },
           "a": {
             "en": "The Astro mini club runs for children aged four to twelve, roughly late morning and again in the afternoon, with games, crafts and water play.",
-            "fr": "Le mini club Astro accueille les enfants de quatre à douze ans, en fin de matinée puis l'après-midi, avec jeux, activités manuelles et jeux d'eau."
+            "fr": "Le mini club Astro accueille les enfants de quatre à douze ans, en fin de matinée puis l'après-midi, avec jeux, activités manuelles et jeux d'eau.",
+            "it": "Il miniclub Astro accoglie i bambini dai quattro ai dodici anni, all'incirca a fine mattinata e di nuovo nel pomeriggio, con giochi, lavoretti e giochi d'acqua.",
+            "de": "Der Astro-Miniclub läuft für Kinder von vier bis zwölf Jahren, ungefähr am späten Vormittag und noch einmal am Nachmittag, mit Spielen, Basteln und Wasserspaß.",
+            "es": "El miniclub Astro es para niños de cuatro a doce años, más o menos a última hora de la mañana y de nuevo por la tarde, con juegos, manualidades y juegos de agua.",
+            "pt": "O miniclube Astro é para crianças dos quatro aos doze anos, sensivelmente ao fim da manhã e de novo à tarde, com jogos, trabalhos manuais e brincadeiras na água."
           }
         },
         {
           "q": {
             "en": "Is all-inclusive available?",
-            "fr": "Le tout inclus est-il disponible?"
+            "fr": "Le tout inclus est-il disponible?",
+            "it": "È disponibile l'all inclusive?",
+            "de": "Gibt es All-Inclusive?",
+            "es": "¿Hay todo incluido disponible?",
+            "pt": "Está disponível o tudo incluído?"
           },
           "a": {
             "en": "Yes, you can book half-board or all-inclusive, which keeps meals and snacks simple when you are staying on site with young children.",
-            "fr": "Oui, vous pouvez réserver en demi-pension ou en tout inclus, ce qui simplifie repas et goûters quand vous restez sur place avec de jeunes enfants."
+            "fr": "Oui, vous pouvez réserver en demi-pension ou en tout inclus, ce qui simplifie repas et goûters quand vous restez sur place avec de jeunes enfants.",
+            "it": "Sì, potete prenotare in mezza pensione o all inclusive, il che semplifica pasti e spuntini quando soggiornate in loco con bambini piccoli.",
+            "de": "Ja, ihr könnt Halbpension oder All-Inclusive buchen, was Mahlzeiten und Snacks einfach hält, wenn ihr mit kleinen Kindern vor Ort wohnt.",
+            "es": "Sí, podéis reservar media pensión o todo incluido, lo que simplifica las comidas y los tentempiés cuando os alojáis en el recinto con niños pequeños.",
+            "pt": "Sim, podem reservar meia pensão ou tudo incluído, o que simplifica as refeições e os lanches quando ficam no local com crianças pequenas."
           }
         }
       ]
@@ -363,7 +651,11 @@
       "name": "525 Hotel",
       "area": {
         "en": "Los Alcázares",
-        "fr": "Los Alcázares"
+        "fr": "Los Alcázares",
+        "it": "Los Alcázares",
+        "de": "Los Alcázares",
+        "es": "Los Alcázares",
+        "pt": "Los Alcázares"
       },
       "lat": 37.742,
       "lng": -0.85,
@@ -402,11 +694,19 @@
       },
       "roomsSummary": {
         "en": "A smart, modern four-star in the heart of Los Alcázares with well-appointed rooms, some with connecting options for families. A short walk brings you to the wide, shallow Los Narejos beach, one of the gentlest stretches on the whole lagoon for small children.",
-        "fr": "Un quatre étoiles élégant et moderne au coeur de Los Alcázares, avec des chambres bien aménagées, certaines communicantes pour les familles. Une courte marche vous mène à la large plage peu profonde de Los Narejos, l'une des plus douces de tout le lagon pour les petits enfants."
+        "fr": "Un quatre étoiles élégant et moderne au coeur de Los Alcázares, avec des chambres bien aménagées, certaines communicantes pour les familles. Une courte marche vous mène à la large plage peu profonde de Los Narejos, l'une des plus douces de tout le lagon pour les petits enfants.",
+        "it": "Un elegante quattro stelle moderno nel cuore di Los Alcázares, con camere ben arredate, alcune con opzioni comunicanti per le famiglie. Una breve passeggiata vi porta all'ampia e bassa spiaggia di Los Narejos, uno dei tratti più dolci di tutta la laguna per i bambini piccoli.",
+        "de": "Ein schickes, modernes Vier-Sterne-Haus im Herzen von Los Alcázares mit gut ausgestatteten Zimmern, einige mit Verbindungstür für Familien. Ein kurzer Spaziergang bringt euch zum breiten, flachen Strand von Los Narejos, einem der sanftesten Abschnitte der ganzen Lagune für kleine Kinder.",
+        "es": "Un elegante cuatro estrellas moderno en el corazón de Los Alcázares, con habitaciones bien equipadas, algunas con opciones comunicadas para familias. Un corto paseo os lleva a la amplia y poco profunda playa de Los Narejos, uno de los tramos más suaves de toda la laguna para los niños pequeños.",
+        "pt": "Um elegante quatro estrelas moderno no coração de Los Alcázares, com quartos bem equipados, alguns com opções comunicantes para famílias. Um curto passeio leva-vos à ampla e pouco profunda praia de Los Narejos, um dos trechos mais suaves de toda a laguna para as crianças pequenas."
       },
       "intro": {
         "en": "The 525 is the polished choice on this part of the Mar Menor: a contemporary hotel with a lovely rooftop pool, a proper spa for the grown-ups and a complimentary children's club for the little ones. It sits in walkable Los Alcázares, a town built around family holidays, a few minutes from the blue-flag Los Narejos beach where the lagoon shelves so gently that toddlers can wade out safely for metres. You get town convenience, real comfort and shallow water close by, a rare combination.",
-        "fr": "Le 525 est le choix soigné de cette partie du Mar Menor : un hôtel contemporain avec une belle piscine sur le toit, un vrai spa pour les grands et un club enfants gratuit pour les petits. Il se trouve dans Los Alcázares, ville accessible à pied et construite autour des vacances en famille, à quelques minutes de la plage pavillon bleu de Los Narejos où le lagon descend si doucement que les tout-petits peuvent avancer sans risque sur plusieurs mètres. Vous avez la commodité de la ville, un vrai confort et l'eau peu profonde tout près, une combinaison rare."
+        "fr": "Le 525 est le choix soigné de cette partie du Mar Menor : un hôtel contemporain avec une belle piscine sur le toit, un vrai spa pour les grands et un club enfants gratuit pour les petits. Il se trouve dans Los Alcázares, ville accessible à pied et construite autour des vacances en famille, à quelques minutes de la plage pavillon bleu de Los Narejos où le lagon descend si doucement que les tout-petits peuvent avancer sans risque sur plusieurs mètres. Vous avez la commodité de la ville, un vrai confort et l'eau peu profonde tout près, une combinaison rare.",
+        "it": "Il 525 è la scelta rifinita di questa parte del Mar Menor: un hotel contemporaneo con una splendida piscina sul tetto, una vera spa per i grandi e un club per bambini gratuito per i piccoli. Sorge nella percorribile a piedi Los Alcázares, una cittadina costruita attorno alle vacanze in famiglia, a pochi minuti dalla spiaggia bandiera blu di Los Narejos, dove la laguna digrada così dolcemente che i bimbi piccoli possono avanzare in sicurezza per metri. Avete la comodità della città, un comfort autentico e l'acqua bassa vicina, una combinazione rara.",
+        "de": "Das 525 ist die gepflegte Wahl in diesem Teil des Mar Menor: ein modernes Hotel mit einem herrlichen Dachpool, einem echten Spa für die Großen und einem kostenlosen Kinderclub für die Kleinen. Es liegt im fußläufigen Los Alcázares, einem Ort, der um Familienurlaube herum gebaut ist, wenige Minuten vom Blaue-Flagge-Strand Los Narejos entfernt, wo die Lagune so sanft abfällt, dass Kleinkinder sicher metertief hinauswaten können. Ihr bekommt die Bequemlichkeit der Stadt, echten Komfort und flaches Wasser ganz in der Nähe, eine seltene Kombination.",
+        "es": "El 525 es la opción cuidada de esta parte del Mar Menor: un hotel contemporáneo con una preciosa piscina en la azotea, un auténtico spa para los mayores y un club infantil gratuito para los pequeños. Se asienta en la caminable Los Alcázares, un pueblo construido en torno a las vacaciones familiares, a unos minutos de la playa bandera azul de Los Narejos, donde la laguna desciende tan suavemente que los pequeños pueden adentrarse con seguridad varios metros. Tenéis la comodidad del pueblo, un confort real y el agua poco profunda cerca, una combinación poco común.",
+        "pt": "O 525 é a opção cuidada desta parte do Mar Menor: um hotel contemporâneo com uma linda piscina no terraço, um verdadeiro spa para os graúdos e um clube infantil gratuito para os pequenos. Fica na caminhável Los Alcázares, uma vila construída em torno das férias em família, a poucos minutos da praia bandeira azul de Los Narejos, onde a laguna desce tão suavemente que as crianças pequenas podem avançar em segurança vários metros. Têm a comodidade da vila, um conforto a sério e a água pouco profunda por perto, uma combinação rara."
       },
       "highlights": {
         "en": [
@@ -420,6 +720,30 @@
           "Piscine sur le toit et spa complet",
           "Club enfants gratuit et aire de jeux",
           "L'une des plages du lagon les plus douces pour les tout-petits"
+        ],
+        "it": [
+          "Los Alcázares percorribile a piedi, a pochi minuti dalla spiaggia di Los Narejos",
+          "Piscina sul tetto e spa completa",
+          "Club per bambini gratuito e area giochi",
+          "Una delle spiagge della laguna più dolci per i bimbi piccoli"
+        ],
+        "de": [
+          "Fußläufiges Los Alcázares, Minuten vom Strand Los Narejos entfernt",
+          "Dachpool und ein komplettes Spa",
+          "Kostenloser Kinderclub und Spielplatz",
+          "Einer der sanftesten Lagunenstrände für Kleinkinder"
+        ],
+        "es": [
+          "Los Alcázares caminable, a minutos de la playa de Los Narejos",
+          "Piscina en la azotea y spa completo",
+          "Club infantil gratuito y parque infantil",
+          "Una de las playas de laguna más suaves para los pequeños"
+        ],
+        "pt": [
+          "Los Alcázares caminhável, a minutos da praia de Los Narejos",
+          "Piscina no terraço e spa completo",
+          "Clube infantil gratuito e parque infantil",
+          "Uma das praias de laguna mais suaves para as crianças pequenas"
         ]
       },
       "pros": {
@@ -434,6 +758,30 @@
           "Plage pavillon bleu peu profonde à courte distance à pied",
           "Club enfants gratuit et spa pour les parents",
           "Cafés, boutiques et restaurants juste devant"
+        ],
+        "it": [
+          "Camere moderne e comode in una cittadina vivace",
+          "Spiaggia bandiera blu bassa a breve distanza a piedi",
+          "Club per bambini gratuito e spa per i genitori",
+          "Caffè, negozi e ristoranti proprio davanti"
+        ],
+        "de": [
+          "Moderne, komfortable Zimmer in einem lebhaften Ort",
+          "Flacher Blaue-Flagge-Strand einen kurzen Spaziergang entfernt",
+          "Kostenloser Kinderclub plus ein Spa für die Eltern",
+          "Cafés, Geschäfte und Restaurants direkt vor der Tür"
+        ],
+        "es": [
+          "Habitaciones modernas y cómodas en un pueblo animado",
+          "Playa bandera azul poco profunda a un corto paseo",
+          "Club infantil gratuito y spa para los padres",
+          "Cafeterías, tiendas y restaurantes justo delante"
+        ],
+        "pt": [
+          "Quartos modernos e confortáveis numa vila animada",
+          "Praia bandeira azul pouco profunda a um curto passeio",
+          "Clube infantil gratuito e spa para os pais",
+          "Cafés, lojas e restaurantes mesmo à porta"
         ]
       },
       "cons": {
@@ -446,59 +794,119 @@
           "Pas directement sur le sable, une courte marche jusqu'à la plage",
           "La piscine sur le toit se remplit les après-midis chauds",
           "En ville, un peu de bruit de rue l'été"
+        ],
+        "it": [
+          "Non direttamente sulla sabbia, una breve passeggiata fino alla spiaggia",
+          "La piscina sul tetto può affollarsi nei pomeriggi caldi",
+          "L'ubicazione in città comporta un po' di rumore stradale d'estate"
+        ],
+        "de": [
+          "Nicht direkt am Sand, ein kurzer Spaziergang zum Strand",
+          "Der Dachpool kann sich an heißen Nachmittagen füllen",
+          "Die Stadtlage bringt im Sommer etwas Straßenlärm mit sich"
+        ],
+        "es": [
+          "No directamente sobre la arena, un corto paseo hasta la playa",
+          "La piscina de la azotea puede llenarse en las tardes calurosas",
+          "El entorno urbano supone algo de ruido de calle en verano"
+        ],
+        "pt": [
+          "Não diretamente sobre a areia, um curto passeio até à praia",
+          "A piscina do terraço pode encher-se nas tardes quentes",
+          "O ambiente urbano implica algum ruído de rua no verão"
         ]
       },
       "verdict": {
         "en": "The most comfortable base near the Mar Menor's best toddler beach. Walkable, well run, with a rooftop pool for the kids and a spa for you.",
-        "fr": "La base la plus confortable près de la meilleure plage pour tout-petits du Mar Menor. Accessible à pied, bien tenue, avec une piscine sur le toit pour les enfants et un spa pour vous."
+        "fr": "La base la plus confortable près de la meilleure plage pour tout-petits du Mar Menor. Accessible à pied, bien tenue, avec une piscine sur le toit pour les enfants et un spa pour vous.",
+        "it": "La base più comoda vicino alla migliore spiaggia per bimbi piccoli del Mar Menor. Percorribile a piedi, ben gestita, con una piscina sul tetto per i bambini e una spa per voi.",
+        "de": "Die komfortabelste Basis in der Nähe des besten Kleinkinderstrands des Mar Menor. Fußläufig, gut geführt, mit einem Dachpool für die Kinder und einem Spa für euch.",
+        "es": "La base más cómoda cerca de la mejor playa para pequeños del Mar Menor. Caminable, bien llevada, con una piscina en la azotea para los niños y un spa para vosotros.",
+        "pt": "A base mais confortável perto da melhor praia para crianças pequenas do Mar Menor. Caminhável, bem gerida, com uma piscina no terraço para as crianças e um spa para vós."
       },
       "parentTip": {
         "en": "Los Narejos beach has a shaded playground right by the sand, so pack the buckets and let the little ones alternate between paddling and the swings.",
-        "fr": "La plage de Los Narejos a une aire de jeux ombragée juste à côté du sable, emportez les seaux et laissez les petits alterner entre baignade et balançoires."
+        "fr": "La plage de Los Narejos a une aire de jeux ombragée juste à côté du sable, emportez les seaux et laissez les petits alterner entre baignade et balançoires.",
+        "it": "La spiaggia di Los Narejos ha un'area giochi ombreggiata proprio accanto alla sabbia, quindi preparate i secchielli e lasciate i piccoli alternare tra bagnetti e altalene.",
+        "de": "Der Strand Los Narejos hat einen schattigen Spielplatz direkt am Sand, also packt die Eimer ein und lasst die Kleinen zwischen Planschen und Schaukeln wechseln.",
+        "es": "La playa de Los Narejos tiene un parque infantil con sombra justo al lado de la arena, así que preparad los cubos y dejad que los pequeños alternen entre chapotear y los columpios.",
+        "pt": "A praia de Los Narejos tem um parque infantil com sombra mesmo ao lado da areia, por isso levem os baldes e deixem os pequenos alternar entre chapinhar e os baloiços."
       },
       "atAGlance": [
         {
           "icon": "🏖️",
           "label": {
             "en": "Beach",
-            "fr": "Plage"
+            "fr": "Plage",
+            "it": "Spiaggia",
+            "de": "Strand",
+            "es": "Playa",
+            "pt": "Praia"
           },
           "value": {
             "en": "Shallow Los Narejos, a short walk",
-            "fr": "Los Narejos peu profonde, à courte marche"
+            "fr": "Los Narejos peu profonde, à courte marche",
+            "it": "Los Narejos bassa, a breve distanza a piedi",
+            "de": "Flaches Los Narejos, ein kurzer Spaziergang",
+            "es": "Los Narejos poco profunda, a un corto paseo",
+            "pt": "Los Narejos pouco profunda, a um curto passeio"
           }
         },
         {
           "icon": "🧒",
           "label": {
             "en": "Kids club",
-            "fr": "Club enfants"
+            "fr": "Club enfants",
+            "it": "Club per bambini",
+            "de": "Kinderclub",
+            "es": "Club de niños",
+            "pt": "Clube de crianças"
           },
           "value": {
             "en": "Complimentary, with a playground",
-            "fr": "Gratuit, avec aire de jeux"
+            "fr": "Gratuit, avec aire de jeux",
+            "it": "Gratuito, con area giochi",
+            "de": "Kostenlos, mit einem Spielplatz",
+            "es": "Gratuito, con parque infantil",
+            "pt": "Gratuito, com parque infantil"
           }
         },
         {
           "icon": "🏊",
           "label": {
             "en": "Pool",
-            "fr": "Piscine"
+            "fr": "Piscine",
+            "it": "Piscina",
+            "de": "Pool",
+            "es": "Piscina",
+            "pt": "Piscina"
           },
           "value": {
             "en": "Rooftop pool and terrace",
-            "fr": "Piscine et terrasse sur le toit"
+            "fr": "Piscine et terrasse sur le toit",
+            "it": "Piscina e terrazza sul tetto",
+            "de": "Dachpool und Terrasse",
+            "es": "Piscina y terraza en la azotea",
+            "pt": "Piscina e terraço no telhado"
           }
         },
         {
           "icon": "💆",
           "label": {
             "en": "Spa",
-            "fr": "Spa"
+            "fr": "Spa",
+            "it": "Spa",
+            "de": "Spa",
+            "es": "Spa",
+            "pt": "Spa"
           },
           "value": {
             "en": "Full spa for parents",
-            "fr": "Spa complet pour les parents"
+            "fr": "Spa complet pour les parents",
+            "it": "Spa completa per i genitori",
+            "de": "Komplettes Spa für die Eltern",
+            "es": "Spa completo para los padres",
+            "pt": "Spa completo para os pais"
           }
         }
       ],
@@ -506,31 +914,55 @@
         {
           "q": {
             "en": "How far is the beach from the hotel?",
-            "fr": "La plage est-elle loin de l'hôtel?"
+            "fr": "La plage est-elle loin de l'hôtel?",
+            "it": "Quanto dista la spiaggia dall'hotel?",
+            "de": "Wie weit ist der Strand vom Hotel entfernt?",
+            "es": "¿A qué distancia está la playa del hotel?",
+            "pt": "A que distância fica a praia do hotel?"
           },
           "a": {
             "en": "Los Narejos beach is a short walk, roughly five to ten minutes on the flat, and it is one of the widest, shallowest and calmest beaches on the Mar Menor.",
-            "fr": "La plage de Los Narejos est à courte marche, environ cinq à dix minutes à plat, et c'est l'une des plages les plus larges, les moins profondes et les plus calmes du Mar Menor."
+            "fr": "La plage de Los Narejos est à courte marche, environ cinq à dix minutes à plat, et c'est l'une des plages les plus larges, les moins profondes et les plus calmes du Mar Menor.",
+            "it": "La spiaggia di Los Narejos è a breve distanza a piedi, all'incirca cinque o dieci minuti in piano, ed è una delle spiagge più ampie, basse e calme del Mar Menor.",
+            "de": "Der Strand Los Narejos ist einen kurzen Spaziergang entfernt, etwa fünf bis zehn Minuten auf ebenem Weg, und er ist einer der breitesten, flachsten und ruhigsten Strände am Mar Menor.",
+            "es": "La playa de Los Narejos está a un corto paseo, más o menos cinco a diez minutos en llano, y es una de las playas más amplias, poco profundas y tranquilas del Mar Menor.",
+            "pt": "A praia de Los Narejos fica a um curto passeio, sensivelmente cinco a dez minutos em plano, e é uma das praias mais amplas, pouco profundas e calmas do Mar Menor."
           }
         },
         {
           "q": {
             "en": "Is it suitable for a baby or is it more of an adult hotel?",
-            "fr": "Convient-il à un bébé ou est-ce plutôt un hôtel pour adultes?"
+            "fr": "Convient-il à un bébé ou est-ce plutôt un hôtel pour adultes?",
+            "it": "È adatto a un neonato o è più un hotel per adulti?",
+            "de": "Ist es für ein Baby geeignet oder eher ein Hotel für Erwachsene?",
+            "es": "¿Es adecuado para un bebé o es más bien un hotel para adultos?",
+            "pt": "É adequado para um bebé ou é mais um hotel para adultos?"
           },
           "a": {
             "en": "It works for both. There is a free children's club and playground for the little ones, while the spa and rooftop pool give parents somewhere calm, and cots can be arranged.",
-            "fr": "Il convient aux deux. Il y a un club enfants gratuit et une aire de jeux pour les petits, tandis que le spa et la piscine sur le toit offrent aux parents un endroit calme, et un lit bébé peut être prévu."
+            "fr": "Il convient aux deux. Il y a un club enfants gratuit et une aire de jeux pour les petits, tandis que le spa et la piscine sur le toit offrent aux parents un endroit calme, et un lit bébé peut être prévu.",
+            "it": "Va bene per entrambi. C'è un club per bambini gratuito e un'area giochi per i piccoli, mentre la spa e la piscina sul tetto offrono ai genitori un angolo tranquillo, e si possono predisporre le culle.",
+            "de": "Es funktioniert für beides. Es gibt einen kostenlosen Kinderclub und Spielplatz für die Kleinen, während Spa und Dachpool den Eltern einen ruhigen Ort bieten, und Babybetten können bereitgestellt werden.",
+            "es": "Vale para ambos. Hay un club infantil gratuito y un parque infantil para los pequeños, mientras que el spa y la piscina de la azotea dan a los padres un lugar tranquilo, y se pueden solicitar cunas.",
+            "pt": "Serve para ambos. Há um clube infantil gratuito e um parque infantil para os pequenos, enquanto o spa e a piscina do terraço dão aos pais um lugar tranquilo, e podem ser preparados berços."
           }
         },
         {
           "q": {
             "en": "Can we walk to restaurants and shops?",
-            "fr": "Peut-on rejoindre restaurants et boutiques à pied?"
+            "fr": "Peut-on rejoindre restaurants et boutiques à pied?",
+            "it": "Possiamo raggiungere ristoranti e negozi a piedi?",
+            "de": "Können wir zu Restaurants und Geschäften laufen?",
+            "es": "¿Podemos ir andando a restaurantes y tiendas?",
+            "pt": "Podemos ir a pé a restaurantes e lojas?"
           },
           "a": {
             "en": "Yes, the hotel is in the centre of Los Alcázares, so cafes, ice cream, supermarkets and family restaurants are all within a few minutes on foot.",
-            "fr": "Oui, l'hôtel est au centre de Los Alcázares, cafés, glaces, supermarchés et restaurants familiaux sont tous à quelques minutes à pied."
+            "fr": "Oui, l'hôtel est au centre de Los Alcázares, cafés, glaces, supermarchés et restaurants familiaux sont tous à quelques minutes à pied.",
+            "it": "Sì, l'hotel è nel centro di Los Alcázares, così caffè, gelaterie, supermercati e ristoranti per famiglie sono tutti a pochi minuti a piedi.",
+            "de": "Ja, das Hotel liegt im Zentrum von Los Alcázares, sodass Cafés, Eisdielen, Supermärkte und Familienrestaurants alle wenige Minuten zu Fuß entfernt sind.",
+            "es": "Sí, el hotel está en el centro de Los Alcázares, así que cafeterías, heladerías, supermercados y restaurantes familiares están todos a unos minutos a pie.",
+            "pt": "Sim, o hotel fica no centro de Los Alcázares, por isso cafés, gelatarias, supermercados e restaurantes de família estão todos a poucos minutos a pé."
           }
         }
       ]
@@ -541,7 +973,11 @@
       "name": "Hotel Monarque Costa Narejos",
       "area": {
         "en": "Los Alcázares",
-        "fr": "Los Alcázares"
+        "fr": "Los Alcázares",
+        "it": "Los Alcázares",
+        "de": "Los Alcázares",
+        "es": "Los Alcázares",
+        "pt": "Los Alcázares"
       },
       "lat": 37.764,
       "lng": -0.834,
@@ -580,11 +1016,19 @@
       },
       "roomsSummary": {
         "en": "A large, good-value four-star a hundred metres from the beach, with 193 rooms, most with a balcony or terrace. Rooms are straightforward and roomy enough for a family, and half-board keeps a week with children affordable and simple.",
-        "fr": "Un grand quatre étoiles au bon rapport qualité-prix à cent mètres de la plage, avec 193 chambres, la plupart avec balcon ou terrasse. Les chambres sont sobres et assez spacieuses pour une famille, et la demi-pension rend une semaine avec enfants abordable et simple."
+        "fr": "Un grand quatre étoiles au bon rapport qualité-prix à cent mètres de la plage, avec 193 chambres, la plupart avec balcon ou terrasse. Les chambres sont sobres et assez spacieuses pour une famille, et la demi-pension rend une semaine avec enfants abordable et simple.",
+        "it": "Un grande quattro stelle dal buon rapporto qualità-prezzo a cento metri dalla spiaggia, con 193 camere, la maggior parte con balcone o terrazza. Le camere sono essenziali e abbastanza spaziose per una famiglia, e la mezza pensione rende una settimana con i bambini accessibile e semplice.",
+        "de": "Ein großes, preiswertes Vier-Sterne-Haus hundert Meter vom Strand, mit 193 Zimmern, die meisten mit Balkon oder Terrasse. Die Zimmer sind schlicht und geräumig genug für eine Familie, und die Halbpension hält eine Woche mit Kindern erschwinglich und einfach.",
+        "es": "Un gran cuatro estrellas con buena relación calidad-precio a cien metros de la playa, con 193 habitaciones, la mayoría con balcón o terraza. Las habitaciones son sencillas y lo bastante amplias para una familia, y la media pensión mantiene asequible y sencilla una semana con niños.",
+        "pt": "Um grande quatro estrelas com boa relação qualidade-preço a cem metros da praia, com 193 quartos, a maioria com varanda ou terraço. Os quartos são simples e suficientemente espaçosos para uma família, e a meia pensão mantém acessível e simples uma semana com crianças."
       },
       "intro": {
         "en": "Costa Narejos is the dependable value pick right by the gentlest toddler beach on the Mar Menor. It faces the beachfront a hundred metres from the shallow Los Narejos sand, has a children's pool alongside the main one, a kids club and a little spa for the grown-ups. Nothing here is fancy, but it is spacious, friendly and genuinely close to warm, waist-deep water, which for a family with a baby or toddler is what actually matters.",
-        "fr": "Le Costa Narejos est le choix fiable et abordable, juste à côté de la plage la plus douce pour tout-petits du Mar Menor. Il fait face au front de mer, à cent mètres du sable peu profond de Los Narejos, dispose d'une pataugeoire à côté de la piscine principale, d'un club enfants et d'un petit spa pour les grands. Rien ici n'est chic, mais c'est spacieux, chaleureux et vraiment proche d'une eau chaude à hauteur de taille, ce qui, pour une famille avec un bébé ou un tout-petit, est l'essentiel."
+        "fr": "Le Costa Narejos est le choix fiable et abordable, juste à côté de la plage la plus douce pour tout-petits du Mar Menor. Il fait face au front de mer, à cent mètres du sable peu profond de Los Narejos, dispose d'une pataugeoire à côté de la piscine principale, d'un club enfants et d'un petit spa pour les grands. Rien ici n'est chic, mais c'est spacieux, chaleureux et vraiment proche d'une eau chaude à hauteur de taille, ce qui, pour une famille avec un bébé ou un tout-petit, est l'essentiel.",
+        "it": "Il Costa Narejos è la scelta affidabile e conveniente proprio accanto alla spiaggia più dolce per bimbi piccoli del Mar Menor. È affacciato sul lungomare, a cento metri dalla sabbia bassa di Los Narejos, ha una piscina per bambini accanto a quella principale, un club per bambini e una piccola spa per i grandi. Niente qui è ricercato, ma è spazioso, cordiale e davvero vicino all'acqua calda all'altezza della vita, che per una famiglia con un neonato o un bimbo piccolo è ciò che conta davvero.",
+        "de": "Das Costa Narejos ist die zuverlässige, preiswerte Wahl direkt am sanftesten Kleinkinderstrand des Mar Menor. Es blickt auf die Strandpromenade, hundert Meter vom flachen Sand von Los Narejos, hat einen Kinderpool neben dem Hauptbecken, einen Kinderclub und ein kleines Spa für die Großen. Nichts hier ist schick, aber es ist geräumig, freundlich und wirklich nah am warmen, hüfttiefen Wasser, was für eine Familie mit einem Baby oder Kleinkind das ist, worauf es tatsächlich ankommt.",
+        "es": "El Costa Narejos es la opción fiable y económica justo al lado de la playa más suave para pequeños del Mar Menor. Da al paseo marítimo, a cien metros de la arena poco profunda de Los Narejos, tiene una piscina infantil junto a la principal, un club de niños y un pequeño spa para los mayores. Aquí nada es sofisticado, pero es espacioso, cordial y de verdad cerca del agua cálida a la altura de la cintura, que para una familia con un bebé o un niño pequeño es lo que realmente importa.",
+        "pt": "O Costa Narejos é a escolha fiável e económica mesmo ao lado da praia mais suave para crianças pequenas do Mar Menor. Está virado para a marginal, a cem metros da areia pouco profunda de Los Narejos, tem uma piscina infantil ao lado da principal, um clube de crianças e um pequeno spa para os graúdos. Nada aqui é sofisticado, mas é espaçoso, acolhedor e verdadeiramente perto da água quente pela cintura, o que, para uma família com um bebé ou uma criança pequena, é o que realmente importa."
       },
       "highlights": {
         "en": [
@@ -598,6 +1042,30 @@
           "Pataugeoire et club enfants gratuit",
           "Chambres familiales spacieuses et au bon prix",
           "Petit spa pour les parents"
+        ],
+        "it": [
+          "A cento metri dalla spiaggia bassa di Los Narejos",
+          "Piscina per bambini e club per bambini gratuito",
+          "Camere familiari spaziose e dal buon prezzo",
+          "Piccola spa per i genitori"
+        ],
+        "de": [
+          "Hundert Meter vom flachen Strand Los Narejos entfernt",
+          "Kinderpool und kostenloser Kinderclub",
+          "Geräumige, preiswerte Familienzimmer",
+          "Kleines Spa für die Eltern"
+        ],
+        "es": [
+          "A cien metros de la playa poco profunda de Los Narejos",
+          "Piscina infantil y club de niños gratuito",
+          "Habitaciones familiares amplias y a buen precio",
+          "Pequeño spa para los padres"
+        ],
+        "pt": [
+          "A cem metros da praia pouco profunda de Los Narejos",
+          "Piscina infantil e clube de crianças gratuito",
+          "Quartos familiares espaçosos e com bom preço",
+          "Pequeno spa para os pais"
         ]
       },
       "pros": {
@@ -612,6 +1080,30 @@
           "À deux pas du sable de lagon le plus calme et le moins profond",
           "Chambres familiales spacieuses avec balcon",
           "Club enfants et pataugeoire compris"
+        ],
+        "it": [
+          "Ottimo rapporto qualità-prezzo per un quattro stelle fronte spiaggia",
+          "A due passi dalla sabbia della laguna più calma e bassa",
+          "Camere familiari spaziose con balcone",
+          "Club per bambini e piscina per bambini inclusi"
+        ],
+        "de": [
+          "Hervorragendes Preis-Leistungs-Verhältnis für ein Vier-Sterne-Haus am Strand",
+          "Wenige Schritte vom ruhigsten, flachsten Lagunensand",
+          "Geräumige Familienzimmer mit Balkon",
+          "Kinderclub und Kinderpool inklusive"
+        ],
+        "es": [
+          "Excelente relación calidad-precio para un cuatro estrellas frente a la playa",
+          "A un paso de la arena de laguna más tranquila y poco profunda",
+          "Habitaciones familiares amplias con balcón",
+          "Club de niños y piscina infantil incluidos"
+        ],
+        "pt": [
+          "Excelente relação qualidade-preço para um quatro estrelas à beira-mar",
+          "A dois passos da areia de laguna mais calma e pouco profunda",
+          "Quartos familiares espaçosos com varanda",
+          "Clube de crianças e piscina infantil incluídos"
         ]
       },
       "cons": {
@@ -624,59 +1116,119 @@
           "Déco et chambres un peu datées",
           "Grand et fréquenté en plein été",
           "La cuisine en demi-pension est basique plutôt que mémorable"
+        ],
+        "it": [
+          "Arredi e camere un po' datati",
+          "Grande e frequentato in piena estate",
+          "Il cibo in mezza pensione è basico più che memorabile"
+        ],
+        "de": [
+          "Einrichtung und Zimmer wirken etwas altmodisch",
+          "Groß und voll im Hochsommer",
+          "Das Halbpensionsessen ist einfach statt unvergesslich"
+        ],
+        "es": [
+          "La decoración y las habitaciones resultan algo anticuadas",
+          "Grande y concurrido en pleno verano",
+          "La comida de media pensión es básica más que memorable"
+        ],
+        "pt": [
+          "A decoração e os quartos parecem um pouco datados",
+          "Grande e movimentado em pleno verão",
+          "A comida de meia pensão é básica em vez de memorável"
         ]
       },
       "verdict": {
         "en": "The value champion for toddler beach days: warm, shallow Los Narejos is a hundred metres away and the price leaves room in the budget for ice creams all week.",
-        "fr": "Le champion du rapport qualité-prix pour les journées plage avec tout-petits : Los Narejos, chaude et peu profonde, est à cent mètres et le prix laisse de la marge pour les glaces toute la semaine."
+        "fr": "Le champion du rapport qualité-prix pour les journées plage avec tout-petits : Los Narejos, chaude et peu profonde, est à cent mètres et le prix laisse de la marge pour les glaces toute la semaine.",
+        "it": "Il campione del rapporto qualità-prezzo per le giornate in spiaggia con i bimbi piccoli: la calda e bassa Los Narejos è a cento metri e il prezzo lascia spazio nel budget per i gelati tutta la settimana.",
+        "de": "Der Preis-Leistungs-Champion für Kleinkinder-Strandtage: das warme, flache Los Narejos ist hundert Meter entfernt, und der Preis lässt im Budget Platz für Eis die ganze Woche.",
+        "es": "El campeón de la relación calidad-precio para los días de playa con los pequeños: la cálida y poco profunda Los Narejos está a cien metros y el precio deja margen en el presupuesto para helados toda la semana.",
+        "pt": "O campeão da relação qualidade-preço para os dias de praia com os pequenos: a quente e pouco profunda Los Narejos fica a cem metros e o preço deixa margem no orçamento para gelados a semana toda."
       },
       "parentTip": {
         "en": "The lagoon here warms up like a bath by late morning, so do a first paddle before lunch and keep the shaded pool for the fierce afternoon sun.",
-        "fr": "Le lagon ici se réchauffe comme un bain en fin de matinée, faites une première baignade avant le déjeuner et gardez la piscine ombragée pour le soleil brûlant de l'après-midi."
+        "fr": "Le lagon ici se réchauffe comme un bain en fin de matinée, faites une première baignade avant le déjeuner et gardez la piscine ombragée pour le soleil brûlant de l'après-midi.",
+        "it": "La laguna qui si scalda come un bagnetto a fine mattinata, quindi fate un primo bagnetto prima di pranzo e tenete la piscina ombreggiata per il sole feroce del pomeriggio.",
+        "de": "Die Lagune erwärmt sich hier am späten Vormittag wie ein Bad, also plantscht vor dem Mittagessen zum ersten Mal und hebt euch den schattigen Pool für die grelle Nachmittagssonne auf.",
+        "es": "La laguna aquí se calienta como un baño a última hora de la mañana, así que dad un primer chapoteo antes de comer y guardad la piscina con sombra para el sol feroz de la tarde.",
+        "pt": "A laguna aqui aquece como um banho ao fim da manhã, por isso deem um primeiro mergulho antes do almoço e guardem a piscina com sombra para o sol forte da tarde."
       },
       "atAGlance": [
         {
           "icon": "🏖️",
           "label": {
             "en": "Beach",
-            "fr": "Plage"
+            "fr": "Plage",
+            "it": "Spiaggia",
+            "de": "Strand",
+            "es": "Playa",
+            "pt": "Praia"
           },
           "value": {
             "en": "Shallow Los Narejos, a hundred metres",
-            "fr": "Los Narejos peu profonde, à cent mètres"
+            "fr": "Los Narejos peu profonde, à cent mètres",
+            "it": "Los Narejos bassa, a cento metri",
+            "de": "Flaches Los Narejos, hundert Meter",
+            "es": "Los Narejos poco profunda, a cien metros",
+            "pt": "Los Narejos pouco profunda, a cem metros"
           }
         },
         {
           "icon": "🧒",
           "label": {
             "en": "Kids club",
-            "fr": "Club enfants"
+            "fr": "Club enfants",
+            "it": "Club per bambini",
+            "de": "Kinderclub",
+            "es": "Club de niños",
+            "pt": "Clube de crianças"
           },
           "value": {
             "en": "Included, with a children's pool",
-            "fr": "Compris, avec pataugeoire"
+            "fr": "Compris, avec pataugeoire",
+            "it": "Incluso, con piscina per bambini",
+            "de": "Inklusive, mit einem Kinderpool",
+            "es": "Incluido, con piscina infantil",
+            "pt": "Incluído, com piscina infantil"
           }
         },
         {
           "icon": "💶",
           "label": {
             "en": "Value",
-            "fr": "Budget"
+            "fr": "Budget",
+            "it": "Prezzo",
+            "de": "Preis",
+            "es": "Precio",
+            "pt": "Preço"
           },
           "value": {
             "en": "Strong price for a beachfront hotel",
-            "fr": "Bon prix pour un hôtel en front de mer"
+            "fr": "Bon prix pour un hôtel en front de mer",
+            "it": "Ottimo prezzo per un hotel fronte spiaggia",
+            "de": "Starker Preis für ein Strandhotel",
+            "es": "Buen precio para un hotel frente a la playa",
+            "pt": "Bom preço para um hotel à beira-mar"
           }
         },
         {
           "icon": "💆",
           "label": {
             "en": "Spa",
-            "fr": "Spa"
+            "fr": "Spa",
+            "it": "Spa",
+            "de": "Spa",
+            "es": "Spa",
+            "pt": "Spa"
           },
           "value": {
             "en": "Small spa with sauna and hot tub",
-            "fr": "Petit spa avec sauna et jacuzzi"
+            "fr": "Petit spa avec sauna et jacuzzi",
+            "it": "Piccola spa con sauna e idromassaggio",
+            "de": "Kleines Spa mit Sauna und Whirlpool",
+            "es": "Pequeño spa con sauna y jacuzzi",
+            "pt": "Pequeno spa com sauna e jacuzzi"
           }
         }
       ],
@@ -684,31 +1236,55 @@
         {
           "q": {
             "en": "Is the beach safe for a toddler?",
-            "fr": "La plage est-elle sûre pour un tout-petit?"
+            "fr": "La plage est-elle sûre pour un tout-petit?",
+            "it": "La spiaggia è sicura per un bimbo piccolo?",
+            "de": "Ist der Strand für ein Kleinkind sicher?",
+            "es": "¿Es segura la playa para un niño pequeño?",
+            "pt": "A praia é segura para uma criança pequena?"
           },
           "a": {
             "en": "Very. Los Narejos is a blue-flag beach with warm, shallow, waveless water, so a small child can wade out several metres with the surface still low, under your eye.",
-            "fr": "Très. Los Narejos est une plage pavillon bleu à l'eau chaude, peu profonde et sans vagues, un petit enfant peut avancer de plusieurs mètres avec la surface encore basse, sous votre surveillance."
+            "fr": "Très. Los Narejos est une plage pavillon bleu à l'eau chaude, peu profonde et sans vagues, un petit enfant peut avancer de plusieurs mètres avec la surface encore basse, sous votre surveillance.",
+            "it": "Molto. Los Narejos è una spiaggia bandiera blu con acqua calda, bassa e senza onde, così un bimbo piccolo può avanzare per diversi metri con la superficie ancora bassa, sotto il vostro sguardo.",
+            "de": "Sehr. Los Narejos ist ein Blaue-Flagge-Strand mit warmem, flachem, wellenfreiem Wasser, sodass ein kleines Kind mehrere Meter hinauswaten kann, während die Oberfläche noch niedrig ist, unter eurer Aufsicht.",
+            "es": "Mucho. Los Narejos es una playa bandera azul con agua cálida, poco profunda y sin olas, así que un niño pequeño puede adentrarse varios metros con la superficie todavía baja, bajo vuestra vigilancia.",
+            "pt": "Muito. Los Narejos é uma praia bandeira azul com água quente, pouco profunda e sem ondas, por isso uma criança pequena pode avançar vários metros com a superfície ainda baixa, sob a vossa vigilância."
           }
         },
         {
           "q": {
             "en": "Are the rooms big enough for a family?",
-            "fr": "Les chambres sont-elles assez grandes pour une famille?"
+            "fr": "Les chambres sont-elles assez grandes pour une famille?",
+            "it": "Le camere sono abbastanza grandi per una famiglia?",
+            "de": "Sind die Zimmer groß genug für eine Familie?",
+            "es": "¿Son las habitaciones lo bastante grandes para una familia?",
+            "pt": "Os quartos são suficientemente grandes para uma família?"
           },
           "a": {
             "en": "Yes, the rooms are roomy and most have a balcony or terrace, and a cot can be added for a baby on request.",
-            "fr": "Oui, les chambres sont spacieuses et la plupart ont un balcon ou une terrasse, et un lit bébé peut être ajouté sur demande."
+            "fr": "Oui, les chambres sont spacieuses et la plupart ont un balcon ou une terrasse, et un lit bébé peut être ajouté sur demande.",
+            "it": "Sì, le camere sono spaziose e la maggior parte ha un balcone o una terrazza, e su richiesta si può aggiungere una culla per il neonato.",
+            "de": "Ja, die Zimmer sind geräumig und die meisten haben einen Balkon oder eine Terrasse, und ein Babybett kann auf Anfrage hinzugefügt werden.",
+            "es": "Sí, las habitaciones son amplias y la mayoría tiene balcón o terraza, y se puede añadir una cuna para el bebé bajo petición.",
+            "pt": "Sim, os quartos são espaçosos e a maioria tem varanda ou terraço, e pode acrescentar-se um berço para o bebé a pedido."
           }
         },
         {
           "q": {
             "en": "What board options are there?",
-            "fr": "Quelles formules de repas propose-t-il?"
+            "fr": "Quelles formules de repas propose-t-il?",
+            "it": "Quali opzioni di trattamento ci sono?",
+            "de": "Welche Verpflegungsoptionen gibt es?",
+            "es": "¿Qué opciones de régimen hay?",
+            "pt": "Que opções de regime existem?"
           },
           "a": {
             "en": "Bed and breakfast or half-board are the usual choices, and there are plenty of family restaurants along the front if you prefer to eat out.",
-            "fr": "Petit-déjeuner ou demi-pension sont les choix habituels, et il y a de nombreux restaurants familiaux le long du front de mer si vous préférez manger dehors."
+            "fr": "Petit-déjeuner ou demi-pension sont les choix habituels, et il y a de nombreux restaurants familiaux le long du front de mer si vous préférez manger dehors.",
+            "it": "Pernottamento con colazione o mezza pensione sono le scelte abituali, e ci sono tanti ristoranti per famiglie lungo il lungomare se preferite mangiare fuori.",
+            "de": "Übernachtung mit Frühstück oder Halbpension sind die üblichen Optionen, und es gibt viele Familienrestaurants entlang der Promenade, wenn ihr lieber auswärts essen möchtet.",
+            "es": "Alojamiento y desayuno o media pensión son las opciones habituales, y hay muchos restaurantes familiares a lo largo del paseo si preferís comer fuera.",
+            "pt": "Alojamento com pequeno-almoço ou meia pensão são as opções habituais, e há muitos restaurantes de família ao longo da marginal se preferirem comer fora."
           }
         }
       ]
@@ -719,7 +1295,11 @@
       "name": "Hotel & Spa Entremares",
       "area": {
         "en": "La Manga del Mar Menor",
-        "fr": "La Manga del Mar Menor"
+        "fr": "La Manga del Mar Menor",
+        "it": "La Manga del Mar Menor",
+        "de": "La Manga del Mar Menor",
+        "es": "La Manga del Mar Menor",
+        "pt": "La Manga del Mar Menor"
       },
       "lat": 37.628,
       "lng": -0.75,
@@ -758,11 +1338,19 @@
       },
       "roomsSummary": {
         "en": "A comfortable four-star at the quieter southern tip of La Manga, most rooms with a balcony and sea view. Family rooms sleep up to four, and the standout is the large marine spa, seawater pools and thermal circuits that make this a favourite for parents who want a little pampering.",
-        "fr": "Un quatre étoiles confortable à la pointe sud plus calme de La Manga, la plupart des chambres avec balcon et vue mer. Les chambres familiales accueillent jusqu'à quatre personnes, et le point fort est le grand spa marin, avec ses piscines d'eau de mer et ses circuits thermaux qui en font un favori des parents en quête d'un peu de détente."
+        "fr": "Un quatre étoiles confortable à la pointe sud plus calme de La Manga, la plupart des chambres avec balcon et vue mer. Les chambres familiales accueillent jusqu'à quatre personnes, et le point fort est le grand spa marin, avec ses piscines d'eau de mer et ses circuits thermaux qui en font un favori des parents en quête d'un peu de détente.",
+        "it": "Un comodo quattro stelle sulla punta meridionale più tranquilla di La Manga, la maggior parte delle camere con balcone e vista mare. Le camere familiari ospitano fino a quattro persone, e il punto forte è la grande spa marina, con piscine di acqua di mare e percorsi termali che ne fanno una preferita dei genitori in cerca di un po' di coccole.",
+        "de": "Ein komfortables Vier-Sterne-Haus an der ruhigeren Südspitze von La Manga, die meisten Zimmer mit Balkon und Meerblick. Familienzimmer bieten Platz für bis zu vier Personen, und das Highlight ist das große Meeres-Spa mit Meerwasserbecken und Thermalzirkeln, das es zu einem Favoriten für Eltern macht, die sich ein wenig verwöhnen lassen wollen.",
+        "es": "Un cómodo cuatro estrellas en la punta sur más tranquila de La Manga, la mayoría de las habitaciones con balcón y vistas al mar. Las habitaciones familiares acogen hasta cuatro personas, y lo más destacado es el gran spa marino, con piscinas de agua de mar y circuitos termales que lo convierten en un favorito para los padres que quieren un poco de mimo.",
+        "pt": "Um confortável quatro estrelas na ponta sul mais tranquila de La Manga, a maioria dos quartos com varanda e vista para o mar. Os quartos familiares acomodam até quatro pessoas, e o ponto forte é o grande spa marinho, com piscinas de água do mar e circuitos termais que fazem dele um favorito dos pais que querem uns mimos."
       },
       "intro": {
         "en": "Entremares sits at kilometre one of La Manga, the calmer southern end near Cabo de Palos, twenty metres from a sandy sea beach with the shallow lagoon just behind. It pairs proper family basics, a children's pool, age-based animation and playground, with one of the best spas in the region, four thermal seawater pools and a full wellness circuit. The sea side here has gentle waves, but the Mar Menor lagoon and its warm, waveless water are a two-minute walk over the strip whenever the little ones want the calmest possible paddle.",
-        "fr": "L'Entremares se trouve au kilomètre un de La Manga, l'extrémité sud plus calme près de Cabo de Palos, à vingt mètres d'une plage de sable côté mer avec le lagon peu profond juste derrière. Il associe de vraies bases familiales, pataugeoire, animation par âge et aire de jeux, à l'un des meilleurs spas de la région, quatre piscines thermales d'eau de mer et un circuit bien-être complet. Le côté mer a de légères vagues, mais le lagon du Mar Menor et son eau chaude sans vagues sont à deux minutes à pied de l'autre côté de la bande, dès que les petits veulent la baignade la plus calme possible."
+        "fr": "L'Entremares se trouve au kilomètre un de La Manga, l'extrémité sud plus calme près de Cabo de Palos, à vingt mètres d'une plage de sable côté mer avec le lagon peu profond juste derrière. Il associe de vraies bases familiales, pataugeoire, animation par âge et aire de jeux, à l'un des meilleurs spas de la région, quatre piscines thermales d'eau de mer et un circuit bien-être complet. Le côté mer a de légères vagues, mais le lagon du Mar Menor et son eau chaude sans vagues sont à deux minutes à pied de l'autre côté de la bande, dès que les petits veulent la baignade la plus calme possible.",
+        "it": "L'Entremares si trova al chilometro uno di La Manga, l'estremità sud più tranquilla vicino a Cabo de Palos, a venti metri da una spiaggia di mare sabbiosa con la laguna bassa proprio dietro. Unisce vere basi per famiglie, una piscina per bambini, animazione per fasce d'età e area giochi, a una delle migliori spa della regione, quattro piscine termali di acqua di mare e un circuito benessere completo. Il lato mare qui ha onde leggere, ma la laguna del Mar Menor e la sua acqua calda e senza onde sono a due minuti a piedi attraverso la lingua di terra, ogni volta che i piccoli vogliono il bagnetto più calmo possibile.",
+        "de": "Das Entremares liegt bei Kilometer eins von La Manga, dem ruhigeren südlichen Ende nahe Cabo de Palos, zwanzig Meter von einem sandigen Meeresstrand mit der flachen Lagune direkt dahinter. Es verbindet echte Familien-Grundlagen, einen Kinderpool, altersgerechte Animation und einen Spielplatz, mit einem der besten Spas der Region, vier thermalen Meerwasserbecken und einem kompletten Wellnessparcours. Die Meeresseite hat hier sanfte Wellen, aber die Mar-Menor-Lagune und ihr warmes, wellenfreies Wasser sind einen Zwei-Minuten-Spaziergang über den Landstreifen entfernt, wann immer die Kleinen das ruhigstmögliche Planschen wollen.",
+        "es": "El Entremares se sitúa en el kilómetro uno de La Manga, el extremo sur más tranquilo cerca de Cabo de Palos, a veinte metros de una playa de mar de arena con la laguna poco profunda justo detrás. Combina auténticas bases familiares, una piscina infantil, animación por edades y parque infantil, con uno de los mejores spas de la región, cuatro piscinas termales de agua de mar y un circuito de bienestar completo. El lado del mar aquí tiene olas suaves, pero la laguna del Mar Menor y su agua cálida y sin olas están a dos minutos a pie cruzando la franja, siempre que los pequeños quieran el chapoteo más tranquilo posible.",
+        "pt": "O Entremares fica no quilómetro um de La Manga, o extremo sul mais tranquilo perto de Cabo de Palos, a vinte metros de uma praia de mar de areia com a laguna pouco profunda mesmo atrás. Junta verdadeiras bases familiares, uma piscina infantil, animação por idades e parque infantil, a um dos melhores spas da região, quatro piscinas termais de água do mar e um circuito de bem-estar completo. O lado do mar aqui tem ondas suaves, mas a laguna do Mar Menor e a sua água quente e sem ondas ficam a dois minutos a pé atravessando a faixa de terra, sempre que os pequenos quiserem o mergulho mais calmo possível."
       },
       "highlights": {
         "en": [
@@ -776,6 +1364,30 @@
           "Lagon calme du Mar Menor à deux minutes de l'autre côté de la bande",
           "L'un des meilleurs spas marins de la région",
           "Pataugeoire et animation par âge"
+        ],
+        "it": [
+          "A venti metri da una spiaggia di mare sabbiosa",
+          "Laguna calma del Mar Menor a due minuti a piedi attraverso la lingua di terra",
+          "Una delle migliori spa marine della regione",
+          "Piscina per bambini e animazione per fasce d'età"
+        ],
+        "de": [
+          "Zwanzig Meter von einem sandigen Meeresstrand entfernt",
+          "Ruhige Mar-Menor-Lagune einen Zwei-Minuten-Spaziergang über den Landstreifen entfernt",
+          "Eines der besten Meeres-Spas der Region",
+          "Kinderpool und altersgerechte Animation"
+        ],
+        "es": [
+          "A veinte metros de una playa de mar de arena",
+          "Laguna tranquila del Mar Menor a dos minutos a pie cruzando la franja",
+          "Uno de los mejores spas marinos de la región",
+          "Piscina infantil y animación por edades"
+        ],
+        "pt": [
+          "A vinte metros de uma praia de mar de areia",
+          "Laguna calma do Mar Menor a dois minutos a pé atravessando a faixa de terra",
+          "Um dos melhores spas marinhos da região",
+          "Piscina infantil e animação por idades"
         ]
       },
       "pros": {
@@ -790,6 +1402,30 @@
           "Spa thermal d'eau de mer remarquable pour les parents",
           "Extrémité sud de La Manga, plus calme",
           "Vue mer depuis la plupart des chambres familiales"
+        ],
+        "it": [
+          "Due mari e due atmosfere a breve distanza a piedi",
+          "Notevole spa termale di acqua di mare per i genitori",
+          "Estremità sud più tranquilla di La Manga",
+          "Vista mare dalla maggior parte delle camere familiari"
+        ],
+        "de": [
+          "Zwei Meere und zwei Stimmungen einen kurzen Spaziergang voneinander entfernt",
+          "Herausragendes thermales Meerwasser-Spa für die Eltern",
+          "Ruhigeres, südliches Ende von La Manga",
+          "Meerblick aus den meisten Familienzimmern"
+        ],
+        "es": [
+          "Dos mares y dos ambientes a un corto paseo el uno del otro",
+          "Destacado spa termal de agua de mar para los padres",
+          "Extremo sur más tranquilo de La Manga",
+          "Vistas al mar desde la mayoría de las habitaciones familiares"
+        ],
+        "pt": [
+          "Dois mares e dois ambientes a um curto passeio um do outro",
+          "Notável spa termal de água do mar para os pais",
+          "Extremo sul mais tranquilo de La Manga",
+          "Vista para o mar da maioria dos quartos familiares"
         ]
       },
       "cons": {
@@ -802,59 +1438,119 @@
           "La plage côté mer a de petites vagues, moins adaptée aux bébés que le lagon",
           "L'accent sur le spa donne une ambiance plus calme, moins bruyante côté enfants",
           "La position sud est à quelques minutes en voiture des villes du nord"
+        ],
+        "it": [
+          "La spiaggia sul lato mare ha piccole onde, meno a prova di bebè della laguna",
+          "L'attenzione alla spa dà un'atmosfera più tranquilla, meno chiassosa lato bambini",
+          "La posizione a sud è a qualche minuto in auto dai paesi del nord"
+        ],
+        "de": [
+          "Der Strand auf der Meeresseite hat kleine Wellen, weniger babysicher als die Lagune",
+          "Der Spa-Fokus bedeutet eine ruhigere, weniger kinderlaute Atmosphäre",
+          "Die südliche Lage ist eine Autofahrt von den nördlichen Orten entfernt"
+        ],
+        "es": [
+          "La playa del lado del mar tiene pequeñas olas, menos a prueba de bebés que la laguna",
+          "El enfoque en el spa supone un ambiente más tranquilo, menos ruidoso de niños",
+          "La ubicación al sur está a unos minutos en coche de los pueblos del norte"
+        ],
+        "pt": [
+          "A praia do lado do mar tem ondas pequenas, menos à prova de bebés do que a laguna",
+          "O foco no spa dá um ambiente mais calmo, menos barulhento de crianças",
+          "A localização a sul fica a alguns minutos de carro das vilas do norte"
         ]
       },
       "verdict": {
         "en": "Book it for the best of both worlds: a proper family hotel with the lagoon a two-minute walk away, and a marine spa that turns naptime into your time.",
-        "fr": "Réservez-le pour le meilleur des deux mondes : un vrai hôtel familial avec le lagon à deux minutes à pied, et un spa marin qui transforme la sieste des enfants en temps pour vous."
+        "fr": "Réservez-le pour le meilleur des deux mondes : un vrai hôtel familial avec le lagon à deux minutes à pied, et un spa marin qui transforme la sieste des enfants en temps pour vous.",
+        "it": "Prenotatelo per il meglio di entrambi i mondi: un vero hotel per famiglie con la laguna a due minuti a piedi, e una spa marina che trasforma il momento della nanna nel vostro tempo.",
+        "de": "Bucht es für das Beste aus beiden Welten: ein echtes Familienhotel mit der Lagune einen Zwei-Minuten-Spaziergang entfernt und einem Meeres-Spa, das die Schlafenszeit in eure Zeit verwandelt.",
+        "es": "Reservadlo por lo mejor de ambos mundos: un auténtico hotel familiar con la laguna a dos minutos a pie, y un spa marino que convierte la hora de la siesta en vuestro tiempo.",
+        "pt": "Reservem-no pelo melhor dos dois mundos: um verdadeiro hotel de família com a laguna a dois minutos a pé, e um spa marinho que transforma a hora da sesta no vosso tempo."
       },
       "parentTip": {
         "en": "For the calmest water with a baby, cross to the Mar Menor lagoon side rather than the open-sea beach, where even small waves can unsettle a first-timer.",
-        "fr": "Pour l'eau la plus calme avec un bébé, passez côté lagon du Mar Menor plutôt que sur la plage côté mer ouverte, où même de petites vagues peuvent déstabiliser un débutant."
+        "fr": "Pour l'eau la plus calme avec un bébé, passez côté lagon du Mar Menor plutôt que sur la plage côté mer ouverte, où même de petites vagues peuvent déstabiliser un débutant.",
+        "it": "Per l'acqua più calma con un neonato, passate sul lato della laguna del Mar Menor invece che sulla spiaggia di mare aperto, dove anche piccole onde possono spaventare chi è alle prime armi.",
+        "de": "Für das ruhigste Wasser mit einem Baby wechselt auf die Lagunenseite des Mar Menor statt an den Strand am offenen Meer, wo schon kleine Wellen einen Neuling verunsichern können.",
+        "es": "Para el agua más tranquila con un bebé, pasad al lado de la laguna del Mar Menor en lugar de la playa de mar abierto, donde incluso las olas pequeñas pueden inquietar a un principiante.",
+        "pt": "Para a água mais calma com um bebé, passem para o lado da laguna do Mar Menor em vez da praia de mar aberto, onde até ondas pequenas podem desassossegar um principiante."
       },
       "atAGlance": [
         {
           "icon": "🌊",
           "label": {
             "en": "Two seas",
-            "fr": "Deux mers"
+            "fr": "Deux mers",
+            "it": "Due mari",
+            "de": "Zwei Meere",
+            "es": "Dos mares",
+            "pt": "Dois mares"
           },
           "value": {
             "en": "Sea beach at the door, lagoon behind",
-            "fr": "Plage côté mer devant, lagon derrière"
+            "fr": "Plage côté mer devant, lagon derrière",
+            "it": "Spiaggia di mare davanti, laguna dietro",
+            "de": "Meeresstrand vor der Tür, Lagune dahinter",
+            "es": "Playa de mar delante, laguna detrás",
+            "pt": "Praia de mar à frente, laguna atrás"
           }
         },
         {
           "icon": "💆",
           "label": {
             "en": "Spa",
-            "fr": "Spa"
+            "fr": "Spa",
+            "it": "Spa",
+            "de": "Spa",
+            "es": "Spa",
+            "pt": "Spa"
           },
           "value": {
             "en": "Four thermal seawater pools",
-            "fr": "Quatre piscines thermales d'eau de mer"
+            "fr": "Quatre piscines thermales d'eau de mer",
+            "it": "Quattro piscine termali di acqua di mare",
+            "de": "Vier thermale Meerwasserbecken",
+            "es": "Cuatro piscinas termales de agua de mar",
+            "pt": "Quatro piscinas termais de água do mar"
           }
         },
         {
           "icon": "🧒",
           "label": {
             "en": "For kids",
-            "fr": "Pour les enfants"
+            "fr": "Pour les enfants",
+            "it": "Per i bambini",
+            "de": "Für Kinder",
+            "es": "Para niños",
+            "pt": "Para crianças"
           },
           "value": {
             "en": "Children's pool, animation, playground",
-            "fr": "Pataugeoire, animation, aire de jeux"
+            "fr": "Pataugeoire, animation, aire de jeux",
+            "it": "Piscina per bambini, animazione, area giochi",
+            "de": "Kinderpool, Animation, Spielplatz",
+            "es": "Piscina infantil, animación, parque infantil",
+            "pt": "Piscina infantil, animação, parque infantil"
           }
         },
         {
           "icon": "🌅",
           "label": {
             "en": "Setting",
-            "fr": "Cadre"
+            "fr": "Cadre",
+            "it": "Contesto",
+            "de": "Lage",
+            "es": "Entorno",
+            "pt": "Ambiente"
           },
           "value": {
             "en": "Quieter southern tip of La Manga",
-            "fr": "Pointe sud plus calme de La Manga"
+            "fr": "Pointe sud plus calme de La Manga",
+            "it": "Punta sud più tranquilla di La Manga",
+            "de": "Ruhigere Südspitze von La Manga",
+            "es": "Punta sur más tranquila de La Manga",
+            "pt": "Ponta sul mais tranquila de La Manga"
           }
         }
       ],
@@ -862,31 +1558,55 @@
         {
           "q": {
             "en": "Is the water in front safe for a toddler?",
-            "fr": "L'eau devant est-elle sûre pour un tout-petit?"
+            "fr": "L'eau devant est-elle sûre pour un tout-petit?",
+            "it": "L'acqua davanti è sicura per un bimbo piccolo?",
+            "de": "Ist das Wasser davor für ein Kleinkind sicher?",
+            "es": "¿Es segura el agua de enfrente para un niño pequeño?",
+            "pt": "A água à frente é segura para uma criança pequena?"
           },
           "a": {
             "en": "The beach at the door is on the open-sea side with gentle waves. For the calmest, shallowest paddling, cross the strip to the Mar Menor lagoon, a two-minute walk, where there are no waves at all.",
-            "fr": "La plage devant est côté mer ouverte, avec de légères vagues. Pour la baignade la plus calme et la moins profonde, traversez la bande jusqu'au lagon du Mar Menor, à deux minutes à pied, où il n'y a aucune vague."
+            "fr": "La plage devant est côté mer ouverte, avec de légères vagues. Pour la baignade la plus calme et la moins profonde, traversez la bande jusqu'au lagon du Mar Menor, à deux minutes à pied, où il n'y a aucune vague.",
+            "it": "La spiaggia davanti è sul lato del mare aperto, con onde leggere. Per il bagnetto più calmo e basso, attraversate la lingua di terra fino alla laguna del Mar Menor, a due minuti a piedi, dove non ci sono onde affatto.",
+            "de": "Der Strand vor der Tür liegt auf der Seite des offenen Meeres mit sanften Wellen. Für das ruhigste, flachste Planschen überquert den Landstreifen zur Mar-Menor-Lagune, einen Zwei-Minuten-Spaziergang entfernt, wo es überhaupt keine Wellen gibt.",
+            "es": "La playa de enfrente está en el lado del mar abierto, con olas suaves. Para el chapoteo más tranquilo y poco profundo, cruzad la franja hasta la laguna del Mar Menor, a dos minutos a pie, donde no hay olas en absoluto.",
+            "pt": "A praia à frente fica no lado do mar aberto, com ondas suaves. Para o mergulho mais calmo e pouco profundo, atravessem a faixa de terra até à laguna do Mar Menor, a dois minutos a pé, onde não há ondas nenhumas."
           }
         },
         {
           "q": {
             "en": "Can children use the spa?",
-            "fr": "Les enfants peuvent-ils utiliser le spa?"
+            "fr": "Les enfants peuvent-ils utiliser le spa?",
+            "it": "I bambini possono usare la spa?",
+            "de": "Dürfen Kinder das Spa benutzen?",
+            "es": "¿Pueden los niños usar el spa?",
+            "pt": "As crianças podem usar o spa?"
           },
           "a": {
             "en": "The thermal spa circuit is aimed at adults and has age limits, but there is a separate outdoor pool and a children's pool for the family, so parents take turns to enjoy the wellness area.",
-            "fr": "Le circuit thermal du spa est destiné aux adultes et a des limites d'âge, mais il y a une piscine extérieure séparée et une pataugeoire pour la famille, les parents peuvent donc profiter chacun leur tour de l'espace bien-être."
+            "fr": "Le circuit thermal du spa est destiné aux adultes et a des limites d'âge, mais il y a une piscine extérieure séparée et une pataugeoire pour la famille, les parents peuvent donc profiter chacun leur tour de l'espace bien-être.",
+            "it": "Il circuito termale della spa è pensato per gli adulti e ha limiti di età, ma ci sono una piscina all'aperto separata e una piscina per bambini per la famiglia, così i genitori si alternano per godersi l'area benessere.",
+            "de": "Der Thermal-Spa-Parcours ist auf Erwachsene ausgerichtet und hat Altersgrenzen, aber es gibt einen separaten Außenpool und einen Kinderpool für die Familie, sodass die Eltern sich abwechseln, um den Wellnessbereich zu genießen.",
+            "es": "El circuito termal del spa está dirigido a adultos y tiene límites de edad, pero hay una piscina exterior aparte y una piscina infantil para la familia, así que los padres se turnan para disfrutar de la zona de bienestar.",
+            "pt": "O circuito termal do spa é dirigido a adultos e tem limites de idade, mas há uma piscina exterior separada e uma piscina infantil para a família, por isso os pais revezam-se para desfrutar da zona de bem-estar."
           }
         },
         {
           "q": {
             "en": "Is it a quiet or lively hotel?",
-            "fr": "Est-ce un hôtel calme ou animé?"
+            "fr": "Est-ce un hôtel calme ou animé?",
+            "it": "È un hotel tranquillo o animato?",
+            "de": "Ist es ein ruhiges oder lebhaftes Hotel?",
+            "es": "¿Es un hotel tranquilo o animado?",
+            "pt": "É um hotel tranquilo ou animado?"
           },
           "a": {
             "en": "It is on the calmer southern end of La Manga and leans a little more relaxed than the big northern resorts, which suits families who want animation for the kids without a party atmosphere.",
-            "fr": "Il est à l'extrémité sud plus calme de La Manga et penche un peu plus vers la détente que les grands complexes du nord, ce qui convient aux familles qui veulent de l'animation pour les enfants sans ambiance de fête."
+            "fr": "Il est à l'extrémité sud plus calme de La Manga et penche un peu plus vers la détente que les grands complexes du nord, ce qui convient aux familles qui veulent de l'animation pour les enfants sans ambiance de fête.",
+            "it": "È sull'estremità sud più tranquilla di La Manga e tende un po' più al relax rispetto ai grandi complessi del nord, il che si adatta alle famiglie che vogliono animazione per i bambini senza atmosfera da festa.",
+            "de": "Es liegt am ruhigeren südlichen Ende von La Manga und ist etwas entspannter als die großen Anlagen im Norden, was Familien passt, die Animation für die Kinder wollen, ohne Partyatmosphäre.",
+            "es": "Está en el extremo sur más tranquilo de La Manga y tiende un poco más a la calma que los grandes complejos del norte, lo que encaja con las familias que quieren animación para los niños sin ambiente de fiesta.",
+            "pt": "Fica no extremo sul mais tranquilo de La Manga e inclina-se um pouco mais para o descanso do que os grandes resorts do norte, o que agrada às famílias que querem animação para as crianças sem ambiente de festa."
           }
         }
       ]
@@ -897,7 +1617,11 @@
       "name": "Hotel Lodomar Spa & Talasoterapia",
       "area": {
         "en": "San Pedro del Pinatar",
-        "fr": "San Pedro del Pinatar"
+        "fr": "San Pedro del Pinatar",
+        "it": "San Pedro del Pinatar",
+        "de": "San Pedro del Pinatar",
+        "es": "San Pedro del Pinatar",
+        "pt": "San Pedro del Pinatar"
       },
       "lat": 37.825,
       "lng": -0.783,
@@ -937,11 +1661,19 @@
       },
       "roomsSummary": {
         "en": "A relaxed four-star spa hotel at the quiet northern tip of the lagoon, with double rooms, junior suites and a block of self-catering apartments handy for families who want a kitchen. Two outdoor pools and a children's pool sit at the heart of it, and connecting rooms make family stays easy.",
-        "fr": "Un quatre étoiles spa détendu à la pointe nord tranquille du lagon, avec chambres doubles, junior suites et un bâtiment d'appartements en location libre, pratique pour les familles qui veulent une cuisine. Deux piscines extérieures et une pataugeoire en forment le coeur, et les chambres communicantes facilitent les séjours en famille."
+        "fr": "Un quatre étoiles spa détendu à la pointe nord tranquille du lagon, avec chambres doubles, junior suites et un bâtiment d'appartements en location libre, pratique pour les familles qui veulent une cuisine. Deux piscines extérieures et une pataugeoire en forment le coeur, et les chambres communicantes facilitent les séjours en famille.",
+        "it": "Un rilassato quattro stelle con spa sulla punta nord tranquilla della laguna, con camere doppie, junior suite e un blocco di appartamenti con angolo cottura, comodi per le famiglie che vogliono una cucina. Due piscine all'aperto e una piscina per bambini ne sono il cuore, e le camere comunicanti rendono facili i soggiorni in famiglia.",
+        "de": "Ein entspanntes Vier-Sterne-Spa-Hotel an der ruhigen Nordspitze der Lagune, mit Doppelzimmern, Junior-Suiten und einem Block Apartments mit Selbstverpflegung, praktisch für Familien, die eine Küche wollen. Zwei Außenpools und ein Kinderpool bilden das Herzstück, und Verbindungszimmer machen Familienaufenthalte leicht.",
+        "es": "Un relajado cuatro estrellas con spa en la tranquila punta norte de la laguna, con habitaciones dobles, junior suites y un bloque de apartamentos con cocina, prácticos para las familias que quieren una cocina. Dos piscinas exteriores y una piscina infantil forman su corazón, y las habitaciones comunicadas facilitan las estancias en familia.",
+        "pt": "Um descontraído quatro estrelas com spa na tranquila ponta norte da laguna, com quartos duplos, junior suites e um bloco de apartamentos com cozinha, práticos para as famílias que querem uma cozinha. Duas piscinas exteriores e uma piscina infantil formam o seu coração, e os quartos comunicantes facilitam as estadias em família."
       },
       "intro": {
         "en": "Lodomar sits in San Pedro del Pinatar at the calm northern end of the Mar Menor, next to the regional salt-marsh park famous for its therapeutic mud. It is a proper spa hotel, and the standout is a marine thalasso circuit filled with warm salt water drawn from the lagoon marshes. For families there are two outdoor pools, a children's pool, a summer kids programme for four to twelve year olds and the option of a self-catering apartment. The shallow lagoon beaches and the natural mud baths are a short drive or cycle away through the salt flats.",
-        "fr": "Le Lodomar se trouve à San Pedro del Pinatar, à l'extrémité nord calme du Mar Menor, à côté du parc régional des salines réputé pour sa boue thérapeutique. C'est un vrai hôtel spa, et le point fort est un circuit de thalasso marine rempli d'eau salée chaude puisée dans les marais du lagon. Pour les familles, il y a deux piscines extérieures, une pataugeoire, un programme enfants l'été pour les quatre à douze ans et la possibilité d'un appartement en location libre. Les plages peu profondes du lagon et les bains de boue naturels sont à quelques minutes en voiture ou à vélo à travers les salines."
+        "fr": "Le Lodomar se trouve à San Pedro del Pinatar, à l'extrémité nord calme du Mar Menor, à côté du parc régional des salines réputé pour sa boue thérapeutique. C'est un vrai hôtel spa, et le point fort est un circuit de thalasso marine rempli d'eau salée chaude puisée dans les marais du lagon. Pour les familles, il y a deux piscines extérieures, une pataugeoire, un programme enfants l'été pour les quatre à douze ans et la possibilité d'un appartement en location libre. Les plages peu profondes du lagon et les bains de boue naturels sont à quelques minutes en voiture ou à vélo à travers les salines.",
+        "it": "Il Lodomar si trova a San Pedro del Pinatar, all'estremità nord tranquilla del Mar Menor, accanto al parco regionale delle saline, famoso per il suo fango terapeutico. È un vero hotel con spa, e il punto forte è un circuito di talassoterapia marina riempito con acqua salata calda attinta dalle paludi della laguna. Per le famiglie ci sono due piscine all'aperto, una piscina per bambini, un programma estivo per bimbi dai quattro ai dodici anni e la possibilità di un appartamento con angolo cottura. Le spiagge basse della laguna e i bagni di fango naturali sono a pochi minuti in auto o in bici attraverso le saline.",
+        "de": "Das Lodomar liegt in San Pedro del Pinatar am ruhigen Nordende des Mar Menor, neben dem regionalen Salzsumpfpark, der für seinen therapeutischen Schlamm berühmt ist. Es ist ein echtes Spa-Hotel, und das Highlight ist ein mariner Thalasso-Parcours, gefüllt mit warmem Salzwasser aus den Lagunensümpfen. Für Familien gibt es zwei Außenpools, einen Kinderpool, ein sommerliches Kinderprogramm für Vier- bis Zwölfjährige und die Option auf ein Apartment mit Selbstverpflegung. Die flachen Lagunenstrände und die natürlichen Schlammbäder sind eine kurze Auto- oder Radfahrt durch die Salzflächen entfernt.",
+        "es": "El Lodomar se sitúa en San Pedro del Pinatar, en el tranquilo extremo norte del Mar Menor, junto al parque regional de las salinas, famoso por su barro terapéutico. Es un auténtico hotel con spa, y lo más destacado es un circuito de talasoterapia marina lleno de agua salada cálida extraída de las marismas de la laguna. Para las familias hay dos piscinas exteriores, una piscina infantil, un programa de verano para niños de cuatro a doce años y la opción de un apartamento con cocina. Las playas poco profundas de la laguna y los baños de barro naturales están a unos minutos en coche o en bici a través de las salinas.",
+        "pt": "O Lodomar fica em San Pedro del Pinatar, no tranquilo extremo norte do Mar Menor, junto ao parque regional das salinas, famoso pela sua lama terapêutica. É um verdadeiro hotel com spa, e o ponto forte é um circuito de talassoterapia marinha cheio de água salgada quente retirada dos pauis da laguna. Para as famílias há duas piscinas exteriores, uma piscina infantil, um programa de verão para crianças dos quatro aos doze anos e a opção de um apartamento com cozinha. As praias pouco profundas da laguna e os banhos de lama naturais ficam a poucos minutos de carro ou de bicicleta pelas salinas."
       },
       "highlights": {
         "en": [
@@ -955,6 +1687,30 @@
           "Deux piscines extérieures et une pataugeoire",
           "Appartements en location libre en plus des chambres",
           "Programme enfants l'été pour les quatre à douze ans"
+        ],
+        "it": [
+          "Spa di talassoterapia marina con acqua salata calda della laguna",
+          "Due piscine all'aperto e una piscina per bambini",
+          "Appartamenti con angolo cottura oltre alle camere",
+          "Programma estivo per bambini dai quattro ai dodici anni"
+        ],
+        "de": [
+          "Marines Thalasso-Spa mit warmem Salzwasser der Lagune",
+          "Zwei Außenpools plus ein Kinderpool",
+          "Apartments mit Selbstverpflegung sowie Zimmer",
+          "Sommerliches Kinderprogramm für vier bis zwölf Jahre"
+        ],
+        "es": [
+          "Spa de talasoterapia marina con agua salada cálida de la laguna",
+          "Dos piscinas exteriores y una piscina infantil",
+          "Apartamentos con cocina además de las habitaciones",
+          "Programa de verano para niños de cuatro a doce años"
+        ],
+        "pt": [
+          "Spa de talassoterapia marinha com água salgada quente da laguna",
+          "Duas piscinas exteriores e uma piscina infantil",
+          "Apartamentos com cozinha além dos quartos",
+          "Programa de verão para crianças dos quatro aos doze anos"
         ]
       },
       "pros": {
@@ -969,6 +1725,30 @@
           "Option cuisine idéale avec un bébé",
           "Extrémité nord du lagon, calme et peu fréquentée",
           "Près des célèbres bains de boue naturels"
+        ],
+        "it": [
+          "Circuito di talassoterapia con acqua salata calda per i genitori",
+          "Opzione cucina ideale con un neonato",
+          "Estremità nord della laguna, calma e poco affollata",
+          "Vicino ai famosi bagni di fango naturali"
+        ],
+        "de": [
+          "Warmer Salzwasser-Thalasso-Parcours für die Eltern",
+          "Küchenoption ideal mit einem Baby",
+          "Ruhiges, wenig überlaufenes Nordende der Lagune",
+          "Nahe den berühmten natürlichen Schlammbädern"
+        ],
+        "es": [
+          "Circuito de talasoterapia con agua salada cálida para los padres",
+          "Opción con cocina ideal con un bebé",
+          "Extremo norte de la laguna, tranquilo y poco concurrido",
+          "Cerca de los famosos baños de barro naturales"
+        ],
+        "pt": [
+          "Circuito de talassoterapia com água salgada quente para os pais",
+          "Opção com cozinha ideal com um bebé",
+          "Extremo norte da laguna, calmo e pouco movimentado",
+          "Perto dos famosos banhos de lama naturais"
         ]
       },
       "cons": {
@@ -981,59 +1761,119 @@
           "Pas sur la plage même, à quelques minutes en voiture ou à vélo",
           "Ville plus tranquille, moins d'animation le soir juste devant",
           "Le programme enfants tourne surtout en juillet et août"
+        ],
+        "it": [
+          "Non sulla spiaggia stessa, a pochi minuti in auto o in bici",
+          "Cittadina più tranquilla, con meno animazione la sera proprio davanti",
+          "Il programma per bambini funziona soprattutto a luglio e agosto"
+        ],
+        "de": [
+          "Nicht direkt am Strand, eine kurze Auto- oder Radfahrt entfernt",
+          "Ruhigerer Ort mit weniger direkt vor der Tür am Abend",
+          "Das Kinderprogramm läuft hauptsächlich im Juli und August"
+        ],
+        "es": [
+          "No en la playa misma, a unos minutos en coche o en bici",
+          "Pueblo más tranquilo, con menos ambiente por la noche justo delante",
+          "El programa para niños funciona sobre todo en julio y agosto"
+        ],
+        "pt": [
+          "Não na praia em si, a poucos minutos de carro ou de bicicleta",
+          "Vila mais tranquila, com menos animação à noite mesmo à frente",
+          "O programa para crianças funciona sobretudo em julho e agosto"
         ]
       },
       "verdict": {
         "en": "The pick for a calmer, wellness-leaning family week: a warm saltwater spa for you, pools and a kids club for them, and an apartment kitchen when a baby makes room service tiresome.",
-        "fr": "Le choix pour une semaine en famille plus calme et orientée bien-être : un spa d'eau salée chaude pour vous, des piscines et un club enfants pour eux, et une cuisine d'appartement quand un bébé rend le room service pénible."
+        "fr": "Le choix pour une semaine en famille plus calme et orientée bien-être : un spa d'eau salée chaude pour vous, des piscines et un club enfants pour eux, et une cuisine d'appartement quand un bébé rend le room service pénible.",
+        "it": "La scelta per una settimana in famiglia più tranquilla e orientata al benessere: una spa di acqua salata calda per voi, piscine e un club per bambini per loro, e una cucina in appartamento quando un neonato rende faticoso il servizio in camera.",
+        "de": "Die Wahl für eine ruhigere, wellnessorientierte Familienwoche: ein warmes Salzwasser-Spa für euch, Pools und ein Kinderclub für sie, und eine Apartmentküche, wenn ein Baby den Zimmerservice mühsam macht.",
+        "es": "La elección para una semana en familia más tranquila y orientada al bienestar: un spa de agua salada cálida para vosotros, piscinas y un club de niños para ellos, y una cocina de apartamento cuando un bebé hace pesado el servicio de habitaciones.",
+        "pt": "A escolha para uma semana em família mais tranquila e orientada para o bem-estar: um spa de água salgada quente para vós, piscinas e um clube de crianças para eles, e uma cozinha de apartamento quando um bebé torna o serviço de quartos cansativo."
       },
       "parentTip": {
         "en": "Rent bikes and roll through the salt flats to the Lo Pagán mud beach: the little ones love the flamingos, and the shallow lagoon there is another gentle paddling spot.",
-        "fr": "Louez des vélos et roulez à travers les salines jusqu'à la plage de boue de Lo Pagán : les petits adorent les flamants roses, et le lagon peu profond y est un autre coin de baignade tout doux."
+        "fr": "Louez des vélos et roulez à travers les salines jusqu'à la plage de boue de Lo Pagán : les petits adorent les flamants roses, et le lagon peu profond y est un autre coin de baignade tout doux.",
+        "it": "Noleggiate le bici e pedalate attraverso le saline fino alla spiaggia di fango di Lo Pagán: i piccoli adorano i fenicotteri, e la laguna bassa lì è un altro angolo di bagnetto tutto dolce.",
+        "de": "Mietet Fahrräder und rollt durch die Salzflächen zum Schlammstrand von Lo Pagán: Die Kleinen lieben die Flamingos, und die flache Lagune dort ist ein weiterer sanfter Planschort.",
+        "es": "Alquilad bicis y rodad a través de las salinas hasta la playa de barro de Lo Pagán: a los pequeños les encantan los flamencos, y la laguna poco profunda allí es otro rincón de chapoteo bien suave.",
+        "pt": "Aluguem bicicletas e pedalem pelas salinas até à praia de lama de Lo Pagán: os pequenos adoram os flamingos, e a laguna pouco profunda ali é outro cantinho de mergulho bem suave."
       },
       "atAGlance": [
         {
           "icon": "💧",
           "label": {
             "en": "Thalasso",
-            "fr": "Thalasso"
+            "fr": "Thalasso",
+            "it": "Talassoterapia",
+            "de": "Thalasso",
+            "es": "Talasoterapia",
+            "pt": "Talassoterapia"
           },
           "value": {
             "en": "Warm saltwater spa circuit",
-            "fr": "Circuit spa à l'eau salée chaude"
+            "fr": "Circuit spa à l'eau salée chaude",
+            "it": "Circuito spa con acqua salata calda",
+            "de": "Warmer Salzwasser-Spa-Parcours",
+            "es": "Circuito spa con agua salada cálida",
+            "pt": "Circuito de spa com água salgada quente"
           }
         },
         {
           "icon": "🍳",
           "label": {
             "en": "Apartments",
-            "fr": "Appartements"
+            "fr": "Appartements",
+            "it": "Appartamenti",
+            "de": "Apartments",
+            "es": "Apartamentos",
+            "pt": "Apartamentos"
           },
           "value": {
             "en": "Self-catering option with a kitchen",
-            "fr": "Option location libre avec cuisine"
+            "fr": "Option location libre avec cuisine",
+            "it": "Opzione con angolo cottura e cucina",
+            "de": "Selbstverpflegungsoption mit einer Küche",
+            "es": "Opción con cocina",
+            "pt": "Opção com cozinha"
           }
         },
         {
           "icon": "🏊",
           "label": {
             "en": "Pools",
-            "fr": "Piscines"
+            "fr": "Piscines",
+            "it": "Piscine",
+            "de": "Pools",
+            "es": "Piscinas",
+            "pt": "Piscinas"
           },
           "value": {
             "en": "Two outdoor pools plus a children's pool",
-            "fr": "Deux piscines extérieures et une pataugeoire"
+            "fr": "Deux piscines extérieures et une pataugeoire",
+            "it": "Due piscine all'aperto e una piscina per bambini",
+            "de": "Zwei Außenpools plus ein Kinderpool",
+            "es": "Dos piscinas exteriores y una piscina infantil",
+            "pt": "Duas piscinas exteriores e uma piscina infantil"
           }
         },
         {
           "icon": "🦩",
           "label": {
             "en": "Nature",
-            "fr": "Nature"
+            "fr": "Nature",
+            "it": "Natura",
+            "de": "Natur",
+            "es": "Naturaleza",
+            "pt": "Natureza"
           },
           "value": {
             "en": "Salt-marsh park and flamingos nearby",
-            "fr": "Parc des salines et flamants tout près"
+            "fr": "Parc des salines et flamants tout près",
+            "it": "Parco delle saline e fenicotteri nelle vicinanze",
+            "de": "Salzsumpfpark und Flamingos in der Nähe",
+            "es": "Parque de las salinas y flamencos cerca",
+            "pt": "Parque das salinas e flamingos por perto"
           }
         }
       ],
@@ -1041,31 +1881,55 @@
         {
           "q": {
             "en": "Is the hotel on the beach?",
-            "fr": "L'hôtel est-il sur la plage?"
+            "fr": "L'hôtel est-il sur la plage?",
+            "it": "L'hotel è sulla spiaggia?",
+            "de": "Liegt das Hotel am Strand?",
+            "es": "¿El hotel está en la playa?",
+            "pt": "O hotel fica na praia?"
           },
           "a": {
             "en": "Not directly. It sits inland by the salt-marsh park, with the shallow lagoon beaches and the Lo Pagán mud baths a short drive or a flat bike ride away.",
-            "fr": "Pas directement. Il est en retrait, près du parc des salines, avec les plages peu profondes du lagon et les bains de boue de Lo Pagán à quelques minutes en voiture ou à vélo sur le plat."
+            "fr": "Pas directement. Il est en retrait, près du parc des salines, avec les plages peu profondes du lagon et les bains de boue de Lo Pagán à quelques minutes en voiture ou à vélo sur le plat.",
+            "it": "Non direttamente. Si trova nell'entroterra, vicino al parco delle saline, con le spiagge basse della laguna e i bagni di fango di Lo Pagán a pochi minuti in auto o in bici in piano.",
+            "de": "Nicht direkt. Es liegt landeinwärts beim Salzsumpfpark, mit den flachen Lagunenstränden und den Schlammbädern von Lo Pagán eine kurze Autofahrt oder eine ebene Radtour entfernt.",
+            "es": "No directamente. Se sitúa tierra adentro junto al parque de las salinas, con las playas poco profundas de la laguna y los baños de barro de Lo Pagán a unos minutos en coche o en un trayecto en bici en llano.",
+            "pt": "Não diretamente. Fica no interior junto ao parque das salinas, com as praias pouco profundas da laguna e os banhos de lama de Lo Pagán a poucos minutos de carro ou num percurso de bicicleta em plano."
           }
         },
         {
           "q": {
             "en": "Are there apartments with a kitchen?",
-            "fr": "Y a-t-il des appartements avec cuisine?"
+            "fr": "Y a-t-il des appartements avec cuisine?",
+            "it": "Ci sono appartamenti con cucina?",
+            "de": "Gibt es Apartments mit Küche?",
+            "es": "¿Hay apartamentos con cocina?",
+            "pt": "Há apartamentos com cozinha?"
           },
           "a": {
             "en": "Yes, alongside the hotel rooms and junior suites there is a set of self-catering apartments, which many parents prefer for warming bottles and preparing simple meals for a baby.",
-            "fr": "Oui, à côté des chambres et des junior suites, il y a un ensemble d'appartements en location libre, que beaucoup de parents préfèrent pour réchauffer les biberons et préparer des repas simples pour un bébé."
+            "fr": "Oui, à côté des chambres et des junior suites, il y a un ensemble d'appartements en location libre, que beaucoup de parents préfèrent pour réchauffer les biberons et préparer des repas simples pour un bébé.",
+            "it": "Sì, oltre alle camere dell'hotel e alle junior suite c'è una serie di appartamenti con angolo cottura, che molti genitori preferiscono per scaldare i biberon e preparare pasti semplici per un neonato.",
+            "de": "Ja, neben den Hotelzimmern und Junior-Suiten gibt es eine Reihe von Apartments mit Selbstverpflegung, die viele Eltern zum Erwärmen von Fläschchen und Zubereiten einfacher Mahlzeiten für ein Baby bevorzugen.",
+            "es": "Sí, junto a las habitaciones del hotel y las junior suites hay un conjunto de apartamentos con cocina, que muchos padres prefieren para calentar biberones y preparar comidas sencillas para un bebé.",
+            "pt": "Sim, a par dos quartos do hotel e das junior suites há um conjunto de apartamentos com cozinha, que muitos pais preferem para aquecer biberões e preparar refeições simples para um bebé."
           }
         },
         {
           "q": {
             "en": "Does it have activities for children?",
-            "fr": "Propose-t-il des activités pour les enfants?"
+            "fr": "Propose-t-il des activités pour les enfants?",
+            "it": "Propone attività per bambini?",
+            "de": "Gibt es Aktivitäten für Kinder?",
+            "es": "¿Tiene actividades para niños?",
+            "pt": "Tem atividades para crianças?"
           },
           "a": {
             "en": "There is a children's pool year-round and a supervised kids programme for four to twelve year olds during July and August, plus children's menus at mealtimes.",
-            "fr": "Il y a une pataugeoire toute l'année et un programme enfants encadré pour les quatre à douze ans en juillet et août, ainsi que des menus enfants aux repas."
+            "fr": "Il y a une pataugeoire toute l'année et un programme enfants encadré pour les quatre à douze ans en juillet et août, ainsi que des menus enfants aux repas.",
+            "it": "C'è una piscina per bambini tutto l'anno e un programma per bambini con animatori per i quattro-dodici anni durante luglio e agosto, oltre a menù per bambini ai pasti.",
+            "de": "Es gibt einen Kinderpool das ganze Jahr über und ein betreutes Kinderprogramm für Vier- bis Zwölfjährige im Juli und August, dazu Kindermenüs zu den Mahlzeiten.",
+            "es": "Hay una piscina infantil todo el año y un programa para niños con monitores para los de cuatro a doce años durante julio y agosto, además de menús infantiles en las comidas.",
+            "pt": "Há uma piscina infantil todo o ano e um programa para crianças com monitores para os dos quatro aos doze anos durante julho e agosto, além de menus infantis às refeições."
           }
         }
       ]
@@ -1076,7 +1940,11 @@
       "name": "La Manga Club",
       "area": {
         "en": "Los Belones (Cartagena)",
-        "fr": "Los Belones (Cartagena)"
+        "fr": "Los Belones (Cartagena)",
+        "it": "Los Belones (Cartagena)",
+        "de": "Los Belones (Cartagena)",
+        "es": "Los Belones (Cartagena)",
+        "pt": "Los Belones (Cartagena)"
       },
       "lat": 37.626,
       "lng": -0.735,
@@ -1116,11 +1984,19 @@
       },
       "roomsSummary": {
         "en": "A vast resort estate above the Mar Menor with hotel rooms, apartments and villas, many with their own kitchen and pool. Family accommodation is generous and the self-catering options suit longer stays, though the layout is spread out and a car or the resort shuttle helps.",
-        "fr": "Un immense domaine au-dessus du Mar Menor avec chambres d'hôtel, appartements et villas, beaucoup avec cuisine et piscine privées. L'hébergement familial est généreux et les options en location libre conviennent aux longs séjours, même si le domaine est étendu et qu'une voiture ou la navette du resort est bien utile."
+        "fr": "Un immense domaine au-dessus du Mar Menor avec chambres d'hôtel, appartements et villas, beaucoup avec cuisine et piscine privées. L'hébergement familial est généreux et les options en location libre conviennent aux longs séjours, même si le domaine est étendu et qu'une voiture ou la navette du resort est bien utile.",
+        "it": "Una vasta tenuta resort sopra il Mar Menor con camere d'hotel, appartamenti e ville, molti con cucina e piscina propria. La sistemazione per le famiglie è generosa e le opzioni con angolo cottura si adattano ai soggiorni più lunghi, anche se la disposizione è ampia e una macchina o la navetta del resort è d'aiuto.",
+        "de": "Ein weitläufiges Resortgelände über dem Mar Menor mit Hotelzimmern, Apartments und Villen, viele mit eigener Küche und eigenem Pool. Die Familienunterkünfte sind großzügig und die Selbstverpflegungsoptionen passen zu längeren Aufenthalten, auch wenn das Gelände ausgedehnt ist und ein Auto oder der Resort-Shuttle hilft.",
+        "es": "Una vasta finca resort sobre el Mar Menor con habitaciones de hotel, apartamentos y villas, muchos con cocina y piscina propias. El alojamiento para familias es generoso y las opciones con cocina se adaptan a las estancias más largas, aunque la distribución es amplia y un coche o la lanzadera del resort ayuda.",
+        "pt": "Uma vasta propriedade resort sobre o Mar Menor com quartos de hotel, apartamentos e moradias, muitos com cozinha e piscina próprias. O alojamento para famílias é generoso e as opções com cozinha adaptam-se às estadias mais longas, embora a disposição seja ampla e um carro ou o transfer do resort seja útil."
       },
       "intro": {
         "en": "La Manga Club is the region's big premium resort, a huge estate of golf, tennis, football pitches and pools set in the hills just above the lagoon. For families it is a proper activity playground: supervised kids clubs, junior academies in golf, tennis and football, a climbing wall, crazy golf and go-karts, ideal for energetic kids and teens. It is not a toddler-on-the-beach hotel, the shallow lagoon beaches are a short drive or shuttle away, but for a sporty family holiday with facilities for every age, nothing else here comes close.",
-        "fr": "La Manga Club est le grand resort haut de gamme de la région, un immense domaine de golf, tennis, terrains de football et piscines niché dans les collines juste au-dessus du lagon. Pour les familles, c'est un vrai terrain de jeu : clubs enfants encadrés, académies juniors de golf, tennis et football, mur d'escalade, mini golf et karting, idéal pour les enfants pleins d'énergie et les ados. Ce n'est pas un hôtel de tout-petits au bord de l'eau, les plages peu profondes du lagon sont à quelques minutes en voiture ou en navette, mais pour des vacances familiales sportives avec des équipements pour tous les âges, rien d'autre ici n'approche."
+        "fr": "La Manga Club est le grand resort haut de gamme de la région, un immense domaine de golf, tennis, terrains de football et piscines niché dans les collines juste au-dessus du lagon. Pour les familles, c'est un vrai terrain de jeu : clubs enfants encadrés, académies juniors de golf, tennis et football, mur d'escalade, mini golf et karting, idéal pour les enfants pleins d'énergie et les ados. Ce n'est pas un hôtel de tout-petits au bord de l'eau, les plages peu profondes du lagon sont à quelques minutes en voiture ou en navette, mais pour des vacances familiales sportives avec des équipements pour tous les âges, rien d'autre ici n'approche.",
+        "it": "La Manga Club è il grande resort premium della regione, un'enorme tenuta di golf, tennis, campi da calcio e piscine immersa nelle colline appena sopra la laguna. Per le famiglie è un vero terreno di gioco per le attività: club per bambini con animatori, accademie junior di golf, tennis e calcio, una parete di arrampicata, minigolf e go-kart, ideale per bambini pieni di energia e ragazzi. Non è un hotel da tutto-piccolo-in-spiaggia, le spiagge basse della laguna sono a pochi minuti in auto o in navetta, ma per una vacanza in famiglia sportiva con strutture per ogni età, niente altro qui si avvicina.",
+        "de": "La Manga Club ist das große Premium-Resort der Region, ein riesiges Anwesen aus Golf, Tennis, Fußballplätzen und Pools in den Hügeln direkt über der Lagune. Für Familien ist es ein echter Aktivitätsspielplatz: betreute Kinderclubs, Junior-Akademien in Golf, Tennis und Fußball, eine Kletterwand, Minigolf und Gokarts, ideal für energiegeladene Kinder und Teenager. Es ist kein Kleinkind-am-Strand-Hotel, die flachen Lagunenstrände sind eine kurze Auto- oder Shuttlefahrt entfernt, aber für einen sportlichen Familienurlaub mit Einrichtungen für jedes Alter kommt hier nichts anderes heran.",
+        "es": "La Manga Club es el gran resort premium de la región, una enorme finca de golf, tenis, campos de fútbol y piscinas enclavada en las colinas justo sobre la laguna. Para las familias es un auténtico parque de actividades: clubes infantiles con monitores, academias junior de golf, tenis y fútbol, un rocódromo, minigolf y karts, ideal para niños llenos de energía y adolescentes. No es un hotel de pequeños en la playa, las playas poco profundas de la laguna están a unos minutos en coche o en lanzadera, pero para unas vacaciones familiares deportivas con instalaciones para todas las edades, nada más aquí se le acerca.",
+        "pt": "La Manga Club é o grande resort premium da região, uma enorme propriedade de golfe, ténis, campos de futebol e piscinas encravada nas colinas mesmo acima da laguna. Para as famílias é um verdadeiro recreio de atividades: clubes infantis com monitores, academias júnior de golfe, ténis e futebol, uma parede de escalada, minigolfe e karts, ideal para crianças cheias de energia e adolescentes. Não é um hotel de criança pequena na praia, as praias pouco profundas da laguna ficam a poucos minutos de carro ou de transfer, mas para umas férias de família desportivas com instalações para todas as idades, nada mais aqui se aproxima."
       },
       "highlights": {
         "en": [
@@ -1134,6 +2010,30 @@
           "Immense choix de piscines, sports et activités",
           "Villas et appartements avec cuisine pour les longs séjours",
           "De quoi occuper tous les âges, des tout-petits aux ados"
+        ],
+        "it": [
+          "Club per bambini e accademie junior di golf, tennis e calcio",
+          "Enorme scelta di piscine, sport e attività",
+          "Ville e appartamenti con cucina per i soggiorni più lunghi",
+          "Qualcosa per ogni età, dai piccolissimi ai ragazzi"
+        ],
+        "de": [
+          "Kinderclubs plus Junior-Akademien in Golf, Tennis und Fußball",
+          "Riesige Auswahl an Pools, Sport und Aktivitäten",
+          "Villen und Apartments mit Küchen für längere Aufenthalte",
+          "Für jedes Alter etwas, von Kleinkindern bis Teenagern"
+        ],
+        "es": [
+          "Clubes infantiles y academias junior de golf, tenis y fútbol",
+          "Enorme elección de piscinas, deportes y actividades",
+          "Villas y apartamentos con cocina para las estancias más largas",
+          "Algo para cada edad, de los más pequeños a los adolescentes"
+        ],
+        "pt": [
+          "Clubes infantis e academias júnior de golfe, ténis e futebol",
+          "Enorme variedade de piscinas, desportos e atividades",
+          "Moradias e apartamentos com cozinha para as estadias mais longas",
+          "Algo para todas as idades, dos mais pequenos aos adolescentes"
         ]
       },
       "pros": {
@@ -1148,6 +2048,30 @@
           "Options en location libre spacieuses sur tout le domaine",
           "Hébergement et restauration de bon niveau",
           "Idéal pour les familles avec des âges très différents"
+        ],
+        "it": [
+          "Gamma impareggiabile di sport e attività per bambini e ragazzi",
+          "Opzioni spaziose con angolo cottura in tutta la tenuta",
+          "Alto standard di sistemazione e ristorazione",
+          "Ottimo per le famiglie con età molto diverse"
+        ],
+        "de": [
+          "Unübertroffene Bandbreite an Sport und Aktivitäten für Kinder und Teenager",
+          "Geräumige Selbstverpflegungsoptionen über das ganze Gelände",
+          "Hoher Standard bei Unterkunft und Verpflegung",
+          "Toll für Familien mit großer Altersspanne"
+        ],
+        "es": [
+          "Gama inigualable de deporte y actividades para niños y adolescentes",
+          "Opciones amplias con cocina por toda la finca",
+          "Alto nivel de alojamiento y restauración",
+          "Estupendo para familias con edades muy distintas"
+        ],
+        "pt": [
+          "Leque incomparável de desportos e atividades para crianças e adolescentes",
+          "Opções espaçosas com cozinha por toda a propriedade",
+          "Alto nível de alojamento e restauração",
+          "Ótimo para famílias com idades muito diferentes"
         ]
       },
       "cons": {
@@ -1162,59 +2086,123 @@
           "Domaine étendu, plus facile avec une voiture de location",
           "Les académies enfants et beaucoup d'activités sont en supplément",
           "Plus cher que les hôtels de ville en front de lagon"
+        ],
+        "it": [
+          "Non sulla spiaggia, la laguna è a pochi minuti in auto o in navetta",
+          "Tenuta ampia, più facile con un'auto a noleggio",
+          "Le accademie per bambini e molte attività costano in più",
+          "Più caro degli hotel di città fronte laguna"
+        ],
+        "de": [
+          "Nicht am Strand, die Lagune ist eine Auto- oder Shuttlefahrt entfernt",
+          "Weitläufiges Gelände, einfacher mit einem Mietwagen",
+          "Kinderakademien und viele Aktivitäten kosten extra",
+          "Teurer als die Stadthotels an der Lagune"
+        ],
+        "es": [
+          "No en la playa, la laguna está a unos minutos en coche o en lanzadera",
+          "Finca extensa, más fácil con un coche de alquiler",
+          "Las academias para niños y muchas actividades cuestan aparte",
+          "Más caro que los hoteles de pueblo frente a la laguna"
+        ],
+        "pt": [
+          "Não na praia, a laguna fica a poucos minutos de carro ou de transfer",
+          "Propriedade extensa, mais fácil com um carro alugado",
+          "As academias para crianças e muitas atividades custam à parte",
+          "Mais caro do que os hotéis de vila em frente à laguna"
         ]
       },
       "verdict": {
         "en": "The one for active families with older kids or a broad age range. Less about toddler paddling, all about filling busy days with sport and space, then driving down to the shallow lagoon when you want the beach.",
-        "fr": "Celui des familles actives avec de grands enfants ou des âges très variés. Moins pour la baignade des tout-petits, tout pour remplir des journées bien occupées de sport et d'espace, avant de descendre au lagon peu profond quand vous voulez la plage."
+        "fr": "Celui des familles actives avec de grands enfants ou des âges très variés. Moins pour la baignade des tout-petits, tout pour remplir des journées bien occupées de sport et d'espace, avant de descendre au lagon peu profond quand vous voulez la plage.",
+        "it": "Quello per le famiglie attive con figli più grandi o con età molto varie. Meno per i bagnetti dei piccolissimi, tutto per riempire giornate ricche di sport e spazio, per poi scendere alla laguna bassa quando volete la spiaggia.",
+        "de": "Das Richtige für aktive Familien mit älteren Kindern oder großer Altersspanne. Weniger für das Planschen der Kleinsten, ganz auf das Füllen betriebsamer Tage mit Sport und Platz ausgerichtet, und dann fahrt ihr zur flachen Lagune hinunter, wenn ihr den Strand wollt.",
+        "es": "El indicado para familias activas con niños mayores o con un abanico amplio de edades. Menos sobre el chapoteo de los más pequeños, todo sobre llenar días ajetreados de deporte y espacio, y luego bajar a la laguna poco profunda cuando queréis la playa.",
+        "pt": "O indicado para famílias ativas com filhos mais crescidos ou com um leque alargado de idades. Menos sobre o mergulho dos mais pequenos, tudo sobre encher dias preenchidos de desporto e espaço, e depois descer à laguna pouco profunda quando querem a praia."
       },
       "parentTip": {
         "en": "Book an apartment or villa with a kitchen and its own pool: with a baby or toddler in the mix, having your own splash pool on site beats trekking to the beach every day.",
-        "fr": "Réservez un appartement ou une villa avec cuisine et piscine privée : avec un bébé ou un tout-petit dans l'équation, avoir sa propre petite piscine sur place vaut mieux que d'aller à la plage chaque jour."
+        "fr": "Réservez un appartement ou une villa avec cuisine et piscine privée : avec un bébé ou un tout-petit dans l'équation, avoir sa propre petite piscine sur place vaut mieux que d'aller à la plage chaque jour.",
+        "it": "Prenotate un appartamento o una villa con cucina e piscina propria: con un neonato o un bimbo piccolo nel gruppo, avere la vostra piccola piscina in loco batte l'andare in spiaggia ogni giorno.",
+        "de": "Bucht ein Apartment oder eine Villa mit Küche und eigenem Pool: Mit einem Baby oder Kleinkind dabei schlägt ein eigener Planschpool vor Ort das tägliche Trekking zum Strand.",
+        "es": "Reservad un apartamento o una villa con cocina y piscina propia: con un bebé o un niño pequeño en el grupo, tener vuestra propia piscina para chapotear en el recinto supera ir a la playa cada día.",
+        "pt": "Reservem um apartamento ou uma moradia com cozinha e piscina própria: com um bebé ou uma criança pequena no grupo, ter a vossa própria piscina para chapinhar no local é melhor do que ir à praia todos os dias."
       },
       "atAGlance": [
         {
           "icon": "⚽",
           "label": {
             "en": "Activities",
-            "fr": "Activités"
+            "fr": "Activités",
+            "it": "Attività",
+            "de": "Aktivitäten",
+            "es": "Actividades",
+            "pt": "Atividades"
           },
           "value": {
             "en": "Golf, tennis, football, go-karts and more",
-            "fr": "Golf, tennis, football, karting et plus"
+            "fr": "Golf, tennis, football, karting et plus",
+            "it": "Golf, tennis, calcio, go-kart e altro",
+            "de": "Golf, Tennis, Fußball, Go-Karts und mehr",
+            "es": "Golf, tenis, fútbol, karts y más",
+            "pt": "Golfe, ténis, futebol, karts e muito mais"
           }
         },
         {
           "icon": "🧒",
           "label": {
             "en": "Kids clubs",
-            "fr": "Clubs enfants"
+            "fr": "Clubs enfants",
+            "it": "Club per bambini",
+            "de": "Kinderclubs",
+            "es": "Clubes infantiles",
+            "pt": "Clubes infantis"
           },
           "value": {
             "en": "Supervised clubs and junior academies",
-            "fr": "Clubs encadrés et académies juniors"
+            "fr": "Clubs encadrés et académies juniors",
+            "it": "Club con animatori e accademie junior",
+            "de": "Betreute Clubs und Junior-Akademien",
+            "es": "Clubes supervisados y academias junior",
+            "pt": "Clubes supervisionados e academias júnior"
           }
         },
         {
           "icon": "🏡",
           "label": {
             "en": "Stay",
-            "fr": "Hébergement"
+            "fr": "Hébergement",
+            "it": "Alloggio",
+            "de": "Unterkunft",
+            "es": "Alojamiento",
+            "pt": "Alojamento"
           },
           "value": {
             "en": "Rooms, apartments and villas with pools",
-            "fr": "Chambres, appartements et villas avec piscine"
+            "fr": "Chambres, appartements et villas avec piscine",
+            "it": "Camere, appartamenti e ville con piscina",
+            "de": "Zimmer, Apartments und Villen mit Pool",
+            "es": "Habitaciones, apartamentos y villas con piscina",
+            "pt": "Quartos, apartamentos e villas com piscina"
           }
         },
         {
           "icon": "🏖️",
           "label": {
             "en": "Beach",
-            "fr": "Plage"
+            "fr": "Plage",
+            "it": "Spiaggia",
+            "de": "Strand",
+            "es": "Playa",
+            "pt": "Praia"
           },
           "value": {
             "en": "Shallow lagoon a short drive or shuttle",
-            "fr": "Lagon peu profond en voiture ou navette"
+            "fr": "Lagon peu profond en voiture ou navette",
+            "it": "Laguna poco profonda a breve distanza in auto o navetta",
+            "de": "Flache Lagune eine kurze Fahrt oder Shuttle entfernt",
+            "es": "Laguna poco profunda a poca distancia en coche o lanzadera",
+            "pt": "Lagoa pouco profunda a curta distância de carro ou shuttle"
           }
         }
       ],
@@ -1222,31 +2210,55 @@
         {
           "q": {
             "en": "Is La Manga Club on the beach?",
-            "fr": "La Manga Club est-il au bord de la plage?"
+            "fr": "La Manga Club est-il au bord de la plage?",
+            "it": "La Manga Club è sulla spiaggia?",
+            "de": "Liegt der La Manga Club am Strand?",
+            "es": "¿Está La Manga Club en la playa?",
+            "pt": "O La Manga Club fica na praia?"
           },
           "a": {
             "en": "No, the resort sits in the hills above the coast. It runs a shuttle and has its own beach club, and the shallow Mar Menor lagoon beaches are a short drive down, so a hire car is handy.",
-            "fr": "Non, le resort est dans les collines au-dessus de la côte. Il propose une navette et dispose de son propre beach club, et les plages peu profondes du lagon du Mar Menor sont à quelques minutes en voiture, une voiture de location est donc pratique."
+            "fr": "Non, le resort est dans les collines au-dessus de la côte. Il propose une navette et dispose de son propre beach club, et les plages peu profondes du lagon du Mar Menor sont à quelques minutes en voiture, une voiture de location est donc pratique.",
+            "it": "No, il resort si trova sulle colline sopra la costa. Offre una navetta e ha un proprio beach club, e le spiagge poco profonde della laguna del Mar Menor sono a breve distanza in auto, quindi un'auto a noleggio è comoda.",
+            "de": "Nein, das Resort liegt in den Hügeln oberhalb der Küste. Es bietet einen Shuttle und hat einen eigenen Beachclub, und die flachen Strände der Mar-Menor-Lagune sind eine kurze Fahrt entfernt, ein Mietwagen ist also praktisch.",
+            "es": "No, el resort se ubica en las colinas sobre la costa. Ofrece una lanzadera y tiene su propio club de playa, y las playas poco profundas de la laguna del Mar Menor están a poca distancia en coche, así que un coche de alquiler resulta práctico.",
+            "pt": "Não, o resort fica nas colinas acima da costa. Disponibiliza um shuttle e tem o seu próprio clube de praia, e as praias pouco profundas da lagoa do Mar Menor ficam a curta distância de carro, por isso um carro de aluguer dá jeito."
           }
         },
         {
           "q": {
             "en": "Is it worth it with very young children?",
-            "fr": "Cela vaut-il le coup avec de très jeunes enfants?"
+            "fr": "Cela vaut-il le coup avec de très jeunes enfants?",
+            "it": "Ne vale la pena con bambini molto piccoli?",
+            "de": "Lohnt es sich mit sehr kleinen Kindern?",
+            "es": "¿Merece la pena con niños muy pequeños?",
+            "pt": "Vale a pena com crianças muito pequenas?"
           },
           "a": {
             "en": "It can be, especially if you book an apartment or villa with its own pool, but toddlers get less from the sports facilities, so families chasing shallow-beach days often prefer a lagoon-front town hotel.",
-            "fr": "Cela peut valoir le coup, surtout en réservant un appartement ou une villa avec piscine privée, mais les tout-petits profitent moins des équipements sportifs, les familles en quête de journées plage peu profonde préfèrent souvent un hôtel de ville en front de lagon."
+            "fr": "Cela peut valoir le coup, surtout en réservant un appartement ou une villa avec piscine privée, mais les tout-petits profitent moins des équipements sportifs, les familles en quête de journées plage peu profonde préfèrent souvent un hôtel de ville en front de lagon.",
+            "it": "Può valerne la pena, soprattutto se prenotate un appartamento o una villa con piscina privata, ma i più piccoli sfruttano meno le strutture sportive, quindi le famiglie in cerca di giornate in spiaggia poco profonda spesso preferiscono un hotel in città fronte laguna.",
+            "de": "Es kann sich lohnen, vor allem wenn ihr ein Apartment oder eine Villa mit eigenem Pool bucht, aber Kleinkinder haben weniger von den Sportanlagen, daher bevorzugen Familien auf der Suche nach flachen Strandtagen oft ein Stadthotel direkt an der Lagune.",
+            "es": "Puede merecer la pena, sobre todo si reserváis un apartamento o una villa con piscina privada, pero los más pequeños aprovechan menos las instalaciones deportivas, así que las familias que buscan días de playa poco profunda suelen preferir un hotel de ciudad frente a la laguna.",
+            "pt": "Pode valer, sobretudo se reservarem um apartamento ou uma villa com piscina privada, mas os mais pequenos aproveitam menos as instalações desportivas, por isso as famílias à procura de dias de praia pouco profunda preferem muitas vezes um hotel de cidade em frente à lagoa."
           }
         },
         {
           "q": {
             "en": "Are the kids clubs included?",
-            "fr": "Les clubs enfants sont-ils compris?"
+            "fr": "Les clubs enfants sont-ils compris?",
+            "it": "I club per bambini sono inclusi?",
+            "de": "Sind die Kinderclubs inbegriffen?",
+            "es": "¿Están incluidos los clubes infantiles?",
+            "pt": "Os clubes infantis estão incluídos?"
           },
           "a": {
             "en": "Some supervised club sessions are included at times, but the junior golf, tennis and football academies and many activities are paid extras, so budget for them if the kids want to join in.",
-            "fr": "Certaines séances de club encadrées sont parfois comprises, mais les académies juniors de golf, tennis et football et beaucoup d'activités sont en supplément, prévoyez un budget si les enfants veulent y participer."
+            "fr": "Certaines séances de club encadrées sont parfois comprises, mais les académies juniors de golf, tennis et football et beaucoup d'activités sont en supplément, prévoyez un budget si les enfants veulent y participer.",
+            "it": "Alcune sessioni dei club con animatori sono a volte incluse, ma le accademie junior di golf, tennis e calcio e molte attività sono a pagamento, quindi mettete a budget se i bambini vogliono partecipare.",
+            "de": "Einige betreute Clubeinheiten sind zeitweise inbegriffen, aber die Junior-Akademien für Golf, Tennis und Fußball sowie viele Aktivitäten kosten extra, plant sie also ins Budget ein, wenn die Kinder mitmachen möchten.",
+            "es": "Algunas sesiones de club supervisadas están incluidas a veces, pero las academias junior de golf, tenis y fútbol y muchas actividades son de pago, así que reservad presupuesto si los niños quieren participar.",
+            "pt": "Algumas sessões de clube supervisionadas estão por vezes incluídas, mas as academias júnior de golfe, ténis e futebol e muitas atividades são pagas à parte, por isso reservem orçamento se as crianças quiserem participar."
           }
         }
       ]
@@ -1255,11 +2267,19 @@
   "destinationMeta": {
     "name": {
       "en": "Mar Menor",
-      "fr": "Mar Menor"
+      "fr": "Mar Menor",
+      "it": "Mar Menor",
+      "de": "Mar Menor",
+      "es": "Mar Menor",
+      "pt": "Mar Menor"
     },
     "country": {
       "en": "Spain",
-      "fr": "Espagne"
+      "fr": "Espagne",
+      "it": "Spagna",
+      "de": "Spanien",
+      "es": "España",
+      "pt": "Espanha"
     },
     "emoji": "🏖️",
     "accent": "e8934a",
@@ -1270,11 +2290,19 @@
     },
     "heroKicker": {
       "en": "Europe's warmest, shallowest lagoon, made for first beach days with a baby",
-      "fr": "Le lagon le plus chaud et le moins profond d'Europe, fait pour les premières journées plage avec un bébé"
+      "fr": "Le lagon le plus chaud et le moins profond d'Europe, fait pour les premières journées plage avec un bébé",
+      "it": "La laguna più calda e meno profonda d'Europa, fatta per le prime giornate in spiaggia con un neonato",
+      "de": "Europas wärmste, flachste Lagune, wie gemacht für die ersten Strandtage mit einem Baby",
+      "es": "La laguna más cálida y menos profunda de Europa, hecha para los primeros días de playa con un bebé",
+      "pt": "A lagoa mais quente e menos profunda da Europa, feita para os primeiros dias de praia com um bebé"
     },
     "intro": {
       "en": "The Mar Menor is a huge, shallow, warm saltwater lagoon on Spain's Costa Cálida, cut off from the open Mediterranean by a thin strip of land called La Manga. Because it is so shallow, the water is bath-warm and, crucially for parents, there are no waves: you can walk a toddler out a long way with the surface still around their knees. That makes it one of the very best places in Europe for a first beach holiday with a baby or a nervous small swimmer. Add mild winter sun, gentle sandy shores and family-focused resort towns, and the case for the Mar Menor with little ones almost writes itself. It is not a glamorous coast, it is a practical, reassuring one, which is exactly what you want when the swimmers are three years old.",
-      "fr": "Le Mar Menor est un immense lagon d'eau salée peu profond et chaud, sur la Costa Cálida espagnole, séparé de la Méditerranée ouverte par une mince bande de terre appelée La Manga. Comme il est si peu profond, l'eau est tiède comme un bain et, essentiel pour les parents, il n'y a pas de vagues : vous pouvez faire avancer un tout-petit très loin avec la surface encore aux genoux. Cela en fait l'un des tout meilleurs endroits d'Europe pour de premières vacances plage avec un bébé ou un petit nageur peu rassuré. Ajoutez un doux soleil d'hiver, des rives de sable douces et des villes balnéaires tournées vers les familles, et l'évidence du Mar Menor avec des petits s'impose presque d'elle-même. Ce n'est pas une côte glamour, c'est une côte pratique et rassurante, précisément ce que l'on veut quand les nageurs ont trois ans."
+      "fr": "Le Mar Menor est un immense lagon d'eau salée peu profond et chaud, sur la Costa Cálida espagnole, séparé de la Méditerranée ouverte par une mince bande de terre appelée La Manga. Comme il est si peu profond, l'eau est tiède comme un bain et, essentiel pour les parents, il n'y a pas de vagues : vous pouvez faire avancer un tout-petit très loin avec la surface encore aux genoux. Cela en fait l'un des tout meilleurs endroits d'Europe pour de premières vacances plage avec un bébé ou un petit nageur peu rassuré. Ajoutez un doux soleil d'hiver, des rives de sable douces et des villes balnéaires tournées vers les familles, et l'évidence du Mar Menor avec des petits s'impose presque d'elle-même. Ce n'est pas une côte glamour, c'est une côte pratique et rassurante, précisément ce que l'on veut quand les nageurs ont trois ans.",
+      "it": "Il Mar Menor è un'enorme laguna di acqua salata poco profonda e calda, sulla Costa Cálida spagnola, separata dal Mediterraneo aperto da una sottile striscia di terra chiamata La Manga. Essendo così poco profonda, l'acqua è tiepida come un bagno e, aspetto cruciale per i genitori, non ci sono onde: potete far camminare un bambino piccolo molto lontano con la superficie ancora all'altezza delle sue ginocchia. Questo ne fa uno dei posti migliori in assoluto in Europa per una prima vacanza in spiaggia con un neonato o un piccolo nuotatore un po' timoroso. Aggiungete il mite sole invernale, le rive di sabbia dolci e le città balneari a misura di famiglia, e le ragioni per scegliere il Mar Menor con i più piccoli si scrivono quasi da sole. Non è una costa glamour, è una costa pratica e rassicurante, esattamente ciò che si vuole quando i nuotatori hanno tre anni.",
+      "de": "Das Mar Menor ist eine riesige, flache, warme Salzwasserlagune an der spanischen Costa Cálida, vom offenen Mittelmeer durch einen schmalen Landstreifen namens La Manga getrennt. Weil es so flach ist, ist das Wasser badewannenwarm und, für Eltern entscheidend, es gibt keine Wellen: Ihr könnt ein Kleinkind weit hinauslaufen lassen, während die Oberfläche noch etwa auf Kniehöhe bleibt. Das macht es zu einem der allerbesten Orte in Europa für einen ersten Strandurlaub mit einem Baby oder einem ängstlichen kleinen Schwimmer. Dazu milde Wintersonne, sanfte Sandufer und familienfreundliche Ferienorte, und die Argumente für das Mar Menor mit den Kleinen schreiben sich fast von selbst. Es ist keine glamouröse Küste, es ist eine praktische, beruhigende, genau das, was man will, wenn die Schwimmer drei Jahre alt sind.",
+      "es": "El Mar Menor es una enorme laguna de agua salada, poco profunda y cálida, en la Costa Cálida española, separada del Mediterráneo abierto por una fina franja de tierra llamada La Manga. Al ser tan poco profunda, el agua está templada como un baño y, algo crucial para los padres, no hay olas: podéis caminar con un niño pequeño mar adentro un buen trecho con la superficie aún por las rodillas. Eso lo convierte en uno de los mejores lugares de Europa para unas primeras vacaciones de playa con un bebé o un pequeño nadador temeroso. Añadid el suave sol de invierno, las orillas de arena mansas y los pueblos turísticos pensados para familias, y los motivos para elegir el Mar Menor con los peques casi se escriben solos. No es una costa glamurosa, es una costa práctica y tranquilizadora, justo lo que se quiere cuando los nadadores tienen tres años.",
+      "pt": "O Mar Menor é uma enorme lagoa de água salgada, pouco profunda e quente, na Costa Cálida espanhola, separada do Mediterrâneo aberto por uma fina faixa de terra chamada La Manga. Por ser tão pouco profunda, a água fica morna como um banho e, algo crucial para os pais, não há ondas: podem levar uma criança pequena a caminhar mar adentro bastante longe com a superfície ainda pelos joelhos. Isto faz dele um dos melhores lugares da Europa para umas primeiras férias de praia com um bebé ou um pequeno nadador receoso. Junte-se o sol suave de inverno, as margens de areia mansas e as vilas balneares pensadas para famílias, e as razões para escolher o Mar Menor com os mais pequenos escrevem-se quase sozinhas. Não é uma costa glamorosa, é uma costa prática e tranquilizadora, exatamente o que se quer quando os nadadores têm três anos."
     },
     "whyKids": {
       "en": [
@@ -1290,6 +2318,34 @@
         "L'eau se réchauffe comme un bain, douce même pour la première baignade la plus prudente",
         "Los Narejos et d'autres plages pavillon bleu ont un sable doux et en pente douce pour les petits pieds",
         "Le doux soleil d'hiver en fait une rare escapade plage hors saison pour les jeunes familles"
+      ],
+      "it": [
+        "La laguna è così poco profonda che potete avanzare per metri con l'acqua ancora fino alle ginocchia o alla vita",
+        "Nessuna onda, la balneazione più calma e sicura d'Europa per neonati e bambini piccoli",
+        "L'acqua si riscalda come un bagno, dolce anche per la prima nuotata più prudente",
+        "Los Narejos e altre spiagge bandiera blu hanno sabbia morbida e in dolce pendenza per i piedini",
+        "Il mite sole invernale ne fa una rara vacanza al mare fuori stagione per le giovani famiglie"
+      ],
+      "de": [
+        "Die Lagune ist so flach, dass ihr metertief hinauswaten könnt, während das Wasser noch knie- bis hüfttief bleibt",
+        "Gar keine Wellen, das ruhigste und sicherste Planschen in Europa für Babys und Kleinkinder",
+        "Das Wasser erwärmt sich wie ein Bad, sanft selbst für das vorsichtigste erste Schwimmen",
+        "Los Narejos und andere Blaue-Flagge-Strände haben weichen, flach abfallenden Sand für kleine Füße",
+        "Die milde Wintersonne macht es zu einer seltenen Strandauszeit außerhalb der Saison für junge Familien"
+      ],
+      "es": [
+        "La laguna es tan poco profunda que podéis adentraros metros con el agua todavía por las rodillas o la cintura",
+        "Nada de olas, el chapoteo más tranquilo y seguro de Europa para bebés y niños pequeños",
+        "El agua se templa como un baño, suave incluso para el primer baño más prudente",
+        "Los Narejos y otras playas con bandera azul tienen arena blanda y en suave pendiente para los pies pequeños",
+        "El suave sol de invierno la convierte en una rara escapada de playa fuera de temporada para las familias jóvenes"
+      ],
+      "pt": [
+        "A lagoa é tão pouco profunda que podem avançar vários metros com a água ainda pelos joelhos ou pela cintura",
+        "Nenhuma onda, os banhos mais calmos e seguros da Europa para bebés e crianças pequenas",
+        "A água aquece como um banho, suave até para o primeiro mergulho mais cauteloso",
+        "Los Narejos e outras praias bandeira azul têm areia macia e em declive suave para os pezinhos",
+        "O sol suave de inverno faz dela uma rara escapadela de praia fora de época para famílias jovens"
       ]
     },
     "bestAreas": {
@@ -1304,43 +2360,91 @@
         "Santiago de la Ribera : une ville balnéaire tranquille avec une longue plage de sable et une ambiance locale décontractée",
         "La Manga del Mar Menor : la bande étroite aux deux mers, lagon d'un côté et Méditerranée ouverte de l'autre, avec les plus grands complexes",
         "San Pedro del Pinatar : la pointe nord tranquille, avec le parc des salines, les flamants roses et les célèbres bains de boue naturels"
+      ],
+      "it": [
+        "Los Alcázares: la capitale delle famiglie della laguna, comoda a piedi, con l'ampia e poco profonda spiaggia di Los Narejos e un lungomare di caffè",
+        "Santiago de la Ribera: una tranquilla cittadina di mare con una lunga spiaggia di sabbia e un'atmosfera locale rilassata",
+        "La Manga del Mar Menor: la stretta striscia con due mari, laguna da un lato e Mediterraneo aperto dall'altro, e i complessi più grandi",
+        "San Pedro del Pinatar: la quieta punta settentrionale, sede del parco delle saline, dei fenicotteri e dei celebri bagni di fango naturali"
+      ],
+      "de": [
+        "Los Alcázares: die Familienhauptstadt der Lagune, gut zu Fuß erkundbar, mit dem breiten, flachen Los-Narejos-Strand und einer Café-Promenade",
+        "Santiago de la Ribera: eine entspannte Küstenstadt mit einem langen Sandstrand und einem gemächlichen, lokalen Flair",
+        "La Manga del Mar Menor: der schmale Streifen mit zwei Meeren, Lagune auf der einen und offenes Mittelmeer auf der anderen Seite, und den größten Resorts",
+        "San Pedro del Pinatar: die ruhige Nordspitze, Heimat des Salzwiesenparks, der Flamingos und der berühmten natürlichen Schlammbäder"
+      ],
+      "es": [
+        "Los Alcázares: la capital familiar de la laguna, cómoda a pie, con la amplia y poco profunda playa de Los Narejos y un paseo de cafeterías",
+        "Santiago de la Ribera: un pueblo costero relajado con una larga playa de arena y un ambiente local tranquilo",
+        "La Manga del Mar Menor: la estrecha franja con dos mares, laguna a un lado y Mediterráneo abierto al otro, y los complejos más grandes",
+        "San Pedro del Pinatar: la tranquila punta norte, hogar del parque de las salinas, los flamencos y los famosos baños de barro naturales"
+      ],
+      "pt": [
+        "Los Alcázares: a capital das famílias da lagoa, fácil de percorrer a pé, com a ampla e pouco profunda praia de Los Narejos e uma marginal de cafés",
+        "Santiago de la Ribera: uma vila à beira-mar descontraída com uma longa praia de areia e um ambiente local tranquilo",
+        "La Manga del Mar Menor: a faixa estreita com dois mares, lagoa de um lado e Mediterrâneo aberto do outro, e os maiores complexos",
+        "San Pedro del Pinatar: a ponta norte sossegada, lar do parque das salinas, dos flamingos e dos famosos banhos de lama naturais"
       ]
     },
     "goodToKnow": {
       "en": "The Mar Menor is a delicate lagoon and its ecology has had a hard time in recent years: at certain times, especially after heavy rain or in late summer, the water can carry seaweed, algae or a green tinge, and the odd beach can close briefly. It is usually clear and inviting, but check local conditions for the week you travel and be ready to switch to the open-sea side of La Manga or to the pool. Some of the towns, particularly Santiago de la Ribera and San Pedro del Pinatar, are quiet and low-key, lovely for a calm week but light on big-resort buzz and nightlife. The nearest airports are Murcia (Corvera) and Alicante, both an easy transfer, and a hire car makes hopping between the lagoon towns much simpler.",
-      "fr": "Le Mar Menor est un lagon fragile et son écologie a connu des années difficiles : à certains moments, surtout après de fortes pluies ou en fin d'été, l'eau peut charrier des algues ou prendre une teinte verte, et une plage peut fermer brièvement. Elle est le plus souvent claire et engageante, mais renseignez-vous sur les conditions locales pour la semaine de votre voyage et soyez prêts à passer côté mer ouverte de La Manga ou à la piscine. Certaines villes, en particulier Santiago de la Ribera et San Pedro del Pinatar, sont calmes et sans prétention, parfaites pour une semaine tranquille mais légères en animation de grand resort et en vie nocturne. Les aéroports les plus proches sont Murcie (Corvera) et Alicante, tous deux à transfert facile, et une voiture de location simplifie beaucoup les allers-retours entre les villes du lagon."
+      "fr": "Le Mar Menor est un lagon fragile et son écologie a connu des années difficiles : à certains moments, surtout après de fortes pluies ou en fin d'été, l'eau peut charrier des algues ou prendre une teinte verte, et une plage peut fermer brièvement. Elle est le plus souvent claire et engageante, mais renseignez-vous sur les conditions locales pour la semaine de votre voyage et soyez prêts à passer côté mer ouverte de La Manga ou à la piscine. Certaines villes, en particulier Santiago de la Ribera et San Pedro del Pinatar, sont calmes et sans prétention, parfaites pour une semaine tranquille mais légères en animation de grand resort et en vie nocturne. Les aéroports les plus proches sont Murcie (Corvera) et Alicante, tous deux à transfert facile, et une voiture de location simplifie beaucoup les allers-retours entre les villes du lagon.",
+      "it": "Il Mar Menor è una laguna delicata e la sua ecologia ha attraversato anni difficili: in certi momenti, soprattutto dopo piogge intense o a fine estate, l'acqua può portare alghe o assumere una tinta verdastra, e qualche spiaggia può chiudere brevemente. Di solito è limpida e invitante, ma controllate le condizioni locali per la settimana del vostro viaggio e siate pronti a spostarvi sul lato mare aperto di La Manga o in piscina. Alcune città, in particolare Santiago de la Ribera e San Pedro del Pinatar, sono tranquille e senza pretese, deliziose per una settimana quieta ma povere di animazione da grande resort e di vita notturna. Gli aeroporti più vicini sono Murcia (Corvera) e Alicante, entrambi con transfer facile, e un'auto a noleggio rende molto più semplice spostarsi tra le città della laguna.",
+      "de": "Das Mar Menor ist eine empfindliche Lagune und ihre Ökologie hatte in den letzten Jahren eine schwere Zeit: zu bestimmten Zeiten, besonders nach starkem Regen oder im Spätsommer, kann das Wasser Seetang, Algen oder einen Grünstich mit sich führen, und der eine oder andere Strand kann kurz schließen. Meist ist es klar und einladend, aber prüft die örtlichen Bedingungen für die Woche eurer Reise und seid bereit, auf die Meerseite von La Manga oder an den Pool zu wechseln. Manche Orte, vor allem Santiago de la Ribera und San Pedro del Pinatar, sind ruhig und unaufgeregt, herrlich für eine geruhsame Woche, aber schwach an Großresort-Trubel und Nachtleben. Die nächsten Flughäfen sind Murcia (Corvera) und Alicante, beide mit einfachem Transfer, und ein Mietwagen macht das Pendeln zwischen den Lagunenorten deutlich einfacher.",
+      "es": "El Mar Menor es una laguna delicada y su ecología ha pasado años difíciles: en ciertos momentos, sobre todo tras lluvias intensas o a finales de verano, el agua puede arrastrar algas o adquirir un tono verdoso, y alguna playa puede cerrar brevemente. Suele estar clara y apetecible, pero consultad las condiciones locales de la semana de vuestro viaje y estad listos para cambiar al lado de mar abierto de La Manga o a la piscina. Algunos pueblos, en particular Santiago de la Ribera y San Pedro del Pinatar, son tranquilos y sin pretensiones, encantadores para una semana sosegada pero flojos en el bullicio de gran complejo y la vida nocturna. Los aeropuertos más cercanos son Murcia (Corvera) y Alicante, ambos con un traslado fácil, y un coche de alquiler hace mucho más sencillo moverse entre los pueblos de la laguna.",
+      "pt": "O Mar Menor é uma lagoa delicada e a sua ecologia atravessou anos difíceis: em certas alturas, sobretudo depois de chuvas fortes ou no fim do verão, a água pode transportar algas ou ganhar um tom esverdeado, e uma praia ou outra pode encerrar por pouco tempo. Costuma estar límpida e convidativa, mas confirmem as condições locais para a semana da vossa viagem e estejam prontos a mudar para o lado de mar aberto de La Manga ou para a piscina. Algumas vilas, em particular Santiago de la Ribera e San Pedro del Pinatar, são sossegadas e despretensiosas, encantadoras para uma semana calma mas fracas em animação de grande resort e vida noturna. Os aeroportos mais próximos são Murcia (Corvera) e Alicante, ambos com transfer fácil, e um carro de aluguer torna muito mais simples saltar entre as vilas da lagoa."
     },
     "parentTip": {
       "en": "Base yourself in Los Alcázares for the gentlest toddler beach and everything within a pram push, and pick a hotel with a good pool so you always have a clean, reliable back-up if the lagoon looks weedy on the day.",
-      "fr": "Installez-vous à Los Alcázares pour la plage la plus douce pour tout-petits et tout à distance de poussette, et choisissez un hôtel avec une bonne piscine pour toujours avoir une solution de repli propre et fiable si le lagon paraît chargé d'algues ce jour-là."
+      "fr": "Installez-vous à Los Alcázares pour la plage la plus douce pour tout-petits et tout à distance de poussette, et choisissez un hôtel avec une bonne piscine pour toujours avoir une solution de repli propre et fiable si le lagon paraît chargé d'algues ce jour-là.",
+      "it": "Sistematevi a Los Alcázares per la spiaggia più dolce per i bambini piccoli e tutto a portata di passeggino, e scegliete un hotel con una buona piscina così da avere sempre un'alternativa pulita e affidabile se quel giorno la laguna appare carica di alghe.",
+      "de": "Quartiert euch in Los Alcázares ein, für den sanftesten Kleinkindstrand und alles in Kinderwagenreichweite, und wählt ein Hotel mit einem guten Pool, damit ihr immer eine saubere, verlässliche Rückfalloption habt, falls die Lagune an dem Tag algig aussieht.",
+      "es": "Alojaos en Los Alcázares por la playa más suave para los peques y todo a distancia de carrito, y elegid un hotel con una buena piscina para tener siempre una alternativa limpia y fiable si ese día la laguna se ve con algas.",
+      "pt": "Instalem-se em Los Alcázares pela praia mais suave para os pequenos e tudo à distância de carrinho, e escolham um hotel com uma boa piscina para terem sempre uma alternativa limpa e fiável se nesse dia a lagoa parecer carregada de algas."
     },
     "stats": [
       {
         "value": "Under 2m",
         "label": {
           "en": "Typical lagoon depth, shallow for miles",
-          "fr": "Profondeur typique du lagon, peu profond sur des kilomètres"
+          "fr": "Profondeur typique du lagon, peu profond sur des kilomètres",
+          "it": "Profondità tipica della laguna, poco profonda per chilometri",
+          "de": "Typische Lagunentiefe, kilometerweit flach",
+          "es": "Profundidad típica de la laguna, poco profunda durante kilómetros",
+          "pt": "Profundidade típica da lagoa, pouco profunda por quilómetros"
         }
       },
       {
         "value": "No waves",
         "label": {
           "en": "Calm, sheltered water year-round",
-          "fr": "Eau calme et abritée toute l'année"
+          "fr": "Eau calme et abritée toute l'année",
+          "it": "Acqua calma e riparata tutto l'anno",
+          "de": "Ruhiges, geschütztes Wasser das ganze Jahr über",
+          "es": "Agua tranquila y resguardada todo el año",
+          "pt": "Água calma e abrigada durante todo o ano"
         }
       },
       {
         "value": "Mild winters",
         "label": {
           "en": "Rare off-season sun for young families",
-          "fr": "Rare soleil hors saison pour les jeunes familles"
+          "fr": "Rare soleil hors saison pour les jeunes familles",
+          "it": "Raro sole fuori stagione per le giovani famiglie",
+          "de": "Seltene Sonne außerhalb der Saison für junge Familien",
+          "es": "Raro sol fuera de temporada para las familias jóvenes",
+          "pt": "Raro sol fora de época para famílias jovens"
         }
       },
       {
         "value": "45 min",
         "label": {
           "en": "Transfer from Murcia or Alicante airports",
-          "fr": "Transfert depuis les aéroports de Murcie ou Alicante"
+          "fr": "Transfert depuis les aéroports de Murcie ou Alicante",
+          "it": "Transfer dagli aeroporti di Murcia o Alicante",
+          "de": "Transfer von den Flughäfen Murcia oder Alicante",
+          "es": "Traslado desde los aeropuertos de Murcia o Alicante",
+          "pt": "Transfer dos aeroportos de Murcia ou Alicante"
         }
       }
     ]

@@ -4805,7 +4805,11 @@
       "name": "Costa Adeje Gran Hotel",
       "area": {
         "en": "Costa Adeje (Playa Fanabe)",
-        "fr": "Costa Adeje (Playa Fanabe)"
+        "fr": "Costa Adeje (Playa Fanabe)",
+        "it": "Costa Adeje (Playa Fanabe)",
+        "de": "Costa Adeje (Playa Fanabe)",
+        "es": "Costa Adeje (Playa Fanabe)",
+        "pt": "Costa Adeje (Playa Fanabe)"
       },
       "lat": 28.091,
       "lng": -16.74,
@@ -4845,11 +4849,19 @@
       },
       "roomsSummary": {
         "en": "Large family rooms comfortably fit two adults and two children, and there is a separate lounge in the bigger suites. Ask for a pool-view room away from the rooftop bar if you have a light sleeper.",
-        "fr": "Les grandes chambres familiales accueillent sans peine deux adultes et deux enfants, et les suites plus vastes offrent un salon séparé. Demandez une chambre côté piscine, loin du bar sur le toit, si votre enfant a le sommeil léger."
+        "fr": "Les grandes chambres familiales accueillent sans peine deux adultes et deux enfants, et les suites plus vastes offrent un salon séparé. Demandez une chambre côté piscine, loin du bar sur le toit, si votre enfant a le sommeil léger.",
+        "it": "Le grandi camere familiari ospitano comodamente due adulti e due bambini, e nelle suite più ampie c'è un soggiorno separato. Chiedete una camera vista piscina, lontana dal bar sul tetto, se avete un bambino dal sonno leggero.",
+        "de": "Die großen Familienzimmer bieten bequem Platz für zwei Erwachsene und zwei Kinder, und in den größeren Suiten gibt es einen separaten Wohnbereich. Fragt nach einem Zimmer mit Poolblick, weg von der Dachbar, wenn ihr einen leichten Schläfer habt.",
+        "es": "Las amplias habitaciones familiares acogen cómodamente a dos adultos y dos niños, y las suites más grandes cuentan con un salón separado. Pedid una habitación con vistas a la piscina, lejos del bar de la azotea, si tenéis un niño con el sueño ligero.",
+        "pt": "Os grandes quartos familiares acomodam confortavelmente dois adultos e duas crianças, e as suítes maiores têm uma sala de estar separada. Peçam um quarto com vista para a piscina, longe do bar no terraço, se tiverem uma criança de sono leve."
       },
       "intro": {
         "en": "A five-star just above Fanabe beach that recently added proper waterslides and a splash park to its lagoon-style pools, so the water side finally matches the setting. Downstairs there is a free kids club, a baby pool, mini-golf and a playground, which is a lot of ground to cover before you even reach the sand.",
-        "fr": "Un cinq-étoiles juste au-dessus de la plage de Fanabe qui a ajouté de vrais toboggans et un parc aquatique à ses piscines en lagon, si bien que le volet baignade est enfin à la hauteur du cadre. En bas, un club enfants gratuit, une pataugeoire, un mini-golf et une aire de jeux: de quoi s'occuper avant même de rejoindre le sable."
+        "fr": "Un cinq-étoiles juste au-dessus de la plage de Fanabe qui a ajouté de vrais toboggans et un parc aquatique à ses piscines en lagon, si bien que le volet baignade est enfin à la hauteur du cadre. En bas, un club enfants gratuit, une pataugeoire, un mini-golf et une aire de jeux: de quoi s'occuper avant même de rejoindre le sable.",
+        "it": "Un cinque stelle proprio sopra la spiaggia di Fanabe che ha da poco aggiunto veri scivoli d'acqua e un'area giochi acquatici alle sue piscine in stile laguna, così il lato acqua è finalmente all'altezza della cornice. Al piano di sotto ci sono un miniclub gratuito, una piscina per neonati, un minigolf e un parco giochi: già tanto da fare prima ancora di arrivare alla sabbia.",
+        "de": "Ein Fünf-Sterne-Haus direkt über dem Strand von Fanabe, das seinen lagunenartigen Pools kürzlich richtige Wasserrutschen und einen Wasserspielpark hinzugefügt hat, sodass der Wasserbereich endlich zur Umgebung passt. Unten gibt es einen kostenlosen Kinderclub, ein Babybecken, Minigolf und einen Spielplatz: schon viel zu erleben, bevor ihr überhaupt den Sand erreicht.",
+        "es": "Un cinco estrellas justo encima de la playa de Fanabe que ha añadido hace poco toboganes de verdad y un parque acuático a sus piscinas estilo laguna, así que la parte de agua por fin está a la altura del entorno. Abajo hay un miniclub gratuito, una piscina para bebés, minigolf y un parque infantil: ya hay mucho que hacer antes incluso de llegar a la arena.",
+        "pt": "Um cinco estrelas mesmo acima da praia de Fanabe que acrescentou há pouco verdadeiros escorregas aquáticos e um parque aquático às suas piscinas em estilo lagoa, por isso o lado da água finalmente está à altura do cenário. Lá em baixo há um clube infantil gratuito, uma piscina para bebés, minigolfe e um parque infantil: já é muito para explorar antes mesmo de chegar à areia."
       },
       "highlights": {
         "en": [
@@ -4867,6 +4879,38 @@
           "Mini-golf, tennis et aire de jeux sur place",
           "A distance de marche des plages d'El Duque et de Fanabe",
           "Piscine sur le toit réservée aux adultes pour la détente des parents"
+        ],
+        "it": [
+          "Nuovi scivoli d'acqua e area giochi acquatici per i più piccoli",
+          "Miniclub gratuito (4-12 anni) con sessioni mattina e pomeriggio",
+          "Piscina per neonati separata per i più piccini",
+          "Minigolf, tennis e parco giochi in loco",
+          "A pochi passi dalle spiagge di El Duque e Fanabe",
+          "Piscina sul tetto riservata agli adulti per il relax dei genitori"
+        ],
+        "de": [
+          "Neue Wasserrutschen und Wasserspielpark für die jüngeren Gäste",
+          "Kostenloser Kinderclub (4 bis 12 Jahre) mit Vormittags- und Nachmittagsangeboten",
+          "Separates Babybecken für die Kleinsten",
+          "Minigolf, Tennis und Spielplatz vor Ort",
+          "Zu Fuß zu den Stränden El Duque und Fanabe",
+          "Dachpool nur für Erwachsene für die Auszeit der Eltern"
+        ],
+        "es": [
+          "Nuevos toboganes acuáticos y parque acuático para los más pequeños",
+          "Miniclub gratuito (4 a 12 años) con sesiones de mañana y tarde",
+          "Piscina para bebés separada para los más pequeñitos",
+          "Minigolf, tenis y parque infantil en las instalaciones",
+          "A un paseo de las playas de El Duque y Fanabe",
+          "Piscina en la azotea solo para adultos para el descanso de los padres"
+        ],
+        "pt": [
+          "Novos escorregas aquáticos e parque aquático para os mais pequenos",
+          "Clube infantil gratuito (4 a 12 anos) com sessões de manhã e à tarde",
+          "Piscina para bebés separada para os mais pequeninos",
+          "Minigolfe, ténis e parque infantil no local",
+          "A curta distância a pé das praias de El Duque e Fanabe",
+          "Piscina no terraço reservada a adultos para o descanso dos pais"
         ]
       },
       "pros": {
@@ -4879,6 +4923,26 @@
           "Vrais toboggans et parc aquatique depuis la rénovation récente",
           "Beaucoup de jeux au sec aussi: mini-golf, tennis, aire de jeux",
           "Bien placé pour deux plages de sable calmes à pied"
+        ],
+        "it": [
+          "Veri scivoli d'acqua e area giochi acquatici dopo il recente rinnovo",
+          "Tanti giochi anche all'asciutto: minigolf, tennis, parco giochi",
+          "Ben posizionato per due tranquille spiagge di sabbia a piedi"
+        ],
+        "de": [
+          "Echte Wasserrutschen und Wasserspielpark nach der jüngsten Modernisierung",
+          "Auch viel Spiel im Trockenen: Minigolf, Tennis, Spielplatz",
+          "Gut gelegen für zwei ruhige Sandstrände zu Fuß"
+        ],
+        "es": [
+          "Toboganes acuáticos de verdad y parque acuático tras la reciente reforma",
+          "Mucho juego también en seco: minigolf, tenis, parque infantil",
+          "Bien ubicado para dos playas de arena tranquilas a pie"
+        ],
+        "pt": [
+          "Verdadeiros escorregas aquáticos e parque aquático após a recente renovação",
+          "Muita brincadeira também em seco: minigolfe, ténis, parque infantil",
+          "Bem localizado para duas praias de areia tranquilas a pé"
         ]
       },
       "cons": {
@@ -4891,70 +4955,138 @@
           "Tarifs cinq-étoiles, surtout pendant les vacances scolaires",
           "La plus belle piscine sur le toit est réservée aux adultes",
           "Grand complexe, l'ambiance peut être chargée autour de la piscine principale"
+        ],
+        "it": [
+          "Prezzi da cinque stelle, soprattutto durante le vacanze scolastiche",
+          "La piscina sul tetto più bella è riservata agli adulti",
+          "Grande resort, quindi intorno alla piscina principale può essere affollato"
+        ],
+        "de": [
+          "Fünf-Sterne-Preise, besonders in den Schulferien",
+          "Der schönste Dachpool ist nur für Erwachsene",
+          "Großes Resort, daher kann es rund um den Hauptpool voll werden"
+        ],
+        "es": [
+          "Precios de cinco estrellas, sobre todo en vacaciones escolares",
+          "La mejor piscina de la azotea es solo para adultos",
+          "Complejo grande, así que puede sentirse concurrido alrededor de la piscina principal"
+        ],
+        "pt": [
+          "Preços de cinco estrelas, sobretudo nas férias escolares",
+          "A melhor piscina no terraço é só para adultos",
+          "Resort grande, por isso pode parecer movimentado à volta da piscina principal"
         ]
       },
       "verdict": {
         "en": "A polished five-star that now has the slides to back up the setting, and enough dry play to fill the gaps between swims. A strong all-rounder for families of four.",
-        "fr": "Un cinq-étoiles soigné qui a désormais les toboggans à la hauteur du cadre, et assez de jeux au sec pour combler les moments hors de l'eau. Une valeur sûre et complète pour une famille de quatre."
+        "fr": "Un cinq-étoiles soigné qui a désormais les toboggans à la hauteur du cadre, et assez de jeux au sec pour combler les moments hors de l'eau. Une valeur sûre et complète pour une famille de quatre.",
+        "it": "Un cinque stelle curato che ora ha gli scivoli all'altezza della cornice, e abbastanza giochi all'asciutto per riempire i momenti fuori dall'acqua. Una scelta solida e completa per famiglie di quattro.",
+        "de": "Ein gepflegtes Fünf-Sterne-Haus, das jetzt die Rutschen hat, die zur Umgebung passen, und genug Trockenspiel für die Pausen zwischen den Bädern. Ein starker Allrounder für Familien zu viert.",
+        "es": "Un cinco estrellas cuidado que ahora tiene los toboganes a la altura del entorno, y suficiente juego en seco para llenar los ratos fuera del agua. Una opción sólida y completa para familias de cuatro.",
+        "pt": "Um cinco estrelas cuidado que agora tem os escorregas à altura do cenário, e brincadeira em seco suficiente para preencher os momentos fora da água. Uma escolha sólida e completa para famílias de quatro."
       },
       "parentTip": {
         "en": "The baby pool sits apart from the slides, so a toddler and an older child can both be happy without you splitting in two. Book kids club places at check-in in August.",
-        "fr": "La pataugeoire est à l'écart des toboggans, un tout-petit et un plus grand peuvent donc être contents sans que vous ayez à vous couper en deux. Réservez les places du club enfants dès l'arrivée en août."
+        "fr": "La pataugeoire est à l'écart des toboggans, un tout-petit et un plus grand peuvent donc être contents sans que vous ayez à vous couper en deux. Réservez les places du club enfants dès l'arrivée en août.",
+        "it": "La piscina per neonati è separata dagli scivoli, così un piccolino e un bambino più grande possono essere entrambi felici senza che dobbiate dividervi in due. Prenotate i posti al miniclub al check-in ad agosto.",
+        "de": "Das Babybecken liegt abseits der Rutschen, sodass ein Kleinkind und ein älteres Kind beide zufrieden sein können, ohne dass ihr euch teilen müsst. Bucht die Plätze im Kinderclub beim Check-in im August.",
+        "es": "La piscina para bebés está apartada de los toboganes, así que un pequeñín y un niño mayor pueden estar contentos sin que tengáis que dividiros en dos. Reservad las plazas del miniclub en el check-in en agosto.",
+        "pt": "A piscina para bebés fica afastada dos escorregas, por isso um pequenino e uma criança mais velha podem estar ambos felizes sem que tenham de se dividir em dois. Reservem os lugares no clube infantil no check-in em agosto."
       },
       "atAGlance": [
         {
           "icon": "🛝",
           "label": {
             "en": "Water play",
-            "fr": "Jeux d'eau"
+            "fr": "Jeux d'eau",
+            "it": "Giochi d'acqua",
+            "de": "Wasserspiel",
+            "es": "Juegos de agua",
+            "pt": "Brincadeiras na água"
           },
           "value": {
             "en": "Waterslides and splash park",
-            "fr": "Toboggans et parc aquatique"
+            "fr": "Toboggans et parc aquatique",
+            "it": "Scivoli d'acqua e area giochi acquatici",
+            "de": "Wasserrutschen und Wasserspielpark",
+            "es": "Toboganes acuáticos y parque acuático",
+            "pt": "Escorregas aquáticos e parque aquático"
           }
         },
         {
           "icon": "🧒",
           "label": {
             "en": "Kids club",
-            "fr": "Club enfants"
+            "fr": "Club enfants",
+            "it": "Miniclub",
+            "de": "Kinderclub",
+            "es": "Miniclub",
+            "pt": "Clube infantil"
           },
           "value": {
             "en": "Free, ages 4 to 12",
-            "fr": "Gratuit, de 4 a 12 ans"
+            "fr": "Gratuit, de 4 a 12 ans",
+            "it": "Gratuito, 4-12 anni",
+            "de": "Kostenlos, 4 bis 12 Jahre",
+            "es": "Gratuito, de 4 a 12 años",
+            "pt": "Gratuito, dos 4 aos 12 anos"
           }
         },
         {
           "icon": "👶",
           "label": {
             "en": "Little ones",
-            "fr": "Tout-petits"
+            "fr": "Tout-petits",
+            "it": "Più piccoli",
+            "de": "Die Kleinsten",
+            "es": "Los más pequeños",
+            "pt": "Os mais pequenos"
           },
           "value": {
             "en": "Separate baby pool",
-            "fr": "Pataugeoire séparée"
+            "fr": "Pataugeoire séparée",
+            "it": "Piscina per neonati separata",
+            "de": "Separates Babybecken",
+            "es": "Piscina para bebés separada",
+            "pt": "Piscina para bebés separada"
           }
         },
         {
           "icon": "⛳",
           "label": {
             "en": "Dry play",
-            "fr": "Jeux au sec"
+            "fr": "Jeux au sec",
+            "it": "Giochi all'asciutto",
+            "de": "Trockenspiel",
+            "es": "Juego en seco",
+            "pt": "Brincadeira em seco"
           },
           "value": {
             "en": "Mini-golf, tennis, playground",
-            "fr": "Mini-golf, tennis, aire de jeux"
+            "fr": "Mini-golf, tennis, aire de jeux",
+            "it": "Minigolf, tennis, parco giochi",
+            "de": "Minigolf, Tennis, Spielplatz",
+            "es": "Minigolf, tenis, parque infantil",
+            "pt": "Minigolfe, ténis, parque infantil"
           }
         },
         {
           "icon": "🏖️",
           "label": {
             "en": "Beach",
-            "fr": "Plage"
+            "fr": "Plage",
+            "it": "Spiaggia",
+            "de": "Strand",
+            "es": "Playa",
+            "pt": "Praia"
           },
           "value": {
             "en": "El Duque and Fanabe, short walk",
-            "fr": "El Duque et Fanabe, courte marche"
+            "fr": "El Duque et Fanabe, courte marche",
+            "it": "El Duque e Fanabe, breve passeggiata",
+            "de": "El Duque und Fanabe, kurzer Fußweg",
+            "es": "El Duque y Fanabe, corto paseo",
+            "pt": "El Duque e Fanabe, curta caminhada"
           }
         }
       ],
@@ -4963,11 +5095,19 @@
           "emoji": "🛝",
           "name": {
             "en": "Splash park",
-            "fr": "Parc aquatique"
+            "fr": "Parc aquatique",
+            "it": "Area giochi acquatici",
+            "de": "Wasserspielpark",
+            "es": "Parque acuático",
+            "pt": "Parque aquático"
           },
           "detail": {
             "en": "Slides and jets in a shallow zone, with the baby pool right beside it.",
-            "fr": "Toboggans et jets dans une zone peu profonde, avec la pataugeoire juste à côté."
+            "fr": "Toboggans et jets dans une zone peu profonde, avec la pataugeoire juste à côté.",
+            "it": "Scivoli e getti in una zona poco profonda, con la piscina per neonati proprio accanto.",
+            "de": "Rutschen und Fontänen in einem flachen Bereich, mit dem Babybecken direkt daneben.",
+            "es": "Toboganes y chorros en una zona poco profunda, con la piscina para bebés justo al lado.",
+            "pt": "Escorregas e jatos numa zona pouco profunda, com a piscina para bebés mesmo ao lado."
           },
           "ages": [
             "toddler",
@@ -4975,18 +5115,30 @@
           ],
           "time": {
             "en": "Morning",
-            "fr": "Matin"
+            "fr": "Matin",
+            "it": "Mattina",
+            "de": "Vormittag",
+            "es": "Mañana",
+            "pt": "Manhã"
           }
         },
         {
           "emoji": "⛳",
           "name": {
             "en": "Mini-golf round",
-            "fr": "Partie de mini-golf"
+            "fr": "Partie de mini-golf",
+            "it": "Partita di minigolf",
+            "de": "Runde Minigolf",
+            "es": "Partida de minigolf",
+            "pt": "Partida de minigolfe"
           },
           "detail": {
             "en": "An easy shared game for mixed ages once the sun is high.",
-            "fr": "Un jeu partagé facile pour tous les âges quand le soleil tape."
+            "fr": "Un jeu partagé facile pour tous les âges quand le soleil tape.",
+            "it": "Un gioco condiviso e facile per età diverse quando il sole è alto.",
+            "de": "Ein leichtes gemeinsames Spiel für gemischte Altersgruppen, wenn die Sonne hoch steht.",
+            "es": "Un juego compartido y fácil para edades variadas cuando el sol aprieta.",
+            "pt": "Um jogo partilhado e fácil para idades variadas quando o sol está alto."
           },
           "ages": [
             "kid",
@@ -4994,18 +5146,30 @@
           ],
           "time": {
             "en": "Afternoon",
-            "fr": "Après-midi"
+            "fr": "Après-midi",
+            "it": "Pomeriggio",
+            "de": "Nachmittag",
+            "es": "Tarde",
+            "pt": "Tarde"
           }
         },
         {
           "emoji": "🏖️",
           "name": {
             "en": "Beach walk to El Duque",
-            "fr": "Balade jusqu'à El Duque"
+            "fr": "Balade jusqu'à El Duque",
+            "it": "Passeggiata sulla spiaggia fino a El Duque",
+            "de": "Strandspaziergang nach El Duque",
+            "es": "Paseo por la playa hasta El Duque",
+            "pt": "Passeio na praia até El Duque"
           },
           "detail": {
             "en": "A short stroll down to the golden sand and calm shallows.",
-            "fr": "Une courte descente vers le sable doré et les eaux calmes peu profondes."
+            "fr": "Une courte descente vers le sable doré et les eaux calmes peu profondes.",
+            "it": "Una breve passeggiata fino alla sabbia dorata e alle acque calme e poco profonde.",
+            "de": "Ein kurzer Spaziergang hinunter zum goldenen Sand und zum ruhigen flachen Wasser.",
+            "es": "Un corto paseo hasta la arena dorada y las aguas tranquilas y poco profundas.",
+            "pt": "Um curto passeio até à areia dourada e às águas calmas e pouco profundas."
           },
           "ages": [
             "baby",
@@ -5014,7 +5178,11 @@
           ],
           "time": {
             "en": "Flexible",
-            "fr": "Flexible"
+            "fr": "Flexible",
+            "it": "Flessibile",
+            "de": "Flexibel",
+            "es": "Flexible",
+            "pt": "Flexível"
           }
         }
       ],
@@ -5023,94 +5191,166 @@
           "time": "9:00",
           "title": {
             "en": "Breakfast buffet",
-            "fr": "Petit-déjeuner buffet"
+            "fr": "Petit-déjeuner buffet",
+            "it": "Colazione a buffet",
+            "de": "Frühstücksbuffet",
+            "es": "Desayuno buffet",
+            "pt": "Pequeno-almoço buffet"
           },
           "note": {
             "en": "Fuel up before the kids club opens.",
-            "fr": "On fait le plein avant l'ouverture du club enfants."
+            "fr": "On fait le plein avant l'ouverture du club enfants.",
+            "it": "Si fa il pieno prima che apra il miniclub.",
+            "de": "Kräfte tanken, bevor der Kinderclub öffnet.",
+            "es": "A coger fuerzas antes de que abra el miniclub.",
+            "pt": "Encher o depósito antes de o clube infantil abrir."
           }
         },
         {
           "time": "10:30",
           "title": {
             "en": "Splash park and baby pool",
-            "fr": "Parc aquatique et pataugeoire"
+            "fr": "Parc aquatique et pataugeoire",
+            "it": "Area giochi acquatici e piscina per neonati",
+            "de": "Wasserspielpark und Babybecken",
+            "es": "Parque acuático y piscina para bebés",
+            "pt": "Parque aquático e piscina para bebés"
           },
           "note": {
             "en": "Slides for the big one, warm baby pool for the little one.",
-            "fr": "Toboggans pour le grand, pataugeoire chaude pour le petit."
+            "fr": "Toboggans pour le grand, pataugeoire chaude pour le petit.",
+            "it": "Scivoli per il grande, piscina calda per il piccolo.",
+            "de": "Rutschen für den Großen, warmes Babybecken für den Kleinen.",
+            "es": "Toboganes para el mayor, piscina cálida para el pequeño.",
+            "pt": "Escorregas para o mais velho, piscina quente para o mais novo."
           }
         },
         {
           "time": "13:30",
           "title": {
             "en": "Lunch and nap",
-            "fr": "Déjeuner et sieste"
+            "fr": "Déjeuner et sieste",
+            "it": "Pranzo e pisolino",
+            "de": "Mittagessen und Mittagsschlaf",
+            "es": "Almuerzo y siesta",
+            "pt": "Almoço e sesta"
           },
           "note": {
             "en": "Back to the room for the baby's proper sleep.",
-            "fr": "Retour en chambre pour la vraie sieste du bébé."
+            "fr": "Retour en chambre pour la vraie sieste du bébé.",
+            "it": "Ritorno in camera per il sonno vero del bebè.",
+            "de": "Zurück ins Zimmer für den richtigen Schlaf des Babys.",
+            "es": "De vuelta a la habitación para el sueño de verdad del bebé.",
+            "pt": "De volta ao quarto para o sono a sério do bebé."
           }
         },
         {
           "time": "16:30",
           "title": {
             "en": "Kids club and mini-golf",
-            "fr": "Club enfants et mini-golf"
+            "fr": "Club enfants et mini-golf",
+            "it": "Miniclub e minigolf",
+            "de": "Kinderclub und Minigolf",
+            "es": "Miniclub y minigolf",
+            "pt": "Clube infantil e minigolfe"
           },
           "note": {
             "en": "Older ones to the club, parents to the rooftop pool.",
-            "fr": "Les grands au club, les parents à la piscine du toit."
+            "fr": "Les grands au club, les parents à la piscine du toit.",
+            "it": "I grandi al club, i genitori alla piscina sul tetto.",
+            "de": "Die Großen in den Club, die Eltern an den Dachpool.",
+            "es": "Los mayores al club, los padres a la piscina de la azotea.",
+            "pt": "Os mais velhos para o clube, os pais para a piscina no terraço."
           }
         }
       ],
       "ageNotes": {
         "baby": {
           "en": "A separate baby pool and a heated main pool make this genuinely baby-ready. Cots on request.",
-          "fr": "Une pataugeoire séparée et une piscine principale chauffée le rendent vraiment adapté aux bébés. Lits parapluie sur demande."
+          "fr": "Une pataugeoire séparée et une piscine principale chauffée le rendent vraiment adapté aux bébés. Lits parapluie sur demande.",
+          "it": "Una piscina per neonati separata e una piscina principale riscaldata lo rendono davvero adatto ai bebè. Lettini su richiesta.",
+          "de": "Ein separates Babybecken und ein beheizter Hauptpool machen es wirklich babytauglich. Reisebetten auf Anfrage.",
+          "es": "Una piscina para bebés separada y una piscina principal climatizada lo hacen realmente apto para bebés. Cunas bajo petición.",
+          "pt": "Uma piscina para bebés separada e uma piscina principal aquecida tornam-no verdadeiramente adequado a bebés. Berços a pedido."
         },
         "toddler": {
           "en": "Shallow splash zones and short slides suit toddlers, with the baby pool close by.",
-          "fr": "Zones peu profondes et petits toboggans conviennent aux tout-petits, avec la pataugeoire à proximité."
+          "fr": "Zones peu profondes et petits toboggans conviennent aux tout-petits, avec la pataugeoire à proximité.",
+          "it": "Zone acquatiche poco profonde e scivoli corti sono adatti ai più piccoli, con la piscina per neonati vicina.",
+          "de": "Flache Wasserbereiche und kurze Rutschen passen zu Kleinkindern, mit dem Babybecken in der Nähe.",
+          "es": "Zonas acuáticas poco profundas y toboganes cortos van bien para los más pequeños, con la piscina para bebés cerca.",
+          "pt": "Zonas aquáticas pouco profundas e escorregas curtos são adequados aos mais pequenos, com a piscina para bebés por perto."
         },
         "kid": {
           "en": "Prime age: waterslides, kids club, mini-golf and tennis fill the day.",
-          "fr": "L'âge idéal: toboggans, club enfants, mini-golf et tennis remplissent la journée."
+          "fr": "L'âge idéal: toboggans, club enfants, mini-golf et tennis remplissent la journée.",
+          "it": "L'età ideale: scivoli d'acqua, miniclub, minigolf e tennis riempiono la giornata.",
+          "de": "Das ideale Alter: Wasserrutschen, Kinderclub, Minigolf und Tennis füllen den Tag.",
+          "es": "La edad ideal: toboganes acuáticos, miniclub, minigolf y tenis llenan el día.",
+          "pt": "A idade ideal: escorregas aquáticos, clube infantil, minigolfe e ténis preenchem o dia."
         },
         "teen": {
           "en": "Tennis, the beach and the promenade give older ones room, though nightlife is elsewhere.",
-          "fr": "Tennis, plage et promenade donnent de l'espace aux plus grands, même si la vie nocturne est ailleurs."
+          "fr": "Tennis, plage et promenade donnent de l'espace aux plus grands, même si la vie nocturne est ailleurs.",
+          "it": "Tennis, spiaggia e passeggiata danno spazio ai più grandi, anche se la vita notturna è altrove.",
+          "de": "Tennis, der Strand und die Promenade geben den Älteren Raum, auch wenn das Nachtleben woanders ist.",
+          "es": "El tenis, la playa y el paseo marítimo dan espacio a los mayores, aunque la vida nocturna está en otro sitio.",
+          "pt": "O ténis, a praia e o passeio marítimo dão espaço aos mais velhos, embora a vida noturna seja noutro lugar."
         }
       },
       "faqs": [
         {
           "q": {
             "en": "Does it really have waterslides?",
-            "fr": "Y a-t-il vraiment des toboggans?"
+            "fr": "Y a-t-il vraiment des toboggans?",
+            "it": "Ha davvero gli scivoli d'acqua?",
+            "de": "Hat es wirklich Wasserrutschen?",
+            "es": "¿De verdad tiene toboganes acuáticos?",
+            "pt": "Tem mesmo escorregas aquáticos?"
           },
           "a": {
             "en": "Yes, waterslides and a splash park were added to the pool area in the recent upgrade.",
-            "fr": "Oui, des toboggans et un parc aquatique ont été ajoutés à l'espace piscine lors de la rénovation récente."
+            "fr": "Oui, des toboggans et un parc aquatique ont été ajoutés à l'espace piscine lors de la rénovation récente.",
+            "it": "Sì, scivoli d'acqua e un'area giochi acquatici sono stati aggiunti alla zona piscina nel recente rinnovo.",
+            "de": "Ja, Wasserrutschen und ein Wasserspielpark wurden bei der jüngsten Modernisierung zum Poolbereich hinzugefügt.",
+            "es": "Sí, se añadieron toboganes acuáticos y un parque acuático a la zona de piscina en la reciente reforma.",
+            "pt": "Sim, escorregas aquáticos e um parque aquático foram acrescentados à zona da piscina na recente renovação."
           }
         },
         {
           "q": {
             "en": "Is the kids club free?",
-            "fr": "Le club enfants est-il gratuit?"
+            "fr": "Le club enfants est-il gratuit?",
+            "it": "Il miniclub è gratuito?",
+            "de": "Ist der Kinderclub kostenlos?",
+            "es": "¿El miniclub es gratuito?",
+            "pt": "O clube infantil é gratuito?"
           },
           "a": {
             "en": "Yes, the club for ages 4 to 12 is included, with morning and afternoon sessions.",
-            "fr": "Oui, le club pour les 4 a 12 ans est inclus, avec des sessions matin et après-midi."
+            "fr": "Oui, le club pour les 4 a 12 ans est inclus, avec des sessions matin et après-midi.",
+            "it": "Sì, il club per i 4-12 anni è incluso, con sessioni mattina e pomeriggio.",
+            "de": "Ja, der Club für 4- bis 12-Jährige ist inklusive, mit Vormittags- und Nachmittagsangeboten.",
+            "es": "Sí, el club para niños de 4 a 12 años está incluido, con sesiones de mañana y tarde.",
+            "pt": "Sim, o clube para os 4 aos 12 anos está incluído, com sessões de manhã e à tarde."
           }
         },
         {
           "q": {
             "en": "How far is the beach?",
-            "fr": "A quelle distance est la plage?"
+            "fr": "A quelle distance est la plage?",
+            "it": "Quanto dista la spiaggia?",
+            "de": "Wie weit ist der Strand entfernt?",
+            "es": "¿A qué distancia está la playa?",
+            "pt": "A que distância fica a praia?"
           },
           "a": {
             "en": "El Duque and Fanabe beaches are both a short, mostly flat walk away.",
-            "fr": "Les plages d'El Duque et de Fanabe sont à une courte marche, presque plate."
+            "fr": "Les plages d'El Duque et de Fanabe sont à une courte marche, presque plate.",
+            "it": "Le spiagge di El Duque e Fanabe sono entrambe a una breve passeggiata, quasi tutta in piano.",
+            "de": "Die Strände El Duque und Fanabe sind beide einen kurzen, größtenteils ebenen Fußweg entfernt.",
+            "es": "Las playas de El Duque y Fanabe están ambas a un corto paseo, casi todo llano.",
+            "pt": "As praias de El Duque e Fanabe estão ambas a uma curta caminhada, quase toda plana."
           }
         }
       ]
@@ -5121,7 +5361,11 @@
       "name": "Bahia Principe Fantasia Tenerife",
       "area": {
         "en": "Costa San Miguel (Golf del Sur)",
-        "fr": "Costa San Miguel (Golf del Sur)"
+        "fr": "Costa San Miguel (Golf del Sur)",
+        "it": "Costa San Miguel (Golf del Sur)",
+        "de": "Costa San Miguel (Golf del Sur)",
+        "es": "Costa San Miguel (Golf del Sur)",
+        "pt": "Costa San Miguel (Golf del Sur)"
       },
       "lat": 28.031,
       "lng": -16.606,
@@ -5159,11 +5403,19 @@
       },
       "roomsSummary": {
         "en": "Bright, fantasy-themed family rooms that sleep four, some with bunk nooks kids love. The theming runs through the whole resort, which younger children find magical.",
-        "fr": "Chambres familiales lumineuses au thème féerique pour quatre personnes, certaines avec un coin lits superposés que les enfants adorent. Le décor à thème court dans tout le complexe, ce que les plus jeunes trouvent magique."
+        "fr": "Chambres familiales lumineuses au thème féerique pour quatre personnes, certaines avec un coin lits superposés que les enfants adorent. Le décor à thème court dans tout le complexe, ce que les plus jeunes trouvent magique.",
+        "it": "Camere familiari luminose a tema fiabesco per quattro persone, alcune con angolo letti a castello che i bambini adorano. Il tema attraversa tutto il resort, cosa che i più piccoli trovano magica.",
+        "de": "Helle Familienzimmer im Fantasy-Thema für vier Personen, einige mit Etagenbett-Nischen, die Kinder lieben. Das Thema zieht sich durch das ganze Resort, was jüngere Kinder magisch finden.",
+        "es": "Habitaciones familiares luminosas con temática de fantasía para cuatro personas, algunas con rincón de literas que los niños adoran. La temática recorre todo el complejo, algo que los más pequeños encuentran mágico.",
+        "pt": "Quartos familiares luminosos com tema de fantasia para quatro pessoas, alguns com cantinho de beliches que as crianças adoram. O tema percorre todo o resort, algo que os mais novos acham mágico."
       },
       "intro": {
         "en": "A fantasy-themed resort built squarely around children: seven pools, a dedicated kids' water park with slides and mini waterfalls, and characters wandering the grounds. The theming and the big splash offer are the draw, more than the location, which sits by Golf del Sur rather than a swimming beach.",
-        "fr": "Un complexe au thème féerique pensé entièrement pour les enfants: sept piscines, un parc aquatique enfants dédié avec toboggans et petites cascades, et des personnages qui déambulent dans le parc. Le décor et la grosse offre aquatique font l'attrait, plus que l'emplacement, situé près du Golf del Sur et non d'une plage de baignade."
+        "fr": "Un complexe au thème féerique pensé entièrement pour les enfants: sept piscines, un parc aquatique enfants dédié avec toboggans et petites cascades, et des personnages qui déambulent dans le parc. Le décor et la grosse offre aquatique font l'attrait, plus que l'emplacement, situé près du Golf del Sur et non d'une plage de baignade.",
+        "it": "Un resort a tema fiabesco costruito interamente attorno ai bambini: sette piscine, un parco acquatico dedicato ai bambini con scivoli e mini cascate, e personaggi che passeggiano per il parco. Il tema e la grande offerta acquatica sono l'attrazione, più della posizione, che si trova vicino al Golf del Sur e non a una spiaggia balneabile.",
+        "de": "Ein Resort im Fantasy-Thema, das ganz um Kinder herum gebaut ist: sieben Pools, ein eigener Kinder-Wasserpark mit Rutschen und kleinen Wasserfällen und Figuren, die über das Gelände schlendern. Das Thema und das große Wasserangebot sind der Reiz, mehr als die Lage, die am Golf del Sur liegt und nicht an einem Badestrand.",
+        "es": "Un complejo con temática de fantasía construido por completo en torno a los niños: siete piscinas, un parque acuático dedicado a los niños con toboganes y mini cascadas, y personajes que pasean por el recinto. La temática y la gran oferta acuática son el atractivo, más que la ubicación, que está junto al Golf del Sur y no en una playa de baño.",
+        "pt": "Um resort com tema de fantasia construído inteiramente à volta das crianças: sete piscinas, um parque aquático dedicado às crianças com escorregas e mini cascatas, e personagens que passeiam pelo recinto. O tema e a grande oferta aquática são a atração, mais do que a localização, que fica junto ao Golf del Sur e não a uma praia balnear."
       },
       "highlights": {
         "en": [
@@ -5181,6 +5433,38 @@
           "Décor féerique et personnages dans tout le parc",
           "Zones aquatiques ombragées pour les après-midi chauds",
           "Chambres familiales qui accueillent vraiment quatre personnes"
+        ],
+        "it": [
+          "Parco acquatico per bambini con scivoli, getti e mini cascate",
+          "Sette piscine nel resort, diverse per le famiglie",
+          "Miniclub gratuito più un club ados separato",
+          "Ambientazione fiabesca e personaggi in tutto il parco",
+          "Zone acquatiche ombreggiate per i pomeriggi caldi",
+          "Camere familiari che ospitano davvero quattro persone"
+        ],
+        "de": [
+          "Kinder-Wasserpark mit Rutschen, Fontänen und kleinen Wasserfällen",
+          "Sieben Pools im Resort, mehrere für Familien",
+          "Kostenloser Kinderclub plus separater Teenie-Club",
+          "Fantasy-Ausstattung und Figuren auf dem ganzen Gelände",
+          "Schattige Wasserbereiche für heiße Nachmittage",
+          "Familienzimmer, die wirklich vier Personen Platz bieten"
+        ],
+        "es": [
+          "Parque acuático para niños con toboganes, chorros y mini cascadas",
+          "Siete piscinas por el complejo, varias para familias",
+          "Miniclub gratuito más un club de adolescentes separado",
+          "Ambientación de fantasía y personajes por todo el recinto",
+          "Zonas acuáticas con sombra para las tardes calurosas",
+          "Habitaciones familiares que de verdad acogen a cuatro personas"
+        ],
+        "pt": [
+          "Parque aquático para crianças com escorregas, jatos e mini cascatas",
+          "Sete piscinas pelo resort, várias para famílias",
+          "Clube infantil gratuito mais um clube de adolescentes separado",
+          "Ambientação de fantasia e personagens por todo o recinto",
+          "Zonas aquáticas com sombra para as tardes quentes",
+          "Quartos familiares que acomodam mesmo quatro pessoas"
         ]
       },
       "pros": {
@@ -5193,6 +5477,26 @@
           "Énorme offre aquatique pensée pour les jeunes enfants",
           "Décor qui transforme le séjour en aventure pour les enfants",
           "Clubs gratuits pour les jeunes enfants comme pour les ados"
+        ],
+        "it": [
+          "Enorme offerta acquatica pensata proprio per i bambini piccoli",
+          "Un tema che rende il soggiorno un'avventura per i bambini",
+          "Club gratuiti sia per i bambini più piccoli sia per gli adolescenti"
+        ],
+        "de": [
+          "Riesiges Wasserangebot, genau auf kleine Kinder ausgerichtet",
+          "Ein Thema, das es für Kinder wie ein Abenteuer wirken lässt",
+          "Kostenlose Clubs sowohl für jüngere Kinder als auch für Teenager"
+        ],
+        "es": [
+          "Enorme oferta acuática pensada justo para los niños pequeños",
+          "Una temática que hace que sea como una aventura para los niños",
+          "Clubs gratuitos tanto para los niños pequeños como para los adolescentes"
+        ],
+        "pt": [
+          "Enorme oferta aquática pensada mesmo para as crianças pequenas",
+          "Um tema que torna a estadia numa aventura para as crianças",
+          "Clubes gratuitos tanto para as crianças mais novas como para os adolescentes"
         ]
       },
       "cons": {
@@ -5205,70 +5509,138 @@
           "Pas sur une plage de baignade; la côte ici est rocheuse",
           "Certains avis signalent une surveillance variable au club enfants, vérifiez l'encadrement",
           "Golf del Sur est plus calme le soir que les grandes stations"
+        ],
+        "it": [
+          "Non su una spiaggia balneabile; la costa qui è rocciosa",
+          "Alcune recensioni segnalano una sorveglianza variabile al miniclub, quindi verificate i rapporti numerici",
+          "Golf del Sur è più tranquillo per le serate fuori rispetto ai resort principali"
+        ],
+        "de": [
+          "Nicht an einem Badestrand; die Küste hier ist felsig",
+          "Einige Gästebewertungen bemängeln eine wechselnde Betreuung im Kinderclub, prüft also den Betreuungsschlüssel",
+          "Golf del Sur ist für Abende außer Haus ruhiger als die großen Resorts"
+        ],
+        "es": [
+          "No está en una playa de baño; la costa aquí es rocosa",
+          "Algunas opiniones señalan una supervisión variable en el miniclub, así que comprobad los ratios",
+          "Golf del Sur es más tranquilo para las salidas nocturnas que los complejos principales"
+        ],
+        "pt": [
+          "Não fica numa praia balnear; a costa aqui é rochosa",
+          "Algumas avaliações apontam uma supervisão variável no clube infantil, por isso verifiquem os rácios",
+          "Golf del Sur é mais tranquilo para saídas à noite do que os resorts principais"
         ]
       },
       "verdict": {
         "en": "If your children are at the age where theming and slides make the holiday, this delivers both in bulk. Just go in knowing the beach is a drive, not a doorstep.",
-        "fr": "Si vos enfants sont à l'âge où le décor et les toboggans font les vacances, tout est là en abondance. Sachez simplement que la plage se rejoint en voiture, pas au pied de l'hôtel."
+        "fr": "Si vos enfants sont à l'âge où le décor et les toboggans font les vacances, tout est là en abondance. Sachez simplement que la plage se rejoint en voiture, pas au pied de l'hôtel.",
+        "it": "Se i vostri figli sono nell'età in cui il tema e gli scivoli fanno la vacanza, qui ci sono entrambi in abbondanza. Sappiate solo che la spiaggia si raggiunge in auto, non a due passi.",
+        "de": "Wenn eure Kinder im Alter sind, in dem Thema und Rutschen den Urlaub ausmachen, gibt es hier beides in Hülle und Fülle. Geht nur mit dem Wissen hin, dass der Strand eine Autofahrt entfernt ist, nicht vor der Tür.",
+        "es": "Si vuestros hijos están en la edad en que la temática y los toboganes hacen las vacaciones, aquí hay ambas cosas en abundancia. Solo id sabiendo que la playa se llega en coche, no a la puerta.",
+        "pt": "Se os vossos filhos estão na idade em que o tema e os escorregas fazem as férias, aqui há ambos em abundância. Vão apenas sabendo que a praia se alcança de carro, não à porta."
       },
       "parentTip": {
         "en": "The splash zones have shaded areas, worth seeking out mid-afternoon with toddlers. Pack pool shoes: themed water areas can have textured surfaces.",
-        "fr": "Les zones aquatiques ont des coins ombragés, à privilégier en milieu d'après-midi avec des tout-petits. Prévoyez des chaussures d'eau: les espaces à thème peuvent avoir des sols texturés."
+        "fr": "Les zones aquatiques ont des coins ombragés, à privilégier en milieu d'après-midi avec des tout-petits. Prévoyez des chaussures d'eau: les espaces à thème peuvent avoir des sols texturés.",
+        "it": "Le zone acquatiche hanno angoli ombreggiati, da cercare a metà pomeriggio con i più piccoli. Portate scarpe da acqua: gli spazi acquatici a tema possono avere superfici ruvide.",
+        "de": "Die Wasserbereiche haben schattige Ecken, die sich am Nachmittag mit Kleinkindern lohnen. Packt Badeschuhe ein: themenbezogene Wasserbereiche können raue Oberflächen haben.",
+        "es": "Las zonas acuáticas tienen rincones con sombra, que conviene buscar a media tarde con los pequeños. Llevad escarpines: los espacios acuáticos temáticos pueden tener superficies rugosas.",
+        "pt": "As zonas aquáticas têm cantos com sombra, que vale a pena procurar a meio da tarde com os mais pequenos. Levem sapatos de água: os espaços aquáticos temáticos podem ter superfícies rugosas."
       },
       "atAGlance": [
         {
           "icon": "🛝",
           "label": {
             "en": "Water park",
-            "fr": "Parc aquatique"
+            "fr": "Parc aquatique",
+            "it": "Parco acquatico",
+            "de": "Wasserpark",
+            "es": "Parque acuático",
+            "pt": "Parque aquático"
           },
           "value": {
             "en": "Kids slides and mini waterfalls",
-            "fr": "Toboggans enfants et petites cascades"
+            "fr": "Toboggans enfants et petites cascades",
+            "it": "Scivoli per bambini e mini cascate",
+            "de": "Kinderrutschen und kleine Wasserfälle",
+            "es": "Toboganes para niños y mini cascadas",
+            "pt": "Escorregas para crianças e mini cascatas"
           }
         },
         {
           "icon": "🏊",
           "label": {
             "en": "Pools",
-            "fr": "Piscines"
+            "fr": "Piscines",
+            "it": "Piscine",
+            "de": "Pools",
+            "es": "Piscinas",
+            "pt": "Piscinas"
           },
           "value": {
             "en": "Seven across the resort",
-            "fr": "Sept dans le complexe"
+            "fr": "Sept dans le complexe",
+            "it": "Sette nel resort",
+            "de": "Sieben im Resort",
+            "es": "Siete por el complejo",
+            "pt": "Sete pelo resort"
           }
         },
         {
           "icon": "🧒",
           "label": {
             "en": "Clubs",
-            "fr": "Clubs"
+            "fr": "Clubs",
+            "it": "Club",
+            "de": "Clubs",
+            "es": "Clubs",
+            "pt": "Clubes"
           },
           "value": {
             "en": "Free kids club plus teens club",
-            "fr": "Club enfants gratuit plus club ados"
+            "fr": "Club enfants gratuit plus club ados",
+            "it": "Miniclub gratuito più club ados",
+            "de": "Kostenloser Kinderclub plus Teenie-Club",
+            "es": "Miniclub gratuito más club de adolescentes",
+            "pt": "Clube infantil gratuito mais clube de adolescentes"
           }
         },
         {
           "icon": "🪄",
           "label": {
             "en": "Theming",
-            "fr": "Décor"
+            "fr": "Décor",
+            "it": "Tema",
+            "de": "Thema",
+            "es": "Temática",
+            "pt": "Tema"
           },
           "value": {
             "en": "Fantasy world and characters",
-            "fr": "Univers féerique et personnages"
+            "fr": "Univers féerique et personnages",
+            "it": "Mondo fiabesco e personaggi",
+            "de": "Fantasiewelt und Figuren",
+            "es": "Mundo de fantasía y personajes",
+            "pt": "Mundo de fantasia e personagens"
           }
         },
         {
           "icon": "🏖️",
           "label": {
             "en": "Beach",
-            "fr": "Plage"
+            "fr": "Plage",
+            "it": "Spiaggia",
+            "de": "Strand",
+            "es": "Playa",
+            "pt": "Praia"
           },
           "value": {
             "en": "Rocky coast, sandy beaches a drive",
-            "fr": "Côte rocheuse, plages de sable en voiture"
+            "fr": "Côte rocheuse, plages de sable en voiture",
+            "it": "Costa rocciosa, spiagge di sabbia in auto",
+            "de": "Felsige Küste, Sandstrände mit dem Auto",
+            "es": "Costa rocosa, playas de arena en coche",
+            "pt": "Costa rochosa, praias de areia de carro"
           }
         }
       ],
@@ -5277,11 +5649,19 @@
           "emoji": "🛝",
           "name": {
             "en": "Kids water park",
-            "fr": "Parc aquatique enfants"
+            "fr": "Parc aquatique enfants",
+            "it": "Parco acquatico per bambini",
+            "de": "Kinder-Wasserpark",
+            "es": "Parque acuático para niños",
+            "pt": "Parque aquático para crianças"
           },
           "detail": {
             "en": "Slides, jets and waterfalls sized for younger children, with shade nearby.",
-            "fr": "Toboggans, jets et cascades à la taille des jeunes enfants, avec de l'ombre à proximité."
+            "fr": "Toboggans, jets et cascades à la taille des jeunes enfants, avec de l'ombre à proximité.",
+            "it": "Scivoli, getti e cascate su misura per i bambini più piccoli, con l'ombra vicina.",
+            "de": "Rutschen, Fontänen und Wasserfälle in Größe für jüngere Kinder, mit Schatten in der Nähe.",
+            "es": "Toboganes, chorros y cascadas a la medida de los niños pequeños, con sombra cerca.",
+            "pt": "Escorregas, jatos e cascatas à medida das crianças mais novas, com sombra por perto."
           },
           "ages": [
             "toddler",
@@ -5289,18 +5669,30 @@
           ],
           "time": {
             "en": "Morning",
-            "fr": "Matin"
+            "fr": "Matin",
+            "it": "Mattina",
+            "de": "Vormittag",
+            "es": "Mañana",
+            "pt": "Manhã"
           }
         },
         {
           "emoji": "🪄",
           "name": {
             "en": "Character meet",
-            "fr": "Rencontre des personnages"
+            "fr": "Rencontre des personnages",
+            "it": "Incontro con i personaggi",
+            "de": "Treffen mit den Figuren",
+            "es": "Encuentro con los personajes",
+            "pt": "Encontro com as personagens"
           },
           "detail": {
             "en": "Themed characters appear around the resort through the day.",
-            "fr": "Des personnages à thème apparaissent dans le complexe au fil de la journée."
+            "fr": "Des personnages à thème apparaissent dans le complexe au fil de la journée.",
+            "it": "Personaggi a tema compaiono nel resort nel corso della giornata.",
+            "de": "Themenfiguren tauchen im Laufe des Tages im Resort auf.",
+            "es": "Personajes temáticos aparecen por el complejo a lo largo del día.",
+            "pt": "Personagens temáticas aparecem pelo resort ao longo do dia."
           },
           "ages": [
             "toddler",
@@ -5308,25 +5700,41 @@
           ],
           "time": {
             "en": "Daily",
-            "fr": "Chaque jour"
+            "fr": "Chaque jour",
+            "it": "Ogni giorno",
+            "de": "Täglich",
+            "es": "Cada día",
+            "pt": "Todos os dias"
           }
         },
         {
           "emoji": "🎭",
           "name": {
             "en": "Teens club",
-            "fr": "Club ados"
+            "fr": "Club ados",
+            "it": "Club ados",
+            "de": "Teenie-Club",
+            "es": "Club de adolescentes",
+            "pt": "Clube de adolescentes"
           },
           "detail": {
             "en": "A separate space so older ones are not stuck in the little-kid zone.",
-            "fr": "Un espace séparé pour que les plus grands ne restent pas coincés dans la zone des petits."
+            "fr": "Un espace séparé pour que les plus grands ne restent pas coincés dans la zone des petits.",
+            "it": "Uno spazio separato così i più grandi non restano bloccati nella zona dei bambini piccoli.",
+            "de": "Ein separater Bereich, damit die Älteren nicht in der Kleinkinderzone festsitzen.",
+            "es": "Un espacio separado para que los mayores no se queden atrapados en la zona de los pequeños.",
+            "pt": "Um espaço separado para que os mais velhos não fiquem presos na zona dos mais pequenos."
           },
           "ages": [
             "teen"
           ],
           "time": {
             "en": "Daily",
-            "fr": "Chaque jour"
+            "fr": "Chaque jour",
+            "it": "Ogni giorno",
+            "de": "Täglich",
+            "es": "Cada día",
+            "pt": "Todos os dias"
           }
         }
       ],
@@ -5335,94 +5743,166 @@
           "time": "9:30",
           "title": {
             "en": "Breakfast then water park",
-            "fr": "Petit-déjeuner puis parc aquatique"
+            "fr": "Petit-déjeuner puis parc aquatique",
+            "it": "Colazione e poi parco acquatico",
+            "de": "Frühstück, dann Wasserpark",
+            "es": "Desayuno y luego parque acuático",
+            "pt": "Pequeno-almoço e depois parque aquático"
           },
           "note": {
             "en": "Slides first, while the sun is gentle.",
-            "fr": "Les toboggans d'abord, tant que le soleil est doux."
+            "fr": "Les toboggans d'abord, tant que le soleil est doux.",
+            "it": "Prima gli scivoli, finché il sole è dolce.",
+            "de": "Zuerst die Rutschen, solange die Sonne mild ist.",
+            "es": "Primero los toboganes, mientras el sol es suave.",
+            "pt": "Primeiro os escorregas, enquanto o sol é suave."
           }
         },
         {
           "time": "13:00",
           "title": {
             "en": "Lunch and shade",
-            "fr": "Déjeuner et ombre"
+            "fr": "Déjeuner et ombre",
+            "it": "Pranzo e ombra",
+            "de": "Mittagessen und Schatten",
+            "es": "Almuerzo y sombra",
+            "pt": "Almoço e sombra"
           },
           "note": {
             "en": "Retreat to a shaded splash area or the room.",
-            "fr": "Repli vers une zone aquatique ombragée ou la chambre."
+            "fr": "Repli vers une zone aquatique ombragée ou la chambre.",
+            "it": "Rifugio in una zona acquatica ombreggiata o in camera.",
+            "de": "Rückzug in einen schattigen Wasserbereich oder ins Zimmer.",
+            "es": "Refugio en una zona acuática con sombra o en la habitación.",
+            "pt": "Refúgio numa zona aquática com sombra ou no quarto."
           }
         },
         {
           "time": "16:00",
           "title": {
             "en": "Kids club and pools",
-            "fr": "Club enfants et piscines"
+            "fr": "Club enfants et piscines",
+            "it": "Miniclub e piscine",
+            "de": "Kinderclub und Pools",
+            "es": "Miniclub y piscinas",
+            "pt": "Clube infantil e piscinas"
           },
           "note": {
             "en": "Split by age, parents get a break.",
-            "fr": "Répartis par âge, les parents soufflent."
+            "fr": "Répartis par âge, les parents soufflent.",
+            "it": "Divisi per età, i genitori si prendono una pausa.",
+            "de": "Nach Alter aufgeteilt, die Eltern bekommen eine Pause.",
+            "es": "Repartidos por edad, los padres se toman un respiro.",
+            "pt": "Divididos por idade, os pais fazem uma pausa."
           }
         },
         {
           "time": "20:30",
           "title": {
             "en": "Themed evening show",
-            "fr": "Spectacle du soir à thème"
+            "fr": "Spectacle du soir à thème",
+            "it": "Spettacolo serale a tema",
+            "de": "Themen-Abendshow",
+            "es": "Espectáculo nocturno temático",
+            "pt": "Espetáculo noturno temático"
           },
           "note": {
             "en": "Character entertainment on the main stage.",
-            "fr": "Animation avec personnages sur la scène principale."
+            "fr": "Animation avec personnages sur la scène principale.",
+            "it": "Animazione con i personaggi sul palco principale.",
+            "de": "Unterhaltung mit Figuren auf der Hauptbühne.",
+            "es": "Animación con personajes en el escenario principal.",
+            "pt": "Animação com personagens no palco principal."
           }
         }
       ],
       "ageNotes": {
         "baby": {
           "en": "Doable with a baby thanks to shaded splash areas and family rooms, though it is really pitched at walking children.",
-          "fr": "Faisable avec un bébé grâce aux zones aquatiques ombragées et aux chambres familiales, même si tout vise surtout les enfants qui marchent."
+          "fr": "Faisable avec un bébé grâce aux zones aquatiques ombragées et aux chambres familiales, même si tout vise surtout les enfants qui marchent.",
+          "it": "Fattibile con un bebè grazie alle zone acquatiche ombreggiate e alle camere familiari, anche se punta soprattutto ai bambini che camminano.",
+          "de": "Mit einem Baby machbar dank schattiger Wasserbereiche und Familienzimmer, auch wenn es wirklich auf laufende Kinder ausgerichtet ist.",
+          "es": "Factible con un bebé gracias a las zonas acuáticas con sombra y las habitaciones familiares, aunque está pensado sobre todo para los niños que ya caminan.",
+          "pt": "Viável com um bebé graças às zonas aquáticas com sombra e aos quartos familiares, embora seja pensado sobretudo para crianças que já andam."
         },
         "toddler": {
           "en": "The themed splash zones and characters are toddler magic, with shallow water throughout.",
-          "fr": "Les zones aquatiques à thème et les personnages sont magiques pour les tout-petits, avec de l'eau peu profonde partout."
+          "fr": "Les zones aquatiques à thème et les personnages sont magiques pour les tout-petits, avec de l'eau peu profonde partout.",
+          "it": "Le zone acquatiche a tema e i personaggi sono magici per i più piccoli, con acqua poco profonda ovunque.",
+          "de": "Die thematischen Wasserbereiche und Figuren sind für Kleinkinder magisch, mit flachem Wasser überall.",
+          "es": "Las zonas acuáticas temáticas y los personajes son mágicos para los más pequeños, con agua poco profunda por todas partes.",
+          "pt": "As zonas aquáticas temáticas e as personagens são mágicas para os mais pequenos, com água pouco profunda por toda a parte."
         },
         "kid": {
           "en": "Prime age: slides, theming and the kids club fill every day.",
-          "fr": "L'âge idéal: toboggans, décor et club enfants remplissent chaque journée."
+          "fr": "L'âge idéal: toboggans, décor et club enfants remplissent chaque journée.",
+          "it": "L'età ideale: scivoli, tema e miniclub riempiono ogni giornata.",
+          "de": "Das ideale Alter: Rutschen, Thema und Kinderclub füllen jeden Tag.",
+          "es": "La edad ideal: toboganes, temática y miniclub llenan cada día.",
+          "pt": "A idade ideal: escorregas, tema e clube infantil preenchem cada dia."
         },
         "teen": {
           "en": "A separate teens club helps, but Golf del Sur is quiet, so teens may want day trips.",
-          "fr": "Un club ados séparé aide, mais Golf del Sur est calme, les ados voudront peut-être des excursions."
+          "fr": "Un club ados séparé aide, mais Golf del Sur est calme, les ados voudront peut-être des excursions.",
+          "it": "Un club ados separato aiuta, ma Golf del Sur è tranquillo, quindi gli adolescenti potrebbero volere delle escursioni.",
+          "de": "Ein separater Teenie-Club hilft, aber Golf del Sur ist ruhig, sodass Teenager vielleicht Tagesausflüge möchten.",
+          "es": "Un club de adolescentes separado ayuda, pero Golf del Sur es tranquilo, así que los adolescentes quizá quieran excursiones.",
+          "pt": "Um clube de adolescentes separado ajuda, mas Golf del Sur é tranquilo, por isso os adolescentes podem querer excursões."
         }
       },
       "faqs": [
         {
           "q": {
             "en": "Is there a beach at the hotel?",
-            "fr": "Y a-t-il une plage à l'hôtel?"
+            "fr": "Y a-t-il une plage à l'hôtel?",
+            "it": "C'è una spiaggia in hotel?",
+            "de": "Gibt es einen Strand am Hotel?",
+            "es": "¿Hay playa en el hotel?",
+            "pt": "Há praia no hotel?"
           },
           "a": {
             "en": "The coast here is rocky rather than a swimming beach; sandy beaches are a short drive away.",
-            "fr": "La côte ici est rocheuse plutôt qu'une plage de baignade; les plages de sable sont à un court trajet en voiture."
+            "fr": "La côte ici est rocheuse plutôt qu'une plage de baignade; les plages de sable sont à un court trajet en voiture.",
+            "it": "La costa qui è rocciosa più che una spiaggia balneabile; le spiagge di sabbia sono a un breve tragitto in auto.",
+            "de": "Die Küste hier ist eher felsig als ein Badestrand; Sandstrände sind eine kurze Autofahrt entfernt.",
+            "es": "La costa aquí es rocosa más que una playa de baño; las playas de arena están a un corto trayecto en coche.",
+            "pt": "A costa aqui é rochosa em vez de uma praia balnear; as praias de areia ficam a um curto trajeto de carro."
           }
         },
         {
           "q": {
             "en": "Is the water park included?",
-            "fr": "Le parc aquatique est-il inclus?"
+            "fr": "Le parc aquatique est-il inclus?",
+            "it": "Il parco acquatico è incluso?",
+            "de": "Ist der Wasserpark inbegriffen?",
+            "es": "¿Está incluido el parque acuático?",
+            "pt": "O parque aquático está incluído?"
           },
           "a": {
             "en": "Yes, the children's water park and pools are part of the resort and free to guests.",
-            "fr": "Oui, le parc aquatique enfants et les piscines font partie du complexe et sont gratuits pour les clients."
+            "fr": "Oui, le parc aquatique enfants et les piscines font partie du complexe et sont gratuits pour les clients.",
+            "it": "Sì, il parco acquatico per bambini e le piscine fanno parte del resort e sono gratuiti per gli ospiti.",
+            "de": "Ja, der Kinder-Wasserpark und die Pools gehören zum Resort und sind für Gäste kostenlos.",
+            "es": "Sí, el parque acuático para niños y las piscinas forman parte del complejo y son gratuitos para los huéspedes.",
+            "pt": "Sim, o parque aquático para crianças e as piscinas fazem parte do resort e são gratuitos para os hóspedes."
           }
         },
         {
           "q": {
             "en": "Is it good for teenagers?",
-            "fr": "Est-ce adapté aux adolescents?"
+            "fr": "Est-ce adapté aux adolescents?",
+            "it": "È adatto agli adolescenti?",
+            "de": "Ist es für Teenager geeignet?",
+            "es": "¿Es bueno para los adolescentes?",
+            "pt": "É bom para os adolescentes?"
           },
           "a": {
             "en": "There is a separate teens club, though the resort leans young; teens may want excursions for variety.",
-            "fr": "Il y a un club ados séparé, mais le complexe est plutôt jeune; les ados voudront des excursions pour varier."
+            "fr": "Il y a un club ados séparé, mais le complexe est plutôt jeune; les ados voudront des excursions pour varier.",
+            "it": "C'è un club ados separato, anche se il resort è piuttosto orientato ai piccoli; gli adolescenti potrebbero volere delle escursioni per variare.",
+            "de": "Es gibt einen separaten Teenie-Club, auch wenn das Resort eher jung ausgerichtet ist; Teenager möchten für Abwechslung vielleicht Ausflüge.",
+            "es": "Hay un club de adolescentes separado, aunque el complejo tira a lo joven; los adolescentes quizá quieran excursiones para variar.",
+            "pt": "Há um clube de adolescentes separado, embora o resort seja mais virado para os pequenos; os adolescentes podem querer excursões para variar."
           }
         }
       ]
@@ -5433,7 +5913,11 @@
       "name": "Paradise Park Fun Lifestyle Hotel",
       "area": {
         "en": "Los Cristianos",
-        "fr": "Los Cristianos"
+        "fr": "Los Cristianos",
+        "it": "Los Cristianos",
+        "de": "Los Cristianos",
+        "es": "Los Cristianos",
+        "pt": "Los Cristianos"
       },
       "lat": 28.048,
       "lng": -16.712,
@@ -5472,11 +5956,19 @@
       },
       "roomsSummary": {
         "en": "Straightforward family rooms that fit two adults and two children, most with a balcony. Not designer, but comfortable and well kept for the price.",
-        "fr": "Chambres familiales simples pour deux adultes et deux enfants, la plupart avec balcon. Sans prétention design, mais confortables et bien tenues pour le prix."
+        "fr": "Chambres familiales simples pour deux adultes et deux enfants, la plupart avec balcon. Sans prétention design, mais confortables et bien tenues pour le prix.",
+        "it": "Camere familiari semplici per due adulti e due bambini, la maggior parte con balcone. Non di design, ma comode e ben tenute per il prezzo.",
+        "de": "Schlichte Familienzimmer für zwei Erwachsene und zwei Kinder, die meisten mit Balkon. Nicht ausgefallen, aber komfortabel und für den Preis gut gepflegt.",
+        "es": "Habitaciones familiares sencillas para dos adultos y dos niños, la mayoría con balcón. No son de diseño, pero son cómodas y están bien cuidadas para el precio.",
+        "pt": "Quartos familiares simples para dois adultos e duas crianças, a maioria com varanda. Sem pretensões de design, mas confortáveis e bem mantidos para o preço."
       },
       "intro": {
         "en": "A cheerful four-star built around families, with five pools (three heated in the cooler months), a free kids club for 4 to 12s and a teen club above that. It sits in Los Cristianos, an easygoing resort with a calm town beach and a flat promenade, and Siam Park is a ten-minute drive.",
-        "fr": "Un quatre-étoiles enjoué pensé pour les familles, avec cinq piscines (trois chauffées à la saison fraîche), un club enfants gratuit pour les 4 a 12 ans et un club ados au-dessus. Il se trouve à Los Cristianos, station tranquille avec une plage de ville calme et une promenade plate, et le Siam Park est à dix minutes en voiture."
+        "fr": "Un quatre-étoiles enjoué pensé pour les familles, avec cinq piscines (trois chauffées à la saison fraîche), un club enfants gratuit pour les 4 a 12 ans et un club ados au-dessus. Il se trouve à Los Cristianos, station tranquille avec une plage de ville calme et une promenade plate, et le Siam Park est à dix minutes en voiture.",
+        "it": "Un quattro stelle allegro pensato per le famiglie, con cinque piscine (tre riscaldate nei mesi più freschi), un miniclub gratuito per i 4-12 anni e un club ados sopra quell'età. Si trova a Los Cristianos, una stazione rilassata con una tranquilla spiaggia cittadina e una passeggiata pianeggiante, e il Siam Park è a dieci minuti in auto.",
+        "de": "Ein fröhliches Vier-Sterne-Haus, das für Familien gemacht ist, mit fünf Pools (drei in den kühleren Monaten beheizt), einem kostenlosen Kinderclub für 4- bis 12-Jährige und einem Teenie-Club darüber. Es liegt in Los Cristianos, einem entspannten Ort mit ruhigem Stadtstrand und ebener Promenade, und der Siam Park ist zehn Autominuten entfernt.",
+        "es": "Un cuatro estrellas alegre pensado para las familias, con cinco piscinas (tres climatizadas en los meses más frescos), un miniclub gratuito para los de 4 a 12 años y un club de adolescentes por encima de esa edad. Está en Los Cristianos, un destino relajado con una playa urbana tranquila y un paseo llano, y el Siam Park está a diez minutos en coche.",
+        "pt": "Um quatro estrelas animado pensado para as famílias, com cinco piscinas (três aquecidas nos meses mais frescos), um clube infantil gratuito para os 4 aos 12 anos e um clube de adolescentes acima dessa idade. Fica em Los Cristianos, uma estância descontraída com uma praia urbana tranquila e um passeio plano, e o Siam Park está a dez minutos de carro."
       },
       "highlights": {
         "en": [
@@ -5494,6 +5986,38 @@
           "Aire de jeux sur place et spectacles familiaux quotidiens",
           "La plage de Los Cristianos est calme et plate à rejoindre",
           "Siam Park à dix minutes en voiture"
+        ],
+        "it": [
+          "Cinque piscine, tre riscaldate nei mesi più freschi",
+          "Miniclub gratuito (4-12 anni) mattina e pomeriggio",
+          "Club ados separato per gli over 13",
+          "Parco giochi in loco e spettacoli familiari quotidiani",
+          "La spiaggia cittadina di Los Cristianos è calma e in piano da raggiungere",
+          "Siam Park a dieci minuti in auto"
+        ],
+        "de": [
+          "Fünf Pools, drei in den kühleren Monaten beheizt",
+          "Kostenloser Kinderclub (4 bis 12 Jahre) vormittags und nachmittags",
+          "Separater Teenie-Club für über 13-Jährige",
+          "Spielplatz vor Ort und tägliche Familienshows",
+          "Der Stadtstrand von Los Cristianos ist ruhig und eben zu erreichen",
+          "Siam Park zehn Autominuten entfernt"
+        ],
+        "es": [
+          "Cinco piscinas, tres climatizadas en los meses más frescos",
+          "Miniclub gratuito (4 a 12 años) por la mañana y por la tarde",
+          "Club de adolescentes separado para mayores de 13",
+          "Parque infantil en las instalaciones y espectáculos familiares a diario",
+          "La playa urbana de Los Cristianos es tranquila y llana de alcanzar",
+          "Siam Park a diez minutos en coche"
+        ],
+        "pt": [
+          "Cinco piscinas, três aquecidas nos meses mais frescos",
+          "Clube infantil gratuito (4 a 12 anos) de manhã e à tarde",
+          "Clube de adolescentes separado para maiores de 13",
+          "Parque infantil no local e espetáculos familiares diários",
+          "A praia urbana de Los Cristianos é calma e plana de alcançar",
+          "Siam Park a dez minutos de carro"
         ]
       },
       "pros": {
@@ -5506,6 +6030,26 @@
           "Les piscines chauffées comptent pour les petits en hiver",
           "Clubs gratuits pour les jeunes enfants comme pour les ados",
           "Base calme et piétonne à Los Cristianos avec une plage douce"
+        ],
+        "it": [
+          "Le piscine riscaldate contano per i più piccoli d'inverno",
+          "Club gratuiti sia per i bambini più piccoli sia per gli adolescenti",
+          "Base tranquilla e a misura di pedone a Los Cristianos con una spiaggia dolce"
+        ],
+        "de": [
+          "Beheizte Pools sind für die Kleinen im Winter wichtig",
+          "Kostenlose Clubs sowohl für jüngere Kinder als auch für Teenager",
+          "Ruhige, fußläufige Basis in Los Cristianos mit einem sanften Strand"
+        ],
+        "es": [
+          "Las piscinas climatizadas importan para los pequeños en invierno",
+          "Clubs gratuitos tanto para los niños pequeños como para los adolescentes",
+          "Base tranquila y peatonal en Los Cristianos con una playa suave"
+        ],
+        "pt": [
+          "As piscinas aquecidas contam para os mais pequenos no inverno",
+          "Clubes gratuitos tanto para as crianças mais novas como para os adolescentes",
+          "Base tranquila e pedonal em Los Cristianos com uma praia suave"
         ]
       },
       "cons": {
@@ -5518,70 +6062,138 @@
           "Pas de grands toboggans sur place; le Siam Park est la solution sensations",
           "Chambres fonctionnelles plutôt qu'élégantes",
           "Populaire, les transats partent tôt en haute saison"
+        ],
+        "it": [
+          "Nessuno scivolo grande in loco; il Siam Park è la soluzione per le emozioni forti",
+          "Le camere sono funzionali più che eleganti",
+          "Popolare, quindi i lettini vanno via presto nelle settimane di punta"
+        ],
+        "de": [
+          "Keine großen Wasserrutschen vor Ort; der Siam Park ist die Lösung für den Rutschen-Kick",
+          "Die Zimmer sind eher funktional als stilvoll",
+          "Beliebt, daher sind die Liegen in den Hauptwochen früh vergriffen"
+        ],
+        "es": [
+          "No hay toboganes grandes en las instalaciones; el Siam Park es la solución para la emoción",
+          "Las habitaciones son funcionales más que elegantes",
+          "Popular, así que las hamacas se agotan pronto en las semanas de máxima afluencia"
+        ],
+        "pt": [
+          "Sem grandes escorregas no local; o Siam Park é a solução para a adrenalina",
+          "Os quartos são funcionais mais do que elegantes",
+          "Popular, por isso as espreguiçadeiras esgotam cedo nas semanas de pico"
         ]
       },
       "verdict": {
         "en": "A dependable, good-value family base in a calm resort, strong on pools and clubs. Pair it with a Siam Park day if your kids crave big slides.",
-        "fr": "Une base familiale fiable et d'un bon rapport qualité-prix dans une station calme, solide sur les piscines et les clubs. Complétez par une journée au Siam Park si vos enfants réclament de grands toboggans."
+        "fr": "Une base familiale fiable et d'un bon rapport qualité-prix dans une station calme, solide sur les piscines et les clubs. Complétez par une journée au Siam Park si vos enfants réclament de grands toboggans.",
+        "it": "Una base familiare affidabile e conveniente in una stazione tranquilla, forte su piscine e club. Abbinatela a una giornata al Siam Park se i vostri figli desiderano grandi scivoli.",
+        "de": "Eine verlässliche, preiswerte Familienbasis in einem ruhigen Ort, stark bei Pools und Clubs. Kombiniert sie mit einem Siam-Park-Tag, wenn eure Kinder große Rutschen wollen.",
+        "es": "Una base familiar fiable y de buena relación calidad-precio en un destino tranquilo, fuerte en piscinas y clubs. Combínala con un día en el Siam Park si tus hijos ansían toboganes grandes.",
+        "pt": "Uma base familiar de confiança e boa relação qualidade-preço numa estância tranquila, forte em piscinas e clubes. Combinem-na com um dia no Siam Park se os vossos filhos anseiam por grandes escorregas."
       },
       "parentTip": {
         "en": "The heated pools make a winter half-term genuinely swimmable for toddlers. The town beach is a flat pushchair walk, handy with a baby.",
-        "fr": "Les piscines chauffées rendent des vacances d'hiver vraiment baignables pour les tout-petits. La plage de ville se rejoint à plat en poussette, pratique avec un bébé."
+        "fr": "Les piscines chauffées rendent des vacances d'hiver vraiment baignables pour les tout-petits. La plage de ville se rejoint à plat en poussette, pratique avec un bébé.",
+        "it": "Le piscine riscaldate rendono una vacanza d'inverno davvero balneabile per i più piccoli. La spiaggia cittadina si raggiunge in piano con il passeggino, comodo con un bebè.",
+        "de": "Die beheizten Pools machen einen Winterurlaub für Kleinkinder wirklich zum Baden geeignet. Der Stadtstrand ist ein ebener Weg mit dem Kinderwagen, praktisch mit einem Baby.",
+        "es": "Las piscinas climatizadas hacen que unas vacaciones de invierno sean de verdad bañables para los más pequeños. La playa urbana se alcanza en llano con el cochecito, práctico con un bebé.",
+        "pt": "As piscinas aquecidas tornam umas férias de inverno verdadeiramente balneáveis para os mais pequenos. A praia urbana alcança-se em plano com o carrinho, prático com um bebé."
       },
       "atAGlance": [
         {
           "icon": "🏊",
           "label": {
             "en": "Pools",
-            "fr": "Piscines"
+            "fr": "Piscines",
+            "it": "Piscine",
+            "de": "Pools",
+            "es": "Piscinas",
+            "pt": "Piscinas"
           },
           "value": {
             "en": "5 pools, 3 heated in winter",
-            "fr": "5 piscines, 3 chauffées l'hiver"
+            "fr": "5 piscines, 3 chauffées l'hiver",
+            "it": "5 piscine, 3 riscaldate d'inverno",
+            "de": "5 Pools, 3 im Winter beheizt",
+            "es": "5 piscinas, 3 climatizadas en invierno",
+            "pt": "5 piscinas, 3 aquecidas no inverno"
           }
         },
         {
           "icon": "🧒",
           "label": {
             "en": "Kids club",
-            "fr": "Club enfants"
+            "fr": "Club enfants",
+            "it": "Miniclub",
+            "de": "Kinderclub",
+            "es": "Miniclub",
+            "pt": "Clube infantil"
           },
           "value": {
             "en": "Free, ages 4 to 12",
-            "fr": "Gratuit, de 4 a 12 ans"
+            "fr": "Gratuit, de 4 a 12 ans",
+            "it": "Gratuito, 4-12 anni",
+            "de": "Kostenlos, 4 bis 12 Jahre",
+            "es": "Gratuito, de 4 a 12 años",
+            "pt": "Gratuito, dos 4 aos 12 anos"
           }
         },
         {
           "icon": "🎮",
           "label": {
             "en": "Teens",
-            "fr": "Ados"
+            "fr": "Ados",
+            "it": "Adolescenti",
+            "de": "Teenager",
+            "es": "Adolescentes",
+            "pt": "Adolescentes"
           },
           "value": {
             "en": "Separate teen club",
-            "fr": "Club ados séparé"
+            "fr": "Club ados séparé",
+            "it": "Club ados separato",
+            "de": "Separater Teenie-Club",
+            "es": "Club de adolescentes separado",
+            "pt": "Clube de adolescentes separado"
           }
         },
         {
           "icon": "🏖️",
           "label": {
             "en": "Beach",
-            "fr": "Plage"
+            "fr": "Plage",
+            "it": "Spiaggia",
+            "de": "Strand",
+            "es": "Playa",
+            "pt": "Praia"
           },
           "value": {
             "en": "Los Cristianos, calm and flat",
-            "fr": "Los Cristianos, calme et plate"
+            "fr": "Los Cristianos, calme et plate",
+            "it": "Los Cristianos, calma e in piano",
+            "de": "Los Cristianos, ruhig und eben",
+            "es": "Los Cristianos, tranquila y llana",
+            "pt": "Los Cristianos, calma e plana"
           }
         },
         {
           "icon": "🚗",
           "label": {
             "en": "Siam Park",
-            "fr": "Siam Park"
+            "fr": "Siam Park",
+            "it": "Siam Park",
+            "de": "Siam Park",
+            "es": "Siam Park",
+            "pt": "Siam Park"
           },
           "value": {
             "en": "Ten-minute drive",
-            "fr": "Dix minutes en voiture"
+            "fr": "Dix minutes en voiture",
+            "it": "Dieci minuti in auto",
+            "de": "Zehn Autominuten",
+            "es": "Diez minutos en coche",
+            "pt": "Dez minutos de carro"
           }
         }
       ],
@@ -5590,11 +6202,19 @@
           "emoji": "🏊",
           "name": {
             "en": "Heated pool morning",
-            "fr": "Matinée piscine chauffée"
+            "fr": "Matinée piscine chauffée",
+            "it": "Mattinata in piscina riscaldata",
+            "de": "Vormittag im beheizten Pool",
+            "es": "Mañana de piscina climatizada",
+            "pt": "Manhã na piscina aquecida"
           },
           "detail": {
             "en": "Warm water even in winter, gentle for toddlers.",
-            "fr": "Eau chaude même en hiver, douce pour les tout-petits."
+            "fr": "Eau chaude même en hiver, douce pour les tout-petits.",
+            "it": "Acqua calda anche d'inverno, dolce per i più piccoli.",
+            "de": "Warmes Wasser auch im Winter, sanft für Kleinkinder.",
+            "es": "Agua cálida incluso en invierno, suave para los más pequeños.",
+            "pt": "Água quente mesmo no inverno, suave para os mais pequenos."
           },
           "ages": [
             "baby",
@@ -5603,36 +6223,60 @@
           ],
           "time": {
             "en": "Morning",
-            "fr": "Matin"
+            "fr": "Matin",
+            "it": "Mattina",
+            "de": "Vormittag",
+            "es": "Mañana",
+            "pt": "Manhã"
           }
         },
         {
           "emoji": "🎨",
           "name": {
             "en": "Mini club crafts",
-            "fr": "Ateliers mini club"
+            "fr": "Ateliers mini club",
+            "it": "Laboratori del miniclub",
+            "de": "Basteln im Miniclub",
+            "es": "Talleres del miniclub",
+            "pt": "Ateliês do clube infantil"
           },
           "detail": {
             "en": "Games, crafts and water fun for 4 to 12s while parents relax.",
-            "fr": "Jeux, bricolages et jeux d'eau pour les 4 a 12 ans pendant que les parents se détendent."
+            "fr": "Jeux, bricolages et jeux d'eau pour les 4 a 12 ans pendant que les parents se détendent.",
+            "it": "Giochi, laboratori e divertimento in acqua per i 4-12 anni mentre i genitori si rilassano.",
+            "de": "Spiele, Basteln und Wasserspaß für 4- bis 12-Jährige, während die Eltern entspannen.",
+            "es": "Juegos, manualidades y diversión en el agua para los de 4 a 12 años mientras los padres se relajan.",
+            "pt": "Jogos, trabalhos manuais e diversão na água para os 4 aos 12 anos enquanto os pais relaxam."
           },
           "ages": [
             "kid"
           ],
           "time": {
             "en": "Daily",
-            "fr": "Chaque jour"
+            "fr": "Chaque jour",
+            "it": "Ogni giorno",
+            "de": "Täglich",
+            "es": "Cada día",
+            "pt": "Todos os dias"
           }
         },
         {
           "emoji": "🚗",
           "name": {
             "en": "Siam Park day trip",
-            "fr": "Journée au Siam Park"
+            "fr": "Journée au Siam Park",
+            "it": "Gita al Siam Park",
+            "de": "Tagesausflug zum Siam Park",
+            "es": "Excursión al Siam Park",
+            "pt": "Excursão ao Siam Park"
           },
           "detail": {
             "en": "The island's big waterpark, ten minutes away, for the slide fix.",
-            "fr": "Le grand parc aquatique de l'île, à dix minutes, pour les sensations toboggans."
+            "fr": "Le grand parc aquatique de l'île, à dix minutes, pour les sensations toboggans.",
+            "it": "Il grande parco acquatico dell'isola, a dieci minuti, per le emozioni degli scivoli.",
+            "de": "Der große Wasserpark der Insel, zehn Minuten entfernt, für den Rutschen-Kick.",
+            "es": "El gran parque acuático de la isla, a diez minutos, para la emoción de los toboganes.",
+            "pt": "O grande parque aquático da ilha, a dez minutos, para a adrenalina dos escorregas."
           },
           "ages": [
             "kid",
@@ -5640,7 +6284,11 @@
           ],
           "time": {
             "en": "Full day",
-            "fr": "Journée entière"
+            "fr": "Journée entière",
+            "it": "Giornata intera",
+            "de": "Ganztägig",
+            "es": "Día completo",
+            "pt": "Dia inteiro"
           }
         }
       ],
@@ -5649,94 +6297,166 @@
           "time": "9:00",
           "title": {
             "en": "Breakfast buffet",
-            "fr": "Petit-déjeuner buffet"
+            "fr": "Petit-déjeuner buffet",
+            "it": "Colazione a buffet",
+            "de": "Frühstücksbuffet",
+            "es": "Desayuno buffet",
+            "pt": "Pequeno-almoço buffet"
           },
           "note": {
             "en": "Plenty of simple options for fussy eaters.",
-            "fr": "Beaucoup d'options simples pour les palais difficiles."
+            "fr": "Beaucoup d'options simples pour les palais difficiles.",
+            "it": "Tante opzioni semplici per i palati difficili.",
+            "de": "Viele einfache Optionen für wählerische Esser.",
+            "es": "Muchas opciones sencillas para los quisquillosos con la comida.",
+            "pt": "Muitas opções simples para os mais esquisitos com a comida."
           }
         },
         {
           "time": "10:30",
           "title": {
             "en": "Pools and playground",
-            "fr": "Piscines et aire de jeux"
+            "fr": "Piscines et aire de jeux",
+            "it": "Piscine e parco giochi",
+            "de": "Pools und Spielplatz",
+            "es": "Piscinas y parque infantil",
+            "pt": "Piscinas e parque infantil"
           },
           "note": {
             "en": "Heated pool for the little one, playground next door.",
-            "fr": "Piscine chauffée pour le petit, aire de jeux à côté."
+            "fr": "Piscine chauffée pour le petit, aire de jeux à côté.",
+            "it": "Piscina riscaldata per il piccolo, parco giochi accanto.",
+            "de": "Beheizter Pool für den Kleinen, Spielplatz nebenan.",
+            "es": "Piscina climatizada para el pequeño, parque infantil al lado.",
+            "pt": "Piscina aquecida para o mais novo, parque infantil ao lado."
           }
         },
         {
           "time": "13:00",
           "title": {
             "en": "Lunch then quiet time",
-            "fr": "Déjeuner puis temps calme"
+            "fr": "Déjeuner puis temps calme",
+            "it": "Pranzo poi tempo tranquillo",
+            "de": "Mittagessen, dann Ruhezeit",
+            "es": "Almuerzo y luego tiempo tranquilo",
+            "pt": "Almoço e depois tempo tranquilo"
           },
           "note": {
             "en": "Back to the room for the baby's nap.",
-            "fr": "Retour en chambre pour la sieste du bébé."
+            "fr": "Retour en chambre pour la sieste du bébé.",
+            "it": "Ritorno in camera per il pisolino del bebè.",
+            "de": "Zurück ins Zimmer für den Mittagsschlaf des Babys.",
+            "es": "De vuelta a la habitación para la siesta del bebé.",
+            "pt": "De volta ao quarto para a sesta do bebé."
           }
         },
         {
           "time": "16:00",
           "title": {
             "en": "Kids club, then beach stroll",
-            "fr": "Club enfants, puis balade à la plage"
+            "fr": "Club enfants, puis balade à la plage",
+            "it": "Miniclub, poi passeggiata in spiaggia",
+            "de": "Kinderclub, dann Strandspaziergang",
+            "es": "Miniclub, luego paseo por la playa",
+            "pt": "Clube infantil, depois passeio na praia"
           },
           "note": {
             "en": "Flat promenade walk to the town beach.",
-            "fr": "Promenade plate jusqu'à la plage de ville."
+            "fr": "Promenade plate jusqu'à la plage de ville.",
+            "it": "Passeggiata in piano fino alla spiaggia cittadina.",
+            "de": "Ebener Promenadenspaziergang zum Stadtstrand.",
+            "es": "Paseo llano por el paseo marítimo hasta la playa urbana.",
+            "pt": "Passeio plano pelo passeio marítimo até à praia urbana."
           }
         }
       ],
       "ageNotes": {
         "baby": {
           "en": "Heated pools and a flat, walkable beach make winter trips with a baby easy. Cots on request.",
-          "fr": "Piscines chauffées et plage plate et accessible rendent les séjours d'hiver faciles avec un bébé. Lits parapluie sur demande."
+          "fr": "Piscines chauffées et plage plate et accessible rendent les séjours d'hiver faciles avec un bébé. Lits parapluie sur demande.",
+          "it": "Piscine riscaldate e una spiaggia in piano e accessibile rendono facili i viaggi d'inverno con un bebè. Lettini su richiesta.",
+          "de": "Beheizte Pools und ein ebener, gut erreichbarer Strand machen Winterreisen mit einem Baby einfach. Reisebetten auf Anfrage.",
+          "es": "Las piscinas climatizadas y una playa llana y accesible hacen fáciles los viajes de invierno con un bebé. Cunas bajo petición.",
+          "pt": "As piscinas aquecidas e uma praia plana e acessível tornam fáceis as viagens de inverno com um bebé. Berços a pedido."
         },
         "toddler": {
           "en": "Warm pools, a playground and calm town beach suit toddlers well.",
-          "fr": "Piscines chaudes, aire de jeux et plage de ville calme conviennent bien aux tout-petits."
+          "fr": "Piscines chaudes, aire de jeux et plage de ville calme conviennent bien aux tout-petits.",
+          "it": "Piscine calde, un parco giochi e la tranquilla spiaggia cittadina si adattano bene ai più piccoli.",
+          "de": "Warme Pools, ein Spielplatz und der ruhige Stadtstrand passen gut zu Kleinkindern.",
+          "es": "Las piscinas cálidas, un parque infantil y la tranquila playa urbana van bien para los más pequeños.",
+          "pt": "As piscinas quentes, um parque infantil e a tranquila praia urbana adequam-se bem aos mais pequenos."
         },
         "kid": {
           "en": "Free kids club and pools on site, with Siam Park close for a big day out.",
-          "fr": "Club enfants gratuit et piscines sur place, avec le Siam Park tout près pour une grande journée."
+          "fr": "Club enfants gratuit et piscines sur place, avec le Siam Park tout près pour une grande journée.",
+          "it": "Miniclub gratuito e piscine in loco, con il Siam Park vicino per una grande giornata fuori.",
+          "de": "Kostenloser Kinderclub und Pools vor Ort, mit dem Siam Park in der Nähe für einen großen Tagesausflug.",
+          "es": "Miniclub gratuito y piscinas en las instalaciones, con el Siam Park cerca para un gran día fuera.",
+          "pt": "Clube infantil gratuito e piscinas no local, com o Siam Park perto para um grande dia fora."
         },
         "teen": {
           "en": "A separate teen club and easy town access give older ones some independence.",
-          "fr": "Un club ados séparé et un accès facile à la ville donnent un peu d'autonomie aux plus grands."
+          "fr": "Un club ados séparé et un accès facile à la ville donnent un peu d'autonomie aux plus grands.",
+          "it": "Un club ados separato e un facile accesso alla città danno ai più grandi un po' di autonomia.",
+          "de": "Ein separater Teenie-Club und einfacher Zugang zum Ort geben den Älteren etwas Unabhängigkeit.",
+          "es": "Un club de adolescentes separado y un acceso fácil al pueblo dan a los mayores algo de independencia.",
+          "pt": "Um clube de adolescentes separado e um acesso fácil à vila dão aos mais velhos alguma autonomia."
         }
       },
       "faqs": [
         {
           "q": {
             "en": "Are there waterslides at the hotel?",
-            "fr": "Y a-t-il des toboggans à l'hôtel?"
+            "fr": "Y a-t-il des toboggans à l'hôtel?",
+            "it": "Ci sono scivoli d'acqua in hotel?",
+            "de": "Gibt es Wasserrutschen im Hotel?",
+            "es": "¿Hay toboganes acuáticos en el hotel?",
+            "pt": "Há escorregas aquáticos no hotel?"
           },
           "a": {
             "en": "There are five pools but no large slides on site; Siam Park is a ten-minute drive for that.",
-            "fr": "Il y a cinq piscines mais pas de grands toboggans sur place; le Siam Park est à dix minutes pour cela."
+            "fr": "Il y a cinq piscines mais pas de grands toboggans sur place; le Siam Park est à dix minutes pour cela.",
+            "it": "Ci sono cinque piscine ma nessun grande scivolo in loco; il Siam Park è a dieci minuti in auto per quello.",
+            "de": "Es gibt fünf Pools, aber keine großen Rutschen vor Ort; dafür ist der Siam Park zehn Autominuten entfernt.",
+            "es": "Hay cinco piscinas pero no toboganes grandes en las instalaciones; el Siam Park está a diez minutos en coche para eso.",
+            "pt": "Há cinco piscinas mas nenhum grande escorrega no local; o Siam Park está a dez minutos de carro para isso."
           }
         },
         {
           "q": {
             "en": "Is the kids club free?",
-            "fr": "Le club enfants est-il gratuit?"
+            "fr": "Le club enfants est-il gratuit?",
+            "it": "Il miniclub è gratuito?",
+            "de": "Ist der Kinderclub kostenlos?",
+            "es": "¿El miniclub es gratuito?",
+            "pt": "O clube infantil é gratuito?"
           },
           "a": {
             "en": "Yes, the club for 4 to 12s is included, and there is a separate teen club too.",
-            "fr": "Oui, le club pour les 4 a 12 ans est inclus, et il y a aussi un club ados séparé."
+            "fr": "Oui, le club pour les 4 a 12 ans est inclus, et il y a aussi un club ados séparé.",
+            "it": "Sì, il club per i 4-12 anni è incluso, e c'è anche un club ados separato.",
+            "de": "Ja, der Club für 4- bis 12-Jährige ist inklusive, und es gibt auch einen separaten Teenie-Club.",
+            "es": "Sí, el club para los de 4 a 12 años está incluido, y también hay un club de adolescentes separado.",
+            "pt": "Sim, o clube para os 4 aos 12 anos está incluído, e há também um clube de adolescentes separado."
           }
         },
         {
           "q": {
             "en": "Are the pools warm in winter?",
-            "fr": "Les piscines sont-elles chaudes en hiver?"
+            "fr": "Les piscines sont-elles chaudes en hiver?",
+            "it": "Le piscine sono calde d'inverno?",
+            "de": "Sind die Pools im Winter warm?",
+            "es": "¿Están cálidas las piscinas en invierno?",
+            "pt": "As piscinas estão quentes no inverno?"
           },
           "a": {
             "en": "Three of the five pools are heated in the cooler months, which helps with little ones.",
-            "fr": "Trois des cinq piscines sont chauffées à la saison fraîche, ce qui aide avec les petits."
+            "fr": "Trois des cinq piscines sont chauffées à la saison fraîche, ce qui aide avec les petits.",
+            "it": "Tre delle cinque piscine sono riscaldate nei mesi più freschi, il che aiuta con i più piccoli.",
+            "de": "Drei der fünf Pools sind in den kühleren Monaten beheizt, was mit den Kleinen hilft.",
+            "es": "Tres de las cinco piscinas están climatizadas en los meses más frescos, lo que ayuda con los más pequeños.",
+            "pt": "Três das cinco piscinas são aquecidas nos meses mais frescos, o que ajuda com os mais pequenos."
           }
         }
       ]
@@ -5747,7 +6467,11 @@
       "name": "Spring Hotel Bitacora",
       "area": {
         "en": "Playa de las Americas",
-        "fr": "Playa de las Americas"
+        "fr": "Playa de las Americas",
+        "it": "Playa de las Americas",
+        "de": "Playa de las Americas",
+        "es": "Playa de las Americas",
+        "pt": "Playa de las Americas"
       },
       "lat": 28.058,
       "lng": -16.727,
@@ -5785,11 +6509,19 @@
       },
       "roomsSummary": {
         "en": "Comfortable family rooms with a balcony or terrace that fit two adults and two children. The draw here is outside the room: the aqua park and the huge adventure play area.",
-        "fr": "Chambres familiales confortables avec balcon ou terrasse pour deux adultes et deux enfants. L'attrait est à l'extérieur de la chambre: le parc aquatique et l'immense aire de jeux d'aventure."
+        "fr": "Chambres familiales confortables avec balcon ou terrasse pour deux adultes et deux enfants. L'attrait est à l'extérieur de la chambre: le parc aquatique et l'immense aire de jeux d'aventure.",
+        "it": "Comode camere familiari con balcone o terrazza per due adulti e due bambini. L'attrazione qui è fuori dalla camera: il parco acquatico e l'enorme area giochi d'avventura.",
+        "de": "Komfortable Familienzimmer mit Balkon oder Terrasse für zwei Erwachsene und zwei Kinder. Der Reiz liegt hier außerhalb des Zimmers: der Aquapark und der riesige Abenteuerspielbereich.",
+        "es": "Cómodas habitaciones familiares con balcón o terraza para dos adultos y dos niños. El atractivo aquí está fuera de la habitación: el parque acuático y la enorme zona de juegos de aventura.",
+        "pt": "Quartos familiares confortáveis com varanda ou terraço para dois adultos e duas crianças. A atração aqui está fora do quarto: o parque aquático e a enorme área de jogos de aventura."
       },
       "intro": {
         "en": "The family engine here is its on-site aqua park, with proper slides, an aqua loop and a multi-lane racer, plus Springlyworld, an adventure play park with dozens of climbing and slide activities. A kids club runs from 4 to 14, so the range is wide, and the beach is a short walk in the heart of Playa de las Americas.",
-        "fr": "Le moteur familial ici, c'est son parc aquatique sur place, avec de vrais toboggans, un aqua loop et un racer multipistes, plus Springlyworld, une aire d'aventure aux dizaines d'activités d'escalade et de glisse. Un club enfants va de 4 a 14 ans, la tranche est donc large, et la plage se rejoint à pied au cœur de Playa de las Americas."
+        "fr": "Le moteur familial ici, c'est son parc aquatique sur place, avec de vrais toboggans, un aqua loop et un racer multipistes, plus Springlyworld, une aire d'aventure aux dizaines d'activités d'escalade et de glisse. Un club enfants va de 4 a 14 ans, la tranche est donc large, et la plage se rejoint à pied au cœur de Playa de las Americas.",
+        "it": "Il motore per le famiglie qui è il suo parco acquatico interno, con veri scivoli, un aqua loop e un racer multipista, più Springlyworld, un parco avventura con decine di attività di arrampicata e scivoli. Un miniclub va dai 4 ai 14 anni, quindi la fascia è ampia, e la spiaggia si raggiunge a piedi nel cuore di Playa de las Americas.",
+        "de": "Der Familienmotor hier ist der hauseigene Aquapark mit echten Rutschen, einem Aqua Loop und einem Multi-Bahn-Racer, dazu Springlyworld, ein Abenteuerspielpark mit Dutzenden Kletter- und Rutschaktivitäten. Ein Kinderclub reicht von 4 bis 14 Jahren, die Spanne ist also breit, und der Strand ist ein kurzer Fußweg im Herzen von Playa de las Americas.",
+        "es": "El motor familiar aquí es su parque acuático en las instalaciones, con toboganes de verdad, un aqua loop y un racer de varios carriles, además de Springlyworld, un parque de aventura con decenas de actividades de escalada y toboganes. Un miniclub va de los 4 a los 14 años, así que el rango es amplio, y la playa se llega a pie en pleno Playa de las Americas.",
+        "pt": "O motor familiar aqui é o seu parque aquático no local, com verdadeiros escorregas, um aqua loop e um racer de várias pistas, mais o Springlyworld, um parque de aventura com dezenas de atividades de escalada e escorregas. Um clube infantil vai dos 4 aos 14 anos, por isso a faixa é ampla, e a praia alcança-se a pé no coração de Playa de las Americas."
       },
       "highlights": {
         "en": [
@@ -5807,6 +6539,38 @@
           "Playa de las Americas central, plage à courte marche",
           "Spectacles familiaux et animations en soirée",
           "Plusieurs piscines, dont une grande piscine principale"
+        ],
+        "it": [
+          "Parco acquatico interno con scivoli, aqua loop e racer",
+          "Parco avventura Springlyworld con decine di attività",
+          "Miniclub gratuito con un'ampia fascia 4-14 anni",
+          "Playa de las Americas centrale, spiaggia a breve passeggiata",
+          "Spettacoli familiari e animazione serale",
+          "Diverse piscine, tra cui una grande piscina principale"
+        ],
+        "de": [
+          "Hauseigener Aquapark mit Rutschen, Aqua Loop und Racer",
+          "Abenteuerpark Springlyworld mit Dutzenden Aktivitäten",
+          "Kostenloser Kinderclub mit breiter Spanne von 4 bis 14 Jahren",
+          "Zentrales Playa de las Americas, Strand ein kurzer Fußweg",
+          "Familienshows und Abendunterhaltung",
+          "Mehrere Pools, darunter ein großer Hauptpool"
+        ],
+        "es": [
+          "Parque acuático en las instalaciones con toboganes, aqua loop y racer",
+          "Parque de aventura Springlyworld con decenas de actividades",
+          "Miniclub gratuito con un amplio rango de 4 a 14 años",
+          "Playa de las Americas céntrica, playa a un corto paseo",
+          "Espectáculos familiares y animación nocturna",
+          "Varias piscinas, entre ellas una gran piscina principal"
+        ],
+        "pt": [
+          "Parque aquático no local com escorregas, aqua loop e racer",
+          "Parque de aventura Springlyworld com dezenas de atividades",
+          "Clube infantil gratuito com uma ampla faixa de 4 a 14 anos",
+          "Playa de las Americas central, praia a curta caminhada",
+          "Espetáculos familiares e animação à noite",
+          "Várias piscinas, incluindo uma grande piscina principal"
         ]
       },
       "pros": {
@@ -5819,6 +6583,26 @@
           "Vrais toboggans sur place, rare dans cette gamme de prix",
           "Springlyworld apporte des jeux au sec au-delà des piscines",
           "Emplacement central avec plage et boutiques à pied"
+        ],
+        "it": [
+          "Veri scivoli d'acqua in loco, una rarità in questa fascia di prezzo",
+          "Springlyworld offre varietà di giochi all'asciutto oltre le piscine",
+          "Posizione centrale con spiaggia e negozi a piedi"
+        ],
+        "de": [
+          "Echte Wasserrutschen vor Ort, eine Seltenheit in dieser Preisklasse",
+          "Springlyworld bietet Abwechslung beim Trockenspiel über die Pools hinaus",
+          "Zentrale Lage mit Strand und Geschäften zu Fuß"
+        ],
+        "es": [
+          "Toboganes acuáticos de verdad en las instalaciones, una rareza en esta franja de precio",
+          "Springlyworld aporta variedad de juego en seco más allá de las piscinas",
+          "Ubicación céntrica con la playa y las tiendas a pie"
+        ],
+        "pt": [
+          "Verdadeiros escorregas aquáticos no local, uma raridade nesta faixa de preço",
+          "O Springlyworld traz variedade de brincadeira em seco para além das piscinas",
+          "Localização central com a praia e as lojas a pé"
         ]
       },
       "cons": {
@@ -5831,70 +6615,138 @@
           "Plusieurs piscines sont réservées aux adultes, l'espace piscine familial est donc plus restreint",
           "Les toboggans ont des limites de taille et de poids pour les plus petits",
           "L'emplacement central signifie un cadre plus animé et fréquenté"
+        ],
+        "it": [
+          "Diverse piscine sono riservate agli adulti, quindi lo spazio piscina per le famiglie è più ristretto",
+          "Gli scivoli hanno limiti di altezza e peso per i più piccoli",
+          "La posizione centrale significa un ambiente più vivace e frequentato"
+        ],
+        "de": [
+          "Mehrere Pools sind nur für Erwachsene, sodass der Familienpoolbereich enger ist",
+          "Die Rutschen haben Größen- und Gewichtsgrenzen für die Kleinsten",
+          "Die zentrale Lage bedeutet eine lebhaftere, belebtere Umgebung"
+        ],
+        "es": [
+          "Varias piscinas son solo para adultos, así que el espacio de piscina familiar es más reducido",
+          "Los toboganes tienen límites de altura y peso para los más pequeños",
+          "La ubicación céntrica supone un ambiente más animado y concurrido"
+        ],
+        "pt": [
+          "Várias piscinas são só para adultos, por isso o espaço de piscina para famílias é mais reduzido",
+          "Os escorregas têm limites de altura e peso para os mais pequenos",
+          "A localização central significa um ambiente mais animado e movimentado"
         ]
       },
       "verdict": {
         "en": "One of the best value slide-and-play resorts in Playa de las Americas, ideal for active kids aged roughly 4 to 14. Less suited to a baby-focused, quiet trip.",
-        "fr": "L'un des meilleurs rapports qualité-prix pour toboggans et jeux à Playa de las Americas, idéal pour les enfants actifs d'environ 4 a 14 ans. Moins adapté à un séjour calme centré sur un bébé."
+        "fr": "L'un des meilleurs rapports qualité-prix pour toboggans et jeux à Playa de las Americas, idéal pour les enfants actifs d'environ 4 a 14 ans. Moins adapté à un séjour calme centré sur un bébé.",
+        "it": "Uno dei migliori resort con scivoli e giochi per rapporto qualità-prezzo a Playa de las Americas, ideale per bambini attivi tra circa 4 e 14 anni. Meno adatto a un soggiorno tranquillo incentrato su un neonato.",
+        "de": "Eines der Rutschen-und-Spiel-Resorts mit dem besten Preis-Leistungs-Verhältnis in Playa de las Americas, ideal für aktive Kinder von etwa 4 bis 14 Jahren. Weniger geeignet für einen ruhigen, auf ein Baby ausgerichteten Urlaub.",
+        "es": "Uno de los resorts de toboganes y juegos con mejor relación calidad-precio de Playa de las Americas, ideal para niños activos de entre 4 y 14 años aproximadamente. Menos adecuado para un viaje tranquilo centrado en un bebé.",
+        "pt": "Um dos resorts de escorregas e brincadeiras com melhor custo-benefício em Playa de las Americas, ideal para crianças ativas dos 4 aos 14 anos aproximadamente. Menos indicado para uma viagem tranquila centrada num bebé."
       },
       "parentTip": {
         "en": "Check the slide height and weight rules before promising the little ones a go, to avoid tears at the steps. Springlyworld is a great backup on windier days.",
-        "fr": "Vérifiez les règles de taille et de poids des toboggans avant de promettre un tour aux petits, pour éviter les larmes en haut des marches. Springlyworld est un bon plan B les jours de vent."
+        "fr": "Vérifiez les règles de taille et de poids des toboggans avant de promettre un tour aux petits, pour éviter les larmes en haut des marches. Springlyworld est un bon plan B les jours de vent.",
+        "it": "Controllate le regole di altezza e peso degli scivoli prima di promettere un giro ai più piccoli, per evitare lacrime in cima ai gradini. Springlyworld è un ottimo piano B nei giorni di vento.",
+        "de": "Prüft die Größen- und Gewichtsregeln der Rutschen, bevor ihr den Kleinen eine Fahrt versprecht, um Tränen an den Stufen zu vermeiden. Springlyworld ist eine tolle Alternative an windigeren Tagen.",
+        "es": "Consultad las normas de altura y peso de los toboganes antes de prometer una vuelta a los peques, para evitar lágrimas en las escaleras. Springlyworld es un gran plan B en los días de viento.",
+        "pt": "Verifiquem as regras de altura e peso dos escorregas antes de prometer uma volta aos mais pequenos, para evitar lágrimas no cimo dos degraus. Springlyworld é um ótimo plano B nos dias de vento."
       },
       "atAGlance": [
         {
           "icon": "🛝",
           "label": {
             "en": "Aqua park",
-            "fr": "Parc aquatique"
+            "fr": "Parc aquatique",
+            "it": "Parco acquatico",
+            "de": "Wasserpark",
+            "es": "Parque acuático",
+            "pt": "Parque aquático"
           },
           "value": {
             "en": "Slides, aqua loop, racer",
-            "fr": "Toboggans, aqua loop, racer"
+            "fr": "Toboggans, aqua loop, racer",
+            "it": "Scivoli, aqua loop, racer",
+            "de": "Rutschen, Aqua-Loop, Racer",
+            "es": "Toboganes, aqua loop, racer",
+            "pt": "Escorregas, aqua loop, racer"
           }
         },
         {
           "icon": "🧗",
           "label": {
             "en": "Adventure park",
-            "fr": "Parc d'aventure"
+            "fr": "Parc d'aventure",
+            "it": "Parco avventura",
+            "de": "Abenteuerpark",
+            "es": "Parque de aventuras",
+            "pt": "Parque de aventura"
           },
           "value": {
             "en": "Springlyworld, 90+ activities",
-            "fr": "Springlyworld, 90+ activités"
+            "fr": "Springlyworld, 90+ activités",
+            "it": "Springlyworld, oltre 90 attività",
+            "de": "Springlyworld, über 90 Aktivitäten",
+            "es": "Springlyworld, más de 90 actividades",
+            "pt": "Springlyworld, mais de 90 atividades"
           }
         },
         {
           "icon": "🧒",
           "label": {
             "en": "Kids club",
-            "fr": "Club enfants"
+            "fr": "Club enfants",
+            "it": "Club per bambini",
+            "de": "Kinderclub",
+            "es": "Club infantil",
+            "pt": "Clube infantil"
           },
           "value": {
             "en": "Free, ages 4 to 14",
-            "fr": "Gratuit, de 4 a 14 ans"
+            "fr": "Gratuit, de 4 a 14 ans",
+            "it": "Gratuito, da 4 a 14 anni",
+            "de": "Kostenlos, 4 bis 14 Jahre",
+            "es": "Gratis, de 4 a 14 años",
+            "pt": "Gratuito, dos 4 aos 14 anos"
           }
         },
         {
           "icon": "🏖️",
           "label": {
             "en": "Beach",
-            "fr": "Plage"
+            "fr": "Plage",
+            "it": "Spiaggia",
+            "de": "Strand",
+            "es": "Playa",
+            "pt": "Praia"
           },
           "value": {
             "en": "Short walk, central resort",
-            "fr": "Courte marche, station centrale"
+            "fr": "Courte marche, station centrale",
+            "it": "Breve camminata, resort centrale",
+            "de": "Kurzer Fußweg, zentrales Resort",
+            "es": "Corto paseo, resort céntrico",
+            "pt": "Curta caminhada, resort central"
           }
         },
         {
           "icon": "🏊",
           "label": {
             "en": "Pools",
-            "fr": "Piscines"
+            "fr": "Piscines",
+            "it": "Piscine",
+            "de": "Pools",
+            "es": "Piscinas",
+            "pt": "Piscinas"
           },
           "value": {
             "en": "Several, some adults-only",
-            "fr": "Plusieurs, certaines pour adultes"
+            "fr": "Plusieurs, certaines pour adultes",
+            "it": "Diverse, alcune per adulti",
+            "de": "Mehrere, einige nur für Erwachsene",
+            "es": "Varias, algunas solo para adultos",
+            "pt": "Várias, algumas só para adultos"
           }
         }
       ],
@@ -5903,11 +6755,19 @@
           "emoji": "🛝",
           "name": {
             "en": "Aqua park session",
-            "fr": "Session parc aquatique"
+            "fr": "Session parc aquatique",
+            "it": "Sessione al parco acquatico",
+            "de": "Wasserpark-Session",
+            "es": "Sesión en el parque acuático",
+            "pt": "Sessão no parque aquático"
           },
           "detail": {
             "en": "Slides, an aqua loop and a racer, with height and weight rules posted.",
-            "fr": "Toboggans, un aqua loop et un racer, avec règles de taille et de poids affichées."
+            "fr": "Toboggans, un aqua loop et un racer, avec règles de taille et de poids affichées.",
+            "it": "Scivoli, un aqua loop e un racer, con regole di altezza e peso affisse.",
+            "de": "Rutschen, ein Aqua-Loop und ein Racer, mit ausgehängten Größen- und Gewichtsregeln.",
+            "es": "Toboganes, un aqua loop y un racer, con normas de altura y peso publicadas.",
+            "pt": "Escorregas, um aqua loop e um racer, com regras de altura e peso afixadas."
           },
           "ages": [
             "kid",
@@ -5915,18 +6775,30 @@
           ],
           "time": {
             "en": "Morning",
-            "fr": "Matin"
+            "fr": "Matin",
+            "it": "Mattina",
+            "de": "Vormittag",
+            "es": "Mañana",
+            "pt": "Manhã"
           }
         },
         {
           "emoji": "🧗",
           "name": {
             "en": "Springlyworld play",
-            "fr": "Jeux Springlyworld"
+            "fr": "Jeux Springlyworld",
+            "it": "Giochi a Springlyworld",
+            "de": "Springlyworld-Spiel",
+            "es": "Juegos en Springlyworld",
+            "pt": "Brincadeiras na Springlyworld"
           },
           "detail": {
             "en": "Climbing frames, slides and play zones, plus shade for little ones.",
-            "fr": "Structures d'escalade, toboggans et zones de jeu, avec de l'ombre pour les petits."
+            "fr": "Structures d'escalade, toboggans et zones de jeu, avec de l'ombre pour les petits.",
+            "it": "Strutture per arrampicata, scivoli e aree gioco, più zone d'ombra per i più piccoli.",
+            "de": "Klettergerüste, Rutschen und Spielzonen, plus Schatten für die Kleinen.",
+            "es": "Estructuras de escalada, toboganes y zonas de juego, además de sombra para los más pequeños.",
+            "pt": "Estruturas de escalada, escorregas e zonas de brincadeira, além de sombra para os mais pequenos."
           },
           "ages": [
             "toddler",
@@ -5934,18 +6806,30 @@
           ],
           "time": {
             "en": "Afternoon",
-            "fr": "Après-midi"
+            "fr": "Après-midi",
+            "it": "Pomeriggio",
+            "de": "Nachmittag",
+            "es": "Tarde",
+            "pt": "Tarde"
           }
         },
         {
           "emoji": "🏖️",
           "name": {
             "en": "Beach and promenade",
-            "fr": "Plage et promenade"
+            "fr": "Plage et promenade",
+            "it": "Spiaggia e lungomare",
+            "de": "Strand und Promenade",
+            "es": "Playa y paseo marítimo",
+            "pt": "Praia e passeio marítimo"
           },
           "detail": {
             "en": "A short walk to the sand and the seafront path.",
-            "fr": "Une courte marche vers le sable et la promenade de bord de mer."
+            "fr": "Une courte marche vers le sable et la promenade de bord de mer.",
+            "it": "Una breve camminata verso la sabbia e il sentiero sul lungomare.",
+            "de": "Ein kurzer Fußweg zum Sand und zum Weg am Meer.",
+            "es": "Un corto paseo hasta la arena y el camino junto al mar.",
+            "pt": "Uma curta caminhada até à areia e ao caminho à beira-mar."
           },
           "ages": [
             "toddler",
@@ -5954,7 +6838,11 @@
           ],
           "time": {
             "en": "Flexible",
-            "fr": "Flexible"
+            "fr": "Flexible",
+            "it": "Flessibile",
+            "de": "Flexibel",
+            "es": "Flexible",
+            "pt": "Flexível"
           }
         }
       ],
@@ -5963,94 +6851,166 @@
           "time": "9:00",
           "title": {
             "en": "Breakfast buffet",
-            "fr": "Petit-déjeuner buffet"
+            "fr": "Petit-déjeuner buffet",
+            "it": "Colazione a buffet",
+            "de": "Frühstücksbuffet",
+            "es": "Desayuno bufé",
+            "pt": "Pequeno-almoço buffet"
           },
           "note": {
             "en": "Eat well before the aqua park opens.",
-            "fr": "On mange bien avant l'ouverture du parc aquatique."
+            "fr": "On mange bien avant l'ouverture du parc aquatique.",
+            "it": "Mangiate bene prima che apra il parco acquatico.",
+            "de": "Esst gut, bevor der Wasserpark öffnet.",
+            "es": "Comed bien antes de que abra el parque acuático.",
+            "pt": "Comam bem antes de o parque aquático abrir."
           }
         },
         {
           "time": "10:30",
           "title": {
             "en": "Aqua park",
-            "fr": "Parc aquatique"
+            "fr": "Parc aquatique",
+            "it": "Parco acquatico",
+            "de": "Wasserpark",
+            "es": "Parque acuático",
+            "pt": "Parque aquático"
           },
           "note": {
             "en": "Slides while the queues are short.",
-            "fr": "Toboggans tant que les files sont courtes."
+            "fr": "Toboggans tant que les files sont courtes.",
+            "it": "Scivoli mentre le code sono corte.",
+            "de": "Rutschen, solange die Schlangen kurz sind.",
+            "es": "Toboganes mientras las colas son cortas.",
+            "pt": "Escorregas enquanto as filas estão curtas."
           }
         },
         {
           "time": "13:00",
           "title": {
             "en": "Lunch and shade",
-            "fr": "Déjeuner et ombre"
+            "fr": "Déjeuner et ombre",
+            "it": "Pranzo e ombra",
+            "de": "Mittagessen und Schatten",
+            "es": "Almuerzo y sombra",
+            "pt": "Almoço e sombra"
           },
           "note": {
             "en": "Springlyworld shade for the youngest.",
-            "fr": "L'ombre de Springlyworld pour les plus jeunes."
+            "fr": "L'ombre de Springlyworld pour les plus jeunes.",
+            "it": "L'ombra di Springlyworld per i più piccoli.",
+            "de": "Springlyworld-Schatten für die Jüngsten.",
+            "es": "La sombra de Springlyworld para los más pequeños.",
+            "pt": "A sombra da Springlyworld para os mais novos."
           }
         },
         {
           "time": "16:00",
           "title": {
             "en": "Kids club, then beach",
-            "fr": "Club enfants, puis plage"
+            "fr": "Club enfants, puis plage",
+            "it": "Club per bambini, poi spiaggia",
+            "de": "Kinderclub, dann Strand",
+            "es": "Club infantil, luego playa",
+            "pt": "Clube infantil, depois praia"
           },
           "note": {
             "en": "Short walk down to the sand afterwards.",
-            "fr": "Courte descente vers le sable ensuite."
+            "fr": "Courte descente vers le sable ensuite.",
+            "it": "Breve discesa verso la sabbia dopo.",
+            "de": "Danach ein kurzer Weg hinunter zum Sand.",
+            "es": "Un corto paseo hasta la arena después.",
+            "pt": "Uma curta descida até à areia a seguir."
           }
         }
       ],
       "ageNotes": {
         "baby": {
           "en": "Workable with a baby, but the resort is pitched at active older children and several pools are adults-only.",
-          "fr": "Gérable avec un bébé, mais le complexe vise les enfants plus grands et actifs, et plusieurs piscines sont réservées aux adultes."
+          "fr": "Gérable avec un bébé, mais le complexe vise les enfants plus grands et actifs, et plusieurs piscines sont réservées aux adultes.",
+          "it": "Gestibile con un neonato, ma il resort è pensato per bambini più grandi e attivi e diverse piscine sono riservate agli adulti.",
+          "de": "Mit einem Baby machbar, aber das Resort ist auf aktive ältere Kinder ausgerichtet und mehrere Pools sind nur für Erwachsene.",
+          "es": "Viable con un bebé, pero el resort está orientado a niños mayores y activos y varias piscinas son solo para adultos.",
+          "pt": "Viável com um bebé, mas o resort é orientado para crianças mais crescidas e ativas e várias piscinas são só para adultos."
         },
         "toddler": {
           "en": "Springlyworld and shallow play suit toddlers; the big slides have size limits.",
-          "fr": "Springlyworld et les jeux peu profonds conviennent aux tout-petits; les grands toboggans ont des limites de taille."
+          "fr": "Springlyworld et les jeux peu profonds conviennent aux tout-petits; les grands toboggans ont des limites de taille.",
+          "it": "Springlyworld e i giochi in acqua bassa sono adatti ai più piccoli; i grandi scivoli hanno limiti di altezza.",
+          "de": "Springlyworld und das flache Wasserspiel eignen sich für Kleinkinder; die großen Rutschen haben Größengrenzen.",
+          "es": "Springlyworld y los juegos en agua poco profunda van bien para los peques; los toboganes grandes tienen límites de altura.",
+          "pt": "A Springlyworld e as brincadeiras em água pouco funda são ideais para os mais pequenos; os grandes escorregas têm limites de altura."
         },
         "kid": {
           "en": "Prime age: slides, adventure park and kids club fill every day.",
-          "fr": "L'âge idéal: toboggans, parc d'aventure et club enfants remplissent chaque journée."
+          "fr": "L'âge idéal: toboggans, parc d'aventure et club enfants remplissent chaque journée.",
+          "it": "Età ideale: scivoli, parco avventura e club per bambini riempiono ogni giornata.",
+          "de": "Ideales Alter: Rutschen, Abenteuerpark und Kinderclub füllen jeden Tag.",
+          "es": "Edad ideal: toboganes, parque de aventuras y club infantil llenan cada día.",
+          "pt": "Idade ideal: escorregas, parque de aventura e clube infantil preenchem cada dia."
         },
         "teen": {
           "en": "The racer slide and central location keep teens busy, with the beach and shops on foot.",
-          "fr": "Le racer et l'emplacement central occupent les ados, avec plage et boutiques à pied."
+          "fr": "Le racer et l'emplacement central occupent les ados, avec plage et boutiques à pied.",
+          "it": "Lo scivolo racer e la posizione centrale tengono occupati gli adolescenti, con spiaggia e negozi a piedi.",
+          "de": "Die Racer-Rutsche und die zentrale Lage halten Teenager auf Trab, mit Strand und Geschäften zu Fuß.",
+          "es": "El tobogán racer y la ubicación céntrica mantienen ocupados a los adolescentes, con la playa y las tiendas a pie.",
+          "pt": "O escorrega racer e a localização central mantêm os adolescentes ocupados, com praia e lojas a pé."
         }
       },
       "faqs": [
         {
           "q": {
             "en": "Are the waterslides suitable for young children?",
-            "fr": "Les toboggans conviennent-ils aux jeunes enfants?"
+            "fr": "Les toboggans conviennent-ils aux jeunes enfants?",
+            "it": "Gli scivoli acquatici sono adatti ai bambini piccoli?",
+            "de": "Sind die Wasserrutschen für kleine Kinder geeignet?",
+            "es": "¿Son los toboganes acuáticos adecuados para niños pequeños?",
+            "pt": "Os escorregas aquáticos são adequados para crianças pequenas?"
           },
           "a": {
             "en": "The main slides have height and weight limits; younger children have Springlyworld and shallow play instead.",
-            "fr": "Les toboggans principaux ont des limites de taille et de poids; les plus jeunes ont Springlyworld et les jeux peu profonds."
+            "fr": "Les toboggans principaux ont des limites de taille et de poids; les plus jeunes ont Springlyworld et les jeux peu profonds.",
+            "it": "Gli scivoli principali hanno limiti di altezza e peso; i bambini più piccoli hanno invece Springlyworld e i giochi in acqua bassa.",
+            "de": "Die Hauptrutschen haben Größen- und Gewichtsgrenzen; jüngere Kinder haben stattdessen Springlyworld und flaches Wasserspiel.",
+            "es": "Los toboganes principales tienen límites de altura y peso; los niños más pequeños tienen en su lugar Springlyworld y juegos en agua poco profunda.",
+            "pt": "Os escorregas principais têm limites de altura e peso; as crianças mais pequenas têm antes a Springlyworld e brincadeiras em água pouco funda."
           }
         },
         {
           "q": {
             "en": "Is the kids club free?",
-            "fr": "Le club enfants est-il gratuit?"
+            "fr": "Le club enfants est-il gratuit?",
+            "it": "Il club per bambini è gratuito?",
+            "de": "Ist der Kinderclub kostenlos?",
+            "es": "¿Es gratis el club infantil?",
+            "pt": "O clube infantil é gratuito?"
           },
           "a": {
             "en": "Yes, the club is included and covers a wide 4 to 14 age range.",
-            "fr": "Oui, le club est inclus et couvre une large tranche de 4 a 14 ans."
+            "fr": "Oui, le club est inclus et couvre une large tranche de 4 a 14 ans.",
+            "it": "Sì, il club è incluso e copre un'ampia fascia d'età da 4 a 14 anni.",
+            "de": "Ja, der Club ist inklusive und deckt eine breite Altersspanne von 4 bis 14 Jahren ab.",
+            "es": "Sí, el club está incluido y cubre una amplia franja de edad de 4 a 14 años.",
+            "pt": "Sim, o clube está incluído e abrange uma ampla faixa etária dos 4 aos 14 anos."
           }
         },
         {
           "q": {
             "en": "How far is the beach?",
-            "fr": "A quelle distance est la plage?"
+            "fr": "A quelle distance est la plage?",
+            "it": "Quanto dista la spiaggia?",
+            "de": "Wie weit ist der Strand entfernt?",
+            "es": "¿A qué distancia está la playa?",
+            "pt": "A que distância fica a praia?"
           },
           "a": {
             "en": "It is a short walk in central Playa de las Americas, with shops and restaurants on the way.",
-            "fr": "C'est une courte marche dans le centre de Playa de las Americas, avec boutiques et restaurants en chemin."
+            "fr": "C'est une courte marche dans le centre de Playa de las Americas, avec boutiques et restaurants en chemin.",
+            "it": "È una breve camminata nel centro di Playa de las Americas, con negozi e ristoranti lungo il percorso.",
+            "de": "Es ist ein kurzer Fußweg im Zentrum von Playa de las Americas, mit Geschäften und Restaurants unterwegs.",
+            "es": "Es un corto paseo en el centro de Playa de las Americas, con tiendas y restaurantes por el camino.",
+            "pt": "É uma curta caminhada no centro de Playa de las Americas, com lojas e restaurantes pelo caminho."
           }
         }
       ]
@@ -6061,7 +7021,11 @@
       "name": "HOVIMA Jardin Caleta",
       "area": {
         "en": "Costa Adeje (La Caleta)",
-        "fr": "Costa Adeje (La Caleta)"
+        "fr": "Costa Adeje (La Caleta)",
+        "it": "Costa Adeje (La Caleta)",
+        "de": "Costa Adeje (La Caleta)",
+        "es": "Costa Adeje (La Caleta)",
+        "pt": "Costa Adeje (La Caleta)"
       },
       "lat": 28.098,
       "lng": -16.756,
@@ -6101,11 +7065,19 @@
       },
       "roomsSummary": {
         "en": "Apartments rather than rooms: each has a kitchenette with hob, kettle and toaster, a lounge with a sofa bed and a balcony with pool or sea views. That self-catering setup is what makes it easy with a baby.",
-        "fr": "Des appartements plutôt que des chambres: chacun dispose d'une kitchenette avec plaques, bouilloire et grille-pain, d'un salon avec canapé-lit et d'un balcon avec vue piscine ou mer. C'est cette formule en gestion libre qui simplifie la vie avec un bébé."
+        "fr": "Des appartements plutôt que des chambres: chacun dispose d'une kitchenette avec plaques, bouilloire et grille-pain, d'un salon avec canapé-lit et d'un balcon avec vue piscine ou mer. C'est cette formule en gestion libre qui simplifie la vie avec un bébé.",
+        "it": "Appartamenti anziché camere: ognuno ha un angolo cottura con piastre, bollitore e tostapane, un soggiorno con divano letto e un balcone con vista piscina o mare. È proprio questa formula in autonomia a rendere tutto facile con un neonato.",
+        "de": "Appartements statt Zimmer: Jedes hat eine Kochnische mit Kochfeld, Wasserkocher und Toaster, einen Wohnbereich mit Schlafsofa und einen Balkon mit Pool- oder Meerblick. Genau diese Selbstversorger-Ausstattung macht es mit einem Baby einfach.",
+        "es": "Apartamentos en lugar de habitaciones: cada uno tiene una cocina pequeña con placa, hervidor y tostadora, un salón con sofá cama y un balcón con vistas a la piscina o al mar. Es esa opción de alojamiento independiente lo que lo hace fácil con un bebé.",
+        "pt": "Apartamentos em vez de quartos: cada um tem uma kitchenette com placa, chaleira e torradeira, uma sala com sofá-cama e uma varanda com vista para a piscina ou para o mar. É essa opção com cozinha própria que torna tudo fácil com um bebé."
       },
       "intro": {
         "en": "A modest, well-run aparthotel 50 metres from La Enramada beach, where the winning card for parents is the kitchenette: bottles, purees and early toddler teas without hunting for a restaurant. Three pools including a children's pool and one heated in winter, a small kids club and a playground round it out at a gentle price.",
-        "fr": "Un aparthotel modeste et bien géré à 50 mètres de la plage de La Enramada, où l'atout gagnant pour les parents est la kitchenette: biberons, purées et dîners précoces des tout-petits sans courir après un restaurant. Trois piscines dont une pour enfants et une chauffée l'hiver, un petit club enfants et une aire de jeux complètent l'ensemble à prix doux."
+        "fr": "Un aparthotel modeste et bien géré à 50 mètres de la plage de La Enramada, où l'atout gagnant pour les parents est la kitchenette: biberons, purées et dîners précoces des tout-petits sans courir après un restaurant. Trois piscines dont une pour enfants et une chauffée l'hiver, un petit club enfants et une aire de jeux complètent l'ensemble à prix doux.",
+        "it": "Un aparthotel modesto e ben gestito a 50 metri dalla spiaggia di La Enramada, dove la carta vincente per i genitori è l'angolo cottura: biberon, pappe e cene precoci dei più piccoli senza dover cercare un ristorante. Tre piscine tra cui una per bambini e una riscaldata in inverno, un piccolo club per bambini e un'area giochi completano il quadro a un prezzo contenuto.",
+        "de": "Ein bescheidenes, gut geführtes Aparthotel 50 Meter vom Strand La Enramada entfernt, wo der Trumpf für Eltern die Kochnische ist: Fläschchen, Breie und frühe Kleinkind-Abendessen, ohne ein Restaurant suchen zu müssen. Drei Pools, darunter ein Kinderpool und einer im Winter beheizt, ein kleiner Kinderclub und ein Spielplatz runden das Ganze zu einem sanften Preis ab.",
+        "es": "Un aparthotel modesto y bien gestionado a 50 metros de la playa de La Enramada, donde la baza ganadora para los padres es la cocina pequeña: biberones, purés y cenas tempranas de los peques sin buscar un restaurante. Tres piscinas, incluida una infantil y una climatizada en invierno, un pequeño club infantil y un parque infantil lo completan a un precio suave.",
+        "pt": "Um aparthotel modesto e bem gerido a 50 metros da praia de La Enramada, onde o trunfo para os pais é a kitchenette: biberões, papas e jantares cedo dos mais pequenos sem andar à procura de um restaurante. Três piscinas, incluindo uma para crianças e uma aquecida no inverno, um pequeno clube infantil e um parque de brincadeira completam o conjunto a um preço suave."
       },
       "highlights": {
         "en": [
@@ -6123,6 +7095,38 @@
           "Petit club enfants gratuit, mini-disco et aire de jeux",
           "Canapé-lit et balcon dans chaque appartement",
           "Prix doux pour la Costa Adeje"
+        ],
+        "it": [
+          "Appartamenti con angolo cottura, ideali per il ritmo di un neonato",
+          "A 50 metri dalla spiaggia di La Enramada",
+          "Tre piscine tra cui una per bambini, una riscaldata in inverno",
+          "Piccolo club per bambini gratuito, mini-disco e area giochi",
+          "Divano letto e balcone in ogni appartamento",
+          "Prezzi contenuti per la Costa Adeje"
+        ],
+        "de": [
+          "Appartements mit Kochnische, ideal für den Baby-Rhythmus",
+          "50 Meter vom Strand La Enramada entfernt",
+          "Drei Pools, darunter ein Kinderpool, einer im Winter beheizt",
+          "Kleiner kostenloser Kinderclub, Minidisco und Spielplatz",
+          "Schlafsofa und Balkon in jedem Appartement",
+          "Sanfte Preise für die Costa Adeje"
+        ],
+        "es": [
+          "Apartamentos con cocina pequeña, ideales para las rutinas de un bebé",
+          "A 50 metros de la playa de La Enramada",
+          "Tres piscinas, incluida una infantil, una climatizada en invierno",
+          "Pequeño club infantil gratuito, mini-disco y parque infantil",
+          "Sofá cama y balcón en cada apartamento",
+          "Precios suaves para la Costa Adeje"
+        ],
+        "pt": [
+          "Apartamentos com kitchenette, ideais para as rotinas de um bebé",
+          "A 50 metros da praia de La Enramada",
+          "Três piscinas, incluindo uma para crianças, uma aquecida no inverno",
+          "Pequeno clube infantil gratuito, mini-disco e parque de brincadeira",
+          "Sofá-cama e varanda em cada apartamento",
+          "Preços suaves para a Costa Adeje"
         ]
       },
       "pros": {
@@ -6135,6 +7139,26 @@
           "La gestion libre simplifie les repas de bébé et des tout-petits",
           "Très proche d'une plage calme, plat en poussette",
           "Bon rapport qualité-prix dans une zone plutôt chère"
+        ],
+        "it": [
+          "L'autonomia in cucina rende semplici i pasti di neonati e bambini piccoli",
+          "Molto vicino a una spiaggia tranquilla, in piano con il passeggino",
+          "Buon rapporto qualità-prezzo in una zona altrimenti cara"
+        ],
+        "de": [
+          "Selbstversorgung macht Baby- und Kleinkindmahlzeiten einfach",
+          "Sehr nah an einem ruhigen Strand, eben mit dem Kinderwagen",
+          "Gutes Preis-Leistungs-Verhältnis in einer sonst teuren Gegend"
+        ],
+        "es": [
+          "El alojamiento independiente facilita las comidas de bebés y peques",
+          "Muy cerca de una playa tranquila, llano con el cochecito",
+          "Buena relación calidad-precio en una zona por lo demás cara"
+        ],
+        "pt": [
+          "A cozinha própria simplifica as refeições de bebés e crianças pequenas",
+          "Muito perto de uma praia calma, plano com o carrinho",
+          "Bom custo-benefício numa zona de resto cara"
         ]
       },
       "cons": {
@@ -6147,70 +7171,138 @@
           "Équipements plus simples que les grands complexes, pas de toboggans",
           "Club enfants et animations à petite échelle",
           "La Caleta est calme le soir"
+        ],
+        "it": [
+          "Le strutture sono più semplici dei grandi resort, niente scivoli",
+          "Club per bambini e animazione sono di piccola scala",
+          "La Caleta è tranquilla la sera"
+        ],
+        "de": [
+          "Die Einrichtungen sind einfacher als in den großen Resorts, keine Rutschen",
+          "Kinderclub und Animation sind kleinformatig",
+          "La Caleta ist abends ruhig"
+        ],
+        "es": [
+          "Las instalaciones son más sencillas que las de los grandes resorts, sin toboganes",
+          "El club infantil y la animación son de pequeña escala",
+          "La Caleta es tranquila por las noches"
+        ],
+        "pt": [
+          "As instalações são mais simples do que as dos grandes resorts, sem escorregas",
+          "O clube infantil e a animação são de pequena escala",
+          "La Caleta é calma à noite"
         ]
       },
       "verdict": {
         "en": "The pick for a baby or toddler trip on a budget: a kitchenette, a calm beach next door and a heated pool, without paying five-star prices for slides you won't use yet.",
-        "fr": "Le choix pour un séjour avec bébé ou tout-petit à petit budget: une kitchenette, une plage calme à côté et une piscine chauffée, sans payer le prix d'un cinq-étoiles pour des toboggans encore inutiles."
+        "fr": "Le choix pour un séjour avec bébé ou tout-petit à petit budget: une kitchenette, une plage calme à côté et une piscine chauffée, sans payer le prix d'un cinq-étoiles pour des toboggans encore inutiles.",
+        "it": "La scelta per un viaggio con un neonato o un bambino piccolo a budget ridotto: un angolo cottura, una spiaggia tranquilla a fianco e una piscina riscaldata, senza pagare il prezzo di un cinque stelle per scivoli che non userete ancora.",
+        "de": "Die Wahl für einen Urlaub mit Baby oder Kleinkind bei knappem Budget: eine Kochnische, ein ruhiger Strand nebenan und ein beheizter Pool, ohne Fünf-Sterne-Preise für Rutschen zu zahlen, die ihr noch nicht nutzt.",
+        "es": "La elección para un viaje con un bebé o un peque con presupuesto ajustado: una cocina pequeña, una playa tranquila al lado y una piscina climatizada, sin pagar precios de cinco estrellas por toboganes que todavía no usaréis.",
+        "pt": "A escolha para uma viagem com um bebé ou uma criança pequena com orçamento reduzido: uma kitchenette, uma praia calma ao lado e uma piscina aquecida, sem pagar preços de cinco estrelas por escorregas que ainda não vão usar."
       },
       "parentTip": {
         "en": "Ask for an apartment near the heated pool if you are travelling in winter with a little one. The La Caleta seafront has easy, buggy-friendly restaurants for an early dinner.",
-        "fr": "Demandez un appartement près de la piscine chauffée si vous voyagez en hiver avec un petit. Le front de mer de La Caleta offre des restaurants faciles et accessibles en poussette pour un dîner tôt."
+        "fr": "Demandez un appartement près de la piscine chauffée si vous voyagez en hiver avec un petit. Le front de mer de La Caleta offre des restaurants faciles et accessibles en poussette pour un dîner tôt.",
+        "it": "Chiedete un appartamento vicino alla piscina riscaldata se viaggiate in inverno con un piccolo. Il lungomare di La Caleta ha ristoranti comodi e accessibili con il passeggino per una cena presto.",
+        "de": "Bittet um ein Appartement in der Nähe des beheizten Pools, wenn ihr im Winter mit einem Kleinen reist. Die Strandpromenade von La Caleta bietet unkomplizierte, kinderwagenfreundliche Restaurants für ein frühes Abendessen.",
+        "es": "Pedid un apartamento cerca de la piscina climatizada si viajáis en invierno con un peque. El paseo marítimo de La Caleta tiene restaurantes cómodos y accesibles con el cochecito para una cena temprana.",
+        "pt": "Peçam um apartamento perto da piscina aquecida se viajarem no inverno com um pequenote. A marginal de La Caleta tem restaurantes práticos e acessíveis com o carrinho para um jantar cedo."
       },
       "atAGlance": [
         {
           "icon": "🍳",
           "label": {
             "en": "Kitchenette",
-            "fr": "Kitchenette"
+            "fr": "Kitchenette",
+            "it": "Angolo cottura",
+            "de": "Kochnische",
+            "es": "Cocina pequeña",
+            "pt": "Kitchenette"
           },
           "value": {
             "en": "In every apartment",
-            "fr": "Dans chaque appartement"
+            "fr": "Dans chaque appartement",
+            "it": "In ogni appartamento",
+            "de": "In jedem Appartement",
+            "es": "En cada apartamento",
+            "pt": "Em cada apartamento"
           }
         },
         {
           "icon": "🏖️",
           "label": {
             "en": "Beach",
-            "fr": "Plage"
+            "fr": "Plage",
+            "it": "Spiaggia",
+            "de": "Strand",
+            "es": "Playa",
+            "pt": "Praia"
           },
           "value": {
             "en": "La Enramada, 50 metres",
-            "fr": "La Enramada, 50 mètres"
+            "fr": "La Enramada, 50 mètres",
+            "it": "La Enramada, 50 metri",
+            "de": "La Enramada, 50 Meter",
+            "es": "La Enramada, 50 metros",
+            "pt": "La Enramada, 50 metros"
           }
         },
         {
           "icon": "🏊",
           "label": {
             "en": "Pools",
-            "fr": "Piscines"
+            "fr": "Piscines",
+            "it": "Piscine",
+            "de": "Pools",
+            "es": "Piscinas",
+            "pt": "Piscinas"
           },
           "value": {
             "en": "3 pools, kids pool, 1 heated",
-            "fr": "3 piscines, pataugeoire, 1 chauffée"
+            "fr": "3 piscines, pataugeoire, 1 chauffée",
+            "it": "3 piscine, piscina bimbi, 1 riscaldata",
+            "de": "3 Pools, Kinderpool, 1 beheizt",
+            "es": "3 piscinas, piscina infantil, 1 climatizada",
+            "pt": "3 piscinas, piscina infantil, 1 aquecida"
           }
         },
         {
           "icon": "👶",
           "label": {
             "en": "Little ones",
-            "fr": "Tout-petits"
+            "fr": "Tout-petits",
+            "it": "Piccoli",
+            "de": "Die Kleinen",
+            "es": "Los más pequeños",
+            "pt": "Os pequenotes"
           },
           "value": {
             "en": "Self-catering and playground",
-            "fr": "Gestion libre et aire de jeux"
+            "fr": "Gestion libre et aire de jeux",
+            "it": "Autonomia in cucina e area giochi",
+            "de": "Selbstversorgung und Spielplatz",
+            "es": "Alojamiento independiente y parque infantil",
+            "pt": "Cozinha própria e parque de brincadeira"
           }
         },
         {
           "icon": "💶",
           "label": {
             "en": "Value",
-            "fr": "Prix"
+            "fr": "Prix",
+            "it": "Prezzo",
+            "de": "Preis",
+            "es": "Precio",
+            "pt": "Preço"
           },
           "value": {
             "en": "Gentle for Costa Adeje",
-            "fr": "Doux pour la Costa Adeje"
+            "fr": "Doux pour la Costa Adeje",
+            "it": "Contenuto per la Costa Adeje",
+            "de": "Sanft für die Costa Adeje",
+            "es": "Suave para la Costa Adeje",
+            "pt": "Suave para a Costa Adeje"
           }
         }
       ],
@@ -6219,11 +7311,19 @@
           "emoji": "🏊",
           "name": {
             "en": "Children's pool",
-            "fr": "Pataugeoire"
+            "fr": "Pataugeoire",
+            "it": "Piscina per bambini",
+            "de": "Kinderpool",
+            "es": "Piscina infantil",
+            "pt": "Piscina infantil"
           },
           "detail": {
             "en": "A shallow kids pool, with one main pool heated in winter.",
-            "fr": "Une pataugeoire peu profonde, avec une piscine principale chauffée l'hiver."
+            "fr": "Une pataugeoire peu profonde, avec une piscine principale chauffée l'hiver.",
+            "it": "Una piscina per bambini poco profonda, con una piscina principale riscaldata in inverno.",
+            "de": "Ein flacher Kinderpool, mit einem im Winter beheizten Hauptpool.",
+            "es": "Una piscina infantil poco profunda, con una piscina principal climatizada en invierno.",
+            "pt": "Uma piscina infantil pouco funda, com uma piscina principal aquecida no inverno."
           },
           "ages": [
             "baby",
@@ -6231,18 +7331,30 @@
           ],
           "time": {
             "en": "Morning",
-            "fr": "Matin"
+            "fr": "Matin",
+            "it": "Mattina",
+            "de": "Vormittag",
+            "es": "Mañana",
+            "pt": "Manhã"
           }
         },
         {
           "emoji": "🏖️",
           "name": {
             "en": "La Enramada beach",
-            "fr": "Plage de La Enramada"
+            "fr": "Plage de La Enramada",
+            "it": "Spiaggia di La Enramada",
+            "de": "Strand La Enramada",
+            "es": "Playa de La Enramada",
+            "pt": "Praia de La Enramada"
           },
           "detail": {
             "en": "Fifty metres to the sand, a flat pushchair walk.",
-            "fr": "Cinquante mètres jusqu'au sable, à plat en poussette."
+            "fr": "Cinquante mètres jusqu'au sable, à plat en poussette.",
+            "it": "Cinquanta metri fino alla sabbia, una camminata in piano con il passeggino.",
+            "de": "Fünfzig Meter bis zum Sand, ein ebener Fußweg mit dem Kinderwagen.",
+            "es": "Cincuenta metros hasta la arena, un paseo llano con el cochecito.",
+            "pt": "Cinquenta metros até à areia, uma caminhada plana com o carrinho."
           },
           "ages": [
             "baby",
@@ -6251,18 +7363,30 @@
           ],
           "time": {
             "en": "Flexible",
-            "fr": "Flexible"
+            "fr": "Flexible",
+            "it": "Flessibile",
+            "de": "Flexibel",
+            "es": "Flexible",
+            "pt": "Flexível"
           }
         },
         {
           "emoji": "🎪",
           "name": {
             "en": "Mini-disco",
-            "fr": "Mini-disco"
+            "fr": "Mini-disco",
+            "it": "Mini-disco",
+            "de": "Minidisco",
+            "es": "Mini-disco",
+            "pt": "Mini-disco"
           },
           "detail": {
             "en": "A small evening mini-disco that toddlers enjoy before bed.",
-            "fr": "Une petite mini-disco du soir que les tout-petits adorent avant le coucher."
+            "fr": "Une petite mini-disco du soir que les tout-petits adorent avant le coucher.",
+            "it": "Una piccola mini-disco serale che i più piccoli adorano prima di andare a letto.",
+            "de": "Eine kleine abendliche Minidisco, die Kleinkinder vor dem Schlafengehen lieben.",
+            "es": "Una pequeña mini-disco por la noche que encanta a los peques antes de dormir.",
+            "pt": "Uma pequena mini-disco à noite que os mais pequenos adoram antes de dormir."
           },
           "ages": [
             "toddler",
@@ -6270,7 +7394,11 @@
           ],
           "time": {
             "en": "Evening",
-            "fr": "Soir"
+            "fr": "Soir",
+            "it": "Sera",
+            "de": "Abend",
+            "es": "Noche",
+            "pt": "Noite"
           }
         }
       ],
@@ -6279,94 +7407,166 @@
           "time": "8:30",
           "title": {
             "en": "Breakfast in the apartment",
-            "fr": "Petit-déjeuner dans l'appartement"
+            "fr": "Petit-déjeuner dans l'appartement",
+            "it": "Colazione in appartamento",
+            "de": "Frühstück im Appartement",
+            "es": "Desayuno en el apartamento",
+            "pt": "Pequeno-almoço no apartamento"
           },
           "note": {
             "en": "Porridge and bottles at the baby's own pace.",
-            "fr": "Porridge et biberons au rythme du bébé."
+            "fr": "Porridge et biberons au rythme du bébé.",
+            "it": "Porridge e biberon al ritmo del neonato.",
+            "de": "Porridge und Fläschchen im eigenen Tempo des Babys.",
+            "es": "Gachas y biberones al ritmo del bebé.",
+            "pt": "Papa de aveia e biberões ao ritmo do bebé."
           }
         },
         {
           "time": "10:00",
           "title": {
             "en": "Beach then children's pool",
-            "fr": "Plage puis pataugeoire"
+            "fr": "Plage puis pataugeoire",
+            "it": "Spiaggia poi piscina per bambini",
+            "de": "Strand, dann Kinderpool",
+            "es": "Playa y luego piscina infantil",
+            "pt": "Praia e depois piscina infantil"
           },
           "note": {
             "en": "Sand first, then a warm dip.",
-            "fr": "Le sable d'abord, puis un bain chaud."
+            "fr": "Le sable d'abord, puis un bain chaud.",
+            "it": "Prima la sabbia, poi un bagno caldo.",
+            "de": "Erst der Sand, dann ein warmes Bad.",
+            "es": "Primero la arena, luego un baño calentito.",
+            "pt": "Primeiro a areia, depois um mergulho quentinho."
           }
         },
         {
           "time": "13:00",
           "title": {
             "en": "Lunch and nap in the room",
-            "fr": "Déjeuner et sieste en chambre"
+            "fr": "Déjeuner et sieste en chambre",
+            "it": "Pranzo e pisolino in camera",
+            "de": "Mittagessen und Mittagsschlaf im Zimmer",
+            "es": "Almuerzo y siesta en la habitación",
+            "pt": "Almoço e sesta no quarto"
           },
           "note": {
             "en": "Kitchenette lunch, then a proper nap.",
-            "fr": "Déjeuner à la kitchenette, puis une vraie sieste."
+            "fr": "Déjeuner à la kitchenette, puis une vraie sieste.",
+            "it": "Pranzo all'angolo cottura, poi un vero pisolino.",
+            "de": "Mittagessen an der Kochnische, dann ein richtiger Mittagsschlaf.",
+            "es": "Almuerzo en la cocina pequeña, luego una buena siesta.",
+            "pt": "Almoço na kitchenette, depois uma sesta a sério."
           }
         },
         {
           "time": "18:00",
           "title": {
             "en": "Early dinner and mini-disco",
-            "fr": "Dîner tôt et mini-disco"
+            "fr": "Dîner tôt et mini-disco",
+            "it": "Cena presto e mini-disco",
+            "de": "Frühes Abendessen und Minidisco",
+            "es": "Cena temprana y mini-disco",
+            "pt": "Jantar cedo e mini-disco"
           },
           "note": {
             "en": "Buggy-friendly seafront restaurants nearby.",
-            "fr": "Restaurants de bord de mer accessibles en poussette à proximité."
+            "fr": "Restaurants de bord de mer accessibles en poussette à proximité.",
+            "it": "Ristoranti sul lungomare accessibili con il passeggino nelle vicinanze.",
+            "de": "Kinderwagenfreundliche Restaurants an der Strandpromenade in der Nähe.",
+            "es": "Restaurantes junto al mar accesibles con el cochecito cerca.",
+            "pt": "Restaurantes à beira-mar acessíveis com o carrinho por perto."
           }
         }
       ],
       "ageNotes": {
         "baby": {
           "en": "The standout choice for babies: a kitchenette for bottles and purees, a heated pool and a calm beach next door. Cots on request.",
-          "fr": "Le choix phare pour les bébés: une kitchenette pour biberons et purées, une piscine chauffée et une plage calme à côté. Lits parapluie sur demande."
+          "fr": "Le choix phare pour les bébés: une kitchenette pour biberons et purées, une piscine chauffée et une plage calme à côté. Lits parapluie sur demande.",
+          "it": "La scelta di punta per i neonati: un angolo cottura per biberon e pappe, una piscina riscaldata e una spiaggia tranquilla a fianco. Lettini su richiesta.",
+          "de": "Die herausragende Wahl für Babys: eine Kochnische für Fläschchen und Breie, ein beheizter Pool und ein ruhiger Strand nebenan. Reisebetten auf Anfrage.",
+          "es": "La opción estrella para bebés: una cocina pequeña para biberones y purés, una piscina climatizada y una playa tranquila al lado. Cunas bajo petición.",
+          "pt": "A escolha de destaque para bebés: uma kitchenette para biberões e papas, uma piscina aquecida e uma praia calma ao lado. Berços a pedido."
         },
         "toddler": {
           "en": "The children's pool, playground and mini-disco keep toddlers happy at an easy pace.",
-          "fr": "La pataugeoire, l'aire de jeux et la mini-disco comblent les tout-petits à un rythme tranquille."
+          "fr": "La pataugeoire, l'aire de jeux et la mini-disco comblent les tout-petits à un rythme tranquille.",
+          "it": "La piscina per bambini, l'area giochi e la mini-disco tengono contenti i più piccoli a un ritmo tranquillo.",
+          "de": "Der Kinderpool, der Spielplatz und die Minidisco halten Kleinkinder in einem gemütlichen Tempo bei Laune.",
+          "es": "La piscina infantil, el parque infantil y la mini-disco mantienen contentos a los peques a un ritmo tranquilo.",
+          "pt": "A piscina infantil, o parque de brincadeira e a mini-disco mantêm os mais pequenos felizes a um ritmo tranquilo."
         },
         "kid": {
           "en": "Fine for younger kids, though there are no slides and the club is small.",
-          "fr": "Correct pour les jeunes enfants, mais il n'y a pas de toboggans et le club est petit."
+          "fr": "Correct pour les jeunes enfants, mais il n'y a pas de toboggans et le club est petit.",
+          "it": "Va bene per i bambini più piccoli, anche se non ci sono scivoli e il club è piccolo.",
+          "de": "In Ordnung für jüngere Kinder, allerdings gibt es keine Rutschen und der Club ist klein.",
+          "es": "Bien para niños más pequeños, aunque no hay toboganes y el club es pequeño.",
+          "pt": "Bom para crianças mais novas, embora não haja escorregas e o clube seja pequeno."
         },
         "teen": {
           "en": "Quiet for teens; better suited to families with younger children.",
-          "fr": "Calme pour les ados; mieux adapté aux familles avec de jeunes enfants."
+          "fr": "Calme pour les ados; mieux adapté aux familles avec de jeunes enfants.",
+          "it": "Tranquillo per gli adolescenti; più adatto a famiglie con bambini piccoli.",
+          "de": "Ruhig für Teenager; besser geeignet für Familien mit jüngeren Kindern.",
+          "es": "Tranquilo para los adolescentes; más indicado para familias con niños pequeños.",
+          "pt": "Calmo para adolescentes; mais indicado para famílias com crianças pequenas."
         }
       },
       "faqs": [
         {
           "q": {
             "en": "Do the apartments have a kitchen?",
-            "fr": "Les appartements ont-ils une cuisine?"
+            "fr": "Les appartements ont-ils une cuisine?",
+            "it": "Gli appartamenti hanno una cucina?",
+            "de": "Haben die Appartements eine Küche?",
+            "es": "¿Tienen cocina los apartamentos?",
+            "pt": "Os apartamentos têm cozinha?"
           },
           "a": {
             "en": "Yes, each has a kitchenette with a hob, kettle and toaster, ideal for baby and toddler meals.",
-            "fr": "Oui, chacun a une kitchenette avec plaques, bouilloire et grille-pain, idéale pour les repas de bébé et des tout-petits."
+            "fr": "Oui, chacun a une kitchenette avec plaques, bouilloire et grille-pain, idéale pour les repas de bébé et des tout-petits.",
+            "it": "Sì, ognuno ha un angolo cottura con piastre, bollitore e tostapane, ideale per i pasti di neonati e bambini piccoli.",
+            "de": "Ja, jedes hat eine Kochnische mit Kochfeld, Wasserkocher und Toaster, ideal für Baby- und Kleinkindmahlzeiten.",
+            "es": "Sí, cada uno tiene una cocina pequeña con placa, hervidor y tostadora, ideal para las comidas de bebés y peques.",
+            "pt": "Sim, cada um tem uma kitchenette com placa, chaleira e torradeira, ideal para as refeições de bebés e crianças pequenas."
           }
         },
         {
           "q": {
             "en": "How close is the beach?",
-            "fr": "A quelle distance est la plage?"
+            "fr": "A quelle distance est la plage?",
+            "it": "Quanto è vicina la spiaggia?",
+            "de": "Wie nah ist der Strand?",
+            "es": "¿A qué distancia está la playa?",
+            "pt": "A que distância fica a praia?"
           },
           "a": {
             "en": "La Enramada beach is about 50 metres away, a flat and easy walk with a pushchair.",
-            "fr": "La plage de La Enramada est à environ 50 mètres, une marche plate et facile en poussette."
+            "fr": "La plage de La Enramada est à environ 50 mètres, une marche plate et facile en poussette.",
+            "it": "La spiaggia di La Enramada dista circa 50 metri, una camminata in piano e facile con il passeggino.",
+            "de": "Der Strand La Enramada ist etwa 50 Meter entfernt, ein ebener und leichter Fußweg mit dem Kinderwagen.",
+            "es": "La playa de La Enramada está a unos 50 metros, un paseo llano y fácil con el cochecito.",
+            "pt": "A praia de La Enramada fica a cerca de 50 metros, uma caminhada plana e fácil com o carrinho."
           }
         },
         {
           "q": {
             "en": "Are there waterslides?",
-            "fr": "Y a-t-il des toboggans?"
+            "fr": "Y a-t-il des toboggans?",
+            "it": "Ci sono scivoli acquatici?",
+            "de": "Gibt es Wasserrutschen?",
+            "es": "¿Hay toboganes acuáticos?",
+            "pt": "Há escorregas aquáticos?"
           },
           "a": {
             "en": "No large slides here; it is a calmer aparthotel with a children's pool and playground.",
-            "fr": "Pas de grands toboggans ici; c'est un aparthotel plus calme avec une pataugeoire et une aire de jeux."
+            "fr": "Pas de grands toboggans ici; c'est un aparthotel plus calme avec une pataugeoire et une aire de jeux.",
+            "it": "Niente grandi scivoli qui; è un aparthotel più tranquillo con una piscina per bambini e un'area giochi.",
+            "de": "Keine großen Rutschen hier; es ist ein ruhigeres Aparthotel mit einem Kinderpool und einem Spielplatz.",
+            "es": "Aquí no hay toboganes grandes; es un aparthotel más tranquilo con una piscina infantil y un parque infantil.",
+            "pt": "Aqui não há grandes escorregas; é um aparthotel mais calmo com uma piscina infantil e um parque de brincadeira."
           }
         }
       ]
@@ -6377,7 +7577,11 @@
       "name": "Mare Nostrum Resort",
       "area": {
         "en": "Playa de las Americas",
-        "fr": "Playa de las Americas"
+        "fr": "Playa de las Americas",
+        "it": "Playa de las Americas",
+        "de": "Playa de las Americas",
+        "es": "Playa de las Americas",
+        "pt": "Playa de las Americas"
       },
       "lat": 28.056,
       "lng": -16.726,
@@ -6416,11 +7620,19 @@
       },
       "roomsSummary": {
         "en": "Stay in the Mediterranean Palace, the family-oriented hotel within the complex, where family rooms sleep four comfortably. Booking there gives you free access to the Mare Kids clubs and the wider resort pools.",
-        "fr": "Logez au Mediterranean Palace, l'hôtel familial du complexe, où les chambres familiales accueillent quatre personnes sans souci. Y réserver donne un accès gratuit aux clubs Mare Kids et aux piscines de l'ensemble du complexe."
+        "fr": "Logez au Mediterranean Palace, l'hôtel familial du complexe, où les chambres familiales accueillent quatre personnes sans souci. Y réserver donne un accès gratuit aux clubs Mare Kids et aux piscines de l'ensemble du complexe.",
+        "it": "Soggiornate al Mediterranean Palace, l'hotel a vocazione familiare all'interno del complesso, dove le camere familiari ospitano comodamente quattro persone. Prenotare lì vi dà accesso gratuito ai club Mare Kids e alle piscine dell'intero resort.",
+        "de": "Übernachtet im Mediterranean Palace, dem familienorientierten Hotel innerhalb des Komplexes, wo Familienzimmer vier Personen bequem Platz bieten. Eine Buchung dort verschafft euch kostenlosen Zugang zu den Mare-Kids-Clubs und den Pools des gesamten Resorts.",
+        "es": "Alojaos en el Mediterranean Palace, el hotel orientado a familias dentro del complejo, donde las habitaciones familiares acogen a cuatro personas con comodidad. Reservar allí os da acceso gratuito a los clubes Mare Kids y a las piscinas de todo el resort.",
+        "pt": "Fiquem no Mediterranean Palace, o hotel virado para famílias dentro do complexo, onde os quartos familiares acomodam quatro pessoas com conforto. Reservar aí dá-vos acesso gratuito aos clubes Mare Kids e às piscinas de todo o resort."
       },
       "intro": {
         "en": "A big seafront resort complex in the heart of Playa de las Americas, best for families through its Mediterranean Palace hotel. The standout is the club structure: a Turtle Club from just 6 months, then age bands up to a teen club, all free for family-hotel guests, plus four pools and an enclosed supervised kids pool.",
-        "fr": "Un grand complexe de bord de mer au cœur de Playa de las Americas, idéal pour les familles via son hôtel Mediterranean Palace. Le point fort, c'est la structure des clubs: un Turtle Club dès 6 mois seulement, puis des tranches d'âge jusqu'à un club ados, le tout gratuit pour les clients de l'hôtel familial, plus quatre piscines et une pataugeoire fermée et surveillée."
+        "fr": "Un grand complexe de bord de mer au cœur de Playa de las Americas, idéal pour les familles via son hôtel Mediterranean Palace. Le point fort, c'est la structure des clubs: un Turtle Club dès 6 mois seulement, puis des tranches d'âge jusqu'à un club ados, le tout gratuit pour les clients de l'hôtel familial, plus quatre piscines et une pataugeoire fermée et surveillée.",
+        "it": "Un grande complesso resort sul lungomare nel cuore di Playa de las Americas, ideale per le famiglie grazie al suo hotel Mediterranean Palace. Il punto forte è la struttura dei club: un Turtle Club già da 6 mesi, poi fasce d'età fino a un club per adolescenti, tutto gratuito per gli ospiti dell'hotel familiare, più quattro piscine e una piscina per bambini recintata e sorvegliata.",
+        "de": "Ein großer Resortkomplex am Meer im Herzen von Playa de las Americas, am besten für Familien durch sein Hotel Mediterranean Palace. Das Herausragende ist die Clubstruktur: ein Turtle Club schon ab 6 Monaten, dann Altersgruppen bis zu einem Teenagerclub, alles kostenlos für Gäste des Familienhotels, plus vier Pools und ein umzäunter, beaufsichtigter Kinderpool.",
+        "es": "Un gran complejo resort frente al mar en el corazón de Playa de las Americas, ideal para familias gracias a su hotel Mediterranean Palace. Lo destacado es la estructura de clubes: un Turtle Club desde solo 6 meses, luego franjas de edad hasta un club de adolescentes, todo gratis para los huéspedes del hotel familiar, además de cuatro piscinas y una piscina infantil cercada y vigilada.",
+        "pt": "Um grande complexo de resort à beira-mar no coração de Playa de las Americas, ideal para famílias graças ao seu hotel Mediterranean Palace. O ponto forte é a estrutura de clubes: um Turtle Club logo a partir dos 6 meses, depois faixas etárias até um clube de adolescentes, tudo gratuito para os hóspedes do hotel familiar, além de quatro piscinas e uma piscina infantil vedada e vigiada."
       },
       "highlights": {
         "en": [
@@ -6438,6 +7650,38 @@
           "Quatre piscines dans l'ensemble du complexe",
           "Cadre de bord de mer, plage et promenade à pied",
           "Accès gratuit aux clubs pour les clients du Mediterranean Palace"
+        ],
+        "it": [
+          "Turtle Club da 6 mesi, una rara offerta per neonati",
+          "Club per fasce d'età fino a un club per adolescenti (13-16 anni)",
+          "Piscina per bambini recintata e sorvegliata",
+          "Quattro piscine nell'intero complesso resort",
+          "Posizione sul lungomare, spiaggia e passeggiata a piedi",
+          "Accesso gratuito ai club per gli ospiti del Mediterranean Palace"
+        ],
+        "de": [
+          "Turtle Club ab 6 Monaten, ein seltenes frühes Babyangebot",
+          "Altersgestaffelte Clubs bis zu einem Teenagerclub (13 bis 16)",
+          "Umzäunter, beaufsichtigter Kinderpool",
+          "Vier Pools im gesamten Resortkomplex",
+          "Lage am Meer, Strand und Promenade zu Fuß",
+          "Kostenloser Clubzugang für Gäste des Mediterranean Palace"
+        ],
+        "es": [
+          "Turtle Club desde 6 meses, una rara oferta para bebés",
+          "Clubes por franjas de edad hasta un club de adolescentes (13 a 16)",
+          "Piscina infantil cercada y vigilada",
+          "Cuatro piscinas en todo el complejo resort",
+          "Ubicación frente al mar, playa y paseo a pie",
+          "Acceso gratuito a los clubes para los huéspedes del Mediterranean Palace"
+        ],
+        "pt": [
+          "Turtle Club a partir dos 6 meses, uma rara oferta para bebés",
+          "Clubes por faixas etárias até um clube de adolescentes (13 a 16)",
+          "Piscina infantil vedada e vigiada",
+          "Quatro piscinas em todo o complexo do resort",
+          "Localização à beira-mar, praia e passeio a pé",
+          "Acesso gratuito aos clubes para os hóspedes do Mediterranean Palace"
         ]
       },
       "pros": {
@@ -6450,6 +7694,26 @@
           "Le club bébé dès 6 mois est vraiment rare",
           "Tranches d'âge nettes pour que chaque enfant ait le bon rythme",
           "Emplacement central en bord de mer, facile pour plage et balades"
+        ],
+        "it": [
+          "Il club per neonati da 6 mesi è davvero insolito",
+          "Fasce d'età chiare così ogni bambino ha il ritmo giusto",
+          "Posizione centrale sul lungomare, comoda per spiaggia e passeggiate"
+        ],
+        "de": [
+          "Der Babyclub ab 6 Monaten ist wirklich ungewöhnlich",
+          "Klare Altersgruppen, damit jedes Kind das richtige Tempo bekommt",
+          "Zentrale Lage am Meer, praktisch für Strand und Spaziergänge"
+        ],
+        "es": [
+          "El club para bebés desde 6 meses es realmente inusual",
+          "Franjas de edad claras para que cada niño tenga el ritmo adecuado",
+          "Ubicación céntrica frente al mar, cómoda para playa y paseos"
+        ],
+        "pt": [
+          "O clube para bebés a partir dos 6 meses é mesmo invulgar",
+          "Faixas etárias claras para que cada criança tenha o ritmo certo",
+          "Localização central à beira-mar, prática para praia e passeios"
         ]
       },
       "cons": {
@@ -6462,70 +7726,138 @@
           "Réservez le bon hôtel: l'accès aux clubs n'est gratuit que pour les clients de l'hôtel familial",
           "Le Cleopatra Palace du complexe est plus calme et moins tourné vers les familles",
           "Pas de grands toboggans sur place; ce sont des piscines plutôt qu'un parc aquatique"
+        ],
+        "it": [
+          "Prenotate l'hotel giusto: l'accesso ai club è gratuito solo per gli ospiti dell'hotel familiare",
+          "Il Cleopatra Palace all'interno del complesso è più tranquillo e meno orientato alle famiglie",
+          "Nessun grande scivolo acquatico in loco; sono piscine più che un parco acquatico"
+        ],
+        "de": [
+          "Bucht das richtige Hotel: Der Clubzugang ist nur für Gäste des Familienhotels kostenlos",
+          "Das Cleopatra Palace innerhalb des Komplexes ist ruhiger und weniger familienorientiert",
+          "Keine großen Wasserrutschen vor Ort; es sind eher Pools als ein Wasserpark"
+        ],
+        "es": [
+          "Reservad el hotel correcto: el acceso a los clubes es gratis solo para los huéspedes del hotel familiar",
+          "El Cleopatra Palace dentro del complejo es más tranquilo y menos orientado a familias",
+          "No hay grandes toboganes acuáticos en el lugar; son piscinas más que un parque acuático"
+        ],
+        "pt": [
+          "Reservem o hotel certo: o acesso aos clubes é gratuito só para os hóspedes do hotel familiar",
+          "O Cleopatra Palace dentro do complexo é mais calmo e menos virado para famílias",
+          "Não há grandes escorregas aquáticos no local; são piscinas mais do que um parque aquático"
         ]
       },
       "verdict": {
         "en": "The strongest pick in the south for a baby or toddler thanks to a club from 6 months and an enclosed kids pool. Just make sure you book the Mediterranean Palace to get it all free.",
-        "fr": "Le meilleur choix du sud pour un bébé ou un tout-petit grâce à un club dès 6 mois et une pataugeoire fermée. Assurez-vous simplement de réserver le Mediterranean Palace pour tout avoir gratuitement."
+        "fr": "Le meilleur choix du sud pour un bébé ou un tout-petit grâce à un club dès 6 mois et une pataugeoire fermée. Assurez-vous simplement de réserver le Mediterranean Palace pour tout avoir gratuitement.",
+        "it": "La scelta più forte nel sud per un neonato o un bambino piccolo grazie a un club da 6 mesi e a una piscina per bambini recintata. Assicuratevi solo di prenotare il Mediterranean Palace per avere tutto gratis.",
+        "de": "Die stärkste Wahl im Süden für ein Baby oder Kleinkind dank eines Clubs ab 6 Monaten und eines umzäunten Kinderpools. Achtet nur darauf, das Mediterranean Palace zu buchen, um alles kostenlos zu bekommen.",
+        "es": "La opción más fuerte del sur para un bebé o un peque gracias a un club desde 6 meses y una piscina infantil cercada. Solo aseguraos de reservar el Mediterranean Palace para tenerlo todo gratis.",
+        "pt": "A escolha mais forte no sul para um bebé ou uma criança pequena graças a um clube a partir dos 6 meses e a uma piscina infantil vedada. Basta garantir que reservam o Mediterranean Palace para ter tudo grátis."
       },
       "parentTip": {
         "en": "Confirm you are booking the Mediterranean Palace, not the Cleopatra Palace, so the Mare Kids clubs are included. The 6-month club is a real help with a young baby.",
-        "fr": "Confirmez que vous réservez bien le Mediterranean Palace, pas le Cleopatra Palace, pour que les clubs Mare Kids soient inclus. Le club dès 6 mois aide vraiment avec un jeune bébé."
+        "fr": "Confirmez que vous réservez bien le Mediterranean Palace, pas le Cleopatra Palace, pour que les clubs Mare Kids soient inclus. Le club dès 6 mois aide vraiment avec un jeune bébé.",
+        "it": "Confermate di prenotare il Mediterranean Palace, non il Cleopatra Palace, così i club Mare Kids sono inclusi. Il club da 6 mesi è un vero aiuto con un neonato piccolo.",
+        "de": "Bestätigt, dass ihr das Mediterranean Palace bucht, nicht das Cleopatra Palace, damit die Mare-Kids-Clubs inbegriffen sind. Der Club ab 6 Monaten ist eine echte Hilfe mit einem kleinen Baby.",
+        "es": "Confirmad que reserváis el Mediterranean Palace, no el Cleopatra Palace, para que los clubes Mare Kids estén incluidos. El club desde 6 meses es una gran ayuda con un bebé pequeño.",
+        "pt": "Confirmem que estão a reservar o Mediterranean Palace, não o Cleopatra Palace, para que os clubes Mare Kids estejam incluídos. O clube a partir dos 6 meses é uma verdadeira ajuda com um bebé pequeno."
       },
       "atAGlance": [
         {
           "icon": "👶",
           "label": {
             "en": "Baby club",
-            "fr": "Club bébé"
+            "fr": "Club bébé",
+            "it": "Club per neonati",
+            "de": "Babyclub",
+            "es": "Club para bebés",
+            "pt": "Clube para bebés"
           },
           "value": {
             "en": "Turtle Club from 6 months",
-            "fr": "Turtle Club dès 6 mois"
+            "fr": "Turtle Club dès 6 mois",
+            "it": "Turtle Club da 6 mesi",
+            "de": "Turtle Club ab 6 Monaten",
+            "es": "Turtle Club desde 6 meses",
+            "pt": "Turtle Club a partir dos 6 meses"
           }
         },
         {
           "icon": "🧒",
           "label": {
             "en": "Clubs",
-            "fr": "Clubs"
+            "fr": "Clubs",
+            "it": "Club",
+            "de": "Clubs",
+            "es": "Clubes",
+            "pt": "Clubes"
           },
           "value": {
             "en": "Age bands up to teens",
-            "fr": "Tranches d'âge jusqu'aux ados"
+            "fr": "Tranches d'âge jusqu'aux ados",
+            "it": "Fasce d'età fino agli adolescenti",
+            "de": "Altersgruppen bis zu Teenagern",
+            "es": "Franjas de edad hasta adolescentes",
+            "pt": "Faixas etárias até adolescentes"
           }
         },
         {
           "icon": "🏊",
           "label": {
             "en": "Pools",
-            "fr": "Piscines"
+            "fr": "Piscines",
+            "it": "Piscine",
+            "de": "Pools",
+            "es": "Piscinas",
+            "pt": "Piscinas"
           },
           "value": {
             "en": "Four, plus enclosed kids pool",
-            "fr": "Quatre, plus pataugeoire fermée"
+            "fr": "Quatre, plus pataugeoire fermée",
+            "it": "Quattro, più piscina bimbi recintata",
+            "de": "Vier, plus umzäunter Kinderpool",
+            "es": "Cuatro, más piscina infantil cercada",
+            "pt": "Quatro, mais piscina infantil vedada"
           }
         },
         {
           "icon": "🏖️",
           "label": {
             "en": "Location",
-            "fr": "Emplacement"
+            "fr": "Emplacement",
+            "it": "Posizione",
+            "de": "Lage",
+            "es": "Ubicación",
+            "pt": "Localização"
           },
           "value": {
             "en": "Seafront, central resort",
-            "fr": "Bord de mer, station centrale"
+            "fr": "Bord de mer, station centrale",
+            "it": "Lungomare, resort centrale",
+            "de": "Am Meer, zentrales Resort",
+            "es": "Frente al mar, resort céntrico",
+            "pt": "À beira-mar, resort central"
           }
         },
         {
           "icon": "🏨",
           "label": {
             "en": "Book",
-            "fr": "Réserver"
+            "fr": "Réserver",
+            "it": "Prenotare",
+            "de": "Buchen",
+            "es": "Reservar",
+            "pt": "Reservar"
           },
           "value": {
             "en": "Mediterranean Palace for free clubs",
-            "fr": "Mediterranean Palace pour clubs gratuits"
+            "fr": "Mediterranean Palace pour clubs gratuits",
+            "it": "Mediterranean Palace per club gratuiti",
+            "de": "Mediterranean Palace für kostenlose Clubs",
+            "es": "Mediterranean Palace para clubes gratis",
+            "pt": "Mediterranean Palace para clubes grátis"
           }
         }
       ],
@@ -6534,11 +7866,19 @@
           "emoji": "👶",
           "name": {
             "en": "Turtle Club",
-            "fr": "Turtle Club"
+            "fr": "Turtle Club",
+            "it": "Turtle Club",
+            "de": "Turtle Club",
+            "es": "Turtle Club",
+            "pt": "Turtle Club"
           },
           "detail": {
             "en": "Supervised play for 6 months to 3 years, a rare early offer.",
-            "fr": "Jeux encadrés de 6 mois a 3 ans, une offre précoce rare."
+            "fr": "Jeux encadrés de 6 mois a 3 ans, une offre précoce rare.",
+            "it": "Giochi sorvegliati da 6 mesi a 3 anni, una rara offerta precoce.",
+            "de": "Beaufsichtigtes Spiel von 6 Monaten bis 3 Jahren, ein seltenes frühes Angebot.",
+            "es": "Juegos supervisados de 6 meses a 3 años, una rara oferta temprana.",
+            "pt": "Brincadeiras supervisionadas dos 6 meses aos 3 anos, uma rara oferta precoce."
           },
           "ages": [
             "baby",
@@ -6546,18 +7886,30 @@
           ],
           "time": {
             "en": "Daily",
-            "fr": "Chaque jour"
+            "fr": "Chaque jour",
+            "it": "Ogni giorno",
+            "de": "Täglich",
+            "es": "A diario",
+            "pt": "Todos os dias"
           }
         },
         {
           "emoji": "🏊",
           "name": {
             "en": "Enclosed kids pool",
-            "fr": "Pataugeoire fermée"
+            "fr": "Pataugeoire fermée",
+            "it": "Piscina per bambini recintata",
+            "de": "Umzäunter Kinderpool",
+            "es": "Piscina infantil cercada",
+            "pt": "Piscina infantil vedada"
           },
           "detail": {
             "en": "A supervised, closed-off pool where little ones can splash safely.",
-            "fr": "Une piscine surveillée et fermée où les petits peuvent barboter en sécurité."
+            "fr": "Une piscine surveillée et fermée où les petits peuvent barboter en sécurité.",
+            "it": "Una piscina sorvegliata e chiusa dove i più piccoli possono sguazzare in sicurezza.",
+            "de": "Ein beaufsichtigter, abgetrennter Pool, wo die Kleinen sicher planschen können.",
+            "es": "Una piscina vigilada y cerrada donde los peques pueden chapotear con seguridad.",
+            "pt": "Uma piscina vigiada e fechada onde os mais pequenos podem chapinhar em segurança."
           },
           "ages": [
             "toddler",
@@ -6565,25 +7917,41 @@
           ],
           "time": {
             "en": "Morning",
-            "fr": "Matin"
+            "fr": "Matin",
+            "it": "Mattina",
+            "de": "Vormittag",
+            "es": "Mañana",
+            "pt": "Manhã"
           }
         },
         {
           "emoji": "🏄",
           "name": {
             "en": "Club Surfer for teens",
-            "fr": "Club Surfer pour ados"
+            "fr": "Club Surfer pour ados",
+            "it": "Club Surfer per adolescenti",
+            "de": "Club Surfer für Teenager",
+            "es": "Club Surfer para adolescentes",
+            "pt": "Club Surfer para adolescentes"
           },
           "detail": {
             "en": "A 13 to 16 club so older ones have their own thing.",
-            "fr": "Un club 13 a 16 ans pour que les plus grands aient leur propre espace."
+            "fr": "Un club 13 a 16 ans pour que les plus grands aient leur propre espace.",
+            "it": "Un club 13-16 anni così i più grandi hanno il loro spazio.",
+            "de": "Ein Club von 13 bis 16, damit die Älteren ihr eigenes Ding haben.",
+            "es": "Un club de 13 a 16 años para que los mayores tengan lo suyo.",
+            "pt": "Um clube dos 13 aos 16 para que os mais crescidos tenham o seu espaço."
           },
           "ages": [
             "teen"
           ],
           "time": {
             "en": "Daily",
-            "fr": "Chaque jour"
+            "fr": "Chaque jour",
+            "it": "Ogni giorno",
+            "de": "Täglich",
+            "es": "A diario",
+            "pt": "Todos os dias"
           }
         }
       ],
@@ -6592,94 +7960,166 @@
           "time": "9:00",
           "title": {
             "en": "Breakfast buffet",
-            "fr": "Petit-déjeuner buffet"
+            "fr": "Petit-déjeuner buffet",
+            "it": "Colazione a buffet",
+            "de": "Frühstücksbuffet",
+            "es": "Desayuno bufé",
+            "pt": "Pequeno-almoço buffet"
           },
           "note": {
             "en": "Wide choice for mixed ages.",
-            "fr": "Large choix pour tous les âges."
+            "fr": "Large choix pour tous les âges.",
+            "it": "Ampia scelta per età diverse.",
+            "de": "Große Auswahl für gemischte Altersgruppen.",
+            "es": "Amplia variedad para distintas edades.",
+            "pt": "Grande variedade para idades diversas."
           }
         },
         {
           "time": "10:30",
           "title": {
             "en": "Turtle Club and kids pool",
-            "fr": "Turtle Club et pataugeoire"
+            "fr": "Turtle Club et pataugeoire",
+            "it": "Turtle Club e piscina per bambini",
+            "de": "Turtle Club und Kinderpool",
+            "es": "Turtle Club y piscina infantil",
+            "pt": "Turtle Club e piscina infantil"
           },
           "note": {
             "en": "Baby to the club, others to the enclosed pool.",
-            "fr": "Le bébé au club, les autres à la pataugeoire fermée."
+            "fr": "Le bébé au club, les autres à la pataugeoire fermée.",
+            "it": "Il neonato al club, gli altri alla piscina recintata.",
+            "de": "Das Baby in den Club, die anderen in den umzäunten Pool.",
+            "es": "El bebé al club, los demás a la piscina cercada.",
+            "pt": "O bebé para o clube, os outros para a piscina vedada."
           }
         },
         {
           "time": "13:00",
           "title": {
             "en": "Lunch and nap",
-            "fr": "Déjeuner et sieste"
+            "fr": "Déjeuner et sieste",
+            "it": "Pranzo e pisolino",
+            "de": "Mittagessen und Mittagsschlaf",
+            "es": "Almuerzo y siesta",
+            "pt": "Almoço e sesta"
           },
           "note": {
             "en": "Back to the room for the baby's sleep.",
-            "fr": "Retour en chambre pour le sommeil du bébé."
+            "fr": "Retour en chambre pour le sommeil du bébé.",
+            "it": "Ritorno in camera per il sonno del neonato.",
+            "de": "Zurück ins Zimmer für den Schlaf des Babys.",
+            "es": "De vuelta a la habitación para el sueño del bebé.",
+            "pt": "De volta ao quarto para o sono do bebé."
           }
         },
         {
           "time": "16:30",
           "title": {
             "en": "Beach and promenade",
-            "fr": "Plage et promenade"
+            "fr": "Plage et promenade",
+            "it": "Spiaggia e passeggiata",
+            "de": "Strand und Promenade",
+            "es": "Playa y paseo",
+            "pt": "Praia e passeio"
           },
           "note": {
             "en": "Seafront walk, teens to Club Surfer.",
-            "fr": "Balade en bord de mer, les ados au Club Surfer."
+            "fr": "Balade en bord de mer, les ados au Club Surfer.",
+            "it": "Passeggiata sul lungomare, gli adolescenti al Club Surfer.",
+            "de": "Spaziergang am Meer, die Teenager zum Club Surfer.",
+            "es": "Paseo frente al mar, los adolescentes al Club Surfer.",
+            "pt": "Passeio à beira-mar, os adolescentes para o Club Surfer."
           }
         }
       ],
       "ageNotes": {
         "baby": {
           "en": "A club from 6 months and an enclosed kids pool make this one of the most baby-ready resorts in the south. Cots on request.",
-          "fr": "Un club dès 6 mois et une pataugeoire fermée en font l'un des complexes les plus adaptés aux bébés du sud. Lits parapluie sur demande."
+          "fr": "Un club dès 6 mois et une pataugeoire fermée en font l'un des complexes les plus adaptés aux bébés du sud. Lits parapluie sur demande.",
+          "it": "Un club da 6 mesi e una piscina per bambini recintata ne fanno uno dei resort più adatti ai neonati del sud. Lettini su richiesta.",
+          "de": "Ein Club ab 6 Monaten und ein umzäunter Kinderpool machen dies zu einem der babyfreundlichsten Resorts im Süden. Reisebetten auf Anfrage.",
+          "es": "Un club desde 6 meses y una piscina infantil cercada lo convierten en uno de los resorts más preparados para bebés del sur. Cunas bajo petición.",
+          "pt": "Um clube a partir dos 6 meses e uma piscina infantil vedada tornam-no num dos resorts mais preparados para bebés do sul. Berços a pedido."
         },
         "toddler": {
           "en": "The supervised pool and age-banded clubs are ideal for toddlers.",
-          "fr": "La piscine surveillée et les clubs par tranche d'âge sont idéaux pour les tout-petits."
+          "fr": "La piscine surveillée et les clubs par tranche d'âge sont idéaux pour les tout-petits.",
+          "it": "La piscina sorvegliata e i club per fasce d'età sono ideali per i più piccoli.",
+          "de": "Der beaufsichtigte Pool und die altersgestaffelten Clubs sind ideal für Kleinkinder.",
+          "es": "La piscina vigilada y los clubes por franjas de edad son ideales para los peques.",
+          "pt": "A piscina vigiada e os clubes por faixas etárias são ideais para os mais pequenos."
         },
         "kid": {
           "en": "Willy and Sailor clubs by age keep this range busy, with the beach on foot.",
-          "fr": "Les clubs Willy et Sailor par âge occupent cette tranche, avec la plage à pied."
+          "fr": "Les clubs Willy et Sailor par âge occupent cette tranche, avec la plage à pied.",
+          "it": "I club Willy e Sailor per età tengono occupata questa fascia, con la spiaggia a piedi.",
+          "de": "Die Clubs Willy und Sailor nach Alter halten diese Altersgruppe auf Trab, mit dem Strand zu Fuß.",
+          "es": "Los clubes Willy y Sailor por edad mantienen ocupada esta franja, con la playa a pie.",
+          "pt": "Os clubes Willy e Sailor por idade mantêm esta faixa ocupada, com a praia a pé."
         },
         "teen": {
           "en": "Club Surfer (13 to 16) plus a lively central location suit teens well.",
-          "fr": "Le Club Surfer (13 a 16 ans) et un emplacement central animé conviennent bien aux ados."
+          "fr": "Le Club Surfer (13 a 16 ans) et un emplacement central animé conviennent bien aux ados.",
+          "it": "Il Club Surfer (13-16 anni) e una vivace posizione centrale si adattano bene agli adolescenti.",
+          "de": "Der Club Surfer (13 bis 16) plus eine lebhafte zentrale Lage passen gut zu Teenagern.",
+          "es": "El Club Surfer (13 a 16) y una animada ubicación céntrica van bien para los adolescentes.",
+          "pt": "O Club Surfer (13 a 16) e uma animada localização central adaptam-se bem aos adolescentes."
         }
       },
       "faqs": [
         {
           "q": {
             "en": "From what age is the kids club?",
-            "fr": "A partir de quel âge est le club enfants?"
+            "fr": "A partir de quel âge est le club enfants?",
+            "it": "Da che età è il club per bambini?",
+            "de": "Ab welchem Alter gibt es den Kinderclub?",
+            "es": "¿A partir de qué edad es el club infantil?",
+            "pt": "A partir de que idade é o clube infantil?"
           },
           "a": {
             "en": "The Turtle Club takes children from 6 months, with age bands up to a 13 to 16 teen club.",
-            "fr": "Le Turtle Club accueille les enfants dès 6 mois, avec des tranches d'âge jusqu'à un club ados de 13 a 16 ans."
+            "fr": "Le Turtle Club accueille les enfants dès 6 mois, avec des tranches d'âge jusqu'à un club ados de 13 a 16 ans.",
+            "it": "Il Turtle Club accoglie i bambini da 6 mesi, con fasce d'età fino a un club per adolescenti da 13 a 16 anni.",
+            "de": "Der Turtle Club nimmt Kinder ab 6 Monaten auf, mit Altersgruppen bis zu einem Teenagerclub von 13 bis 16.",
+            "es": "El Turtle Club acoge a niños desde 6 meses, con franjas de edad hasta un club de adolescentes de 13 a 16 años.",
+            "pt": "O Turtle Club recebe crianças a partir dos 6 meses, com faixas etárias até um clube de adolescentes dos 13 aos 16 anos."
           }
         },
         {
           "q": {
             "en": "Is the kids club free?",
-            "fr": "Le club enfants est-il gratuit?"
+            "fr": "Le club enfants est-il gratuit?",
+            "it": "Il club per bambini è gratuito?",
+            "de": "Ist der Kinderclub kostenlos?",
+            "es": "¿Es gratis el club infantil?",
+            "pt": "O clube infantil é gratuito?"
           },
           "a": {
             "en": "Yes for guests of the family-oriented Mediterranean Palace; other hotels in the complex may charge.",
-            "fr": "Oui pour les clients de l'hôtel familial Mediterranean Palace; d'autres hôtels du complexe peuvent facturer."
+            "fr": "Oui pour les clients de l'hôtel familial Mediterranean Palace; d'autres hôtels du complexe peuvent facturer.",
+            "it": "Sì per gli ospiti del Mediterranean Palace a vocazione familiare; altri hotel del complesso possono far pagare.",
+            "de": "Ja für Gäste des familienorientierten Mediterranean Palace; andere Hotels im Komplex können Gebühren erheben.",
+            "es": "Sí para los huéspedes del Mediterranean Palace orientado a familias; otros hoteles del complejo pueden cobrar.",
+            "pt": "Sim para os hóspedes do Mediterranean Palace virado para famílias; outros hotéis do complexo podem cobrar."
           }
         },
         {
           "q": {
             "en": "Are there waterslides?",
-            "fr": "Y a-t-il des toboggans?"
+            "fr": "Y a-t-il des toboggans?",
+            "it": "Ci sono scivoli acquatici?",
+            "de": "Gibt es Wasserrutschen?",
+            "es": "¿Hay toboganes acuáticos?",
+            "pt": "Há escorregas aquáticos?"
           },
           "a": {
             "en": "No large slides on site; it is a pool-based resort, with Siam Park a short drive for big slides.",
-            "fr": "Pas de grands toboggans sur place; c'est un complexe axé piscines, avec le Siam Park à un court trajet pour les grands toboggans."
+            "fr": "Pas de grands toboggans sur place; c'est un complexe axé piscines, avec le Siam Park à un court trajet pour les grands toboggans.",
+            "it": "Nessun grande scivolo in loco; è un resort incentrato sulle piscine, con il Siam Park a un breve tragitto per i grandi scivoli.",
+            "de": "Keine großen Rutschen vor Ort; es ist ein poolbasiertes Resort, mit dem Siam Park eine kurze Fahrt entfernt für große Rutschen.",
+            "es": "No hay toboganes grandes en el lugar; es un resort centrado en piscinas, con el Siam Park a un corto trayecto para grandes toboganes.",
+            "pt": "Não há grandes escorregas no local; é um resort centrado em piscinas, com o Siam Park a um curto trajeto para grandes escorregas."
           }
         }
       ]

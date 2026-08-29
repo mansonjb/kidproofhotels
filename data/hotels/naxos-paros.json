@@ -6,7 +6,11 @@
       "name": "Naxos Resort Beach Hotel",
       "area": {
         "en": "Naxos (Agios Georgios)",
-        "fr": "Naxos (Agios Georgios)"
+        "fr": "Naxos (Agios Georgios)",
+        "it": "Naxos (Agios Georgios)",
+        "de": "Naxos (Agios Georgios)",
+        "es": "Naxos (Agios Georgios)",
+        "pt": "Naxos (Agios Georgios)"
       },
       "lat": 37.101,
       "lng": 25.369,
@@ -45,11 +49,19 @@
       },
       "roomsSummary": {
         "en": "Cycladic-style rooms and family rooms that sleep up to four, most with a balcony or terrace over the gardens, pool or sea. Ground-floor units near the pool make life with a pram and a nap-timer much easier.",
-        "fr": "Chambres et chambres familiales de style cycladique jusqu'à quatre personnes, la plupart avec balcon ou terrasse sur les jardins, la piscine ou la mer. Les unités en rez-de-chaussée près de la piscine simplifient la vie avec une poussette et un rythme de siestes."
+        "fr": "Chambres et chambres familiales de style cycladique jusqu'à quatre personnes, la plupart avec balcon ou terrasse sur les jardins, la piscine ou la mer. Les unités en rez-de-chaussée près de la piscine simplifient la vie avec une poussette et un rythme de siestes.",
+        "it": "Camere e camere familiari in stile cicladico che ospitano fino a quattro persone, la maggior parte con balcone o terrazza affacciati sui giardini, sulla piscina o sul mare. Le unità al piano terra vicino alla piscina rendono molto più semplice la vita con il passeggino e i ritmi del pisolino.",
+        "de": "Zimmer und Familienzimmer im kykladischen Stil für bis zu vier Personen, die meisten mit Balkon oder Terrasse zu den Gärten, zum Pool oder zum Meer. Die Einheiten im Erdgeschoss nahe am Pool erleichtern das Leben mit Kinderwagen und Schlafenszeiten erheblich.",
+        "es": "Habitaciones y habitaciones familiares de estilo cicládico con capacidad para hasta cuatro personas, la mayoría con balcón o terraza sobre los jardines, la piscina o el mar. Las unidades en la planta baja cerca de la piscina hacen mucho más fácil la vida con un cochecito y los horarios de siesta.",
+        "pt": "Quartos e quartos familiares de estilo cicládico para até quatro pessoas, a maioria com varanda ou terraço sobre os jardins, a piscina ou o mar. As unidades no rés do chão perto da piscina tornam muito mais fácil a vida com um carrinho de bebé e os horários da sesta."
       },
       "intro": {
         "en": "This is the easy choice for a first trip to Naxos with little ones: a proper beachfront hotel just 30 metres from the long, shallow sands of Agios Georgios, and only a ten-minute stroll from the shops and tavernas of Naxos Town. There is a big pool plus a separate children's pool, family rooms that genuinely fit four, and a beach where a toddler can wade out a long way and the water still only reaches their knees. You can leave the hire car at home and do the whole holiday on foot.",
-        "fr": "C'est le choix facile pour un premier séjour à Naxos avec des tout-petits : un vrai hôtel les pieds dans l'eau, à 30 mètres seulement du long sable peu profond d'Agios Georgios, et à dix minutes à pied des boutiques et tavernes de la ville de Naxos. Il y a une grande piscine et un bassin séparé pour enfants, des chambres familiales qui accueillent vraiment quatre personnes, et une plage où un tout-petit peut s'éloigner longtemps du bord avec de l'eau à hauteur de genoux. Vous pouvez laisser la voiture de location et faire toutes vos vacances à pied."
+        "fr": "C'est le choix facile pour un premier séjour à Naxos avec des tout-petits : un vrai hôtel les pieds dans l'eau, à 30 mètres seulement du long sable peu profond d'Agios Georgios, et à dix minutes à pied des boutiques et tavernes de la ville de Naxos. Il y a une grande piscine et un bassin séparé pour enfants, des chambres familiales qui accueillent vraiment quatre personnes, et une plage où un tout-petit peut s'éloigner longtemps du bord avec de l'eau à hauteur de genoux. Vous pouvez laisser la voiture de location et faire toutes vos vacances à pied.",
+        "it": "Questa è la scelta facile per un primo viaggio a Naxos con i più piccoli: un vero hotel fronte spiaggia a soli 30 metri dalla lunga e bassa sabbia di Agios Georgios, e a soli dieci minuti a piedi dai negozi e dalle taverne di Naxos Town. C'è una grande piscina più una piscina separata per bambini, camere familiari che ospitano davvero quattro persone, e una spiaggia dove un bimbo può allontanarsi molto e l'acqua gli arriva ancora solo alle ginocchia. Potete lasciare l'auto a noleggio a casa e fare tutta la vacanza a piedi.",
+        "de": "Das ist die einfache Wahl für eine erste Reise nach Naxos mit den Kleinen: ein richtiges Strandhotel nur 30 Meter vom langen, flachen Sand von Agios Georgios entfernt und nur zehn Gehminuten von den Geschäften und Tavernen von Naxos Town. Es gibt einen großen Pool sowie einen separaten Kinderpool, Familienzimmer, in die wirklich vier Personen passen, und einen Strand, an dem ein Kleinkind weit hinauswaten kann und das Wasser trotzdem nur bis zu den Knien reicht. Ihr könnt den Mietwagen zu Hause lassen und den ganzen Urlaub zu Fuß machen.",
+        "es": "Es la opción fácil para un primer viaje a Naxos con los pequeños: un auténtico hotel frente al mar a solo 30 metros de la larga arena poco profunda de Agios Georgios, y a solo diez minutos a pie de las tiendas y tabernas de Naxos Town. Hay una gran piscina más una piscina infantil separada, habitaciones familiares en las que de verdad caben cuatro personas y una playa donde un pequeño puede adentrarse un buen trecho y el agua todavía le llega solo a las rodillas. Podéis dejar en casa el coche de alquiler y hacer todas las vacaciones a pie.",
+        "pt": "É a escolha fácil para uma primeira viagem a Naxos com os mais pequenos: um verdadeiro hotel à beira-mar a apenas 30 metros da longa areia rasa de Agios Georgios, e a apenas dez minutos a pé das lojas e tabernas de Naxos Town. Há uma grande piscina e uma piscina infantil separada, quartos familiares onde cabem mesmo quatro pessoas e uma praia onde uma criança pequena pode entrar bastante e a água ainda só lhe chega aos joelhos. Podem deixar em casa o carro alugado e fazer todas as férias a pé."
       },
       "highlights": {
         "en": [
@@ -63,6 +75,30 @@
           "Grande piscine et bassin séparé pour enfants",
           "Chambres familiales qui accueillent vraiment quatre personnes",
           "Dix minutes de marche à plat jusqu'à la ville de Naxos"
+        ],
+        "it": [
+          "A trenta metri dalla bassa e sabbiosa spiaggia di Agios Georgios",
+          "Grande piscina più una piscina separata per bambini",
+          "Camere familiari che ospitano davvero quattro persone",
+          "Dieci minuti di camminata in piano fino a Naxos Town"
+        ],
+        "de": [
+          "Dreißig Meter vom flachen, sandigen Strand von Agios Georgios",
+          "Großer Pool plus separater Kinderpool",
+          "Familienzimmer, in die wirklich vier Personen passen",
+          "Zehn Minuten ebener Fußweg nach Naxos Town"
+        ],
+        "es": [
+          "A treinta metros de la playa poco profunda y arenosa de Agios Georgios",
+          "Gran piscina más una piscina infantil separada",
+          "Habitaciones familiares en las que de verdad caben cuatro",
+          "Diez minutos de paseo llano hasta Naxos Town"
+        ],
+        "pt": [
+          "A trinta metros da praia rasa e arenosa de Agios Georgios",
+          "Grande piscina e uma piscina infantil separada",
+          "Quartos familiares onde cabem mesmo quatro pessoas",
+          "Dez minutos de caminhada plana até Naxos Town"
         ]
       },
       "pros": {
@@ -77,6 +113,30 @@
           "Aucune voiture nécessaire, ville et plage à pied",
           "Bassin enfants séparé de la piscine principale",
           "Le charme cycladique sans le prix d'une boutique"
+        ],
+        "it": [
+          "Una delle spiagge più sicure e basse dell'isola proprio davanti",
+          "Nessuna auto necessaria, città e spiaggia entrambe a piedi",
+          "Piscina per bambini separata da quella principale",
+          "Fascino cicladico senza il prezzo di un boutique hotel"
+        ],
+        "de": [
+          "Einer der sichersten, flachsten Strände der Insel direkt davor",
+          "Kein Auto nötig, Stadt und Strand beide zu Fuß",
+          "Kinderpool getrennt vom Hauptpool",
+          "Kykladischer Charme ohne Boutique-Preis"
+        ],
+        "es": [
+          "Una de las playas más seguras y poco profundas de la isla justo enfrente",
+          "Sin coche, ciudad y playa ambas a pie",
+          "Piscina infantil separada de la principal",
+          "Encanto cicládico sin precio de boutique"
+        ],
+        "pt": [
+          "Uma das praias mais seguras e rasas da ilha mesmo em frente",
+          "Sem necessidade de carro, cidade e praia ambas a pé",
+          "Piscina infantil separada da principal",
+          "Charme cicládico sem preço de boutique"
         ]
       },
       "cons": {
@@ -89,48 +149,100 @@
           "Agios Georgios est une plage de ville animée, pas une crique tranquille",
           "La demi-pension est simple plutôt qu'un point fort",
           "Se remplit vite en juillet et août"
+        ],
+        "it": [
+          "Agios Georgios è una spiaggia cittadina animata, non una caletta tranquilla",
+          "La mezza pensione è semplice più che un punto di forza",
+          "Si riempie in fretta a luglio e agosto"
+        ],
+        "de": [
+          "Agios Georgios ist ein belebter Stadtstrand, keine ruhige Bucht",
+          "Die Halbpension ist eher schlicht als ein Höhepunkt",
+          "Ist im Juli und August schnell ausgebucht"
+        ],
+        "es": [
+          "Agios Georgios es una concurrida playa urbana, no una cala tranquila",
+          "La media pensión es sencilla más que un punto fuerte",
+          "Se llena rápido en julio y agosto"
+        ],
+        "pt": [
+          "Agios Georgios é uma movimentada praia urbana, não uma enseada tranquila",
+          "A meia pensão é simples em vez de um ponto alto",
+          "Enche depressa em julho e agosto"
         ]
       },
       "verdict": {
         "en": "The most stress-free base on Naxos for babies and toddlers: shallow sand, a kids' pool and the town both a few steps away. Book a pool-side family room and leave the car keys at home.",
-        "fr": "La base la moins stressante de Naxos pour les bébés et les tout-petits : sable peu profond, bassin enfants et ville à quelques pas. Réservez une chambre familiale côté piscine et laissez les clés de voiture à la maison."
+        "fr": "La base la moins stressante de Naxos pour les bébés et les tout-petits : sable peu profond, bassin enfants et ville à quelques pas. Réservez une chambre familiale côté piscine et laissez les clés de voiture à la maison.",
+        "it": "La base meno stressante di Naxos per neonati e bambini piccoli: sabbia bassa, una piscina per bambini e la città a pochi passi. Prenotate una camera familiare a bordo piscina e lasciate le chiavi dell'auto a casa.",
+        "de": "Die stressfreieste Basis auf Naxos für Babys und Kleinkinder: flacher Sand, ein Kinderpool und die Stadt, beide nur wenige Schritte entfernt. Bucht ein Familienzimmer am Pool und lasst den Autoschlüssel zu Hause.",
+        "es": "La base menos estresante de Naxos para bebés y niños pequeños: arena poco profunda, una piscina infantil y la ciudad a pocos pasos. Reservad una habitación familiar junto a la piscina y dejad en casa las llaves del coche.",
+        "pt": "A base menos stressante de Naxos para bebés e crianças pequenas: areia rasa, uma piscina infantil e a cidade a poucos passos. Reservem um quarto familiar junto à piscina e deixem em casa as chaves do carro."
       },
       "parentTip": {
         "en": "Agios Georgios shelves so gently that at low sun the water is warm and calm; take the toddler in before nine, when the beach is quiet and the sand has not yet baked.",
-        "fr": "Agios Georgios descend si doucement qu'au soleil bas l'eau est chaude et calme ; emmenez le tout-petit avant neuf heures, quand la plage est calme et le sable pas encore brûlant."
+        "fr": "Agios Georgios descend si doucement qu'au soleil bas l'eau est chaude et calme ; emmenez le tout-petit avant neuf heures, quand la plage est calme et le sable pas encore brûlant.",
+        "it": "Agios Georgios digrada così dolcemente che con il sole basso l'acqua è calda e calma; portate il bambino in acqua prima delle nove, quando la spiaggia è tranquilla e la sabbia non è ancora rovente.",
+        "de": "Agios Georgios fällt so sanft ab, dass das Wasser bei tiefstehender Sonne warm und ruhig ist; geht mit dem Kleinkind vor neun ins Wasser, wenn der Strand ruhig ist und der Sand noch nicht aufgeheizt hat.",
+        "es": "Agios Georgios se adentra tan suavemente que con el sol bajo el agua está tibia y tranquila; llevad al pequeño al agua antes de las nueve, cuando la playa está tranquila y la arena aún no se ha calentado.",
+        "pt": "Agios Georgios entra tão suavemente que, com o sol baixo, a água está quente e calma; levem a criança à água antes das nove, quando a praia está tranquila e a areia ainda não aqueceu."
       },
       "atAGlance": [
         {
           "icon": "🏖️",
           "label": {
             "en": "Beach",
-            "fr": "Plage"
+            "fr": "Plage",
+            "it": "Spiaggia",
+            "de": "Strand",
+            "es": "Playa",
+            "pt": "Praia"
           },
           "value": {
             "en": "Shallow Agios Georgios sand, 30m away",
-            "fr": "Sable peu profond d'Agios Georgios, à 30 m"
+            "fr": "Sable peu profond d'Agios Georgios, à 30 m",
+            "it": "Sabbia bassa di Agios Georgios, a 30 m",
+            "de": "Flacher Sand von Agios Georgios, 30 m entfernt",
+            "es": "Arena poco profunda de Agios Georgios, a 30 m",
+            "pt": "Areia rasa de Agios Georgios, a 30 m"
           }
         },
         {
           "icon": "🏊",
           "label": {
             "en": "Pools",
-            "fr": "Piscines"
+            "fr": "Piscines",
+            "it": "Piscine",
+            "de": "Pools",
+            "es": "Piscinas",
+            "pt": "Piscinas"
           },
           "value": {
             "en": "Main pool plus a children's pool",
-            "fr": "Piscine principale et bassin enfants"
+            "fr": "Piscine principale et bassin enfants",
+            "it": "Piscina principale più una piscina per bambini",
+            "de": "Hauptpool plus ein Kinderpool",
+            "es": "Piscina principal más una piscina infantil",
+            "pt": "Piscina principal e uma piscina infantil"
           }
         },
         {
           "icon": "🚶",
           "label": {
             "en": "Town",
-            "fr": "Ville"
+            "fr": "Ville",
+            "it": "Città",
+            "de": "Stadt",
+            "es": "Ciudad",
+            "pt": "Cidade"
           },
           "value": {
             "en": "Ten minutes on foot, no car needed",
-            "fr": "Dix minutes à pied, sans voiture"
+            "fr": "Dix minutes à pied, sans voiture",
+            "it": "Dieci minuti a piedi, senza auto",
+            "de": "Zehn Minuten zu Fuß, kein Auto nötig",
+            "es": "Diez minutos a pie, sin coche",
+            "pt": "Dez minutos a pé, sem necessidade de carro"
           }
         }
       ],
@@ -138,21 +250,37 @@
         {
           "q": {
             "en": "Is the beach safe for a baby or toddler?",
-            "fr": "La plage est-elle sûre pour un bébé ou un tout-petit?"
+            "fr": "La plage est-elle sûre pour un bébé ou un tout-petit?",
+            "it": "La spiaggia è sicura per un neonato o un bambino piccolo?",
+            "de": "Ist der Strand für ein Baby oder Kleinkind sicher?",
+            "es": "¿Es segura la playa para un bebé o un niño pequeño?",
+            "pt": "A praia é segura para um bebé ou uma criança pequena?"
           },
           "a": {
             "en": "Yes, Agios Georgios is one of the shallowest beaches on Naxos: soft sand and water that stays knee-deep for a long way out, so little ones can paddle safely close to shore.",
-            "fr": "Oui, Agios Georgios est l'une des plages les plus peu profondes de Naxos : sable doux et eau qui reste à hauteur de genoux sur une grande distance, les tout-petits peuvent barboter en sécurité près du bord."
+            "fr": "Oui, Agios Georgios est l'une des plages les plus peu profondes de Naxos : sable doux et eau qui reste à hauteur de genoux sur une grande distance, les tout-petits peuvent barboter en sécurité près du bord.",
+            "it": "Sì, Agios Georgios è una delle spiagge più basse di Naxos: sabbia morbida e acqua che resta all'altezza delle ginocchia per un lungo tratto, così i più piccoli possono sguazzare in sicurezza vicino alla riva.",
+            "de": "Ja, Agios Georgios ist einer der flachsten Strände von Naxos: weicher Sand und Wasser, das über eine lange Strecke kniehoch bleibt, sodass die Kleinen sicher nahe am Ufer planschen können.",
+            "es": "Sí, Agios Georgios es una de las playas menos profundas de Naxos: arena suave y agua que se mantiene a la altura de las rodillas durante un buen trecho, así los pequeños pueden chapotear con seguridad cerca de la orilla.",
+            "pt": "Sim, Agios Georgios é uma das praias mais rasas de Naxos: areia macia e água que se mantém à altura dos joelhos ao longo de um bom trecho, para que os mais pequenos possam chapinhar em segurança perto da margem."
           }
         },
         {
           "q": {
             "en": "Do we need a hire car?",
-            "fr": "Faut-il une voiture de location?"
+            "fr": "Faut-il une voiture de location?",
+            "it": "Serve un'auto a noleggio?",
+            "de": "Brauchen wir einen Mietwagen?",
+            "es": "¿Necesitamos un coche de alquiler?",
+            "pt": "Precisamos de um carro alugado?"
           },
           "a": {
             "en": "Not for a beach-and-town holiday. The beach is outside the door and Naxos Town is a flat ten-minute walk, so most families only rent a car for a day or two of island exploring.",
-            "fr": "Pas pour des vacances plage et ville. La plage est devant la porte et la ville de Naxos est à dix minutes à pied à plat, la plupart des familles ne louent une voiture que pour un jour ou deux d'excursions."
+            "fr": "Pas pour des vacances plage et ville. La plage est devant la porte et la ville de Naxos est à dix minutes à pied à plat, la plupart des familles ne louent une voiture que pour un jour ou deux d'excursions.",
+            "it": "Non per una vacanza tra spiaggia e città. La spiaggia è davanti alla porta e Naxos Town è a dieci minuti a piedi in piano, così la maggior parte delle famiglie noleggia un'auto solo per uno o due giorni di esplorazione dell'isola.",
+            "de": "Nicht für einen Strand-und-Stadt-Urlaub. Der Strand liegt vor der Tür und Naxos Town ist ein ebener Fußweg von zehn Minuten, sodass die meisten Familien nur für ein oder zwei Tage Inselerkundung ein Auto mieten.",
+            "es": "No para unas vacaciones de playa y ciudad. La playa está a la puerta y Naxos Town queda a diez minutos a pie en llano, así que la mayoría de las familias solo alquilan un coche para uno o dos días de exploración de la isla.",
+            "pt": "Não para umas férias de praia e cidade. A praia fica à porta e Naxos Town está a dez minutos a pé em plano, por isso a maioria das famílias só aluga um carro para um ou dois dias de exploração da ilha."
           }
         }
       ]
@@ -163,7 +291,11 @@
       "name": "Liana Beach Hotel & Spa",
       "area": {
         "en": "Naxos (Agios Prokopios)",
-        "fr": "Naxos (Agios Prokopios)"
+        "fr": "Naxos (Agios Prokopios)",
+        "it": "Naxos (Agios Prokopios)",
+        "de": "Paros (Agios Prokopios)",
+        "es": "Paros (Agios Prokopios)",
+        "pt": "Paros (Agios Prokopios)"
       },
       "lat": 37.079,
       "lng": 25.362,
@@ -203,11 +335,19 @@
       },
       "roomsSummary": {
         "en": "Spacious suites and apartments, several with two bedrooms and a kitchenette, plus private balconies or patios and a few with their own hot tub. The self-catering options are a real help with early toddler dinners and midnight bottles.",
-        "fr": "Suites et appartements spacieux, plusieurs à deux chambres avec kitchenette, avec balcon ou terrasse privés et quelques-uns dotés de leur propre bain à remous. Les options en cuisine autonome aident vraiment pour les dîners précoces des tout-petits et les biberons de la nuit."
+        "fr": "Suites et appartements spacieux, plusieurs à deux chambres avec kitchenette, avec balcon ou terrasse privés et quelques-uns dotés de leur propre bain à remous. Les options en cuisine autonome aident vraiment pour les dîners précoces des tout-petits et les biberons de la nuit.",
+        "it": "Suite e appartamenti spaziosi, diversi con due camere da letto e un angolo cottura, oltre a balconi o patii privati e alcuni con la propria vasca idromassaggio. Le opzioni con cucina sono un vero aiuto per le cene anticipate dei bimbi e i biberon di mezzanotte.",
+        "de": "Geräumige Suiten und Apartments, mehrere mit zwei Schlafzimmern und einer Kochnische, dazu private Balkone oder Terrassen und einige mit eigenem Whirlpool. Die Selbstversorger-Optionen sind eine echte Hilfe bei frühen Kleinkind-Abendessen und mitternächtlichen Fläschchen.",
+        "es": "Suites y apartamentos amplios, varios con dos dormitorios y una cocina americana, además de balcones o patios privados y algunos con su propia bañera de hidromasaje. Las opciones con cocina son de gran ayuda para las cenas tempranas de los pequeños y los biberones de medianoche.",
+        "pt": "Suites e apartamentos espaçosos, vários com dois quartos e uma kitchenette, além de varandas ou pátios privados e alguns com jacúzi próprio. As opções com cozinha são uma verdadeira ajuda para os jantares precoces dos mais pequenos e os biberões da meia-noite."
       },
       "intro": {
         "en": "Agios Prokopios is regularly voted one of the best beaches in Greece, a wide sweep of pale sand with a Blue Flag and water that shelves slowly and calmly. Liana Beach sits right beside it, a relaxed four-star with two-bedroom apartments, a garden pool and a small spa. It is the sweet spot on Naxos for families who want a proper beach day but also a kitchen for fussy eaters and a bus into town when the car stays parked.",
-        "fr": "Agios Prokopios est régulièrement classée parmi les plus belles plages de Grèce, un large ruban de sable clair avec un Pavillon Bleu et une eau qui descend lentement et calmement. Le Liana Beach est juste à côté, un quatre-étoiles décontracté avec appartements deux chambres, piscine dans le jardin et petit spa. C'est le bon compromis à Naxos pour les familles qui veulent une vraie journée plage mais aussi une cuisine pour les petits difficiles et un bus vers la ville quand la voiture reste garée."
+        "fr": "Agios Prokopios est régulièrement classée parmi les plus belles plages de Grèce, un large ruban de sable clair avec un Pavillon Bleu et une eau qui descend lentement et calmement. Le Liana Beach est juste à côté, un quatre-étoiles décontracté avec appartements deux chambres, piscine dans le jardin et petit spa. C'est le bon compromis à Naxos pour les familles qui veulent une vraie journée plage mais aussi une cuisine pour les petits difficiles et un bus vers la ville quand la voiture reste garée.",
+        "it": "Agios Prokopios è regolarmente votata come una delle migliori spiagge della Grecia, un'ampia distesa di sabbia chiara con Bandiera Blu e acqua che digrada lentamente e con calma. Il Liana Beach si trova proprio accanto, un quattro stelle rilassato con appartamenti a due camere, una piscina nel giardino e una piccola spa. È il punto ideale a Naxos per le famiglie che vogliono una vera giornata al mare ma anche una cucina per i bimbi difficili e un autobus per il centro quando l'auto resta parcheggiata.",
+        "de": "Agios Prokopios wird regelmäßig zu einem der besten Strände Griechenlands gewählt, ein weiter Bogen aus hellem Sand mit Blauer Flagge und Wasser, das langsam und ruhig abfällt. Das Liana Beach liegt direkt daneben, ein entspanntes Vier-Sterne-Haus mit Apartments mit zwei Schlafzimmern, einem Gartenpool und einem kleinen Spa. Es ist der ideale Ort auf Naxos für Familien, die einen richtigen Strandtag wollen, aber auch eine Küche für heikle Esser und einen Bus in die Stadt, wenn das Auto geparkt bleibt.",
+        "es": "Agios Prokopios se vota con frecuencia como una de las mejores playas de Grecia, una amplia extensión de arena clara con Bandera Azul y agua que se adentra lenta y tranquilamente. El Liana Beach está justo al lado, un cuatro estrellas relajado con apartamentos de dos dormitorios, una piscina en el jardín y un pequeño spa. Es el punto ideal en Naxos para las familias que quieren un auténtico día de playa pero también una cocina para los comensales difíciles y un autobús al pueblo cuando el coche se queda aparcado.",
+        "pt": "Agios Prokopios é regularmente votada como uma das melhores praias da Grecia, uma ampla faixa de areia clara com Bandeira Azul e água que entra lenta e calmamente. O Liana Beach fica mesmo ao lado, um quatro estrelas descontraído com apartamentos de dois quartos, uma piscina no jardim e um pequeno spa. É o ponto ideal em Naxos para as famílias que querem um verdadeiro dia de praia mas também uma cozinha para os comensais exigentes e um autocarro para a cidade quando o carro fica estacionado."
       },
       "highlights": {
         "en": [
@@ -221,6 +361,30 @@
           "Appartements deux chambres avec kitchenette",
           "Piscine dans le jardin et petit spa",
           "Bus et tavernes à quelques minutes à pied"
+        ],
+        "it": [
+          "Accanto alla Bandiera Blu di Agios Prokopios, una spiaggia calma e digradante",
+          "Appartamenti a due camere con angolo cottura",
+          "Piscina nel giardino e una piccola spa",
+          "Autobus e taverne a breve distanza a piedi"
+        ],
+        "de": [
+          "Neben dem Blaue-Flagge-Strand Agios Prokopios, ein ruhiger, flach abfallender Strand",
+          "Apartments mit zwei Schlafzimmern und Kochnische",
+          "Gartenpool und ein kleines Spa",
+          "Bus und Tavernen nur einen kurzen Fußweg entfernt"
+        ],
+        "es": [
+          "Junto a la Bandera Azul de Agios Prokopios, una playa tranquila y de suave pendiente",
+          "Apartamentos de dos dormitorios con cocina americana",
+          "Piscina en el jardín y un pequeño spa",
+          "Autobús y tabernas a un corto paseo"
+        ],
+        "pt": [
+          "Junto à Bandeira Azul de Agios Prokopios, uma praia calma e de suave declive",
+          "Apartamentos de dois quartos com kitchenette",
+          "Piscina no jardim e um pequeno spa",
+          "Autocarro e tabernas a uma curta caminhada"
         ]
       },
       "pros": {
@@ -235,6 +399,30 @@
           "Les kitchenettes facilitent les repas des tout-petits",
           "De vrais appartements taille famille",
           "Aucune voiture nécessaire pour une semaine axée plage"
+        ],
+        "it": [
+          "Una delle migliori spiagge della Grecia a due passi",
+          "Gli angoli cottura semplificano i pasti dei bimbi",
+          "Appartamenti veramente a misura di famiglia",
+          "Nessuna auto necessaria per una settimana dedicata al mare"
+        ],
+        "de": [
+          "Einer der besten Strände Griechenlands direkt vor der Tür",
+          "Kochnischen machen Kleinkind-Mahlzeiten einfach",
+          "Echte Apartments in Familiengröße",
+          "Kein Auto nötig für eine strandorientierte Woche"
+        ],
+        "es": [
+          "Una de las mejores playas de Grecia a la puerta",
+          "Las cocinas americanas facilitan las comidas de los pequeños",
+          "Auténticos apartamentos de tamaño familiar",
+          "Sin coche para una semana centrada en la playa"
+        ],
+        "pt": [
+          "Uma das melhores praias da Grecia à porta",
+          "As kitchenettes facilitam as refeições dos mais pequenos",
+          "Verdadeiros apartamentos de tamanho familiar",
+          "Sem necessidade de carro para uma semana focada na praia"
         ]
       },
       "cons": {
@@ -247,48 +435,100 @@
           "Agios Prokopios se remplit en haute saison",
           "Ce n'est pas un resort avec parc aquatique",
           "Certaines chambres sont à quelques pas du sable"
+        ],
+        "it": [
+          "Agios Prokopios si affolla nei periodi di punta",
+          "Non è un resort in stile parco acquatico",
+          "Alcune camere sono a breve distanza a piedi dalla sabbia"
+        ],
+        "de": [
+          "Agios Prokopios wird zu Stoßzeiten voll",
+          "Kein vollwertiges Resort im Wasserpark-Stil",
+          "Einige Zimmer liegen einen kurzen Fußweg vom Sand entfernt"
+        ],
+        "es": [
+          "Agios Prokopios se llena en las horas punta",
+          "No es un resort de estilo parque acuático",
+          "Algunas habitaciones están a un corto paseo de la arena"
+        ],
+        "pt": [
+          "Agios Prokopios enche nas horas de ponta",
+          "Não é um resort ao estilo de parque aquático",
+          "Alguns quartos ficam a uma curta caminhada da areia"
         ]
       },
       "verdict": {
         "en": "A calm, comfortable four-star next to one of Greece's finest family beaches, with kitchens for the fussy-eater years. Ask for a two-bedroom apartment and settle in for the week.",
-        "fr": "Un quatre-étoiles calme et confortable à côté de l'une des plus belles plages familiales de Grèce, avec cuisines pour l'âge des petits difficiles. Demandez un appartement deux chambres et installez-vous pour la semaine."
+        "fr": "Un quatre-étoiles calme et confortable à côté de l'une des plus belles plages familiales de Grèce, avec cuisines pour l'âge des petits difficiles. Demandez un appartement deux chambres et installez-vous pour la semaine.",
+        "it": "Un quattro stelle tranquillo e confortevole accanto a una delle più belle spiagge per famiglie della Grecia, con cucine per gli anni dei bimbi difficili a tavola. Chiedete un appartamento a due camere e sistematevi per la settimana.",
+        "de": "Ein ruhiges, komfortables Vier-Sterne-Haus neben einem der schönsten Familienstrände Griechenlands, mit Küchen für die Jahre der heiklen Esser. Bittet um ein Apartment mit zwei Schlafzimmern und richtet euch für die Woche ein.",
+        "es": "Un cuatro estrellas tranquilo y cómodo junto a una de las mejores playas familiares de Grecia, con cocinas para los años de los comensales difíciles. Pedid un apartamento de dos dormitorios e instalaos para la semana.",
+        "pt": "Um quatro estrelas tranquilo e confortável junto a uma das melhores praias familiares da Grecia, com cozinhas para os anos dos comensais exigentes. Peçam um apartamento de dois quartos e instalem-se para a semana."
       },
       "parentTip": {
         "en": "The far southern end of Agios Prokopios stays quieter and shallower; walk five minutes past the beach bars and you get calm water and space for a sandcastle empire.",
-        "fr": "L'extrémité sud d'Agios Prokopios reste plus calme et peu profonde ; marchez cinq minutes au-delà des bars de plage et vous trouvez une eau tranquille et de la place pour un empire de châteaux de sable."
+        "fr": "L'extrémité sud d'Agios Prokopios reste plus calme et peu profonde ; marchez cinq minutes au-delà des bars de plage et vous trouvez une eau tranquille et de la place pour un empire de châteaux de sable.",
+        "it": "L'estremità sud di Agios Prokopios resta più tranquilla e più bassa; camminate cinque minuti oltre i bar sulla spiaggia e troverete acqua calma e spazio per un impero di castelli di sabbia.",
+        "de": "Das südliche Ende von Agios Prokopios bleibt ruhiger und flacher; geht fünf Minuten an den Strandbars vorbei und ihr bekommt ruhiges Wasser und Platz für ein Sandburgen-Imperium.",
+        "es": "El extremo sur de Agios Prokopios se mantiene más tranquilo y menos profundo; caminad cinco minutos más allá de los chiringuitos y tendréis agua tranquila y espacio para un imperio de castillos de arena.",
+        "pt": "A ponta mais a sul de Agios Prokopios mantém-se mais tranquila e rasa; caminhem cinco minutos para lá dos bares de praia e terão água calma e espaço para um império de castelos de areia."
       },
       "atAGlance": [
         {
           "icon": "🏖️",
           "label": {
             "en": "Beach",
-            "fr": "Plage"
+            "fr": "Plage",
+            "it": "Spiaggia",
+            "de": "Strand",
+            "es": "Playa",
+            "pt": "Praia"
           },
           "value": {
             "en": "Blue Flag Agios Prokopios alongside",
-            "fr": "Pavillon Bleu d'Agios Prokopios à côté"
+            "fr": "Pavillon Bleu d'Agios Prokopios à côté",
+            "it": "Bandiera Blu di Agios Prokopios accanto",
+            "de": "Blaue-Flagge-Strand Agios Prokopios nebenan",
+            "es": "Bandera Azul de Agios Prokopios al lado",
+            "pt": "Bandeira Azul de Agios Prokopios ao lado"
           }
         },
         {
           "icon": "🍳",
           "label": {
             "en": "Self-catering",
-            "fr": "Cuisine autonome"
+            "fr": "Cuisine autonome",
+            "it": "Cucina autonoma",
+            "de": "Selbstverpflegung",
+            "es": "Cocina propia",
+            "pt": "Cozinha própria"
           },
           "value": {
             "en": "Two-bedroom apartments with kitchenettes",
-            "fr": "Appartements deux chambres avec kitchenette"
+            "fr": "Appartements deux chambres avec kitchenette",
+            "it": "Appartamenti a due camere con angolo cottura",
+            "de": "Apartments mit zwei Schlafzimmern und Kochnische",
+            "es": "Apartamentos de dos dormitorios con cocina americana",
+            "pt": "Apartamentos de dois quartos com kitchenette"
           }
         },
         {
           "icon": "💆",
           "label": {
             "en": "Spa",
-            "fr": "Spa"
+            "fr": "Spa",
+            "it": "Spa",
+            "de": "Spa",
+            "es": "Spa",
+            "pt": "Spa"
           },
           "value": {
             "en": "Small spa for an off-duty hour",
-            "fr": "Petit spa pour une heure sans les enfants"
+            "fr": "Petit spa pour une heure sans les enfants",
+            "it": "Piccola spa per un'ora libera dai bambini",
+            "de": "Kleines Spa für eine kinderfreie Stunde",
+            "es": "Pequeño spa para una hora libre",
+            "pt": "Pequeno spa para uma hora sem os miúdos"
           }
         }
       ],
@@ -296,21 +536,37 @@
         {
           "q": {
             "en": "Are the apartments good for a family of four?",
-            "fr": "Les appartements conviennent-ils à une famille de quatre?"
+            "fr": "Les appartements conviennent-ils à une famille de quatre?",
+            "it": "Gli appartamenti vanno bene per una famiglia di quattro?",
+            "de": "Sind die Apartments für eine vierköpfige Familie geeignet?",
+            "es": "¿Son buenos los apartamentos para una familia de cuatro?",
+            "pt": "Os apartamentos são bons para uma família de quatro?"
           },
           "a": {
             "en": "Yes, the two-bedroom apartments give parents and children separate rooms plus a kitchenette, which makes early dinners and nap times far easier than a single hotel room.",
-            "fr": "Oui, les appartements deux chambres offrent des pièces séparées pour parents et enfants plus une kitchenette, ce qui rend les dîners tôt et les siestes bien plus faciles qu'une simple chambre d'hôtel."
+            "fr": "Oui, les appartements deux chambres offrent des pièces séparées pour parents et enfants plus une kitchenette, ce qui rend les dîners tôt et les siestes bien plus faciles qu'une simple chambre d'hôtel.",
+            "it": "Sì, gli appartamenti a due camere danno a genitori e figli stanze separate più un angolo cottura, il che rende le cene anticipate e i pisolini molto più facili di una singola camera d'albergo.",
+            "de": "Ja, die Apartments mit zwei Schlafzimmern geben Eltern und Kindern getrennte Räume plus eine Kochnische, was frühe Abendessen und Schlafzeiten weit einfacher macht als ein einzelnes Hotelzimmer.",
+            "es": "Sí, los apartamentos de dos dormitorios dan a padres e hijos habitaciones separadas más una cocina americana, lo que hace las cenas tempranas y las siestas mucho más fáciles que una sola habitación de hotel.",
+            "pt": "Sim, os apartamentos de dois quartos dão aos pais e aos filhos quartos separados mais uma kitchenette, o que torna os jantares precoces e as sestas muito mais fáceis do que um único quarto de hotel."
           }
         },
         {
           "q": {
             "en": "How shallow is the beach?",
-            "fr": "La plage est-elle très peu profonde?"
+            "fr": "La plage est-elle très peu profonde?",
+            "it": "Quanto è bassa la spiaggia?",
+            "de": "Wie flach ist der Strand?",
+            "es": "¿Cuán poco profunda es la playa?",
+            "pt": "Quão rasa é a praia?"
           },
           "a": {
             "en": "Agios Prokopios shelves gently and stays shallow well out from shore, with usually calm water, so it suits babies and toddlers on all but the windiest days.",
-            "fr": "Agios Prokopios descend en pente douce et reste peu profonde loin du bord, avec une eau généralement calme, elle convient aux bébés et tout-petits sauf les jours de grand vent."
+            "fr": "Agios Prokopios descend en pente douce et reste peu profonde loin du bord, avec une eau généralement calme, elle convient aux bébés et tout-petits sauf les jours de grand vent.",
+            "it": "Agios Prokopios digrada dolcemente e resta bassa ben oltre la riva, con acqua di solito calma, così è adatta a neonati e bambini piccoli tranne nelle giornate più ventose.",
+            "de": "Agios Prokopios fällt sanft ab und bleibt weit vom Ufer flach, mit meist ruhigem Wasser, sodass er sich für Babys und Kleinkinder an allen außer den windigsten Tagen eignet.",
+            "es": "Agios Prokopios se adentra suavemente y se mantiene poco profunda bastante lejos de la orilla, con agua normalmente tranquila, así que va bien para bebés y niños pequeños salvo los días de más viento.",
+            "pt": "Agios Prokopios entra suavemente e mantém-se rasa bem para lá da margem, com água normalmente calma, por isso é adequada para bebés e crianças pequenas em todos os dias exceto os mais ventosos."
           }
         }
       ]
@@ -321,7 +577,11 @@
       "name": "Kymata Hotel",
       "area": {
         "en": "Naxos (Agios Georgios)",
-        "fr": "Naxos (Agios Georgios)"
+        "fr": "Naxos (Agios Georgios)",
+        "it": "Naxos (Agios Georgios)",
+        "de": "Naxos (Agios Georgios)",
+        "es": "Naxos (Agios Georgios)",
+        "pt": "Naxos (Agios Georgios)"
       },
       "lat": 37.1035,
       "lng": 25.372,
@@ -359,11 +619,19 @@
       },
       "roomsSummary": {
         "en": "Sixteen simple, spotless rooms and family suites, most with a sea view and some with a rooftop terrace. It is small and family-run rather than a resort, so there is no pool, but the shallow beach is thirty metres away.",
-        "fr": "Seize chambres et suites familiales simples et impeccables, la plupart avec vue mer et certaines avec terrasse sur le toit. C'est un petit hôtel familial plutôt qu'un resort, donc pas de piscine, mais la plage peu profonde est à trente mètres."
+        "fr": "Seize chambres et suites familiales simples et impeccables, la plupart avec vue mer et certaines avec terrasse sur le toit. C'est un petit hôtel familial plutôt qu'un resort, donc pas de piscine, mais la plage peu profonde est à trente mètres.",
+        "it": "Sedici camere e suite familiari semplici e immacolate, la maggior parte con vista mare e alcune con terrazza sul tetto. È piccolo e a conduzione familiare più che un resort, quindi non c'è piscina, ma la spiaggia bassa è a trenta metri.",
+        "de": "Sechzehn schlichte, blitzsaubere Zimmer und Familiensuiten, die meisten mit Meerblick und einige mit Dachterrasse. Es ist klein und familiengeführt statt eines Resorts, daher gibt es keinen Pool, aber der flache Strand ist dreißig Meter entfernt.",
+        "es": "Dieciséis habitaciones y suites familiares sencillas e impecables, la mayoría con vistas al mar y algunas con terraza en la azotea. Es pequeño y de gestión familiar más que un resort, así que no hay piscina, pero la playa poco profunda está a treinta metros.",
+        "pt": "Dezasseis quartos e suites familiares simples e impecáveis, a maioria com vista de mar e alguns com terraço no telhado. É pequeno e de gestão familiar em vez de um resort, por isso não há piscina, mas a praia rasa fica a trinta metros."
       },
       "intro": {
         "en": "For families who would rather spend on gyros than a five-star pool, Kymata is a friendly, family-run little hotel thirty metres from St George beach and a two-minute walk from Naxos Town seafront. There is no pool, but with water this shallow and this close you barely notice. The owners treat guests like relatives, the family suites fit four, and everything a parent needs, mini-market, pharmacy, tavernas, is on the same street.",
-        "fr": "Pour les familles qui préfèrent dépenser en gyros plutôt qu'en piscine cinq-étoiles, le Kymata est un petit hôtel familial chaleureux, à trente mètres de la plage de St George et à deux minutes du front de mer de la ville de Naxos. Il n'y a pas de piscine, mais avec une eau aussi peu profonde et aussi proche, on ne la remarque presque pas. Les propriétaires traitent les clients comme des proches, les suites familiales accueillent quatre personnes, et tout ce dont un parent a besoin, supérette, pharmacie, tavernes, est dans la même rue."
+        "fr": "Pour les familles qui préfèrent dépenser en gyros plutôt qu'en piscine cinq-étoiles, le Kymata est un petit hôtel familial chaleureux, à trente mètres de la plage de St George et à deux minutes du front de mer de la ville de Naxos. Il n'y a pas de piscine, mais avec une eau aussi peu profonde et aussi proche, on ne la remarque presque pas. Les propriétaires traitent les clients comme des proches, les suites familiales accueillent quatre personnes, et tout ce dont un parent a besoin, supérette, pharmacie, tavernes, est dans la même rue.",
+        "it": "Per le famiglie che preferiscono spendere in gyros piuttosto che in una piscina cinque stelle, il Kymata è un piccolo hotel accogliente a conduzione familiare a trenta metri dalla spiaggia di St George e a due minuti a piedi dal lungomare di Naxos Town. Non c'è piscina, ma con acqua così bassa e così vicina quasi non ci si fa caso. I proprietari trattano gli ospiti come parenti, le suite familiari ospitano quattro persone, e tutto ciò che serve a un genitore, minimarket, farmacia, taverne, è sulla stessa via.",
+        "de": "Für Familien, die lieber für Gyros als für einen Fünf-Sterne-Pool ausgeben, ist das Kymata ein freundliches, familiengeführtes kleines Hotel dreißig Meter vom St-George-Strand und zwei Gehminuten von der Uferpromenade von Naxos Town entfernt. Es gibt keinen Pool, aber bei so flachem und so nahem Wasser fällt das kaum auf. Die Besitzer behandeln Gäste wie Verwandte, die Familiensuiten fassen vier Personen, und alles, was Eltern brauchen, Minimarkt, Apotheke, Tavernen, liegt in derselben Straße.",
+        "es": "Para las familias que prefieren gastar en gyros antes que en una piscina de cinco estrellas, el Kymata es un pequeño hotel acogedor de gestión familiar a treinta metros de la playa de St George y a dos minutos a pie del paseo marítimo de Naxos Town. No hay piscina, pero con el agua tan poco profunda y tan cerca apenas se nota. Los propietarios tratan a los huéspedes como familiares, las suites familiares caben cuatro personas, y todo lo que un padre necesita, minimercado, farmacia, tabernas, está en la misma calle.",
+        "pt": "Para as famílias que preferem gastar em gyros do que numa piscina de cinco estrelas, o Kymata é um pequeno hotel acolhedor de gestão familiar a trinta metros da praia de St George e a dois minutos a pé da marginal de Naxos Town. Não há piscina, mas com a água tão rasa e tão perto quase nem se nota. Os proprietários tratam os hóspedes como familiares, as suites familiares acomodam quatro pessoas, e tudo o que um pai precisa, minimercado, farmácia, tabernas, fica na mesma rua."
       },
       "highlights": {
         "en": [
@@ -377,6 +645,30 @@
           "À trente mètres de la plage peu profonde de St George",
           "À deux minutes à pied de la ville de Naxos",
           "Suites familiales pour quatre à petit budget"
+        ],
+        "it": [
+          "Il calore di un hotel a conduzione familiare, ospiti trattati come parenti",
+          "A trenta metri dalla bassa spiaggia di St George",
+          "A due minuti a piedi da Naxos Town",
+          "Suite familiari che ospitano quattro persone a un piccolo budget"
+        ],
+        "de": [
+          "Familiäre Herzlichkeit, Gäste wie Verwandte behandelt",
+          "Dreißig Meter vom flachen St-George-Strand",
+          "Zwei Gehminuten von Naxos Town",
+          "Familiensuiten für vier bei kleinem Budget"
+        ],
+        "es": [
+          "Calidez de gestión familiar, huéspedes tratados como familiares",
+          "A treinta metros de la playa poco profunda de St George",
+          "A dos minutos a pie de Naxos Town",
+          "Suites familiares para cuatro con poco presupuesto"
+        ],
+        "pt": [
+          "Calor de gestão familiar, hóspedes tratados como familiares",
+          "A trinta metros da praia rasa de St George",
+          "A dois minutos a pé de Naxos Town",
+          "Suites familiares para quatro com pouco orçamento"
         ]
       },
       "pros": {
@@ -391,6 +683,30 @@
           "Propriétaires vraiment chaleureux et présents",
           "Tout accessible à pied, sans voiture",
           "Eau très peu profonde et sûre juste devant"
+        ],
+        "it": [
+          "Ottimo rapporto qualità-prezzo vicino alla spiaggia",
+          "Proprietari davvero calorosi e presenti",
+          "Tutto raggiungibile a piedi, senza auto",
+          "Acqua molto bassa e sicura proprio davanti"
+        ],
+        "de": [
+          "Ausgezeichnetes Preis-Leistungs-Verhältnis nahe am Strand",
+          "Wirklich herzliche, tatkräftige Besitzer",
+          "Alles zu Fuß erreichbar, kein Auto erforderlich",
+          "Sehr flaches, sicheres Wasser direkt vor der Tür"
+        ],
+        "es": [
+          "Excelente relación calidad-precio cerca de la playa",
+          "Propietarios de verdad cálidos y atentos",
+          "Todo a pie, sin coche necesario",
+          "Agua muy poco profunda y segura justo enfrente"
+        ],
+        "pt": [
+          "Excelente relação qualidade-preço perto da praia",
+          "Proprietários genuinamente calorosos e presentes",
+          "Tudo acessível a pé, sem carro necessário",
+          "Água muito rasa e segura mesmo em frente"
         ]
       },
       "cons": {
@@ -403,48 +719,100 @@
           "Pas de piscine, un jour de vent c'est la plage ou rien",
           "Petit et simple, pas un resort avec équipements",
           "Complet tôt pour le plein été"
+        ],
+        "it": [
+          "Niente piscina, quindi in una giornata ventosa è spiaggia o niente",
+          "Piccolo e semplice, non un resort con servizi",
+          "Si esaurisce presto per la piena estate"
+        ],
+        "de": [
+          "Kein Pool, an einem windigen Tag heißt es also Strand oder nichts",
+          "Klein und schlicht, kein Resort mit Einrichtungen",
+          "Im Hochsommer früh ausgebucht"
+        ],
+        "es": [
+          "Sin piscina, así que un día de viento significa playa o nada",
+          "Pequeño y sencillo, no un resort con instalaciones",
+          "Se agota pronto en pleno verano"
+        ],
+        "pt": [
+          "Sem piscina, por isso um dia de vento significa praia ou nada",
+          "Pequeno e simples, não um resort com instalações",
+          "Esgota cedo no pico do verão"
         ]
       },
       "verdict": {
         "en": "The budget baby-and-toddler pick: a warm little family hotel on the shallowest town beach, with the shops and tavernas of Naxos two minutes away. Perfect if you want the beach, not a resort.",
-        "fr": "Le choix bébé et tout-petit à petit budget : un petit hôtel familial chaleureux sur la plage de ville la plus peu profonde, avec les boutiques et tavernes de Naxos à deux minutes. Parfait si vous voulez la plage, pas un resort."
+        "fr": "Le choix bébé et tout-petit à petit budget : un petit hôtel familial chaleureux sur la plage de ville la plus peu profonde, avec les boutiques et tavernes de Naxos à deux minutes. Parfait si vous voulez la plage, pas un resort.",
+        "it": "La scelta economica per neonati e bambini piccoli: un piccolo e caloroso hotel familiare sulla spiaggia cittadina più bassa, con i negozi e le taverne di Naxos a due minuti. Perfetto se volete la spiaggia, non un resort.",
+        "de": "Die günstige Wahl für Babys und Kleinkinder: ein herzliches, familiengeführtes kleines Hotel am flachsten Stadtstrand, mit den Geschäften und Tavernen von Naxos zwei Minuten entfernt. Perfekt, wenn ihr den Strand wollt, kein Resort.",
+        "es": "La opción económica para bebés y niños pequeños: un pequeño y cálido hotel de gestión familiar en la playa urbana menos profunda, con las tiendas y tabernas de Naxos a dos minutos. Perfecto si queréis la playa, no un resort.",
+        "pt": "A escolha económica para bebés e crianças pequenas: um pequeno e acolhedor hotel de gestão familiar na praia urbana mais rasa, com as lojas e tabernas de Naxos a dois minutos. Perfeito se querem a praia, não um resort."
       },
       "parentTip": {
         "en": "With no pool to fall back on, pack a beach shade and a couple of pool toys; St George is calm enough in the morning that a paddling ring works beautifully close to shore.",
-        "fr": "Sans piscine de repli, emportez un pare-soleil de plage et quelques jouets d'eau ; St George est assez calme le matin pour qu'une bouée fonctionne parfaitement près du bord."
+        "fr": "Sans piscine de repli, emportez un pare-soleil de plage et quelques jouets d'eau ; St George est assez calme le matin pour qu'une bouée fonctionne parfaitement près du bord.",
+        "it": "Senza piscina di riserva, portate un ombrellone da spiaggia e un paio di giochi da piscina; St George è abbastanza calma al mattino perché una ciambella funzioni benissimo vicino alla riva.",
+        "de": "Ohne einen Pool als Rückzugsort packt einen Strandschirm und ein paar Poolspielzeuge ein; St George ist morgens ruhig genug, dass ein Schwimmring nahe am Ufer wunderbar funktioniert.",
+        "es": "Sin una piscina como alternativa, llevad una sombrilla de playa y un par de juguetes de agua; St George está lo bastante tranquila por la mañana como para que un flotador funcione de maravilla cerca de la orilla.",
+        "pt": "Sem uma piscina de reserva, levem um chapéu de praia e alguns brinquedos de água; St George está suficientemente calma de manhã para que uma bóia funcione lindamente perto da margem."
       },
       "atAGlance": [
         {
           "icon": "❤️",
           "label": {
             "en": "Style",
-            "fr": "Style"
+            "fr": "Style",
+            "it": "Stile",
+            "de": "Stil",
+            "es": "Estilo",
+            "pt": "Estilo"
           },
           "value": {
             "en": "Small, warm, family-run",
-            "fr": "Petit, chaleureux, familial"
+            "fr": "Petit, chaleureux, familial",
+            "it": "Piccolo, caloroso, a conduzione familiare",
+            "de": "Klein, herzlich, familiengeführt",
+            "es": "Pequeño, cálido, de gestión familiar",
+            "pt": "Pequeno, acolhedor, de gestão familiar"
           }
         },
         {
           "icon": "🏖️",
           "label": {
             "en": "Beach",
-            "fr": "Plage"
+            "fr": "Plage",
+            "it": "Spiaggia",
+            "de": "Strand",
+            "es": "Playa",
+            "pt": "Praia"
           },
           "value": {
             "en": "Shallow St George sand, 30m away",
-            "fr": "Sable peu profond de St George, à 30 m"
+            "fr": "Sable peu profond de St George, à 30 m",
+            "it": "Sabbia bassa di St George, a 30 m",
+            "de": "Flacher Sand von St George, 30 m entfernt",
+            "es": "Arena poco profunda de St George, a 30 m",
+            "pt": "Areia rasa de St George, a 30 m"
           }
         },
         {
           "icon": "💶",
           "label": {
             "en": "Value",
-            "fr": "Budget"
+            "fr": "Budget",
+            "it": "Budget",
+            "de": "Preis",
+            "es": "Precio",
+            "pt": "Preço"
           },
           "value": {
             "en": "Family suites at a low price",
-            "fr": "Suites familiales à petit prix"
+            "fr": "Suites familiales à petit prix",
+            "it": "Suite familiari a un prezzo basso",
+            "de": "Familiensuiten zum niedrigen Preis",
+            "es": "Suites familiares a bajo precio",
+            "pt": "Suites familiares a baixo preço"
           }
         }
       ],
@@ -452,21 +820,37 @@
         {
           "q": {
             "en": "Is there a pool?",
-            "fr": "Y a-t-il une piscine?"
+            "fr": "Y a-t-il une piscine?",
+            "it": "C'è una piscina?",
+            "de": "Gibt es einen Pool?",
+            "es": "¿Hay piscina?",
+            "pt": "Há piscina?"
           },
           "a": {
             "en": "No, Kymata is a small family-run hotel without a pool. The trade-off is the shallow St George beach just thirty metres away and a much lower price than the resorts.",
-            "fr": "Non, le Kymata est un petit hôtel familial sans piscine. En échange, la plage peu profonde de St George est à trente mètres et le prix bien inférieur aux resorts."
+            "fr": "Non, le Kymata est un petit hôtel familial sans piscine. En échange, la plage peu profonde de St George est à trente mètres et le prix bien inférieur aux resorts.",
+            "it": "No, il Kymata è un piccolo hotel a conduzione familiare senza piscina. In cambio c'è la bassa spiaggia di St George a soli trenta metri e un prezzo molto più basso rispetto ai resort.",
+            "de": "Nein, das Kymata ist ein kleines, familiengeführtes Hotel ohne Pool. Der Ausgleich ist der flache St-George-Strand nur dreißig Meter entfernt und ein deutlich niedrigerer Preis als bei den Resorts.",
+            "es": "No, el Kymata es un pequeño hotel de gestión familiar sin piscina. La contrapartida es la playa poco profunda de St George a solo treinta metros y un precio mucho más bajo que los resorts.",
+            "pt": "Não, o Kymata é um pequeno hotel de gestão familiar sem piscina. A troca é a praia rasa de St George a apenas trinta metros e um preço muito mais baixo do que os resorts."
           }
         },
         {
           "q": {
             "en": "Is it suitable with a baby?",
-            "fr": "Est-ce adapté avec un bébé?"
+            "fr": "Est-ce adapté avec un bébé?",
+            "it": "È adatto con un neonato?",
+            "de": "Ist es mit einem Baby geeignet?",
+            "es": "¿Es adecuado con un bebé?",
+            "pt": "É adequado com um bebé?"
           },
           "a": {
             "en": "Yes for a beach-and-town holiday: family suites sleep four, the beach is calm and shallow, and shops and pharmacies are on the same street, though there is no kids club or resort childcare.",
-            "fr": "Oui pour des vacances plage et ville : les suites familiales accueillent quatre personnes, la plage est calme et peu profonde, et boutiques et pharmacies sont dans la même rue, mais il n'y a ni club enfants ni garde d'enfants."
+            "fr": "Oui pour des vacances plage et ville : les suites familiales accueillent quatre personnes, la plage est calme et peu profonde, et boutiques et pharmacies sont dans la même rue, mais il n'y a ni club enfants ni garde d'enfants.",
+            "it": "Sì per una vacanza tra spiaggia e città: le suite familiari ospitano quattro persone, la spiaggia è calma e bassa, e negozi e farmacie sono sulla stessa via, anche se non c'è né club per bambini né servizio di babysitting del resort.",
+            "de": "Ja für einen Strand-und-Stadt-Urlaub: Die Familiensuiten fassen vier Personen, der Strand ist ruhig und flach, und Geschäfte und Apotheken liegen in derselben Straße, auch wenn es keinen Kinderclub oder Resort-Kinderbetreuung gibt.",
+            "es": "Sí para unas vacaciones de playa y ciudad: las suites familiares caben cuatro personas, la playa es tranquila y poco profunda, y las tiendas y farmacias están en la misma calle, aunque no hay club infantil ni servicio de guardería.",
+            "pt": "Sim para umas férias de praia e cidade: as suites familiares acomodam quatro pessoas, a praia é calma e rasa, e as lojas e farmácias ficam na mesma rua, embora não haja clube infantil nem serviço de acompanhamento de crianças."
           }
         }
       ]
@@ -477,7 +861,11 @@
       "name": "Ammothines Cycladic Suites",
       "area": {
         "en": "Naxos (Plaka Beach)",
-        "fr": "Naxos (plage de Plaka)"
+        "fr": "Naxos (plage de Plaka)",
+        "it": "Naxos (spiaggia di Plaka)",
+        "de": "Naxos (Plaka Beach)",
+        "es": "Naxos (Plaka Beach)",
+        "pt": "Naxos (Plaka Beach)"
       },
       "lat": 37.049,
       "lng": 25.36,
@@ -516,11 +904,19 @@
       },
       "roomsSummary": {
         "en": "Bright, spacious suites and maisonettes in Cycladic white and blue, several with two levels or two bedrooms and a private terrace. The larger maisonettes suit a family with a baby and an older sibling who both need their own space.",
-        "fr": "Suites et maisonnettes lumineuses et spacieuses en blanc et bleu cycladiques, plusieurs sur deux niveaux ou à deux chambres avec terrasse privée. Les grandes maisonnettes conviennent à une famille avec un bébé et un aîné qui ont chacun besoin de leur espace."
+        "fr": "Suites et maisonnettes lumineuses et spacieuses en blanc et bleu cycladiques, plusieurs sur deux niveaux ou à deux chambres avec terrasse privée. Les grandes maisonnettes conviennent à une famille avec un bébé et un aîné qui ont chacun besoin de leur espace.",
+        "it": "Suite e maisonette luminose e spaziose nel bianco e blu cicladico, diverse su due livelli o a due camere con terrazza privata. Le maisonette più grandi sono adatte a una famiglia con un neonato e un fratello maggiore che hanno entrambi bisogno del proprio spazio.",
+        "de": "Helle, geräumige Suiten und Maisonetten in kykladischem Weiß und Blau, mehrere auf zwei Ebenen oder mit zwei Schlafzimmern und einer privaten Terrasse. Die größeren Maisonetten eignen sich für eine Familie mit einem Baby und einem älteren Geschwister, die beide ihren eigenen Raum brauchen.",
+        "es": "Suites y dúplex luminosos y amplios en blanco y azul cicládicos, varios de dos niveles o con dos dormitorios y una terraza privada. Los dúplex más grandes van bien para una familia con un bebé y un hermano mayor que necesitan cada uno su propio espacio.",
+        "pt": "Suites e duplex luminosos e espaçosos em branco e azul cicládicos, vários de dois níveis ou com dois quartos e um terraço privado. Os duplex maiores servem para uma família com um bebé e um irmão mais velho que precisam ambos do seu próprio espaço."
       },
       "intro": {
         "en": "Plaka is the beach parents dream about: four kilometres of fine, pale sand that shelves so slowly a toddler can walk out an astonishing distance and still be barely wet. Ammothines sits just behind it, a small Cycladic suites hotel with a pretty garden pool and family-sized maisonettes. It is quieter and greener than the town beaches, you will want a car for the supermarket run, but for a gentle week of sandcastles and shallow paddling it is hard to beat.",
-        "fr": "Plaka est la plage dont rêvent les parents : quatre kilomètres de sable fin et clair qui descend si lentement qu'un tout-petit peut s'éloigner sur une distance étonnante en ayant à peine les pieds mouillés. Ammothines se trouve juste derrière, un petit hôtel de suites cycladiques avec une jolie piscine de jardin et des maisonnettes taille famille. C'est plus calme et plus vert que les plages de ville ; il vous faudra une voiture pour les courses, mais pour une semaine douce de châteaux de sable et de baignade peu profonde, difficile de faire mieux."
+        "fr": "Plaka est la plage dont rêvent les parents : quatre kilomètres de sable fin et clair qui descend si lentement qu'un tout-petit peut s'éloigner sur une distance étonnante en ayant à peine les pieds mouillés. Ammothines se trouve juste derrière, un petit hôtel de suites cycladiques avec une jolie piscine de jardin et des maisonnettes taille famille. C'est plus calme et plus vert que les plages de ville ; il vous faudra une voiture pour les courses, mais pour une semaine douce de châteaux de sable et de baignade peu profonde, difficile de faire mieux.",
+        "it": "Plaka è la spiaggia che i genitori sognano: quattro chilometri di sabbia fine e chiara che digrada così lentamente che un bimbo può camminare in acqua per una distanza sorprendente restando appena bagnato. Ammothines si trova proprio dietro, un piccolo hotel di suite cicladiche con una graziosa piscina nel giardino e maisonette a misura di famiglia. È più tranquillo e più verde delle spiagge cittadine, vi servirà un'auto per fare la spesa, ma per una settimana dolce di castelli di sabbia e bagni bassi è difficile da battere.",
+        "de": "Plaka ist der Strand, von dem Eltern träumen: vier Kilometer feiner, heller Sand, der so langsam abfällt, dass ein Kleinkind eine erstaunliche Strecke hinauslaufen kann und trotzdem kaum nass wird. Das Ammothines liegt direkt dahinter, ein kleines kykladisches Suitenhotel mit einem hübschen Gartenpool und Maisonetten in Familiengröße. Es ist ruhiger und grüner als die Stadtstrände; für den Supermarkteinkauf werdet ihr ein Auto wollen, aber für eine sanfte Woche voller Sandburgen und flachem Planschen ist es kaum zu schlagen.",
+        "es": "Plaka es la playa con la que los padres sueñan: cuatro kilómetros de arena fina y clara que se adentra tan lentamente que un pequeño puede caminar una distancia asombrosa y aún estar apenas mojado. El Ammothines está justo detrás, un pequeño hotel de suites cicládicas con una bonita piscina en el jardín y dúplex de tamaño familiar. Es más tranquila y más verde que las playas urbanas; querréis un coche para la compra en el supermercado, pero para una semana apacible de castillos de arena y chapoteo poco profundo es difícil de superar.",
+        "pt": "Plaka é a praia com que os pais sonham: quatro quilómetros de areia fina e clara que entra tão lentamente que uma criança pequena pode caminhar uma distância surpreendente e ainda estar mal molhada. O Ammothines fica mesmo atrás, um pequeno hotel de suites cicládicas com uma bonita piscina no jardim e duplex de tamanho familiar. É mais tranquila e mais verde do que as praias urbanas; vão querer um carro para as compras no supermercado, mas para uma semana suave de castelos de areia e chapinhar em água rasa é difícil de bater."
       },
       "highlights": {
         "en": [
@@ -534,6 +930,30 @@
           "Maisonnettes familiales sur deux niveaux ou à deux chambres",
           "Jolie piscine de jardin tranquille",
           "Plus calme et plus verte que les plages de ville"
+        ],
+        "it": [
+          "Dietro Plaka, la sabbia più lunga e più bassa dell'isola",
+          "Maisonette familiari su due livelli o a due camere",
+          "Graziosa e tranquilla piscina nel giardino",
+          "Più calma e più verde delle spiagge cittadine"
+        ],
+        "de": [
+          "Hinter Plaka, der längste, flachste Sand der Insel",
+          "Familienmaisonetten auf zwei Ebenen oder mit zwei Schlafzimmern",
+          "Hübscher, ruhiger Gartenpool",
+          "Ruhiger und grüner als die Stadtstrände"
+        ],
+        "es": [
+          "Detrás de Plaka, la arena más larga y poco profunda de la isla",
+          "Dúplex familiares de dos niveles o con dos dormitorios",
+          "Bonita y tranquila piscina en el jardín",
+          "Más tranquila y más verde que las playas urbanas"
+        ],
+        "pt": [
+          "Atrás de Plaka, a areia mais longa e rasa da ilha",
+          "Duplex familiares de dois níveis ou com dois quartos",
+          "Bonita e tranquila piscina no jardim",
+          "Mais calma e mais verde do que as praias urbanas"
         ]
       },
       "pros": {
@@ -548,6 +968,30 @@
           "Suites et maisonnettes spacieuses pour familles",
           "Cadre paisible loin de la foule",
           "Belle piscine de jardin pour les journées piscine"
+        ],
+        "it": [
+          "La spiaggia più bassa e più morbida di Naxos",
+          "Suite e maisonette spaziose per le famiglie",
+          "Cornice tranquilla lontano dalla folla",
+          "Deliziosa piscina nel giardino per le giornate in piscina"
+        ],
+        "de": [
+          "Der flachste, weichste Strand von Naxos",
+          "Geräumige Suiten und Maisonetten für Familien",
+          "Friedliche Lage fern der Menge",
+          "Reizender Gartenpool für Pooltage"
+        ],
+        "es": [
+          "La playa más poco profunda y suave de Naxos",
+          "Suites y dúplex amplios para familias",
+          "Entorno apacible lejos de las multitudes",
+          "Preciosa piscina en el jardín para los días de piscina"
+        ],
+        "pt": [
+          "A praia mais rasa e macia de Naxos",
+          "Suites e duplex espaçosos para famílias",
+          "Ambiente tranquilo longe da multidão",
+          "Linda piscina no jardim para os dias de piscina"
         ]
       },
       "cons": {
@@ -560,48 +1004,100 @@
           "Une voiture de location est souhaitable par ici",
           "Moins de tavernes à quelques pas",
           "Plaka peut prendre le vent l'après-midi en plein été"
+        ],
+        "it": [
+          "Da queste parti vorrete un'auto a noleggio",
+          "Meno taverne a breve distanza a piedi",
+          "Plaka può prendere il vento del pomeriggio in piena estate"
+        ],
+        "de": [
+          "Hier draußen werdet ihr einen Mietwagen wollen",
+          "Weniger Tavernen in kurzer Gehweite",
+          "Plaka kann im Hochsommer den Nachmittagswind abbekommen"
+        ],
+        "es": [
+          "Aquí fuera querréis un coche de alquiler",
+          "Menos tabernas a un corto paseo",
+          "Plaka puede coger el viento de la tarde en pleno verano"
+        ],
+        "pt": [
+          "Aqui fora vão querer um carro alugado",
+          "Menos tabernas a uma curta caminhada",
+          "Plaka pode apanhar o vento da tarde no pico do verão"
         ]
       },
       "verdict": {
         "en": "The quiet-and-shallow choice: a small Cycladic suites hotel behind the softest beach on Naxos, with a garden pool for downtime. Rent a car and settle into slow, sandy days.",
-        "fr": "Le choix calme et peu profond : un petit hôtel de suites cycladiques derrière la plage la plus douce de Naxos, avec piscine de jardin pour souffler. Louez une voiture et savourez des journées lentes et sablonneuses."
+        "fr": "Le choix calme et peu profond : un petit hôtel de suites cycladiques derrière la plage la plus douce de Naxos, avec piscine de jardin pour souffler. Louez une voiture et savourez des journées lentes et sablonneuses.",
+        "it": "La scelta tranquilla e dai fondali bassi: un piccolo hotel di suite cicladiche dietro la spiaggia più morbida di Naxos, con una piscina nel giardino per rilassarsi. Noleggiate un'auto e godetevi giornate lente e sabbiose.",
+        "de": "Die ruhige Wahl mit flachem Wasser: ein kleines kykladisches Suitenhotel hinter dem weichsten Strand von Naxos, mit einem Gartenpool für die Auszeit. Mietet ein Auto und lasst euch auf langsame, sandige Tage ein.",
+        "es": "La opción tranquila y de agua poco profunda: un pequeño hotel de suites cicládicas detrás de la playa más suave de Naxos, con una piscina en el jardín para el descanso. Alquilad un coche y entregaos a días lentos y de arena.",
+        "pt": "A escolha tranquila e de água rasa: um pequeno hotel de suites cicládicas atrás da praia mais macia de Naxos, com uma piscina no jardim para descansar. Aluguem um carro e entreguem-se a dias lentos e arenosos."
       },
       "parentTip": {
         "en": "Plaka is huge and empties out the further you walk from the access path; carry the beach kit five minutes south and you get a shallow, near-private stretch for the toddler.",
-        "fr": "Plaka est immense et se vide à mesure qu'on s'éloigne du sentier d'accès ; portez le matériel cinq minutes vers le sud et vous obtenez une bande peu profonde et presque privée pour le tout-petit."
+        "fr": "Plaka est immense et se vide à mesure qu'on s'éloigne du sentier d'accès ; portez le matériel cinq minutes vers le sud et vous obtenez une bande peu profonde et presque privée pour le tout-petit.",
+        "it": "Plaka è enorme e si svuota man mano che ci si allontana dal sentiero d'accesso; portate l'attrezzatura da spiaggia cinque minuti a sud e otterrete un tratto basso e quasi privato per il bimbo.",
+        "de": "Plaka ist riesig und leert sich, je weiter man vom Zugangsweg weggeht; tragt die Strandausrüstung fünf Minuten nach Süden und ihr bekommt einen flachen, fast privaten Abschnitt für das Kleinkind.",
+        "es": "Plaka es enorme y se vacía cuanto más te alejas del sendero de acceso; llevad el equipo de playa cinco minutos al sur y conseguiréis un tramo poco profundo y casi privado para el pequeño.",
+        "pt": "Plaka é enorme e esvazia-se à medida que se afasta do caminho de acesso; levem o equipamento de praia cinco minutos para sul e obtêm um trecho raso e quase privado para a criança."
       },
       "atAGlance": [
         {
           "icon": "🏖️",
           "label": {
             "en": "Beach",
-            "fr": "Plage"
+            "fr": "Plage",
+            "it": "Spiaggia",
+            "de": "Strand",
+            "es": "Playa",
+            "pt": "Praia"
           },
           "value": {
             "en": "Plaka, 4km of shallow soft sand",
-            "fr": "Plaka, 4 km de sable doux et peu profond"
+            "fr": "Plaka, 4 km de sable doux et peu profond",
+            "it": "Plaka, 4 km di sabbia bassa e morbida",
+            "de": "Plaka, 4 km flacher, weicher Sand",
+            "es": "Plaka, 4 km de arena poco profunda y suave",
+            "pt": "Plaka, 4 km de areia rasa e macia"
           }
         },
         {
           "icon": "🏡",
           "label": {
             "en": "Rooms",
-            "fr": "Chambres"
+            "fr": "Chambres",
+            "it": "Camere",
+            "de": "Zimmer",
+            "es": "Habitaciones",
+            "pt": "Quartos"
           },
           "value": {
             "en": "Family maisonettes and suites",
-            "fr": "Maisonnettes et suites familiales"
+            "fr": "Maisonnettes et suites familiales",
+            "it": "Maisonette e suite familiari",
+            "de": "Familienmaisonetten und Suiten",
+            "es": "Dúplex y suites familiares",
+            "pt": "Duplex e suites familiares"
           }
         },
         {
           "icon": "🚗",
           "label": {
             "en": "Getting around",
-            "fr": "Déplacements"
+            "fr": "Déplacements",
+            "it": "Spostamenti",
+            "de": "Fortbewegung",
+            "es": "Desplazamientos",
+            "pt": "Deslocações"
           },
           "value": {
             "en": "A hire car helps out here",
-            "fr": "Une voiture de location est utile ici"
+            "fr": "Une voiture de location est utile ici",
+            "it": "Un'auto a noleggio è utile da queste parti",
+            "de": "Ein Mietwagen ist hier hilfreich",
+            "es": "Un coche de alquiler ayuda aquí",
+            "pt": "Um carro alugado ajuda aqui"
           }
         }
       ],
@@ -609,21 +1105,37 @@
         {
           "q": {
             "en": "Why is Plaka good for toddlers?",
-            "fr": "Pourquoi Plaka est-elle bien pour les tout-petits?"
+            "fr": "Pourquoi Plaka est-elle bien pour les tout-petits?",
+            "it": "Perché Plaka è adatta ai bambini piccoli?",
+            "de": "Warum ist Plaka gut für Kleinkinder?",
+            "es": "¿Por qué es buena Plaka para los niños pequeños?",
+            "pt": "Porque é que Plaka é boa para crianças pequenas?"
           },
           "a": {
             "en": "Plaka is long, wide and shelves extremely gently, so the water stays shallow a long way out and there is endless soft sand, which makes it one of the safest beaches on Naxos for very small children.",
-            "fr": "Plaka est longue, large et descend très doucement, l'eau reste peu profonde loin du bord et le sable doux est infini, ce qui en fait l'une des plages les plus sûres de Naxos pour les tout-petits."
+            "fr": "Plaka est longue, large et descend très doucement, l'eau reste peu profonde loin du bord et le sable doux est infini, ce qui en fait l'une des plages les plus sûres de Naxos pour les tout-petits.",
+            "it": "Plaka è lunga, ampia e digrada in modo estremamente dolce, così l'acqua resta bassa per un lungo tratto e c'è sabbia morbida a non finire, il che ne fa una delle spiagge più sicure di Naxos per i bambini molto piccoli.",
+            "de": "Plaka ist lang, breit und fällt extrem sanft ab, sodass das Wasser über eine lange Strecke flach bleibt und es endlosen weichen Sand gibt, was ihn zu einem der sichersten Strände von Naxos für sehr kleine Kinder macht.",
+            "es": "Plaka es larga, ancha y se adentra de forma extremadamente suave, así que el agua se mantiene poco profunda durante un buen trecho y hay arena suave interminable, lo que la convierte en una de las playas más seguras de Naxos para los niños muy pequeños.",
+            "pt": "Plaka é longa, larga e entra de forma extremamente suave, por isso a água mantém-se rasa ao longo de um bom trecho e há areia macia sem fim, o que a torna uma das praias mais seguras de Naxos para crianças muito pequenas."
           }
         },
         {
           "q": {
             "en": "Do we need a car?",
-            "fr": "Faut-il une voiture?"
+            "fr": "Faut-il une voiture?",
+            "it": "Serve un'auto?",
+            "de": "Brauchen wir ein Auto?",
+            "es": "¿Necesitamos un coche?",
+            "pt": "Precisamos de um carro?"
           },
           "a": {
             "en": "It helps. Plaka is away from the main town, so a hire car makes supermarket runs, wider dining choice and day trips much easier than relying on the bus.",
-            "fr": "C'est préférable. Plaka est à l'écart de la ville, une voiture de location facilite les courses, le choix de restaurants et les excursions bien plus que le bus."
+            "fr": "C'est préférable. Plaka est à l'écart de la ville, une voiture de location facilite les courses, le choix de restaurants et les excursions bien plus que le bus.",
+            "it": "È utile. Plaka è lontana dal centro principale, così un'auto a noleggio rende la spesa, una scelta più ampia di ristoranti e le gite giornaliere molto più facili che affidarsi all'autobus.",
+            "de": "Es hilft. Plaka liegt abseits der Hauptstadt, daher macht ein Mietwagen Supermarkteinkäufe, eine größere Auswahl an Restaurants und Tagesausflüge weit einfacher, als sich auf den Bus zu verlassen.",
+            "es": "Ayuda. Plaka está apartada del pueblo principal, así que un coche de alquiler hace las compras en el supermercado, una mayor variedad de restaurantes y las excursiones mucho más fáciles que depender del autobús.",
+            "pt": "Ajuda. Plaka fica afastada da cidade principal, por isso um carro alugado torna as compras no supermercado, uma maior escolha de restaurantes e os passeios de um dia muito mais fáceis do que depender do autocarro."
           }
         }
       ]
@@ -634,7 +1146,11 @@
       "name": "Poseidon of Paros Hotel & Spa",
       "area": {
         "en": "Paros (Golden Beach)",
-        "fr": "Paros (Golden Beach)"
+        "fr": "Paros (Golden Beach)",
+        "it": "Paros (Golden Beach)",
+        "de": "Paros (Golden Beach)",
+        "es": "Paros (Golden Beach)",
+        "pt": "Paros (Golden Beach)"
       },
       "lat": 37.045,
       "lng": 25.234,
@@ -673,11 +1189,19 @@
       },
       "roomsSummary": {
         "en": "Fifty-two Cycladic rooms and suites spread through low, garden-set buildings, many with a sea view and a terrace. Family suites and interconnecting options give parents and children room to breathe.",
-        "fr": "Cinquante-deux chambres et suites cycladiques réparties dans des bâtiments bas nichés dans les jardins, beaucoup avec vue mer et terrasse. Suites familiales et options communicantes donnent de l'air aux parents comme aux enfants."
+        "fr": "Cinquante-deux chambres et suites cycladiques réparties dans des bâtiments bas nichés dans les jardins, beaucoup avec vue mer et terrasse. Suites familiales et options communicantes donnent de l'air aux parents comme aux enfants.",
+        "it": "Cinquantadue camere e suite cicladiche distribuite in edifici bassi immersi nel giardino, molte con vista mare e terrazza. Suite familiari e opzioni comunicanti danno a genitori e figli spazio per respirare.",
+        "de": "Zweiundfünfzig kykladische Zimmer und Suiten, verteilt auf niedrige, in Gärten gelegene Gebäude, viele mit Meerblick und einer Terrasse. Familiensuiten und verbindbare Optionen geben Eltern und Kindern Raum zum Durchatmen.",
+        "es": "Cincuenta y dos habitaciones y suites cicládicas repartidas en edificios bajos rodeados de jardines, muchas con vistas al mar y terraza. Las suites familiares y las opciones comunicadas dan a padres e hijos espacio para respirar.",
+        "pt": "Cinquenta e duas quartos e suites cicládicos distribuídos por edifícios baixos rodeados de jardins, muitos com vista de mar e terraço. Suites familiares e opções comunicantes dão aos pais e aos filhos espaço para respirar."
       },
       "intro": {
         "en": "This is the closest Paros gets to a full family resort: a low-rise five-star spread over gardens 50 metres from Golden Beach, with two big pools, two dedicated children's pools, a playground and a spa. Golden Beach is a broad sweep of sand that stays shallow for small children on calm mornings, though it is also a windsurf beach, so the afternoon breeze can pick up. With everything on site, it is an easy, do-nothing base for a family week.",
-        "fr": "C'est ce qui se rapproche le plus d'un vrai resort familial à Paros : un cinq-étoiles de plain-pied réparti dans les jardins à 50 mètres de Golden Beach, avec deux grandes piscines, deux bassins enfants dédiés, une aire de jeux et un spa. Golden Beach est un large ruban de sable qui reste peu profond pour les petits les matins calmes, mais c'est aussi une plage de planche à voile, la brise d'après-midi peut donc se lever. Avec tout sur place, c'est une base facile et reposante pour une semaine en famille."
+        "fr": "C'est ce qui se rapproche le plus d'un vrai resort familial à Paros : un cinq-étoiles de plain-pied réparti dans les jardins à 50 mètres de Golden Beach, avec deux grandes piscines, deux bassins enfants dédiés, une aire de jeux et un spa. Golden Beach est un large ruban de sable qui reste peu profond pour les petits les matins calmes, mais c'est aussi une plage de planche à voile, la brise d'après-midi peut donc se lever. Avec tout sur place, c'est une base facile et reposante pour une semaine en famille.",
+        "it": "Questo è quanto di più simile a un vero resort per famiglie ci sia a Paros: un cinque stelle basso disteso su giardini a 50 metri da Golden Beach, con due grandi piscine, due piscine dedicate ai bambini, un parco giochi e una spa. Golden Beach è un'ampia distesa di sabbia che resta bassa per i più piccoli nelle mattine calme, anche se è pure una spiaggia da windsurf, quindi la brezza del pomeriggio può rinforzare. Con tutto in loco, è una base facile e senza pensieri per una settimana in famiglia.",
+        "de": "Das kommt einem vollwertigen Familienresort auf Paros am nächsten: ein flach gebautes Fünf-Sterne-Haus, verteilt über Gärten 50 Meter von Golden Beach, mit zwei großen Pools, zwei eigenen Kinderpools, einem Spielplatz und einem Spa. Golden Beach ist ein breiter Sandbogen, der an ruhigen Vormittagen für kleine Kinder flach bleibt, ist aber auch ein Surfstrand, sodass die Nachmittagsbrise auffrischen kann. Mit allem vor Ort ist es eine einfache Basis zum Nichtstun für eine Familienwoche.",
+        "es": "Es lo más parecido a un auténtico resort familiar que hay en Paros: un cinco estrellas de baja altura repartido por jardines a 50 metros de Golden Beach, con dos grandes piscinas, dos piscinas infantiles dedicadas, un parque infantil y un spa. Golden Beach es una amplia extensión de arena que se mantiene poco profunda para los pequeños en las mañanas tranquilas, aunque también es una playa de windsurf, así que la brisa de la tarde puede levantarse. Con todo en el mismo lugar, es una base fácil y sin complicaciones para una semana en familia.",
+        "pt": "É o mais próximo de um verdadeiro resort familiar que Paros tem: um cinco estrelas de baixa altura espalhado por jardins a 50 metros de Golden Beach, com duas grandes piscinas, duas piscinas infantis dedicadas, um parque infantil e um spa. Golden Beach é uma ampla faixa de areia que se mantém rasa para os mais pequenos nas manhãs calmas, embora seja também uma praia de windsurf, por isso a brisa da tarde pode aumentar. Com tudo no local, é uma base fácil e sem preocupações para uma semana em família."
       },
       "highlights": {
         "en": [
@@ -691,6 +1215,30 @@
           "À cinquante mètres du large sable de Golden Beach",
           "Spa et deux restaurants pour les moments d'adultes",
           "Bâtiments cycladiques de plain-pied dans les jardins"
+        ],
+        "it": [
+          "Due piscine per bambini più un parco giochi in loco",
+          "A cinquanta metri dall'ampia e sabbiosa Golden Beach",
+          "Spa e due ristoranti per i momenti da adulti",
+          "Edifici cicladici bassi immersi nei giardini"
+        ],
+        "de": [
+          "Zwei Kinderpools plus ein Spielplatz vor Ort",
+          "Fünfzig Meter vom breiten, sandigen Golden Beach",
+          "Spa und zwei Restaurants für Erwachsenenmomente",
+          "Niedrige kykladische Gebäude in Gärten gelegen"
+        ],
+        "es": [
+          "Dos piscinas infantiles más un parque infantil en el mismo lugar",
+          "A cincuenta metros de la amplia y arenosa Golden Beach",
+          "Spa y dos restaurantes para los momentos de adultos",
+          "Edificios cicládicos de baja altura entre jardines"
+        ],
+        "pt": [
+          "Duas piscinas infantis mais um parque infantil no local",
+          "A cinquenta metros da ampla e arenosa Golden Beach",
+          "Spa e dois restaurantes para os momentos de adultos",
+          "Edifícios cicládicos de baixa altura entre jardins"
         ]
       },
       "pros": {
@@ -705,6 +1253,30 @@
           "Deux bassins enfants séparés",
           "Aire de jeux et espace pour courir",
           "Large plage de sable à quelques pas"
+        ],
+        "it": [
+          "Rare strutture da resort completo per Paros",
+          "Due piscine per bambini separate",
+          "Parco giochi e spazio per correre",
+          "Ampia spiaggia sabbiosa a pochi passi"
+        ],
+        "de": [
+          "Für Paros seltene vollwertige Resort-Einrichtungen",
+          "Zwei separate Kinderpools",
+          "Spielplatz und Platz zum Herumtoben",
+          "Breiter Sandstrand nur wenige Schritte entfernt"
+        ],
+        "es": [
+          "Raras instalaciones de resort completo para Paros",
+          "Dos piscinas infantiles separadas",
+          "Parque infantil y espacio para corretear",
+          "Amplia playa de arena a pocos pasos"
+        ],
+        "pt": [
+          "Raras instalações de resort completo para Paros",
+          "Duas piscinas infantis separadas",
+          "Parque infantil e espaço para correr",
+          "Ampla praia de areia a poucos passos"
         ]
       },
       "cons": {
@@ -717,48 +1289,100 @@
           "Golden Beach est un spot de planche à voile, les après-midis peuvent être venteux",
           "Une voiture aide pour rejoindre Naoussa et Parikia",
           "Tarifs cinq-étoiles en haute saison"
+        ],
+        "it": [
+          "Golden Beach è uno spot da windsurf, i pomeriggi possono essere ventosi",
+          "Un'auto aiuta per raggiungere Naoussa e Parikia",
+          "Prezzi da cinque stelle in alta stagione"
+        ],
+        "de": [
+          "Golden Beach ist ein Surfspot, die Nachmittage können windig sein",
+          "Ein Auto hilft, um Naoussa und Parikia zu erreichen",
+          "Fünf-Sterne-Preise in der Hochsaison"
+        ],
+        "es": [
+          "Golden Beach es un spot de windsurf, las tardes pueden ser ventosas",
+          "Un coche ayuda para llegar a Naoussa y Parikia",
+          "Precios de cinco estrellas en temporada alta"
+        ],
+        "pt": [
+          "Golden Beach é um spot de windsurf, as tardes podem ser ventosas",
+          "Um carro ajuda para chegar a Naoussa e Parikia",
+          "Preços de cinco estrelas na época alta"
         ]
       },
       "verdict": {
         "en": "The one Paros hotel that feels like a resort: two kids' pools, a playground and a sandy beach, all on site. Go early or late season when Golden Beach is calmest for the little ones.",
-        "fr": "Le seul hôtel de Paros qui a des allures de resort : deux bassins enfants, une aire de jeux et une plage de sable, tout sur place. Venez en début ou fin de saison, quand Golden Beach est la plus calme pour les petits."
+        "fr": "Le seul hôtel de Paros qui a des allures de resort : deux bassins enfants, une aire de jeux et une plage de sable, tout sur place. Venez en début ou fin de saison, quand Golden Beach est la plus calme pour les petits.",
+        "it": "L'unico hotel di Paros che sembra un resort: due piscine per bambini, un parco giochi e una spiaggia sabbiosa, tutto in loco. Andateci a inizio o fine stagione, quando Golden Beach è più calma per i più piccoli.",
+        "de": "Das eine Hotel auf Paros, das sich wie ein Resort anfühlt: zwei Kinderpools, ein Spielplatz und ein Sandstrand, alles vor Ort. Fahrt in der Vor- oder Nachsaison, wenn Golden Beach für die Kleinen am ruhigsten ist.",
+        "es": "El único hotel de Paros que se siente como un resort: dos piscinas infantiles, un parque infantil y una playa de arena, todo en el mismo lugar. Id a principio o final de temporada, cuando Golden Beach está más tranquila para los pequeños.",
+        "pt": "O único hotel de Paros que parece um resort: duas piscinas infantis, um parque infantil e uma praia de areia, tudo no local. Vão no início ou no fim da época, quando Golden Beach está mais calma para os mais pequenos."
       },
       "parentTip": {
         "en": "The wind on Golden Beach almost always builds after lunch; do the beach in the morning and switch to the sheltered children's pool for the breezy afternoon hours.",
-        "fr": "Le vent sur Golden Beach se lève presque toujours après le déjeuner ; faites la plage le matin et basculez vers le bassin enfants abrité pour les heures venteuses de l'après-midi."
+        "fr": "Le vent sur Golden Beach se lève presque toujours après le déjeuner ; faites la plage le matin et basculez vers le bassin enfants abrité pour les heures venteuses de l'après-midi.",
+        "it": "Il vento su Golden Beach cresce quasi sempre dopo pranzo; fate la spiaggia al mattino e passate alla riparata piscina per bambini nelle ore ventose del pomeriggio.",
+        "de": "Der Wind auf Golden Beach frischt fast immer nach dem Mittagessen auf; macht den Strand am Vormittag und wechselt in den windigen Nachmittagsstunden zum geschützten Kinderpool.",
+        "es": "El viento en Golden Beach casi siempre arrecia después de comer; haced la playa por la mañana y pasad a la resguardada piscina infantil en las horas ventosas de la tarde.",
+        "pt": "O vento em Golden Beach quase sempre aumenta depois do almoço; façam a praia de manhã e passem para a abrigada piscina infantil nas horas ventosas da tarde."
       },
       "atAGlance": [
         {
           "icon": "🏊",
           "label": {
             "en": "Kids' pools",
-            "fr": "Bassins enfants"
+            "fr": "Bassins enfants",
+            "it": "Piscine per bambini",
+            "de": "Kinderpools",
+            "es": "Piscinas infantiles",
+            "pt": "Piscinas infantis"
           },
           "value": {
             "en": "Two children's pools plus a playground",
-            "fr": "Deux bassins enfants et une aire de jeux"
+            "fr": "Deux bassins enfants et une aire de jeux",
+            "it": "Due piscine per bambini più un parco giochi",
+            "de": "Zwei Kinderpools plus ein Spielplatz",
+            "es": "Dos piscinas infantiles más un parque infantil",
+            "pt": "Duas piscinas infantis mais um parque infantil"
           }
         },
         {
           "icon": "🏖️",
           "label": {
             "en": "Beach",
-            "fr": "Plage"
+            "fr": "Plage",
+            "it": "Spiaggia",
+            "de": "Strand",
+            "es": "Playa",
+            "pt": "Praia"
           },
           "value": {
             "en": "Golden Beach sand, 50m away",
-            "fr": "Sable de Golden Beach, à 50 m"
+            "fr": "Sable de Golden Beach, à 50 m",
+            "it": "Sabbia di Golden Beach, a 50 m",
+            "de": "Sand von Golden Beach, 50 m entfernt",
+            "es": "Arena de Golden Beach, a 50 m",
+            "pt": "Areia de Golden Beach, a 50 m"
           }
         },
         {
           "icon": "🌬️",
           "label": {
             "en": "Good to know",
-            "fr": "Bon à savoir"
+            "fr": "Bon à savoir",
+            "it": "Buono a sapersi",
+            "de": "Gut zu wissen",
+            "es": "Bueno saberlo",
+            "pt": "Bom saber"
           },
           "value": {
             "en": "Windsurf beach, calmest mornings",
-            "fr": "Plage de planche à voile, calme le matin"
+            "fr": "Plage de planche à voile, calme le matin",
+            "it": "Spiaggia da windsurf, mattine più calme",
+            "de": "Surfstrand, ruhigste Vormittage",
+            "es": "Playa de windsurf, mañanas más tranquilas",
+            "pt": "Praia de windsurf, manhãs mais calmas"
           }
         }
       ],
@@ -766,21 +1390,37 @@
         {
           "q": {
             "en": "Is Golden Beach too windy for small children?",
-            "fr": "Golden Beach est-elle trop venteuse pour les petits?"
+            "fr": "Golden Beach est-elle trop venteuse pour les petits?",
+            "it": "Golden Beach è troppo ventosa per i bambini piccoli?",
+            "de": "Ist Golden Beach zu windig für kleine Kinder?",
+            "es": "¿Es Golden Beach demasiado ventosa para los niños pequeños?",
+            "pt": "Golden Beach é demasiado ventosa para crianças pequenas?"
           },
           "a": {
             "en": "It can be breezy in the afternoon because it is a windsurf beach, but mornings are usually calm and shallow. Many families beach early and use the two children's pools when the wind builds.",
-            "fr": "Elle peut être venteuse l'après-midi car c'est une plage de planche à voile, mais les matins sont généralement calmes et peu profonds. Beaucoup de familles vont à la plage tôt et utilisent les deux bassins enfants quand le vent monte."
+            "fr": "Elle peut être venteuse l'après-midi car c'est une plage de planche à voile, mais les matins sont généralement calmes et peu profonds. Beaucoup de familles vont à la plage tôt et utilisent les deux bassins enfants quand le vent monte.",
+            "it": "Può essere ventosa nel pomeriggio perché è una spiaggia da windsurf, ma le mattine sono di solito calme e basse. Molte famiglie vanno in spiaggia presto e usano le due piscine per bambini quando il vento rinforza.",
+            "de": "Sie kann am Nachmittag windig sein, weil sie ein Surfstrand ist, aber die Vormittage sind meist ruhig und flach. Viele Familien gehen früh an den Strand und nutzen die zwei Kinderpools, wenn der Wind auffrischt.",
+            "es": "Puede haber brisa por la tarde porque es una playa de windsurf, pero las mañanas suelen ser tranquilas y poco profundas. Muchas familias van a la playa temprano y usan las dos piscinas infantiles cuando arrecia el viento.",
+            "pt": "Pode haver brisa à tarde porque é uma praia de windsurf, mas as manhãs são normalmente calmas e rasas. Muitas famílias vão à praia cedo e usam as duas piscinas infantis quando o vento aumenta."
           }
         },
         {
           "q": {
             "en": "Does the hotel have real family facilities?",
-            "fr": "L'hôtel a-t-il de vrais équipements familiaux?"
+            "fr": "L'hôtel a-t-il de vrais équipements familiaux?",
+            "it": "L'hotel ha vere strutture per famiglie?",
+            "de": "Hat das Hotel echte Familieneinrichtungen?",
+            "es": "¿Tiene el hotel verdaderas instalaciones familiares?",
+            "pt": "O hotel tem verdadeiras instalações familiares?"
           },
           "a": {
             "en": "Yes, unusually for Paros: two children's pools, a playground, family suites and a spa, so most of a family holiday can happen without leaving the grounds.",
-            "fr": "Oui, ce qui est rare à Paros : deux bassins enfants, une aire de jeux, des suites familiales et un spa, une grande partie des vacances peut se faire sans quitter le domaine."
+            "fr": "Oui, ce qui est rare à Paros : deux bassins enfants, une aire de jeux, des suites familiales et un spa, une grande partie des vacances peut se faire sans quitter le domaine.",
+            "it": "Sì, cosa insolita per Paros: due piscine per bambini, un parco giochi, suite familiari e una spa, così gran parte di una vacanza in famiglia può svolgersi senza lasciare la struttura.",
+            "de": "Ja, ungewöhnlich für Paros: zwei Kinderpools, ein Spielplatz, Familiensuiten und ein Spa, sodass ein Großteil eines Familienurlaubs stattfinden kann, ohne das Gelände zu verlassen.",
+            "es": "Sí, algo inusual para Paros: dos piscinas infantiles, un parque infantil, suites familiares y un spa, así que buena parte de unas vacaciones en familia puede transcurrir sin salir del recinto.",
+            "pt": "Sim, algo invulgar para Paros: duas piscinas infantis, um parque infantil, suites familiares e um spa, por isso grande parte de umas férias em família pode decorrer sem sair do recinto."
           }
         }
       ]
@@ -791,7 +1431,11 @@
       "name": "Astir of Paros",
       "area": {
         "en": "Paros (Kolymbithres, Naoussa)",
-        "fr": "Paros (Kolymbithres, Naoussa)"
+        "fr": "Paros (Kolymbithres, Naoussa)",
+        "it": "Paros (Kolymbithres, Naoussa)",
+        "de": "Paros (Kolymbithres, Naoussa)",
+        "es": "Paros (Kolymbithres, Naoussa)",
+        "pt": "Paros (Kolymbithres, Naoussa)"
       },
       "lat": 37.133,
       "lng": 25.228,
@@ -830,11 +1474,19 @@
       },
       "roomsSummary": {
         "en": "Elegant double rooms, junior suites and executive suites in low garden buildings, most with a terrace or balcony facing the sea or the grounds. Suites give a family room to spread out, and babysitting can be arranged.",
-        "fr": "Chambres doubles élégantes, junior suites et suites executive dans des bâtiments bas de jardin, la plupart avec terrasse ou balcon face à la mer ou aux jardins. Les suites donnent de l'espace à une famille, et une garde d'enfants peut être organisée."
+        "fr": "Chambres doubles élégantes, junior suites et suites executive dans des bâtiments bas de jardin, la plupart avec terrasse ou balcon face à la mer ou aux jardins. Les suites donnent de l'espace à une famille, et une garde d'enfants peut être organisée.",
+        "it": "Eleganti camere doppie, junior suite e suite executive in edifici bassi di giardino, la maggior parte con terrazza o balcone affacciati sul mare o sui giardini. Le suite danno spazio a una famiglia per allargarsi, e si può organizzare un servizio di babysitting.",
+        "de": "Elegante Doppelzimmer, Junior-Suiten und Executive-Suiten in niedrigen Gartengebäuden, die meisten mit Terrasse oder Balkon zum Meer oder zur Anlage. Suiten geben einer Familie Raum, sich auszubreiten, und ein Babysitting kann arrangiert werden.",
+        "es": "Elegantes habitaciones dobles, junior suites y suites ejecutivas en edificios bajos entre jardines, la mayoría con terraza o balcón orientados al mar o a los jardines. Las suites dan a una familia espacio para extenderse, y se puede organizar un servicio de canguro.",
+        "pt": "Elegantes quartos duplos, junior suites e suites executivas em edifícios baixos rodeados de jardim, a maioria com terraço ou varanda voltados para o mar ou para os jardins. As suites dão a uma família espaço para se espalhar, e pode organizar-se um serviço de babysitting."
       },
       "intro": {
         "en": "Astir is the grande dame of Paros, a low, elegant garden resort on the waterfront at Kolymbithres, whose sheltered coves of sculpted rock hold some of the calmest, shallowest water on the island. There is a big pool with a separate children's pool and a hot tub, gardens to roam, babysitting on request and a private beach where the sea is glassy and gentle. It is grown-up and refined rather than a bells-and-whistles kids resort, but for families with a toddler who want calm water and space, it is lovely.",
-        "fr": "L'Astir est la grande dame de Paros, un resort de jardin bas et élégant en bord de mer à Kolymbithres, dont les criques abritées de roches sculptées abritent l'une des eaux les plus calmes et peu profondes de l'île. Il y a une grande piscine avec bassin enfants séparé et un bain à remous, des jardins où courir, une garde d'enfants sur demande et une plage privée où la mer est lisse et douce. C'est raffiné plutôt qu'un resort enfants tape-à-l'œil, mais pour les familles avec un tout-petit qui veulent une eau calme et de l'espace, c'est ravissant."
+        "fr": "L'Astir est la grande dame de Paros, un resort de jardin bas et élégant en bord de mer à Kolymbithres, dont les criques abritées de roches sculptées abritent l'une des eaux les plus calmes et peu profondes de l'île. Il y a une grande piscine avec bassin enfants séparé et un bain à remous, des jardins où courir, une garde d'enfants sur demande et une plage privée où la mer est lisse et douce. C'est raffiné plutôt qu'un resort enfants tape-à-l'œil, mais pour les familles avec un tout-petit qui veulent une eau calme et de l'espace, c'est ravissant.",
+        "it": "L'Astir è la grande dame di Paros, un elegante resort di giardino basso sul lungomare di Kolymbithres, le cui calette riparate di roccia scolpita custodiscono alcune delle acque più calme e basse dell'isola. C'è una grande piscina con una piscina per bambini separata e una vasca idromassaggio, giardini da percorrere, babysitting su richiesta e una spiaggia privata dove il mare è liscio e delicato. È raffinato più che un resort per bambini pieno di attrazioni, ma per le famiglie con un bimbo piccolo che vogliono acqua calma e spazio, è incantevole.",
+        "de": "Das Astir ist die Grande Dame von Paros, ein niedriges, elegantes Gartenresort an der Uferpromenade von Kolymbithres, dessen geschützte Buchten aus geformtem Fels einige der ruhigsten, flachsten Gewässer der Insel bergen. Es gibt einen großen Pool mit separatem Kinderpool und einem Whirlpool, Gärten zum Umherstreifen, Babysitting auf Anfrage und einen Privatstrand, an dem das Meer glasklar und sanft ist. Es ist erwachsen und verfeinert statt eines Kinderresorts mit allem Drum und Dran, aber für Familien mit einem Kleinkind, die ruhiges Wasser und Platz wollen, ist es reizend.",
+        "es": "El Astir es la gran dama de Paros, un elegante resort de jardín bajo en el paseo marítimo de Kolymbithres, cuyas calas resguardadas de roca esculpida albergan algunas de las aguas más tranquilas y poco profundas de la isla. Hay una gran piscina con una piscina infantil separada y una bañera de hidromasaje, jardines por los que pasear, canguro bajo petición y una playa privada donde el mar es cristalino y suave. Es adulto y refinado más que un resort infantil con mil atracciones, pero para las familias con un pequeño que quieren agua tranquila y espacio, es encantador.",
+        "pt": "O Astir é a grande dama de Paros, um elegante resort de jardim baixo na marginal de Kolymbithres, cujas enseadas abrigadas de rocha esculpida guardam algumas das águas mais calmas e rasas da ilha. Há uma grande piscina com uma piscina infantil separada e um jacúzi, jardins por onde passear, babysitting a pedido e uma praia privada onde o mar é cristalino e suave. É adulto e requintado em vez de um resort infantil cheio de atrações, mas para as famílias com uma criança pequena que querem água calma e espaço, é encantador."
       },
       "highlights": {
         "en": [
@@ -848,6 +1500,30 @@
           "Bassin enfants et bain à remous près de la piscine principale",
           "Garde d'enfants disponible sur demande",
           "Resort de jardin raffiné avec plage privée"
+        ],
+        "it": [
+          "Le riparate e basse calette di Kolymbithres accanto",
+          "Piscina per bambini e vasca idromassaggio vicino alla piscina principale",
+          "Babysitting disponibile su richiesta",
+          "Raffinato resort di giardino con spiaggia privata"
+        ],
+        "de": [
+          "Die geschützten, flachen Buchten von Kolymbithres nebenan",
+          "Kinderpool und Whirlpool neben dem Hauptpool",
+          "Babysitting auf Anfrage verfügbar",
+          "Verfeinertes Gartenresort mit Privatstrand"
+        ],
+        "es": [
+          "Las calas resguardadas y poco profundas de Kolymbithres al lado",
+          "Piscina infantil y bañera de hidromasaje junto a la piscina principal",
+          "Canguro disponible bajo petición",
+          "Refinado resort de jardín con playa privada"
+        ],
+        "pt": [
+          "As enseadas abrigadas e rasas de Kolymbithres ao lado",
+          "Piscina infantil e jacúzi junto à piscina principal",
+          "Babysitting disponível a pedido",
+          "Requintado resort de jardim com praia privada"
         ]
       },
       "pros": {
@@ -862,6 +1538,30 @@
           "Bassin enfants séparé",
           "Garde d'enfants pour un dîner d'adultes",
           "Jardins et suites spacieux et élégants"
+        ],
+        "it": [
+          "Alcune delle acque più calme e basse di Paros",
+          "Piscina per bambini separata",
+          "Babysitting per una cena da adulti",
+          "Giardini e suite spaziosi ed eleganti"
+        ],
+        "de": [
+          "Einige der ruhigsten, flachsten Gewässer von Paros",
+          "Separater Kinderpool",
+          "Babysitting für ein Abendessen unter Erwachsenen",
+          "Geräumige, elegante Anlage und Suiten"
+        ],
+        "es": [
+          "Algunas de las aguas más tranquilas y poco profundas de Paros",
+          "Piscina infantil separada",
+          "Canguro para una cena de adultos",
+          "Amplios y elegantes jardines y suites"
+        ],
+        "pt": [
+          "Algumas das águas mais calmas e rasas de Paros",
+          "Piscina infantil separada",
+          "Babysitting para um jantar de adultos",
+          "Jardins e suites espaçosos e elegantes"
         ]
       },
       "cons": {
@@ -874,48 +1574,100 @@
           "Raffiné plutôt qu'un resort enfants animé",
           "Voiture ou taxi utile pour explorer au-delà de Naoussa",
           "Tarifs premium en juillet et août"
+        ],
+        "it": [
+          "Raffinato più che un vivace resort per bambini",
+          "Un'auto o un taxi aiutano per esplorare oltre Naoussa",
+          "Prezzi premium a luglio e agosto"
+        ],
+        "de": [
+          "Verfeinert statt ein lebhaftes Kinderresort",
+          "Ein Auto oder Taxi hilft, um über Naoussa hinaus zu erkunden",
+          "Premium-Preise im Juli und August"
+        ],
+        "es": [
+          "Refinado más que un animado resort infantil",
+          "Un coche o taxi ayuda para explorar más allá de Naoussa",
+          "Precios premium en julio y agosto"
+        ],
+        "pt": [
+          "Requintado em vez de um animado resort infantil",
+          "Um carro ou táxi ajuda para explorar para lá de Naoussa",
+          "Preços premium em julho e agosto"
         ]
       },
       "verdict": {
         "en": "For calm, shallow water and grown-up elegance, Astir wins: the Kolymbithres coves are toddler heaven and there is a kids' pool and babysitting to boot. A refined choice, not a rowdy one.",
-        "fr": "Pour une eau calme et peu profonde et une élégance d'adultes, l'Astir l'emporte : les criques de Kolymbithres sont un paradis pour tout-petits, avec en prime bassin enfants et garde d'enfants. Un choix raffiné, pas turbulent."
+        "fr": "Pour une eau calme et peu profonde et une élégance d'adultes, l'Astir l'emporte : les criques de Kolymbithres sont un paradis pour tout-petits, avec en prime bassin enfants et garde d'enfants. Un choix raffiné, pas turbulent.",
+        "it": "Per acqua calma e bassa ed eleganza da adulti, l'Astir vince: le calette di Kolymbithres sono un paradiso per i bimbi piccoli e c'è anche una piscina per bambini e il babysitting. Una scelta raffinata, non chiassosa.",
+        "de": "Für ruhiges, flaches Wasser und erwachsene Eleganz gewinnt das Astir: Die Buchten von Kolymbithres sind ein Kleinkind-Paradies, und obendrein gibt es einen Kinderpool und Babysitting. Eine verfeinerte Wahl, keine laute.",
+        "es": "Para agua tranquila y poco profunda y elegancia adulta, gana el Astir: las calas de Kolymbithres son un paraíso para los pequeños y encima hay una piscina infantil y canguro. Una opción refinada, no bulliciosa.",
+        "pt": "Para água calma e rasa e elegância adulta, o Astir vence: as enseadas de Kolymbithres são um paraíso para os mais pequenos e ainda há uma piscina infantil e babysitting. Uma escolha requintada, não barulhenta."
       },
       "parentTip": {
         "en": "The rock-sheltered pockets at Kolymbithres warm up fast and stay flat calm; pick one with a bit of shade from the granite and you have a natural toddler paddling pool.",
-        "fr": "Les poches abritées par les rochers de Kolymbithres se réchauffent vite et restent d'un calme plat ; choisissez-en une avec un peu d'ombre du granite et vous avez une pataugeoire naturelle pour tout-petit."
+        "fr": "Les poches abritées par les rochers de Kolymbithres se réchauffent vite et restent d'un calme plat ; choisissez-en une avec un peu d'ombre du granite et vous avez une pataugeoire naturelle pour tout-petit.",
+        "it": "Le insenature riparate dalle rocce a Kolymbithres si scaldano in fretta e restano di una calma piatta; sceglietene una con un po' d'ombra dal granito e avrete una pataugeoire naturale per il bimbo.",
+        "de": "Die felsgeschützten Winkel bei Kolymbithres erwärmen sich schnell und bleiben spiegelglatt; wählt einen mit etwas Schatten vom Granit und ihr habt ein natürliches Planschbecken für das Kleinkind.",
+        "es": "Los recovecos resguardados por las rocas en Kolymbithres se calientan rápido y se mantienen en calma total; elegid uno con algo de sombra del granito y tendréis una piscina natural para que chapotee el pequeño.",
+        "pt": "Os recantos abrigados pelas rochas em Kolymbithres aquecem depressa e mantêm-se em calma total; escolham um com alguma sombra do granito e terão uma piscina natural para a criança chapinhar."
       },
       "atAGlance": [
         {
           "icon": "🌊",
           "label": {
             "en": "Water",
-            "fr": "Eau"
+            "fr": "Eau",
+            "it": "Acqua",
+            "de": "Wasser",
+            "es": "Agua",
+            "pt": "Água"
           },
           "value": {
             "en": "Sheltered, shallow Kolymbithres coves",
-            "fr": "Criques abritées et peu profondes de Kolymbithres"
+            "fr": "Criques abritées et peu profondes de Kolymbithres",
+            "it": "Calette riparate e basse di Kolymbithres",
+            "de": "Geschützte, flache Buchten von Kolymbithres",
+            "es": "Calas resguardadas y poco profundas de Kolymbithres",
+            "pt": "Enseadas abrigadas e rasas de Kolymbithres"
           }
         },
         {
           "icon": "🏊",
           "label": {
             "en": "Pools",
-            "fr": "Piscines"
+            "fr": "Piscines",
+            "it": "Piscine",
+            "de": "Pools",
+            "es": "Piscinas",
+            "pt": "Piscinas"
           },
           "value": {
             "en": "Main pool, kids' pool and a hot tub",
-            "fr": "Piscine principale, bassin enfants et bain à remous"
+            "fr": "Piscine principale, bassin enfants et bain à remous",
+            "it": "Piscina principale, piscina per bambini e una vasca idromassaggio",
+            "de": "Hauptpool, Kinderpool und ein Whirlpool",
+            "es": "Piscina principal, piscina infantil y bañera de hidromasaje",
+            "pt": "Piscina principal, piscina infantil e jacúzi"
           }
         },
         {
           "icon": "👶",
           "label": {
             "en": "Childcare",
-            "fr": "Garde d'enfants"
+            "fr": "Garde d'enfants",
+            "it": "Assistenza bambini",
+            "de": "Kinderbetreuung",
+            "es": "Cuidado infantil",
+            "pt": "Acompanhamento de crianças"
           },
           "value": {
             "en": "Babysitting on request",
-            "fr": "Garde d'enfants sur demande"
+            "fr": "Garde d'enfants sur demande",
+            "it": "Babysitting su richiesta",
+            "de": "Babysitting auf Anfrage",
+            "es": "Canguro bajo petición",
+            "pt": "Babysitting a pedido"
           }
         }
       ],
@@ -923,21 +1675,37 @@
         {
           "q": {
             "en": "Why is Kolymbithres good for babies?",
-            "fr": "Pourquoi Kolymbithres est-elle bien pour les bébés?"
+            "fr": "Pourquoi Kolymbithres est-elle bien pour les bébés?",
+            "it": "Perché Kolymbithres è adatta ai neonati?",
+            "de": "Warum ist Kolymbithres gut für Babys?",
+            "es": "¿Por qué es buena Kolymbithres para los bebés?",
+            "pt": "Porque é que Kolymbithres é boa para bebés?"
           },
           "a": {
             "en": "Its bays are broken up by smooth granite rocks that shelter the water, so it stays flat, warm and shallow in little pockets, which is ideal for a baby's first paddles even when the wind is up elsewhere.",
-            "fr": "Ses baies sont découpées par des rochers de granite lisse qui abritent l'eau, elle reste plate, chaude et peu profonde dans de petites poches, idéal pour les premières baignades d'un bébé même quand le vent souffle ailleurs."
+            "fr": "Ses baies sont découpées par des rochers de granite lisse qui abritent l'eau, elle reste plate, chaude et peu profonde dans de petites poches, idéal pour les premières baignades d'un bébé même quand le vent souffle ailleurs.",
+            "it": "Le sue baie sono spezzate da lisce rocce di granito che riparano l'acqua, così resta piatta, calda e bassa in piccole insenature, il che è ideale per i primi bagni di un neonato anche quando il vento soffia altrove.",
+            "de": "Ihre Buchten sind von glatten Granitfelsen unterbrochen, die das Wasser schützen, sodass es in kleinen Winkeln glatt, warm und flach bleibt, was ideal für die ersten Planscher eines Babys ist, selbst wenn anderswo der Wind auffrischt.",
+            "es": "Sus bahías están fragmentadas por lisas rocas de granito que resguardan el agua, así que se mantiene en calma, cálida y poco profunda en pequeños recovecos, lo que es ideal para los primeros chapoteos de un bebé incluso cuando el viento sopla en otras partes.",
+            "pt": "As suas baías são fragmentadas por lisas rochas de granito que abrigam a água, por isso mantém-se lisa, quente e rasa em pequenos recantos, o que é ideal para os primeiros chapinhares de um bebé mesmo quando o vento sopra noutros locais."
           }
         },
         {
           "q": {
             "en": "Is there childcare?",
-            "fr": "Y a-t-il une garde d'enfants?"
+            "fr": "Y a-t-il une garde d'enfants?",
+            "it": "C'è un servizio di assistenza per i bambini?",
+            "de": "Gibt es eine Kinderbetreuung?",
+            "es": "¿Hay servicio de cuidado infantil?",
+            "pt": "Há serviço de acompanhamento de crianças?"
           },
           "a": {
             "en": "There is no free kids club, but the hotel arranges babysitting on request, which lets parents enjoy the restaurant or the spa for an evening.",
-            "fr": "Il n'y a pas de club enfants gratuit, mais l'hôtel organise une garde d'enfants sur demande, ce qui permet aux parents de profiter du restaurant ou du spa une soirée."
+            "fr": "Il n'y a pas de club enfants gratuit, mais l'hôtel organise une garde d'enfants sur demande, ce qui permet aux parents de profiter du restaurant ou du spa une soirée.",
+            "it": "Non c'è un club per bambini gratuito, ma l'hotel organizza il babysitting su richiesta, il che permette ai genitori di godersi il ristorante o la spa per una serata.",
+            "de": "Es gibt keinen kostenlosen Kinderclub, aber das Hotel organisiert Babysitting auf Anfrage, was den Eltern erlaubt, einen Abend das Restaurant oder das Spa zu genießen.",
+            "es": "No hay un club infantil gratuito, pero el hotel organiza canguro bajo petición, lo que permite a los padres disfrutar del restaurante o del spa una velada.",
+            "pt": "Não há um clube infantil gratuito, mas o hotel organiza babysitting a pedido, o que permite aos pais desfrutar do restaurante ou do spa por uma noite."
           }
         }
       ]
@@ -948,7 +1716,11 @@
       "name": "Surfing Beach Village",
       "area": {
         "en": "Paros (Santa Maria)",
-        "fr": "Paros (Santa Maria)"
+        "fr": "Paros (Santa Maria)",
+        "it": "Paros (Santa Maria)",
+        "de": "Paros (Santa Maria)",
+        "es": "Paros (Santa Maria)",
+        "pt": "Paros (Santa Maria)"
       },
       "lat": 37.136,
       "lng": 25.262,
@@ -986,11 +1758,19 @@
       },
       "roomsSummary": {
         "en": "A spread of simple rooms, studios, apartments and bungalows in Cycladic style, several with a kitchenette and a private terrace. Apartments and bungalows give families space and a fridge for under a two-star budget.",
-        "fr": "Un ensemble de chambres, studios, appartements et bungalows simples de style cycladique, plusieurs avec kitchenette et terrasse privée. Appartements et bungalows offrent aux familles de l'espace et un frigo pour un petit budget."
+        "fr": "Un ensemble de chambres, studios, appartements et bungalows simples de style cycladique, plusieurs avec kitchenette et terrasse privée. Appartements et bungalows offrent aux familles de l'espace et un frigo pour un petit budget.",
+        "it": "Un insieme di camere, studi, appartamenti e bungalow semplici in stile cicladico, diversi con angolo cottura e terrazza privata. Appartamenti e bungalow danno alle famiglie spazio e un frigo per un budget da due stelle scarse.",
+        "de": "Eine Auswahl an schlichten Zimmern, Studios, Apartments und Bungalows im kykladischen Stil, mehrere mit Kochnische und privater Terrasse. Apartments und Bungalows geben Familien Platz und einen Kühlschrank für weniger als ein Zwei-Sterne-Budget.",
+        "es": "Un conjunto de sencillas habitaciones, estudios, apartamentos y bungalós de estilo cicládico, varios con cocina americana y terraza privada. Los apartamentos y bungalós dan a las familias espacio y una nevera por menos de un presupuesto de dos estrellas.",
+        "pt": "Um conjunto de simples quartos, estúdios, apartamentos e bungalows de estilo cicládico, vários com kitchenette e terraço privado. Apartamentos e bungalows dão às famílias espaço e um frigorífico por menos de um orçamento de duas estrelas."
       },
       "intro": {
         "en": "Right on the sandy sweep of Santa Maria, this relaxed village-style complex is the value pick for families on the north coast of Paros. Two outdoor pools, a mini-market, a restaurant and self-catering apartments make it an easy, low-cost base, and the beach is broad and sandy. Santa Maria catches the meltemi wind, which is exactly why the windsurfers love it, so it suits toddlers and older children on calm days and pool days when the breeze is up.",
-        "fr": "Directement sur le ruban de sable de Santa Maria, ce complexe décontracté façon village est le choix malin pour les familles sur la côte nord de Paros. Deux piscines extérieures, une supérette, un restaurant et des appartements en cuisine autonome en font une base facile et économique, et la plage est large et sablonneuse. Santa Maria prend le vent meltemi, ce qui explique justement que les véliplanchistes l'adorent, elle convient donc aux tout-petits et aux plus grands les jours calmes et aux journées piscine quand la brise se lève."
+        "fr": "Directement sur le ruban de sable de Santa Maria, ce complexe décontracté façon village est le choix malin pour les familles sur la côte nord de Paros. Deux piscines extérieures, une supérette, un restaurant et des appartements en cuisine autonome en font une base facile et économique, et la plage est large et sablonneuse. Santa Maria prend le vent meltemi, ce qui explique justement que les véliplanchistes l'adorent, elle convient donc aux tout-petits et aux plus grands les jours calmes et aux journées piscine quand la brise se lève.",
+        "it": "Proprio sull'arco sabbioso di Santa Maria, questo rilassato complesso in stile villaggio è la scelta conveniente per le famiglie sulla costa nord di Paros. Due piscine all'aperto, un minimarket, un ristorante e appartamenti con cucina ne fanno una base facile ed economica, e la spiaggia è ampia e sabbiosa. Santa Maria prende il vento meltemi, ed è proprio per questo che i windsurfisti la adorano, così è adatta ai più piccoli e ai più grandi nelle giornate calme e nelle giornate in piscina quando la brezza rinforza.",
+        "de": "Direkt am sandigen Bogen von Santa Maria ist diese entspannte Anlage im Dorfstil die günstige Wahl für Familien an der Nordküste von Paros. Zwei Außenpools, ein Minimarkt, ein Restaurant und Apartments zur Selbstverpflegung machen sie zu einer einfachen, kostengünstigen Basis, und der Strand ist breit und sandig. Santa Maria fängt den Meltemi-Wind ein, genau deshalb lieben ihn die Surfer, daher eignet er sich für Kleinkinder und ältere Kinder an ruhigen Tagen und für Pooltage, wenn die Brise auffrischt.",
+        "es": "Justo en el arco arenoso de Santa Maria, este relajado complejo de estilo pueblo es la opción económica para las familias en la costa norte de Paros. Dos piscinas exteriores, un minimercado, un restaurante y apartamentos con cocina lo convierten en una base fácil y de bajo coste, y la playa es amplia y arenosa. Santa Maria coge el viento meltemi, que es justamente por lo que los windsurfistas la adoran, así que va bien para los pequeños y los niños mayores en los días tranquilos y como días de piscina cuando la brisa se levanta.",
+        "pt": "Mesmo no arco arenoso de Santa Maria, este descontraído complexo ao estilo de aldeia é a escolha económica para as famílias na costa norte de Paros. Duas piscinas exteriores, um minimercado, um restaurante e apartamentos com cozinha fazem dele uma base fácil e de baixo custo, e a praia é ampla e arenosa. Santa Maria apanha o vento meltemi, que é exatamente o motivo pelo qual os windsurfistas a adoram, por isso serve para os mais pequenos e as crianças mais velhas nos dias calmos e como dias de piscina quando a brisa se levanta."
       },
       "highlights": {
         "en": [
@@ -1004,6 +1784,30 @@
           "Deux piscines extérieures et une supérette sur place",
           "Appartements et bungalows en cuisine autonome",
           "Excellent rapport qualité-prix sur la côte nord"
+        ],
+        "it": [
+          "Sull'arco sabbioso della spiaggia di Santa Maria",
+          "Due piscine all'aperto e un minimarket in loco",
+          "Appartamenti e bungalow con cucina",
+          "Ottimo rapporto qualità-prezzo sulla costa nord"
+        ],
+        "de": [
+          "Am sandigen Bogen des Strandes von Santa Maria",
+          "Zwei Außenpools und ein Minimarkt vor Ort",
+          "Apartments und Bungalows zur Selbstverpflegung",
+          "Hervorragendes Preis-Leistungs-Verhältnis an der Nordküste"
+        ],
+        "es": [
+          "En el arco arenoso de la playa de Santa Maria",
+          "Dos piscinas exteriores y un minimercado en el mismo lugar",
+          "Apartamentos y bungalós con cocina",
+          "Excelente relación calidad-precio en la costa norte"
+        ],
+        "pt": [
+          "No arco arenoso da praia de Santa Maria",
+          "Duas piscinas exteriores e um minimercado no local",
+          "Apartamentos e bungalows com cozinha",
+          "Excelente relação qualidade-preço na costa norte"
         ]
       },
       "pros": {
@@ -1018,6 +1822,30 @@
           "Deux piscines de repli quand il y a du vent",
           "Large plage de sable juste devant",
           "Ambiance village décontractée et sans chichi"
+        ],
+        "it": [
+          "Basso costo con cucine e spazio",
+          "Due piscine di riserva quando c'è vento",
+          "Ampia spiaggia sabbiosa proprio davanti",
+          "Atmosfera da villaggio rilassata e senza pretese"
+        ],
+        "de": [
+          "Niedrige Kosten mit Küchen und Platz",
+          "Zwei Pools als Rückzugsort, wenn es windig ist",
+          "Breiter Sandstrand direkt vor der Tür",
+          "Entspannte, unkomplizierte Dorfatmosphäre"
+        ],
+        "es": [
+          "Bajo coste con cocinas y espacio",
+          "Dos piscinas a las que recurrir cuando hace viento",
+          "Amplia playa de arena justo enfrente",
+          "Ambiente de pueblo relajado y sin pretensiones"
+        ],
+        "pt": [
+          "Baixo custo com cozinhas e espaço",
+          "Duas piscinas a que recorrer quando há vento",
+          "Ampla praia de areia mesmo em frente",
+          "Ambiente de aldeia descontraído e sem pretensões"
         ]
       },
       "cons": {
@@ -1030,48 +1858,100 @@
           "Santa Maria prend le meltemi, après-midis venteux",
           "Simple et basique, pas un resort soigné",
           "Voiture ou bus nécessaire pour les tavernes de Naoussa"
+        ],
+        "it": [
+          "Santa Maria prende il meltemi, pomeriggi ventosi",
+          "Semplice e basico, non un resort curato",
+          "Un'auto o un autobus servono per le taverne di Naoussa"
+        ],
+        "de": [
+          "Santa Maria fängt den Meltemi ein, windige Nachmittage",
+          "Schlicht und einfach, kein poliertes Resort",
+          "Ein Auto oder Bus ist für die Tavernen von Naoussa nötig"
+        ],
+        "es": [
+          "Santa Maria coge el meltemi, tardes ventosas",
+          "Sencillo y básico, no un resort cuidado",
+          "Se necesita un coche o autobús para las tabernas de Naoussa"
+        ],
+        "pt": [
+          "Santa Maria apanha o meltemi, tardes ventosas",
+          "Simples e básico, não um resort cuidado",
+          "É preciso um carro ou autocarro para as tabernas de Naoussa"
         ]
       },
       "verdict": {
         "en": "The budget beach-and-pool pick on Paros: kitchens, two pools and sandy Santa Maria for a small price. Best for toddlers up on calm days, with the pools for when the wind blows.",
-        "fr": "Le choix plage et piscine à petit budget de Paros : cuisines, deux piscines et le sable de Santa Maria pour un petit prix. Idéal à partir du tout-petit les jours calmes, avec les piscines quand le vent souffle."
+        "fr": "Le choix plage et piscine à petit budget de Paros : cuisines, deux piscines et le sable de Santa Maria pour un petit prix. Idéal à partir du tout-petit les jours calmes, avec les piscines quand le vent souffle.",
+        "it": "La scelta economica tra spiaggia e piscina a Paros: cucine, due piscine e la sabbia di Santa Maria a un piccolo prezzo. Ideale dai bimbi piccoli in su nelle giornate calme, con le piscine per quando soffia il vento.",
+        "de": "Die günstige Strand-und-Pool-Wahl auf Paros: Küchen, zwei Pools und der Sand von Santa Maria zum kleinen Preis. Am besten ab Kleinkindalter an ruhigen Tagen, mit den Pools für windige Zeiten.",
+        "es": "La opción económica de playa y piscina en Paros: cocinas, dos piscinas y la arena de Santa Maria por poco dinero. Mejor a partir de la edad de los pequeños en los días tranquilos, con las piscinas para cuando sopla el viento.",
+        "pt": "A escolha económica de praia e piscina em Paros: cozinhas, duas piscinas e a areia de Santa Maria por pouco dinheiro. Melhor a partir da idade dos mais pequenos nos dias calmos, com as piscinas para quando sopra o vento."
       },
       "parentTip": {
         "en": "Check the wind forecast the night before; on a meltemi day skip the open beach and make it a pool morning, then head to sheltered Kolymbithres or a bay bar for the afternoon.",
-        "fr": "Vérifiez la météo du vent la veille ; un jour de meltemi, oubliez la plage ouverte et faites une matinée piscine, puis filez vers Kolymbithres abritée ou un bar de baie l'après-midi."
+        "fr": "Vérifiez la météo du vent la veille ; un jour de meltemi, oubliez la plage ouverte et faites une matinée piscine, puis filez vers Kolymbithres abritée ou un bar de baie l'après-midi.",
+        "it": "Controllate le previsioni del vento la sera prima; in una giornata di meltemi saltate la spiaggia aperta e fatene una mattinata in piscina, poi dirigetevi verso la riparata Kolymbithres o un bar di baia per il pomeriggio.",
+        "de": "Prüft die Windvorhersage am Abend zuvor; an einem Meltemi-Tag lasst den offenen Strand aus und macht einen Poolvormittag, dann geht es zum geschützten Kolymbithres oder einer Buchtbar am Nachmittag.",
+        "es": "Consultad el pronóstico del viento la noche anterior; en un día de meltemi saltaos la playa abierta y haced una mañana de piscina, luego id a la resguardada Kolymbithres o a un bar de una cala por la tarde.",
+        "pt": "Verifiquem a previsão do vento na noite anterior; num dia de meltemi saltem a praia aberta e façam uma manhã de piscina, depois sigam para a abrigada Kolymbithres ou um bar de uma enseada à tarde."
       },
       "atAGlance": [
         {
           "icon": "💶",
           "label": {
             "en": "Value",
-            "fr": "Budget"
+            "fr": "Budget",
+            "it": "Budget",
+            "de": "Preis",
+            "es": "Precio",
+            "pt": "Preço"
           },
           "value": {
             "en": "Self-catering apartments at a low price",
-            "fr": "Appartements en cuisine autonome à petit prix"
+            "fr": "Appartements en cuisine autonome à petit prix",
+            "it": "Appartamenti con cucina a un prezzo basso",
+            "de": "Apartments zur Selbstverpflegung zum niedrigen Preis",
+            "es": "Apartamentos con cocina a bajo precio",
+            "pt": "Apartamentos com cozinha a baixo preço"
           }
         },
         {
           "icon": "🏊",
           "label": {
             "en": "Pools",
-            "fr": "Piscines"
+            "fr": "Piscines",
+            "it": "Piscine",
+            "de": "Pools",
+            "es": "Piscinas",
+            "pt": "Piscinas"
           },
           "value": {
             "en": "Two outdoor pools on site",
-            "fr": "Deux piscines extérieures sur place"
+            "fr": "Deux piscines extérieures sur place",
+            "it": "Due piscine all'aperto in loco",
+            "de": "Zwei Außenpools vor Ort",
+            "es": "Dos piscinas exteriores en el mismo lugar",
+            "pt": "Duas piscinas exteriores no local"
           }
         },
         {
           "icon": "🌬️",
           "label": {
             "en": "Good to know",
-            "fr": "Bon à savoir"
+            "fr": "Bon à savoir",
+            "it": "Buono a sapersi",
+            "de": "Gut zu wissen",
+            "es": "Bueno saberlo",
+            "pt": "Bom saber"
           },
           "value": {
             "en": "Windsurf beach, breezy afternoons",
-            "fr": "Plage de planche à voile, après-midis venteux"
+            "fr": "Plage de planche à voile, après-midis venteux",
+            "it": "Spiaggia da windsurf, pomeriggi ventosi",
+            "de": "Surfstrand, windige Nachmittage",
+            "es": "Playa de windsurf, tardes ventosas",
+            "pt": "Praia de windsurf, tardes ventosas"
           }
         }
       ],
@@ -1079,21 +1959,37 @@
         {
           "q": {
             "en": "Is this a good fit with a baby?",
-            "fr": "Est-ce adapté avec un bébé?"
+            "fr": "Est-ce adapté avec un bébé?",
+            "it": "È adatto con un neonato?",
+            "de": "Ist es mit einem Baby geeignet?",
+            "es": "¿Es adecuado con un bebé?",
+            "pt": "É adequado com um bebé?"
           },
           "a": {
             "en": "It works better from toddler age up. Santa Maria is sandy but exposed to the meltemi, so on windy days you rely on the pools, and the setup is simple rather than baby-geared.",
-            "fr": "Cela convient mieux à partir du tout-petit. Santa Maria est sablonneuse mais exposée au meltemi, les jours de vent on compte sur les piscines, et l'ensemble est simple plutôt que pensé pour les bébés."
+            "fr": "Cela convient mieux à partir du tout-petit. Santa Maria est sablonneuse mais exposée au meltemi, les jours de vent on compte sur les piscines, et l'ensemble est simple plutôt que pensé pour les bébés.",
+            "it": "Funziona meglio dai bimbi piccoli in su. Santa Maria è sabbiosa ma esposta al meltemi, così nelle giornate ventose ci si affida alle piscine, e la struttura è semplice più che pensata per i neonati.",
+            "de": "Es funktioniert besser ab dem Kleinkindalter. Santa Maria ist sandig, aber dem Meltemi ausgesetzt, sodass man sich an windigen Tagen auf die Pools verlässt, und die Anlage ist eher schlicht als babygerecht.",
+            "es": "Funciona mejor a partir de la edad de los primeros pasos. Santa Maria es arenosa pero expuesta al meltemi, así que en los días ventosos dependes de las piscinas, y la instalación es sencilla más que pensada para bebés.",
+            "pt": "Funciona melhor a partir da idade dos primeiros passos. Santa Maria é arenosa mas exposta ao meltemi, por isso nos dias ventosos depende-se das piscinas, e a instalação é simples em vez de pensada para bebés."
           }
         },
         {
           "q": {
             "en": "Can we cook in the room?",
-            "fr": "Peut-on cuisiner dans la chambre?"
+            "fr": "Peut-on cuisiner dans la chambre?",
+            "it": "Possiamo cucinare in camera?",
+            "de": "Können wir im Zimmer kochen?",
+            "es": "¿Podemos cocinar en la habitación?",
+            "pt": "Podemos cozinhar no quarto?"
           },
           "a": {
             "en": "Many of the apartments and bungalows have a kitchenette, and there is a mini-market on site, which keeps costs down and makes toddler meals easy.",
-            "fr": "Beaucoup d'appartements et de bungalows ont une kitchenette, et il y a une supérette sur place, ce qui limite les coûts et facilite les repas des tout-petits."
+            "fr": "Beaucoup d'appartements et de bungalows ont une kitchenette, et il y a une supérette sur place, ce qui limite les coûts et facilite les repas des tout-petits.",
+            "it": "Molti degli appartamenti e bungalow hanno un angolo cottura, e c'è un minimarket in loco, il che tiene bassi i costi e rende facili i pasti dei bimbi.",
+            "de": "Viele der Apartments und Bungalows haben eine Kochnische, und es gibt einen Minimarkt vor Ort, was die Kosten niedrig hält und Kleinkind-Mahlzeiten einfach macht.",
+            "es": "Muchos de los apartamentos y bungalós tienen cocina americana, y hay un minimercado en el mismo lugar, lo que mantiene bajos los costes y facilita las comidas de los pequeños.",
+            "pt": "Muitos dos apartamentos e bungalows têm kitchenette, e há um minimercado no local, o que mantém baixos os custos e facilita as refeições dos mais pequenos."
           }
         }
       ]
@@ -1104,7 +2000,11 @@
       "name": "Hotel Livadia",
       "area": {
         "en": "Paros (Livadia, Parikia)",
-        "fr": "Paros (Livadia, Parikia)"
+        "fr": "Paros (Livadia, Parikia)",
+        "it": "Paros (Livadia, Parikia)",
+        "de": "Paros (Livadia, Parikia)",
+        "es": "Paros (Livadia, Parikia)",
+        "pt": "Paros (Livadia, Parikia)"
       },
       "lat": 37.089,
       "lng": 25.156,
@@ -1143,11 +2043,19 @@
       },
       "roomsSummary": {
         "en": "A small beachfront hotel of rooms, studios and apartments, several with a kitchenette, on the seafront street at Livadia. Studios and apartments suit families who want a fridge and a walk-everywhere base by the port.",
-        "fr": "Un petit hôtel en bord de mer avec chambres, studios et appartements, plusieurs avec kitchenette, sur la rue du front de mer à Livadia. Studios et appartements conviennent aux familles qui veulent un frigo et une base tout-à-pied près du port."
+        "fr": "Un petit hôtel en bord de mer avec chambres, studios et appartements, plusieurs avec kitchenette, sur la rue du front de mer à Livadia. Studios et appartements conviennent aux familles qui veulent un frigo et une base tout-à-pied près du port.",
+        "it": "Un piccolo hotel fronte spiaggia con camere, studi e appartamenti, diversi con angolo cottura, sulla via del lungomare a Livadia. Studi e appartamenti sono adatti alle famiglie che vogliono un frigo e una base tutto-a-piedi vicino al porto.",
+        "de": "Ein kleines Strandhotel mit Zimmern, Studios und Apartments, mehrere mit Kochnische, an der Uferstraße von Livadia. Studios und Apartments eignen sich für Familien, die einen Kühlschrank und eine fußläufige Basis am Hafen wollen.",
+        "es": "Un pequeño hotel frente al mar con habitaciones, estudios y apartamentos, varios con cocina americana, en la calle del paseo marítimo de Livadia. Los estudios y apartamentos van bien para las familias que quieren una nevera y una base para ir todo a pie junto al puerto.",
+        "pt": "Um pequeno hotel à beira-mar com quartos, estúdios e apartamentos, vários com kitchenette, na rua da marginal de Livadia. Estúdios e apartamentos servem para as famílias que querem um frigorífico e uma base para andar tudo a pé junto ao porto."
       },
       "intro": {
         "en": "Livadia is the gentle, sandy beach a five-minute walk from Parikia's port, and Hotel Livadia sits right on it. The sea here shelves so slowly and stays so calm that it is the beach locals point families to first, and with the ferry, tavernas and shops all within a stroll, you can arrive off the boat and never touch a car. It is small and simple with no pool, but for a baby or toddler who just wants shallow water and an early night, it is one of the easiest bases in the Cyclades.",
-        "fr": "Livadia est la plage douce et sablonneuse à cinq minutes à pied du port de Parikia, et l'Hotel Livadia se trouve juste dessus. La mer y descend si lentement et reste si calme que c'est la plage que les habitants indiquent en premier aux familles, et avec le ferry, les tavernes et les boutiques à quelques pas, vous pouvez débarquer du bateau sans jamais toucher une voiture. C'est petit et simple, sans piscine, mais pour un bébé ou un tout-petit qui veut juste une eau peu profonde et un coucher tôt, c'est l'une des bases les plus faciles des Cyclades."
+        "fr": "Livadia est la plage douce et sablonneuse à cinq minutes à pied du port de Parikia, et l'Hotel Livadia se trouve juste dessus. La mer y descend si lentement et reste si calme que c'est la plage que les habitants indiquent en premier aux familles, et avec le ferry, les tavernes et les boutiques à quelques pas, vous pouvez débarquer du bateau sans jamais toucher une voiture. C'est petit et simple, sans piscine, mais pour un bébé ou un tout-petit qui veut juste une eau peu profonde et un coucher tôt, c'est l'une des bases les plus faciles des Cyclades.",
+        "it": "Livadia è la spiaggia dolce e sabbiosa a cinque minuti a piedi dal porto di Parikia, e l'Hotel Livadia si trova proprio lì. Il mare qui digrada così lentamente e resta così calmo che è la spiaggia che gli abitanti del posto indicano per prima alle famiglie, e con il ferry, le taverne e i negozi tutti a pochi passi, potete arrivare dal traghetto e non toccare mai un'auto. È piccolo e semplice, senza piscina, ma per un neonato o un bimbo piccolo che vuole solo acqua bassa e una nanna presto, è una delle basi più facili delle Cicladi.",
+        "de": "Livadia ist der sanfte, sandige Strand fünf Gehminuten vom Hafen von Parikia, und das Hotel Livadia liegt direkt darauf. Das Meer fällt hier so langsam ab und bleibt so ruhig, dass es der Strand ist, auf den Einheimische Familien zuerst verweisen, und mit Fähre, Tavernen und Geschäften alle in Gehweite könnt ihr vom Boot ankommen und nie ein Auto anfassen. Es ist klein und schlicht, ohne Pool, aber für ein Baby oder Kleinkind, das nur flaches Wasser und ein frühes Zubettgehen will, ist es eine der einfachsten Basen der Kykladen.",
+        "es": "Livadia es la playa suave y arenosa a cinco minutos a pie del puerto de Parikia, y el Hotel Livadia está justo en ella. El mar aquí se adentra tan lentamente y se mantiene tan tranquilo que es la playa que los lugareños señalan primero a las familias, y con el ferry, las tabernas y las tiendas todos a un paseo, podéis llegar del barco y no tocar nunca un coche. Es pequeño y sencillo, sin piscina, pero para un bebé o un pequeño que solo quiere agua poco profunda y acostarse temprano, es una de las bases más fáciles de las Cicladas.",
+        "pt": "Livadia é a praia suave e arenosa a cinco minutos a pé do porto de Parikia, e o Hotel Livadia fica mesmo nela. O mar aqui entra tão lentamente e mantém-se tão calmo que é a praia que os locais indicam primeiro às famílias, e com o ferry, as tabernas e as lojas todos a uma caminhada, podem chegar do barco e nunca tocar num carro. É pequeno e simples, sem piscina, mas para um bebé ou uma criança pequena que só quer água rasa e deitar-se cedo, é uma das bases mais fáceis das Ciclades."
       },
       "highlights": {
         "en": [
@@ -1161,6 +2069,30 @@
           "À cinq minutes à pied du port de Parikia",
           "Studios et appartements avec kitchenette",
           "Arrivée en ferry, sans voiture"
+        ],
+        "it": [
+          "Sulla sabbia dolce e bassa della spiaggia di Livadia",
+          "A cinque minuti a piedi dal porto di Parikia",
+          "Studi e appartamenti con angolo cottura",
+          "Arrivate dal ferry, senza auto"
+        ],
+        "de": [
+          "Am sanften, flachen Sand des Strandes von Livadia",
+          "Fünf Gehminuten vom Hafen von Parikia",
+          "Studios und Apartments mit Kochnische",
+          "Kommt mit der Fähre an, kein Auto nötig"
+        ],
+        "es": [
+          "En la arena suave y poco profunda de la playa de Livadia",
+          "A cinco minutos a pie del puerto de Parikia",
+          "Estudios y apartamentos con cocina americana",
+          "Llegad en ferry, sin coche necesario"
+        ],
+        "pt": [
+          "Na areia suave e rasa da praia de Livadia",
+          "A cinco minutos a pé do porto de Parikia",
+          "Estúdios e apartamentos com kitchenette",
+          "Cheguem de ferry, sem necessidade de carro"
         ]
       },
       "pros": {
@@ -1175,6 +2107,30 @@
           "Tout accessible à pied depuis le port",
           "Kitchenettes pour les repas des tout-petits",
           "Petit prix directement sur le front de mer"
+        ],
+        "it": [
+          "Una delle spiagge più calme e basse di Paros",
+          "Tutto raggiungibile a piedi dal porto",
+          "Angoli cottura per i pasti dei bimbi",
+          "Prezzo basso proprio sul lungomare"
+        ],
+        "de": [
+          "Einer der ruhigsten, flachsten Strände von Paros",
+          "Alles zu Fuß vom Hafen erreichbar",
+          "Kochnischen für Kleinkind-Mahlzeiten",
+          "Niedriger Preis direkt an der Uferpromenade"
+        ],
+        "es": [
+          "Una de las playas más tranquilas y poco profundas de Paros",
+          "Todo a pie desde el puerto",
+          "Cocinas americanas para las comidas de los pequeños",
+          "Precio bajo justo en el paseo marítimo"
+        ],
+        "pt": [
+          "Uma das praias mais calmas e rasas de Paros",
+          "Tudo acessível a pé a partir do porto",
+          "Kitchenettes para as refeições dos mais pequenos",
+          "Preço baixo mesmo na marginal"
         ]
       },
       "cons": {
@@ -1187,48 +2143,100 @@
           "Pas de piscine, la plage est l'option baignade",
           "Petit et simple, pas un resort",
           "La zone du port de Parikia peut être animée le soir"
+        ],
+        "it": [
+          "Niente piscina, quindi la spiaggia è l'opzione per l'acqua",
+          "Piccolo e semplice, non un resort",
+          "La zona del porto di Parikia può essere animata di sera"
+        ],
+        "de": [
+          "Kein Pool, der Strand ist also die Wasseroption",
+          "Klein und schlicht, kein Resort",
+          "Die Hafengegend von Parikia kann abends lebhaft sein"
+        ],
+        "es": [
+          "Sin piscina, así que la playa es la opción para el agua",
+          "Pequeño y sencillo, no un resort",
+          "La zona del puerto de Parikia puede ser animada por la noche"
+        ],
+        "pt": [
+          "Sem piscina, por isso a praia é a opção para a água",
+          "Pequeno e simples, não um resort",
+          "A zona do porto de Parikia pode ser animada à noite"
         ]
       },
       "verdict": {
         "en": "The no-car, no-fuss baby base: a simple beachfront hotel on Paros's gentlest sand, minutes from the ferry and the tavernas. Perfect for a first island trip with a little one.",
-        "fr": "La base bébé sans voiture et sans complication : un simple hôtel en bord de mer sur le sable le plus doux de Paros, à quelques minutes du ferry et des tavernes. Parfait pour un premier séjour insulaire avec un tout-petit."
+        "fr": "La base bébé sans voiture et sans complication : un simple hôtel en bord de mer sur le sable le plus doux de Paros, à quelques minutes du ferry et des tavernes. Parfait pour un premier séjour insulaire avec un tout-petit.",
+        "it": "La base per neonati senza auto e senza complicazioni: un semplice hotel fronte spiaggia sulla sabbia più dolce di Paros, a pochi minuti dal ferry e dalle taverne. Perfetto per un primo viaggio insulare con un bimbo piccolo.",
+        "de": "Die autofreie, unkomplizierte Baby-Basis: ein schlichtes Strandhotel am sanftesten Sand von Paros, Minuten von der Fähre und den Tavernen entfernt. Perfekt für eine erste Inselreise mit einem Kleinen.",
+        "es": "La base para bebés sin coche y sin complicaciones: un sencillo hotel frente al mar en la arena más suave de Paros, a minutos del ferry y las tabernas. Perfecto para un primer viaje a la isla con un pequeño.",
+        "pt": "A base para bebés sem carro e sem complicações: um simples hotel à beira-mar na areia mais suave de Paros, a minutos do ferry e das tabernas. Perfeito para uma primeira viagem à ilha com uma criança pequena."
       },
       "parentTip": {
         "en": "Livadia is calm and shallow for a long way, so it is one of the few beaches where a paddling ring genuinely works; go before the day-trippers arrive and claim a patch of shade.",
-        "fr": "Livadia est calme et peu profonde sur une grande distance, c'est l'une des rares plages où une bouée fonctionne vraiment ; allez-y avant les excursionnistes et réservez un coin d'ombre."
+        "fr": "Livadia est calme et peu profonde sur une grande distance, c'est l'une des rares plages où une bouée fonctionne vraiment ; allez-y avant les excursionnistes et réservez un coin d'ombre.",
+        "it": "Livadia è calma e bassa per un lungo tratto, così è una delle poche spiagge dove una ciambella funziona davvero; andateci prima che arrivino i gitanti e conquistate un angolo d'ombra.",
+        "de": "Livadia ist über eine lange Strecke ruhig und flach, daher ist es einer der wenigen Strände, an denen ein Schwimmring wirklich funktioniert; geht hin, bevor die Tagesausflügler kommen, und sichert euch ein schattiges Plätzchen.",
+        "es": "Livadia es tranquila y poco profunda durante un buen trecho, así que es una de las pocas playas donde un flotador funciona de verdad; id antes de que lleguen los excursionistas y haceos con un rincón de sombra.",
+        "pt": "Livadia é calma e rasa ao longo de um bom trecho, por isso é uma das poucas praias onde uma bóia funciona mesmo; vão antes de chegarem os excursionistas e garantam um cantinho de sombra."
       },
       "atAGlance": [
         {
           "icon": "🏖️",
           "label": {
             "en": "Beach",
-            "fr": "Plage"
+            "fr": "Plage",
+            "it": "Spiaggia",
+            "de": "Strand",
+            "es": "Playa",
+            "pt": "Praia"
           },
           "value": {
             "en": "Gentle, shallow Livadia sand outside",
-            "fr": "Sable doux et peu profond de Livadia devant"
+            "fr": "Sable doux et peu profond de Livadia devant",
+            "it": "Sabbia dolce e bassa di Livadia davanti",
+            "de": "Sanfter, flacher Sand von Livadia davor",
+            "es": "Arena suave y poco profunda de Livadia enfrente",
+            "pt": "Areia suave e rasa de Livadia em frente"
           }
         },
         {
           "icon": "⛴️",
           "label": {
             "en": "Port",
-            "fr": "Port"
+            "fr": "Port",
+            "it": "Porto",
+            "de": "Hafen",
+            "es": "Puerto",
+            "pt": "Porto"
           },
           "value": {
             "en": "Five minutes on foot, arrive by ferry",
-            "fr": "À cinq minutes à pied, arrivée en ferry"
+            "fr": "À cinq minutes à pied, arrivée en ferry",
+            "it": "A cinque minuti a piedi, arrivo in ferry",
+            "de": "Fünf Minuten zu Fuß, Ankunft mit der Fähre",
+            "es": "Cinco minutos a pie, llegada en ferry",
+            "pt": "Cinco minutos a pé, chegada de ferry"
           }
         },
         {
           "icon": "🍳",
           "label": {
             "en": "Rooms",
-            "fr": "Chambres"
+            "fr": "Chambres",
+            "it": "Camere",
+            "de": "Zimmer",
+            "es": "Habitaciones",
+            "pt": "Quartos"
           },
           "value": {
             "en": "Studios and apartments with kitchenettes",
-            "fr": "Studios et appartements avec kitchenette"
+            "fr": "Studios et appartements avec kitchenette",
+            "it": "Studi e appartamenti con angolo cottura",
+            "de": "Studios und Apartments mit Kochnische",
+            "es": "Estudios y apartamentos con cocina americana",
+            "pt": "Estúdios e apartamentos com kitchenette"
           }
         }
       ],
@@ -1236,21 +2244,37 @@
         {
           "q": {
             "en": "Is Livadia beach safe for a baby?",
-            "fr": "La plage de Livadia est-elle sûre pour un bébé?"
+            "fr": "La plage de Livadia est-elle sûre pour un bébé?",
+            "it": "La spiaggia di Livadia è sicura per un neonato?",
+            "de": "Ist der Strand von Livadia für ein Baby sicher?",
+            "es": "¿Es segura la playa de Livadia para un bebé?",
+            "pt": "A praia de Livadia é segura para um bebé?"
           },
           "a": {
             "en": "Yes, it is sandy, shelves very gently and is usually calm, so it is one of the safest beaches on Paros for babies and toddlers to paddle close to shore.",
-            "fr": "Oui, elle est sablonneuse, descend très doucement et est généralement calme, c'est l'une des plages les plus sûres de Paros pour que bébés et tout-petits barbotent près du bord."
+            "fr": "Oui, elle est sablonneuse, descend très doucement et est généralement calme, c'est l'une des plages les plus sûres de Paros pour que bébés et tout-petits barbotent près du bord.",
+            "it": "Sì, è sabbiosa, digrada molto dolcemente ed è di solito calma, quindi è una delle spiagge più sicure di Paros in cui neonati e bambini piccoli possono sguazzare vicino alla riva.",
+            "de": "Ja, er ist sandig, fällt sehr sanft ab und ist meist ruhig, daher gehört er zu den sichersten Stränden auf Paros, an denen Babys und Kleinkinder nah am Ufer planschen können.",
+            "es": "Sí, es de arena, desciende muy suavemente y suele estar tranquila, así que es una de las playas más seguras de Paros para que bebés y niños pequeños chapoteen cerca de la orilla.",
+            "pt": "Sim, é de areia, desce muito suavemente e costuma estar calma, por isso é uma das praias mais seguras de Paros para bebés e crianças pequenas chapinharem perto da margem."
           }
         },
         {
           "q": {
             "en": "Can we manage without a car?",
-            "fr": "Peut-on se passer de voiture?"
+            "fr": "Peut-on se passer de voiture?",
+            "it": "Possiamo cavarcela senza auto?",
+            "de": "Kommen wir ohne Auto zurecht?",
+            "es": "¿Podemos arreglárnoslas sin coche?",
+            "pt": "Conseguimos safar-nos sem carro?"
           },
           "a": {
             "en": "Easily. The ferry port, beach, tavernas and shops of Parikia are all a short walk, so this is an ideal base if you would rather not drive on the island.",
-            "fr": "Facilement. Le port des ferries, la plage, les tavernes et les boutiques de Parikia sont tous à quelques pas, c'est donc une base idéale si vous préférez ne pas conduire sur l'île."
+            "fr": "Facilement. Le port des ferries, la plage, les tavernes et les boutiques de Parikia sont tous à quelques pas, c'est donc une base idéale si vous préférez ne pas conduire sur l'île.",
+            "it": "Facilmente. Il porto dei traghetti, la spiaggia, le taverne e i negozi di Parikia sono tutti a pochi passi, quindi è una base ideale se preferite non guidare sull'isola.",
+            "de": "Ganz leicht. Der Fährhafen, der Strand, die Tavernen und die Geschäfte von Parikia liegen alle nur einen kurzen Fußweg entfernt, daher ist dies ein idealer Ausgangspunkt, wenn ihr lieber nicht auf der Insel fahren möchtet.",
+            "es": "Con facilidad. El puerto de ferris, la playa, las tabernas y las tiendas de Parikia están todos a un corto paseo, así que es una base ideal si preferís no conducir por la isla.",
+            "pt": "Facilmente. O porto dos ferries, a praia, as tavernas e as lojas de Parikia ficam todos a uma curta caminhada, por isso é uma base ideal se preferirem não conduzir na ilha."
           }
         }
       ]
@@ -1259,11 +2283,19 @@
   "destinationMeta": {
     "name": {
       "en": "Naxos & Paros",
-      "fr": "Naxos et Paros"
+      "fr": "Naxos et Paros",
+      "it": "Naxos e Paros",
+      "de": "Naxos & Paros",
+      "es": "Naxos y Paros",
+      "pt": "Naxos e Paros"
     },
     "country": {
       "en": "Greece",
-      "fr": "Grèce"
+      "fr": "Grèce",
+      "it": "Grecia",
+      "de": "Griechenland",
+      "es": "Grecia",
+      "pt": "Grécia"
     },
     "emoji": "🏖️",
     "accent": "3f9fb0",
@@ -1274,11 +2306,19 @@
     },
     "heroKicker": {
       "en": "Two Cycladic islands of long, shallow sand, calmer and gentler than the party islands next door",
-      "fr": "Deux îles cycladiques au sable long et peu profond, plus calmes et plus douces que les îles à fête d'à côté"
+      "fr": "Deux îles cycladiques au sable long et peu profond, plus calmes et plus douces que les îles à fête d'à côté",
+      "it": "Due isole delle Cicladi dalla sabbia lunga e bassa, più tranquille e più dolci delle isole della movida qui accanto",
+      "de": "Zwei kykladische Inseln mit langem, flachem Sand, ruhiger und sanfter als die Partyinseln nebenan",
+      "es": "Dos islas de las Cícladas de arena larga y poco profunda, más tranquilas y suaves que las islas de fiesta de al lado",
+      "pt": "Duas ilhas das Cíclades de areia longa e rasa, mais calmas e suaves do que as ilhas de festa mesmo ao lado"
     },
     "intro": {
       "en": "If you want the whitewashed Cyclades but with a beach a baby can actually use, Naxos and Paros are the pair to book. Both are ringed with long, pale, sandy beaches that shelve so gently a toddler can wade out a surprising distance with the water still at their knees: Agios Prokopios, Agia Anna and four-kilometre Plaka on Naxos; Golden Beach, Santa Maria and gentle Livadia on Paros. They are calmer, greener and far less frantic than nearby Santorini or Mykonos, with real Greek village life, working farms and tavernas where children are welcomed rather than tolerated. The two islands sit a 30 to 45 minute ferry apart, so many families split a week between them. The honest catch is the meltemi, the summer wind that can pick up in July and August, so pick a sheltered bay or a hotel with a pool for the breezy afternoons.",
-      "fr": "Si vous voulez les Cyclades blanchies à la chaux mais avec une plage qu'un bébé peut vraiment utiliser, Naxos et Paros sont le duo à réserver. Toutes deux sont bordées de longues plages de sable clair qui descendent si doucement qu'un tout-petit peut s'éloigner sur une distance étonnante avec l'eau à hauteur de genoux : Agios Prokopios, Agia Anna et les quatre kilomètres de Plaka à Naxos ; Golden Beach, Santa Maria et la douce Livadia à Paros. Elles sont plus calmes, plus vertes et bien moins frénétiques que Santorin ou Mykonos toutes proches, avec une vraie vie de village grecque, des fermes en activité et des tavernes où les enfants sont accueillis plutôt que tolérés. Les deux îles sont séparées par 30 à 45 minutes de ferry, beaucoup de familles partagent donc une semaine entre les deux. Le seul vrai bémol, c'est le meltemi, ce vent d'été qui peut se lever en juillet et août : choisissez une baie abritée ou un hôtel avec piscine pour les après-midis venteux."
+      "fr": "Si vous voulez les Cyclades blanchies à la chaux mais avec une plage qu'un bébé peut vraiment utiliser, Naxos et Paros sont le duo à réserver. Toutes deux sont bordées de longues plages de sable clair qui descendent si doucement qu'un tout-petit peut s'éloigner sur une distance étonnante avec l'eau à hauteur de genoux : Agios Prokopios, Agia Anna et les quatre kilomètres de Plaka à Naxos ; Golden Beach, Santa Maria et la douce Livadia à Paros. Elles sont plus calmes, plus vertes et bien moins frénétiques que Santorin ou Mykonos toutes proches, avec une vraie vie de village grecque, des fermes en activité et des tavernes où les enfants sont accueillis plutôt que tolérés. Les deux îles sont séparées par 30 à 45 minutes de ferry, beaucoup de familles partagent donc une semaine entre les deux. Le seul vrai bémol, c'est le meltemi, ce vent d'été qui peut se lever en juillet et août : choisissez une baie abritée ou un hôtel avec piscine pour les après-midis venteux.",
+      "it": "Se volete le Cicladi imbiancate a calce ma con una spiaggia che un neonato può davvero usare, Naxos e Paros sono la coppia da prenotare. Entrambe sono cinte da lunghe spiagge di sabbia chiara che digradano così dolcemente che un bambino piccolo può addentrarsi per una distanza sorprendente con l'acqua ancora alle ginocchia: Agios Prokopios, Agia Anna e i quattro chilometri di Plaka a Naxos; Golden Beach, Santa Maria e la dolce Livadia a Paros. Sono più calme, più verdi e molto meno frenetiche delle vicine Santorini o Mykonos, con una vera vita di paese greca, fattorie in attività e taverne dove i bambini sono accolti anziché tollerati. Le due isole distano 30-45 minuti di traghetto, quindi molte famiglie dividono una settimana tra le due. Il vero neo è il meltemi, il vento estivo che può rinforzare a luglio e agosto, perciò scegliete una baia riparata o un hotel con piscina per i pomeriggi ventosi.",
+      "de": "Wenn ihr die kalkweißen Kykladen wollt, aber mit einem Strand, den ein Baby tatsächlich nutzen kann, sind Naxos und Paros das Paar zum Buchen. Beide sind von langen, hellen Sandstränden gesäumt, die so sanft abfallen, dass ein Kleinkind erstaunlich weit hinauswaten kann und das Wasser dabei immer noch an den Knien steht: Agios Prokopios, Agia Anna und das vier Kilometer lange Plaka auf Naxos; Golden Beach, Santa Maria und das sanfte Livadia auf Paros. Sie sind ruhiger, grüner und weit weniger hektisch als das nahe Santorin oder Mykonos, mit echtem griechischem Dorfleben, aktiven Bauernhöfen und Tavernen, in denen Kinder willkommen geheißen statt nur geduldet werden. Die beiden Inseln liegen 30 bis 45 Fährminuten auseinander, deshalb teilen viele Familien eine Woche zwischen ihnen auf. Der ehrliche Haken ist der Meltemi, der Sommerwind, der im Juli und August auffrischen kann, also wählt eine geschützte Bucht oder ein Hotel mit Pool für die windigen Nachmittage.",
+      "es": "Si queréis las Cícladas encaladas pero con una playa que un bebé pueda usar de verdad, Naxos y Paros son la pareja que hay que reservar. Ambas están rodeadas de largas playas de arena clara que descienden tan suavemente que un niño pequeño puede adentrarse una distancia sorprendente con el agua todavía por las rodillas: Agios Prokopios, Agia Anna y los cuatro kilómetros de Plaka en Naxos; Golden Beach, Santa Maria y la suave Livadia en Paros. Son más tranquilas, más verdes y mucho menos frenéticas que las cercanas Santorini o Mykonos, con auténtica vida de pueblo griega, granjas en activo y tabernas donde a los niños se les da la bienvenida en lugar de tolerarlos. Las dos islas están a 30 o 45 minutos de ferry, así que muchas familias reparten una semana entre ellas. El único inconveniente sincero es el meltemi, el viento de verano que puede arreciar en julio y agosto, así que elegid una bahía resguardada o un hotel con piscina para las tardes ventosas.",
+      "pt": "Se querem as Cíclades caiadas de branco mas com uma praia que um bebé possa mesmo usar, Naxos e Paros são a dupla a reservar. Ambas são rodeadas por longas praias de areia clara que descem tão suavemente que uma criança pequena consegue avançar uma distância surpreendente com a água ainda pelos joelhos: Agios Prokopios, Agia Anna e os quatro quilómetros de Plaka em Naxos; Golden Beach, Santa Maria e a suave Livadia em Paros. São mais calmas, mais verdes e bem menos frenéticas do que as vizinhas Santorini ou Mykonos, com vida de aldeia grega autêntica, quintas em atividade e tavernas onde as crianças são acolhidas em vez de toleradas. As duas ilhas ficam a 30 ou 45 minutos de ferry, por isso muitas famílias dividem uma semana entre elas. O único senão honesto é o meltemi, o vento de verão que pode intensificar-se em julho e agosto, por isso escolham uma baía abrigada ou um hotel com piscina para as tardes ventosas."
     },
     "whyKids": {
       "en": [
@@ -1294,6 +2334,34 @@
         "Des bases de ville accessibles à pied : la ville de Naxos et Parikia permettent de faire plage, dîner et ferry à pied, sans voiture de location",
         "Une vraie vie grecque : fermes en activité, hôtels familiaux et tavernes où un tout-petit est vraiment le bienvenu",
         "Le saut d'île facile : un court ferry relie les deux, un seul voyage permet de goûter aux deux"
+      ],
+      "it": [
+        "Lunghe spiagge di sabbia poco profonde: Agios Prokopios, Agia Anna e Plaka a Naxos, Livadia e Golden Beach a Paros digradano tutte dolcemente per sguazzare in sicurezza",
+        "Più tranquille delle isole della movida: niente calca da navi da crociera né vita notturna, solo piazze di paese, taverne e lente giornate in spiaggia",
+        "Basi cittadine percorribili a piedi: la città di Naxos e Parikia permettono di fare spiaggia, cena e traghetto tutto a piedi, senza auto a noleggio",
+        "Vera vita greca: fattorie in attività, hotel a gestione familiare e taverne dove un bambino piccolo è davvero il benvenuto",
+        "Salto d'isola facile: un breve traghetto collega le due, così un solo viaggio può assaggiarle entrambe"
+      ],
+      "de": [
+        "Lange, flache Sandstrände: Agios Prokopios, Agia Anna und Plaka auf Naxos, Livadia und Golden Beach auf Paros fallen alle sanft ab und laden zum sicheren Planschen ein",
+        "Ruhiger als die Partyinseln: kein Kreuzfahrtschiff-Gedränge und keine Nachtleben-Szene, nur Dorfplätze, Tavernen und langsame Strandtage",
+        "Zu Fuß erreichbare Ortsstützpunkte: In Naxos-Stadt und Parikia erledigt ihr Strand, Abendessen und die Fähre alles zu Fuß, kein Mietwagen nötig",
+        "Echtes griechisches Leben: aktive Bauernhöfe, familiengeführte Hotels und Tavernen, in denen ein Kleinkind wirklich willkommen ist",
+        "Einfaches Inselhüpfen: Eine kurze Fähre verbindet die beiden, sodass eine Reise beide erleben lässt"
+      ],
+      "es": [
+        "Playas de arena largas y poco profundas: Agios Prokopios, Agia Anna y Plaka en Naxos, Livadia y Golden Beach en Paros descienden todas suavemente para chapotear con seguridad",
+        "Más tranquilas que las islas de fiesta: ni aglomeración de cruceros ni ambiente nocturno, solo plazas de pueblo, tabernas y días de playa pausados",
+        "Bases urbanas caminables: la ciudad de Naxos y Parikia te permiten hacer playa, cena y ferry todo a pie, sin coche de alquiler",
+        "Auténtica vida griega: granjas en activo, hoteles familiares y tabernas donde un niño pequeño es de verdad bienvenido",
+        "Salto de isla fácil: un corto ferry une las dos, así que un solo viaje deja probar ambas"
+      ],
+      "pt": [
+        "Praias de areia longas e rasas: Agios Prokopios, Agia Anna e Plaka em Naxos, Livadia e Golden Beach em Paros descem todas suavemente para chapinhar em segurança",
+        "Mais calmas do que as ilhas de festa: sem aperto de cruzeiros nem cena noturna, apenas praças de aldeia, tavernas e dias de praia sem pressa",
+        "Bases urbanas a pé: a cidade de Naxos e Parikia deixam-vos fazer praia, jantar e ferry tudo a pé, sem carro de aluguer",
+        "Vida grega autêntica: quintas em atividade, hotéis de gestão familiar e tavernas onde uma criança pequena é genuinamente bem-vinda",
+        "Salto de ilha fácil: um curto ferry liga as duas, por isso uma só viagem permite provar ambas"
       ]
     },
     "bestAreas": {
@@ -1312,43 +2380,99 @@
         "Paros, Parikia et Livadia : sable doux à quelques minutes du ferry, la base facile du jour d'arrivée",
         "Paros, Naoussa et Kolymbithres : criques abritées à bassins rocheux avec l'une des eaux les plus calmes de l'île",
         "Paros, Golden Beach et Santa Maria : larges rubans de sable ravissants les matins calmes mais qui prennent le meltemi plus tard"
+      ],
+      "it": [
+        "Naxos, Agios Georgios: la spiaggia cittadina meno profonda, a pochi passi dalla città di Naxos, ideale per una vacanza con neonato senza auto",
+        "Naxos, Agios Prokopios e Agia Anna: sabbia Bandiera Blu e acqua calma dal digradare dolce con una buona serie di hotel per famiglie",
+        "Naxos, Plaka: quattro chilometri di sabbia morbida e bassa, più tranquilla e più verde, meglio con un'auto a noleggio",
+        "Paros, Parikia e Livadia: sabbia dolce a pochi passi dal traghetto, la base facile per il giorno di arrivo",
+        "Paros, Naoussa e Kolymbithres: calette riparate con piscine naturali tra le rocce e alcune delle acque più calme dell'isola",
+        "Paros, Golden Beach e Santa Maria: ampie distese sabbiose deliziose nelle mattine calme ma che prendono il meltemi più tardi"
+      ],
+      "de": [
+        "Naxos, Agios Georgios: der flachste Ortsstrand, nur Schritte von Naxos-Stadt entfernt, ideal für einen Babyurlaub ohne Auto",
+        "Naxos, Agios Prokopios und Agia Anna: Sand mit Blauer Flagge und ruhiges, sanft abfallendes Wasser mit einer guten Reihe von Familienhotels",
+        "Naxos, Plaka: vier Kilometer weicher, flacher Sand, ruhiger und grüner, am besten mit einem Mietwagen",
+        "Paros, Parikia und Livadia: sanfter Sand einen kurzen Fußweg von der Fähre entfernt, der einfache Ausgangspunkt für den Ankunftstag",
+        "Paros, Naoussa und Kolymbithres: geschützte Buchten mit Felsbecken und einem der ruhigsten Gewässer der Insel",
+        "Paros, Golden Beach und Santa Maria: weite Sandschwünge, die an ruhigen Morgen herrlich sind, später aber den Meltemi abbekommen"
+      ],
+      "es": [
+        "Naxos, Agios Georgios: la playa urbana más poco profunda, a unos pasos de la ciudad de Naxos, ideal para unas vacaciones con bebé sin coche",
+        "Naxos, Agios Prokopios y Agia Anna: arena con Bandera Azul y agua tranquila de suave descenso con una buena oferta de hoteles familiares",
+        "Naxos, Plaka: cuatro kilómetros de arena suave y poco profunda, más tranquila y más verde, mejor con coche de alquiler",
+        "Paros, Parikia y Livadia: arena suave a un corto paseo del ferry, la base fácil del día de llegada",
+        "Paros, Naoussa y Kolymbithres: calas resguardadas con pozas rocosas y algunas de las aguas más tranquilas de la isla",
+        "Paros, Golden Beach y Santa Maria: amplias extensiones de arena preciosas en las mañanas tranquilas pero que reciben el meltemi más tarde"
+      ],
+      "pt": [
+        "Naxos, Agios Georgios: a praia urbana mais rasa, a poucos passos da cidade de Naxos, ideal para umas férias com bebé sem carro",
+        "Naxos, Agios Prokopios e Agia Anna: areia com Bandeira Azul e água calma de descida suave com uma boa oferta de hotéis para famílias",
+        "Naxos, Plaka: quatro quilómetros de areia macia e rasa, mais calma e mais verde, melhor com carro de aluguer",
+        "Paros, Parikia e Livadia: areia suave a uma curta caminhada do ferry, a base fácil do dia de chegada",
+        "Paros, Naoussa e Kolymbithres: enseadas abrigadas com poças rochosas e algumas das águas mais calmas da ilha",
+        "Paros, Golden Beach e Santa Maria: amplas faixas de areia encantadoras nas manhãs calmas mas que apanham o meltemi mais tarde"
       ]
     },
     "goodToKnow": {
       "en": "You reach both islands by ferry from Athens (Piraeus or Rafina), around three to five hours by regular boat and less on the fast ones, and Naxos and Paros also have small airports with domestic flights and a handful of seasonal European routes. A ferry of 30 to 45 minutes links the two, which makes a split-island week easy. The one real thing to plan around is the meltemi, the north wind that can blow for days in July and August: it keeps things cool but can whip up the exposed north and east beaches, so on windy days head for a sheltered bay like Kolymbithres or fall back on a hotel pool. Late June and September are calmer and quieter, with warm sea and thinner crowds. Buses run to the main beaches and are cheap, but a hire car opens up the quieter sands, especially on Naxos.",
-      "fr": "On rejoint les deux îles en ferry depuis Athènes (Le Pirée ou Rafina), environ trois à cinq heures en bateau classique et moins avec les rapides, et Naxos comme Paros ont aussi de petits aéroports avec vols intérieurs et quelques lignes européennes saisonnières. Un ferry de 30 à 45 minutes relie les deux, ce qui rend facile une semaine partagée entre les îles. La seule vraie chose à anticiper, c'est le meltemi, ce vent du nord qui peut souffler plusieurs jours en juillet et août : il rafraîchit mais peut agiter les plages exposées du nord et de l'est, les jours de vent filez donc vers une baie abritée comme Kolymbithres ou repliez-vous sur une piscine d'hôtel. Fin juin et septembre sont plus calmes et plus tranquilles, avec une mer chaude et moins de monde. Les bus desservent les principales plages et sont bon marché, mais une voiture de location ouvre l'accès aux sables plus tranquilles, surtout à Naxos."
+      "fr": "On rejoint les deux îles en ferry depuis Athènes (Le Pirée ou Rafina), environ trois à cinq heures en bateau classique et moins avec les rapides, et Naxos comme Paros ont aussi de petits aéroports avec vols intérieurs et quelques lignes européennes saisonnières. Un ferry de 30 à 45 minutes relie les deux, ce qui rend facile une semaine partagée entre les îles. La seule vraie chose à anticiper, c'est le meltemi, ce vent du nord qui peut souffler plusieurs jours en juillet et août : il rafraîchit mais peut agiter les plages exposées du nord et de l'est, les jours de vent filez donc vers une baie abritée comme Kolymbithres ou repliez-vous sur une piscine d'hôtel. Fin juin et septembre sont plus calmes et plus tranquilles, avec une mer chaude et moins de monde. Les bus desservent les principales plages et sont bon marché, mais une voiture de location ouvre l'accès aux sables plus tranquilles, surtout à Naxos.",
+      "it": "Raggiungete entrambe le isole in traghetto da Atene (Il Pireo o Rafina), circa tre-cinque ore con la nave normale e meno con quelle veloci, e sia Naxos sia Paros hanno anche piccoli aeroporti con voli nazionali e una manciata di rotte europee stagionali. Un traghetto di 30-45 minuti collega le due, il che rende facile una settimana divisa tra le isole. L'unica vera cosa da pianificare è il meltemi, il vento di tramontana che può soffiare per giorni a luglio e agosto: mantiene il fresco ma può agitare le spiagge esposte a nord e a est, quindi nei giorni ventosi puntate su una baia riparata come Kolymbithres o ripiegate su una piscina d'hotel. Fine giugno e settembre sono più calmi e più tranquilli, con mare caldo e meno folla. Gli autobus arrivano alle spiagge principali e sono economici, ma un'auto a noleggio apre l'accesso alle sabbie più tranquille, soprattutto a Naxos.",
+      "de": "Beide Inseln erreicht ihr per Fähre von Athen (Piräus oder Rafina), etwa drei bis fünf Stunden mit dem regulären Boot und weniger mit den schnellen, und Naxos und Paros haben zudem kleine Flughäfen mit Inlandsflügen und einer Handvoll saisonaler europäischer Verbindungen. Eine Fähre von 30 bis 45 Minuten verbindet die beiden, was eine auf die Inseln aufgeteilte Woche leicht macht. Das eine, worauf ihr euch wirklich einstellen solltet, ist der Meltemi, der Nordwind, der im Juli und August tagelang wehen kann: Er hält es kühl, kann aber die offenen Nord- und Oststrände aufpeitschen, an windigen Tagen steuert also eine geschützte Bucht wie Kolymbithres an oder weicht auf einen Hotelpool aus. Ende Juni und September sind ruhiger und stiller, mit warmem Meer und weniger Andrang. Busse fahren zu den Hauptstränden und sind günstig, aber ein Mietwagen erschließt die ruhigeren Sandstrände, besonders auf Naxos.",
+      "es": "A ambas islas se llega en ferry desde Atenas (El Pireo o Rafina), unas tres a cinco horas en barco regular y menos en los rápidos, y Naxos y Paros también tienen pequeños aeropuertos con vuelos nacionales y un puñado de rutas europeas de temporada. Un ferry de 30 a 45 minutos une las dos, lo que hace fácil una semana repartida entre las islas. Lo único que hay que planear de verdad es el meltemi, el viento del norte que puede soplar durante días en julio y agosto: mantiene el fresco pero puede levantar las playas expuestas del norte y del este, así que en los días de viento id a una bahía resguardada como Kolymbithres o replegaos a la piscina del hotel. Finales de junio y septiembre son más tranquilos y apacibles, con mar cálido y menos gente. Los autobuses llegan a las playas principales y son baratos, pero un coche de alquiler abre las arenas más tranquilas, sobre todo en Naxos.",
+      "pt": "Chega-se a ambas as ilhas de ferry a partir de Atenas (Pireu ou Rafina), cerca de três a cinco horas em barco normal e menos nos rápidos, e Naxos e Paros têm também pequenos aeroportos com voos nacionais e um punhado de rotas europeias sazonais. Um ferry de 30 a 45 minutos liga as duas, o que torna fácil uma semana dividida entre as ilhas. A única coisa a planear a sério é o meltemi, o vento do norte que pode soprar durante dias em julho e agosto: mantém tudo fresco mas pode agitar as praias expostas a norte e a este, por isso nos dias de vento rumem a uma baía abrigada como Kolymbithres ou recuem para a piscina do hotel. Fim de junho e setembro são mais calmos e sossegados, com mar quente e menos gente. Os autocarros vão às praias principais e são baratos, mas um carro de aluguer abre as areias mais tranquilas, sobretudo em Naxos."
     },
     "parentTip": {
       "en": "Wind, not sun, is the variable that shapes a beach day here. Check a meltemi forecast the night before and keep a flexible plan: sheltered coves and pools on a blowy day, the big open sands like Plaka or Golden Beach when it is calm, and always the early morning before the breeze builds.",
-      "fr": "C'est le vent, pas le soleil, qui décide d'une journée plage ici. Vérifiez une prévision de meltemi la veille et gardez un plan souple : criques abritées et piscines les jours de vent, grands sables ouverts comme Plaka ou Golden Beach quand c'est calme, et toujours le petit matin avant que la brise se lève."
+      "fr": "C'est le vent, pas le soleil, qui décide d'une journée plage ici. Vérifiez une prévision de meltemi la veille et gardez un plan souple : criques abritées et piscines les jours de vent, grands sables ouverts comme Plaka ou Golden Beach quand c'est calme, et toujours le petit matin avant que la brise se lève.",
+      "it": "È il vento, non il sole, la variabile che modella una giornata in spiaggia qui. Controllate una previsione del meltemi la sera prima e tenete un piano flessibile: calette riparate e piscine nei giorni ventosi, i grandi sabbioni aperti come Plaka o Golden Beach quando è calmo, e sempre il primo mattino prima che la brezza si alzi.",
+      "de": "Der Wind, nicht die Sonne, ist hier die Größe, die einen Strandtag prägt. Prüft am Abend zuvor eine Meltemi-Vorhersage und haltet einen flexiblen Plan bereit: geschützte Buchten und Pools an einem windigen Tag, die großen offenen Sandstrände wie Plaka oder Golden Beach, wenn es ruhig ist, und immer der frühe Morgen, bevor die Brise auffrischt.",
+      "es": "El viento, no el sol, es la variable que marca un día de playa aquí. Consultad una previsión del meltemi la noche antes y mantened un plan flexible: calas resguardadas y piscinas en un día ventoso, los grandes arenales abiertos como Plaka o Golden Beach cuando está en calma, y siempre la primera hora de la mañana antes de que la brisa se levante.",
+      "pt": "É o vento, não o sol, a variável que molda um dia de praia por aqui. Consultem uma previsão do meltemi na véspera e mantenham um plano flexível: enseadas abrigadas e piscinas num dia ventoso, os grandes areais abertos como Plaka ou Golden Beach quando está calmo, e sempre o início da manhã antes de a brisa aumentar."
     },
     "stats": [
       {
         "value": "8",
         "label": {
           "en": "Hotels we profiled",
-          "fr": "Hôtels passés au crible"
+          "fr": "Hôtels passés au crible",
+          "it": "Hotel analizzati",
+          "de": "Von uns geprüfte Hotels",
+          "es": "Hoteles que analizamos",
+          "pt": "Hotéis que analisámos"
         }
       },
       {
         "value": "2",
         "label": {
           "en": "Islands, one short ferry apart",
-          "fr": "Îles, un court ferry entre les deux"
+          "fr": "Îles, un court ferry entre les deux",
+          "it": "Isole, un breve traghetto tra le due",
+          "de": "Inseln, eine kurze Fähre voneinander entfernt",
+          "es": "Islas, a un corto ferry de distancia",
+          "pt": "Ilhas, a um curto ferry de distância"
         }
       },
       {
         "value": "24°C",
         "label": {
           "en": "Sea in August",
-          "fr": "Mer en août"
+          "fr": "Mer en août",
+          "it": "Mare ad agosto",
+          "de": "Meer im August",
+          "es": "Mar en agosto",
+          "pt": "Mar em agosto"
         }
       },
       {
         "value": "May to Oct",
         "label": {
           "en": "Family season",
-          "fr": "Saison famille"
+          "fr": "Saison famille",
+          "it": "Stagione per famiglie",
+          "de": "Familiensaison",
+          "es": "Temporada familiar",
+          "pt": "Época de família"
         }
       }
     ],
