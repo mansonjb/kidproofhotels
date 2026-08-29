@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META, COSTA_ALMERIA_META, PUNTA_CANA_META, FRENCH_ALPS_META, MAR_MENOR_META, NAXOS_PAROS_META, COSTA_NAVARINO_META, MARSA_ALAM_META, HAMMAMET_META, RIVIERA_MAYA_META, KEFALONIA_META, RIMINI_META, BELEK_META, ABU_DHABI_META, DISNEYLAND_PARIS_META, ALULA_META, JEDDAH_META, MALDIVES_META, SEYCHELLES_META, PHUKET_META, BALI_META, ZANZIBAR_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META, COSTA_ALMERIA_META, PUNTA_CANA_META, FRENCH_ALPS_META, MAR_MENOR_META, NAXOS_PAROS_META, COSTA_NAVARINO_META, MARSA_ALAM_META, HAMMAMET_META, RIVIERA_MAYA_META, KEFALONIA_META, RIMINI_META, BELEK_META, ABU_DHABI_META, DISNEYLAND_PARIS_META, ALULA_META, JEDDAH_META, MALDIVES_META, SEYCHELLES_META, PHUKET_META, BALI_META, ZANZIBAR_META, RAS_AL_KHAIMAH_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -118,6 +118,7 @@ const SEY = (SEYCHELLES_META ?? {}) as any;
 const PHU = (PHUKET_META ?? {}) as any;
 const BAL = (BALI_META ?? {}) as any;
 const ZAN = (ZANZIBAR_META ?? {}) as any;
+const RAK = (RAS_AL_KHAIMAH_META ?? {}) as any;
 
 // SEED content for the MVP. Geo coordinates are public. Hotel line-ups point at
 // entries in data/hotels.ts. Replace/extend with verified data before scaling.
@@ -2383,6 +2384,31 @@ export const DESTINATIONS: Destination[] = src([
     faqs: ZAN.faqs,
     parentTip: ZAN.parentTip,
     goodToKnow: ZAN.goodToKnow,
+  },
+  {
+    key: "ras-al-khaimah",
+    name: RAK.name ?? { en: "Ras Al Khaimah", fr: "Ras al-Khaïmah" },
+    country: RAK.country ?? { en: "United Arab Emirates", fr: "Émirats arabes unis" },
+    inPhrase: { en: "in Ras Al Khaimah", fr: "à Ras al-Khaïmah" },
+    slug: { en: "family-hotels-ras-al-khaimah", fr: "hotels-famille-ras-al-khaimah" },
+    geo: RAK.geo ?? { lat: 25.71, lng: 55.85, zoom: 10 },
+    heroKicker: RAK.heroKicker ?? {
+      en: "The value winter-sun UAE: big all-inclusive family beach resorts, cheaper than Dubai",
+      fr: "L'UAE soleil d'hiver malin : grands resorts famille all-inclusive, moins chers que Dubaï",
+    },
+    intro: RAK.intro ?? { en: "", fr: "" },
+    whyKids: RAK.whyKids ?? { en: [], fr: [] },
+    bestAreas: RAK.bestAreas ?? { en: [], fr: [] },
+    emoji: RAK.emoji ?? "🏖️",
+    accent: RAK.accent ?? "0d8b8b",
+    hotelKeys: [],
+    related: ["dubai", "abu-dhabi", "guide-winter-sun-2027", "guide-waterslide-hotels"],
+    photos: RAK.photos,
+    stats: RAK.stats,
+    activities: RAK.activities,
+    faqs: RAK.faqs,
+    parentTip: RAK.parentTip,
+    goodToKnow: RAK.goodToKnow,
   },
 ]);
 

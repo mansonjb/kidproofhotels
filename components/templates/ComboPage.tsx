@@ -106,7 +106,7 @@ export function ComboPage({
         ]}
       />
 
-      <header className="max-w-3xl">
+      <header>
         <p className="kicker mb-3">
           {amenity.emoji} {amenity.label[locale]} · {dest.name[locale]}
         </p>

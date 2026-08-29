@@ -30,7 +30,7 @@ export function DestinationsRanking({ locale, dict }: { locale: Locale; dict: Di
         ]}
       />
 
-      <header className="max-w-3xl">
+      <header>
         <p className="kicker mb-3">🏆 {dict.ranking.how}</p>
         <h1 className="font-display text-4xl leading-tight text-ink sm:text-5xl">{dict.ranking.title}</h1>
         <p className="mt-4 text-lg text-muted">{dict.ranking.dek}</p>

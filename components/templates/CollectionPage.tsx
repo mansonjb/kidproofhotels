@@ -35,7 +35,7 @@ export function CollectionPage({
         ]}
       />
 
-      <header className="max-w-3xl">
+      <header>
         <p className="kicker mb-3">{dict.collections.indexTitle}</p>
         <h1 className="font-display text-4xl leading-tight text-ink sm:text-5xl">
           <span className="mr-2">{collection.emoji}</span>
@@ -48,7 +48,7 @@ export function CollectionPage({
         <Photo img={collection.heroImg} alt={collection.title[locale]} w={1200} h={520} className="h-full w-full object-cover" eager />
       </div>
 
-      <p className="mt-8 max-w-3xl text-lg leading-relaxed text-ink-soft">{collection.intro[locale]}</p>
+      <p className="mt-8 text-lg leading-relaxed text-ink-soft">{collection.intro[locale]}</p>
 
       {collection.timing && (
         <Callout variant="tip" title={dict.collections.whenToGo}>

@@ -74,7 +74,7 @@ export function DestinationPage({
         ]}
       />
 
-      <header className="max-w-3xl">
+      <header>
         <p className="kicker mb-3">{dest.heroKicker[locale]}</p>
         <h1 className="font-display text-5xl leading-[1.03] text-ink sm:text-6xl">
           <span className="mr-2">{dest.emoji}</span>

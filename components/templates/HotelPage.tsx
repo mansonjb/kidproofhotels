@@ -83,7 +83,7 @@ export function HotelPage({
           <AgeChips ages={hotel.ages} dict={dict} />
           <PriceTag tier={hotel.priceTier} from={hotel.priceFrom} dict={dict} />
         </div>
-        <p className="mt-5 max-w-3xl text-lg leading-relaxed text-ink-soft">{hotel.intro[locale]}</p>
+        <p className="mt-5 text-lg leading-relaxed text-ink-soft">{hotel.intro[locale]}</p>
         {hotel.amenities && (
           <div className="mt-5">
             <AmenityChips ids={hotel.amenities} locale={locale} />

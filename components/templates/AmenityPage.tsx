@@ -54,7 +54,7 @@ export function AmenityPage({
         ]}
       />
 
-      <header className="max-w-3xl">
+      <header>
         <p className="kicker mb-3">{dict.browse.amenitiesTitle}</p>
         <h1 className="font-display text-4xl leading-tight text-ink sm:text-5xl">
           <span className="mr-2">{amenity.emoji}</span>
