@@ -1,5 +1,6 @@
 import type { Guide } from "@/lib/types";
 import { backfillDeep, src } from "@/lib/l10n";
+import guideMetaOverrides from "@/data/guide-meta-overrides.json";
 
 // Guide metadata. The article body for each lives in content/guides/{locale}/{key}.mdx
 // and is wired up in data/guide-content.ts.
@@ -938,5 +939,17 @@ export const GUIDES: Guide[] = src([
 ]);
 
 backfillDeep(GUIDES);
+
+// Real it/de/es/pt translations for title / dek / geoLabel, layered over the
+// English backfill above so localised metadata replaces the English fallback.
+for (const g of GUIDES) {
+  const o = (guideMetaOverrides as Record<string, Record<string, Record<string, string>>>)[g.key];
+  if (!o) continue;
+  for (const field of ["title", "dek", "geoLabel"] as const) {
+    if (!o[field]) continue;
+    const target = ((g as unknown as Record<string, Record<string, string>>)[field] ??= {});
+    Object.assign(target, o[field]);
+  }
+}
 
 export const GUIDE_BY_KEY = new Map(GUIDES.map((g) => [g.key, g]));

@@ -1,0 +1,602 @@
+{
+  "guide-allinclusive-europe": {
+    "title": {
+      "it": "I migliori resort all-inclusive per famiglie in Europa per il 2027",
+      "de": "Die besten All-inclusive-Familienresorts in Europa für 2027",
+      "es": "Los mejores resorts todo incluido para familias en Europa para 2027",
+      "pt": "Os melhores resorts com tudo incluído para famílias na Europa para 2027",
+      "en": "Best all-inclusive family resorts in Europe for 2027",
+      "fr": "Les meilleurs resorts tout compris en famille en Europe en 2027"
+    },
+    "dek": {
+      "it": "Otto resort con punteggio tra Grecia, Spagna e Italia, più come prenotare bene il 2027: dove l'all-inclusive conviene davvero a una famiglia, e i dettagli che distinguono un ottimo resort da uno stressante.",
+      "de": "Acht bewertete Resorts in Griechenland, Spanien und Italien, plus wie man 2027 richtig bucht: wo sich All-inclusive für eine Familie wirklich lohnt, und die Details, die ein großartiges Resort von einem stressigen unterscheiden.",
+      "es": "Ocho resorts puntuados entre Grecia, España e Italia, además de cómo reservar bien 2027: dónde el todo incluido compensa de verdad a una familia, y los detalles que separan un gran resort de uno estresante.",
+      "pt": "Oito resorts com pontuação entre a Grécia, a Espanha e a Itália, além de como reservar bem 2027: onde o tudo incluído compensa mesmo a uma família, e os detalhes que separam um ótimo resort de um stressante.",
+      "en": "Eight scored resorts across Greece, Spain and Italy, where all-inclusive genuinely pays off for a family and the details that separate a great week from a stressful one.",
+      "fr": "Huit resorts notés en Grèce, en Espagne et en Italie, là où le tout compris vaut vraiment le coup en famille et les détails qui séparent une belle semaine d'une semaine gâchée."
+    },
+    "geoLabel": {
+      "it": "il Mediterraneo",
+      "de": "das Mittelmeer",
+      "es": "el Mediterráneo",
+      "pt": "o Mediterrâneo"
+    }
+  },
+  "guide-baby-checklist": {
+    "title": {
+      "it": "Viaggiare con un neonato: la check-list dell'hotel",
+      "de": "Mit Baby verreisen: die Hotel-Check-Liste",
+      "es": "Viajar con un bebé: la lista de comprobación del hotel",
+      "pt": "Viajar com um bebé: a lista de verificação do hotel",
+      "en": "Travelling with a baby: the hotel checklist to run before you book",
+      "fr": "Voyager avec un bébé : la check-list à vérifier avant de réserver"
+    },
+    "dek": {
+      "it": "L'attrezzatura da confermare, le domande da fare e i piccoli dettagli che rendono davvero riposante un primo viaggio con un neonato.",
+      "de": "Die Ausstattung, die ihr klären solltet, die Fragen, die ihr stellen müsst, und die Kleinigkeiten, die eine erste Reise mit Baby wirklich erholsam machen.",
+      "es": "El equipamiento que confirmar, las preguntas que hacer y los pequeños detalles que hacen que un primer viaje con un bebé sea de verdad reparador.",
+      "pt": "O equipamento a confirmar, as perguntas a fazer e os pequenos pormenores que tornam uma primeira viagem com um bebé realmente descansada.",
+      "en": "The kit to confirm, the questions to ask, and the small things that make a first trip with a baby actually restful.",
+      "fr": "Le matériel à confirmer, les questions à poser et les petits détails qui rendent un premier voyage avec un bébé vraiment reposant."
+    }
+  },
+  "guide-cheap-allinclusive-europe": {
+    "title": {
+      "it": "Vacanze all-inclusive per famiglie più economiche in Europa per il 2027",
+      "de": "Die günstigsten All-inclusive-Familienurlaube in Europa für 2027",
+      "es": "Vacaciones familiares con todo incluido más baratas de Europa para 2027",
+      "pt": "Férias em família com tudo incluído mais baratas da Europa para 2027",
+      "en": "Cheapest all-inclusive family holidays in Europe for 2027",
+      "fr": "Vacances famille en tout compris pas cher en Europe en 2027"
+    },
+    "dek": {
+      "it": "Dove l'all-inclusive resta economico senza far crollare la settimana: otto resort per famiglie a basso costo valutati su ciò che conta davvero, con prezzi 2027 in tempo reale.",
+      "de": "Wo All-inclusive günstig bleibt, ohne dass die Woche auseinanderfällt: acht preiswerte Familienresorts, bewertet nach dem, was wirklich zählt, mit aktuellen Preisen für 2027.",
+      "es": "Dónde el todo incluido sigue siendo barato sin que la semana se venga abajo: ocho resorts familiares económicos valorados por lo que de verdad importa, con precios en directo para 2027.",
+      "pt": "Onde o tudo incluído continua barato sem que a semana desmorone: oito resorts familiares económicos avaliados pelo que realmente importa, com preços em tempo real para 2027.",
+      "en": "Where all-inclusive stays cheap without the week falling apart: eight budget family resorts scored on what actually matters, with live 2027 prices.",
+      "fr": "Là où le tout compris reste abordable sans gâcher la semaine : huit resorts familiaux économiques notés sur l'essentiel, avec les prix 2027 en direct."
+    },
+    "geoLabel": {
+      "it": "il Mediterraneo",
+      "de": "das Mittelmeer",
+      "es": "el Mediterráneo",
+      "pt": "o Mediterrâneo"
+    }
+  },
+  "guide-compare-allinclusive-not-turkey": {
+    "title": {
+      "it": "I migliori resort all-inclusive per famiglie in Europa, senza la Turchia, per il 2027",
+      "de": "Die besten All-inclusive-Familienresorts in Europa, ohne Türkei, für 2027",
+      "es": "Los mejores resorts familiares con todo incluido en Europa, sin Turquía, para 2027",
+      "pt": "Os melhores resorts familiares com tudo incluído na Europa, sem a Turquia, para 2027",
+      "en": "Best all-inclusive family resorts in Europe, without Turkey, for 2027",
+      "fr": "Les meilleurs resorts tout compris en famille en Europe, hors Turquie, pour 2027"
+    },
+    "dek": {
+      "it": "Preferisci restare dentro l'UE? Otto resort all-inclusive per famiglie tra Grecia, Spagna e Italia che competono con qualsiasi struttura di Antalya, valutati e mappati per il 2027.",
+      "de": "Lieber innerhalb der EU bleiben? Acht All-inclusive-Familienresorts in Griechenland, Spanien und Italien, die es mit allem in Antalya aufnehmen, bewertet und kartiert für 2027.",
+      "es": "¿Prefieres quedarte dentro de la UE? Ocho resorts familiares con todo incluido en Grecia, España e Italia que compiten con cualquier cosa en Antalya, puntuados y mapeados para 2027.",
+      "pt": "Preferes ficar dentro da UE? Oito resorts familiares com tudo incluído na Grécia, Espanha e Itália que competem com qualquer coisa em Antália, avaliados e mapeados para 2027.",
+      "en": "Prefer to stay inside the EU? Eight all-inclusive family resorts across Greece, Spain and Italy that rival anything in Antalya, scored and mapped for 2027.",
+      "fr": "Envie de rester dans l'UE ? Huit resorts tout compris en famille en Grèce, en Espagne et en Italie qui rivalisent avec Antalya, notés et cartographiés pour 2027."
+    },
+    "geoLabel": {
+      "it": "il Mediterraneo",
+      "de": "das Mittelmeer",
+      "es": "el Mediterráneo",
+      "pt": "o Mediterrâneo"
+    }
+  },
+  "guide-compare-canaries-balearics": {
+    "title": {
+      "it": "Canarie o Baleari in famiglia nel 2027",
+      "de": "Kanaren oder Balearen: Familienurlaub 2027 im Vergleich",
+      "es": "Canarias o Baleares en familia en 2027",
+      "pt": "Canárias ou Baleares em família em 2027",
+      "en": "Canary Islands vs the Balearics for families in 2027",
+      "fr": "Canaries ou Baléares en famille en 2027 ?"
+    },
+    "dek": {
+      "it": "Sole atlantico tutto l'anno o un breve salto estivo nel Mediterraneo? Come si confrontano davvero Canarie e Baleari per una famiglia, con otto resort valutati tra le due.",
+      "de": "Ganzjährige Atlantiksonne oder ein kurzer Sommersprung ans Mittelmeer? Wie sich Kanaren und Balearen für eine Familie wirklich vergleichen, mit acht bewerteten Resorts aus beiden.",
+      "es": "¿Sol atlántico todo el año o un salto veraniego corto al Mediterráneo? Cómo se comparan de verdad las Canarias y las Baleares para una familia, con ocho resorts puntuados entre ambas.",
+      "pt": "Sol atlântico todo o ano ou um salto curto de verão até ao Mediterrâneo? Como as Canárias e as Baleares se comparam mesmo para uma família, com oito resorts avaliados entre ambas.",
+      "en": "Year-round Atlantic sun or a short summer hop to the Med? How the Canaries and the Balearics really compare for a family, with eight scored resorts across both.",
+      "fr": "Soleil atlantique toute l'année ou courte escapade estivale en Méditerranée ? Comment les Canaries et les Baléares se comparent vraiment en famille, avec huit resorts notés."
+    }
+  },
+  "guide-compare-crete-rhodes": {
+    "title": {
+      "it": "Creta o Rodi in famiglia nel 2027",
+      "de": "Kreta oder Rhodos für Familien 2027",
+      "es": "Creta o Rodas en familia en 2027",
+      "pt": "Creta ou Rodes em família em 2027",
+      "en": "Crete vs Rhodes for families in 2027",
+      "fr": "Crète ou Rhodes en famille en 2027 ?"
+    },
+    "dek": {
+      "it": "Due delle migliori isole greche per famiglie, a confronto: quale è adatta ai piccolissimi, quale ai più grandi, e gli otto resort che prenoteremmo su ciascuna.",
+      "de": "Zwei der besten Familieninseln Griechenlands im Vergleich: welche zu Kleinkindern passt, welche zu älteren Kindern, und die acht Resorts, die wir auf jeder buchen würden.",
+      "es": "Dos de las mejores islas griegas para familias, cara a cara: cuál va con los pequeños, cuál con los mayores, y los ocho resorts que reservaríamos en cada una.",
+      "pt": "Duas das melhores ilhas gregas para famílias, lado a lado: qual combina com os pequeninos, qual com os mais velhos, e os oito resorts que reservaríamos em cada uma.",
+      "en": "Two of Greece's best family islands, side by side: which suits toddlers, which suits older kids, and the eight resorts we would book on each.",
+      "fr": "Deux des plus belles îles grecques en famille, face à face : laquelle pour les tout-petits, laquelle pour les plus grands, et les huit resorts qu'on réserverait sur chacune."
+    },
+    "geoLabel": {
+      "it": "le isole greche",
+      "de": "die griechischen Inseln",
+      "es": "las islas griegas",
+      "pt": "as ilhas gregas"
+    }
+  },
+  "guide-compare-greece-spain": {
+    "title": {
+      "it": "Grecia o Spagna per una vacanza in famiglia nel 2027",
+      "de": "Griechenland oder Spanien für den Familienurlaub 2027",
+      "es": "Grecia o España para unas vacaciones en familia en 2027",
+      "pt": "Grécia ou Espanha para umas férias em família em 2027",
+      "en": "Greece vs Spain for a family holiday in 2027",
+      "fr": "Grèce ou Espagne en famille en 2027 ?"
+    },
+    "dek": {
+      "it": "I due giganti della vacanza in famiglia in Europa, a confronto: chi vince sull'all-inclusive, chi vince sull'inverno e sui voli brevi, con otto resort valutati.",
+      "de": "Die beiden Giganten des europäischen Familienurlaubs im direkten Vergleich: Wer gewinnt beim All-inclusive, wer beim Winter und bei kurzen Flügen, mit acht bewerteten Resorts.",
+      "es": "Los dos gigantes de las vacaciones familiares en Europa, cara a cara: cuál gana en todo incluido, cuál gana en invierno y vuelos cortos, con ocho resorts puntuados.",
+      "pt": "Os dois gigantes das férias em família na Europa, frente a frente: quem vence no tudo incluído, quem vence no inverno e nos voos curtos, com oito resorts avaliados.",
+      "en": "The two giants of the European family holiday, side by side: which wins on all-inclusive, which wins on winter and short flights, with eight scored resorts.",
+      "fr": "Les deux géants des vacances famille en Europe, face à face : qui gagne sur le tout compris, qui gagne sur l'hiver et les vols courts, avec huit resorts notés."
+    }
+  },
+  "guide-compare-tenerife-grancanaria": {
+    "title": {
+      "it": "Tenerife o Gran Canaria in famiglia nel 2027",
+      "de": "Teneriffa oder Gran Canaria für Familien 2027",
+      "es": "Tenerife o Gran Canaria en familia en 2027",
+      "pt": "Tenerife ou Gran Canaria em família em 2027",
+      "en": "Tenerife vs Gran Canaria for families in 2027",
+      "fr": "Tenerife ou Gran Canaria en famille en 2027 ?"
+    },
+    "dek": {
+      "it": "Il derby delle Canarie: comfort e grandi resort, oppure varietà, convenienza e angolo cottura? Quattro resort per famiglie con punteggio su ciascuna isola, mappati per il 2027.",
+      "de": "Das Kanaren-Derby: Komfort und große Resorts oder Vielfalt, Preis-Leistung und Selbstversorgung? Vier bewertete Familienresorts auf jeder Insel, kartiert für 2027.",
+      "es": "El derbi de Canarias: confort y grandes resorts, o variedad, precio y cocina propia? Cuatro resorts familiares puntuados en cada isla, ubicados para 2027.",
+      "pt": "O dérbi das Canárias: conforto e grandes resorts, ou variedade, preço e cozinha própria? Quatro resorts para famílias com pontuação em cada ilha, mapeados para 2027.",
+      "en": "The Canaries derby: comfort and big resorts, or variety, value and self-catering? Four scored family resorts on each island, mapped for 2027.",
+      "fr": "Le derby des Canaries : confort et grands resorts, ou variété, budget et location ? Quatre resorts familiaux notés sur chaque île, cartographiés pour 2027."
+    },
+    "geoLabel": {
+      "it": "le Isole Canarie",
+      "de": "die Kanarischen Inseln",
+      "es": "las Islas Canarias",
+      "pt": "as Ilhas Canárias"
+    }
+  },
+  "guide-compare-winter-sun-regions": {
+    "title": {
+      "it": "Sole d'inverno a confronto: Canarie, Capo Verde o Mar Rosso per le famiglie nel 2027",
+      "de": "Wintersonne im Vergleich: Kanaren, Kap Verde oder Rotes Meer für Familien 2027",
+      "es": "Sol de invierno comparado: Canarias, Cabo Verde o mar Rojo para familias en 2027",
+      "pt": "Sol de inverno em comparação: Canárias, Cabo Verde ou mar Vermelho para famílias em 2027",
+      "en": "Winter sun compared: Canaries vs Cape Verde vs Red Sea for families in 2027",
+      "fr": "Soleil d'hiver comparé : Canaries, Cap-Vert ou mer Rouge en famille en 2027 ?"
+    },
+    "dek": {
+      "it": "Le tre opzioni di sole garantito per una famiglia europea in inverno, classificate per caldo, durata del volo e budget, con otto resort valutati tra le tre.",
+      "de": "Die drei Optionen für garantierte Sonne einer europäischen Familie im Winter, bewertet nach Wärme, Flugzeit und Budget, mit acht bewerteten Resorts über alle drei.",
+      "es": "Las tres opciones de sol garantizado para una familia europea en invierno, clasificadas por calor, tiempo de vuelo y presupuesto, con ocho resorts valorados entre las tres.",
+      "pt": "As três opções de sol garantido para uma família europeia no inverno, classificadas por calor, tempo de voo e orçamento, com oito resorts avaliados entre as três.",
+      "en": "The three guaranteed-sun options for a European family in winter, ranked on heat, flight time and budget, with eight scored resorts across all three.",
+      "fr": "Les trois options au soleil garanti pour une famille européenne en hiver, classées sur la chaleur, la durée de vol et le budget, avec huit resorts notés sur les trois."
+    }
+  },
+  "guide-connecting-rooms": {
+    "title": {
+      "it": "Camere comunicanti e suite familiari: cosa chiedere prima di prenotare",
+      "de": "Verbindungszimmer und Familiensuiten: was Sie vor der Buchung fragen sollten",
+      "es": "Habitaciones comunicadas y suites familiares: qué preguntar antes de reservar",
+      "pt": "Quartos comunicantes e suítes familiares: o que perguntar antes de reservar",
+      "en": "Connecting rooms and family suites: what to ask before you book",
+      "fr": "Chambres communicantes et suites familiales : les questions à poser avant de réserver"
+    },
+    "dek": {
+      "it": "La domanda numero uno delle famiglie, e quella a cui gli hotel rispondono peggio. Ecco come ottenere una camera in cui tutti entrano davvero.",
+      "de": "Die wichtigste Familienfrage, und die, die Hotels am schlechtesten beantworten. So bekommen Sie ein Zimmer, in das wirklich alle passen.",
+      "es": "La pregunta número uno de las familias, y la que peor responden los hoteles. Así consigues una habitación en la que todos caben de verdad.",
+      "pt": "A pergunta número um das famílias, e aquela a que os hotéis respondem pior. Eis como conseguir um quarto onde todos cabem de verdade.",
+      "en": "The number one family question, and the one hotels answer worst: here is how to get a room that actually fits everyone.",
+      "fr": "La question numéro un des familles, et celle que les hôtels traitent le plus mal : voici comment obtenir une chambre où tout le monde tient vraiment."
+    },
+    "geoLabel": {
+      "it": "il Mediterraneo",
+      "de": "das Mittelmeer",
+      "es": "el Mediterráneo",
+      "pt": "o Mediterrâneo"
+    }
+  },
+  "guide-crete-family": {
+    "title": {
+      "it": "I migliori hotel per famiglie a Creta per il 2027",
+      "de": "Die besten Familienhotels auf Kreta für 2027",
+      "es": "Los mejores hoteles familiares en Creta para 2027",
+      "pt": "Os melhores hotéis para famílias em Creta para 2027",
+      "en": "Best family hotels in Crete for 2027",
+      "fr": "Les meilleurs hôtels famille en Crète en 2027"
+    },
+    "dek": {
+      "it": "Otto resort di Creta valutati per le famiglie, dai grandi all-inclusive alle baie più tranquille, con mappa e prezzi in tempo reale per bloccare la tua settimana 2027.",
+      "de": "Acht Resorts auf Kreta für Familien bewertet, von großen All-inclusive-Anlagen bis zu ruhigeren Buchten, mit Karte und Live-Preisen, um Ihre Woche 2027 zu sichern.",
+      "es": "Ocho resorts de Creta puntuados para familias, desde grandes todo incluido hasta bahías más tranquilas, con mapa y precios en directo para asegurar tu semana de 2027.",
+      "pt": "Oito resorts de Creta avaliados para famílias, dos grandes tudo incluído às baías mais tranquilas, com mapa e preços em tempo real para garantir a tua semana de 2027.",
+      "en": "Eight Crete resorts scored for families, from big all-inclusives to calmer bays, with a map and live prices to lock your 2027 week.",
+      "fr": "Huit resorts crétois notés pour les familles, des grands tout compris aux baies plus calmes, avec carte et prix en direct pour caler votre semaine 2027."
+    },
+    "geoLabel": {
+      "it": "Creta",
+      "de": "Kreta",
+      "es": "Creta",
+      "pt": "Creta"
+    }
+  },
+  "guide-family-easter-2027": {
+    "title": {
+      "it": "Le migliori vacanze in famiglia per la Pasqua 2027",
+      "de": "Die besten Familienurlaube für Ostern 2027",
+      "es": "Las mejores vacaciones en familia para la Semana Santa 2027",
+      "pt": "As melhores férias em família para a Páscoa 2027",
+      "en": "Best family holidays for Easter 2027",
+      "fr": "Les meilleures vacances famille pour Pâques 2027"
+    },
+    "dek": {
+      "it": "Dove il Mediterraneo è abbastanza caldo per la Pasqua 2027: otto resort per famiglie tra il Mediterraneo meridionale e le Canarie, valutati e mappati.",
+      "de": "Wo das Mittelmeer zu Ostern 2027 warm genug ist: acht Familienresorts im südlichen Mittelmeer und auf den Kanaren, bewertet und kartiert.",
+      "es": "Dónde el Mediterráneo está lo bastante cálido para la Semana Santa 2027: ocho resorts para familias entre el Mediterráneo meridional y las Canarias, valorados y mapeados.",
+      "pt": "Onde o Mediterrâneo está quente o suficiente para a Páscoa 2027: oito resorts para famílias entre o Mediterrâneo do sul e as Canárias, avaliados e mapeados.",
+      "en": "Where the Mediterranean is warm enough by Easter 2027: eight family resorts across the southern Med and the Canaries, scored and mapped.",
+      "fr": "Là où la Méditerranée est déjà assez chaude à Pâques 2027 : huit resorts familiaux du sud de la Méditerranée aux Canaries, notés et cartographiés."
+    },
+    "geoLabel": {
+      "it": "il Mediterraneo meridionale",
+      "de": "das südliche Mittelmeer",
+      "es": "el Mediterráneo meridional",
+      "pt": "o Mediterrâneo do sul"
+    }
+  },
+  "guide-family-feb-half-term-2027": {
+    "title": {
+      "it": "Il miglior sole in famiglia per le vacanze di febbraio 2027",
+      "de": "Die beste Familiensonne für die Februar-Ferien 2027",
+      "es": "El mejor sol en familia para las vacaciones de febrero de 2027",
+      "pt": "O melhor sol em família para as férias de fevereiro de 2027",
+      "en": "Where to find family sun for February half-term 2027",
+      "fr": "Où trouver le soleil en famille pour les vacances de février 2027"
+    },
+    "dek": {
+      "it": "Una settimana, caldo garantito: otto resort che offrono sole invernale affidabile per le vacanze scolastiche di febbraio 2027, valutati e mappati.",
+      "de": "Eine Woche, garantierte Wärme: acht Resorts mit verlässlicher Wintersonne für die Februar-Ferien 2027, bewertet und kartiert.",
+      "es": "Una semana, calor garantizado: ocho resorts que ofrecen sol invernal fiable para las vacaciones escolares de febrero de 2027, puntuados y ubicados en el mapa.",
+      "pt": "Uma semana, calor garantido: oito resorts que oferecem sol de inverno fiável para as férias escolares de fevereiro de 2027, avaliados e mapeados.",
+      "en": "One week, guaranteed warmth: eight resorts that deliver reliable winter sun for the February 2027 school break, scored and mapped.",
+      "fr": "Une semaine, du chaud garanti : huit resorts au soleil d'hiver fiable pour les vacances de février 2027, notés et cartographiés."
+    },
+    "geoLabel": {
+      "it": "le Isole Canarie",
+      "de": "die Kanarischen Inseln",
+      "es": "las Islas Canarias",
+      "pt": "as Ilhas Canárias"
+    }
+  },
+  "guide-family-new-year-sun-2027": {
+    "title": {
+      "it": "Sole in famiglia per Natale e Capodanno 2027",
+      "de": "Familien-Sonne zu Weihnachten und Neujahr 2027",
+      "es": "Sol en familia para Navidad y Año Nuevo 2027",
+      "pt": "Sol em família para o Natal e o Ano Novo de 2027",
+      "en": "Where to find family sun for Christmas and New Year 2027",
+      "fr": "Où partir au soleil à Noël et au Nouvel An en famille en 2027"
+    },
+    "dek": {
+      "it": "Scambiate il freddo con una settimana di feste al caldo: otto resort per famiglie a Natale e Capodanno 2027, valutati e mappati, da prenotare presto.",
+      "de": "Tauscht die Kälte gegen eine warme Festtagswoche: acht Familienresorts für Weihnachten und Neujahr 2027, bewertet und kartiert, und früh zu buchen.",
+      "es": "Cambia el frío por una semana festiva al calor: ocho resorts familiares para Navidad y Año Nuevo 2027, puntuados y en el mapa, y que conviene reservar pronto.",
+      "pt": "Troca o frio por uma semana festiva ao calor: oito resorts para famílias no Natal e Ano Novo de 2027, avaliados e mapeados, e que compensa reservar cedo.",
+      "en": "Trade the cold for a warm festive week: eight family resorts for Christmas and New Year 2027, scored and mapped, and worth booking early.",
+      "fr": "Troquez le froid contre une semaine de fêtes au chaud : huit resorts familiaux pour Noël et le Nouvel An 2027, notés et cartographiés, à réserver tôt."
+    },
+    "geoLabel": {
+      "it": "le Isole Canarie",
+      "de": "die Kanarischen Inseln",
+      "es": "las Islas Canarias",
+      "pt": "as Ilhas Canárias"
+    }
+  },
+  "guide-family-oct-half-term-2027": {
+    "title": {
+      "it": "Il miglior sole di famiglia per le vacanze di metà ottobre 2027",
+      "de": "Die beste Familiensonne für die Herbstferien Ende Oktober 2027",
+      "es": "El mejor sol familiar para las vacaciones de finales de octubre de 2027",
+      "pt": "O melhor sol de família para as férias de fim de outubro de 2027",
+      "en": "Where to find family sun for October half-term 2027",
+      "fr": "Où trouver le soleil en famille pour les vacances de la Toussaint 2027"
+    },
+    "dek": {
+      "it": "Dove il mare è ancora caldo a fine ottobre 2027: otto resort per famiglie da Rodi alle Canarie, valutati e mappati.",
+      "de": "Wo das Meer Ende Oktober 2027 noch warm ist: acht Familienresorts von Rhodos bis zu den Kanaren, bewertet und kartiert.",
+      "es": "Dónde sigue caliente el mar a finales de octubre de 2027: ocho resorts familiares de Rodas a Canarias, valorados y mapeados.",
+      "pt": "Onde o mar ainda está quente no fim de outubro de 2027: oito resorts de família de Rodes às Canárias, avaliados e mapeados.",
+      "en": "Where the sea is still warm in late October 2027: eight family resorts from Rhodes to the Canaries, scored and mapped.",
+      "fr": "Là où la mer est encore chaude fin octobre 2027 : huit resorts familiaux de Rhodes aux Canaries, notés et cartographiés."
+    },
+    "geoLabel": {
+      "it": "il Mediterraneo",
+      "de": "das Mittelmeer",
+      "es": "el Mediterráneo",
+      "pt": "o Mediterrâneo"
+    }
+  },
+  "guide-family-ski-allinclusive-2027": {
+    "title": {
+      "it": "I migliori resort sciistici all-inclusive per famiglie per il 2027",
+      "de": "Die besten All-inclusive-Familien-Skiresorts für 2027",
+      "es": "Los mejores resorts de esquí todo incluido para familias en 2027",
+      "pt": "Os melhores resorts de esqui com tudo incluído para famílias em 2027",
+      "en": "Best all-inclusive family ski resorts for 2027",
+      "fr": "Les meilleurs resorts de ski tout compris en famille pour 2027"
+    },
+    "dek": {
+      "it": "Vacanze sulla neve in cui lezioni, assistenza ai bambini e skipass sono già risolti: sei villaggi Club Med per famiglie sulle Alpi francesi, valutati e mappati per il 2027.",
+      "de": "Skiurlaube, bei denen Kurse, Kinderbetreuung und Liftpässe schon geregelt sind: sechs Club-Med-Familiendörfer in den französischen Alpen, bewertet und kartiert für 2027.",
+      "es": "Vacaciones de esquí donde las clases, el cuidado de los niños y los forfaits ya están resueltos: seis pueblos Club Med para familias en los Alpes franceses, evaluados y ubicados en el mapa para 2027.",
+      "pt": "Férias de esqui em que as aulas, a assistência às crianças e os passes de teleférico já estão resolvidos: seis aldeias Club Med para famílias nos Alpes franceses, avaliadas e mapeadas para 2027.",
+      "en": "Ski holidays where lessons, childcare and lift passes are already sorted: six Club Med family villages in the French Alps, scored and mapped for 2027.",
+      "fr": "Des séjours au ski où cours, garde d'enfants et forfaits sont déjà réglés : six villages Club Med familiaux dans les Alpes françaises, notés et cartographiés pour 2027."
+    },
+    "geoLabel": {
+      "it": "le Alpi francesi",
+      "de": "die französischen Alpen",
+      "es": "los Alpes franceses",
+      "pt": "os Alpes franceses"
+    }
+  },
+  "guide-family-summer-2027": {
+    "title": {
+      "it": "Le migliori vacanze estive in famiglia per il 2027",
+      "de": "Die besten Familien-Sommerferien für 2027",
+      "es": "Las mejores vacaciones de verano en familia para 2027",
+      "pt": "As melhores férias de verão em família para 2027",
+      "en": "Best family summer holidays for 2027",
+      "fr": "Les meilleures vacances d'été en famille en 2027"
+    },
+    "dek": {
+      "it": "Gli otto villaggi del Mediterraneo che prenoteremmo per il cuore dell'estate 2027, dalla Grecia alla Spagna, valutati su camere, miniclub, cucina e spiaggia.",
+      "de": "Die acht Mittelmeeranlagen, die wir für den Hochsommer 2027 buchen würden, von Griechenland bis Spanien, bewertet nach Zimmern, Kinderclub, Essen und Strand.",
+      "es": "Los ocho complejos del Mediterráneo que reservaríamos para el pleno verano de 2027, de Grecia a España, valorados por habitaciones, miniclub, comida y playa.",
+      "pt": "Os oito resorts do Mediterrâneo que reservaríamos para o pico do verão de 2027, da Grécia a Espanha, avaliados por quartos, clube infantil, comida e praia.",
+      "en": "The eight Mediterranean resorts we would book for peak summer 2027, from Greece to Spain, scored on rooms, kids club, food and beach.",
+      "fr": "Les huit resorts méditerranéens qu'on réserverait pour le plein été 2027, de la Grèce à l'Espagne, notés sur les chambres, le club enfants, la table et la plage."
+    },
+    "geoLabel": {
+      "it": "il Mediterraneo",
+      "de": "das Mittelmeer",
+      "es": "el Mediterráneo",
+      "pt": "o Mediterrâneo"
+    }
+  },
+  "guide-greece-family": {
+    "title": {
+      "it": "I migliori hotel per famiglie in Grecia per il 2027",
+      "de": "Die besten Familienhotels in Griechenland für 2027",
+      "es": "Los mejores hoteles familiares de Grecia para 2027",
+      "pt": "Os melhores hotéis para famílias na Grécia para 2027",
+      "en": "Best family hotels in Greece for 2027",
+      "fr": "Les meilleurs hôtels famille en Grèce en 2027"
+    },
+    "dek": {
+      "it": "Gli otto resort greci che prenoteremmo per una vacanza in famiglia nel 2027, valutati su camere, kids club, cibo e spiaggia, da Halkidiki alle isole.",
+      "de": "Die acht griechischen Resorts, die wir für einen Familienurlaub 2027 buchen würden, bewertet nach Zimmern, Kinderclub, Essen und Strand, von Halkidiki bis zu den Inseln.",
+      "es": "Los ocho resorts griegos que reservaríamos para unas vacaciones familiares en 2027, valorados por habitaciones, club infantil, comida y playa, de Halkidiki a las islas.",
+      "pt": "Os oito resorts gregos que reservaríamos para umas férias em família em 2027, avaliados por quartos, clube infantil, comida e praia, de Halkidiki às ilhas.",
+      "en": "The eight Greek resorts we would book for a 2027 family holiday, scored on rooms, kids club, food and beach, from Halkidiki to the islands.",
+      "fr": "Les huit resorts grecs qu'on réserverait pour des vacances en famille en 2027, notés sur les chambres, le club enfants, la table et la plage, de la Halkidiki aux îles."
+    },
+    "geoLabel": {
+      "it": "Grecia",
+      "de": "Griechenland",
+      "es": "Grecia",
+      "pt": "Grécia"
+    }
+  },
+  "guide-kids-club-free": {
+    "title": {
+      "it": "Club per bambini gratuiti o a pagamento: cosa verificare prima di prenotare",
+      "de": "Kostenlose oder kostenpflichtige Kids-Clubs: was ihr vor der Buchung prüfen solltet",
+      "es": "Clubs infantiles gratuitos o de pago: qué comprobar antes de reservar",
+      "pt": "Clubes infantis gratuitos ou pagos: o que verificar antes de reservar",
+      "en": "Free vs paid kids clubs: what to check before you book",
+      "fr": "Clubs enfants gratuits ou payants : ce qu'il faut vérifier avant de réserver"
+    },
+    "dek": {
+      "it": "Un club da 50 a 100 euro al giorno cambia i conti di una vacanza. Ecco come distinguere un vero club gratuito da uno di facciata.",
+      "de": "Ein Club für 50 bis 100 Euro am Tag verändert die Urlaubsrechnung. So erkennt ihr einen echten kostenlosen Club von einem Alibi-Angebot.",
+      "es": "Un club de 50 a 100 euros al día cambia las cuentas de unas vacaciones. Así se distingue un club gratuito de verdad de uno de fachada.",
+      "pt": "Um clube de 50 a 100 euros por dia muda as contas das férias. Veja como distinguir um verdadeiro clube gratuito de um de fachada.",
+      "en": "A club at 50 to 100 euros a day changes the maths of a holiday: here is how to tell a real free club from a token one.",
+      "fr": "Un club à 50 ou 100 euros par jour change le calcul des vacances : voici comment distinguer un vrai club gratuit d'un club de façade."
+    },
+    "geoLabel": {
+      "it": "il Mediterraneo",
+      "de": "das Mittelmeer",
+      "es": "el Mediterráneo",
+      "pt": "o Mediterrâneo"
+    }
+  },
+  "guide-mallorca-family": {
+    "title": {
+      "it": "I migliori hotel per famiglie a Mallorca nel 2027",
+      "de": "Die besten Familienhotels auf Mallorca für 2027",
+      "es": "Los mejores hoteles familiares en Mallorca para 2027",
+      "pt": "Os melhores hotéis para famílias em Mallorca para 2027",
+      "en": "Best family hotels in Mallorca for 2027",
+      "fr": "Les meilleurs hôtels famille à Majorque en 2027"
+    },
+    "dek": {
+      "it": "Otto resort di Mallorca valutati per le famiglie, da Alcudia a Palmanova, con una mappa e prezzi in tempo reale per prenotare il 2027 con sicurezza.",
+      "de": "Acht Mallorca-Resorts für Familien bewertet, von Alcudia bis Palmanova, mit einer Karte und Live-Preisen, um 2027 sicher zu buchen.",
+      "es": "Ocho resorts de Mallorca puntuados para familias, de Alcudia a Palmanova, con un mapa y precios en tiempo real para reservar 2027 con confianza.",
+      "pt": "Oito resorts de Mallorca avaliados para famílias, de Alcudia a Palmanova, com um mapa e preços em tempo real para reservar 2027 com confiança.",
+      "en": "Eight Mallorca resorts scored for families, from Alcudia to Palmanova, with a map and live prices to book 2027 with confidence.",
+      "fr": "Huit resorts de Majorque notés pour les familles, d'Alcudia à Palmanova, avec carte et prix en direct pour réserver 2027 en toute confiance."
+    },
+    "geoLabel": {
+      "it": "Mallorca",
+      "de": "Mallorca",
+      "es": "Mallorca",
+      "pt": "Mallorca"
+    }
+  },
+  "guide-rhodes-family": {
+    "title": {
+      "it": "I migliori hotel per famiglie a Rodi per il 2027",
+      "de": "Die besten Familienhotels auf Rhodos für 2027",
+      "es": "Los mejores hoteles familiares en Rodas para 2027",
+      "pt": "Os melhores hotéis para famílias em Rodes para 2027",
+      "en": "Best family hotels in Rhodes for 2027",
+      "fr": "Les meilleurs hôtels famille à Rhodes en 2027"
+    },
+    "dek": {
+      "it": "Otto resort di Rodi valutati per le famiglie, da Lindos a Kiotari, con una mappa e prezzi in tempo reale per confrontare fianco a fianco le date del 2027.",
+      "de": "Acht Resorts auf Rhodos, für Familien bewertet, von Lindos bis Kiotari, mit Karte und Live Preisen, damit Sie die Termine 2027 direkt vergleichen können.",
+      "es": "Ocho resorts de Rodas puntuados para familias, de Lindos a Kiotari, con un mapa y precios en directo para comparar fechas de 2027 una al lado de otra.",
+      "pt": "Oito resorts de Rodes avaliados para famílias, de Lindos a Kiotari, com um mapa e preços em tempo real para comparar as datas de 2027 lado a lado.",
+      "en": "Eight Rhodes resorts scored for families, from Lindos to Kiotari, with a map and live prices so you can compare 2027 dates side by side.",
+      "fr": "Huit resorts de Rhodes notés pour les familles, de Lindos à Kiotari, avec carte et prix en direct pour comparer vos dates 2027 côte à côte."
+    },
+    "geoLabel": {
+      "it": "Rodi",
+      "de": "Rhodos",
+      "es": "Rodas",
+      "pt": "Rodes"
+    }
+  },
+  "guide-spain-beach-family": {
+    "title": {
+      "it": "I migliori resort al mare per famiglie in Spagna per il 2027",
+      "de": "Die besten Familien-Strandresorts in Spanien für 2027",
+      "es": "Los mejores resorts de playa para familias en España en 2027",
+      "pt": "Os melhores resorts de praia para famílias na Espanha em 2027",
+      "en": "Best family beach resorts in Spain for 2027",
+      "fr": "Les meilleurs resorts de plage en famille en Espagne en 2027"
+    },
+    "dek": {
+      "it": "Otto resort al mare spagnoli valutati per le famiglie, dalle Canarie alla Costa del Sol, con mappa e prezzi in tempo reale per il 2027.",
+      "de": "Acht spanische Strandresorts für Familien bewertet, von den Kanaren bis zur Costa del Sol, mit Karte und Live-Preisen für 2027.",
+      "es": "Ocho resorts de playa españoles puntuados para familias, de Canarias a la Costa del Sol, con mapa y precios en directo para 2027.",
+      "pt": "Oito resorts de praia espanhóis avaliados para famílias, das Canárias à Costa del Sol, com mapa e preços em tempo real para 2027.",
+      "en": "Eight Spanish beach resorts scored for families, from the Canaries to the Costa del Sol, with a map and live prices for 2027.",
+      "fr": "Huit resorts de plage espagnols notés pour les familles, des Canaries à la Costa del Sol, avec carte et prix en direct pour 2027."
+    },
+    "geoLabel": {
+      "it": "Spagna",
+      "de": "Spanien",
+      "es": "España",
+      "pt": "Espanha"
+    }
+  },
+  "guide-toddler-hotels-europe": {
+    "title": {
+      "it": "I migliori hotel famiglia per bimbi piccoli in Europa nel 2027",
+      "de": "Die besten Familienhotels für Kleinkinder in Europa 2027",
+      "es": "Los mejores hoteles familiares para niños pequeños en Europa en 2027",
+      "pt": "Os melhores hotéis de família para crianças pequenas na Europa em 2027",
+      "en": "Best family hotels for toddlers in Europe for 2027",
+      "fr": "Les meilleurs hôtels famille pour les tout-petits en Europe en 2027"
+    },
+    "dek": {
+      "it": "Otto resort che funzionano davvero con un bimbo da uno a quattro anni: piscine basse, vere camere famiglia e spiagge tranquille, valutati e mappati per il 2027.",
+      "de": "Acht Resorts, die mit einem Kind von ein bis vier Jahren wirklich funktionieren: flache Pools, echte Familienzimmer und ruhige Strände, bewertet und kartiert für 2027.",
+      "es": "Ocho resorts que de verdad funcionan con un niño de uno a cuatro años: piscinas poco profundas, verdaderas habitaciones familiares y playas tranquilas, valorados y mapeados para 2027.",
+      "pt": "Oito resorts que funcionam mesmo com uma criança de um a quatro anos: piscinas rasas, verdadeiros quartos de família e praias calmas, avaliados e mapeados para 2027.",
+      "en": "Eight resorts that genuinely work with a one to four year old: shallow pools, real family rooms and calm beaches, scored and mapped for 2027.",
+      "fr": "Huit resorts vraiment pensés pour un enfant de un à quatre ans : piscines peu profondes, vraies chambres familiales et plages calmes, notés et cartographiés pour 2027."
+    },
+    "geoLabel": {
+      "it": "il Mediterraneo",
+      "de": "das Mittelmeer",
+      "es": "el Mediterráneo",
+      "pt": "o Mediterrâneo"
+    }
+  },
+  "guide-water-park-europe": {
+    "title": {
+      "it": "I migliori hotel per famiglie con parco acquatico in Europa per il 2027",
+      "de": "Die besten Familienhotels mit Wasserpark in Europa für 2027",
+      "es": "Los mejores hoteles familiares con parque acuático en Europa para 2027",
+      "pt": "Os melhores hotéis para famílias com parque aquático na Europa para 2027",
+      "en": "Best family hotels with a water park in Europe for 2027",
+      "fr": "Les meilleurs hôtels famille avec parc aquatique en Europe en 2027"
+    },
+    "dek": {
+      "it": "Resort dove il parco acquatico è abbastanza grande da riempire un'intera vacanza, valutati per le famiglie e mappati per confrontare le date del 2027.",
+      "de": "Resorts, in denen der Wasserpark groß genug ist, um einen ganzen Urlaub zu füllen, für Familien bewertet und kartiert, damit Sie die Termine 2027 vergleichen können.",
+      "es": "Resorts donde el parque acuático es lo bastante grande para llenar unas vacaciones enteras, valorados para familias y mapeados para que compares las fechas de 2027.",
+      "pt": "Resorts onde o parque aquático é grande o suficiente para preencher umas férias inteiras, avaliados para famílias e mapeados para comparar as datas de 2027.",
+      "en": "Resorts where the water park is big enough to fill a whole holiday, scored for families and mapped so you can compare 2027 dates.",
+      "fr": "Des resorts où le parc aquatique suffit à remplir toute une semaine, notés pour les familles et cartographiés pour comparer vos dates 2027."
+    },
+    "geoLabel": {
+      "it": "il Mediterraneo",
+      "de": "das Mittelmeer",
+      "es": "el Mediterráneo",
+      "pt": "o Mediterrâneo"
+    }
+  },
+  "guide-waterslide-hotels": {
+    "title": {
+      "it": "Hotel con scivoli d'acqua da cui i vostri figli non vorranno più andarsene",
+      "de": "Hotels mit Wasserrutschen, von denen eure Kinder nie wieder weg wollen",
+      "es": "Hoteles con toboganes de agua que tus hijos nunca querrán dejar",
+      "pt": "Hotéis com escorregas de água de onde os vossos filhos nunca vão querer sair",
+      "en": "Hotels with water slides your kids will never want to leave",
+      "fr": "Des hôtels avec toboggans que vos enfants ne voudront plus quitter"
+    },
+    "dek": {
+      "it": "Nell'età degli scivoli d'acqua, la piscina è la vacanza. Ecco i resort costruiti attorno a lei, valutati anche sulla sicurezza e sulla parte bassa.",
+      "de": "Im Wasserrutschen-Alter ist der Pool der Urlaub. Das sind die Resorts, die um ihn herum gebaut sind, bewertet auch nach Sicherheit und flachem Ende.",
+      "es": "En la edad de los toboganes de agua, la piscina es las vacaciones. Estos son los resorts construidos en torno a ella, valorados también por la seguridad y la parte poco profunda.",
+      "pt": "Na idade dos escorregas de água, a piscina é as férias. Estes são os resorts construídos em torno dela, avaliados também pela segurança e pela parte rasa.",
+      "en": "For the water-slide age, the pool is the holiday: these are the resorts built around it, scored on safety and the shallow end too.",
+      "fr": "À l'âge des toboggans, la piscine, c'est les vacances : voici les resorts pensés autour de l'eau, notés sur la sécurité et sur le petit bain aussi."
+    },
+    "geoLabel": {
+      "it": "il Mediterraneo",
+      "de": "das Mittelmeer",
+      "es": "el Mediterráneo",
+      "pt": "o Mediterrâneo"
+    }
+  },
+  "guide-winter-sun-2027": {
+    "title": {
+      "it": "Vacanze famiglia al sole d'inverno 2027",
+      "de": "Familienurlaub in der Wintersonne 2027",
+      "es": "Vacaciones familiares al sol de invierno 2027",
+      "pt": "Férias em família ao sol de inverno 2027",
+      "en": "Best winter sun holidays for families in 2027",
+      "fr": "Où partir au soleil en hiver en famille en 2027"
+    },
+    "dek": {
+      "it": "Dove una famiglia europea può ancora trovare vero caldo da novembre a marzo 2027: otto resort a sole garantito, valutati e mappati, dalle Canarie al Mar Rosso.",
+      "de": "Wo eine europäische Familie von November bis März 2027 noch echte Wärme findet: acht sonnensichere Resorts, bewertet und kartiert, von den Kanaren bis zum Roten Meer.",
+      "es": "Dónde una familia europea aún puede encontrar calor de verdad de noviembre a marzo de 2027: ocho resorts con sol asegurado, evaluados y mapeados, de las Canarias al Mar Rojo.",
+      "pt": "Onde uma família europeia ainda pode encontrar calor a sério de novembro a março de 2027: oito resorts com sol garantido, avaliados e mapeados, das Canárias ao Mar Vermelho.",
+      "en": "Where a European family can still find real warmth from November to March 2027: eight sun-sure resorts scored and mapped, from the Canaries to the Red Sea.",
+      "fr": "Où une famille européenne trouve encore une vraie chaleur de novembre à mars 2027 : huit destinations au soleil garanti, notées et cartographiées, des Canaries à la mer Rouge."
+    },
+    "geoLabel": {
+      "it": "le Isole Canarie",
+      "de": "die Kanarischen Inseln",
+      "es": "las Islas Canarias",
+      "pt": "as Ilhas Canárias"
+    }
+  }
+}

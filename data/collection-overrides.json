@@ -1,0 +1,222 @@
+{
+  "winter-sun": {
+    "title": {
+      "it": "Vacanze al sole d'inverno per famiglie",
+      "de": "Familienurlaub in der Wintersonne",
+      "es": "Vacaciones de sol invernal en familia",
+      "pt": "Férias de sol de inverno em família"
+    },
+    "dek": {
+      "it": "Dove trovare mare caldo, transfer brevi e un vero miniclub quando a casa è tutto grigio. Ogni hotel valutato pensando alle famiglie.",
+      "de": "Wo warmes Meer, kurze Transfers und ein echter Kinderclub warten, während es zu Hause grau ist. Jedes Hotel für Familien bewertet.",
+      "es": "Dónde encontrar mar cálido, traslados cortos y un club infantil de verdad cuando en casa todo es gris. Cada hotel valorado para familias.",
+      "pt": "Onde encontrar mar quente, transfers curtos e um verdadeiro clube infantil quando lá em casa está tudo cinzento. Cada hotel avaliado a pensar nas famílias."
+    },
+    "intro": {
+      "it": "Da fine ottobre le Canarie e la Costa del Sol tengono acceso il sole mentre il Nord Europa si spegne. Sono questi gli hotel per famiglie che rendono davvero possibile una fuga invernale con i bambini: piscine calde e poco profonde, alternative al coperto per le sere più fresche e miniclub aperti anche in bassa stagione. Prenotati per tempo, sono il sole col miglior rapporto qualità-prezzo di tutto l'anno.",
+      "de": "Ab Ende Oktober halten die Kanaren und die südliche Costa die Sonne am Laufen, während Nordeuropa in den Grau-Modus schaltet. Das sind die Familienhotels, die eine Winterflucht mit Kindern gelingen lassen: warme, flache Pools, Alternativen für drinnen an kühlen Abenden und Clubs, die auch außerhalb der Saison öffnen. Früh gebucht ist es die Sonne mit dem besten Preis-Leistungs-Verhältnis des Jahres.",
+      "es": "Desde finales de octubre, las Canarias y la Costa del Sol mantienen el sol encendido mientras el norte de Europa se apaga. Estos son los hoteles familiares que hacen que una escapada de invierno funcione con niños: piscinas cálidas y poco profundas, opciones cubiertas para las tardes más frescas y clubes que abren también fuera de temporada. Reservados con antelación, son el sol con mejor relación calidad-precio del año.",
+      "pt": "A partir do final de outubro, as Canárias e a Costa del Sol mantêm o sol aceso enquanto o norte da Europa se apaga. Estes são os hotéis para famílias que fazem uma fuga de inverno resultar com crianças: piscinas quentes e pouco fundas, opções cobertas para as noites mais frescas e clubes que funcionam fora de época. Reservados com antecedência, são o sol com a melhor relação qualidade-preço do ano."
+    },
+    "timing": {
+      "it": "Periodo migliore da novembre a marzo. Prenota con 2-4 mesi di anticipo per avere le camere migliori.",
+      "de": "Am besten von November bis März. Buche 2 bis 4 Monate im Voraus für die besten Zimmer.",
+      "es": "Mejor de noviembre a marzo. Reserva con 2 a 4 meses de antelación para conseguir las mejores habitaciones.",
+      "pt": "Melhor de novembro a março. Reserve com 2 a 4 meses de antecedência para garantir os melhores quartos."
+    },
+    "faqs": [
+      {
+        "q": {
+          "it": "Dove fa più caldo in Europa d'inverno?",
+          "de": "Wo ist es im Winter in Europa am wärmsten?",
+          "es": "¿Dónde hace más calor en Europa en invierno?",
+          "pt": "Onde é mais quente na Europa no inverno?"
+        },
+        "a": {
+          "it": "Tenerife e le Canarie restano miti per tutto l'inverno (20-24 °C di giorno), più calde della Spagna continentale. La Costa del Sol è un po' più fresca, ma comunque soleggiata.",
+          "de": "Teneriffa und die Kanaren bleiben den ganzen Winter über mild (tagsüber 20 bis 24 °C), wärmer als das spanische Festland. Die Costa del Sol ist etwas kühler, aber trotzdem sonnig.",
+          "es": "Tenerife y las Canarias se mantienen templadas todo el invierno (20 a 24 °C de día), más cálidas que la península. La Costa del Sol es algo más fresca, pero sigue siendo soleada.",
+          "pt": "Tenerife e as Canárias mantêm-se amenas todo o inverno (20 a 24 °C durante o dia), mais quentes do que a Espanha continental. A Costa del Sol é um pouco mais fresca, mas continua soalheira."
+        }
+      },
+      {
+        "q": {
+          "it": "Il mare è abbastanza caldo per fare il bagno?",
+          "de": "Ist das Meer warm genug zum Baden?",
+          "es": "¿El mar está lo bastante cálido para bañarse?",
+          "pt": "O mar está quente o suficiente para nadar?"
+        },
+        "a": {
+          "it": "Alle Canarie il mare è balneabile quasi tutto l'inverno per i bambini più temerari, ma una piscina riscaldata dell'hotel è la scelta più sicura. Segnaliamo le piscine riscaldate su ogni hotel.",
+          "de": "Auf den Kanaren ist das Meer fast den ganzen Winter über für hartgesottene Kinder zum Schwimmen geeignet, doch ein beheizter Hotelpool ist die sicherere Wahl. Wir kennzeichnen beheizte Pools bei jedem Hotel.",
+          "es": "En Canarias el mar es apto para el baño casi todo el invierno para los niños más valientes, pero una piscina climatizada del hotel es la apuesta más segura. Señalamos las piscinas climatizadas en cada hotel.",
+          "pt": "Nas Canárias o mar dá para nadar quase todo o inverno para as crianças mais destemidas, mas uma piscina aquecida do hotel é a aposta mais segura. Assinalamos as piscinas aquecidas em cada hotel."
+        }
+      }
+    ]
+  },
+  "october-half-term": {
+    "title": {
+      "it": "Vacanze al sole per le famiglie nelle ferie d'autunno di ottobre",
+      "de": "Herbstferien-Familienurlaub im Oktober in der Sonne",
+      "es": "Vacaciones al sol en familia para el puente de otoño de octubre",
+      "pt": "Férias de sol em família nas férias de outono de outubro"
+    },
+    "dek": {
+      "it": "Una settimana, clima caldo e hotel con il miniclub ancora aperto. Le fughe autunnali che conviene prenotare adesso.",
+      "de": "Eine Woche, warmes Wetter und Hotels, deren Kinderclub noch geöffnet hat. Die Herbstauszeiten, die man jetzt buchen sollte.",
+      "es": "Una semana, buen tiempo y hoteles con el club infantil todavía abierto. Las escapadas de otoño que conviene reservar ya.",
+      "pt": "Uma semana, tempo quente e hotéis com o clube infantil ainda aberto. As escapadas de outono que vale a pena reservar já."
+    },
+    "intro": {
+      "it": "Le ferie d'autunno sono l'ultimo sole facile dell'anno, e i buoni hotel per famiglie vanno esauriti presto perché tutti vogliono la stessa settimana. Questi soggiorni tengono aperto il miniclub fino a fine ottobre, mantengono le piscine calde e sono a breve transfer dall'aeroporto, così una sola settimana sembra davvero una vacanza. Prenota entro fine estate per avere le camere migliori.",
+      "de": "Die Herbstferien sind die letzte unkomplizierte Sonne des Jahres, und die guten Familienhotels sind schnell ausgebucht, weil alle dieselbe Woche wollen. Diese Häuser lassen ihren Kinderclub bis Ende Oktober laufen, halten die Pools warm und liegen nur einen kurzen Transfer vom Flughafen entfernt, sodass sich eine einzige Woche wirklich wie Urlaub anfühlt. Buche bis zum Spätsommer für die beste Zimmerauswahl.",
+      "es": "El puente de otoño es el último sol fácil del año, y los buenos hoteles familiares se agotan pronto porque todos quieren la misma semana. Estos alojamientos mantienen su club infantil abierto hasta finales de octubre, conservan las piscinas cálidas y quedan a un traslado corto del aeropuerto, así que una sola semana se siente de verdad como unas vacaciones. Reserva antes de que acabe el verano para elegir las mejores habitaciones.",
+      "pt": "As férias de outono são o último sol fácil do ano, e os bons hotéis para famílias esgotam cedo porque toda a gente quer a mesma semana. Estas estadias mantêm o clube infantil a funcionar até ao final de outubro, conservam as piscinas quentes e ficam a um transfer curto do aeroporto, por isso uma única semana parece mesmo umas férias. Reserve até ao fim do verão para escolher os melhores quartos."
+    },
+    "timing": {
+      "it": "Per fine ottobre. Prenota entro agosto per avere le migliori camere familiari.",
+      "de": "Für Ende Oktober. Buche bis August für die besten Familienzimmer.",
+      "es": "Para finales de octubre. Reserva antes de agosto para conseguir las mejores habitaciones familiares.",
+      "pt": "Para o final de outubro. Reserve até agosto para garantir os melhores quartos familiares."
+    },
+    "faqs": [
+      {
+        "q": {
+          "it": "Dove fa caldo per le ferie d'autunno di ottobre?",
+          "de": "Wo ist es in den Oktober-Herbstferien warm?",
+          "es": "¿Dónde hace calor en el puente de otoño de octubre?",
+          "pt": "Onde faz calor nas férias de outono de outubro?"
+        },
+        "a": {
+          "it": "Tenerife è la scelta calda più sicura a fine ottobre. L'Algarve, la Costa del Sol e Creta sono di solito ancora miti e soleggiate, con il mare caldo dopo l'estate.",
+          "de": "Teneriffa ist Ende Oktober die sicherste warme Wahl. Die Algarve, die Costa del Sol und Kreta sind meist noch mild und sonnig, mit vom Sommer warmem Meer.",
+          "es": "Tenerife es la apuesta cálida más segura a finales de octubre. El Algarve, la Costa del Sol y Creta suelen seguir templados y soleados, con el mar cálido tras el verano.",
+          "pt": "Tenerife é a aposta quente mais segura no final de outubro. O Algarve, a Costa del Sol e Creta costumam continuar amenos e soalheiros, com o mar quente do verão."
+        }
+      },
+      {
+        "q": {
+          "it": "Il miniclub sarà ancora aperto?",
+          "de": "Ist der Kinderclub dann noch geöffnet?",
+          "es": "¿El club infantil seguirá abierto?",
+          "pt": "O clube infantil ainda estará aberto?"
+        },
+        "a": {
+          "it": "Nei resort più grandi sì, anche se gli orari possono ridursi in bassa stagione. Indichiamo lo stato del miniclub su ogni hotel, così non ci sono sorprese.",
+          "de": "In den größeren Resorts ja, auch wenn die Öffnungszeiten außerhalb der Hochsaison kürzer sein können. Wir vermerken den Club-Status bei jedem Hotel, damit du nicht überrascht wirst.",
+          "es": "En los resorts más grandes sí, aunque los horarios pueden reducirse fuera de temporada alta. Indicamos el estado del club en cada hotel para que no te pille por sorpresa.",
+          "pt": "Nos resorts maiores sim, embora os horários possam encurtar fora da época alta. Indicamos o estado do clube em cada hotel para que não seja apanhado de surpresa."
+        }
+      }
+    ]
+  },
+  "best-2026": {
+    "title": {
+      "it": "I migliori hotel per famiglie in Europa per il 2026",
+      "de": "Die besten Familienhotels Europas für 2026",
+      "es": "Los mejores hoteles para familias de Europa en 2026",
+      "pt": "Os melhores hotéis para famílias na Europa em 2026"
+    },
+    "dek": {
+      "it": "I nostri KidProof Score più alti dell'anno, classificati sulle otto cose che possono fare o rovinare un viaggio con i bambini.",
+      "de": "Unsere höchsten KidProof Scores des Jahres, sortiert nach den acht Dingen, die eine Reise mit Kindern gelingen oder scheitern lassen.",
+      "es": "Nuestras KidProof Scores más altas del año, clasificadas según las ocho cosas que hacen o deshacen un viaje con niños.",
+      "pt": "As nossas KidProof Scores mais altas do ano, classificadas pelas oito coisas que fazem ou estragam uma viagem com crianças."
+    },
+    "intro": {
+      "it": "Sono gli hotel con il punteggio più alto di tutta la nostra lista: sistemazione delle camere, kit per neonati, piscine, ristorazione, sicurezza, logistica, posizione e i piccoli dettagli. Non i più scenografici, ma quelli che funzionano davvero con i bambini. Se quest'anno guardi una sola selezione, che sia questa.",
+      "de": "Das sind die Hotels, die auf unserer gesamten Liste am höchsten abgeschnitten haben: Zimmerausstattung, Baby-Ausstattung, Pools, Gastronomie, Sicherheit, Logistik, Lage und die kleinen Extras. Nicht die auffälligsten, sondern die, die mit Kindern wirklich funktionieren. Wenn du dieses Jahr nur eine Auswahl anschaust, dann diese.",
+      "es": "Son los hoteles con la puntuación más alta de toda nuestra lista: configuración de las habitaciones, equipamiento para bebés, piscinas, restauración, seguridad, logística, ubicación y los pequeños detalles. No los más llamativos, sino los que funcionan de verdad con niños. Si este año solo miras una selección, que sea esta.",
+      "pt": "São os hotéis com a pontuação mais alta de toda a nossa lista: configuração dos quartos, kit para bebés, piscinas, restauração, segurança, logística, localização e os pequenos pormenores. Não os mais espetaculares, mas os que funcionam mesmo com crianças. Se este ano vir apenas uma seleção, que seja esta."
+    },
+    "faqs": [
+      {
+        "q": {
+          "it": "Come sono classificati gli hotel?",
+          "de": "Wie werden die Hotels eingestuft?",
+          "es": "¿Cómo se clasifican los hoteles?",
+          "pt": "Como são classificados os hotéis?"
+        },
+        "a": {
+          "it": "In base al loro KidProof Score, la nostra valutazione ponderata su otto criteri familiari, in cui la configurazione delle camere pesa di più. È una nostra valutazione editoriale, non un posizionamento a pagamento.",
+          "de": "Nach ihrem KidProof Score, unserer gewichteten Bewertung über acht Familienkriterien, bei der die Zimmerkonfiguration am stärksten zählt. Es ist unsere eigene redaktionelle Einschätzung, keine bezahlte Platzierung.",
+          "es": "Según su KidProof Score, nuestra valoración ponderada sobre ocho criterios familiares, en la que la configuración de la habitación tiene el mayor peso. Es nuestra propia evaluación editorial, no un posicionamiento pagado.",
+          "pt": "Pela sua KidProof Score, a nossa avaliação ponderada sobre oito critérios familiares, em que a configuração do quarto tem o maior peso. É a nossa própria avaliação editorial, não um posicionamento pago."
+        }
+      }
+    ]
+  },
+  "water-park": {
+    "title": {
+      "it": "Vacanze per famiglie con parco acquatico",
+      "de": "Familienurlaub mit Wasserpark",
+      "es": "Vacaciones en familia con parque acuático",
+      "pt": "Férias em família com parque aquático"
+    },
+    "dek": {
+      "it": "Nell'età degli scivoli, la piscina è tutta la vacanza. I resort costruiti attorno a scivoli, zone spray e fiumi lenti.",
+      "de": "Im Rutschen-Alter ist der Pool der ganze Urlaub. Die Resorts, die rund um Rutschen, Spritzzonen und Strömungskanäle gebaut sind.",
+      "es": "En la edad de los toboganes, la piscina es toda la vacación. Los resorts construidos en torno a toboganes, zonas de chapoteo y ríos lentos.",
+      "pt": "Na idade dos escorregas, a piscina são as férias inteiras. Os resorts construídos à volta de escorregas, zonas de jatos e rios lentos."
+    },
+    "intro": {
+      "it": "Certi bambini non vogliono la spiaggia, il museo o la gita in barca. Vogliono buttarsi dal grande scivolo, di nuovo. Questi resort hanno giochi d'acqua seri in loco: scivoli per ogni altezza, zone spray per i più piccoli e fiumi lenti, così una mattina di pioggia o un bambino che rifiuta la spiaggia non sono mai un problema. Valutiamo anche la parte bassa e i bagnini, non solo gli scivoloni.",
+      "de": "Manche Kinder wollen keinen Strand, kein Museum und keine Bootsfahrt. Sie wollen die große Rutsche runter, noch einmal. Diese Resorts bieten echten Wasserspaß vor Ort: Rutschen für jede Körpergröße, Spritzzonen für die Kleinsten und Strömungskanäle, sodass ein verregneter Vormittag oder ein Strand-Verweigerer nie ein Problem ist. Wir bewerten auch den flachen Bereich und die Bademeister, nicht nur die Rutschen.",
+      "es": "Algunos niños no quieren playa, ni museo, ni paseo en barco. Quieren tirarse por el tobogán grande, otra vez. Estos resorts tienen juegos de agua serios in situ: toboganes para cada altura, zonas de chapoteo para los más pequeños y ríos lentos, así que una mañana de lluvia o un niño que rechaza la playa nunca son un problema. También valoramos la zona poco profunda y los socorristas, no solo los toboganes.",
+      "pt": "Há crianças que não querem praia, nem museu, nem passeio de barco. Querem descer o escorrega grande, outra vez. Estes resorts têm brincadeiras aquáticas a sério no local: escorregas para cada altura, zonas de jatos para os mais pequenos e rios lentos, por isso uma manhã de chuva ou uma criança que recusa a praia nunca são um problema. Avaliamos também a zona rasa e os nadadores-salvadores, não só os escorregas."
+    },
+    "faqs": [
+      {
+        "q": {
+          "it": "I parchi acquatici sono adatti ai più piccoli?",
+          "de": "Sind die Wasserparks für Kleinkinder geeignet?",
+          "es": "¿Los parques acuáticos son adecuados para los más pequeños?",
+          "pt": "Os parques aquáticos são adequados para os mais pequenos?"
+        },
+        "a": {
+          "it": "I resort migliori hanno una zona spray dedicata ai più piccoli, con acqua bassa e getti delicati, separata dai grandi scivoli. Segnaliamo quali la offrono.",
+          "de": "Die besten Resorts haben eine separate Spritzzone für Kleinkinder mit flachem Wasser und sanften Fontänen, getrennt von den großen Rutschen. Wir kennzeichnen, welche eine haben.",
+          "es": "Los mejores resorts tienen una zona de chapoteo separada para los más pequeños, con agua poco profunda y chorros suaves, aparte de los toboganes grandes. Señalamos cuáles la tienen.",
+          "pt": "Os melhores resorts têm uma zona de jatos separada para os mais pequenos, com água rasa e esguichos suaves, à parte dos escorregas grandes. Assinalamos quais têm uma."
+        }
+      }
+    ]
+  },
+  "all-inclusive": {
+    "title": {
+      "it": "Resort per famiglie all-inclusive",
+      "de": "All-inclusive-Familienresorts",
+      "es": "Resorts familiares con todo incluido",
+      "pt": "Resorts para famílias com tudo incluído"
+    },
+    "dek": {
+      "it": "Pasti, bevande, miniclub gratuito e animazione serale in un unico conto. Dove l'all-inclusive conviene davvero con i bambini.",
+      "de": "Mahlzeiten, Getränke, ein kostenloser Kinderclub und Abendunterhaltung auf einer Rechnung. Wo sich all-inclusive mit Kindern wirklich lohnt.",
+      "es": "Comidas, bebidas, club infantil gratuito y animación nocturna en una sola cuenta. Dónde el todo incluido de verdad merece la pena con niños.",
+      "pt": "Refeições, bebidas, clube infantil gratuito e animação noturna numa só conta. Onde o tudo incluído compensa mesmo com crianças."
+    },
+    "intro": {
+      "it": "L'all-inclusive dà il meglio di sé con una famiglia: niente conti su ogni gelato, e un miniclub gratuito che regala agli adulti una vera serata. Questi resort lo fanno bene, con un miniclub davvero aperto tutto il giorno, un buffet per famiglie con turno anticipato e piscine a sufficienza perché nessuno litighi per un lettino. Segnaliamo quelli in cui il miniclub è davvero gratuito e non un extra a pagamento.",
+      "de": "All-inclusive spielt seine Stärken bei einer Familie voll aus: kein Nachrechnen bei jedem Eis und ein kostenloser Kinderclub, der den Erwachsenen einen echten Abend schenkt. Diese Resorts machen es richtig, mit einem echten Ganztagsclub, einem Familienbuffet mit früher Sitzung und genug Pools, damit sich niemand um eine Liege streitet. Wir kennzeichnen die, bei denen der Club wirklich kostenlos ist und kein kostenpflichtiges Extra.",
+      "es": "El todo incluido brilla con una familia: sin sumar el coste de cada helado y con un club infantil gratuito que le regala a los adultos una velada de verdad. Estos resorts lo hacen bien, con un club abierto todo el día en serio, un bufé familiar con turno temprano y piscinas suficientes para que nadie pelee por una hamaca. Señalamos aquellos en los que el club es realmente gratuito y no un extra de pago.",
+      "pt": "O tudo incluído dá o seu melhor com uma família: sem contas a cada gelado, e um clube infantil gratuito que oferece aos adultos um verdadeiro serão. Estes resorts fazem-no bem, com um clube a sério aberto o dia todo, um buffet para famílias com turno mais cedo e piscinas que cheguem para ninguém disputar uma espreguiçadeira. Assinalamos aqueles em que o clube é mesmo gratuito e não um extra pago."
+    },
+    "faqs": [
+      {
+        "q": {
+          "it": "Il miniclub è davvero incluso?",
+          "de": "Ist der Kinderclub wirklich inklusive?",
+          "es": "¿El club infantil está realmente incluido?",
+          "pt": "O clube infantil está mesmo incluído?"
+        },
+        "a": {
+          "it": "Non sempre, nemmeno nei resort all-inclusive. Alcuni lo fanno pagare 50-100 euro al giorno. Ogni hotel qui ha un miniclub davvero gratuito, e lo diciamo chiaramente.",
+          "de": "Nicht immer, selbst in all-inclusive-Resorts. Manche verlangen 50 bis 100 Euro pro Tag dafür. Jedes Hotel hier hat einen wirklich kostenlosen Club, und wir sagen das deutlich.",
+          "es": "No siempre, ni siquiera en los resorts con todo incluido. Algunos cobran 50 a 100 euros al día por él. Cada hotel de aquí tiene un club realmente gratuito, y así lo indicamos.",
+          "pt": "Nem sempre, mesmo nos resorts com tudo incluído. Alguns cobram 50 a 100 euros por dia por ele. Todos os hotéis aqui têm um clube mesmo gratuito, e dizemo-lo claramente."
+        }
+      }
+    ]
+  }
+}

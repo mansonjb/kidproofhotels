@@ -2,6 +2,7 @@ import type { ImgKey } from "@/lib/images";
 import type { AmenityId } from "@/data/amenities";
 import type { Faq, L10n } from "@/lib/types";
 import { backfillDeep, src } from "@/lib/l10n";
+import collectionOverrides from "@/data/collection-overrides.json";
 
 // High-intent, timely landing pages that curate our scored hotels across
 // destinations: "winter sun family holidays", "October half term", "best family
@@ -194,5 +195,23 @@ export const COLLECTIONS: Collection[] = src([
 // Collections are authored in en/fr only; fill it/de/es/pt with English so the
 // localized pages render real copy (and never an undefined title/description).
 backfillDeep(COLLECTIONS);
+
+// Real it/de/es/pt translations, layered over the English backfill above so
+// localised copy replaces the English fallback (title, dek, intro, timing, faqs).
+for (const c of COLLECTIONS) {
+  const o = (collectionOverrides as Record<string, any>)[c.key];
+  if (!o) continue;
+  for (const field of ["title", "dek", "intro", "timing"] as const) {
+    if (o[field]) Object.assign(((c as unknown as Record<string, Record<string, string>>)[field] ??= {}), o[field]);
+  }
+  if (Array.isArray(o.faqs)) {
+    o.faqs.forEach((of: { q?: Record<string, string>; a?: Record<string, string> }, i: number) => {
+      const cf = c.faqs?.[i];
+      if (!cf) return;
+      if (of.q) Object.assign(cf.q, of.q);
+      if (of.a) Object.assign(cf.a, of.a);
+    });
+  }
+}
 
 export const COLLECTION_BY_KEY = new Map(COLLECTIONS.map((c) => [c.key, c]));
