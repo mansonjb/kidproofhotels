@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META, COSTA_ALMERIA_META, PUNTA_CANA_META, FRENCH_ALPS_META, MAR_MENOR_META, NAXOS_PAROS_META, COSTA_NAVARINO_META, MARSA_ALAM_META, HAMMAMET_META, RIVIERA_MAYA_META, KEFALONIA_META, RIMINI_META, BELEK_META, SIDE_META, ABU_DHABI_META, DISNEYLAND_PARIS_META, ALULA_META, JEDDAH_META, MALDIVES_META, SEYCHELLES_META, PHUKET_META, BALI_META, ZANZIBAR_META, RAS_AL_KHAIMAH_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META, COSTA_ALMERIA_META, PUNTA_CANA_META, FRENCH_ALPS_META, MAR_MENOR_META, NAXOS_PAROS_META, COSTA_NAVARINO_META, MARSA_ALAM_META, HAMMAMET_META, RIVIERA_MAYA_META, KEFALONIA_META, RIMINI_META, BELEK_META, SIDE_META, CANCUN_META, ABU_DHABI_META, DISNEYLAND_PARIS_META, ALULA_META, JEDDAH_META, MALDIVES_META, SEYCHELLES_META, PHUKET_META, BALI_META, ZANZIBAR_META, RAS_AL_KHAIMAH_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -110,6 +110,7 @@ const KEF = (KEFALONIA_META ?? {}) as any;
 const RIM = (RIMINI_META ?? {}) as any;
 const BLK = (BELEK_META ?? {}) as any;
 const SIDE = (SIDE_META ?? {}) as any;
+const CANCUN = (CANCUN_META ?? {}) as any;
 const AUH = (ABU_DHABI_META ?? {}) as any;
 const DLP = (DISNEYLAND_PARIS_META ?? {}) as any;
 const ALU = (ALULA_META ?? {}) as any;
@@ -2185,6 +2186,31 @@ export const DESTINATIONS: Destination[] = src([
     faqs: SIDE.faqs,
     parentTip: SIDE.parentTip,
     goodToKnow: SIDE.goodToKnow,
+  },
+  {
+    key: "cancun",
+    name: CANCUN.name ?? { en: "Cancún", fr: "Cancún" },
+    country: CANCUN.country ?? { en: "Mexico", fr: "Mexique" },
+    inPhrase: { en: "in Cancún", fr: "à Cancún" },
+    slug: { en: "family-hotels-cancun", fr: "hotels-famille-cancun" },
+    geo: CANCUN.geo ?? { lat: 21.13, lng: -86.75, zoom: 11 },
+    heroKicker: CANCUN.heroKicker ?? {
+      en: "All-inclusive Caribbean resorts with aquaparks, kids clubs and white-sand beaches",
+      fr: "Des resorts all-inclusive des Caraïbes avec aquaparcs, clubs enfants et plages de sable blanc",
+    },
+    intro: CANCUN.intro ?? { en: "", fr: "" },
+    whyKids: CANCUN.whyKids ?? { en: [], fr: [] },
+    bestAreas: CANCUN.bestAreas ?? { en: [], fr: [] },
+    emoji: CANCUN.emoji ?? "🐬",
+    accent: CANCUN.accent ?? "14b8a6",
+    hotelKeys: [],
+    related: ["riviera-maya", "punta-cana", "guide-allinclusive-europe", "guide-waterslide-hotels"],
+    photos: CANCUN.photos,
+    stats: CANCUN.stats,
+    activities: CANCUN.activities,
+    faqs: CANCUN.faqs,
+    parentTip: CANCUN.parentTip,
+    goodToKnow: CANCUN.goodToKnow,
   },
   {
     key: "abu-dhabi",
