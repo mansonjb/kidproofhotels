@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META, COSTA_ALMERIA_META, PUNTA_CANA_META, FRENCH_ALPS_META, MAR_MENOR_META, NAXOS_PAROS_META, COSTA_NAVARINO_META, MARSA_ALAM_META, HAMMAMET_META, RIVIERA_MAYA_META, KEFALONIA_META, RIMINI_META, BELEK_META, SIDE_META, CANCUN_META, ABU_DHABI_META, DISNEYLAND_PARIS_META, ALULA_META, JEDDAH_META, MALDIVES_META, SEYCHELLES_META, PHUKET_META, BALI_META, ZANZIBAR_META, RAS_AL_KHAIMAH_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META, COSTA_ALMERIA_META, PUNTA_CANA_META, FRENCH_ALPS_META, MAR_MENOR_META, NAXOS_PAROS_META, COSTA_NAVARINO_META, MARSA_ALAM_META, HAMMAMET_META, RIVIERA_MAYA_META, KEFALONIA_META, RIMINI_META, BELEK_META, SIDE_META, CANCUN_META, CORSICA_META, ABU_DHABI_META, DISNEYLAND_PARIS_META, ALULA_META, JEDDAH_META, MALDIVES_META, SEYCHELLES_META, PHUKET_META, BALI_META, ZANZIBAR_META, RAS_AL_KHAIMAH_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -111,6 +111,7 @@ const RIM = (RIMINI_META ?? {}) as any;
 const BLK = (BELEK_META ?? {}) as any;
 const SIDE = (SIDE_META ?? {}) as any;
 const CANCUN = (CANCUN_META ?? {}) as any;
+const CORSICA = (CORSICA_META ?? {}) as any;
 const AUH = (ABU_DHABI_META ?? {}) as any;
 const DLP = (DISNEYLAND_PARIS_META ?? {}) as any;
 const ALU = (ALULA_META ?? {}) as any;
@@ -2211,6 +2212,31 @@ export const DESTINATIONS: Destination[] = src([
     faqs: CANCUN.faqs,
     parentTip: CANCUN.parentTip,
     goodToKnow: CANCUN.goodToKnow,
+  },
+  {
+    key: "corsica",
+    name: CORSICA.name ?? { en: "Corsica", fr: "Corse" },
+    country: CORSICA.country ?? { en: "France", fr: "France" },
+    inPhrase: { en: "in Corsica", fr: "en Corse" },
+    slug: { en: "family-hotels-corsica", fr: "hotels-famille-corse" },
+    geo: CORSICA.geo ?? { lat: 42.15, lng: 9.05, zoom: 8 },
+    heroKicker: CORSICA.heroKicker ?? {
+      en: "Family club-hotels and beach resorts on turquoise Mediterranean bays",
+      fr: "Clubs famille et hôtels de bord de mer sur les baies turquoise de Méditerranée",
+    },
+    intro: CORSICA.intro ?? { en: "", fr: "" },
+    whyKids: CORSICA.whyKids ?? { en: [], fr: [] },
+    bestAreas: CORSICA.bestAreas ?? { en: [], fr: [] },
+    emoji: CORSICA.emoji ?? "🏝️",
+    accent: CORSICA.accent ?? "1f8a8a",
+    hotelKeys: [],
+    related: ["sardinia", "french-riviera", "costa-brava", "guide-waterslide-hotels"],
+    photos: CORSICA.photos,
+    stats: CORSICA.stats,
+    activities: CORSICA.activities,
+    faqs: CORSICA.faqs,
+    parentTip: CORSICA.parentTip,
+    goodToKnow: CORSICA.goodToKnow,
   },
   {
     key: "abu-dhabi",
