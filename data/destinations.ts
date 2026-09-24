@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META, COSTA_ALMERIA_META, PUNTA_CANA_META, FRENCH_ALPS_META, MAR_MENOR_META, NAXOS_PAROS_META, COSTA_NAVARINO_META, MARSA_ALAM_META, HAMMAMET_META, RIVIERA_MAYA_META, KEFALONIA_META, RIMINI_META, BELEK_META, SIDE_META, CANCUN_META, CORSICA_META, ABU_DHABI_META, DISNEYLAND_PARIS_META, ALULA_META, JEDDAH_META, MALDIVES_META, SEYCHELLES_META, PHUKET_META, BALI_META, ZANZIBAR_META, RAS_AL_KHAIMAH_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META, COSTA_ALMERIA_META, PUNTA_CANA_META, FRENCH_ALPS_META, MAR_MENOR_META, NAXOS_PAROS_META, COSTA_NAVARINO_META, MARSA_ALAM_META, HAMMAMET_META, RIVIERA_MAYA_META, KEFALONIA_META, RIMINI_META, BELEK_META, SIDE_META, CANCUN_META, CORSICA_META, ORLANDO_META, ABU_DHABI_META, DISNEYLAND_PARIS_META, ALULA_META, JEDDAH_META, MALDIVES_META, SEYCHELLES_META, PHUKET_META, BALI_META, ZANZIBAR_META, RAS_AL_KHAIMAH_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -112,6 +112,7 @@ const BLK = (BELEK_META ?? {}) as any;
 const SIDE = (SIDE_META ?? {}) as any;
 const CANCUN = (CANCUN_META ?? {}) as any;
 const CORSICA = (CORSICA_META ?? {}) as any;
+const ORLANDO = (ORLANDO_META ?? {}) as any;
 const AUH = (ABU_DHABI_META ?? {}) as any;
 const DLP = (DISNEYLAND_PARIS_META ?? {}) as any;
 const ALU = (ALULA_META ?? {}) as any;
@@ -2237,6 +2238,31 @@ export const DESTINATIONS: Destination[] = src([
     faqs: CORSICA.faqs,
     parentTip: CORSICA.parentTip,
     goodToKnow: CORSICA.goodToKnow,
+  },
+  {
+    key: "orlando",
+    name: ORLANDO.name ?? { en: "Orlando", fr: "Orlando" },
+    country: ORLANDO.country ?? { en: "United States", fr: "États-Unis" },
+    inPhrase: { en: "in Orlando", fr: "à Orlando" },
+    slug: { en: "family-hotels-orlando", fr: "hotels-famille-orlando" },
+    geo: ORLANDO.geo ?? { lat: 28.4, lng: -81.52, zoom: 10 },
+    heroKicker: ORLANDO.heroKicker ?? {
+      en: "Theme-park family resorts near Walt Disney World and Universal, with pools, water play and park shuttles",
+      fr: "Resorts famille près de Walt Disney World et Universal, avec piscines, jeux d'eau et navettes vers les parcs",
+    },
+    intro: ORLANDO.intro ?? { en: "", fr: "" },
+    whyKids: ORLANDO.whyKids ?? { en: [], fr: [] },
+    bestAreas: ORLANDO.bestAreas ?? { en: [], fr: [] },
+    emoji: ORLANDO.emoji ?? "🎢",
+    accent: ORLANDO.accent ?? "e0348b",
+    hotelKeys: [],
+    related: ["disneyland-paris", "cancun", "riviera-maya", "guide-waterslide-hotels"],
+    photos: ORLANDO.photos,
+    stats: ORLANDO.stats,
+    activities: ORLANDO.activities,
+    faqs: ORLANDO.faqs,
+    parentTip: ORLANDO.parentTip,
+    goodToKnow: ORLANDO.goodToKnow,
   },
   {
     key: "abu-dhabi",
