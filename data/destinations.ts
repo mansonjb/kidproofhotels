@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META, COSTA_ALMERIA_META, PUNTA_CANA_META, FRENCH_ALPS_META, MAR_MENOR_META, NAXOS_PAROS_META, COSTA_NAVARINO_META, MARSA_ALAM_META, HAMMAMET_META, RIVIERA_MAYA_META, KEFALONIA_META, RIMINI_META, BELEK_META, SIDE_META, CANCUN_META, CORSICA_META, ORLANDO_META, ABU_DHABI_META, DISNEYLAND_PARIS_META, ALULA_META, JEDDAH_META, MALDIVES_META, SEYCHELLES_META, PHUKET_META, BALI_META, ZANZIBAR_META, RAS_AL_KHAIMAH_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META, COSTA_ALMERIA_META, PUNTA_CANA_META, FRENCH_ALPS_META, MAR_MENOR_META, NAXOS_PAROS_META, COSTA_NAVARINO_META, MARSA_ALAM_META, HAMMAMET_META, RIVIERA_MAYA_META, KEFALONIA_META, RIMINI_META, BELEK_META, SIDE_META, CANCUN_META, CORSICA_META, ORLANDO_META, THASSOS_META, ABU_DHABI_META, DISNEYLAND_PARIS_META, ALULA_META, JEDDAH_META, MALDIVES_META, SEYCHELLES_META, PHUKET_META, BALI_META, ZANZIBAR_META, RAS_AL_KHAIMAH_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -113,6 +113,7 @@ const SIDE = (SIDE_META ?? {}) as any;
 const CANCUN = (CANCUN_META ?? {}) as any;
 const CORSICA = (CORSICA_META ?? {}) as any;
 const ORLANDO = (ORLANDO_META ?? {}) as any;
+const THASSOS = (THASSOS_META ?? {}) as any;
 const AUH = (ABU_DHABI_META ?? {}) as any;
 const DLP = (DISNEYLAND_PARIS_META ?? {}) as any;
 const ALU = (ALULA_META ?? {}) as any;
@@ -2263,6 +2264,31 @@ export const DESTINATIONS: Destination[] = src([
     faqs: ORLANDO.faqs,
     parentTip: ORLANDO.parentTip,
     goodToKnow: ORLANDO.goodToKnow,
+  },
+  {
+    key: "thassos",
+    name: THASSOS.name ?? { en: "Thassos", fr: "Thassos" },
+    country: THASSOS.country ?? { en: "Greece", fr: "Grèce" },
+    inPhrase: { en: "in Thassos", fr: "à Thassos" },
+    slug: { en: "family-hotels-thassos", fr: "hotels-famille-thassos" },
+    geo: THASSOS.geo ?? { lat: 40.68, lng: 24.65, zoom: 11 },
+    heroKicker: THASSOS.heroKicker ?? {
+      en: "A green pine-and-olive island with calm shallow beaches, loved by families",
+      fr: "Une île verte de pins et d'oliviers, aux plages calmes et peu profondes, adorée des familles",
+    },
+    intro: THASSOS.intro ?? { en: "", fr: "" },
+    whyKids: THASSOS.whyKids ?? { en: [], fr: [] },
+    bestAreas: THASSOS.bestAreas ?? { en: [], fr: [] },
+    emoji: THASSOS.emoji ?? "🌲",
+    accent: THASSOS.accent ?? "1d6fd6",
+    hotelKeys: [],
+    related: ["halkidiki", "corfu", "kefalonia", "guide-waterslide-hotels"],
+    photos: THASSOS.photos,
+    stats: THASSOS.stats,
+    activities: THASSOS.activities,
+    faqs: THASSOS.faqs,
+    parentTip: THASSOS.parentTip,
+    goodToKnow: THASSOS.goodToKnow,
   },
   {
     key: "abu-dhabi",
