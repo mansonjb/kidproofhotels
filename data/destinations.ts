@@ -1,6 +1,6 @@
 import type { Destination } from "@/lib/types";
 import { DEST_CONTENT } from "@/data/destination-content";
-import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META, COSTA_ALMERIA_META, PUNTA_CANA_META, FRENCH_ALPS_META, MAR_MENOR_META, NAXOS_PAROS_META, COSTA_NAVARINO_META, MARSA_ALAM_META, HAMMAMET_META, RIVIERA_MAYA_META, KEFALONIA_META, RIMINI_META, BELEK_META, SIDE_META, CANCUN_META, CORSICA_META, ORLANDO_META, THASSOS_META, ABU_DHABI_META, DISNEYLAND_PARIS_META, ALULA_META, JEDDAH_META, MALDIVES_META, SEYCHELLES_META, PHUKET_META, BALI_META, ZANZIBAR_META, RAS_AL_KHAIMAH_META } from "@/data/hotels/load";
+import { MALLORCA_META, TENERIFE_META, CRETE_META, ANTALYA_META, SARDINIA_META, COSTA_BLANCA_META, RHODES_META, GRAN_CANARIA_META, CYPRUS_META, SICILY_META, CORFU_META, FUERTEVENTURA_META, BARCELONA_META, LANZAROTE_META, MENORCA_META, KOS_META, VALENCIA_META, MALTA_META, ZAKYNTHOS_META, MADEIRA_META, COSTA_DORADA_META, SEVILLE_META, HALKIDIKI_META, PUGLIA_META, HURGHADA_META, SOUSSE_META, SHARM_META, BODRUM_META, SAL_META, REUNION_META, SAINT_MARTIN_META, DUBAI_META, MARTINIQUE_META, GUADELOUPE_META, IBIZA_META, LA_PALMA_META, AGADIR_META, LAKE_GARDA_META, FRENCH_RIVIERA_META, COSTA_BRAVA_META, DJERBA_META, MARRAKECH_META, COSTA_LUZ_META, MAURITIUS_META, ISTRIA_META, COSTA_ALMERIA_META, PUNTA_CANA_META, FRENCH_ALPS_META, MAR_MENOR_META, NAXOS_PAROS_META, COSTA_NAVARINO_META, MARSA_ALAM_META, HAMMAMET_META, RIVIERA_MAYA_META, KEFALONIA_META, RIMINI_META, BELEK_META, SIDE_META, CANCUN_META, CORSICA_META, ORLANDO_META, THASSOS_META, FETHIYE_META, ABU_DHABI_META, DISNEYLAND_PARIS_META, ALULA_META, JEDDAH_META, MALDIVES_META, SEYCHELLES_META, PHUKET_META, BALI_META, ZANZIBAR_META, RAS_AL_KHAIMAH_META } from "@/data/hotels/load";
 import { hotelsInDestination } from "@/data/hotels";
 import { backfillDeep, src } from "@/lib/l10n";
 
@@ -114,6 +114,7 @@ const CANCUN = (CANCUN_META ?? {}) as any;
 const CORSICA = (CORSICA_META ?? {}) as any;
 const ORLANDO = (ORLANDO_META ?? {}) as any;
 const THASSOS = (THASSOS_META ?? {}) as any;
+const FETHIYE = (FETHIYE_META ?? {}) as any;
 const AUH = (ABU_DHABI_META ?? {}) as any;
 const DLP = (DISNEYLAND_PARIS_META ?? {}) as any;
 const ALU = (ALULA_META ?? {}) as any;
@@ -2289,6 +2290,31 @@ export const DESTINATIONS: Destination[] = src([
     faqs: THASSOS.faqs,
     parentTip: THASSOS.parentTip,
     goodToKnow: THASSOS.goodToKnow,
+  },
+  {
+    key: "fethiye",
+    name: FETHIYE.name ?? { en: "Fethiye", fr: "Fethiye" },
+    country: FETHIYE.country ?? { en: "Turkey", fr: "Turquie" },
+    inPhrase: { en: "in Fethiye", fr: "à Fethiye" },
+    slug: { en: "family-hotels-fethiye", fr: "hotels-famille-fethiye" },
+    geo: FETHIYE.geo ?? { lat: 36.62, lng: 29.12, zoom: 10 },
+    heroKicker: FETHIYE.heroKicker ?? {
+      en: "The Turquoise Coast: big all-inclusive resorts, aquaparks and the Blue Lagoon, made for families",
+      fr: "La côte turquoise : grands complexes tout compris, parcs aquatiques et le Blue Lagoon, pensés pour les familles",
+    },
+    intro: FETHIYE.intro ?? { en: "", fr: "" },
+    whyKids: FETHIYE.whyKids ?? { en: [], fr: [] },
+    bestAreas: FETHIYE.bestAreas ?? { en: [], fr: [] },
+    emoji: FETHIYE.emoji ?? "⛵",
+    accent: FETHIYE.accent ?? "c2410c",
+    hotelKeys: [],
+    related: ["belek", "side", "bodrum", "guide-waterslide-hotels"],
+    photos: FETHIYE.photos,
+    stats: FETHIYE.stats,
+    activities: FETHIYE.activities,
+    faqs: FETHIYE.faqs,
+    parentTip: FETHIYE.parentTip,
+    goodToKnow: FETHIYE.goodToKnow,
   },
   {
     key: "abu-dhabi",
